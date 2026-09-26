@@ -1,0 +1,119 @@
+{
+  "sections": [
+    {
+      "heading": "Ir (to go)",
+      "body": "*Ir* is completely irregular — and one of the most used verbs in Spanish. It's always followed by *a* before a place: *Voy a la escuela. ¿Adónde vas?* (Where are you going?)",
+      "table": {
+        "head": ["Pronoun", "ir"],
+        "rows": [
+          ["*yo*", "*voy*"],
+          ["*tú*", "*vas*"],
+          ["*él / ella / usted*", "*va*"],
+          ["*nosotros / nosotras*", "*vamos*"],
+          ["*ustedes / ellos / ellas*", "*van*"]
+        ]
+      }
+    },
+    {
+      "heading": "Verbs irregular only in the yo form",
+      "body": "Several important verbs are regular except for *yo*:",
+      "table": {
+        "head": ["Verb", "yo", "Other forms"],
+        "rows": [
+          ["*hacer* (to do / make)", "*hago*", "*haces, hace, hacemos, hacen*"],
+          ["*poner* (to put)", "*pongo*", "*pones, pone, ponemos, ponen*"],
+          ["*salir* (to go out / leave)", "*salgo*", "*sales, sale, salimos, salen*"],
+          ["*traer* (to bring)", "*traigo*", "*traes, trae, traemos, traen*"],
+          ["*ver* (to see / watch)", "*veo*", "*ves, ve, vemos, ven*"],
+          ["*saber* (to know facts)", "*sé*", "*sabes, sabe, sabemos, saben*"],
+          ["*conocer* (to know people/places)", "*conozco*", "*conoces, conoce, conocemos, conocen*"],
+          ["*dar* (to give)", "*doy*", "*das, da, damos, dan*"]
+        ]
+      }
+    },
+    {
+      "heading": "Tener, venir, decir",
+      "body": "These combine an irregular *yo* with a stem change: *tener* → *tengo, tienes, tiene, tenemos, tienen*; *venir* (to come) → *vengo, vienes, viene, venimos, vienen*; *decir* (to say) → *digo, dices, dice, decimos, dicen*."
+    },
+    {
+      "heading": "Saber or conocer?",
+      "body": "Both mean \"to know\":\n\n- *Saber*: facts and information, and knowing **how to** do something: *Sé la respuesta.* (I know the answer.) *¿Sabes nadar?* (Can you swim? / Do you know how to swim?)\n- *Conocer*: being familiar with a person, place or thing: *Conozco a tu hermano.* (I know your brother.) *¿Conoces Bogotá?* (Have you been to Bogotá?)\n\nWhen the object of a verb is a specific person, Spanish puts *a* before it: *Conozco a Laura. Veo a mi abuela.*"
+    }
+  ],
+  "vocab": [
+    ["ir", "to go"],
+    ["¿Adónde?", "where (to)?"],
+    ["hacer", "to do / to make"],
+    ["poner", "to put"],
+    ["salir", "to go out / to leave"],
+    ["traer", "to bring"],
+    ["ver", "to see / to watch"],
+    ["saber", "to know (facts, how to)"],
+    ["conocer", "to know (people, places)"],
+    ["dar", "to give"],
+    ["venir", "to come"],
+    ["decir", "to say / to tell"],
+    ["nadar", "to swim"],
+    ["la respuesta", "the answer"],
+    ["la verdad", "the truth"],
+    ["la tarea", "the homework"],
+    ["la fiesta", "the party"]
+  ],
+  "examples": [
+    ["Voy a la escuela.", "I'm going to school."],
+    ["¿Adónde vas?", "Where are you going?"],
+    ["Vamos al parque.", "We're going to the park."],
+    ["Mis padres van al supermercado.", "My parents go to the supermarket."],
+    ["Hago la tarea por la tarde.", "I do my homework in the afternoon."],
+    ["¿Qué haces?", "What are you doing?"],
+    ["Salgo de casa a las ocho.", "I leave home at eight."],
+    ["Los viernes salimos con amigos.", "On Fridays we go out with friends."],
+    ["Pongo los libros en la mesa.", "I put the books on the table."],
+    ["Traigo el pan.", "I'm bringing the bread."],
+    ["Veo la televisión.", "I watch TV."],
+    ["No sé.", "I don't know."],
+    ["Sé la respuesta.", "I know the answer."],
+    ["¿Sabes nadar?", "Can you swim?"],
+    ["Conozco a tu hermano.", "I know your brother."],
+    ["¿Conoces Bogotá?", "Do you know Bogotá? (Have you been?)"],
+    ["Vengo de la oficina.", "I'm coming from the office."],
+    ["¿Vienes a la fiesta?", "Are you coming to the party?"],
+    ["Digo la verdad.", "I'm telling the truth."],
+    ["Te doy mi número.", "I'll give you my number."],
+    ["Veo a mi abuela los domingos.", "I see my grandmother on Sundays."],
+    ["Ella dice que sí.", "She says yes."],
+    ["¿Qué dices?", "What are you saying?"],
+    ["Hacemos la cena.", "We make dinner."],
+    ["Ustedes vienen mañana.", "You all come tomorrow."],
+    ["Ellos saben la verdad.", "They know the truth."],
+    ["Conocemos la ciudad.", "We know the city."],
+    ["Él va a la oficina.", "He goes to the office."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ a la escuela. (ir)", "answers": ["voy"], "hint": "I go to school."},
+    {"type": "fill", "prompt": "¿Adónde ___ tú? (ir)", "answers": ["vas"], "hint": "Where are you going?"},
+    {"type": "fill", "prompt": "Nosotros ___ al parque. (ir)", "answers": ["vamos"], "hint": "We're going to the park."},
+    {"type": "fill", "prompt": "Yo ___ la tarea por la tarde. (hacer)", "answers": ["hago"], "hint": "I do my homework in the afternoon."},
+    {"type": "fill", "prompt": "Yo ___ de casa a las ocho. (salir)", "answers": ["salgo"], "hint": "I leave home at eight."},
+    {"type": "fill", "prompt": "Yo ___ los libros en la mesa. (poner)", "answers": ["pongo"], "hint": "I put the books on the table."},
+    {"type": "fill", "prompt": "No ___. (saber)", "answers": ["sé"], "hint": "I don't know."},
+    {"type": "fill", "prompt": "Yo ___ a tu hermano. (conocer)", "answers": ["conozco"], "hint": "I know your brother."},
+    {"type": "fill", "prompt": "¿___ a la fiesta? (venir, tú)", "answers": ["vienes"], "hint": "Are you coming to the party?"},
+    {"type": "fill", "prompt": "Yo ___ la verdad. (decir)", "answers": ["digo"], "hint": "I'm telling the truth."},
+    {"type": "fill", "prompt": "Yo ___ el pan. (traer)", "answers": ["traigo"], "hint": "I'm bringing the bread."},
+    {"type": "fill", "prompt": "Veo ___ mi abuela los domingos.", "answers": ["a"], "hint": "I see my grandmother on Sundays."},
+    {"type": "mc", "prompt": "Choose: ¿___ nadar?", "options": ["Sabes", "Conoces"], "answer": 0, "lang": "es", "explain": "Knowing how to do something → *saber*."},
+    {"type": "mc", "prompt": "Choose: ¿___ Bogotá?", "options": ["Conoces", "Sabes"], "answer": 0, "lang": "es", "explain": "Being familiar with a place → *conocer*."},
+    {"type": "mc", "prompt": "Choose: ___ la respuesta.", "options": ["Sé", "Conozco"], "answer": 0, "lang": "es", "explain": "A fact → *saber*."},
+    {"type": "mc", "prompt": "Choose: ___ a Laura.", "options": ["Conozco", "Sé"], "answer": 0, "lang": "es", "explain": "A person → *conocer* (+ *a*)."},
+    {"type": "mc", "prompt": "Which is the *yo* form of *dar*?", "options": ["doy", "do", "dao", "dago"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is the *yo* form of *ver*?", "options": ["veo", "vo", "vego", "vio"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Where are you going? (informal)", "answers": ["¿Adónde vas?", "¿Adónde vas tú?", "¿A dónde vas?"]},
+    {"type": "translate", "prompt": "I don't know.", "answers": ["No sé.", "Yo no sé."]},
+    {"type": "translate", "prompt": "What are you doing? (informal)", "answers": ["¿Qué haces?", "¿Qué haces tú?"]},
+    {"type": "translate", "prompt": "I know your brother.", "answers": ["Conozco a tu hermano.", "Yo conozco a tu hermano."]},
+    {"type": "build", "prompt": "Put the words in order: \"On Fridays we go out with friends.\"", "answer": "Los viernes salimos con amigos."},
+    {"type": "build", "prompt": "Put the words in order: \"I'm coming from the office.\"", "answer": "Vengo de la oficina."},
+    {"type": "build", "prompt": "Put the words in order: \"She says yes.\"", "answer": "Ella dice que sí."}
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "sections": [
+    {
+      "heading": "Verbs that change their stem",
+      "body": "Many common verbs change a vowel in the stem when that syllable is stressed. The endings stay regular. The change happens in every form **except** *nosotros* — think of it as a \"boot\": the forms inside the boot change, *nosotros* stays outside.",
+      "table": {
+        "head": ["", "e → ie: querer (to want)", "o → ue: poder (can)", "e → i: pedir (to ask for)"],
+        "rows": [
+          ["*yo*", "*quiero*", "*puedo*", "*pido*"],
+          ["*tú*", "*quieres*", "*puedes*", "*pides*"],
+          ["*él / ella / usted*", "*quiere*", "*puede*", "*pide*"],
+          ["*nosotros*", "*queremos*", "*podemos*", "*pedimos*"],
+          ["*ustedes / ellos*", "*quieren*", "*pueden*", "*piden*"]
+        ]
+      }
+    },
+    {
+      "heading": "Common stem-changing verbs",
+      "body": "- **e → ie**: *querer* (to want), *pensar* (to think), *empezar* (to begin), *entender* (to understand), *preferir* (to prefer), *cerrar* (to close), *despertarse* (to wake up)\n- **o → ue**: *poder* (can, to be able to), *dormir* (to sleep), *volver* (to return), *encontrar* (to find), *costar* (to cost — that's why *cuesta*!), *almorzar* (to have lunch), *acostarse* (to go to bed)\n- **u → ue**: only *jugar* (to play a sport or game): *juego, juegas, juega, jugamos, juegan*\n- **e → i** (only -ir verbs): *pedir* (to ask for, order), *repetir* (to repeat), *servir* (to serve), *vestirse* (to get dressed)\n\nYou've already met some: *cuesta, cuestan, me despierto, me acuesto, me visto*."
+    },
+    {
+      "heading": "Verb + infinitive",
+      "body": "*Querer*, *poder*, *preferir* and *pensar* are often followed directly by an infinitive: *Quiero comer.* (I want to eat.) *¿Puedes repetir?* (Can you repeat?) *Prefiero caminar.* (I prefer to walk.) *Pienso estudiar.* (I'm planning to study.) *Empezar* needs *a*: *Empiezo a trabajar a las nueve.*"
+    }
+  ],
+  "vocab": [
+    ["querer", "to want / to love"],
+    ["pensar", "to think"],
+    ["empezar", "to begin"],
+    ["entender", "to understand"],
+    ["preferir", "to prefer"],
+    ["cerrar", "to close"],
+    ["poder", "to be able to / can"],
+    ["dormir", "to sleep"],
+    ["volver", "to return / come back"],
+    ["encontrar", "to find"],
+    ["jugar", "to play (a game, sport)"],
+    ["pedir", "to ask for / to order"],
+    ["repetir", "to repeat"],
+    ["servir", "to serve"],
+    ["el fútbol", "soccer"],
+    ["la película", "the movie"],
+    ["el tenis", "tennis"]
+  ],
+  "examples": [
+    ["Quiero un café, por favor.", "I want a coffee, please."],
+    ["¿Puedes repetir, por favor?", "Can you repeat, please?"],
+    ["No entiendo.", "I don't understand."],
+    ["La clase empieza a las nueve.", "The class starts at nine."],
+    ["Duermo ocho horas.", "I sleep eight hours."],
+    ["Mis hijos juegan al fútbol.", "My children play soccer."],
+    ["¿Qué pides?", "What are you ordering?"],
+    ["Pido una sopa.", "I'm ordering a soup."],
+    ["Volvemos a casa a las seis.", "We come back home at six."],
+    ["Podemos estudiar juntos.", "We can study together."],
+    ["Prefiero caminar.", "I prefer to walk."],
+    ["¿Qué piensas?", "What do you think?"],
+    ["Pienso que es interesante.", "I think it's interesting."],
+    ["No encuentro mis llaves.", "I can't find my keys."],
+    ["Ellos quieren comer.", "They want to eat."],
+    ["Cierran la tienda a las ocho.", "They close the store at eight."],
+    ["Empiezo a trabajar a las nueve.", "I start work at nine."],
+    ["¿Quieres ver una película?", "Do you want to watch a movie?"],
+    ["Juego al tenis los sábados.", "I play tennis on Saturdays."],
+    ["Queremos dormir.", "We want to sleep."],
+    ["Entiendes muy bien.", "You understand very well."],
+    ["Ella prefiere el té.", "She prefers tea."],
+    ["Ustedes pueden volver mañana.", "You all can come back tomorrow."],
+    ["Sirven la cena a las ocho.", "They serve dinner at eight."],
+    ["Almuerzo a la una.", "I have lunch at one."],
+    ["Juegas muy bien.", "You play very well."],
+    ["Puedo cocinar.", "I can cook."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ un café. (querer)", "answers": ["quiero"], "hint": "I want a coffee."},
+    {"type": "fill", "prompt": "¿___ repetir, por favor? (poder)", "answers": ["puedes"], "hint": "Can you repeat, please?"},
+    {"type": "fill", "prompt": "La clase ___ a las nueve. (empezar)", "answers": ["empieza"], "hint": "The class starts at nine."},
+    {"type": "fill", "prompt": "Yo ___ ocho horas. (dormir)", "answers": ["duermo"], "hint": "I sleep eight hours."},
+    {"type": "fill", "prompt": "Mis hijos ___ al fútbol. (jugar)", "answers": ["juegan"], "hint": "My children play soccer."},
+    {"type": "fill", "prompt": "Yo ___ una sopa. (pedir)", "answers": ["pido"], "hint": "I'm ordering a soup."},
+    {"type": "fill", "prompt": "Nosotros ___ a casa a las seis. (volver)", "answers": ["volvemos"], "hint": "We come back home at six."},
+    {"type": "fill", "prompt": "Nosotros ___ estudiar juntos. (poder)", "answers": ["podemos"], "hint": "We can study together."},
+    {"type": "fill", "prompt": "Ella ___ el té. (preferir)", "answers": ["prefiere"], "hint": "She prefers tea."},
+    {"type": "fill", "prompt": "No ___ mis llaves. (encontrar)", "answers": ["encuentro"], "hint": "I can't find my keys."},
+    {"type": "fill", "prompt": "Ellos ___ comer. (querer)", "answers": ["quieren"], "hint": "They want to eat."},
+    {"type": "mc", "prompt": "Which form does NOT change its stem?", "options": ["podemos", "puedo", "puedes", "pueden"], "answer": 0, "lang": "es", "explain": "The *nosotros* form stays outside the \"boot\"."},
+    {"type": "mc", "prompt": "*Jugar* changes…", "options": ["u → ue (juego)", "u → ie (jiego)", "it doesn't change"], "answer": 0},
+    {"type": "mc", "prompt": "What does *No entiendo* mean?", "options": ["I don't understand.", "I don't hear.", "I don't want.", "I can't."], "answer": 0},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Empiezo a trabajar a las nueve.", "Empiezo trabajar a las nueve.", "Empezo a trabajar a las nueve."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which verb means \"to ask for / to order\"?", "options": ["pedir", "preguntar", "poder", "pensar"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "I don't understand.", "answers": ["No entiendo.", "Yo no entiendo.", "No comprendo."]},
+    {"type": "translate", "prompt": "Can you repeat, please? (informal)", "answers": ["¿Puedes repetir, por favor?", "¿Puedes repetir?"]},
+    {"type": "translate", "prompt": "I prefer to walk.", "answers": ["Prefiero caminar.", "Yo prefiero caminar."]},
+    {"type": "translate", "prompt": "Do you want to watch a movie? (informal)", "answers": ["¿Quieres ver una película?"]},
+    {"type": "translate", "prompt": "I play tennis on Saturdays.", "answers": ["Juego al tenis los sábados.", "Los sábados juego al tenis.", "Juego tenis los sábados."]},
+    {"type": "build", "prompt": "Put the words in order: \"The class starts at nine.\"", "answer": "La clase empieza a las nueve."},
+    {"type": "build", "prompt": "Put the words in order: \"I think it's interesting.\"", "answer": "Pienso que es interesante."},
+    {"type": "build", "prompt": "Put the words in order: \"We come back home at six.\"", "answer": "Volvemos a casa a las seis."}
+  ]
+}

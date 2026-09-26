@@ -1,0 +1,91 @@
+{
+  "sections": [
+    {
+      "heading": "Ordering politely",
+      "body": "In a restaurant or café, the most natural ways to order are:\n\n- *Quisiera…* — I would like… (very polite)\n- *Me trae…, por favor* — Could you bring me…, please (literally \"you bring me\")\n- *Para mí, …* — For me, …\n- *Quiero…, por favor* — I want…, please (fine, with *por favor*)\n\nThe waiter might ask *¿Qué desea?* or *¿Qué va a tomar?* (What would you like? / What will you have to drink?). To ask for the bill: *La cuenta, por favor.* Some useful questions: *¿Qué me recomienda?* (What do you recommend?) *¿Tiene menú vegetariano?*"
+    },
+    {
+      "heading": "Meals",
+      "body": "*El desayuno* (breakfast), *el almuerzo* (lunch — the main meal in much of Latin America, often around 1–3 p.m.), *la cena* (dinner). Many restaurants offer *el menú del día* or *la comida corrida* (Mexico): a set lunch with soup, a main course and a drink.\n\nThe verbs: *desayunar, almorzar, cenar*. To say what you eat for a meal: *Desayuno pan con café.*"
+    },
+    {
+      "heading": "Food words and gender",
+      "body": "Learn food nouns with their article. Note *el agua* is feminine despite the *el* (it starts with a stressed *a*): *el agua fría*. Useful describing words: *rico / delicioso* (tasty), *picante* (spicy), *dulce* (sweet), *salado* (salty). *¡Está muy rico!* — It's delicious! (Use *estar* for how food tastes.)"
+    }
+  ],
+  "vocab": [
+    ["el desayuno", "breakfast"],
+    ["el almuerzo", "lunch"],
+    ["la cena", "dinner"],
+    ["el pollo", "chicken"],
+    ["la carne", "meat"],
+    ["el pescado", "fish (food)"],
+    ["el arroz", "rice"],
+    ["los frijoles", "beans"],
+    ["la ensalada", "salad"],
+    ["las papas", "potatoes"],
+    ["el huevo", "egg"],
+    ["la leche", "milk"],
+    ["el jugo", "juice"],
+    ["la cerveza", "beer"],
+    ["el vino", "wine"],
+    ["el postre", "dessert"],
+    ["la cuenta", "the bill / check"],
+    ["el mesero / la mesera", "the waiter / the waitress"],
+    ["quisiera", "I would like"],
+    ["rico / rica", "tasty / delicious"],
+    ["picante", "spicy"],
+    ["por favor", "please"]
+  ],
+  "examples": [
+    ["Quisiera una mesa para dos, por favor.", "I'd like a table for two, please."],
+    ["¿Qué desea?", "What would you like?"],
+    ["Para mí, el pollo con arroz.", "For me, the chicken with rice."],
+    ["Me trae un jugo de naranja, por favor.", "Could you bring me an orange juice, please?"],
+    ["Quisiera una ensalada y agua.", "I'd like a salad and water."],
+    ["¿Qué me recomienda?", "What do you recommend?"],
+    ["La cuenta, por favor.", "The check, please."],
+    ["¿Qué va a tomar?", "What will you have to drink?"],
+    ["Una cerveza, por favor.", "A beer, please."],
+    ["¡Está muy rico!", "It's delicious!"],
+    ["¿Es picante?", "Is it spicy?"],
+    ["Desayuno huevos con pan.", "I have eggs and bread for breakfast."],
+    ["No como carne.", "I don't eat meat."],
+    ["¿Tiene pescado?", "Do you have fish?"],
+    ["De postre, un helado.", "For dessert, an ice cream."],
+    ["Almorzamos arroz, frijoles y carne.", "We have rice, beans and meat for lunch."],
+    ["Quiero un café con leche, por favor.", "I want a coffee with milk, please."],
+    ["El agua está fría.", "The water is cold."],
+    ["Pido las papas y el vino.", "I'm ordering the potatoes and the wine."],
+    ["Mesero, ¿nos trae la cuenta?", "Waiter, could you bring us the check?"],
+    ["Para mí, un jugo.", "For me, a juice."],
+    ["El almuerzo y la cena.", "Lunch and dinner."],
+    ["Me trae el desayuno, por favor.", "Could you bring me breakfast, please?"],
+    ["Es un vino muy rico.", "It's a very good wine."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Which is the most polite way to order?", "options": ["Quisiera un café.", "Dame café.", "Café.", "Tengo café."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you ask for the check?", "options": ["La cuenta, por favor.", "El menú, por favor.", "¿Qué desea?", "¿Dónde está el baño?"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The waiter asks *¿Qué va a tomar?* He wants to know…", "options": ["what you'll have to drink", "where you're going", "what time it is", "how you are"], "answer": 0},
+    {"type": "mc", "prompt": "In much of Latin America, the main meal of the day is usually…", "options": ["el almuerzo", "el desayuno", "la cena", "el postre"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which verb do you use for how food tastes right now? *¡___ muy rico!*", "options": ["Está", "Es", "Hay", "Tiene"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["el agua fría", "la agua fría", "el agua frío"], "answer": 0, "lang": "es", "explain": "*Agua* is feminine but takes *el* in the singular because it starts with a stressed a."},
+    {"type": "mc", "prompt": "*Los frijoles* are…", "options": ["beans", "potatoes", "eggs", "rice"], "answer": 0},
+    {"type": "mc", "prompt": "*¿Qué me recomienda?* means…", "options": ["What do you recommend?", "What do you want?", "What is this?", "How much is it?"], "answer": 0},
+    {"type": "fill", "prompt": "___ una mesa para dos, por favor.", "answers": ["quisiera"], "hint": "I'd like a table for two, please."},
+    {"type": "fill", "prompt": "Para ___, el pollo con arroz.", "answers": ["mí"], "hint": "For me, the chicken with rice."},
+    {"type": "fill", "prompt": "La ___, por favor.", "answers": ["cuenta"], "hint": "The check, please."},
+    {"type": "fill", "prompt": "No como ___.", "answers": ["carne"], "hint": "I don't eat meat."},
+    {"type": "fill", "prompt": "Quiero un café con ___.", "answers": ["leche"], "hint": "I want a coffee with milk."},
+    {"type": "fill", "prompt": "De ___, un helado.", "answers": ["postre"], "hint": "For dessert, an ice cream."},
+    {"type": "fill", "prompt": "Me ___ un jugo, por favor.", "answers": ["trae"], "hint": "Could you bring me a juice, please?"},
+    {"type": "translate", "prompt": "The check, please.", "answers": ["La cuenta, por favor."]},
+    {"type": "translate", "prompt": "I'd like a salad, please.", "answers": ["Quisiera una ensalada, por favor.", "Quiero una ensalada, por favor.", "Me trae una ensalada, por favor."]},
+    {"type": "translate", "prompt": "I don't eat meat.", "answers": ["No como carne.", "Yo no como carne."]},
+    {"type": "translate", "prompt": "It's delicious! (the food right now)", "answers": ["¡Está muy rico!", "¡Está rico!", "¡Está muy rica!", "¡Está rica!"]},
+    {"type": "translate", "prompt": "Is it spicy?", "answers": ["¿Es picante?", "¿Está picante?"]},
+    {"type": "build", "prompt": "Put the words in order: \"For me, the chicken with rice.\"", "answer": "Para mí, el pollo con arroz."},
+    {"type": "build", "prompt": "Put the words in order: \"I'd like a table for two, please.\"", "answer": "Quisiera una mesa para dos, por favor."},
+    {"type": "build", "prompt": "Put the words in order: \"We have rice, beans and meat for lunch.\"", "answer": "Almorzamos arroz, frijoles y carne."}
+  ]
+}

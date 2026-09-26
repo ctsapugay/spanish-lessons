@@ -1,0 +1,94 @@
+{
+  "sections": [
+    {
+      "heading": "Reflexive verbs",
+      "body": "Some verbs describe something you do to yourself: *levantarse* (to get up), *ducharse* (to shower), *vestirse* (to get dressed). In the dictionary they end in *-se*. When you conjugate them, a reflexive pronoun goes before the verb.",
+      "table": {
+        "head": ["Pronoun", "Reflexive", "levantarse"],
+        "rows": [
+          ["*yo*", "*me*", "*me levanto*"],
+          ["*tú*", "*te*", "*te levantas*"],
+          ["*él / ella / usted*", "*se*", "*se levanta*"],
+          ["*nosotros / nosotras*", "*nos*", "*nos levantamos*"],
+          ["*ustedes*", "*se*", "*se levantan*"],
+          ["*ellos / ellas*", "*se*", "*se levantan*"]
+        ]
+      }
+    },
+    {
+      "heading": "You already know one",
+      "body": "*Me llamo Ana* is a reflexive verb: *llamarse*, \"to call oneself\". The same pattern: *te llamas, se llama, nos llamamos, se llaman*.\n\nNegatives put *no* before the pronoun: *No me levanto temprano.* (I don't get up early.) With an infinitive, the pronoun can attach to the end: *Necesito ducharme.* (I need to shower.)"
+    },
+    {
+      "heading": "Talking about your day",
+      "body": "Useful sequence words: *primero* (first), *después* (then, afterwards), *luego* (then, later), *por último* (finally). Also: *temprano* (early), *tarde* (late), *todos los días* (every day).\n\nNot every daily-routine verb is reflexive: *desayunar* (to have breakfast), *almorzar* (to have lunch), *cenar* (to have dinner) are regular verbs. *Acostarse* (to go to bed) and *vestirse* (to get dressed) change their stem in some forms — *me acuesto, me visto* — you'll learn the full pattern in the next lesson."
+    }
+  ],
+  "vocab": [
+    ["levantarse", "to get up"],
+    ["ducharse", "to shower"],
+    ["bañarse", "to bathe / take a bath"],
+    ["lavarse", "to wash (oneself)"],
+    ["cepillarse los dientes", "to brush one's teeth"],
+    ["peinarse", "to comb one's hair"],
+    ["despertarse", "to wake up"],
+    ["vestirse", "to get dressed"],
+    ["acostarse", "to go to bed"],
+    ["desayunar", "to have breakfast"],
+    ["almorzar", "to have lunch"],
+    ["cenar", "to have dinner"],
+    ["primero", "first"],
+    ["después", "afterwards / then"],
+    ["luego", "then / later"],
+    ["temprano", "early"],
+    ["tarde", "late"],
+    ["todos los días", "every day"]
+  ],
+  "examples": [
+    ["Me levanto a las siete.", "I get up at seven."],
+    ["Primero me ducho y después desayuno.", "First I shower and then I have breakfast."],
+    ["¿A qué hora te levantas?", "What time do you get up?"],
+    ["Mi hermano se levanta tarde.", "My brother gets up late."],
+    ["Nos acostamos a las once.", "We go to bed at eleven."],
+    ["Me acuesto temprano.", "I go to bed early."],
+    ["Ellos se duchan por la noche.", "They shower at night."],
+    ["Me lavo las manos.", "I wash my hands."],
+    ["Te cepillas los dientes.", "You brush your teeth."],
+    ["Me visto y luego me peino.", "I get dressed and then I comb my hair."],
+    ["No me levanto temprano los domingos.", "I don't get up early on Sundays."],
+    ["Necesito ducharme.", "I need to shower."],
+    ["Almorzamos a la una.", "We have lunch at one."],
+    ["Ceno con mi familia todos los días.", "I have dinner with my family every day."],
+    ["Mi madre se despierta a las seis.", "My mother wakes up at six."],
+    ["Ustedes se bañan por la mañana.", "You all bathe in the morning."],
+    ["Nos llamamos Ana y Luis.", "Our names are Ana and Luis."],
+    ["Me despierto temprano.", "I wake up early."],
+    ["Se lava las manos.", "She washes her hands."],
+    ["Desayuno café y pan.", "I have coffee and bread for breakfast."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ levanto a las siete.", "answers": ["me"], "hint": "I get up at seven."},
+    {"type": "fill", "prompt": "¿A qué hora ___ levantas?", "answers": ["te"], "hint": "What time do you get up?"},
+    {"type": "fill", "prompt": "Mi hermano ___ levanta tarde.", "answers": ["se"], "hint": "My brother gets up late."},
+    {"type": "fill", "prompt": "Nosotros ___ acostamos a las once.", "answers": ["nos"], "hint": "We go to bed at eleven."},
+    {"type": "fill", "prompt": "Ellos se ___ por la noche. (ducharse)", "answers": ["duchan"], "hint": "They shower at night."},
+    {"type": "fill", "prompt": "Me ___ las manos. (lavarse)", "answers": ["lavo"], "hint": "I wash my hands."},
+    {"type": "fill", "prompt": "Necesito ___ .", "answers": ["ducharme"], "hint": "I need to shower. (one word)"},
+    {"type": "fill", "prompt": "Mi madre se ___ a las seis. (despertarse)", "answers": ["despierta"], "hint": "My mother wakes up at six."},
+    {"type": "fill", "prompt": "___ me ducho y después desayuno.", "answers": ["primero"], "hint": "First I shower and then I have breakfast."},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["No me levanto temprano.", "Me no levanto temprano.", "No levanto me temprano."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which verb is NOT reflexive?", "options": ["desayunar", "ducharse", "levantarse", "peinarse"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Nos acostamos* means…", "options": ["we go to bed", "they go to bed", "we get up", "we shower"], "answer": 0},
+    {"type": "mc", "prompt": "Which pronoun goes with *ustedes*?", "options": ["se", "nos", "te", "me"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Me llamo Ana* comes from which verb?", "options": ["llamarse", "llamar", "llegar", "lavarse"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What does *temprano* mean?", "options": ["early", "late", "first", "every day"], "answer": 0},
+    {"type": "translate", "prompt": "I get up at seven.", "answers": ["Me levanto a las siete.", "Yo me levanto a las siete."]},
+    {"type": "translate", "prompt": "What time do you get up? (informal)", "answers": ["¿A qué hora te levantas?"]},
+    {"type": "translate", "prompt": "We go to bed at eleven.", "answers": ["Nos acostamos a las once."]},
+    {"type": "translate", "prompt": "I wash my hands.", "answers": ["Me lavo las manos."]},
+    {"type": "translate", "prompt": "I have dinner with my family.", "answers": ["Ceno con mi familia."]},
+    {"type": "build", "prompt": "Put the words in order: \"First I shower and then I have breakfast.\"", "answer": "Primero me ducho y después desayuno."},
+    {"type": "build", "prompt": "Put the words in order: \"I don't get up early on Sundays.\"", "answer": "No me levanto temprano los domingos."},
+    {"type": "build", "prompt": "Put the words in order: \"I get dressed and then I comb my hair.\"", "answer": "Me visto y luego me peino."}
+  ]
+}
