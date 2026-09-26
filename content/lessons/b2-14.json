@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "heading": "Cause",
+      "body": "All take the **indicative** (the cause is presented as a fact):\n\n- *porque* (because) — neutral\n- *como* (since / as) — at the start: *Como no llegabas, me fui.*\n- *ya que / puesto que / dado que* (since, given that) — more formal: *Dado que no hay presupuesto, se cancela el proyecto.*\n- *debido a* + noun (due to): *El vuelo se retrasó debido a la niebla.*\n- *a causa de* + noun (because of), *gracias a* (thanks to), *por culpa de* (because of — blame): *Llegamos tarde por culpa del tráfico.*\n\nBut *no porque* + subjunctive denies a cause: *Lo hago no porque me obliguen, sino porque quiero.*"
+    },
+    {
+      "heading": "Consequence",
+      "body": "- *así que / por eso / por lo tanto / por consiguiente* (so / therefore): *No había luz, así que cancelamos la reunión.*\n- *de modo que / de manera que* + indicative (so, as a result): *Perdí el tren, de modo que llegué tarde.* (With the subjunctive they mean \"so that\" — purpose: *Habla despacio de modo que te entiendan.*)\n- *tan* + adjective/adverb + *que* (so … that): *Estaba tan cansado que me dormí en el sofá.*\n- *tanto / tanta / tantos / tantas* + noun + *que*: *Había tanta gente que no pudimos entrar.*\n- verb + *tanto que*: *Comió tanto que le dolió el estómago.*"
+    }
+  ],
+  "vocab": [
+    ["puesto que", "since / given that"],
+    ["dado que", "given that"],
+    ["debido a", "due to"],
+    ["a causa de", "because of"],
+    ["gracias a", "thanks to"],
+    ["por culpa de", "because of (blame)"],
+    ["por consiguiente", "consequently"],
+    ["de modo que", "so / so that"],
+    ["tan … que", "so … that"],
+    ["el presupuesto", "the budget"],
+    ["cancelar", "to cancel"],
+    ["la niebla", "fog"],
+    ["obligar", "to force"],
+    ["retrasarse", "to be delayed"]
+  ],
+  "examples": [
+    ["Como no llegabas, me fui.", "Since you weren't arriving, I left."],
+    ["Dado que no hay presupuesto, se cancela el proyecto.", "Given that there's no budget, the project is canceled."],
+    ["Puesto que estás aquí, ayúdame.", "Since you're here, help me."],
+    ["El vuelo se retrasó debido a la niebla.", "The flight was delayed due to fog."],
+    ["Llegamos tarde por culpa del tráfico.", "We arrived late because of the traffic."],
+    ["Aprobé gracias a tu ayuda.", "I passed thanks to your help."],
+    ["Lo hago no porque me obliguen, sino porque quiero.", "I do it not because they force me, but because I want to."],
+    ["No había luz, así que cancelamos la reunión.", "There was no power, so we canceled the meeting."],
+    ["Perdí el tren, de modo que llegué tarde.", "I missed the train, so I arrived late."],
+    ["Habla despacio de modo que te entiendan.", "Speak slowly so that they understand you."],
+    ["Estaba tan cansado que me dormí en el sofá.", "I was so tired that I fell asleep on the sofa."],
+    ["Había tanta gente que no pudimos entrar.", "There were so many people that we couldn't get in."],
+    ["Comió tanto que le dolió el estómago.", "He ate so much that his stomach hurt."],
+    ["El proyecto fue un éxito; por consiguiente, recibimos más fondos.", "The project was a success; consequently, we received more funding."],
+    ["Hacía tanto frío que nos quedamos en casa.", "It was so cold that we stayed home."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "___ no hay presupuesto, se cancela el proyecto.", "answers": ["dado que", "puesto que", "ya que", "como"], "hint": "Given that there's no budget, the project is canceled."},
+    {"type": "fill", "prompt": "El vuelo se retrasó ___ a la niebla.", "answers": ["debido"], "hint": "The flight was delayed due to fog."},
+    {"type": "fill", "prompt": "Llegamos tarde por ___ del tráfico.", "answers": ["culpa"], "hint": "We arrived late because of the traffic."},
+    {"type": "fill", "prompt": "Aprobé ___ a tu ayuda.", "answers": ["gracias"], "hint": "I passed thanks to your help."},
+    {"type": "fill", "prompt": "Lo hago no porque me ___, sino porque quiero. (obligar, ellos)", "answers": ["obliguen"], "hint": "I do it not because they force me, but because I want to."},
+    {"type": "fill", "prompt": "Estaba ___ cansado que me dormí en el sofá.", "answers": ["tan"], "hint": "I was so tired that I fell asleep on the sofa."},
+    {"type": "fill", "prompt": "Había ___ gente que no pudimos entrar.", "answers": ["tanta"], "hint": "There were so many people that we couldn't get in."},
+    {"type": "fill", "prompt": "Comió ___ que le dolió el estómago.", "answers": ["tanto"], "hint": "He ate so much that his stomach hurt."},
+    {"type": "fill", "prompt": "Perdí el tren, de ___ que llegué tarde.", "answers": ["modo", "manera"], "hint": "I missed the train, so I arrived late."},
+    {"type": "fill", "prompt": "Habla despacio de modo que te ___. (entender, ellos)", "answers": ["entiendan"], "hint": "Speak slowly so that they understand you."},
+    {"type": "fill", "prompt": "Hacía ___ frío que nos quedamos en casa.", "answers": ["tanto"], "hint": "It was so cold that we stayed home."},
+    {"type": "mc", "prompt": "*por culpa de* implies…", "options": ["blame", "gratitude", "purpose", "time"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: Estaba ___ cansado que me dormí.", "options": ["tan", "tanto", "tal", "muy"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Había ___ gente que no pudimos entrar.", "options": ["tanta", "tan", "tanto", "tanta de"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*de modo que* + subjunctive expresses…", "options": ["purpose (so that)", "result (so)", "cause", "time"], "answer": 0},
+    {"type": "mc", "prompt": "Which is most formal?", "options": ["dado que", "como", "porque", "es que"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "I was so tired that I fell asleep on the sofa.", "answers": ["Estaba tan cansado que me dormí en el sofá.", "Estaba tan cansada que me dormí en el sofá.", "Estaba tan cansado que me quedé dormido en el sofá.", "Estaba tan cansada que me quedé dormida en el sofá."]},
+    {"type": "translate", "prompt": "The flight was delayed due to fog.", "answers": ["El vuelo se retrasó debido a la niebla."]},
+    {"type": "translate", "prompt": "I passed thanks to your help. (tú)", "answers": ["Aprobé gracias a tu ayuda."]},
+    {"type": "translate", "prompt": "We arrived late because of the traffic.", "answers": ["Llegamos tarde por culpa del tráfico.", "Llegamos tarde por el tráfico.", "Llegamos tarde debido al tráfico.", "Llegamos tarde a causa del tráfico."]},
+    {"type": "translate", "prompt": "It was so cold that we stayed home.", "answers": ["Hacía tanto frío que nos quedamos en casa."]},
+    {"type": "build", "prompt": "Put the words in order: \"There were so many people that we couldn't get in.\"", "answer": "Había tanta gente que no pudimos entrar."},
+    {"type": "build", "prompt": "Put the words in order: \"Since you weren't arriving, I left.\"", "answer": "Como no llegabas, me fui."},
+    {"type": "build", "prompt": "Put the words in order: \"He ate so much that his stomach hurt.\"", "answer": "Comió tanto que le dolió el estómago."}
+  ]
+}

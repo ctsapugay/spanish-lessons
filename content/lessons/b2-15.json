@@ -1,0 +1,76 @@
+{
+  "sections": [
+    {
+      "heading": "Periphrases with the gerund",
+      "body": "- *ir* + gerund — gradual progress: *Poco a poco voy entendiendo.* (Little by little I'm starting to understand.) *La situación va mejorando.*\n- *andar* + gerund — doing something repeatedly or aimlessly, often with a negative nuance: *Anda diciendo mentiras.* (He goes around telling lies.)\n- *seguir / continuar* + gerund — to keep on: *Sigue lloviendo.*\n- *llevar* + time + gerund — duration so far: *Llevo una hora esperando.*\n- *acabar / terminar* + gerund — to end up doing: *Acabé comprando el más caro.* (I ended up buying the most expensive one.)"
+    },
+    {
+      "heading": "Periphrases with the infinitive",
+      "body": "- *llegar a* + infinitive — to go as far as / manage to: *Llegó a ser ministra.* *No llegué a verlo.* (I didn't get to see it.)\n- *deber de* + infinitive — probability: *Deben de ser las tres.* (It must be about three.) Compare *deber* + infinitive — obligation: *Debes estudiar.* (In speech the two are often mixed.)\n- *venir a* + infinitive — approximately: *Viene a costar unos cien dólares.*\n- *echar(se) a* + infinitive — to suddenly start: *Se echó a llorar.* *Echó a correr.*"
+    },
+    {
+      "heading": "Periphrases with the participle",
+      "body": "- *llevar* + participle — accumulated result: *Llevo leídas cien páginas.* (I've read a hundred pages so far.)\n- *tener* + participle — result, emphasizing completion or possession: *Tengo pensado viajar en junio.* (I've got it planned to travel in June.) *Ya tengo hechas las maletas.*\n- *dar por* + participle — to consider as: *Doy por terminada la reunión.* (I declare the meeting over.)"
+    }
+  ],
+  "vocab": [
+    ["ir + gerundio", "to gradually (do)"],
+    ["andar + gerundio", "to go around (doing)"],
+    ["acabar + gerundio", "to end up (doing)"],
+    ["llegar a + infinitivo", "to manage to / get to"],
+    ["deber de + infinitivo", "must (probability)"],
+    ["echarse a", "to burst out (doing)"],
+    ["llevar + participio", "to have (done) so far"],
+    ["tener pensado", "to have planned"],
+    ["dar por terminado", "to consider finished"],
+    ["poco a poco", "little by little"],
+    ["la mentira", "the lie"],
+    ["el ministro / la ministra", "the minister"],
+    ["la página", "the page"],
+    ["hacer las maletas", "to pack"]
+  ],
+  "examples": [
+    ["Poco a poco voy entendiendo.", "Little by little I'm starting to understand."],
+    ["La situación va mejorando.", "The situation is gradually improving."],
+    ["Anda diciendo mentiras.", "He goes around telling lies."],
+    ["Acabé comprando el más caro.", "I ended up buying the most expensive one."],
+    ["Llegó a ser ministra.", "She went on to become a minister."],
+    ["No llegué a verlo.", "I didn't get to see it."],
+    ["Deben de ser las tres.", "It must be about three."],
+    ["Viene a costar unos cien dólares.", "It comes to about a hundred dollars."],
+    ["Se echó a llorar.", "She burst into tears."],
+    ["Echó a correr.", "He started running."],
+    ["Llevo leídas cien páginas.", "I've read a hundred pages so far."],
+    ["Tengo pensado viajar en junio.", "I'm planning to travel in June."],
+    ["Ya tengo hechas las maletas.", "I've already packed my bags."],
+    ["Doy por terminada la reunión.", "I declare the meeting over."],
+    ["Terminó aceptando la oferta.", "He ended up accepting the offer."],
+    ["Los precios van subiendo cada año.", "Prices keep going up every year."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Poco a poco voy ___. (entender)", "answers": ["entendiendo"], "hint": "Little by little I'm starting to understand."},
+    {"type": "fill", "prompt": "Anda ___ mentiras. (decir)", "answers": ["diciendo"], "hint": "He goes around telling lies."},
+    {"type": "fill", "prompt": "Acabé ___ el más caro. (comprar)", "answers": ["comprando"], "hint": "I ended up buying the most expensive one."},
+    {"type": "fill", "prompt": "Llegó ___ ser ministra.", "answers": ["a"], "hint": "She went on to become a minister."},
+    {"type": "fill", "prompt": "Deben ___ ser las tres.", "answers": ["de"], "hint": "It must be about three."},
+    {"type": "fill", "prompt": "Se echó ___ llorar.", "answers": ["a"], "hint": "She burst into tears."},
+    {"type": "fill", "prompt": "Llevo ___ cien páginas. (leer)", "answers": ["leídas"], "hint": "I've read a hundred pages so far."},
+    {"type": "fill", "prompt": "Tengo ___ viajar en junio. (pensar)", "answers": ["pensado"], "hint": "I'm planning to travel in June."},
+    {"type": "fill", "prompt": "Ya tengo ___ las maletas. (hacer)", "answers": ["hechas"], "hint": "I've already packed my bags."},
+    {"type": "fill", "prompt": "Doy por ___ la reunión. (terminar)", "answers": ["terminada"], "hint": "I declare the meeting over."},
+    {"type": "fill", "prompt": "Los precios van ___ cada año. (subir)", "answers": ["subiendo"], "hint": "Prices keep going up every year."},
+    {"type": "mc", "prompt": "*La situación va mejorando* means…", "options": ["The situation is gradually improving.", "The situation is going to improve.", "The situation went well.", "The situation walks better."], "answer": 0},
+    {"type": "mc", "prompt": "*No llegué a verlo* means…", "options": ["I didn't get to see it.", "I didn't arrive to see him.", "I never saw him arrive.", "I arrived without seeing it."], "answer": 0},
+    {"type": "mc", "prompt": "In *Llevo leídas cien páginas*, *leídas* agrees with…", "options": ["páginas", "yo", "nothing"], "answer": 0},
+    {"type": "mc", "prompt": "*Deben de ser las tres* expresses…", "options": ["probability", "obligation", "the future", "a command"], "answer": 0},
+    {"type": "mc", "prompt": "*Echó a correr* means…", "options": ["He started running.", "He threw the race.", "He ran out.", "He stopped running."], "answer": 0},
+    {"type": "translate", "prompt": "She burst into tears.", "answers": ["Se echó a llorar.", "Rompió a llorar."]},
+    {"type": "translate", "prompt": "I ended up buying the most expensive one.", "answers": ["Acabé comprando el más caro.", "Terminé comprando el más caro.", "Acabé comprando la más cara.", "Terminé comprando la más cara."]},
+    {"type": "translate", "prompt": "I didn't get to see it.", "answers": ["No llegué a verlo."]},
+    {"type": "translate", "prompt": "Little by little I'm starting to understand.", "answers": ["Poco a poco voy entendiendo.", "Poco a poco estoy entendiendo."]},
+    {"type": "translate", "prompt": "I've already packed my bags.", "answers": ["Ya tengo hechas las maletas.", "Ya hice las maletas.", "Ya he hecho las maletas."]},
+    {"type": "build", "prompt": "Put the words in order: \"He ended up accepting the offer.\"", "answer": "Terminó aceptando la oferta."},
+    {"type": "build", "prompt": "Put the words in order: \"It comes to about a hundred dollars.\"", "answer": "Viene a costar unos cien dólares."},
+    {"type": "build", "prompt": "Put the words in order: \"I'm planning to travel in June.\"", "answer": "Tengo pensado viajar en junio."}
+  ]
+}

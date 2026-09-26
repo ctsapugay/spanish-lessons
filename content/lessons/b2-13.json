@@ -1,0 +1,324 @@
+{
+  "sections": [
+    {
+      "heading": "Negated opinions and perception",
+      "body": "Verbs of thinking, believing, saying and perceiving take the indicative when affirmative and the **subjunctive when negated**, because the speaker is no longer asserting:\n\n- *Creo que tiene razón.* → *No creo que tenga razón.*\n- *Me parece que es buena idea.* → *No me parece que sea buena idea.*\n- *Veo que estás cansado.* → *No veo que estés cansado.*\n- *Recuerdo que lo dijo.* → *No recuerdo que lo dijera.*\n- *Está demostrado que funciona.* → *No está demostrado que funcione.*\n\nIn **negative questions** or when the speaker actually believes it, the indicative can stay: *¿No crees que es tarde?* (Don't you think it's late? — I think it is.)"
+    },
+    {
+      "heading": "No es que…: it's not that…",
+      "body": "*No es que* + subjunctive denies an assumed reason, often followed by *sino que* / *es que* + indicative for the real one:\n\n*No es que no quiera ir, es que no puedo.* (It's not that I don't want to go; I just can't.)\n*No es que sea caro, sino que no lo necesito.*\n\nIn the past: *No es que no quisiera, es que no podía.*"
+    },
+    {
+      "heading": "Es que…: the explanation marker",
+      "body": "*Es que* + indicative is extremely common to give an excuse or explanation: *—¿Por qué no viniste? —Es que estaba enfermo.* (Well, the thing is I was sick.)"
+    }
+  ],
+  "vocab": [
+    [
+      "no creo que",
+      "I don't think that"
+    ],
+    [
+      "no me parece que",
+      "I don't think that / it doesn't seem to me that"
+    ],
+    [
+      "no veo que",
+      "I don't see that"
+    ],
+    [
+      "no recuerdo que",
+      "I don't remember that"
+    ],
+    [
+      "demostrar",
+      "to prove / demonstrate"
+    ],
+    [
+      "no es que",
+      "it's not that"
+    ],
+    [
+      "sino que",
+      "but rather"
+    ],
+    [
+      "es que",
+      "the thing is / it's just that"
+    ],
+    [
+      "la excusa",
+      "the excuse"
+    ],
+    [
+      "la razón",
+      "the reason"
+    ],
+    [
+      "funcionar",
+      "to work"
+    ],
+    [
+      "recordar",
+      "to remember"
+    ]
+  ],
+  "examples": [
+    [
+      "Creo que tiene razón.",
+      "I think he's right."
+    ],
+    [
+      "No creo que tenga razón.",
+      "I don't think he's right."
+    ],
+    [
+      "No me parece que sea buena idea.",
+      "I don't think it's a good idea."
+    ],
+    [
+      "No veo que estés cansado.",
+      "I don't see that you're tired."
+    ],
+    [
+      "No recuerdo que lo dijera.",
+      "I don't remember him saying it."
+    ],
+    [
+      "No está demostrado que funcione.",
+      "It hasn't been proven to work."
+    ],
+    [
+      "¿No crees que es tarde?",
+      "Don't you think it's late?"
+    ],
+    [
+      "No es que no quiera ir, es que no puedo.",
+      "It's not that I don't want to go; I just can't."
+    ],
+    [
+      "No es que sea caro, sino que no lo necesito.",
+      "It's not that it's expensive; it's that I don't need it."
+    ],
+    [
+      "No es que no quisiera, es que no podía.",
+      "It's not that I didn't want to; I couldn't."
+    ],
+    [
+      "—¿Por qué no viniste? —Es que estaba enfermo.",
+      "—Why didn't you come? —The thing is, I was sick."
+    ],
+    [
+      "Es que no tengo tiempo.",
+      "It's just that I don't have time."
+    ],
+    [
+      "No pienso que haya otra opción.",
+      "I don't think there's another option."
+    ],
+    [
+      "No digo que sea fácil.",
+      "I'm not saying it's easy."
+    ],
+    [
+      "No dudo que es verdad.",
+      "I don't doubt it's true."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose: No creo que ___ razón.",
+      "options": [
+        "tenga",
+        "tiene"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Veo que ___ cansado.",
+      "options": [
+        "estás",
+        "estés"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: No veo que ___ cansado.",
+      "options": [
+        "estés",
+        "estás"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ¿No crees que ___ tarde? (I think it is)",
+      "options": [
+        "es",
+        "sea"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: No es que no ___ ir, es que no puedo.",
+      "options": [
+        "quiera",
+        "quiero"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Es que estaba enfermo* is used to…",
+      "options": [
+        "give an explanation or excuse",
+        "deny something",
+        "ask a question",
+        "make a wish"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "No me parece que ___ buena idea. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "I don't think it's a good idea."
+    },
+    {
+      "type": "fill",
+      "prompt": "No recuerdo que lo ___. (decir, él)",
+      "answers": [
+        "dijera",
+        "dijese"
+      ],
+      "hint": "I don't remember him saying it."
+    },
+    {
+      "type": "fill",
+      "prompt": "No está demostrado que ___. (funcionar)",
+      "answers": [
+        "funcione"
+      ],
+      "hint": "It hasn't been proven to work."
+    },
+    {
+      "type": "fill",
+      "prompt": "No es que ___ caro, sino que no lo necesito. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "It's not that it's expensive; it's that I don't need it."
+    },
+    {
+      "type": "fill",
+      "prompt": "No es que no ___, es que no podía. (querer, yo)",
+      "answers": [
+        "quisiera",
+        "quisiese"
+      ],
+      "hint": "It's not that I didn't want to; I couldn't."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es que ___ enfermo. (estar, yo)",
+      "answers": [
+        "estaba"
+      ],
+      "hint": "The thing is, I was sick."
+    },
+    {
+      "type": "fill",
+      "prompt": "No pienso que ___ otra opción. (haber)",
+      "answers": [
+        "haya"
+      ],
+      "hint": "I don't think there's another option."
+    },
+    {
+      "type": "fill",
+      "prompt": "No digo que ___ fácil. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "I'm not saying it's easy."
+    },
+    {
+      "type": "fill",
+      "prompt": "No dudo que ___ verdad. (ser)",
+      "answers": [
+        "es"
+      ],
+      "hint": "I don't doubt it's true."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es que no ___ tiempo. (tener, yo)",
+      "answers": [
+        "tengo"
+      ],
+      "hint": "It's just that I don't have time."
+    },
+    {
+      "type": "translate",
+      "prompt": "I don't think he's right.",
+      "answers": [
+        "No creo que tenga razón."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's not that I don't want to go; I just can't.",
+      "answers": [
+        "No es que no quiera ir, es que no puedo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm not saying it's easy.",
+      "answers": [
+        "No digo que sea fácil."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's just that I don't have time.",
+      "answers": [
+        "Es que no tengo tiempo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Don't you think it's late? (tú)",
+      "answers": [
+        "¿No crees que es tarde?",
+        "¿No te parece que es tarde?"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It hasn't been proven to work.\"",
+      "answer": "No está demostrado que funcione."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I don't remember him saying it.\"",
+      "answer": "No recuerdo que lo dijera."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I don't think there's another option.\"",
+      "answer": "No pienso que haya otra opción."
+    }
+  ]
+}

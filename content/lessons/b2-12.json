@@ -1,0 +1,336 @@
+{
+  "sections": [
+    {
+      "heading": "Three ways to say it was done",
+      "body": "1. **Ser + participle** (passive of action) — the action itself; formal, news, history: *La ciudad fue fundada en 1542.* *El ladrón fue detenido por la policía.* Mostly in the preterite, future and with *ha sido*; rare in the present for single events.\n2. **Estar + participle** (passive of result) — the state after the action: *La puerta está cerrada.* (The door is closed.) *El informe ya está terminado.* No agent.\n3. **Passive se** — the most common in everyday speech when the doer doesn't matter: *Se construyó el puente en 1990. Se venden entradas aquí. Se cerraron las fronteras.*"
+    },
+    {
+      "heading": "Ser vs. estar with participles",
+      "body": "Compare:\n\n- *La tienda fue cerrada por la policía.* (Someone closed it — an event.)\n- *La tienda está cerrada.* (It's closed now — a state.)\n- *La cena fue preparada por el chef.* / *La cena está preparada.* (Dinner is ready.)\n\nThe participle always agrees in gender and number with the subject: *Las cartas fueron enviadas. Los documentos están firmados.*"
+    },
+    {
+      "heading": "Active is often better",
+      "body": "Spanish uses the *ser* passive much less than English. Where English says \"I was told\", Spanish says *Me dijeron*. \"He was given a prize\" → *Le dieron un premio*. \"It is said that…\" → *Se dice que…* A person can't be the subject of a passive with *dar, decir, preguntar* etc. as in English."
+    }
+  ],
+  "vocab": [
+    [
+      "fundar",
+      "to found"
+    ],
+    [
+      "fundado / fundada",
+      "founded"
+    ],
+    [
+      "firmar",
+      "to sign"
+    ],
+    [
+      "firmado / firmada",
+      "signed"
+    ],
+    [
+      "enviar",
+      "to send"
+    ],
+    [
+      "el documento",
+      "the document"
+    ],
+    [
+      "la frontera",
+      "the border"
+    ],
+    [
+      "la entrada",
+      "the ticket / entrance"
+    ],
+    [
+      "el chef",
+      "the chef"
+    ],
+    [
+      "preparado / preparada",
+      "ready / prepared"
+    ],
+    [
+      "se dice que",
+      "it is said that"
+    ],
+    [
+      "me dijeron",
+      "I was told"
+    ],
+    [
+      "la pasiva",
+      "the passive voice"
+    ]
+  ],
+  "examples": [
+    [
+      "La ciudad fue fundada en 1542.",
+      "The city was founded in 1542."
+    ],
+    [
+      "El ladrón fue detenido por la policía.",
+      "The thief was arrested by the police."
+    ],
+    [
+      "El puente será inaugurado mañana.",
+      "The bridge will be inaugurated tomorrow."
+    ],
+    [
+      "La puerta está cerrada.",
+      "The door is closed."
+    ],
+    [
+      "El informe ya está terminado.",
+      "The report is already finished."
+    ],
+    [
+      "Se construyó el puente en 1990.",
+      "The bridge was built in 1990."
+    ],
+    [
+      "Se venden entradas aquí.",
+      "Tickets are sold here."
+    ],
+    [
+      "Se cerraron las fronteras.",
+      "The borders were closed."
+    ],
+    [
+      "La tienda fue cerrada por la policía.",
+      "The store was closed by the police."
+    ],
+    [
+      "La tienda está cerrada.",
+      "The store is closed."
+    ],
+    [
+      "La cena está preparada.",
+      "Dinner is ready."
+    ],
+    [
+      "Las cartas fueron enviadas ayer.",
+      "The letters were sent yesterday."
+    ],
+    [
+      "Los documentos están firmados.",
+      "The documents are signed."
+    ],
+    [
+      "Me dijeron que esperara.",
+      "I was told to wait."
+    ],
+    [
+      "Le dieron un premio.",
+      "He was given a prize."
+    ],
+    [
+      "Se dice que va a llover.",
+      "It's said that it's going to rain."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "La ciudad fue ___ en 1542. (fundar)",
+      "answers": [
+        "fundada"
+      ],
+      "hint": "The city was founded in 1542."
+    },
+    {
+      "type": "fill",
+      "prompt": "La puerta ___ cerrada.",
+      "answers": [
+        "está"
+      ],
+      "hint": "The door is closed."
+    },
+    {
+      "type": "fill",
+      "prompt": "Las cartas ___ enviadas ayer. (ser)",
+      "answers": [
+        "fueron"
+      ],
+      "hint": "The letters were sent yesterday."
+    },
+    {
+      "type": "fill",
+      "prompt": "Los documentos están ___. (firmar)",
+      "answers": [
+        "firmados"
+      ],
+      "hint": "The documents are signed."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ entradas aquí. (vender)",
+      "answers": [
+        "venden"
+      ],
+      "hint": "Tickets are sold here."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ las fronteras. (cerrar)",
+      "answers": [
+        "cerraron"
+      ],
+      "hint": "The borders were closed."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me ___ que esperara. (decir, ellos)",
+      "answers": [
+        "dijeron"
+      ],
+      "hint": "I was told to wait."
+    },
+    {
+      "type": "fill",
+      "prompt": "Le ___ un premio. (dar, ellos)",
+      "answers": [
+        "dieron"
+      ],
+      "hint": "He was given a prize."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ que va a llover. (decir)",
+      "answers": [
+        "dice"
+      ],
+      "hint": "It's said that it's going to rain."
+    },
+    {
+      "type": "fill",
+      "prompt": "El puente ___ inaugurado mañana. (ser)",
+      "answers": [
+        "será"
+      ],
+      "hint": "The bridge will be inaugurated tomorrow."
+    },
+    {
+      "type": "fill",
+      "prompt": "La cena está ___.",
+      "answers": [
+        "preparada",
+        "lista"
+      ],
+      "hint": "Dinner is ready."
+    },
+    {
+      "type": "mc",
+      "prompt": "\"The store is closed\" (a state) →",
+      "options": [
+        "La tienda está cerrada.",
+        "La tienda es cerrada.",
+        "La tienda fue cerrado."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"The store was closed by the police\" (an event) →",
+      "options": [
+        "La tienda fue cerrada por la policía.",
+        "La tienda estaba cerrada por la policía.",
+        "La tienda se cerró por la policía."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"I was told\" in natural Spanish is…",
+      "options": [
+        "Me dijeron",
+        "Fui dicho",
+        "Yo fui dicha",
+        "Estuve dicho"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "In everyday speech, the most common passive is…",
+      "options": [
+        "passive se",
+        "ser + participle",
+        "estar + participle"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "The participle in *Las cartas fueron enviadas* agrees with…",
+      "options": [
+        "las cartas",
+        "the sender",
+        "nothing"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "The city was founded in 1542.",
+      "answers": [
+        "La ciudad fue fundada en 1542.",
+        "La ciudad se fundó en 1542."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The door is closed.",
+      "answers": [
+        "La puerta está cerrada."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I was told to wait.",
+      "answers": [
+        "Me dijeron que esperara.",
+        "Me dijeron que esperase."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Tickets are sold here.",
+      "answers": [
+        "Se venden entradas aquí.",
+        "Aquí se venden entradas.",
+        "Se venden boletos aquí.",
+        "Aquí se venden boletos."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The documents are signed.",
+      "answers": [
+        "Los documentos están firmados."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The thief was arrested by the police.\"",
+      "answer": "El ladrón fue detenido por la policía."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The report is already finished.\"",
+      "answer": "El informe ya está terminado."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's said that it's going to rain.\"",
+      "answer": "Se dice que va a llover."
+    }
+  ]
+}

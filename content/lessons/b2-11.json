@@ -1,0 +1,78 @@
+{
+  "sections": [
+    {
+      "heading": "Beyond decir",
+      "body": "Good reported speech uses precise verbs. They fall into two groups by the mood that follows:\n\n- **Reporting information → indicative**: *afirmar* (to state), *asegurar* (to assure), *explicar*, *contar*, *comentar*, *mencionar*, *confesar* (to confess), *admitir / reconocer* (to admit), *prometer* (to promise — often + conditional: *Prometió que llegaría a tiempo*), *anunciar*, *advertir* (to warn — informational: *Advirtió que habría retrasos*).\n- **Influencing / requesting → subjunctive**: *pedir, rogar* (to beg), *exigir* (to demand), *sugerir, recomendar, aconsejar, ordenar, insistir en, advertir* (warning someone to do something: *Nos advirtió que no saliéramos*)."
+    },
+    {
+      "heading": "Negated reporting verbs",
+      "body": "When the speaker denies the statement, the subjunctive appears: *Negó que lo supiera.* (He denied knowing it.) *No dijo que fuera culpa suya.* (He didn't say it was his fault.) Compare *No dijo que era culpa suya* — also used, when the speaker treats it as a fact he merely didn't mention."
+    },
+    {
+      "heading": "Summarising rather than quoting",
+      "body": "Often you report the act rather than the words: *Me felicitó por el ascenso.* (He congratulated me on the promotion.) *Se quejó del servicio.* (She complained about the service.) *Me agradeció la ayuda.* (He thanked me for the help.) *Se disculpó por llegar tarde.* (She apologised for being late.) *Me invitó a cenar.*"
+    }
+  ],
+  "vocab": [
+    ["afirmar", "to state / claim"],
+    ["confesar", "to confess"],
+    ["admitir", "to admit"],
+    ["reconocer", "to acknowledge / admit"],
+    ["prometer", "to promise"],
+    ["anunciar", "to announce"],
+    ["advertir", "to warn"],
+    ["rogar", "to beg"],
+    ["exigir", "to demand"],
+    ["negar", "to deny"],
+    ["quejarse de", "to complain about"],
+    ["disculparse", "to apologize"],
+    ["felicitar", "to congratulate"],
+    ["agradecer", "to thank for"],
+    ["el ascenso", "the promotion"],
+    ["el retraso", "the delay"]
+  ],
+  "examples": [
+    ["Afirmó que no sabía nada.", "He stated that he knew nothing."],
+    ["Confesó que había mentido.", "She confessed that she had lied."],
+    ["Reconoció que se había equivocado.", "He admitted he had made a mistake."],
+    ["Prometió que llegaría a tiempo.", "She promised she'd arrive on time."],
+    ["Anunciaron que habría retrasos.", "They announced there would be delays."],
+    ["Nos advirtió que no saliéramos.", "He warned us not to go out."],
+    ["Me rogó que no se lo dijera a nadie.", "She begged me not to tell anyone."],
+    ["El cliente exigió que le devolvieran el dinero.", "The customer demanded a refund."],
+    ["Negó que lo supiera.", "He denied knowing it."],
+    ["No dijo que fuera culpa suya.", "He didn't say it was his fault."],
+    ["Me felicitó por el ascenso.", "He congratulated me on the promotion."],
+    ["Se quejó del servicio.", "She complained about the service."],
+    ["Me agradeció la ayuda.", "He thanked me for the help."],
+    ["Se disculpó por llegar tarde.", "She apologized for being late."],
+    ["Me invitó a cenar.", "He invited me to dinner."],
+    ["Insistió en que nos quedáramos.", "She insisted that we stay."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Confesó que ___ mentido.", "answers": ["había"], "hint": "She confessed that she had lied."},
+    {"type": "fill", "prompt": "Prometió que ___ a tiempo. (llegar)", "answers": ["llegaría"], "hint": "She promised she'd arrive on time."},
+    {"type": "fill", "prompt": "Anunciaron que ___ retrasos. (haber)", "answers": ["habría"], "hint": "They announced there would be delays."},
+    {"type": "fill", "prompt": "Nos advirtió que no ___. (salir, nosotros)", "answers": ["saliéramos", "saliésemos"], "hint": "He warned us not to go out."},
+    {"type": "fill", "prompt": "Me rogó que no se lo ___ a nadie. (decir, yo)", "answers": ["dijera", "dijese"], "hint": "She begged me not to tell anyone."},
+    {"type": "fill", "prompt": "Negó que lo ___. (saber)", "answers": ["supiera", "supiese"], "hint": "He denied knowing it."},
+    {"type": "fill", "prompt": "Me ___ por el ascenso. (felicitar, él)", "answers": ["felicitó"], "hint": "He congratulated me on the promotion."},
+    {"type": "fill", "prompt": "Se ___ del servicio. (quejarse, ella)", "answers": ["quejó"], "hint": "She complained about the service."},
+    {"type": "fill", "prompt": "Se ___ por llegar tarde. (disculparse, ella)", "answers": ["disculpó"], "hint": "She apologized for being late."},
+    {"type": "fill", "prompt": "Insistió en que nos ___. (quedar, nosotros)", "answers": ["quedáramos", "quedásemos"], "hint": "She insisted that we stay."},
+    {"type": "fill", "prompt": "Reconoció que se ___ equivocado.", "answers": ["había"], "hint": "He admitted he had made a mistake."},
+    {"type": "mc", "prompt": "Choose: Advirtió que ___ retrasos. (information)", "options": ["habría", "hubiera"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Nos advirtió que no ___. (warning us to act)", "options": ["saliéramos", "salíamos"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Negó que lo ___.", "options": ["supiera", "sabía", "sabrá"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*rogar* means…", "options": ["to beg", "to pray only", "to rob", "to ask a question"], "answer": 0},
+    {"type": "mc", "prompt": "*Me agradeció la ayuda* means…", "options": ["He thanked me for the help.", "He liked my help.", "He asked me for help.", "He helped me gladly."], "answer": 0},
+    {"type": "translate", "prompt": "She promised she'd arrive on time.", "answers": ["Prometió que llegaría a tiempo."]},
+    {"type": "translate", "prompt": "He denied knowing it.", "answers": ["Negó que lo supiera.", "Negó saberlo."]},
+    {"type": "translate", "prompt": "She complained about the service.", "answers": ["Se quejó del servicio."]},
+    {"type": "translate", "prompt": "He invited me to dinner.", "answers": ["Me invitó a cenar."]},
+    {"type": "translate", "prompt": "She apologized for being late.", "answers": ["Se disculpó por llegar tarde.", "Se disculpó por haber llegado tarde."]},
+    {"type": "build", "prompt": "Put the words in order: \"The customer demanded a refund.\"", "answer": "El cliente exigió que le devolvieran el dinero."},
+    {"type": "build", "prompt": "Put the words in order: \"He admitted he had made a mistake.\"", "answer": "Reconoció que se había equivocado."},
+    {"type": "build", "prompt": "Put the words in order: \"She begged me not to tell anyone.\"", "answer": "Me rogó que no se lo dijera a nadie."}
+  ]
+}
