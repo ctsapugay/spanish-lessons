@@ -1,0 +1,412 @@
+{
+  "sections": [
+    {
+      "heading": "Verb phrases for the stages of an action",
+      "body": "Spanish uses a conjugated verb + (preposition) + infinitive or gerund to describe **when** an action starts, stops, repeats or continues. Only the first verb is conjugated.",
+      "table": {
+        "head": [
+          "Phrase",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "*empezar a* + inf.",
+            "to start doing",
+            "*Empecé a estudiar español en enero.*"
+          ],
+          [
+            "*ponerse a* + inf.",
+            "to start (suddenly)",
+            "*Se puso a llorar.*"
+          ],
+          [
+            "*acabar de* + inf.",
+            "to have just done",
+            "*Acabo de llegar.*"
+          ],
+          [
+            "*terminar de* + inf.",
+            "to finish doing",
+            "*Terminé de trabajar a las seis.*"
+          ],
+          [
+            "*dejar de* + inf.",
+            "to stop / quit doing",
+            "*Dejé de fumar.*"
+          ],
+          [
+            "*volver a* + inf.",
+            "to do again",
+            "*Volví a llamar.*"
+          ],
+          [
+            "*seguir* + gerund",
+            "to keep / still be doing",
+            "*Sigue lloviendo.*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Acabar de: just",
+      "body": "In the present, *acabar de* means \"have just\": *Acabo de comer* (I've just eaten). *¿Acabas de llegar?* In the imperfect, \"had just\": *Acababa de salir cuando me llamaste* (I had just left when you called me)."
+    },
+    {
+      "heading": "Volver a: again",
+      "body": "*Volver a* + infinitive is the most natural way to say \"again\": *Volví a ver la película* (I watched the movie again). *No lo vuelvo a hacer* (I won't do it again). You can also say *otra vez* or *de nuevo*: *Lo hice otra vez.*"
+    },
+    {
+      "heading": "Seguir + gerund: still",
+      "body": "*Seguir* (e → i) + gerund means to keep doing, or to still be doing: *Sigo estudiando* (I'm still studying). *¿Sigues viviendo en Bogotá?* (Do you still live in Bogotá?) *Siguieron trabajando.*"
+    }
+  ],
+  "vocab": [
+    [
+      "empezar a",
+      "to start (doing)"
+    ],
+    [
+      "ponerse a",
+      "to start (suddenly)"
+    ],
+    [
+      "acabar de",
+      "to have just (done)"
+    ],
+    [
+      "terminar de",
+      "to finish (doing)"
+    ],
+    [
+      "dejar de",
+      "to stop / quit (doing)"
+    ],
+    [
+      "volver a",
+      "to do again"
+    ],
+    [
+      "seguir + gerundio",
+      "to keep / still be (doing)"
+    ],
+    [
+      "otra vez",
+      "again (one more time)"
+    ],
+    [
+      "de nuevo",
+      "again (anew)"
+    ],
+    [
+      "llorar",
+      "to cry"
+    ],
+    [
+      "reír / reírse",
+      "to laugh"
+    ],
+    [
+      "fumar",
+      "to smoke"
+    ],
+    [
+      "intentar",
+      "to try"
+    ],
+    [
+      "olvidar",
+      "to forget"
+    ]
+  ],
+  "examples": [
+    [
+      "Empecé a estudiar español en enero.",
+      "I started studying Spanish in January."
+    ],
+    [
+      "Se puso a llorar.",
+      "She started crying."
+    ],
+    [
+      "Acabo de llegar.",
+      "I've just arrived."
+    ],
+    [
+      "¿Acabas de comer?",
+      "Have you just eaten?"
+    ],
+    [
+      "Terminé de trabajar a las seis.",
+      "I finished working at six."
+    ],
+    [
+      "Dejé de fumar hace dos años.",
+      "I quit smoking two years ago."
+    ],
+    [
+      "Volví a llamar, pero no contestó.",
+      "I called again, but she didn't answer."
+    ],
+    [
+      "No lo vuelvo a hacer.",
+      "I won't do it again."
+    ],
+    [
+      "Sigue lloviendo.",
+      "It's still raining."
+    ],
+    [
+      "¿Sigues viviendo en Bogotá?",
+      "Do you still live in Bogotá?"
+    ],
+    [
+      "Sigo estudiando.",
+      "I'm still studying."
+    ],
+    [
+      "Acababa de salir cuando me llamaste.",
+      "I had just left when you called me."
+    ],
+    [
+      "Volví a ver la película.",
+      "I watched the movie again."
+    ],
+    [
+      "Lo hice otra vez.",
+      "I did it again."
+    ],
+    [
+      "Intenta de nuevo.",
+      "Try again."
+    ],
+    [
+      "Los niños se pusieron a reír.",
+      "The kids started laughing."
+    ],
+    [
+      "Deja de hablar, por favor.",
+      "Stop talking, please."
+    ],
+    [
+      "Empieza a hacer frío.",
+      "It's starting to get cold."
+    ],
+    [
+      "Siguieron trabajando toda la noche.",
+      "They kept working all night."
+    ],
+    [
+      "No vuelvas a olvidar las llaves.",
+      "Don't forget the keys again."
+    ],
+    [
+      "Acabamos de terminar el examen.",
+      "We've just finished the exam."
+    ],
+    [
+      "¿Cuándo empezaste a trabajar aquí?",
+      "When did you start working here?"
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Empecé ___ estudiar español en enero.",
+      "answers": [
+        "a"
+      ],
+      "hint": "I started studying Spanish in January."
+    },
+    {
+      "type": "fill",
+      "prompt": "Acabo ___ llegar.",
+      "answers": [
+        "de"
+      ],
+      "hint": "I've just arrived."
+    },
+    {
+      "type": "fill",
+      "prompt": "Dejé ___ fumar hace dos años.",
+      "answers": [
+        "de"
+      ],
+      "hint": "I quit smoking two years ago."
+    },
+    {
+      "type": "fill",
+      "prompt": "Volví ___ llamar.",
+      "answers": [
+        "a"
+      ],
+      "hint": "I called again."
+    },
+    {
+      "type": "fill",
+      "prompt": "Sigue ___. (llover)",
+      "answers": [
+        "lloviendo"
+      ],
+      "hint": "It's still raining."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿___ viviendo en Bogotá? (seguir, tú)",
+      "answers": [
+        "sigues"
+      ],
+      "hint": "Do you still live in Bogotá?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ a llorar. (ponerse, ella)",
+      "answers": [
+        "puso"
+      ],
+      "hint": "She started crying."
+    },
+    {
+      "type": "fill",
+      "prompt": "Terminé ___ trabajar a las seis.",
+      "answers": [
+        "de"
+      ],
+      "hint": "I finished working at six."
+    },
+    {
+      "type": "fill",
+      "prompt": "Acabamos de ___ el examen. (terminar)",
+      "answers": [
+        "terminar"
+      ],
+      "hint": "We've just finished the exam."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo hice otra ___.",
+      "answers": [
+        "vez"
+      ],
+      "hint": "I did it again."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ de hablar, por favor. (dejar, tú)",
+      "answers": [
+        "deja"
+      ],
+      "hint": "Stop talking, please."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Acabo de comer* means…",
+      "options": [
+        "I've just eaten.",
+        "I finished eating long ago.",
+        "I'm going to eat.",
+        "I stopped eating."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Dejé de fumar* means…",
+      "options": [
+        "I quit smoking.",
+        "I let him smoke.",
+        "I started smoking.",
+        "I left to smoke."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Volví a ver la película* means…",
+      "options": [
+        "I watched the movie again.",
+        "I came back to watch the movie.",
+        "I stopped watching the movie.",
+        "I returned the movie."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Sigo estudiando* means…",
+      "options": [
+        "I'm still studying.",
+        "I follow my studies.",
+        "I'll study next.",
+        "I studied."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which phrase means \"to start suddenly\"?",
+      "options": [
+        "ponerse a",
+        "dejar de",
+        "acabar de",
+        "volver a"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "I've just arrived.",
+      "answers": [
+        "Acabo de llegar.",
+        "Yo acabo de llegar."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's still raining.",
+      "answers": [
+        "Sigue lloviendo.",
+        "Todavía está lloviendo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I won't do it again.",
+      "answers": [
+        "No lo vuelvo a hacer.",
+        "No lo voy a hacer otra vez.",
+        "No lo voy a volver a hacer."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Stop talking, please. (tú)",
+      "answers": [
+        "Deja de hablar, por favor."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "When did you start working here? (informal)",
+      "answers": [
+        "¿Cuándo empezaste a trabajar aquí?"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I called again, but she didn't answer.\"",
+      "answer": "Volví a llamar, pero no contestó."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I had just left when you called me.\"",
+      "answer": "Acababa de salir cuando me llamaste."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"They kept working all night.\"",
+      "answer": "Siguieron trabajando toda la noche."
+    }
+  ]
+}

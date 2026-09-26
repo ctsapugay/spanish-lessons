@@ -1,0 +1,83 @@
+{
+  "sections": [
+    {
+      "heading": "Shops",
+      "body": "Many shops are named after what they sell + *-ería*: *la panadería* (bakery — *pan*), *la carnicería* (butcher's — *carne*), *la frutería* (fruit shop), *la zapatería* (shoe shop), *la librería* (bookstore — not a library, which is *la biblioteca*!), *la papelería* (stationery shop), *la joyería* (jewelry store). Also *el centro comercial* (the mall), *el mercado* (market), *la tienda de ropa* (clothing store)."
+    },
+    {
+      "heading": "Asking and trying on",
+      "body": "- *¿Me puede ayudar? / ¿Me ayuda?* — Can you help me?\n- *Estoy buscando unos pantalones.* — I'm looking for some pants.\n- *¿La tiene en otro color / en una talla más grande?* — Do you have it in another color / a bigger size?\n- *¿Dónde están los probadores?* — Where are the fitting rooms?\n- *Solo estoy mirando, gracias.* — I'm just looking, thanks."
+    },
+    {
+      "heading": "Paying and returning",
+      "body": "- *¿Cómo va a pagar? — Con tarjeta / en efectivo.* (by card / in cash)\n- *¿Aceptan tarjeta?* — Do you take cards?\n- *¿Me da un recibo / una boleta?* — Can I have a receipt?\n- *Está en oferta / en rebaja.* — It's on sale. *Hay un descuento del 20 %.*\n- *Quisiera devolver esto.* — I'd like to return this. *¿Me devuelven el dinero?* — Will you refund me? *¿Lo puedo cambiar?* — Can I exchange it?\n\nMoney words: *el dinero, el efectivo* (cash), *el cambio / el vuelto* (change), *la tarjeta de crédito / débito*, *el cajero automático* (ATM)."
+    }
+  ],
+  "vocab": [
+    ["la panadería", "the bakery"],
+    ["la librería", "the bookstore"],
+    ["la zapatería", "the shoe store"],
+    ["el centro comercial", "the mall"],
+    ["el probador", "the fitting room"],
+    ["la tarjeta", "the card"],
+    ["en efectivo", "in cash"],
+    ["el recibo", "the receipt"],
+    ["en oferta", "on sale"],
+    ["el descuento", "the discount"],
+    ["devolver", "to return (an item) / give back"],
+    ["el cambio", "the change (money)"],
+    ["el cajero automático", "the ATM"],
+    ["aceptar", "to accept"],
+    ["solo", "only / just"],
+    ["mirar", "to look"]
+  ],
+  "examples": [
+    ["¿Me puede ayudar?", "Can you help me?"],
+    ["Estoy buscando unos pantalones.", "I'm looking for some pants."],
+    ["¿La tiene en otro color?", "Do you have it in another color?"],
+    ["¿La tiene en una talla más grande?", "Do you have it in a bigger size?"],
+    ["¿Dónde están los probadores?", "Where are the fitting rooms?"],
+    ["Solo estoy mirando, gracias.", "I'm just looking, thanks."],
+    ["¿Cómo va a pagar?", "How will you pay?"],
+    ["Con tarjeta.", "By card."],
+    ["Voy a pagar en efectivo.", "I'm going to pay in cash."],
+    ["¿Aceptan tarjeta?", "Do you take cards?"],
+    ["¿Me da un recibo, por favor?", "Can I have a receipt, please?"],
+    ["Estos zapatos están en oferta.", "These shoes are on sale."],
+    ["Hay un descuento del veinte por ciento.", "There's a twenty percent discount."],
+    ["Quisiera devolver esta camisa.", "I'd like to return this shirt."],
+    ["¿Me devuelven el dinero?", "Will you give me a refund?"],
+    ["¿Lo puedo cambiar por otro?", "Can I exchange it for another one?"],
+    ["Aquí tiene su cambio.", "Here's your change."],
+    ["¿Hay un cajero automático por aquí?", "Is there an ATM around here?"],
+    ["Compré el pan en la panadería.", "I bought the bread at the bakery."],
+    ["La librería está en el centro comercial.", "The bookstore is in the mall."],
+    ["Voy a la zapatería.", "I'm going to the shoe store."],
+    ["Es muy caro. ¿Tiene algo más barato?", "It's very expensive. Do you have anything cheaper?"]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Where do you buy bread?", "options": ["la panadería", "la librería", "la zapatería", "la carnicería"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*La librería* is…", "options": ["a bookstore", "a library", "a bakery", "a jewelry store"], "answer": 0},
+    {"type": "mc", "prompt": "A shop assistant asks *¿Le puedo ayudar?* You only want to browse. You say…", "options": ["Solo estoy mirando, gracias.", "Con tarjeta.", "Me lo llevo.", "Quisiera devolver esto."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Está en oferta* means…", "options": ["It's on sale.", "It's an offer letter.", "It's out of stock.", "It's included."], "answer": 0},
+    {"type": "mc", "prompt": "\"in cash\" is…", "options": ["en efectivo", "con efectivo", "por dinero", "en tarjeta"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*¿Me devuelven el dinero?* asks…", "options": ["Will you give me a refund?", "Can I borrow money?", "Where's the money?", "Can you change money?"], "answer": 0},
+    {"type": "fill", "prompt": "Estoy ___ unos pantalones. (buscar)", "answers": ["buscando"], "hint": "I'm looking for some pants."},
+    {"type": "fill", "prompt": "¿La tiene en otro ___?", "answers": ["color"], "hint": "Do you have it in another color?"},
+    {"type": "fill", "prompt": "¿Dónde están los ___?", "answers": ["probadores"], "hint": "Where are the fitting rooms?"},
+    {"type": "fill", "prompt": "Voy a pagar en ___.", "answers": ["efectivo"], "hint": "I'm going to pay in cash."},
+    {"type": "fill", "prompt": "¿___ tarjeta? (aceptar, ustedes)", "answers": ["aceptan"], "hint": "Do you take cards?"},
+    {"type": "fill", "prompt": "Quisiera ___ esta camisa.", "answers": ["devolver"], "hint": "I'd like to return this shirt."},
+    {"type": "fill", "prompt": "Hay un ___ del veinte por ciento.", "answers": ["descuento"], "hint": "There's a twenty percent discount."},
+    {"type": "fill", "prompt": "Aquí tiene su ___.", "answers": ["cambio"], "hint": "Here's your change."},
+    {"type": "fill", "prompt": "¿Me da un ___, por favor?", "answers": ["recibo"], "hint": "Can I have a receipt, please?"},
+    {"type": "translate", "prompt": "Can you help me? (usted)", "answers": ["¿Me puede ayudar?", "¿Me ayuda?", "¿Puede ayudarme?"]},
+    {"type": "translate", "prompt": "I'm just looking, thanks.", "answers": ["Solo estoy mirando, gracias."]},
+    {"type": "translate", "prompt": "Do you take cards?", "answers": ["¿Aceptan tarjeta?", "¿Acepta tarjeta?", "¿Aceptan tarjetas?"]},
+    {"type": "translate", "prompt": "I'd like to return this shirt.", "answers": ["Quisiera devolver esta camisa.", "Quiero devolver esta camisa."]},
+    {"type": "translate", "prompt": "These shoes are on sale.", "answers": ["Estos zapatos están en oferta.", "Estos zapatos están en rebaja."]},
+    {"type": "build", "prompt": "Put the words in order: \"Do you have it in a bigger size?\"", "answer": "¿La tiene en una talla más grande?"},
+    {"type": "build", "prompt": "Put the words in order: \"Is there an ATM around here?\"", "answer": "¿Hay un cajero automático por aquí?"},
+    {"type": "build", "prompt": "Put the words in order: \"I bought the bread at the bakery.\"", "answer": "Compré el pan en la panadería."}
+  ]
+}

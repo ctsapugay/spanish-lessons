@@ -1,0 +1,454 @@
+{
+  "sections": [
+    {
+      "heading": "Commands for usted and ustedes",
+      "body": "Formal commands use the \"opposite\" vowel: take the *yo* form of the present, drop the *-o*, and add *-e / -en* for *-ar* verbs, *-a / -an* for *-er / -ir* verbs.",
+      "table": {
+        "head": [
+          "Infinitive",
+          "yo form",
+          "usted",
+          "ustedes"
+        ],
+        "rows": [
+          [
+            "*hablar*",
+            "*hablo*",
+            "*hable*",
+            "*hablen*"
+          ],
+          [
+            "*comer*",
+            "*como*",
+            "*coma*",
+            "*coman*"
+          ],
+          [
+            "*escribir*",
+            "*escribo*",
+            "*escriba*",
+            "*escriban*"
+          ],
+          [
+            "*tener*",
+            "*tengo*",
+            "*tenga*",
+            "*tengan*"
+          ],
+          [
+            "*hacer*",
+            "*hago*",
+            "*haga*",
+            "*hagan*"
+          ],
+          [
+            "*pedir*",
+            "*pido*",
+            "*pida*",
+            "*pidan*"
+          ],
+          [
+            "*volver*",
+            "*vuelvo*",
+            "*vuelva*",
+            "*vuelvan*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Irregulars and spelling",
+      "body": "Five that don't follow the *yo* rule: *ir → vaya / vayan*, *ser → sea / sean*, *saber → sepa*, *estar → esté*, *dar → dé*.\n\nSpelling changes keep the sound: *buscar → busque*, *llegar → llegue*, *empezar → empiece*.\n\nIn Latin America, *ustedes* commands are used for **any** group — friends included: *¡Niños, vengan aquí!*"
+    },
+    {
+      "heading": "Irregular tú commands",
+      "body": "You met these in A1; now use them actively: *di* (decir), *haz* (hacer), *ve* (ir), *pon* (poner), *sal* (salir), *sé* (ser), *ten* (tener), *ven* (venir). *¡Haz la tarea! ¡Ven aquí! ¡Pon la mesa! ¡Sé bueno!*"
+    },
+    {
+      "heading": "Pronouns attach to affirmative commands",
+      "body": "*Siéntese* (sit down — usted, from *sentarse*), *Dígame* (tell me — usted, also how many people answer the phone), *Pásenme la sal* (pass me the salt — ustedes), *Hazlo* (do it), *Ponte la chaqueta* (put your jacket on), *Dímelo*. Add an accent when needed to keep the stress: *diga → dígame*."
+    }
+  ],
+  "vocab": [
+    [
+      "hable / hablen",
+      "speak (formal command)"
+    ],
+    [
+      "pase / pasen",
+      "come in"
+    ],
+    [
+      "siéntese",
+      "sit down (usted)"
+    ],
+    [
+      "dígame",
+      "tell me / hello (on the phone)"
+    ],
+    [
+      "vaya / vayan",
+      "go (formal)"
+    ],
+    [
+      "haga / hagan",
+      "do / make (formal)"
+    ],
+    [
+      "tenga",
+      "have / here you are (formal)"
+    ],
+    [
+      "espere",
+      "wait (formal)"
+    ],
+    [
+      "disculpe",
+      "excuse me (formal)"
+    ],
+    [
+      "di",
+      "say / tell"
+    ],
+    [
+      "haz",
+      "do / make"
+    ],
+    [
+      "ve",
+      "go"
+    ],
+    [
+      "pon",
+      "put"
+    ],
+    [
+      "sal",
+      "go out / leave"
+    ],
+    [
+      "sé",
+      "be"
+    ],
+    [
+      "ponerse",
+      "to put on (clothes)"
+    ]
+  ],
+  "examples": [
+    [
+      "Pase, por favor.",
+      "Come in, please."
+    ],
+    [
+      "Siéntese aquí.",
+      "Sit down here."
+    ],
+    [
+      "Hable más despacio, por favor.",
+      "Please speak more slowly."
+    ],
+    [
+      "Espere un momento.",
+      "Wait a moment."
+    ],
+    [
+      "Disculpe, ¿dónde está el baño?",
+      "Excuse me, where's the bathroom?"
+    ],
+    [
+      "Tenga, su cambio.",
+      "Here you are, your change."
+    ],
+    [
+      "Vaya todo derecho y gire a la izquierda.",
+      "Go straight ahead and turn left."
+    ],
+    [
+      "Coman, que la comida está caliente.",
+      "Eat — the food is hot."
+    ],
+    [
+      "¡Niños, vengan aquí!",
+      "Kids, come here!"
+    ],
+    [
+      "Escriban su nombre en la hoja.",
+      "Write your names on the sheet."
+    ],
+    [
+      "¿Aló? Dígame.",
+      "Hello? (answering the phone)"
+    ],
+    [
+      "¡Haz la tarea!",
+      "Do your homework!"
+    ],
+    [
+      "¡Ven aquí!",
+      "Come here!"
+    ],
+    [
+      "Pon la mesa, por favor.",
+      "Set the table, please."
+    ],
+    [
+      "Sé bueno con tu hermano.",
+      "Be good to your brother."
+    ],
+    [
+      "Di la verdad.",
+      "Tell the truth."
+    ],
+    [
+      "Ve a la tienda y compra pan.",
+      "Go to the store and buy bread."
+    ],
+    [
+      "Sal de aquí.",
+      "Get out of here."
+    ],
+    [
+      "Hazlo ahora.",
+      "Do it now."
+    ],
+    [
+      "Ponte la chaqueta, hace frío.",
+      "Put your jacket on, it's cold."
+    ],
+    [
+      "Pásenme la sal, por favor.",
+      "Pass me the salt, please."
+    ],
+    [
+      "No se preocupe.",
+      "Don't worry."
+    ],
+    [
+      "Haga el favor de esperar.",
+      "Please wait."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "___ más despacio, por favor. (hablar, usted)",
+      "answers": [
+        "hable"
+      ],
+      "hint": "Please speak more slowly."
+    },
+    {
+      "type": "fill",
+      "prompt": "___, por favor. (pasar, usted)",
+      "answers": [
+        "pase"
+      ],
+      "hint": "Come in, please."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ un momento. (esperar, usted)",
+      "answers": [
+        "espere"
+      ],
+      "hint": "Wait a moment."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ todo derecho. (ir, usted)",
+      "answers": [
+        "vaya"
+      ],
+      "hint": "Go straight ahead."
+    },
+    {
+      "type": "fill",
+      "prompt": "¡Niños, ___ aquí! (venir, ustedes)",
+      "answers": [
+        "vengan"
+      ],
+      "hint": "Kids, come here!"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ su nombre en la hoja. (escribir, ustedes)",
+      "answers": [
+        "escriban"
+      ],
+      "hint": "Write your names on the sheet."
+    },
+    {
+      "type": "fill",
+      "prompt": "¡___ la tarea! (hacer, tú)",
+      "answers": [
+        "haz"
+      ],
+      "hint": "Do your homework!"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ la mesa, por favor. (poner, tú)",
+      "answers": [
+        "pon"
+      ],
+      "hint": "Set the table, please."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ la verdad. (decir, tú)",
+      "answers": [
+        "di"
+      ],
+      "hint": "Tell the truth."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ a la tienda. (ir, tú)",
+      "answers": [
+        "ve"
+      ],
+      "hint": "Go to the store."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ ahora. (hacer + lo, tú)",
+      "answers": [
+        "hazlo"
+      ],
+      "hint": "Do it now. (one word)"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ aquí. (sentarse, usted)",
+      "answers": [
+        "siéntese"
+      ],
+      "hint": "Sit down here. (one word)"
+    },
+    {
+      "type": "mc",
+      "prompt": "The usted command of *tener* is…",
+      "options": [
+        "tenga",
+        "tene",
+        "tiene",
+        "ten"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The usted command of *ir* is…",
+      "options": [
+        "vaya",
+        "va",
+        "ve",
+        "ira"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The usted command of *buscar* is…",
+      "options": [
+        "busque",
+        "busca",
+        "busce",
+        "buske"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "In Latin America, to tell a group of friends to come, you say…",
+      "options": [
+        "¡Vengan!",
+        "¡Venid!",
+        "¡Ven!",
+        "¡Venga!"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*Venid* (vosotros) is only used in Spain."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Sé bueno* means…",
+      "options": [
+        "Be good.",
+        "I know it's good.",
+        "It's good.",
+        "Know good things."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Tenga, su cambio* means…",
+      "options": [
+        "Here you are, your change.",
+        "Keep your change.",
+        "Have a change of heart.",
+        "You have change."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "Come in, please. (usted)",
+      "answers": [
+        "Pase, por favor.",
+        "Adelante, por favor."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Wait a moment. (usted)",
+      "answers": [
+        "Espere un momento.",
+        "Un momento, por favor."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Do your homework! (tú)",
+      "answers": [
+        "¡Haz la tarea!",
+        "¡Haz tu tarea!"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Put your jacket on, it's cold. (tú)",
+      "answers": [
+        "Ponte la chaqueta, hace frío."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Don't worry. (usted)",
+      "answers": [
+        "No se preocupe."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Go straight ahead and turn left.\" (usted)",
+      "answer": "Vaya todo derecho y gire a la izquierda."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Excuse me, where's the bathroom?\"",
+      "answer": "Disculpe, ¿dónde está el baño?"
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Pass me the salt, please.\" (ustedes)",
+      "answer": "Pásenme la sal, por favor."
+    }
+  ]
+}
