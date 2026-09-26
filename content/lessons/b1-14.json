@@ -1,0 +1,429 @@
+{
+  "sections": [
+    {
+      "heading": "The imperfect subjunctive",
+      "body": "The subjunctive has a past form too. It's easy to build from something you know: take the **ellos form of the preterite**, drop *-ron*, and add *-ra, -ras, -ra, -ramos, -ran*. Every irregularity of the preterite carries over automatically.",
+      "table": {
+        "head": [
+          "Infinitive",
+          "ellos (preterite)",
+          "yo / él",
+          "tú",
+          "nosotros",
+          "ellos"
+        ],
+        "rows": [
+          [
+            "*hablar*",
+            "*hablaron*",
+            "*hablara*",
+            "*hablaras*",
+            "*habláramos*",
+            "*hablaran*"
+          ],
+          [
+            "*comer*",
+            "*comieron*",
+            "*comiera*",
+            "*comieras*",
+            "*comiéramos*",
+            "*comieran*"
+          ],
+          [
+            "*vivir*",
+            "*vivieron*",
+            "*viviera*",
+            "*vivieras*",
+            "*viviéramos*",
+            "*vivieran*"
+          ],
+          [
+            "*tener*",
+            "*tuvieron*",
+            "*tuviera*",
+            "*tuvieras*",
+            "*tuviéramos*",
+            "*tuvieran*"
+          ],
+          [
+            "*ser / ir*",
+            "*fueron*",
+            "*fuera*",
+            "*fueras*",
+            "*fuéramos*",
+            "*fueran*"
+          ],
+          [
+            "*hacer*",
+            "*hicieron*",
+            "*hiciera*",
+            "*hicieras*",
+            "*hiciéramos*",
+            "*hicieran*"
+          ],
+          [
+            "*poder*",
+            "*pudieron*",
+            "*pudiera*",
+            "*pudieras*",
+            "*pudiéramos*",
+            "*pudieran*"
+          ],
+          [
+            "*decir*",
+            "*dijeron*",
+            "*dijera*",
+            "*dijeras*",
+            "*dijéramos*",
+            "*dijeran*"
+          ],
+          [
+            "*pedir*",
+            "*pidieron*",
+            "*pidiera*",
+            "*pidieras*",
+            "*pidiéramos*",
+            "*pidieran*"
+          ],
+          [
+            "*haber*",
+            "*hubieron*",
+            "*hubiera* (there were)",
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "The -se forms",
+      "body": "There's a second set of endings: *-se, -ses, -se, -semos, -sen* (*hablase, comiese, tuviese*). They mean exactly the same thing. They're common in Spain and in writing; in Latin American speech the *-ra* forms are much more common, so this course uses *-ra* — but recognise *-se* when you read."
+    },
+    {
+      "heading": "When is it used?",
+      "body": "Anywhere the subjunctive is needed but the trigger is in the past or conditional: *Quería que vinieras* (I wanted you to come), *Me pidió que lo ayudara* (He asked me to help him), in hypothetical *si* clauses (*Si tuviera dinero…*), and in polite requests (*Quisiera un café* — you already know this one!). The next two lessons cover these uses."
+    }
+  ],
+  "vocab": [
+    [
+      "hablara",
+      "that I/he/she spoke (imp. subj.)"
+    ],
+    [
+      "comiera",
+      "that I/he/she ate (imp. subj.)"
+    ],
+    [
+      "viviera",
+      "that I/he/she lived (imp. subj.)"
+    ],
+    [
+      "tuviera",
+      "that I/he/she had (imp. subj.)"
+    ],
+    [
+      "fuera",
+      "that I/he/she were / went (imp. subj.)"
+    ],
+    [
+      "hiciera",
+      "that I/he/she did (imp. subj.)"
+    ],
+    [
+      "pudiera",
+      "that I/he/she could (imp. subj.)"
+    ],
+    [
+      "dijera",
+      "that I/he/she said (imp. subj.)"
+    ],
+    [
+      "hubiera",
+      "that there were (imp. subj.)"
+    ],
+    [
+      "viniera",
+      "that I/he/she came (imp. subj.)"
+    ],
+    [
+      "estuviera",
+      "that I/he/she were (estar, imp. subj.)"
+    ],
+    [
+      "supiera",
+      "that I/he/she knew (imp. subj.)"
+    ],
+    [
+      "quisiera",
+      "I would like"
+    ]
+  ],
+  "examples": [
+    [
+      "Quería que vinieras.",
+      "I wanted you to come."
+    ],
+    [
+      "Me pidió que lo ayudara.",
+      "He asked me to help him."
+    ],
+    [
+      "Si tuviera dinero, viajaría.",
+      "If I had money, I would travel."
+    ],
+    [
+      "Quisiera un café, por favor.",
+      "I'd like a coffee, please."
+    ],
+    [
+      "Mis padres querían que estudiara medicina.",
+      "My parents wanted me to study medicine."
+    ],
+    [
+      "No creía que fuera verdad.",
+      "I didn't think it was true."
+    ],
+    [
+      "Era importante que llegáramos temprano.",
+      "It was important for us to arrive early."
+    ],
+    [
+      "Le dije que hiciera la tarea.",
+      "I told him to do his homework."
+    ],
+    [
+      "Esperaba que pudieras venir.",
+      "I was hoping you could come."
+    ],
+    [
+      "Nos pidió que no dijéramos nada.",
+      "She asked us not to say anything."
+    ],
+    [
+      "Buscaba a alguien que supiera francés.",
+      "I was looking for someone who knew French."
+    ],
+    [
+      "Si estuviera aquí, te ayudaría.",
+      "If I were there, I'd help you."
+    ],
+    [
+      "Me sorprendió que no hubiera nadie.",
+      "I was surprised there was nobody there."
+    ],
+    [
+      "Quería que me escribieras.",
+      "I wanted you to write to me."
+    ],
+    [
+      "Ojalá viviera cerca del mar.",
+      "I wish I lived near the sea."
+    ],
+    [
+      "Si comieran menos, estarían mejor.",
+      "If they ate less, they'd feel better."
+    ],
+    [
+      "Si hablaras más despacio, te entendería.",
+      "If you spoke more slowly, I'd understand you."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "The imperfect subjunctive is built from…",
+      "options": [
+        "the ellos form of the preterite",
+        "the yo form of the present",
+        "the infinitive",
+        "the imperfect"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "The imperfect subjunctive of *tener* (yo) is…",
+      "options": [
+        "tuviera",
+        "teniera",
+        "tendiera",
+        "tenía"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The imperfect subjunctive of *ir* (yo) is…",
+      "options": [
+        "fuera",
+        "iera",
+        "vaya",
+        "iba"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Hablase* and *hablara*…",
+      "options": [
+        "mean the same thing",
+        "are present and past",
+        "are formal and informal commands",
+        "are different verbs"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which *nosotros* form is correct?",
+      "options": [
+        "habláramos",
+        "hablaramos",
+        "hablábamos",
+        "hablaríamos"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "The *nosotros* form carries an accent."
+    },
+    {
+      "type": "fill",
+      "prompt": "Quería que ___. (venir, tú)",
+      "answers": [
+        "vinieras"
+      ],
+      "hint": "I wanted you to come."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me pidió que lo ___. (ayudar, yo)",
+      "answers": [
+        "ayudara"
+      ],
+      "hint": "He asked me to help him."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si ___ dinero, viajaría. (tener, yo)",
+      "answers": [
+        "tuviera"
+      ],
+      "hint": "If I had money, I would travel."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mis padres querían que ___ medicina. (estudiar, yo)",
+      "answers": [
+        "estudiara"
+      ],
+      "hint": "My parents wanted me to study medicine."
+    },
+    {
+      "type": "fill",
+      "prompt": "No creía que ___ verdad. (ser)",
+      "answers": [
+        "fuera"
+      ],
+      "hint": "I didn't think it was true."
+    },
+    {
+      "type": "fill",
+      "prompt": "Era importante que ___ temprano. (llegar, nosotros)",
+      "answers": [
+        "llegáramos"
+      ],
+      "hint": "It was important for us to arrive early."
+    },
+    {
+      "type": "fill",
+      "prompt": "Le dije que ___ la tarea. (hacer, él)",
+      "answers": [
+        "hiciera"
+      ],
+      "hint": "I told him to do his homework."
+    },
+    {
+      "type": "fill",
+      "prompt": "Esperaba que ___ venir. (poder, tú)",
+      "answers": [
+        "pudieras"
+      ],
+      "hint": "I was hoping you could come."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nos pidió que no ___ nada. (decir, nosotros)",
+      "answers": [
+        "dijéramos"
+      ],
+      "hint": "She asked us not to say anything."
+    },
+    {
+      "type": "fill",
+      "prompt": "Buscaba a alguien que ___ francés. (saber)",
+      "answers": [
+        "supiera"
+      ],
+      "hint": "I was looking for someone who knew French."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ojalá ___ cerca del mar. (vivir, yo)",
+      "answers": [
+        "viviera"
+      ],
+      "hint": "I wish I lived near the sea."
+    },
+    {
+      "type": "translate",
+      "prompt": "I wanted you to come. (tú)",
+      "answers": [
+        "Quería que vinieras.",
+        "Quería que vinieses."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "If I had money, I would travel.",
+      "answers": [
+        "Si tuviera dinero, viajaría.",
+        "Si tuviese dinero, viajaría."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I didn't think it was true.",
+      "answers": [
+        "No creía que fuera verdad.",
+        "No creí que fuera verdad.",
+        "No pensaba que fuera verdad."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I wish I lived near the sea.",
+      "answers": [
+        "Ojalá viviera cerca del mar.",
+        "Ojalá que viviera cerca del mar."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"My parents wanted me to study medicine.\"",
+      "answer": "Mis padres querían que estudiara medicina."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"She asked us not to say anything.\"",
+      "answer": "Nos pidió que no dijéramos nada."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"If you spoke more slowly, I'd understand you.\"",
+      "answer": "Si hablaras más despacio, te entendería."
+    }
+  ]
+}

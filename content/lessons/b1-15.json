@@ -1,0 +1,336 @@
+{
+  "sections": [
+    {
+      "heading": "Real conditions: si + present",
+      "body": "For things that can really happen, use *si* + **present indicative**, and in the result clause the present, future, *ir a*, or a command:\n\n- *Si llueve, no salimos.* (If it rains, we don't go out.)\n- *Si tengo tiempo, te llamo / te llamaré / te voy a llamar.*\n- *Si ves a Ana, dile que la espero.* (If you see Ana, tell her I'm waiting.)\n\nNever use the present subjunctive after *si*: not *si llueva*."
+    },
+    {
+      "heading": "Hypothetical conditions: si + imperfect subjunctive + conditional",
+      "body": "For unlikely or imaginary situations (\"if I had…, I would…\"), use *si* + **imperfect subjunctive**, and the **conditional** in the result:\n\n- *Si tuviera más tiempo, aprendería a tocar la guitarra.* (If I had more time, I'd learn to play the guitar.)\n- *Si fuera tú, no lo haría.* (If I were you, I wouldn't do it.)\n- *¿Qué harías si ganaras la lotería?* (What would you do if you won the lottery?)\n\nThe order can be flipped: *Viajaría más si tuviera dinero.* The *si* clause never takes the conditional."
+    },
+    {
+      "heading": "Real or imaginary? You choose",
+      "body": "The same idea changes meaning with the tense: *Si tengo dinero, voy a viajar* (I might well have it) vs. *Si tuviera dinero, viajaría* (I don't have it — just imagining)."
+    }
+  ],
+  "vocab": [
+    [
+      "si",
+      "if"
+    ],
+    [
+      "si tuviera",
+      "if I had"
+    ],
+    [
+      "si fuera",
+      "if I were"
+    ],
+    [
+      "si pudiera",
+      "if I could"
+    ],
+    [
+      "si ganara",
+      "if I won"
+    ],
+    [
+      "la lotería",
+      "the lottery"
+    ],
+    [
+      "aprender a",
+      "to learn to"
+    ],
+    [
+      "dile",
+      "tell him/her (tú)"
+    ],
+    [
+      "el tiempo libre",
+      "free time"
+    ],
+    [
+      "el presidente",
+      "the president"
+    ],
+    [
+      "mudarse",
+      "to move (house)"
+    ],
+    [
+      "la isla",
+      "the island"
+    ]
+  ],
+  "examples": [
+    [
+      "Si llueve, no salimos.",
+      "If it rains, we don't go out."
+    ],
+    [
+      "Si tengo tiempo, te llamo.",
+      "If I have time, I'll call you."
+    ],
+    [
+      "Si ves a Ana, dile que la espero.",
+      "If you see Ana, tell her I'm waiting."
+    ],
+    [
+      "Si estudias, vas a aprobar.",
+      "If you study, you're going to pass."
+    ],
+    [
+      "Si tuviera más tiempo, aprendería a tocar la guitarra.",
+      "If I had more time, I'd learn to play the guitar."
+    ],
+    [
+      "Si fuera tú, no lo haría.",
+      "If I were you, I wouldn't do it."
+    ],
+    [
+      "¿Qué harías si ganaras la lotería?",
+      "What would you do if you won the lottery?"
+    ],
+    [
+      "Si ganara la lotería, me mudaría a una isla.",
+      "If I won the lottery, I'd move to an island."
+    ],
+    [
+      "Viajaría más si tuviera dinero.",
+      "I'd travel more if I had money."
+    ],
+    [
+      "Si pudiera, te ayudaría.",
+      "If I could, I'd help you."
+    ],
+    [
+      "Si fuera presidente, cambiaría muchas cosas.",
+      "If I were president, I'd change many things."
+    ],
+    [
+      "Si no hiciera tanto frío, iríamos a la playa.",
+      "If it weren't so cold, we'd go to the beach."
+    ],
+    [
+      "Si tienes hambre, hay comida en la cocina.",
+      "If you're hungry, there's food in the kitchen."
+    ],
+    [
+      "Si tuviéramos tiempo libre, saldríamos más.",
+      "If we had free time, we'd go out more."
+    ],
+    [
+      "Si me llamas, voy.",
+      "If you call me, I'll come."
+    ],
+    [
+      "Si vivieras aquí, nos veríamos más.",
+      "If you lived here, we'd see each other more."
+    ],
+    [
+      "Si supiera la respuesta, te la diría.",
+      "If I knew the answer, I'd tell you."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose: Si ___, no salimos.",
+      "options": [
+        "llueve",
+        "llueva",
+        "lloverá"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Real condition → *si* + present indicative."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Si ___ más tiempo, aprendería a tocar la guitarra.",
+      "options": [
+        "tuviera",
+        "tengo",
+        "tendría",
+        "tenga"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Si fuera tú, no lo ___.",
+      "options": [
+        "haría",
+        "hiciera",
+        "hago",
+        "haga"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is WRONG?",
+      "options": [
+        "Si tendría dinero, viajaría.",
+        "Si tuviera dinero, viajaría.",
+        "Si tengo dinero, viajaré."
+      ],
+      "answer": 0,
+      "explain": "The *si* clause never takes the conditional."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Si tengo dinero, voy a viajar* suggests…",
+      "options": [
+        "it's quite possible I'll have the money",
+        "I definitely don't have the money",
+        "I had the money in the past"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Si ___ tiempo, te llamo. (tener, yo)",
+      "answers": [
+        "tengo"
+      ],
+      "hint": "If I have time, I'll call you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si estudias, ___ a aprobar. (ir, tú)",
+      "answers": [
+        "vas"
+      ],
+      "hint": "If you study, you're going to pass."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué harías si ___ la lotería? (ganar, tú)",
+      "answers": [
+        "ganaras"
+      ],
+      "hint": "What would you do if you won the lottery?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Si ganara la lotería, me ___ a una isla. (mudarse)",
+      "answers": [
+        "mudaría"
+      ],
+      "hint": "If I won the lottery, I'd move to an island."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si ___, te ayudaría. (poder, yo)",
+      "answers": [
+        "pudiera"
+      ],
+      "hint": "If I could, I'd help you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si ___ presidente, cambiaría muchas cosas. (ser, yo)",
+      "answers": [
+        "fuera"
+      ],
+      "hint": "If I were president, I'd change many things."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si no hiciera tanto frío, ___ a la playa. (ir, nosotros)",
+      "answers": [
+        "iríamos"
+      ],
+      "hint": "If it weren't so cold, we'd go to the beach."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si ___ tiempo libre, saldríamos más. (tener, nosotros)",
+      "answers": [
+        "tuviéramos"
+      ],
+      "hint": "If we had free time, we'd go out more."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si ___ aquí, nos veríamos más. (vivir, tú)",
+      "answers": [
+        "vivieras"
+      ],
+      "hint": "If you lived here, we'd see each other more."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si supiera la respuesta, te la ___. (decir)",
+      "answers": [
+        "diría"
+      ],
+      "hint": "If I knew the answer, I'd tell you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si ves a Ana, ___ que la espero. (decir + le, tú)",
+      "answers": [
+        "dile"
+      ],
+      "hint": "If you see Ana, tell her I'm waiting."
+    },
+    {
+      "type": "translate",
+      "prompt": "If I were you, I wouldn't do it.",
+      "answers": [
+        "Si fuera tú, no lo haría.",
+        "Si yo fuera tú, no lo haría."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "If it rains, we don't go out.",
+      "answers": [
+        "Si llueve, no salimos."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "What would you do if you won the lottery? (tú)",
+      "answers": [
+        "¿Qué harías si ganaras la lotería?",
+        "¿Qué harías si te ganaras la lotería?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "If I could, I'd help you. (tú)",
+      "answers": [
+        "Si pudiera, te ayudaría."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "If I knew the answer, I'd tell you. (tú)",
+      "answers": [
+        "Si supiera la respuesta, te la diría.",
+        "Si supiera la respuesta, te lo diría."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'd travel more if I had money.\"",
+      "answer": "Viajaría más si tuviera dinero."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"If you're hungry, there's food in the kitchen.\"",
+      "answer": "Si tienes hambre, hay comida en la cocina."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"If I won the lottery, I'd move to an island.\"",
+      "answer": "Si ganara la lotería, me mudaría a una isla."
+    }
+  ]
+}

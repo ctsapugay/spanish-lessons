@@ -1,0 +1,341 @@
+{
+  "sections": [
+    {
+      "heading": "Guessing about the past",
+      "body": "Just as the future guesses about the present, the **conditional** guesses about the **past**:\n\n- *¿Qué hora sería cuando llegaste?* — What time was it (roughly) when you arrived?\n- *Serían las once.* — It must have been about eleven.\n- *¿Por qué no vino Ana? — Estaría enferma.* — She was probably sick.\n- *Tendría unos veinte años cuando se casó.* — She must have been about twenty when she got married."
+    },
+    {
+      "heading": "The future in the past",
+      "body": "When you report what someone said about the future, the future becomes conditional: *Dice que vendrá* (He says he'll come) → *Dijo que vendría* (He said he would come). *Pensé que llovería.* (I thought it would rain.) You'll use this a lot in reported speech."
+    },
+    {
+      "heading": "Hypotheses",
+      "body": "The conditional describes what **would** happen in an imagined situation: *¿Qué harías en mi lugar?* (What would you do in my place?) *Yo no diría nada.* (I wouldn't say anything.) *Con más dinero, compraría una casa.* In B1.15 you'll combine it with *si* (\"if\") clauses."
+    },
+    {
+      "heading": "Irregular stems (same as the future)",
+      "body": "*tendría, pondría, saldría, vendría, podría, sabría, querría, haría, diría, habría.* And *habría* is the conditional of *hay*: *Habría unas cien personas.* (There must have been about a hundred people.)"
+    }
+  ],
+  "vocab": [
+    [
+      "serían",
+      "it must have been (time)"
+    ],
+    [
+      "estaría",
+      "he/she was probably"
+    ],
+    [
+      "tendría",
+      "he/she must have had / been (age)"
+    ],
+    [
+      "habría",
+      "there must have been / there would be"
+    ],
+    [
+      "vendría",
+      "he/she would come"
+    ],
+    [
+      "saldría",
+      "he/she would leave"
+    ],
+    [
+      "pondría",
+      "he/she would put"
+    ],
+    [
+      "querría",
+      "he/she would want"
+    ],
+    [
+      "en mi lugar",
+      "in my place"
+    ],
+    [
+      "casarse",
+      "to get married"
+    ],
+    [
+      "la hipótesis",
+      "the hypothesis"
+    ],
+    [
+      "pensé que",
+      "I thought that"
+    ]
+  ],
+  "examples": [
+    [
+      "¿Qué hora sería cuando llegaste?",
+      "What time was it when you arrived?"
+    ],
+    [
+      "Serían las once.",
+      "It must have been about eleven."
+    ],
+    [
+      "¿Por qué no vino Ana? Estaría enferma.",
+      "Why didn't Ana come? She was probably sick."
+    ],
+    [
+      "Tendría unos veinte años cuando se casó.",
+      "She must have been about twenty when she got married."
+    ],
+    [
+      "Habría unas cien personas en la fiesta.",
+      "There must have been about a hundred people at the party."
+    ],
+    [
+      "Dijo que vendría.",
+      "He said he would come."
+    ],
+    [
+      "Pensé que llovería.",
+      "I thought it would rain."
+    ],
+    [
+      "Me prometió que me llamaría.",
+      "She promised me she would call me."
+    ],
+    [
+      "¿Qué harías en mi lugar?",
+      "What would you do in my place?"
+    ],
+    [
+      "Yo no diría nada.",
+      "I wouldn't say anything."
+    ],
+    [
+      "Con más dinero, compraría una casa.",
+      "With more money, I'd buy a house."
+    ],
+    [
+      "Sabía que saldrías tarde.",
+      "I knew you would leave late."
+    ],
+    [
+      "Dijeron que pondrían la mesa.",
+      "They said they would set the table."
+    ],
+    [
+      "¿Querrías venir con nosotros?",
+      "Would you like to come with us?"
+    ],
+    [
+      "No sabría qué hacer.",
+      "I wouldn't know what to do."
+    ],
+    [
+      "Estarían cansados después del viaje.",
+      "They must have been tired after the trip."
+    ],
+    [
+      "Pensábamos que sería fácil.",
+      "We thought it would be easy."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "*Serían las once* (about a past moment) means…",
+      "options": [
+        "It must have been about eleven.",
+        "It will be eleven.",
+        "It would be eleven if…",
+        "It was exactly eleven."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "\"He said he would come\" is…",
+      "options": [
+        "Dijo que vendría.",
+        "Dijo que vendrá.",
+        "Dijo que venía mañana.",
+        "Dice que vendría."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Estaría enferma* (explaining why she didn't come) means…",
+      "options": [
+        "She was probably sick.",
+        "She would be sick.",
+        "She will be sick.",
+        "She is sick."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "The conditional of *salir* (él) is…",
+      "options": [
+        "saldría",
+        "saliría",
+        "salería",
+        "saldiría"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The conditional of *hay* is…",
+      "options": [
+        "habría",
+        "hayaría",
+        "hubría",
+        "habiera"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ las once. (ser)",
+      "answers": [
+        "serían"
+      ],
+      "hint": "It must have been about eleven."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ unos veinte años cuando se casó. (tener)",
+      "answers": [
+        "tendría"
+      ],
+      "hint": "She must have been about twenty when she got married."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ unas cien personas en la fiesta. (haber)",
+      "answers": [
+        "habría"
+      ],
+      "hint": "There must have been about a hundred people at the party."
+    },
+    {
+      "type": "fill",
+      "prompt": "Dijo que ___. (venir)",
+      "answers": [
+        "vendría"
+      ],
+      "hint": "He said he would come."
+    },
+    {
+      "type": "fill",
+      "prompt": "Pensé que ___. (llover)",
+      "answers": [
+        "llovería"
+      ],
+      "hint": "I thought it would rain."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me prometió que me ___. (llamar)",
+      "answers": [
+        "llamaría"
+      ],
+      "hint": "She promised me she would call me."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué ___ en mi lugar? (hacer, tú)",
+      "answers": [
+        "harías"
+      ],
+      "hint": "What would you do in my place?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Yo no ___ nada. (decir)",
+      "answers": [
+        "diría"
+      ],
+      "hint": "I wouldn't say anything."
+    },
+    {
+      "type": "fill",
+      "prompt": "Sabía que ___ tarde. (salir, tú)",
+      "answers": [
+        "saldrías"
+      ],
+      "hint": "I knew you would leave late."
+    },
+    {
+      "type": "fill",
+      "prompt": "Dijeron que ___ la mesa. (poner)",
+      "answers": [
+        "pondrían"
+      ],
+      "hint": "They said they would set the table."
+    },
+    {
+      "type": "fill",
+      "prompt": "Pensábamos que ___ fácil. (ser)",
+      "answers": [
+        "sería"
+      ],
+      "hint": "We thought it would be easy."
+    },
+    {
+      "type": "translate",
+      "prompt": "What would you do in my place? (tú)",
+      "answers": [
+        "¿Qué harías en mi lugar?",
+        "¿Qué harías tú en mi lugar?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He said he would come.",
+      "answers": [
+        "Dijo que vendría."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I thought it would rain.",
+      "answers": [
+        "Pensé que llovería.",
+        "Pensaba que llovería.",
+        "Creí que llovería."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I wouldn't know what to do.",
+      "answers": [
+        "No sabría qué hacer."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It must have been about eleven.",
+      "answers": [
+        "Serían las once."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"She must have been about twenty when she got married.\"",
+      "answer": "Tendría unos veinte años cuando se casó."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"With more money, I'd buy a house.\"",
+      "answer": "Con más dinero, compraría una casa."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"They must have been tired after the trip.\"",
+      "answer": "Estarían cansados después del viaje."
+    }
+  ]
+}

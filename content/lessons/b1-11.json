@@ -1,0 +1,81 @@
+{
+  "sections": [
+    {
+      "heading": "The pluperfect: had done",
+      "body": "The pluperfect (*el pluscuamperfecto*) describes something that had **already** happened before another past moment. Form it with the imperfect of *haber* + the past participle.",
+      "table": {
+        "head": ["Pronoun", "haber (imperfect)", "Example"],
+        "rows": [
+          ["*yo*", "*había*", "*había comido* — I had eaten"],
+          ["*tú*", "*habías*", "*habías salido* — you had left"],
+          ["*él / ella / usted*", "*había*", "*había llegado* — she had arrived"],
+          ["*nosotros*", "*habíamos*", "*habíamos visto* — we had seen"],
+          ["*ustedes / ellos*", "*habían*", "*habían terminado* — they had finished"]
+        ]
+      }
+    },
+    {
+      "heading": "Using it in stories",
+      "body": "It lets you step back in time within a past story: *Cuando llegué a la estación, el tren ya había salido.* (When I got to the station, the train had already left.) *No fui al cine porque ya había visto la película.*\n\nTypical companions: *ya* (already), *todavía no / aún no* (not yet), *nunca* (never — *Nunca había visto el mar* — I had never seen the sea), *antes* (before).\n\nThe same rules as the present perfect apply: irregular participles (*había dicho, había hecho, había vuelto*), and nothing between *haber* and the participle (*Ya lo había hecho*)."
+    }
+  ],
+  "vocab": [
+    ["había", "I/he/she had (+ participle)"],
+    ["habíamos", "we had (+ participle)"],
+    ["habían", "they had (+ participle)"],
+    ["ya había", "had already"],
+    ["todavía no había", "hadn't yet"],
+    ["nunca había", "had never"],
+    ["aún", "still / yet"],
+    ["la estación", "the station"],
+    ["el mar", "the sea"],
+    ["olvidar", "to forget"],
+    ["perder", "to lose / to miss"],
+    ["el vuelo", "the flight"],
+    ["antes", "before"]
+  ],
+  "examples": [
+    ["Cuando llegué a la estación, el tren ya había salido.", "When I got to the station, the train had already left."],
+    ["No fui al cine porque ya había visto la película.", "I didn't go to the movies because I had already seen the film."],
+    ["Nunca había visto el mar.", "I had never seen the sea."],
+    ["Cuando llegamos, ya habían terminado de cenar.", "When we arrived, they had already finished dinner."],
+    ["Me dijo que había perdido el vuelo.", "She told me she had missed the flight."],
+    ["Todavía no había llamado cuando salí.", "He hadn't called yet when I left."],
+    ["Habíamos comido antes de la película.", "We had eaten before the movie."],
+    ["¿Habías estado en México antes?", "Had you been to Mexico before?"],
+    ["Ya lo había hecho.", "I had already done it."],
+    ["Olvidé que había dicho eso.", "I forgot I had said that."],
+    ["Estaba cansada porque no había dormido.", "She was tired because she hadn't slept."],
+    ["Cuando volvió, yo ya había limpiado la casa.", "When he came back, I had already cleaned the house."],
+    ["Nunca habían probado la comida peruana.", "They had never tried Peruvian food."],
+    ["Pensé que ustedes ya habían salido.", "I thought you all had already left."],
+    ["Aún no había empezado la clase.", "The class hadn't started yet."],
+    ["Había vuelto a casa temprano.", "He had come back home early."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Cuando llegué, el tren ya ___ salido.", "answers": ["había"], "hint": "When I arrived, the train had already left."},
+    {"type": "fill", "prompt": "Ya ___ visto la película. (yo)", "answers": ["había"], "hint": "I had already seen the movie."},
+    {"type": "fill", "prompt": "Nunca había ___ el mar. (ver)", "answers": ["visto"], "hint": "I had never seen the sea."},
+    {"type": "fill", "prompt": "Ya ___ terminado de cenar. (ellos)", "answers": ["habían"], "hint": "They had already finished dinner."},
+    {"type": "fill", "prompt": "Me dijo que había ___ el vuelo. (perder)", "answers": ["perdido"], "hint": "She told me she had missed the flight."},
+    {"type": "fill", "prompt": "___ comido antes de la película. (nosotros)", "answers": ["habíamos"], "hint": "We had eaten before the movie."},
+    {"type": "fill", "prompt": "¿___ estado en México antes? (tú)", "answers": ["habías"], "hint": "Had you been to Mexico before?"},
+    {"type": "fill", "prompt": "Ya lo había ___. (hacer)", "answers": ["hecho"], "hint": "I had already done it."},
+    {"type": "fill", "prompt": "Olvidé que había ___ eso. (decir)", "answers": ["dicho"], "hint": "I forgot I had said that."},
+    {"type": "fill", "prompt": "Estaba cansada porque no había ___. (dormir)", "answers": ["dormido"], "hint": "She was tired because she hadn't slept."},
+    {"type": "fill", "prompt": "Había ___ a casa temprano. (volver)", "answers": ["vuelto"], "hint": "He had come back home early."},
+    {"type": "mc", "prompt": "The pluperfect is formed with…", "options": ["imperfect of haber + participle", "present of haber + participle", "preterite of haber + participle", "imperfect + gerund"], "answer": 0},
+    {"type": "mc", "prompt": "*Nunca había visto el mar* means…", "options": ["I had never seen the sea.", "I have never seen the sea.", "I never saw the sea.", "I would never see the sea."], "answer": 0},
+    {"type": "mc", "prompt": "Which happened first? *Cuando llegué, el tren ya había salido.*", "options": ["The train left", "I arrived", "Both at the same time"], "answer": 0},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Ya lo había hecho.", "Ya había lo hecho.", "Ya había hecholo."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Estaba cansada porque no ___.", "options": ["había dormido", "ha dormido", "dormía nunca"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "I had never seen the sea.", "answers": ["Nunca había visto el mar.", "No había visto nunca el mar."]},
+    {"type": "translate", "prompt": "When I arrived, the train had already left.", "answers": ["Cuando llegué, el tren ya había salido."]},
+    {"type": "translate", "prompt": "I had already done it.", "answers": ["Ya lo había hecho."]},
+    {"type": "translate", "prompt": "Had you been to Mexico before? (tú)", "answers": ["¿Habías estado en México antes?", "¿Habías estado antes en México?"]},
+    {"type": "translate", "prompt": "They had never tried Peruvian food.", "answers": ["Nunca habían probado la comida peruana."]},
+    {"type": "build", "prompt": "Put the words in order: \"She told me she had missed the flight.\"", "answer": "Me dijo que había perdido el vuelo."},
+    {"type": "build", "prompt": "Put the words in order: \"I thought you all had already left.\"", "answer": "Pensé que ustedes ya habían salido."},
+    {"type": "build", "prompt": "Put the words in order: \"When he came back, I had already cleaned the house.\"", "answer": "Cuando volvió, yo ya había limpiado la casa."}
+  ]
+}

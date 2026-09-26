@@ -1,0 +1,331 @@
+{
+  "sections": [
+    {
+      "heading": "Guessing about the present",
+      "body": "Spanish uses the simple **future** to make guesses about the **present** — like English \"must be\", \"probably\", or \"I wonder\":\n\n- *¿Qué hora será?* — I wonder what time it is.\n- *Serán las ocho.* — It must be about eight.\n- *¿Dónde estará Juan?* — Where could Juan be?\n- *Estará en el trabajo.* — He's probably at work.\n- *Tendrá unos cuarenta años.* — She must be about forty.\n\nThis is extremely common in conversation, and learners often miss it. When you hear the future in a question with no future time reference, it's usually a guess."
+    },
+    {
+      "heading": "Future forms: a quick review",
+      "body": "Remember the regular future adds *-é, -ás, -á, -emos, -án* to the infinitive, and the irregular stems: *tendr-, pondr-, saldr-, vendr-, podr-, sabr-, querr-, har-, dir-, habr-*. So: *¿Quién será? Habrá mucha gente. No sabrá la respuesta. Querrá ir.*"
+    },
+    {
+      "heading": "Other ways to guess",
+      "body": "*Debe (de) + infinitive* (must be): *Debe de estar cansado.* *Seguramente / probablemente* + present: *Seguramente está en casa.* *Supongo que…* (I suppose that…): *Supongo que tienes hambre.*"
+    }
+  ],
+  "vocab": [
+    [
+      "¿Qué hora será?",
+      "I wonder what time it is"
+    ],
+    [
+      "serán las…",
+      "it must be about… (time)"
+    ],
+    [
+      "¿Dónde estará?",
+      "Where could he/she be?"
+    ],
+    [
+      "estará",
+      "he/she is probably"
+    ],
+    [
+      "tendrá",
+      "he/she must have / be (age)"
+    ],
+    [
+      "habrá",
+      "there must be / there will be"
+    ],
+    [
+      "deber de",
+      "must (probability)"
+    ],
+    [
+      "suponer",
+      "to suppose"
+    ],
+    [
+      "supongo que",
+      "I suppose that"
+    ],
+    [
+      "quién será",
+      "who could it be"
+    ],
+    [
+      "el tráfico",
+      "the traffic"
+    ],
+    [
+      "el atasco",
+      "the traffic jam"
+    ]
+  ],
+  "examples": [
+    [
+      "¿Qué hora será?",
+      "I wonder what time it is."
+    ],
+    [
+      "Serán las ocho.",
+      "It must be about eight."
+    ],
+    [
+      "¿Dónde estará Juan?",
+      "Where could Juan be?"
+    ],
+    [
+      "Estará en el trabajo.",
+      "He's probably at work."
+    ],
+    [
+      "Tendrá unos cuarenta años.",
+      "She must be about forty."
+    ],
+    [
+      "Alguien toca la puerta. ¿Quién será?",
+      "Someone's knocking. Who could it be?"
+    ],
+    [
+      "Será el cartero.",
+      "It's probably the mail carrier."
+    ],
+    [
+      "No contesta. Estará ocupada.",
+      "She's not answering. She must be busy."
+    ],
+    [
+      "Habrá mucho tráfico.",
+      "There must be a lot of traffic."
+    ],
+    [
+      "No sabrá la respuesta.",
+      "He probably doesn't know the answer."
+    ],
+    [
+      "¿Cuánto costará este carro?",
+      "I wonder how much this car costs."
+    ],
+    [
+      "Costará unos veinte mil dólares.",
+      "It must cost about twenty thousand dollars."
+    ],
+    [
+      "Debe de estar cansado.",
+      "He must be tired."
+    ],
+    [
+      "Seguramente está en casa.",
+      "She's most likely at home."
+    ],
+    [
+      "Supongo que tienes hambre.",
+      "I suppose you're hungry."
+    ],
+    [
+      "¿Qué querrá decir eso?",
+      "I wonder what that means."
+    ],
+    [
+      "Estarán en un atasco.",
+      "They're probably stuck in traffic."
+    ],
+    [
+      "Hará frío en la montaña.",
+      "It must be cold in the mountains."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "*¿Qué hora será?* means…",
+      "options": [
+        "I wonder what time it is.",
+        "What time will it be?",
+        "What time was it?",
+        "It will be time."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Estará en el trabajo* (about someone now) means…",
+      "options": [
+        "He's probably at work.",
+        "He will be at work.",
+        "He was at work.",
+        "He should be at work."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Someone knocks. You wonder who it is. You say…",
+      "options": [
+        "¿Quién será?",
+        "¿Quién es será?",
+        "¿Quién fue?",
+        "¿Quién era?"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Tendrá unos cuarenta años* means…",
+      "options": [
+        "She must be about forty.",
+        "She will be forty.",
+        "She was forty.",
+        "She has forty things."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which one is a guess about now?",
+      "options": [
+        "No contesta. Estará ocupada.",
+        "Mañana estará ocupada.",
+        "Ayer estaba ocupada."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ las ocho. (ser)",
+      "answers": [
+        "serán"
+      ],
+      "hint": "It must be about eight."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Dónde ___ Juan? (estar)",
+      "answers": [
+        "estará"
+      ],
+      "hint": "Where could Juan be?"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ unos cuarenta años. (tener)",
+      "answers": [
+        "tendrá"
+      ],
+      "hint": "She must be about forty."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ mucho tráfico. (haber)",
+      "answers": [
+        "habrá"
+      ],
+      "hint": "There must be a lot of traffic."
+    },
+    {
+      "type": "fill",
+      "prompt": "No ___ la respuesta. (saber)",
+      "answers": [
+        "sabrá"
+      ],
+      "hint": "He probably doesn't know the answer."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Cuánto ___ este carro? (costar)",
+      "answers": [
+        "costará"
+      ],
+      "hint": "I wonder how much this car costs."
+    },
+    {
+      "type": "fill",
+      "prompt": "Debe de ___ cansado. (estar)",
+      "answers": [
+        "estar"
+      ],
+      "hint": "He must be tired."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ que tienes hambre. (suponer, yo)",
+      "answers": [
+        "supongo"
+      ],
+      "hint": "I suppose you're hungry."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ en un atasco. (estar, ellos)",
+      "answers": [
+        "estarán"
+      ],
+      "hint": "They're probably stuck in traffic."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué ___ decir eso? (querer)",
+      "answers": [
+        "querrá"
+      ],
+      "hint": "I wonder what that means."
+    },
+    {
+      "type": "translate",
+      "prompt": "I wonder what time it is.",
+      "answers": [
+        "¿Qué hora será?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It must be about eight.",
+      "answers": [
+        "Serán las ocho.",
+        "Deben de ser las ocho."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Who could it be?",
+      "answers": [
+        "¿Quién será?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "She must be busy.",
+      "answers": [
+        "Estará ocupada.",
+        "Debe de estar ocupada.",
+        "Debe estar ocupada."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I suppose you're hungry. (tú)",
+      "answers": [
+        "Supongo que tienes hambre."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It must cost about twenty thousand dollars.\"",
+      "answer": "Costará unos veinte mil dólares."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"She's not answering. She must be busy.\"",
+      "answer": "No contesta. Estará ocupada."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It must be cold in the mountains.\"",
+      "answer": "Hará frío en la montaña."
+    }
+  ]
+}
