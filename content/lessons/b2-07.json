@@ -1,0 +1,72 @@
+{
+  "sections": [
+    {
+      "heading": "Como si: as if",
+      "body": "*Como si* (as if / as though) is **always** followed by the imperfect or pluperfect subjunctive — never the present:\n\n- **Imperfect subjunctive** — same time as the main verb: *Habla como si fuera el jefe.* (He talks as if he were the boss.) *Me miró como si no me conociera.* (She looked at me as if she didn't know me.)\n- **Pluperfect subjunctive** — earlier: *Actúa como si no hubiera pasado nada.* (He's acting as if nothing had happened.) *Estaba cansada, como si hubiera corrido un maratón.*"
+    },
+    {
+      "heading": "Ni que: as if! (irony)",
+      "body": "*¡Ni que* + imperfect / pluperfect subjunctive*!* expresses ironic disbelief — \"it's not as if…!\": *¡Ni que fuera millonario!* (As if he were a millionaire! / It's not like he's a millionaire.) *¡Ni que hubieras visto un fantasma!* (It's not like you'd seen a ghost!) Very common in informal speech."
+    },
+    {
+      "heading": "Useful companions",
+      "body": "*Hacer como si* (to pretend): *Hizo como si no me viera.* (He pretended not to see me.) *Hacerse el / la* + adjective (to play / act): *Se hace el tonto.* (He's playing dumb.) *Se hizo la dormida.* (She pretended to be asleep.)"
+    }
+  ],
+  "vocab": [
+    ["como si", "as if"],
+    ["ni que", "as if! / it's not like"],
+    ["hacer como si", "to pretend / act as if"],
+    ["hacerse el tonto", "to play dumb"],
+    ["el jefe / la jefa", "the boss"],
+    ["el millonario", "the millionaire"],
+    ["el fantasma", "the ghost"],
+    ["el maratón", "the marathon"],
+    ["actuar", "to act"],
+    ["mirar", "to look at"],
+    ["dormido / dormida", "asleep"],
+    ["tonto / tonta", "silly / dumb"]
+  ],
+  "examples": [
+    ["Habla como si fuera el jefe.", "He talks as if he were the boss."],
+    ["Me miró como si no me conociera.", "She looked at me as if she didn't know me."],
+    ["Actúa como si no hubiera pasado nada.", "He's acting as if nothing had happened."],
+    ["Estaba cansada, como si hubiera corrido un maratón.", "She was tired, as if she had run a marathon."],
+    ["Gasta dinero como si fuera millonario.", "He spends money as if he were a millionaire."],
+    ["¡Ni que fuera millonario!", "It's not like he's a millionaire!"],
+    ["¡Ni que hubieras visto un fantasma!", "It's not like you'd seen a ghost!"],
+    ["Hizo como si no me viera.", "He pretended not to see me."],
+    ["Se hace el tonto.", "He's playing dumb."],
+    ["Se hizo la dormida.", "She pretended to be asleep."],
+    ["Me habla como si yo fuera un niño.", "He talks to me as if I were a child."],
+    ["Comió como si no hubiera comido en días.", "He ate as if he hadn't eaten in days."],
+    ["Se viste como si tuviera veinte años.", "She dresses as if she were twenty."],
+    ["¡Ni que fuera tan difícil!", "It's not like it's that hard!"]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Habla como si ___ el jefe. (ser)", "answers": ["fuera", "fuese"], "hint": "He talks as if he were the boss."},
+    {"type": "fill", "prompt": "Me miró como si no me ___. (conocer)", "answers": ["conociera", "conociese"], "hint": "She looked at me as if she didn't know me."},
+    {"type": "fill", "prompt": "Actúa como si no ___ pasado nada.", "answers": ["hubiera", "hubiese"], "hint": "He's acting as if nothing had happened."},
+    {"type": "fill", "prompt": "Gasta dinero como si ___ millonario. (ser)", "answers": ["fuera", "fuese"], "hint": "He spends money as if he were a millionaire."},
+    {"type": "fill", "prompt": "¡Ni que ___ millonario! (ser)", "answers": ["fuera", "fuese"], "hint": "It's not like he's a millionaire!"},
+    {"type": "fill", "prompt": "Hizo como si no me ___. (ver)", "answers": ["viera", "viese"], "hint": "He pretended not to see me."},
+    {"type": "fill", "prompt": "Se hace el ___.", "answers": ["tonto"], "hint": "He's playing dumb."},
+    {"type": "fill", "prompt": "Se hizo la ___.", "answers": ["dormida"], "hint": "She pretended to be asleep."},
+    {"type": "fill", "prompt": "Me habla como si yo ___ un niño. (ser)", "answers": ["fuera", "fuese"], "hint": "He talks to me as if I were a child."},
+    {"type": "fill", "prompt": "Comió como si no ___ comido en días.", "answers": ["hubiera", "hubiese"], "hint": "He ate as if he hadn't eaten in days."},
+    {"type": "fill", "prompt": "Se viste como si ___ veinte años. (tener)", "answers": ["tuviera", "tuviese"], "hint": "She dresses as if she were twenty."},
+    {"type": "mc", "prompt": "*Como si* is followed by…", "options": ["imperfect or pluperfect subjunctive", "present subjunctive", "indicative", "the infinitive"], "answer": 0},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Habla como si fuera el jefe.", "Habla como si sea el jefe.", "Habla como si es el jefe.", "Habla como si será el jefe."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*¡Ni que fuera tan difícil!* means…", "options": ["It's not like it's that hard!", "It's so hard!", "Not even if it were hard.", "It was never hard."], "answer": 0},
+    {"type": "mc", "prompt": "*Se hace el tonto* means…", "options": ["He's playing dumb.", "He's becoming stupid.", "He makes a fool of someone.", "He's a fool."], "answer": 0},
+    {"type": "mc", "prompt": "Choose: Actúa como si no ___ nada. (earlier)", "options": ["hubiera pasado", "haya pasado", "pasara ya", "ha pasado"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "He talks as if he were the boss.", "answers": ["Habla como si fuera el jefe.", "Habla como si fuese el jefe."]},
+    {"type": "translate", "prompt": "He pretended not to see me.", "answers": ["Hizo como si no me viera.", "Fingió no verme.", "Hizo como que no me vio."]},
+    {"type": "translate", "prompt": "It's not like he's a millionaire!", "answers": ["¡Ni que fuera millonario!"]},
+    {"type": "translate", "prompt": "He's playing dumb.", "answers": ["Se hace el tonto.", "Se está haciendo el tonto."]},
+    {"type": "translate", "prompt": "She looked at me as if she didn't know me.", "answers": ["Me miró como si no me conociera.", "Me miró como si no me conociese."]},
+    {"type": "build", "prompt": "Put the words in order: \"He's acting as if nothing had happened.\"", "answer": "Actúa como si no hubiera pasado nada."},
+    {"type": "build", "prompt": "Put the words in order: \"She dresses as if she were twenty.\"", "answer": "Se viste como si tuviera veinte años."},
+    {"type": "build", "prompt": "Put the words in order: \"He ate as if he hadn't eaten in days.\"", "answer": "Comió como si no hubiera comido en días."}
+  ]
+}

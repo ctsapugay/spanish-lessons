@@ -1,0 +1,77 @@
+{
+  "sections": [
+    {
+      "heading": "Two kinds of relative clause",
+      "body": "- **Restrictive** (no commas) — identifies which one: *Los estudiantes que aprobaron recibieron un premio.* (Only the ones who passed.)\n- **Non-restrictive / explanatory** (between commas) — adds extra information about something already identified: *Los estudiantes, que estaban cansados, se fueron temprano.* (All the students — and they were tired.)\n\nThe commas change the meaning, just as in English."
+    },
+    {
+      "heading": "El que, la que, los que, las que",
+      "body": "*El que* etc. (agreeing with the antecedent) is used:\n\n- after prepositions: *la casa en la que vivo* (the house I live in) — see next lesson;\n- without an antecedent, meaning \"the one(s) who/that\": *El que llegue primero gana.* (Whoever arrives first wins.) *Las que compré son rojas.* (The ones I bought are red.)\n- *Lo que* (you know it): *Lo que dices es verdad.*"
+    },
+    {
+      "heading": "El cual, la cual… and lo cual",
+      "body": "*El cual / la cual / los cuales / las cuales* mean the same as *el que*, but are more formal and common in writing, especially after prepositions or after a comma: *El edificio, el cual fue construido en 1900, es un museo.*\n\n*Lo cual* / *lo que* refers back to a whole idea: *Llegó tarde, lo cual me molestó.* (He was late, which annoyed me.)"
+    },
+    {
+      "heading": "Quien and cuyo",
+      "body": "- *Quien / quienes* for people, after a preposition or commas, or meaning \"whoever\": *Quien mucho abarca, poco aprieta.* (proverb) *No hay quien lo entienda.* (Nobody can understand him.)\n- *Cuyo / cuya / cuyos / cuyas* = whose. It agrees with the **thing possessed**, not the owner: *La mujer cuyo hijo conocí ayer.* (The woman whose son I met yesterday.) *El autor cuyas novelas leí.* It's mostly written; in speech people rephrase."
+    }
+  ],
+  "vocab": [
+    ["el que / la que", "the one who / that"],
+    ["los que / las que", "the ones who / that"],
+    ["el cual / la cual", "which / who (formal)"],
+    ["lo cual", "which (refers to a whole idea)"],
+    ["quien", "who / whoever"],
+    ["cuyo / cuya", "whose"],
+    ["el premio", "the prize"],
+    ["el edificio", "the building"],
+    ["el autor / la autora", "the author"],
+    ["la novela", "the novel"],
+    ["explicativo / explicativa", "explanatory"],
+    ["ganar", "to win"]
+  ],
+  "examples": [
+    ["Los estudiantes que aprobaron recibieron un premio.", "The students who passed received a prize."],
+    ["Los estudiantes, que estaban cansados, se fueron temprano.", "The students, who were tired, left early."],
+    ["El que llegue primero gana.", "Whoever arrives first wins."],
+    ["Las que compré son rojas.", "The ones I bought are red."],
+    ["Lo que dices es verdad.", "What you say is true."],
+    ["El edificio, el cual fue construido en 1900, es un museo.", "The building, which was built in 1900, is a museum."],
+    ["Llegó tarde, lo cual me molestó.", "He was late, which annoyed me."],
+    ["No hay quien lo entienda.", "Nobody can understand him."],
+    ["Quien quiera venir, que venga.", "Whoever wants to come can come."],
+    ["La mujer cuyo hijo conocí ayer es abogada.", "The woman whose son I met yesterday is a lawyer."],
+    ["El autor cuyas novelas leí vive en Chile.", "The author whose novels I read lives in Chile."],
+    ["Mi hermana, que vive en Lima, es médica.", "My sister, who lives in Lima, is a doctor."],
+    ["Los que quieran participar deben inscribirse.", "Those who want to take part must sign up."],
+    ["Es el chico cuya madre es profesora.", "He's the boy whose mother is a teacher."],
+    ["Perdí el trabajo, lo que fue un golpe duro.", "I lost my job, which was a hard blow."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "El ___ llegue primero gana.", "answers": ["que"], "hint": "Whoever arrives first wins."},
+    {"type": "fill", "prompt": "Las ___ compré son rojas.", "answers": ["que"], "hint": "The ones I bought are red."},
+    {"type": "fill", "prompt": "Llegó tarde, lo ___ me molestó.", "answers": ["cual", "que"], "hint": "He was late, which annoyed me."},
+    {"type": "fill", "prompt": "La mujer ___ hijo conocí ayer es abogada.", "answers": ["cuyo"], "hint": "The woman whose son I met yesterday is a lawyer."},
+    {"type": "fill", "prompt": "El autor ___ novelas leí vive en Chile.", "answers": ["cuyas"], "hint": "The author whose novels I read lives in Chile."},
+    {"type": "fill", "prompt": "Es el chico ___ madre es profesora.", "answers": ["cuya"], "hint": "He's the boy whose mother is a teacher."},
+    {"type": "fill", "prompt": "No hay ___ lo entienda.", "answers": ["quien"], "hint": "Nobody can understand him."},
+    {"type": "fill", "prompt": "Los ___ quieran participar deben inscribirse.", "answers": ["que"], "hint": "Those who want to take part must sign up."},
+    {"type": "fill", "prompt": "El edificio, el ___ fue construido en 1900, es un museo.", "answers": ["cual"], "hint": "The building, which was built in 1900, is a museum."},
+    {"type": "fill", "prompt": "Mi hermana, que ___ en Lima, es médica. (vivir)", "answers": ["vive"], "hint": "My sister, who lives in Lima, is a doctor."},
+    {"type": "mc", "prompt": "*Cuyo* agrees with…", "options": ["the thing possessed", "the owner", "nothing — it never changes"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: La mujer ___ hijos conocí…", "options": ["cuyos", "cuya", "cuyo", "cuyas"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Los estudiantes, que estaban cansados, se fueron* means…", "options": ["All the students were tired and left.", "Only the tired students left.", "The students made others tired."], "answer": 0},
+    {"type": "mc", "prompt": "*Los estudiantes que estaban cansados se fueron* means…", "options": ["Only the tired students left.", "All the students were tired and left.", "The students left because they were tired."], "answer": 0},
+    {"type": "mc", "prompt": "Which refers back to a whole idea?", "options": ["lo cual", "el cual", "cuyo", "quien"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*El que llegue primero gana* means…", "options": ["Whoever arrives first wins.", "The one who arrived first won.", "He who arrived wins first."], "answer": 0},
+    {"type": "translate", "prompt": "What you say is true. (tú)", "answers": ["Lo que dices es verdad.", "Lo que dices es cierto."]},
+    {"type": "translate", "prompt": "He was late, which annoyed me.", "answers": ["Llegó tarde, lo cual me molestó.", "Llegó tarde, lo que me molestó."]},
+    {"type": "translate", "prompt": "The ones I bought are red. (las camisas)", "answers": ["Las que compré son rojas."]},
+    {"type": "translate", "prompt": "He's the boy whose mother is a teacher.", "answers": ["Es el chico cuya madre es profesora."]},
+    {"type": "translate", "prompt": "Whoever arrives first wins.", "answers": ["El que llegue primero gana.", "Quien llegue primero gana."]},
+    {"type": "build", "prompt": "Put the words in order: \"The building, which was built in 1900, is a museum.\"", "answer": "El edificio, el cual fue construido en 1900, es un museo."},
+    {"type": "build", "prompt": "Put the words in order: \"Those who want to take part must sign up.\"", "answer": "Los que quieran participar deben inscribirse."},
+    {"type": "build", "prompt": "Put the words in order: \"I lost my job, which was a hard blow.\"", "answer": "Perdí el trabajo, lo que fue un golpe duro."}
+  ]
+}

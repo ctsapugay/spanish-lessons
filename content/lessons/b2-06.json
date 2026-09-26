@@ -1,0 +1,338 @@
+{
+  "sections": [
+    {
+      "heading": "Conditions without si",
+      "body": "These connectors all introduce conditions and **always take the subjunctive** (present or imperfect, following the sequence of tenses):\n\n- *con tal de que / siempre y cuando / siempre que* (provided that, as long as): *Te presto el carro con tal de que me lo devuelvas mañana.* *Puedes ir, siempre y cuando vuelvas antes de las doce.*\n- *a menos que / a no ser que* (unless): *Iremos a la playa, a menos que llueva.*\n- *en caso de que* (in case): *En caso de que no puedas venir, avísame.*\n- *salvo que / excepto que* (except if): *Salvo que haya tráfico, llegaremos a tiempo.*\n- *sin que* (without someone doing): *Salió sin que nadie lo viera.* (He left without anyone seeing him.)"
+    },
+    {
+      "heading": "De + infinitive",
+      "body": "*De* + infinitive can replace a *si* clause, especially in speech: *De saberlo, te habría avisado.* (Had I known, I'd have told you.) *De tener tiempo, iría.* (If I had time, I'd go.) *De + haber + participle* for the past: *De haberlo sabido, no habría venido.*"
+    },
+    {
+      "heading": "Same subject: infinitive",
+      "body": "With the same subject, *con tal de* / *en caso de* / *sin* take an infinitive: *Haría cualquier cosa con tal de verte.* (I'd do anything to see you.) *En caso de duda, pregunta.* *Salió sin decir nada.*"
+    }
+  ],
+  "vocab": [
+    [
+      "con tal de que",
+      "provided that"
+    ],
+    [
+      "siempre y cuando",
+      "as long as"
+    ],
+    [
+      "a menos que",
+      "unless"
+    ],
+    [
+      "a no ser que",
+      "unless (a bit more formal)"
+    ],
+    [
+      "en caso de que",
+      "in case"
+    ],
+    [
+      "salvo que",
+      "unless / except if"
+    ],
+    [
+      "sin que",
+      "without (someone doing)"
+    ],
+    [
+      "de + infinitivo",
+      "if (condition)"
+    ],
+    [
+      "prestar",
+      "to lend"
+    ],
+    [
+      "devolver",
+      "to give back"
+    ],
+    [
+      "la duda",
+      "doubt"
+    ],
+    [
+      "cualquier cosa",
+      "anything"
+    ],
+    [
+      "darse cuenta",
+      "to notice / realize"
+    ]
+  ],
+  "examples": [
+    [
+      "Te presto el carro con tal de que me lo devuelvas mañana.",
+      "I'll lend you the car provided you give it back tomorrow."
+    ],
+    [
+      "Puedes ir, siempre y cuando vuelvas antes de las doce.",
+      "You can go, as long as you're back before twelve."
+    ],
+    [
+      "Iremos a la playa, a menos que llueva.",
+      "We'll go to the beach unless it rains."
+    ],
+    [
+      "No voy a ir, a no ser que tú vengas.",
+      "I'm not going unless you come."
+    ],
+    [
+      "En caso de que no puedas venir, avísame.",
+      "In case you can't come, let me know."
+    ],
+    [
+      "Salvo que haya tráfico, llegaremos a tiempo.",
+      "Unless there's traffic, we'll arrive on time."
+    ],
+    [
+      "Salió sin que nadie lo viera.",
+      "He left without anyone seeing him."
+    ],
+    [
+      "Lo hice sin que se diera cuenta.",
+      "I did it without him noticing."
+    ],
+    [
+      "De saberlo, te habría avisado.",
+      "Had I known, I'd have told you."
+    ],
+    [
+      "De tener tiempo, iría.",
+      "If I had time, I'd go."
+    ],
+    [
+      "De haberlo sabido, no habría venido.",
+      "If I'd known, I wouldn't have come."
+    ],
+    [
+      "Haría cualquier cosa con tal de verte.",
+      "I'd do anything to see you."
+    ],
+    [
+      "En caso de duda, pregunta.",
+      "If in doubt, ask."
+    ],
+    [
+      "Salió sin decir nada.",
+      "He left without saying anything."
+    ],
+    [
+      "Te lo explico otra vez, a menos que ya lo entiendas.",
+      "I'll explain it again, unless you already understand."
+    ],
+    [
+      "Me dijo que vendría, a menos que lloviera.",
+      "She said she'd come unless it rained."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Te presto el carro con tal de que me lo ___ mañana. (devolver, tú)",
+      "answers": [
+        "devuelvas"
+      ],
+      "hint": "I'll lend you the car provided you give it back tomorrow."
+    },
+    {
+      "type": "fill",
+      "prompt": "Puedes ir, siempre y cuando ___ antes de las doce. (volver, tú)",
+      "answers": [
+        "vuelvas"
+      ],
+      "hint": "You can go, as long as you're back before twelve."
+    },
+    {
+      "type": "fill",
+      "prompt": "Iremos a la playa, a menos que ___. (llover)",
+      "answers": [
+        "llueva"
+      ],
+      "hint": "We'll go to the beach unless it rains."
+    },
+    {
+      "type": "fill",
+      "prompt": "En caso de que no ___ venir, avísame. (poder, tú)",
+      "answers": [
+        "puedas"
+      ],
+      "hint": "In case you can't come, let me know."
+    },
+    {
+      "type": "fill",
+      "prompt": "Salvo que ___ tráfico, llegaremos a tiempo. (haber)",
+      "answers": [
+        "haya"
+      ],
+      "hint": "Unless there's traffic, we'll arrive on time."
+    },
+    {
+      "type": "fill",
+      "prompt": "Salió sin que nadie lo ___. (ver)",
+      "answers": [
+        "viera",
+        "viese"
+      ],
+      "hint": "He left without anyone seeing him."
+    },
+    {
+      "type": "fill",
+      "prompt": "De ___ tiempo, iría. (tener)",
+      "answers": [
+        "tener"
+      ],
+      "hint": "If I had time, I'd go."
+    },
+    {
+      "type": "fill",
+      "prompt": "De haberlo ___, no habría venido. (saber)",
+      "answers": [
+        "sabido"
+      ],
+      "hint": "If I'd known, I wouldn't have come."
+    },
+    {
+      "type": "fill",
+      "prompt": "Haría cualquier cosa con tal de ___. (ver + te)",
+      "answers": [
+        "verte"
+      ],
+      "hint": "I'd do anything to see you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Salió sin ___ nada. (decir)",
+      "answers": [
+        "decir"
+      ],
+      "hint": "He left without saying anything."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me dijo que vendría, a menos que ___. (llover)",
+      "answers": [
+        "lloviera",
+        "lloviese"
+      ],
+      "hint": "She said she'd come unless it rained."
+    },
+    {
+      "type": "mc",
+      "prompt": "*a menos que* means…",
+      "options": [
+        "unless",
+        "at least",
+        "in case",
+        "provided that"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: No voy a ir, a no ser que tú ___.",
+      "options": [
+        "vengas",
+        "vienes",
+        "vendrás"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*De saberlo, te habría avisado* means…",
+      "options": [
+        "Had I known, I'd have told you.",
+        "Knowing it, I told you.",
+        "About knowing it, I told you.",
+        "I knew it and told you."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Same subject: \"He left without saying anything\" →",
+      "options": [
+        "Salió sin decir nada.",
+        "Salió sin que dijera nada.",
+        "Salió sin dice nada."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which always takes the subjunctive?",
+      "options": [
+        "en caso de que",
+        "porque",
+        "ya que",
+        "cuando (habit)"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "We'll go to the beach unless it rains.",
+      "answers": [
+        "Iremos a la playa, a menos que llueva.",
+        "Vamos a ir a la playa, a menos que llueva.",
+        "Iremos a la playa, a no ser que llueva."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "In case you can't come, let me know. (tú)",
+      "answers": [
+        "En caso de que no puedas venir, avísame."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "If in doubt, ask. (tú)",
+      "answers": [
+        "En caso de duda, pregunta."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He left without anyone seeing him.",
+      "answers": [
+        "Salió sin que nadie lo viera.",
+        "Se fue sin que nadie lo viera."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'd do anything to see you. (tú)",
+      "answers": [
+        "Haría cualquier cosa con tal de verte.",
+        "Haría cualquier cosa por verte."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"You can go, as long as you're back before twelve.\"",
+      "answer": "Puedes ir, siempre y cuando vuelvas antes de las doce."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"If I'd known, I wouldn't have come.\"",
+      "answer": "De haberlo sabido, no habría venido."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I did it without him noticing.\"",
+      "answer": "Lo hice sin que se diera cuenta."
+    }
+  ]
+}

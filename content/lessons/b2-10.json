@@ -1,0 +1,82 @@
+{
+  "sections": [
+    {
+      "heading": "Matching tenses",
+      "body": "The tense of the main verb determines which subjunctive tense you use after *que*. This is called *la correlación de tiempos* (sequence of tenses).",
+      "table": {
+        "head": ["Main verb", "Subordinate (subjunctive)", "Example"],
+        "rows": [
+          ["present, future, present perfect, command", "present subj. (same/later time)", "*Quiero / Querré / He querido que vengas.*"],
+          ["", "present perfect subj. (earlier)", "*Me alegra que hayas venido.*"],
+          ["preterite, imperfect, pluperfect, conditional", "imperfect subj. (same/later)", "*Quería / Quise / Querría que vinieras.*"],
+          ["", "pluperfect subj. (earlier)", "*Me alegró que hubieras venido.*"]
+        ]
+      }
+    },
+    {
+      "heading": "Exceptions that make sense",
+      "body": "When the past trigger refers to something **still true or still in the future now**, the present subjunctive is possible — very common in Latin America: *Me pidió que lo llame mañana.* (He asked me to call him tomorrow — tomorrow is still ahead.) The standard *que lo llamara* is always correct.\n\nThe conditional can take either depending on meaning: *Me gustaría que vinieras* (standard). *Sería mejor que vengas* is heard in some areas but is less standard — prefer *vinieras*."
+    },
+    {
+      "heading": "Putting it together",
+      "body": "- *Espero que hayas dormido bien.* (present → earlier: present perfect subj.)\n- *Esperaba que hubieras dormido bien.* (past → earlier: pluperfect subj.)\n- *No creo que lo sepa.* / *No creía que lo supiera.*\n- *Te lo digo para que lo sepas.* / *Te lo dije para que lo supieras.*\n- *Busco a alguien que lo haya hecho antes.* (someone who has done it before)"
+    }
+  ],
+  "vocab": [
+    ["la correlación de tiempos", "sequence of tenses"],
+    ["el verbo principal", "the main verb"],
+    ["la oración subordinada", "the subordinate clause"],
+    ["anterior", "earlier / previous"],
+    ["posterior", "later / subsequent"],
+    ["simultáneo / simultánea", "simultaneous"],
+    ["dormir bien", "to sleep well"],
+    ["el cambio", "the change"],
+    ["exigir", "to demand"],
+    ["el permiso", "permission"],
+    ["negar", "to deny"],
+    ["resolver", "to solve"]
+  ],
+  "examples": [
+    ["Quiero que vengas.", "I want you to come."],
+    ["Quería que vinieras.", "I wanted you to come."],
+    ["Querría que vinieras.", "I would like you to come."],
+    ["Me alegra que hayas venido.", "I'm glad you've come."],
+    ["Me alegró que hubieras venido.", "I was glad you had come."],
+    ["Espero que hayas dormido bien.", "I hope you slept well."],
+    ["Esperaba que hubieras dormido bien.", "I was hoping you had slept well."],
+    ["No creo que lo sepa.", "I don't think he knows."],
+    ["No creía que lo supiera.", "I didn't think he knew."],
+    ["Te lo digo para que lo sepas.", "I'm telling you so you know."],
+    ["Te lo dije para que lo supieras.", "I told you so you'd know."],
+    ["Busco a alguien que lo haya hecho antes.", "I'm looking for someone who has done it before."],
+    ["Me pidió que lo llamara mañana.", "He asked me to call him tomorrow."],
+    ["El jefe exigió que resolviéramos el problema.", "The boss demanded that we solve the problem."],
+    ["Negó que hubiera dicho eso.", "He denied having said that."],
+    ["Le he pedido que me dé permiso.", "I've asked him to give me permission."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Choose: Quería que ___.", "options": ["vinieras", "vengas", "vienes"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: He querido siempre que ___ feliz.", "options": ["seas", "fueras", "eres"], "answer": 0, "lang": "es", "explain": "Present perfect in the main clause → present subjunctive."},
+    {"type": "mc", "prompt": "Choose: Me alegró que ___ venido.", "options": ["hubieras", "hayas", "has"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Espero que ___ dormido bien.", "options": ["hayas", "hubieras", "has"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Te lo dije para que lo ___.", "options": ["supieras", "sepas", "sabías"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "After a past-tense trigger, the standard subjunctive is…", "options": ["imperfect (or pluperfect)", "present", "future"], "answer": 0},
+    {"type": "fill", "prompt": "No creía que lo ___. (saber, él)", "answers": ["supiera", "supiese"], "hint": "I didn't think he knew."},
+    {"type": "fill", "prompt": "No creo que lo ___. (saber, él)", "answers": ["sepa"], "hint": "I don't think he knows."},
+    {"type": "fill", "prompt": "Te lo digo para que lo ___. (saber, tú)", "answers": ["sepas"], "hint": "I'm telling you so you know."},
+    {"type": "fill", "prompt": "Busco a alguien que lo ___ hecho antes.", "answers": ["haya"], "hint": "I'm looking for someone who has done it before."},
+    {"type": "fill", "prompt": "Esperaba que ___ dormido bien. (tú)", "answers": ["hubieras", "hubieses"], "hint": "I was hoping you had slept well."},
+    {"type": "fill", "prompt": "El jefe exigió que ___ el problema. (resolver, nosotros)", "answers": ["resolviéramos", "resolviésemos"], "hint": "The boss demanded that we solve the problem."},
+    {"type": "fill", "prompt": "Negó que ___ dicho eso.", "answers": ["hubiera", "hubiese"], "hint": "He denied having said that."},
+    {"type": "fill", "prompt": "Le he pedido que me ___ permiso. (dar)", "answers": ["dé"], "hint": "I've asked him to give me permission."},
+    {"type": "fill", "prompt": "Querría que ___. (venir, tú)", "answers": ["vinieras", "vinieses"], "hint": "I would like you to come."},
+    {"type": "translate", "prompt": "I wanted you to come. (tú)", "answers": ["Quería que vinieras.", "Quería que vinieses."]},
+    {"type": "translate", "prompt": "I hope you slept well. (tú)", "answers": ["Espero que hayas dormido bien."]},
+    {"type": "translate", "prompt": "I didn't think he knew.", "answers": ["No creía que lo supiera.", "No creía que supiera.", "No pensaba que lo supiera."]},
+    {"type": "translate", "prompt": "I told you so you'd know. (tú)", "answers": ["Te lo dije para que lo supieras.", "Te lo dije para que supieras."]},
+    {"type": "translate", "prompt": "He denied having said that.", "answers": ["Negó que hubiera dicho eso.", "Negó haber dicho eso."]},
+    {"type": "build", "prompt": "Put the words in order: \"I was glad you had come.\"", "answer": "Me alegró que hubieras venido."},
+    {"type": "build", "prompt": "Put the words in order: \"I'm looking for someone who has done it before.\"", "answer": "Busco a alguien que lo haya hecho antes."},
+    {"type": "build", "prompt": "Put the words in order: \"The boss demanded that we solve the problem.\"", "answer": "El jefe exigió que resolviéramos el problema."}
+  ]
+}

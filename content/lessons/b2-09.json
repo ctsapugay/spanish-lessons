@@ -1,0 +1,73 @@
+{
+  "sections": [
+    {
+      "heading": "No dangling prepositions",
+      "body": "English often ends a sentence with a preposition: \"the house I live **in**\", \"the person I talked **to**\". Spanish **never** does: the preposition goes before the relative pronoun.\n\n- *la casa **en la que** vivo* (or *en la cual*, or simply *donde vivo*)\n- *la persona **con la que** hablé* (or *con quien hablé*)\n- *el problema **del que** te hablé* (the problem I told you about — *de + el que = del que*)\n- *la razón **por la que** me fui* (the reason I left)\n- *los amigos **a los que** invité* (the friends I invited)"
+    },
+    {
+      "heading": "Choosing the form",
+      "body": "After a preposition, use *el que / la que / los que / las que* (most common), *el cual* etc. (more formal), or *quien / quienes* (people only). After short prepositions like *en*, simple *que* is also used for things in speech: *la casa en que vivo*.\n\nRelative adverbs: *donde* (place: *la ciudad donde nací*), *cuando* (time: *el día cuando / en que nos conocimos*), *como* (manner: *la manera como / en que lo dijo*)."
+    },
+    {
+      "heading": "Mood again",
+      "body": "The same rule as B1 applies: indicative for known antecedents, subjunctive for unknown or non-existent ones — even with prepositions: *Busco una persona con la que pueda hablar.* (I'm looking for someone I can talk to.) *No hay nadie en quien confíe.* (There's nobody I trust.)"
+    }
+  ],
+  "vocab": [
+    ["en la que", "in which / where"],
+    ["con la que / con quien", "with whom / with which"],
+    ["del que / de la que", "about which / of whom"],
+    ["por la que", "for which (the reason why)"],
+    ["a los que", "to whom / whom"],
+    ["la razón", "the reason"],
+    ["la manera", "the way / manner"],
+    ["confiar en", "to trust"],
+    ["hablar de", "to talk about"],
+    ["contar con", "to count on"],
+    ["soñar con", "to dream of / about"],
+    ["depender de", "to depend on"]
+  ],
+  "examples": [
+    ["Esta es la casa en la que vivo.", "This is the house I live in."],
+    ["La persona con la que hablé fue muy amable.", "The person I talked to was very kind."],
+    ["Es el problema del que te hablé.", "It's the problem I told you about."],
+    ["Esa es la razón por la que me fui.", "That's the reason I left."],
+    ["Los amigos a los que invité no vinieron.", "The friends I invited didn't come."],
+    ["La chica con quien sales es muy simpática.", "The girl you're going out with is very nice."],
+    ["La ciudad donde nací es pequeña.", "The city where I was born is small."],
+    ["El día en que nos conocimos llovía.", "It was raining the day we met."],
+    ["Me gusta la manera en que lo dijo.", "I like the way she said it."],
+    ["Es la empresa para la que trabajo.", "It's the company I work for."],
+    ["Busco una persona con la que pueda hablar.", "I'm looking for someone I can talk to."],
+    ["No hay nadie en quien confíe.", "There's nobody I trust."],
+    ["Es un amigo con el que siempre puedo contar.", "He's a friend I can always count on."],
+    ["El viaje con el que soñaba por fin se hizo realidad.", "The trip I dreamed of finally came true."],
+    ["Es algo de lo que no quiero hablar.", "It's something I don't want to talk about."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Esta es la casa en la ___ vivo.", "answers": ["que", "cual"], "hint": "This is the house I live in."},
+    {"type": "fill", "prompt": "La persona ___ la que hablé fue muy amable.", "answers": ["con"], "hint": "The person I talked to was very kind."},
+    {"type": "fill", "prompt": "Es el problema ___ que te hablé.", "answers": ["del"], "hint": "It's the problem I told you about."},
+    {"type": "fill", "prompt": "Esa es la razón ___ la que me fui.", "answers": ["por"], "hint": "That's the reason I left."},
+    {"type": "fill", "prompt": "Los amigos a los ___ invité no vinieron.", "answers": ["que"], "hint": "The friends I invited didn't come."},
+    {"type": "fill", "prompt": "Es la empresa ___ la que trabajo.", "answers": ["para"], "hint": "It's the company I work for."},
+    {"type": "fill", "prompt": "Busco una persona con la que ___ hablar. (poder)", "answers": ["pueda"], "hint": "I'm looking for someone I can talk to."},
+    {"type": "fill", "prompt": "No hay nadie en quien ___. (confiar, yo)", "answers": ["confíe"], "hint": "There's nobody I trust."},
+    {"type": "fill", "prompt": "Es un amigo con el que siempre puedo ___.", "answers": ["contar"], "hint": "He's a friend I can always count on."},
+    {"type": "fill", "prompt": "Es algo de lo que no quiero ___.", "answers": ["hablar"], "hint": "It's something I don't want to talk about."},
+    {"type": "fill", "prompt": "El día en ___ nos conocimos llovía.", "answers": ["que"], "hint": "It was raining the day we met."},
+    {"type": "mc", "prompt": "\"the house I live in\" is…", "options": ["la casa en la que vivo", "la casa que vivo en", "la casa que vivo", "la casa la que vivo en"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"the problem I told you about\" is…", "options": ["el problema del que te hablé", "el problema que te hablé de", "el problema que te hablé", "el problema de que te hablé sobre"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Can a Spanish sentence end with a preposition like *en* or *con*?", "options": ["No", "Yes, like English"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: La chica con ___ sales es muy simpática.", "options": ["quien", "que la", "cual", "cuyo"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: No hay nadie en quien ___.", "options": ["confíe", "confío", "confiaré"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "This is the house I live in.", "answers": ["Esta es la casa en la que vivo.", "Esta es la casa donde vivo.", "Esta es la casa en que vivo.", "Esta es la casa en la cual vivo."]},
+    {"type": "translate", "prompt": "That's the reason I left.", "answers": ["Esa es la razón por la que me fui.", "Esa es la razón por la cual me fui.", "Por eso me fui."]},
+    {"type": "translate", "prompt": "It's the company I work for.", "answers": ["Es la empresa para la que trabajo.", "Es la empresa para la cual trabajo.", "Es la empresa donde trabajo."]},
+    {"type": "translate", "prompt": "There's nobody I trust.", "answers": ["No hay nadie en quien confíe.", "No hay nadie en el que confíe."]},
+    {"type": "translate", "prompt": "It's something I don't want to talk about.", "answers": ["Es algo de lo que no quiero hablar.", "Es algo de lo cual no quiero hablar."]},
+    {"type": "build", "prompt": "Put the words in order: \"The person I talked to was very kind.\"", "answer": "La persona con la que hablé fue muy amable."},
+    {"type": "build", "prompt": "Put the words in order: \"He's a friend I can always count on.\"", "answer": "Es un amigo con el que siempre puedo contar."},
+    {"type": "build", "prompt": "Put the words in order: \"The trip I dreamed of finally came true.\"", "answer": "El viaje con el que soñaba por fin se hizo realidad."}
+  ]
+}
