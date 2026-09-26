@@ -1,0 +1,360 @@
+{
+  "sections": [
+    {
+      "heading": "Looking for work",
+      "body": "*buscar trabajo / empleo*, *la oferta de trabajo* (job offer / listing), *el puesto* (position), *el currículum / la hoja de vida* (CV — *hoja de vida* is common in Colombia and elsewhere), *la carta de presentación* (cover letter), *solicitar / postularse a un puesto* (to apply for a job), *la entrevista* (interview), *contratar* (to hire), *despedir* (to fire / lay off), *renunciar* (to resign), *el contrato*, *las prestaciones / los beneficios* (benefits)."
+    },
+    {
+      "heading": "At the interview",
+      "body": "Typical questions: *Hábleme de usted.* (Tell me about yourself.) *¿Por qué quiere trabajar con nosotros?* *¿Cuáles son sus puntos fuertes y débiles?* (strengths and weaknesses) *¿Qué experiencia tiene?* *¿Dónde se ve en cinco años?*\n\nUseful answers: *Tengo cinco años de experiencia en…* *Me considero una persona responsable y organizada.* *Se me da bien trabajar en equipo.* (I'm good at teamwork.) *Me interesa mucho este puesto porque…*"
+    },
+    {
+      "heading": "A formal email",
+      "body": "- Greeting: *Estimado señor Pérez: / Estimada señora López: / Estimados señores:* (Dear…) — note the colon.\n- Opening: *Me pongo en contacto con usted para…* (I'm writing to…) *Le escribo en relación con…* (regarding)\n- Requests: *Le agradecería que me enviara…* (I'd be grateful if you'd send me… — imperfect subjunctive!)\n- Closing: *Quedo a la espera de su respuesta.* (I look forward to your reply.) *Atentamente, / Saludos cordiales,* (Sincerely / Kind regards)"
+    }
+  ],
+  "vocab": [
+    [
+      "el empleo",
+      "employment / job"
+    ],
+    [
+      "la oferta de trabajo",
+      "job offer / listing"
+    ],
+    [
+      "el puesto",
+      "the position"
+    ],
+    [
+      "el currículum",
+      "the CV / résumé"
+    ],
+    [
+      "la hoja de vida",
+      "the CV (Colombia)"
+    ],
+    [
+      "postularse",
+      "to apply"
+    ],
+    [
+      "la entrevista",
+      "the interview"
+    ],
+    [
+      "contratar",
+      "to hire"
+    ],
+    [
+      "despedir",
+      "to fire"
+    ],
+    [
+      "renunciar",
+      "to resign"
+    ],
+    [
+      "el contrato",
+      "the contract"
+    ],
+    [
+      "los puntos fuertes",
+      "strengths"
+    ],
+    [
+      "trabajar en equipo",
+      "to work in a team"
+    ],
+    [
+      "estimado / estimada",
+      "dear (formal)"
+    ],
+    [
+      "atentamente",
+      "sincerely"
+    ],
+    [
+      "agradecer",
+      "to be grateful / to thank"
+    ],
+    [
+      "responsable",
+      "responsible"
+    ]
+  ],
+  "examples": [
+    [
+      "Estoy buscando empleo.",
+      "I'm looking for work."
+    ],
+    [
+      "Vi una oferta de trabajo en internet.",
+      "I saw a job listing online."
+    ],
+    [
+      "Me postulé a un puesto de gerente.",
+      "I applied for a manager position."
+    ],
+    [
+      "Mañana tengo una entrevista.",
+      "I have an interview tomorrow."
+    ],
+    [
+      "Hábleme de usted.",
+      "Tell me about yourself."
+    ],
+    [
+      "¿Por qué quiere trabajar con nosotros?",
+      "Why do you want to work with us?"
+    ],
+    [
+      "Tengo cinco años de experiencia en ventas.",
+      "I have five years of experience in sales."
+    ],
+    [
+      "Me considero una persona responsable.",
+      "I consider myself a responsible person."
+    ],
+    [
+      "Se me da bien trabajar en equipo.",
+      "I'm good at working in a team."
+    ],
+    [
+      "Me contrataron la semana pasada.",
+      "They hired me last week."
+    ],
+    [
+      "Lo despidieron por llegar tarde.",
+      "They fired him for being late."
+    ],
+    [
+      "Renuncié porque no me pagaban bien.",
+      "I resigned because they didn't pay me well."
+    ],
+    [
+      "Estimada señora López:",
+      "Dear Mrs. López,"
+    ],
+    [
+      "Me pongo en contacto con usted para solicitar información.",
+      "I'm writing to you to request information."
+    ],
+    [
+      "Le agradecería que me enviara el contrato.",
+      "I would be grateful if you sent me the contract."
+    ],
+    [
+      "Quedo a la espera de su respuesta.",
+      "I look forward to your reply."
+    ],
+    [
+      "Atentamente, Clara Smith",
+      "Sincerely, Clara Smith"
+    ],
+    [
+      "Adjunto mi currículum.",
+      "I'm attaching my CV."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Me ___ a un puesto de gerente. (postularse, yo)",
+      "answers": [
+        "postulé"
+      ],
+      "hint": "I applied for a manager position."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mañana tengo una ___.",
+      "answers": [
+        "entrevista"
+      ],
+      "hint": "I have an interview tomorrow."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tengo cinco años de ___ en ventas.",
+      "answers": [
+        "experiencia"
+      ],
+      "hint": "I have five years of experience in sales."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se me da bien trabajar en ___.",
+      "answers": [
+        "equipo"
+      ],
+      "hint": "I'm good at working in a team."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me ___ la semana pasada. (contratar, ellos)",
+      "answers": [
+        "contrataron"
+      ],
+      "hint": "They hired me last week."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo ___ por llegar tarde. (despedir, ellos)",
+      "answers": [
+        "despidieron"
+      ],
+      "hint": "They fired him for being late."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ porque no me pagaban bien. (renunciar, yo)",
+      "answers": [
+        "renuncié"
+      ],
+      "hint": "I resigned because they didn't pay me well."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ señora López:",
+      "answers": [
+        "estimada"
+      ],
+      "hint": "Dear Mrs. López,"
+    },
+    {
+      "type": "fill",
+      "prompt": "Le agradecería que me ___ el contrato. (enviar, usted)",
+      "answers": [
+        "enviara"
+      ],
+      "hint": "I'd be grateful if you sent me the contract."
+    },
+    {
+      "type": "fill",
+      "prompt": "Quedo a la ___ de su respuesta.",
+      "answers": [
+        "espera"
+      ],
+      "hint": "I look forward to your reply."
+    },
+    {
+      "type": "fill",
+      "prompt": "___, Clara Smith",
+      "answers": [
+        "atentamente"
+      ],
+      "hint": "Sincerely, Clara Smith"
+    },
+    {
+      "type": "mc",
+      "prompt": "In a formal Spanish email, the greeting *Estimado señor Pérez* is followed by…",
+      "options": [
+        "a colon (:)",
+        "a comma (,)",
+        "an exclamation mark",
+        "nothing"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*renunciar* means…",
+      "options": [
+        "to resign / quit",
+        "to renew",
+        "to announce",
+        "to be fired"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Hábleme de usted* means…",
+      "options": [
+        "Tell me about yourself.",
+        "Speak to me formally.",
+        "Talk to me later.",
+        "Call me."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is a good way to close a formal email?",
+      "options": [
+        "Atentamente,",
+        "Chao,",
+        "Besos,",
+        "Nos vemos,"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*la hoja de vida* is…",
+      "options": [
+        "the CV (in Colombia and elsewhere)",
+        "the life story",
+        "a medical record",
+        "the job contract"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm looking for work.",
+      "answers": [
+        "Estoy buscando empleo.",
+        "Estoy buscando trabajo.",
+        "Busco trabajo.",
+        "Busco empleo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I have an interview tomorrow.",
+      "answers": [
+        "Mañana tengo una entrevista.",
+        "Tengo una entrevista mañana."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "They hired me last week.",
+      "answers": [
+        "Me contrataron la semana pasada."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I consider myself a responsible person.",
+      "answers": [
+        "Me considero una persona responsable."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I look forward to your reply. (formal)",
+      "answers": [
+        "Quedo a la espera de su respuesta."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'm writing to you to request information.\"",
+      "answer": "Me pongo en contacto con usted para solicitar información."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Why do you want to work with us?\"",
+      "answer": "¿Por qué quiere trabajar con nosotros?"
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I resigned because they didn't pay me well.\"",
+      "answer": "Renuncié porque no me pagaban bien."
+    }
+  ]
+}

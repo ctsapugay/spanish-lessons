@@ -1,0 +1,79 @@
+{
+  "sections": [
+    {
+      "heading": "Reacting to news",
+      "body": "- Good news: *¡Qué bien! ¡Qué alegría! ¡Me alegro mucho! ¡Qué buena noticia! ¡Enhorabuena! / ¡Felicidades!*\n- Bad news: *¡Qué pena! ¡Qué lástima! ¡Qué mala suerte! Lo siento mucho. ¡Vaya!* (Oh no / wow)\n- Surprise: *¿En serio?* (Really?) *¡No me digas! ¡No puede ser! ¡Qué sorpresa! ¿De verdad?*\n- Relief: *¡Qué alivio! ¡Menos mal!* (Thank goodness!) — *¡Menos mal que llegaste!*"
+    },
+    {
+      "heading": "Showing empathy and comfort",
+      "body": "*Te entiendo.* (I understand.) *Me imagino cómo te sientes.* (I can imagine how you feel.) *Debe de ser muy difícil.* (That must be very hard.) *No te preocupes, todo va a salir bien.* (Don't worry, everything will be fine.) *Ánimo.* (Hang in there / Cheer up.) *Estoy aquí para lo que necesites.* (I'm here for whatever you need.) *Tranquilo / Tranquila.* (Take it easy.)"
+    },
+    {
+      "heading": "Regret and disappointment",
+      "body": "*Lo siento, fue culpa mía.* (It was my fault.) *Me arrepiento de…* (I regret…): *Me arrepiento de no haber estudiado más.* *¡Qué decepción!* (What a disappointment!) *Estoy decepcionado / desilusionado.* *Lamento que…* + subjunctive (I'm sorry that…): *Lamento que no hayas podido venir.*"
+    }
+  ],
+  "vocab": [
+    ["¡Qué alegría!", "How wonderful!"],
+    ["¡Qué mala suerte!", "What bad luck!"],
+    ["¿En serio?", "Really? / Seriously?"],
+    ["¡No puede ser!", "It can't be!"],
+    ["¡Qué alivio!", "What a relief!"],
+    ["¡Menos mal!", "Thank goodness!"],
+    ["te entiendo", "I understand you"],
+    ["me imagino", "I can imagine"],
+    ["ánimo", "cheer up / hang in there"],
+    ["arrepentirse de", "to regret"],
+    ["la decepción", "the disappointment"],
+    ["decepcionado / decepcionada", "disappointed"],
+    ["lamentar", "to regret / be sorry"],
+    ["la culpa", "the fault / blame"],
+    ["la noticia", "the (piece of) news"],
+    ["el alivio", "the relief"]
+  ],
+  "examples": [
+    ["¡Qué buena noticia! Me alegro mucho.", "What great news! I'm so happy."],
+    ["¡Qué mala suerte!", "What bad luck!"],
+    ["—Me voy a vivir a Japón. —¿En serio?", "—I'm moving to Japan. —Really?"],
+    ["¡No puede ser!", "It can't be!"],
+    ["¡Qué alivio!", "What a relief!"],
+    ["¡Menos mal que llegaste!", "Thank goodness you arrived!"],
+    ["Te entiendo perfectamente.", "I totally understand."],
+    ["Me imagino cómo te sientes.", "I can imagine how you feel."],
+    ["Debe de ser muy difícil.", "That must be very hard."],
+    ["No te preocupes, todo va a salir bien.", "Don't worry, everything will be fine."],
+    ["¡Ánimo! Tú puedes.", "Hang in there! You can do it."],
+    ["Estoy aquí para lo que necesites.", "I'm here for whatever you need."],
+    ["Lo siento, fue culpa mía.", "I'm sorry, it was my fault."],
+    ["Me arrepiento de no haber estudiado más.", "I regret not having studied more."],
+    ["¡Qué decepción!", "What a disappointment!"],
+    ["Estoy muy decepcionada con el resultado.", "I'm very disappointed with the result."],
+    ["Lamento que no hayas podido venir.", "I'm sorry you weren't able to come."],
+    ["¡Vaya! No lo sabía.", "Wow! I didn't know."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Your friend tells you she got the job. You say…", "options": ["¡Qué buena noticia! Me alegro mucho.", "¡Qué mala suerte!", "Lo siento, fue culpa mía.", "¡Qué decepción!"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Your friend missed his flight. You say…", "options": ["¡Qué mala suerte!", "¡Qué alivio!", "¡Enhorabuena!", "¡Menos mal!"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "You find your lost passport. You say…", "options": ["¡Qué alivio!", "¡Qué pena!", "¡No me digas!", "Lo siento."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*¡Menos mal!* means…", "options": ["Thank goodness!", "Less bad!", "Too bad!", "Not so good!"], "answer": 0},
+    {"type": "mc", "prompt": "*¿En serio?* means…", "options": ["Really?", "Are you serious-looking?", "In series?", "Is it serious (illness)?"], "answer": 0},
+    {"type": "mc", "prompt": "Which phrase comforts someone?", "options": ["No te preocupes, todo va a salir bien.", "¡No puede ser!", "¡Qué decepción!", "Fue culpa tuya."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Lamento que no ___ podido venir.", "options": ["hayas", "has", "habías"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "¡Menos mal que ___! (llegar, tú)", "answers": ["llegaste"], "hint": "Thank goodness you arrived!"},
+    {"type": "fill", "prompt": "Me ___ cómo te sientes.", "answers": ["imagino"], "hint": "I can imagine how you feel."},
+    {"type": "fill", "prompt": "Debe de ___ muy difícil.", "answers": ["ser"], "hint": "That must be very hard."},
+    {"type": "fill", "prompt": "Estoy aquí para lo que ___. (necesitar, tú)", "answers": ["necesites"], "hint": "I'm here for whatever you need."},
+    {"type": "fill", "prompt": "Lo siento, fue ___ mía.", "answers": ["culpa"], "hint": "I'm sorry, it was my fault."},
+    {"type": "fill", "prompt": "Me ___ de no haber estudiado más. (arrepentirse)", "answers": ["arrepiento"], "hint": "I regret not having studied more."},
+    {"type": "fill", "prompt": "Estoy muy ___ con el resultado.", "answers": ["decepcionada", "decepcionado"], "hint": "I'm very disappointed with the result."},
+    {"type": "fill", "prompt": "¡___! Tú puedes.", "answers": ["ánimo"], "hint": "Hang in there! You can do it."},
+    {"type": "translate", "prompt": "What a relief!", "answers": ["¡Qué alivio!"]},
+    {"type": "translate", "prompt": "I can imagine how you feel. (tú)", "answers": ["Me imagino cómo te sientes.", "Imagino cómo te sientes."]},
+    {"type": "translate", "prompt": "It was my fault.", "answers": ["Fue culpa mía.", "Fue mi culpa."]},
+    {"type": "translate", "prompt": "Don't worry, everything will be fine. (tú)", "answers": ["No te preocupes, todo va a salir bien.", "No te preocupes, todo va a estar bien.", "No te preocupes, todo saldrá bien."]},
+    {"type": "translate", "prompt": "Really? (surprise)", "answers": ["¿En serio?", "¿De verdad?"]},
+    {"type": "build", "prompt": "Put the words in order: \"I'm sorry you weren't able to come.\"", "answer": "Lamento que no hayas podido venir."},
+    {"type": "build", "prompt": "Put the words in order: \"I'm here for whatever you need.\"", "answer": "Estoy aquí para lo que necesites."},
+    {"type": "build", "prompt": "Put the words in order: \"What great news! I'm so happy.\"", "answer": "¡Qué buena noticia! Me alegro mucho."}
+  ]
+}

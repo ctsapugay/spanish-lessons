@@ -1,0 +1,350 @@
+{
+  "sections": [
+    {
+      "heading": "The media",
+      "body": "*los medios de comunicación* (the media), *la prensa* (the press), *el periódico / el diario* (newspaper), *la revista* (magazine), *el noticiero / las noticias* (the news broadcast), *el titular* (headline), *el artículo*, *el / la periodista*, *la entrevista*, *el reportaje* (report / feature), *la red social* (social network), *la noticia falsa* (fake news), *en vivo / en directo* (live)."
+    },
+    {
+      "heading": "The passive with ser",
+      "body": "The true passive is *ser* + past participle (+ *por* + agent). The participle agrees with the subject:\n\n*El puente fue construido en 1990.* (The bridge was built in 1990.)\n*Las leyes son aprobadas por el Congreso.* (Laws are passed by Congress.)\n*El ladrón fue detenido por la policía.* (The thief was arrested by the police.)\n\nIt's typical of **news and formal writing**. In conversation, Spanish prefers the active voice (*La policía detuvo al ladrón*) or passive *se* (*Se construyó el puente en 1990*)."
+    },
+    {
+      "heading": "Headline style",
+      "body": "Headlines often drop articles and verbs, and use the present for past events: *Detienen a dos hombres por robo en el centro* (Two men arrested for robbery downtown). *Aprobada la nueva ley de educación.* Notice the impersonal third-person plural (*detienen*) — \"they\" meaning the authorities."
+    }
+  ],
+  "vocab": [
+    [
+      "los medios de comunicación",
+      "the media"
+    ],
+    [
+      "la prensa",
+      "the press"
+    ],
+    [
+      "el diario",
+      "the daily newspaper"
+    ],
+    [
+      "la revista",
+      "the magazine"
+    ],
+    [
+      "el noticiero",
+      "the news program"
+    ],
+    [
+      "el titular",
+      "the headline"
+    ],
+    [
+      "el artículo",
+      "the article"
+    ],
+    [
+      "la red social",
+      "social network"
+    ],
+    [
+      "la noticia falsa",
+      "fake news"
+    ],
+    [
+      "en vivo",
+      "live"
+    ],
+    [
+      "construir",
+      "to build"
+    ],
+    [
+      "aprobar",
+      "to pass / approve"
+    ],
+    [
+      "detener",
+      "to arrest / to stop"
+    ],
+    [
+      "el ladrón / la ladrona",
+      "the thief"
+    ],
+    [
+      "el puente",
+      "the bridge"
+    ],
+    [
+      "la ley",
+      "the law"
+    ],
+    [
+      "el robo",
+      "the robbery"
+    ],
+    [
+      "publicar",
+      "to publish"
+    ]
+  ],
+  "examples": [
+    [
+      "Leo el periódico todas las mañanas.",
+      "I read the newspaper every morning."
+    ],
+    [
+      "¿Viste el noticiero anoche?",
+      "Did you see the news last night?"
+    ],
+    [
+      "El partido se transmite en vivo.",
+      "The game is broadcast live."
+    ],
+    [
+      "Hay muchas noticias falsas en las redes sociales.",
+      "There's a lot of fake news on social media."
+    ],
+    [
+      "El puente fue construido en 1990.",
+      "The bridge was built in 1990."
+    ],
+    [
+      "Las leyes son aprobadas por el Congreso.",
+      "Laws are passed by Congress."
+    ],
+    [
+      "El ladrón fue detenido por la policía.",
+      "The thief was arrested by the police."
+    ],
+    [
+      "La policía detuvo al ladrón.",
+      "The police arrested the thief."
+    ],
+    [
+      "Se construyó el puente en 1990.",
+      "The bridge was built in 1990."
+    ],
+    [
+      "Detienen a dos hombres por robo en el centro.",
+      "Two men arrested for robbery downtown."
+    ],
+    [
+      "Aprobada la nueva ley de educación.",
+      "New education law passed."
+    ],
+    [
+      "El artículo fue escrito por una periodista mexicana.",
+      "The article was written by a Mexican journalist."
+    ],
+    [
+      "La noticia fue publicada ayer.",
+      "The news was published yesterday."
+    ],
+    [
+      "Los resultados serán anunciados mañana.",
+      "The results will be announced tomorrow."
+    ],
+    [
+      "Leí un titular muy interesante.",
+      "I read a very interesting headline."
+    ],
+    [
+      "Mi madre compra una revista cada semana.",
+      "My mother buys a magazine every week."
+    ],
+    [
+      "La casa fue vendida en marzo.",
+      "The house was sold in March."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "El puente fue ___ en 1990. (construir)",
+      "answers": [
+        "construido"
+      ],
+      "hint": "The bridge was built in 1990."
+    },
+    {
+      "type": "fill",
+      "prompt": "Las leyes son ___ por el Congreso. (aprobar)",
+      "answers": [
+        "aprobadas"
+      ],
+      "hint": "Laws are passed by Congress."
+    },
+    {
+      "type": "fill",
+      "prompt": "El ladrón fue ___ por la policía. (detener)",
+      "answers": [
+        "detenido"
+      ],
+      "hint": "The thief was arrested by the police."
+    },
+    {
+      "type": "fill",
+      "prompt": "El artículo fue escrito ___ una periodista mexicana.",
+      "answers": [
+        "por"
+      ],
+      "hint": "The article was written by a Mexican journalist."
+    },
+    {
+      "type": "fill",
+      "prompt": "La noticia fue ___ ayer. (publicar)",
+      "answers": [
+        "publicada"
+      ],
+      "hint": "The news was published yesterday."
+    },
+    {
+      "type": "fill",
+      "prompt": "Los resultados ___ anunciados mañana. (ser)",
+      "answers": [
+        "serán"
+      ],
+      "hint": "The results will be announced tomorrow."
+    },
+    {
+      "type": "fill",
+      "prompt": "El partido se transmite en ___.",
+      "answers": [
+        "vivo"
+      ],
+      "hint": "The game is broadcast live."
+    },
+    {
+      "type": "fill",
+      "prompt": "Hay muchas noticias ___ en las redes sociales.",
+      "answers": [
+        "falsas"
+      ],
+      "hint": "There's a lot of fake news on social media."
+    },
+    {
+      "type": "fill",
+      "prompt": "La policía ___ al ladrón. (detener)",
+      "answers": [
+        "detuvo"
+      ],
+      "hint": "The police arrested the thief."
+    },
+    {
+      "type": "fill",
+      "prompt": "Leí un ___ muy interesante.",
+      "answers": [
+        "titular",
+        "artículo"
+      ],
+      "hint": "I read a very interesting headline."
+    },
+    {
+      "type": "mc",
+      "prompt": "In *Las leyes son aprobadas*, the participle agrees with…",
+      "options": [
+        "las leyes",
+        "the Congress",
+        "nothing — it never changes"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "In everyday conversation, instead of the *ser* passive, people usually…",
+      "options": [
+        "use the active voice or passive *se*",
+        "use *estar* + participle",
+        "avoid the sentence"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "The headline *Detienen a dos hombres* means…",
+      "options": [
+        "Two men arrested",
+        "Two men stop",
+        "Two men arrest someone",
+        "Two men are held up"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*el noticiero* is…",
+      "options": [
+        "the news program",
+        "the newspaper seller",
+        "the journalist",
+        "a notebook"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose the passive: \"The house was sold.\"",
+      "options": [
+        "La casa fue vendida.",
+        "La casa fue vendido.",
+        "La casa estaba vendió.",
+        "La casa se fue vendida."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "The bridge was built in 1990. (ser passive)",
+      "answers": [
+        "El puente fue construido en 1990."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The police arrested the thief. (active)",
+      "answers": [
+        "La policía detuvo al ladrón."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Did you see the news last night? (tú)",
+      "answers": [
+        "¿Viste el noticiero anoche?",
+        "¿Viste las noticias anoche?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The news was published yesterday.",
+      "answers": [
+        "La noticia fue publicada ayer.",
+        "La noticia se publicó ayer."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I read the newspaper every morning.",
+      "answers": [
+        "Leo el periódico todas las mañanas.",
+        "Leo el diario todas las mañanas."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The article was written by a Mexican journalist.\"",
+      "answer": "El artículo fue escrito por una periodista mexicana."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"There's a lot of fake news on social media.\"",
+      "answer": "Hay muchas noticias falsas en las redes sociales."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The results will be announced tomorrow.\"",
+      "answer": "Los resultados serán anunciados mañana."
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "sections": [
+    {
+      "heading": "Taking a position",
+      "body": "- *Estoy a favor de / en contra de…* (I'm for / against…): *Estoy a favor de trabajar desde casa.* *Estoy en contra de que cierren el parque* (+ subjunctive after *que*).\n- *Desde mi punto de vista, … / A mi parecer, … / En mi opinión, …*\n- *Lo que pienso es que…*"
+    },
+    {
+      "heading": "Structuring an argument",
+      "body": "- Introducing: *En primer lugar* (first of all), *Para empezar*…\n- Adding: *Además, … / Por otro lado, …* (On the other hand / also), *También hay que tener en cuenta que…* (We also have to keep in mind that…)\n- Two sides: *Por un lado…, por otro (lado)…* (On the one hand…, on the other…)\n- Giving examples: *Por ejemplo, … / Como, …*\n- Concluding: *En conclusión, … / Para terminar, … / En resumen, …* (In short)"
+    },
+    {
+      "heading": "Counterarguments",
+      "body": "*Es verdad que…, pero…* (It's true that…, but…) *Tienes razón en eso, pero…* *Entiendo tu punto, sin embargo…* *No es verdad que* + subjunctive: *No es verdad que sea más caro.* *No estoy de acuerdo con que* + subjunctive: *No estoy de acuerdo con que prohíban los carros en el centro.* *Depende de…* (It depends on…)"
+    }
+  ],
+  "vocab": [
+    [
+      "estar a favor de",
+      "to be in favor of"
+    ],
+    [
+      "estar en contra de",
+      "to be against"
+    ],
+    [
+      "a mi parecer",
+      "in my view"
+    ],
+    [
+      "en primer lugar",
+      "first of all"
+    ],
+    [
+      "por un lado",
+      "on the one hand"
+    ],
+    [
+      "por otro lado",
+      "on the other hand"
+    ],
+    [
+      "tener en cuenta",
+      "to keep in mind"
+    ],
+    [
+      "en conclusión",
+      "in conclusion"
+    ],
+    [
+      "en resumen",
+      "in short"
+    ],
+    [
+      "el argumento",
+      "the argument (reason)"
+    ],
+    [
+      "la ventaja",
+      "the advantage"
+    ],
+    [
+      "la desventaja",
+      "the disadvantage"
+    ],
+    [
+      "el debate",
+      "the debate"
+    ],
+    [
+      "prohibir",
+      "to ban / forbid"
+    ]
+  ],
+  "examples": [
+    [
+      "Estoy a favor de trabajar desde casa.",
+      "I'm in favor of working from home."
+    ],
+    [
+      "Estoy en contra de que cierren el parque.",
+      "I'm against them closing the park."
+    ],
+    [
+      "A mi parecer, es una buena idea.",
+      "In my view, it's a good idea."
+    ],
+    [
+      "En primer lugar, es más barato.",
+      "First of all, it's cheaper."
+    ],
+    [
+      "Por un lado es cómodo; por otro, es caro.",
+      "On the one hand it's comfortable; on the other, it's expensive."
+    ],
+    [
+      "Hay que tener en cuenta el precio.",
+      "We have to keep the price in mind."
+    ],
+    [
+      "Además, contamina menos.",
+      "Besides, it pollutes less."
+    ],
+    [
+      "En conclusión, creo que deberíamos hacerlo.",
+      "In conclusion, I think we should do it."
+    ],
+    [
+      "Es verdad que es caro, pero dura mucho.",
+      "It's true that it's expensive, but it lasts a long time."
+    ],
+    [
+      "Tienes razón en eso, pero no estoy de acuerdo.",
+      "You're right about that, but I don't agree."
+    ],
+    [
+      "No es verdad que sea más caro.",
+      "It's not true that it's more expensive."
+    ],
+    [
+      "No estoy de acuerdo con que prohíban los carros en el centro.",
+      "I don't agree with banning cars downtown."
+    ],
+    [
+      "Depende de la situación.",
+      "It depends on the situation."
+    ],
+    [
+      "La mayor ventaja es el tiempo libre.",
+      "The biggest advantage is the free time."
+    ],
+    [
+      "La desventaja es que te sientes solo.",
+      "The disadvantage is that you feel lonely."
+    ],
+    [
+      "En resumen, hay ventajas y desventajas.",
+      "In short, there are advantages and disadvantages."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Estoy a ___ de trabajar desde casa.",
+      "answers": [
+        "favor"
+      ],
+      "hint": "I'm in favor of working from home."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estoy en ___ de que cierren el parque.",
+      "answers": [
+        "contra"
+      ],
+      "hint": "I'm against them closing the park."
+    },
+    {
+      "type": "fill",
+      "prompt": "En primer ___, es más barato.",
+      "answers": [
+        "lugar"
+      ],
+      "hint": "First of all, it's cheaper."
+    },
+    {
+      "type": "fill",
+      "prompt": "Por un ___ es cómodo; por otro, es caro.",
+      "answers": [
+        "lado"
+      ],
+      "hint": "On the one hand it's comfortable; on the other, it's expensive."
+    },
+    {
+      "type": "fill",
+      "prompt": "Hay que tener en ___ el precio.",
+      "answers": [
+        "cuenta"
+      ],
+      "hint": "We have to keep the price in mind."
+    },
+    {
+      "type": "fill",
+      "prompt": "En ___, creo que deberíamos hacerlo.",
+      "answers": [
+        "conclusión",
+        "resumen"
+      ],
+      "hint": "In conclusion, I think we should do it."
+    },
+    {
+      "type": "fill",
+      "prompt": "No es verdad que ___ más caro. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "It's not true that it's more expensive."
+    },
+    {
+      "type": "fill",
+      "prompt": "No estoy de acuerdo con que ___ los carros. (prohibir, ellos)",
+      "answers": [
+        "prohíban"
+      ],
+      "hint": "I don't agree with them banning cars."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estoy en contra de que ___ el parque. (cerrar, ellos)",
+      "answers": [
+        "cierren"
+      ],
+      "hint": "I'm against them closing the park."
+    },
+    {
+      "type": "fill",
+      "prompt": "La mayor ___ es el tiempo libre.",
+      "answers": [
+        "ventaja"
+      ],
+      "hint": "The biggest advantage is the free time."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ de la situación.",
+      "answers": [
+        "depende"
+      ],
+      "hint": "It depends on the situation."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which phrase introduces the other side of an argument?",
+      "options": [
+        "por otro lado",
+        "en primer lugar",
+        "en conclusión",
+        "a favor"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which phrase concludes an argument?",
+      "options": [
+        "en resumen",
+        "por un lado",
+        "además",
+        "por ejemplo"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Why is it *en contra de que cierren* (subjunctive)?",
+      "options": [
+        "Opposing/judging an action takes the subjunctive",
+        "Because it's the future",
+        "Because *cerrar* is irregular"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*la desventaja* means…",
+      "options": [
+        "the disadvantage",
+        "the advantage",
+        "the disappointment",
+        "the difference"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "A polite way to counter: \"You're right about that, but…\"",
+      "options": [
+        "Tienes razón en eso, pero…",
+        "Estás mal, pero…",
+        "No es así nunca…"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm in favor of working from home.",
+      "answers": [
+        "Estoy a favor de trabajar desde casa."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "On the one hand it's comfortable; on the other, it's expensive.",
+      "answers": [
+        "Por un lado es cómodo; por otro, es caro.",
+        "Por un lado es cómodo; por otro lado, es caro."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It depends on the situation.",
+      "answers": [
+        "Depende de la situación."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's not true that it's more expensive.",
+      "answers": [
+        "No es verdad que sea más caro.",
+        "No es cierto que sea más caro."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "In short, there are advantages and disadvantages.",
+      "answers": [
+        "En resumen, hay ventajas y desventajas."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's true that it's expensive, but it lasts a long time.\"",
+      "answer": "Es verdad que es caro, pero dura mucho."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"In conclusion, I think we should do it.\"",
+      "answer": "En conclusión, creo que deberíamos hacerlo."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The disadvantage is that you feel lonely.\"",
+      "answer": "La desventaja es que te sientes solo."
+    }
+  ]
+}
