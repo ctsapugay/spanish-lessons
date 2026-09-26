@@ -1,0 +1,87 @@
+{
+  "sections": [
+    {
+      "heading": "Relationships",
+      "body": "*la pareja* (partner / couple), *el novio / la novia* (boyfriend / girlfriend; also groom / bride), *el esposo / la esposa* (husband / wife — *el marido / la mujer* in Spain), *salir con alguien* (to go out with, date), *enamorarse de* (to fall in love with), *estar enamorado de* (to be in love with), *ponerse de novios* (to start dating seriously), *casarse con* (to marry), *comprometerse* (to get engaged), *separarse, divorciarse*, *pelearse* (to fight / argue), *reconciliarse* (to make up), *llevarse bien / mal con* (to get along well / badly with)."
+    },
+    {
+      "heading": "Ser or estar: meaning changes",
+      "body": "Some adjectives change meaning with *ser* and *estar*. You saw a few in A2; here are more:",
+      "table": {
+        "head": ["Adjective", "ser", "estar"],
+        "rows": [
+          ["*listo*", "*Es listo* — he's clever", "*Está listo* — he's ready"],
+          ["*aburrido*", "*Es aburrida* — she's boring", "*Está aburrida* — she's bored"],
+          ["*orgulloso*", "*Es orgulloso* — he's arrogant", "*Está orgulloso* — he's proud (of something)"],
+          ["*abierto*", "*Es abierta* — she's open-minded", "*Está abierta* — it's open"],
+          ["*despierto*", "*Es despierto* — he's sharp, alert", "*Está despierto* — he's awake"],
+          ["*verde*", "*Es verde* — it's green", "*Está verde* — it's unripe (or inexperienced)"],
+          ["*vivo*", "*Es vivo* — he's quick-witted", "*Está vivo* — he's alive"],
+          ["*interesado*", "*Es interesado* — he's self-interested", "*Está interesado* — he's interested"]
+        ]
+      }
+    }
+  ],
+  "vocab": [
+    ["la pareja", "the partner / couple"],
+    ["salir con", "to go out with / to date"],
+    ["enamorarse de", "to fall in love with"],
+    ["estar enamorado de", "to be in love with"],
+    ["casarse con", "to marry"],
+    ["comprometerse", "to get engaged"],
+    ["divorciarse", "to get divorced"],
+    ["pelearse", "to fight / argue"],
+    ["reconciliarse", "to make up"],
+    ["llevarse bien con", "to get along well with"],
+    ["el marido", "the husband (Spain)"],
+    ["despierto / despierta", "awake / alert"],
+    ["vivo / viva", "alive / lively"],
+    ["interesado / interesada", "interested / self-interested"],
+    ["maduro / madura", "ripe / mature"]
+  ],
+  "examples": [
+    ["Llevan diez años de pareja.", "They've been a couple for ten years."],
+    ["Estoy saliendo con alguien.", "I'm seeing someone."],
+    ["Se enamoró de su vecino.", "She fell in love with her neighbor."],
+    ["Está enamorado de ti.", "He's in love with you."],
+    ["Se casaron en junio.", "They got married in June."],
+    ["Se comprometieron el año pasado.", "They got engaged last year."],
+    ["Mis padres se divorciaron cuando yo era niño.", "My parents divorced when I was a child."],
+    ["Se pelean mucho, pero siempre se reconcilian.", "They fight a lot, but they always make up."],
+    ["Me llevo muy bien con mi suegra.", "I get along really well with my mother-in-law."],
+    ["Tu hijo es muy listo.", "Your son is very clever."],
+    ["¿Estás lista? Nos vamos.", "Are you ready? We're leaving."],
+    ["Mi abuela es muy abierta.", "My grandmother is very open-minded."],
+    ["La tienda está abierta hasta las nueve.", "The store is open until nine."],
+    ["¿Estás despierto?", "Are you awake?"],
+    ["Los plátanos están verdes.", "The bananas are unripe."],
+    ["Mi abuelo todavía está vivo.", "My grandfather is still alive."],
+    ["Estoy interesada en el puesto.", "I'm interested in the position."],
+    ["Es muy interesado; solo piensa en el dinero.", "He's very self-interested; he only thinks about money."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Choose: Tu hijo ___ muy listo. (clever)", "options": ["es", "está"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: ¿___ lista? Nos vamos. (ready)", "options": ["Estás", "Eres"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: La tienda ___ abierta hasta las nueve.", "options": ["está", "es"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Los plátanos ___ verdes. (unripe)", "options": ["están", "son"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Mi abuelo todavía ___ vivo.", "options": ["está", "es"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Es muy interesado* means…", "options": ["He's very self-interested.", "He's very interested in something.", "He's interesting.", "He's very interested in you."], "answer": 0},
+    {"type": "mc", "prompt": "*llevarse bien con alguien* means…", "options": ["to get along well with someone", "to carry someone well", "to take someone away", "to dress well with someone"], "answer": 0},
+    {"type": "fill", "prompt": "Se ___ de su vecino. (enamorarse, ella)", "answers": ["enamoró"], "hint": "She fell in love with her neighbor."},
+    {"type": "fill", "prompt": "Está ___ de ti.", "answers": ["enamorado"], "hint": "He's in love with you."},
+    {"type": "fill", "prompt": "Se ___ en junio. (casarse, ellos)", "answers": ["casaron"], "hint": "They got married in June."},
+    {"type": "fill", "prompt": "Estoy ___ con alguien. (salir)", "answers": ["saliendo"], "hint": "I'm seeing someone."},
+    {"type": "fill", "prompt": "Se pelean mucho, pero siempre se ___. (reconciliarse)", "answers": ["reconcilian"], "hint": "They fight a lot, but they always make up."},
+    {"type": "fill", "prompt": "Me llevo muy ___ con mi suegra.", "answers": ["bien"], "hint": "I get along really well with my mother-in-law."},
+    {"type": "fill", "prompt": "¿Estás ___? Son las tres de la mañana.", "answers": ["despierto", "despierta"], "hint": "Are you awake?"},
+    {"type": "fill", "prompt": "Mis padres se ___ cuando yo era niño. (divorciarse)", "answers": ["divorciaron"], "hint": "My parents divorced when I was a child."},
+    {"type": "translate", "prompt": "He's in love with you. (tú)", "answers": ["Está enamorado de ti."]},
+    {"type": "translate", "prompt": "They got married in June.", "answers": ["Se casaron en junio."]},
+    {"type": "translate", "prompt": "Are you ready? (to a woman)", "answers": ["¿Estás lista?"]},
+    {"type": "translate", "prompt": "My grandfather is still alive.", "answers": ["Mi abuelo todavía está vivo.", "Mi abuelo aún está vivo.", "Mi abuelo sigue vivo."]},
+    {"type": "translate", "prompt": "I get along really well with my sister.", "answers": ["Me llevo muy bien con mi hermana."]},
+    {"type": "build", "prompt": "Put the words in order: \"They fight a lot, but they always make up.\"", "answer": "Se pelean mucho, pero siempre se reconcilian."},
+    {"type": "build", "prompt": "Put the words in order: \"My grandmother is very open-minded.\"", "answer": "Mi abuela es muy abierta."},
+    {"type": "build", "prompt": "Put the words in order: \"I'm interested in the position.\"", "answer": "Estoy interesada en el puesto."}
+  ]
+}

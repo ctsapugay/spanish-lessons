@@ -1,0 +1,76 @@
+{
+  "sections": [
+    {
+      "heading": "Social and environmental problems",
+      "body": "*la pobreza* (poverty), *la desigualdad* (inequality), *el desempleo* (unemployment), *la delincuencia / la inseguridad* (crime / lack of safety), *la corrupción*, *la violencia*, *la discriminación*, *la contaminación* (pollution), *el cambio climático*, *la deforestación*, *la sequía* (drought), *las inundaciones* (floods), *la escasez de agua* (water shortage), *los residuos / la basura* (waste), *el tráfico*."
+    },
+    {
+      "heading": "Proposing solutions",
+      "body": "- *Hay que / Habría que* + infinitive (We need to / We should): *Habría que invertir más en educación.*\n- *Es necesario / urgente / fundamental que* + subjunctive: *Es urgente que el gobierno haga algo.*\n- *Sería bueno / mejor que* + imperfect subjunctive: *Sería bueno que usáramos más el transporte público.*\n- *Propongo que* + subjunctive: *Propongo que prohibamos las bolsas de plástico.*\n- *Si todos reciclaran, habría menos basura.* (hypothetical)\n- *Para que haya menos contaminación, …* (purpose)\n\nVerbs: *reducir* (to reduce — *reduzca* in the subjunctive), *invertir* (to invest), *proteger* (to protect — *proteja*), *luchar contra* (to fight against), *fomentar* (to promote), *concientizar* (to raise awareness — *concienciar* in Spain)."
+    }
+  ],
+  "vocab": [
+    ["la pobreza", "poverty"],
+    ["la desigualdad", "inequality"],
+    ["el desempleo", "unemployment"],
+    ["la delincuencia", "crime"],
+    ["la corrupción", "corruption"],
+    ["la sequía", "drought"],
+    ["la inundación", "flood"],
+    ["la escasez", "shortage"],
+    ["los residuos", "waste"],
+    ["reducir", "to reduce"],
+    ["invertir", "to invest"],
+    ["proteger", "to protect"],
+    ["luchar contra", "to fight against"],
+    ["fomentar", "to promote / encourage"],
+    ["el gobierno", "the government"],
+    ["el transporte público", "public transportation"],
+    ["la bolsa de plástico", "plastic bag"],
+    ["urgente", "urgent"]
+  ],
+  "examples": [
+    ["La pobreza es uno de los mayores problemas.", "Poverty is one of the biggest problems."],
+    ["Hay mucha desigualdad en el país.", "There's a lot of inequality in the country."],
+    ["El desempleo ha subido este año.", "Unemployment has gone up this year."],
+    ["La sequía afecta a los agricultores.", "The drought is affecting farmers."],
+    ["Hubo inundaciones en el sur.", "There were floods in the south."],
+    ["Habría que invertir más en educación.", "We should invest more in education."],
+    ["Es urgente que el gobierno haga algo.", "It's urgent that the government do something."],
+    ["Sería bueno que usáramos más el transporte público.", "It would be good if we used public transportation more."],
+    ["Propongo que prohibamos las bolsas de plástico.", "I propose that we ban plastic bags."],
+    ["Si todos reciclaran, habría menos basura.", "If everyone recycled, there would be less trash."],
+    ["Hay que reducir el consumo de agua.", "We need to reduce water consumption."],
+    ["Es fundamental que protejamos los bosques.", "It's essential that we protect the forests."],
+    ["Tenemos que luchar contra la corrupción.", "We have to fight against corruption."],
+    ["Hay que fomentar el uso de la bicicleta.", "We need to encourage bicycle use."],
+    ["Es necesario que reduzcamos los residuos.", "We need to reduce waste."],
+    ["Para que haya menos contaminación, hay que usar menos el carro.", "For there to be less pollution, we need to use the car less."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Es urgente que el gobierno ___ algo. (hacer)", "answers": ["haga"], "hint": "It's urgent that the government do something."},
+    {"type": "fill", "prompt": "Sería bueno que ___ más el transporte público. (usar, nosotros)", "answers": ["usáramos"], "hint": "It would be good if we used public transportation more."},
+    {"type": "fill", "prompt": "Propongo que ___ las bolsas de plástico. (prohibir, nosotros)", "answers": ["prohibamos"], "hint": "I propose that we ban plastic bags."},
+    {"type": "fill", "prompt": "Si todos ___, habría menos basura. (reciclar)", "answers": ["reciclaran"], "hint": "If everyone recycled, there would be less trash."},
+    {"type": "fill", "prompt": "Si todos reciclaran, ___ menos basura. (haber)", "answers": ["habría"], "hint": "If everyone recycled, there would be less trash."},
+    {"type": "fill", "prompt": "Es fundamental que ___ los bosques. (proteger, nosotros)", "answers": ["protejamos"], "hint": "It's essential that we protect the forests."},
+    {"type": "fill", "prompt": "Es necesario que ___ los residuos. (reducir, nosotros)", "answers": ["reduzcamos"], "hint": "We need to reduce waste."},
+    {"type": "fill", "prompt": "Tenemos que luchar ___ la corrupción.", "answers": ["contra"], "hint": "We have to fight against corruption."},
+    {"type": "fill", "prompt": "Habría que ___ más en educación. (invertir)", "answers": ["invertir"], "hint": "We should invest more in education."},
+    {"type": "fill", "prompt": "Para que ___ menos contaminación, hay que usar menos el carro. (haber)", "answers": ["haya"], "hint": "For there to be less pollution, we need to use the car less."},
+    {"type": "fill", "prompt": "La ___ afecta a los agricultores.", "answers": ["sequía"], "hint": "The drought is affecting farmers."},
+    {"type": "mc", "prompt": "*la sequía* is…", "options": ["drought", "flood", "dryness of skin", "desert"], "answer": 0},
+    {"type": "mc", "prompt": "*el desempleo* is…", "options": ["unemployment", "employment", "the employer", "the job interview"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: Es urgente que el gobierno ___ algo.", "options": ["haga", "hace", "hiciera", "hará"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Sería bueno que todos ___ más.", "options": ["reciclaran", "reciclen", "reciclan", "reciclarían"], "answer": 0, "lang": "es", "explain": "Conditional trigger → imperfect subjunctive."},
+    {"type": "mc", "prompt": "The subjunctive of *reducir* (nosotros) is…", "options": ["reduzcamos", "reducamos", "redujamos", "reduciremos"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "We need to reduce water consumption.", "answers": ["Hay que reducir el consumo de agua.", "Tenemos que reducir el consumo de agua."]},
+    {"type": "translate", "prompt": "It's urgent that the government do something.", "answers": ["Es urgente que el gobierno haga algo."]},
+    {"type": "translate", "prompt": "If everyone recycled, there would be less trash.", "answers": ["Si todos reciclaran, habría menos basura.", "Si todo el mundo reciclara, habría menos basura."]},
+    {"type": "translate", "prompt": "There's a lot of inequality in the country.", "answers": ["Hay mucha desigualdad en el país."]},
+    {"type": "translate", "prompt": "We should invest more in education.", "answers": ["Habría que invertir más en educación.", "Deberíamos invertir más en educación."]},
+    {"type": "build", "prompt": "Put the words in order: \"I propose that we ban plastic bags.\"", "answer": "Propongo que prohibamos las bolsas de plástico."},
+    {"type": "build", "prompt": "Put the words in order: \"It's essential that we protect the forests.\"", "answer": "Es fundamental que protejamos los bosques."},
+    {"type": "build", "prompt": "Put the words in order: \"Poverty is one of the biggest problems.\"", "answer": "La pobreza es uno de los mayores problemas."}
+  ]
+}

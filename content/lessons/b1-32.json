@@ -1,0 +1,83 @@
+{
+  "sections": [
+    {
+      "heading": "Devices",
+      "body": "*el celular* (cell phone — *el móvil* in Spain), *la computadora* (computer — *el ordenador* in Spain), *la computadora portátil / la laptop*, *la tableta*, *la pantalla* (screen), *el teclado* (keyboard), *el ratón / el mouse*, *los audífonos* (headphones — *los auriculares* in Spain), *el cargador* (charger), *la batería*, *la impresora* (printer)."
+    },
+    {
+      "heading": "Using the internet",
+      "body": "*conectarse (a internet / a la red wifi)*, *la contraseña* (password), *el usuario* (username), *iniciar sesión / cerrar sesión* (log in / out), *descargar / bajar* (to download), *subir* (to upload), *buscar en Google* (people also say *googlear*), *la página web / el sitio web*, *el enlace / el link*, *el correo electrónico*, *mandar un mensaje*, *la aplicación / la app*, *actualizar* (to update), *guardar* (to save), *borrar* (to delete), *hacer clic*, *compartir* (to share), *seguir a alguien* (to follow)."
+    },
+    {
+      "heading": "When things go wrong",
+      "body": "*No funciona.* *Se colgó la computadora.* (The computer froze.) *Se me borró el archivo.* (My file got deleted — accidental *se*!) *No tengo señal / No hay conexión.* *Se me descargó el celular* (My phone died — LatAm) / *Me quedé sin batería.* *¿Me puedes pasar la contraseña del wifi?* *Hay que reiniciarlo.* (You have to restart it.)"
+    }
+  ],
+  "vocab": [
+    ["el celular", "the cell phone"],
+    ["la computadora", "the computer"],
+    ["la pantalla", "the screen"],
+    ["el teclado", "the keyboard"],
+    ["los audífonos", "headphones"],
+    ["el cargador", "the charger"],
+    ["la contraseña", "the password"],
+    ["iniciar sesión", "to log in"],
+    ["descargar", "to download"],
+    ["subir", "to upload"],
+    ["el enlace", "the link"],
+    ["la aplicación", "the app"],
+    ["actualizar", "to update"],
+    ["guardar", "to save"],
+    ["borrar", "to delete"],
+    ["el archivo", "the file"],
+    ["la señal", "the signal"],
+    ["reiniciar", "to restart"]
+  ],
+  "examples": [
+    ["Mi celular no tiene batería.", "My phone has no battery."],
+    ["¿Dónde está el cargador?", "Where's the charger?"],
+    ["Necesito una computadora nueva.", "I need a new computer."],
+    ["La pantalla está rota.", "The screen is broken."],
+    ["¿Cuál es la contraseña del wifi?", "What's the wifi password?"],
+    ["No puedo iniciar sesión.", "I can't log in."],
+    ["Descargué la aplicación ayer.", "I downloaded the app yesterday."],
+    ["Voy a subir las fotos.", "I'm going to upload the photos."],
+    ["Te mando el enlace por correo.", "I'll send you the link by email."],
+    ["Hay que actualizar la aplicación.", "You have to update the app."],
+    ["¿Guardaste el archivo?", "Did you save the file?"],
+    ["Se me borró el archivo.", "My file got deleted."],
+    ["Se colgó la computadora.", "The computer froze."],
+    ["Aquí no hay señal.", "There's no signal here."],
+    ["Hay que reiniciarlo.", "You have to restart it."],
+    ["Me quedé sin batería.", "My battery died."],
+    ["Uso audífonos en el metro.", "I use headphones on the subway."],
+    ["Escribe tu usuario y contraseña.", "Enter your username and password."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Mi ___ no tiene batería.", "answers": ["celular"], "hint": "My phone has no battery."},
+    {"type": "fill", "prompt": "¿Cuál es la ___ del wifi?", "answers": ["contraseña"], "hint": "What's the wifi password?"},
+    {"type": "fill", "prompt": "No puedo iniciar ___.", "answers": ["sesión"], "hint": "I can't log in."},
+    {"type": "fill", "prompt": "___ la aplicación ayer. (descargar, yo)", "answers": ["descargué"], "hint": "I downloaded the app yesterday."},
+    {"type": "fill", "prompt": "Voy a ___ las fotos.", "answers": ["subir"], "hint": "I'm going to upload the photos."},
+    {"type": "fill", "prompt": "Te mando el ___ por correo.", "answers": ["enlace"], "hint": "I'll send you the link by email."},
+    {"type": "fill", "prompt": "¿___ el archivo? (guardar, tú)", "answers": ["guardaste"], "hint": "Did you save the file?"},
+    {"type": "fill", "prompt": "Se me ___ el archivo. (borrar)", "answers": ["borró"], "hint": "My file got deleted."},
+    {"type": "fill", "prompt": "Aquí no hay ___.", "answers": ["señal"], "hint": "There's no signal here."},
+    {"type": "fill", "prompt": "Hay que ___. (reiniciar + lo)", "answers": ["reiniciarlo"], "hint": "You have to restart it. (one word)"},
+    {"type": "fill", "prompt": "Me quedé sin ___.", "answers": ["batería"], "hint": "My battery died."},
+    {"type": "fill", "prompt": "La ___ está rota.", "answers": ["pantalla"], "hint": "The screen is broken."},
+    {"type": "mc", "prompt": "In Spain, a cell phone is usually…", "options": ["el móvil", "el celular", "la tableta", "el cargador"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "In most of Latin America, a computer is…", "options": ["la computadora", "el ordenador", "el teclado", "la pantalla"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Se colgó la computadora* means…", "options": ["The computer froze.", "The computer was hung on the wall.", "The computer turned off.", "The computer was stolen."], "answer": 0},
+    {"type": "mc", "prompt": "*descargar* means…", "options": ["to download", "to charge", "to upload", "to delete"], "answer": 0},
+    {"type": "mc", "prompt": "*los audífonos* are…", "options": ["headphones", "hearing tests", "speakers", "microphones"], "answer": 0},
+    {"type": "translate", "prompt": "What's the wifi password?", "answers": ["¿Cuál es la contraseña del wifi?"]},
+    {"type": "translate", "prompt": "I can't log in.", "answers": ["No puedo iniciar sesión.", "No puedo entrar."]},
+    {"type": "translate", "prompt": "Did you save the file? (tú)", "answers": ["¿Guardaste el archivo?", "¿Has guardado el archivo?"]},
+    {"type": "translate", "prompt": "There's no signal here.", "answers": ["Aquí no hay señal.", "No hay señal aquí."]},
+    {"type": "translate", "prompt": "I need a new computer.", "answers": ["Necesito una computadora nueva.", "Necesito una nueva computadora."]},
+    {"type": "build", "prompt": "Put the words in order: \"You have to update the app.\"", "answer": "Hay que actualizar la aplicación."},
+    {"type": "build", "prompt": "Put the words in order: \"Enter your username and password.\"", "answer": "Escribe tu usuario y contraseña."},
+    {"type": "build", "prompt": "Put the words in order: \"I use headphones on the subway.\"", "answer": "Uso audífonos en el metro."}
+  ]
+}

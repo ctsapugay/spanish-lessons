@@ -1,0 +1,73 @@
+{
+  "sections": [
+    {
+      "heading": "Four past tenses, one story",
+      "body": "A good anecdote uses all the past tenses you know, each with its job:\n\n- **Imperfect** — the scene: *Era verano y hacía mucho calor. Yo tenía diecinueve años y trabajaba en un hotel.*\n- **Preterite** — the events: *Un día llegó un hombre muy elegante y pidió la mejor habitación.*\n- **Pluperfect** — what had happened before: *Nunca había visto a nadie tan famoso.*\n- **Imperfect (progressive)** — what was going on when something happened: *Mientras le daba la llave, se me cayó al suelo.*\n\nAnd reported speech lets you tell what people said: *Me dijo que no me preocupara.*"
+    },
+    {
+      "heading": "Storytelling phrases",
+      "body": "Starting: *¿Sabes qué me pasó?* (You know what happened to me?) *Una vez…* (Once…) *Hace unos años…* *Resulta que…* (It turns out that… / So…)\n\nKeeping it going: *Y entonces… / De repente… / En ese momento… / Al principio…, pero luego… / Total, que…* (So anyway…)\n\nReacting as a listener: *¿Y qué pasó? / ¿Y luego? / ¡No me digas! / ¡Qué fuerte!* (Wow, that's intense! — very common in Spain and increasingly elsewhere) */ ¡Qué vergüenza!* (How embarrassing!)\n\nEnding: *Al final… / Y desde entonces… / Nunca lo voy a olvidar.*"
+    }
+  ],
+  "vocab": [
+    ["la anécdota", "the anecdote"],
+    ["una vez", "once / one time"],
+    ["resulta que", "it turns out that"],
+    ["al principio", "at first"],
+    ["en ese momento", "at that moment"],
+    ["total, que", "so anyway"],
+    ["desde entonces", "since then"],
+    ["¿Y luego?", "And then?"],
+    ["¡Qué vergüenza!", "How embarrassing!"],
+    ["la vergüenza", "embarrassment / shame"],
+    ["elegante", "elegant"],
+    ["famoso / famosa", "famous"],
+    ["el suelo", "the floor / ground"],
+    ["reconocer", "to recognize"],
+    ["reírse", "to laugh"]
+  ],
+  "examples": [
+    ["¿Sabes qué me pasó ayer?", "You know what happened to me yesterday?"],
+    ["Era verano y hacía mucho calor.", "It was summer and it was very hot."],
+    ["Yo tenía diecinueve años y trabajaba en un hotel.", "I was nineteen and worked in a hotel."],
+    ["Un día llegó un hombre muy elegante.", "One day a very elegant man arrived."],
+    ["Pidió la mejor habitación.", "He asked for the best room."],
+    ["Nunca había visto a nadie tan famoso.", "I had never seen anyone so famous."],
+    ["Mientras le daba la llave, se me cayó al suelo.", "While I was giving him the key, I dropped it on the floor."],
+    ["Me dijo que no me preocupara.", "He told me not to worry."],
+    ["Resulta que era un actor muy conocido.", "It turns out he was a very well-known actor."],
+    ["Al principio no lo reconocí.", "At first I didn't recognize him."],
+    ["En ese momento todos se rieron.", "At that moment everyone laughed."],
+    ["¡Qué vergüenza!", "How embarrassing!"],
+    ["Total, que al final nos hicimos amigos.", "So anyway, in the end we became friends."],
+    ["Desde entonces me escribe cada año.", "Since then he writes to me every year."],
+    ["¿Y luego qué pasó?", "And then what happened?"],
+    ["Una vez me perdí en Lima.", "Once I got lost in Lima."],
+    ["Nunca lo voy a olvidar.", "I'll never forget it."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Choose (scene): ___ verano y hacía mucho calor.", "options": ["Era", "Fue", "Había sido"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose (event): Un día ___ un hombre muy elegante.", "options": ["llegó", "llegaba", "había llegado"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose (before the story): Nunca ___ a nadie tan famoso.", "options": ["había visto", "vi", "veía"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Mientras le ___ la llave, se me cayó.", "options": ["daba", "di", "había dado"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Resulta que…* is used to…", "options": ["introduce a twist or explanation", "end a story", "say goodbye", "express regret"], "answer": 0},
+    {"type": "mc", "prompt": "*Total, que…* means…", "options": ["So anyway…", "In total…", "Totally…", "All of them…"], "answer": 0},
+    {"type": "fill", "prompt": "¿Sabes qué me ___ ayer? (pasar)", "answers": ["pasó"], "hint": "You know what happened to me yesterday?"},
+    {"type": "fill", "prompt": "Yo ___ diecinueve años. (tener)", "answers": ["tenía"], "hint": "I was nineteen."},
+    {"type": "fill", "prompt": "Me dijo que no me ___. (preocuparse)", "answers": ["preocupara"], "hint": "He told me not to worry."},
+    {"type": "fill", "prompt": "Al ___ no lo reconocí.", "answers": ["principio"], "hint": "At first I didn't recognize him."},
+    {"type": "fill", "prompt": "En ese momento todos se ___. (reír)", "answers": ["rieron"], "hint": "At that moment everyone laughed."},
+    {"type": "fill", "prompt": "¡Qué ___!", "answers": ["vergüenza"], "hint": "How embarrassing!"},
+    {"type": "fill", "prompt": "Desde ___ me escribe cada año.", "answers": ["entonces"], "hint": "Since then he writes to me every year."},
+    {"type": "fill", "prompt": "Una vez me ___ en Lima. (perderse)", "answers": ["perdí"], "hint": "Once I got lost in Lima."},
+    {"type": "fill", "prompt": "Resulta que ___ un actor muy conocido. (ser)", "answers": ["era"], "hint": "It turns out he was a very well-known actor."},
+    {"type": "translate", "prompt": "You know what happened to me yesterday? (tú)", "answers": ["¿Sabes qué me pasó ayer?", "¿Sabes lo que me pasó ayer?"]},
+    {"type": "translate", "prompt": "At first I didn't recognize him.", "answers": ["Al principio no lo reconocí.", "Al principio no le reconocí."]},
+    {"type": "translate", "prompt": "I had never seen anyone so famous.", "answers": ["Nunca había visto a nadie tan famoso."]},
+    {"type": "translate", "prompt": "And then what happened?", "answers": ["¿Y luego qué pasó?", "¿Y entonces qué pasó?", "¿Y después qué pasó?"]},
+    {"type": "translate", "prompt": "I'll never forget it.", "answers": ["Nunca lo voy a olvidar.", "Nunca lo olvidaré.", "No lo voy a olvidar nunca."]},
+    {"type": "build", "prompt": "Put the words in order: \"While I was giving him the key, I dropped it on the floor.\"", "answer": "Mientras le daba la llave, se me cayó al suelo."},
+    {"type": "build", "prompt": "Put the words in order: \"So anyway, in the end we became friends.\"", "answer": "Total, que al final nos hicimos amigos."},
+    {"type": "build", "prompt": "Put the words in order: \"It was summer and it was very hot.\"", "answer": "Era verano y hacía mucho calor."}
+  ]
+}

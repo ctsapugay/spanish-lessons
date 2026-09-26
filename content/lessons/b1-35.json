@@ -1,0 +1,78 @@
+{
+  "sections": [
+    {
+      "heading": "Festivals and traditions",
+      "body": "- *el Día de Muertos* (Mexico, Nov 1–2): families honor their dead with *altares*, *ofrendas* (offerings), *calaveras de azúcar* (sugar skulls) and *pan de muerto*.\n- *el Carnaval* (before Lent): huge in Barranquilla (Colombia), Oruro (Bolivia), Montevideo.\n- *la Semana Santa* (Holy Week), *la Navidad*, *la Nochebuena* (Christmas Eve), *el Año Nuevo* — in many countries you eat *doce uvas* (twelve grapes) at midnight.\n- *las posadas* (Mexico, Dec 16–24), *la quinceañera* (a girl's 15th-birthday celebration), *el Inti Raymi* (Festival of the Sun, Cusco, June).\n- *la fiesta patronal* (a town's patron saint festival), *los fuegos artificiales* (fireworks), *el desfile* (parade), *disfrazarse* (to dress up in costume)."
+    },
+    {
+      "heading": "Vosotros: Spain's \"you all\"",
+      "body": "In Spain, *vosotros / vosotras* is the informal plural \"you\"; *ustedes* is only formal there. You'll hear it in Spanish films and series, so learn to **recognise** it (you don't need to use it):\n\n- Present: *habláis, coméis, vivís, sois, estáis, tenéis, vais*\n- Preterite: *hablasteis, comisteis*\n- Commands: *¡Hablad! ¡Venid! ¡Sentaos!*\n- Pronouns: *os* (you all, object) and *vuestro / vuestra* (your): *Os quiero. ¿Es vuestra casa?*"
+    },
+    {
+      "heading": "Voseo: vos instead of tú",
+      "body": "In Argentina, Uruguay, Paraguay and much of Central America, people use *vos* instead of *tú*, with its own verb forms (stress on the last syllable): *vos hablás, vos comés, vos vivís, vos sos* (you are), *vos tenés, vos querés, vos podés*. Commands: *¡Hablá! ¡Vení! ¡Decime!* Pronouns stay *te* and *tu*: *Vos te llamás Ana, ¿no? ¿Es tu casa?*\n\nIn Colombia and parts of Central America, *vos* is also common in some regions. It's warm and informal — understand it; use it if you live there."
+    }
+  ],
+  "vocab": [
+    ["el Día de Muertos", "the Day of the Dead"],
+    ["la ofrenda", "the offering"],
+    ["el Carnaval", "Carnival"],
+    ["la Semana Santa", "Holy Week"],
+    ["la Nochebuena", "Christmas Eve"],
+    ["las uvas", "grapes"],
+    ["la quinceañera", "15th-birthday celebration"],
+    ["los fuegos artificiales", "fireworks"],
+    ["el desfile", "the parade"],
+    ["disfrazarse", "to dress up (in costume)"],
+    ["la tradición", "tradition"],
+    ["vosotros / vosotras", "you all (Spain, informal)"],
+    ["os", "you all (object, Spain)"],
+    ["vuestro / vuestra", "your (vosotros)"],
+    ["vos", "you (voseo)"],
+    ["sos", "you are (vos)"]
+  ],
+  "examples": [
+    ["En el Día de Muertos ponemos una ofrenda.", "On the Day of the Dead we set up an offering."],
+    ["El Carnaval de Barranquilla es famosísimo.", "The Barranquilla Carnival is extremely famous."],
+    ["En Nochebuena cenamos con toda la familia.", "On Christmas Eve we have dinner with the whole family."],
+    ["A medianoche comemos doce uvas.", "At midnight we eat twelve grapes."],
+    ["Mi prima celebró su quinceañera en mayo.", "My cousin celebrated her quinceañera in May."],
+    ["Hubo fuegos artificiales y un desfile.", "There were fireworks and a parade."],
+    ["Los niños se disfrazan en Carnaval.", "The kids dress up for Carnival."],
+    ["¿Vosotros habláis inglés?", "Do you all speak English? (Spain)"],
+    ["¿Ustedes hablan inglés?", "Do you all speak English? (Latin America)"],
+    ["¡Venid aquí!", "Come here, all of you! (Spain)"],
+    ["Os quiero mucho.", "I love you all very much. (Spain)"],
+    ["¿Es vuestra casa?", "Is it your house? (Spain, plural)"],
+    ["Vos sos de Buenos Aires, ¿no?", "You're from Buenos Aires, right? (voseo)"],
+    ["¿Vos qué querés?", "What do you want? (voseo)"],
+    ["¡Vení, te quiero mostrar algo!", "Come, I want to show you something! (voseo)"],
+    ["¿Cómo te llamás?", "What's your name? (voseo)"],
+    ["Es una tradición muy bonita.", "It's a very beautiful tradition."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "In which country is the Day of the Dead most famous?", "options": ["Mexico", "Argentina", "Spain", "Chile"], "answer": 0},
+    {"type": "mc", "prompt": "*¿Vosotros habláis inglés?* would most likely be heard in…", "options": ["Spain", "Mexico", "Colombia", "Peru"], "answer": 0},
+    {"type": "mc", "prompt": "The Latin American equivalent of *¿Vosotros habláis inglés?* is…", "options": ["¿Ustedes hablan inglés?", "¿Vos habláis inglés?", "¿Tú hablas inglés?", "¿Usted habla inglés?"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Vos sos* means the same as…", "options": ["tú eres", "vosotros sois", "usted es", "yo soy"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Where is *voseo* standard?", "options": ["Argentina and Uruguay (among others)", "Spain", "Mexico City", "Cuba"], "answer": 0},
+    {"type": "mc", "prompt": "*¿Vos qué querés?* means…", "options": ["What do you want?", "What do you all want?", "What does he want?", "What did you want?"], "answer": 0},
+    {"type": "mc", "prompt": "A *quinceañera* celebrates…", "options": ["a girl's 15th birthday", "15 years of marriage", "the 15th of the month", "a school graduation"], "answer": 0},
+    {"type": "fill", "prompt": "En el Día de Muertos ponemos una ___.", "answers": ["ofrenda"], "hint": "On the Day of the Dead we set up an offering."},
+    {"type": "fill", "prompt": "A medianoche comemos doce ___.", "answers": ["uvas"], "hint": "At midnight we eat twelve grapes."},
+    {"type": "fill", "prompt": "Hubo fuegos ___ y un desfile.", "answers": ["artificiales"], "hint": "There were fireworks and a parade."},
+    {"type": "fill", "prompt": "Los niños se ___ en Carnaval. (disfrazarse)", "answers": ["disfrazan"], "hint": "The kids dress up for Carnival."},
+    {"type": "fill", "prompt": "En ___ cenamos con toda la familia.", "answers": ["nochebuena"], "hint": "On Christmas Eve we have dinner with the whole family."},
+    {"type": "fill", "prompt": "Es una ___ muy bonita.", "answers": ["tradición"], "hint": "It's a very beautiful tradition."},
+    {"type": "fill", "prompt": "¿Ustedes ___ inglés? (hablar)", "answers": ["hablan"], "hint": "Do you all speak English? (Latin America)"},
+    {"type": "fill", "prompt": "¿Cómo te ___? (llamarse, vos)", "answers": ["llamás"], "hint": "What's your name? (voseo)"},
+    {"type": "translate", "prompt": "Do you all speak English? (Latin America)", "answers": ["¿Ustedes hablan inglés?", "¿Hablan inglés?"]},
+    {"type": "translate", "prompt": "It's a very beautiful tradition.", "answers": ["Es una tradición muy bonita.", "Es una tradición muy linda."]},
+    {"type": "translate", "prompt": "There were fireworks and a parade.", "answers": ["Hubo fuegos artificiales y un desfile.", "Había fuegos artificiales y un desfile."]},
+    {"type": "translate", "prompt": "On Christmas Eve we have dinner with the whole family.", "answers": ["En Nochebuena cenamos con toda la familia."]},
+    {"type": "translate", "prompt": "The kids dress up for Carnival.", "answers": ["Los niños se disfrazan en Carnaval.", "Los niños se disfrazan para el Carnaval."]},
+    {"type": "build", "prompt": "Put the words in order: \"My cousin celebrated her quinceañera in May.\"", "answer": "Mi prima celebró su quinceañera en mayo."},
+    {"type": "build", "prompt": "Put the words in order: \"You're from Buenos Aires, right?\" (voseo)", "answer": "Vos sos de Buenos Aires, ¿no?"},
+    {"type": "build", "prompt": "Put the words in order: \"On the Day of the Dead we set up an offering.\"", "answer": "En el Día de Muertos ponemos una ofrenda."}
+  ]
+}
