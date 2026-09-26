@@ -14,67 +14,338 @@
     }
   ],
   "vocab": [
-    ["hace + tiempo", "ago"],
-    ["hace … que", "for (with present: ongoing)"],
-    ["desde hace", "for (ongoing)"],
-    ["desde", "since / from"],
-    ["hasta", "until"],
-    ["llevar + tiempo", "to have been (for a time)"],
-    ["¿Cuánto tiempo?", "How long?"],
-    ["el tiempo", "time"],
-    ["el minuto", "the minute"],
-    ["la hora", "the hour"],
-    ["el mes", "the month"],
-    ["conocerse", "to meet (each other)"],
-    ["casarse", "to get married"],
-    ["mudarse", "to move (house)"],
-    ["esperar", "to wait"]
+    [
+      "hace + tiempo",
+      "ago"
+    ],
+    [
+      "hace … que",
+      "for (with present: ongoing)"
+    ],
+    [
+      "desde hace",
+      "for (ongoing)"
+    ],
+    [
+      "desde",
+      "since / from"
+    ],
+    [
+      "hasta",
+      "until"
+    ],
+    [
+      "llevar + tiempo",
+      "to have been (for a time)"
+    ],
+    [
+      "¿Cuánto tiempo?",
+      "How long?"
+    ],
+    [
+      "el tiempo",
+      "time"
+    ],
+    [
+      "el minuto",
+      "the minute"
+    ],
+    [
+      "la hora",
+      "the hour"
+    ],
+    [
+      "el mes",
+      "the month"
+    ],
+    [
+      "conocerse",
+      "to meet (each other)"
+    ],
+    [
+      "casarse",
+      "to get married"
+    ],
+    [
+      "mudarse",
+      "to move (house)"
+    ],
+    [
+      "esperar",
+      "to wait"
+    ]
   ],
   "examples": [
-    ["Llegué hace dos horas.", "I arrived two hours ago."],
-    ["Hace tres años que nos conocimos.", "We met three years ago."],
-    ["¿Cuándo llegaste? Hace una semana.", "When did you arrive? A week ago."],
-    ["Hace dos años que estudio español.", "I've been studying Spanish for two years."],
-    ["Estudio español desde hace dos años.", "I've been studying Spanish for two years."],
-    ["Llevo dos años estudiando español.", "I've been studying Spanish for two years."],
-    ["¿Cuánto tiempo hace que vives aquí?", "How long have you lived here?"],
-    ["¿Cuánto tiempo llevas aquí?", "How long have you been here?"],
-    ["Vivo aquí desde 2020.", "I've lived here since 2020."],
-    ["Estoy esperando desde las tres.", "I've been waiting since three o'clock."],
-    ["Trabajo desde las nueve hasta las cinco.", "I work from nine until five."],
-    ["Se casaron hace diez años.", "They got married ten years ago."],
-    ["Nos mudamos hace un mes.", "We moved a month ago."],
-    ["Llevo media hora esperando.", "I've been waiting for half an hour."],
-    ["Hace mucho tiempo que no te veo.", "I haven't seen you in a long time."],
-    ["¡Cuánto tiempo!", "Long time no see!"],
-    ["Mis padres viven en Chile desde hace años.", "My parents have lived in Chile for years."],
-    ["Hace cinco minutos que salió.", "She left five minutes ago."],
-    ["Llevamos tres horas aquí.", "We've been here for three hours."],
-    ["Te espero hasta las ocho.", "I'll wait for you until eight."]
+    [
+      "Llegué hace dos horas.",
+      "I arrived two hours ago."
+    ],
+    [
+      "Hace tres años que nos conocimos.",
+      "We met three years ago."
+    ],
+    [
+      "—¿Cuándo llegaste? —Hace una semana.",
+      "When did you arrive? A week ago."
+    ],
+    [
+      "Hace dos años que estudio español.",
+      "I've been studying Spanish for two years."
+    ],
+    [
+      "Estudio español desde hace dos años.",
+      "I've been studying Spanish for two years."
+    ],
+    [
+      "Llevo dos años estudiando español.",
+      "I've been studying Spanish for two years."
+    ],
+    [
+      "¿Cuánto tiempo hace que vives aquí?",
+      "How long have you lived here?"
+    ],
+    [
+      "¿Cuánto tiempo llevas aquí?",
+      "How long have you been here?"
+    ],
+    [
+      "Vivo aquí desde 2020.",
+      "I've lived here since 2020."
+    ],
+    [
+      "Estoy esperando desde las tres.",
+      "I've been waiting since three o'clock."
+    ],
+    [
+      "Trabajo desde las nueve hasta las cinco.",
+      "I work from nine until five."
+    ],
+    [
+      "Se casaron hace diez años.",
+      "They got married ten years ago."
+    ],
+    [
+      "Nos mudamos hace un mes.",
+      "We moved a month ago."
+    ],
+    [
+      "Llevo media hora esperando.",
+      "I've been waiting for half an hour."
+    ],
+    [
+      "Hace mucho tiempo que no te veo.",
+      "I haven't seen you in a long time."
+    ],
+    [
+      "¡Cuánto tiempo!",
+      "Long time no see!"
+    ],
+    [
+      "Mis padres viven en Chile desde hace años.",
+      "My parents have lived in Chile for years."
+    ],
+    [
+      "Hace cinco minutos que salió.",
+      "She left five minutes ago."
+    ],
+    [
+      "Llevamos tres horas aquí.",
+      "We've been here for three hours."
+    ],
+    [
+      "Te espero hasta las ocho.",
+      "I'll wait for you until eight."
+    ]
   ],
   "exercises": [
-    {"type": "fill", "prompt": "Llegué ___ dos horas.", "answers": ["hace"], "hint": "I arrived two hours ago."},
-    {"type": "fill", "prompt": "Hace dos años ___ estudio español.", "answers": ["que"], "hint": "I've been studying Spanish for two years."},
-    {"type": "fill", "prompt": "Estudio español ___ hace dos años.", "answers": ["desde"], "hint": "I've been studying Spanish for two years."},
-    {"type": "fill", "prompt": "___ dos años estudiando español. (llevar, yo)", "answers": ["llevo"], "hint": "I've been studying Spanish for two years."},
-    {"type": "fill", "prompt": "Vivo aquí ___ 2020.", "answers": ["desde"], "hint": "I've lived here since 2020."},
-    {"type": "fill", "prompt": "Trabajo desde las nueve ___ las cinco.", "answers": ["hasta"], "hint": "I work from nine until five."},
-    {"type": "fill", "prompt": "¿Cuánto ___ llevas aquí?", "answers": ["tiempo"], "hint": "How long have you been here?"},
-    {"type": "fill", "prompt": "Se ___ hace diez años. (casarse, ellos)", "answers": ["casaron"], "hint": "They got married ten years ago."},
-    {"type": "fill", "prompt": "Nos ___ hace un mes. (mudarse)", "answers": ["mudamos"], "hint": "We moved a month ago."},
-    {"type": "fill", "prompt": "Llevo media hora ___. (esperar)", "answers": ["esperando"], "hint": "I've been waiting for half an hour."},
-    {"type": "mc", "prompt": "\"I've lived here for two years\" (and still do) is…", "options": ["Vivo aquí desde hace dos años.", "He vivido aquí dos años.", "Viví aquí hace dos años.", "Vivo aquí hace dos años que."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "*Llegué hace dos horas* means…", "options": ["I arrived two hours ago.", "I've been arriving for two hours.", "I'll arrive in two hours.", "I arrived at two."], "answer": 0},
-    {"type": "mc", "prompt": "*¡Cuánto tiempo!* is said when…", "options": ["you haven't seen someone in a long time", "you're late", "you ask the time", "you're bored"], "answer": 0},
-    {"type": "mc", "prompt": "Which tense goes with *hace … que* for something still going on?", "options": ["the present", "the preterite", "the future"], "answer": 0},
-    {"type": "mc", "prompt": "*Hace mucho tiempo que no te veo* means…", "options": ["I haven't seen you in a long time.", "I saw you a long time ago.", "I'll see you in a long time.", "It's been a long day."], "answer": 0},
-    {"type": "translate", "prompt": "I arrived two hours ago.", "answers": ["Llegué hace dos horas.", "Hace dos horas que llegué."]},
-    {"type": "translate", "prompt": "How long have you lived here? (informal)", "answers": ["¿Cuánto tiempo hace que vives aquí?", "¿Cuánto tiempo llevas viviendo aquí?", "¿Desde cuándo vives aquí?"]},
-    {"type": "translate", "prompt": "I've lived here since 2020.", "answers": ["Vivo aquí desde 2020."]},
-    {"type": "translate", "prompt": "Long time no see!", "answers": ["¡Cuánto tiempo!"]},
-    {"type": "translate", "prompt": "We moved a month ago.", "answers": ["Nos mudamos hace un mes.", "Hace un mes que nos mudamos."]},
-    {"type": "build", "prompt": "Put the words in order: \"I've been studying Spanish for two years.\"", "answer": "Llevo dos años estudiando español."},
-    {"type": "build", "prompt": "Put the words in order: \"I haven't seen you in a long time.\"", "answer": "Hace mucho tiempo que no te veo."},
-    {"type": "build", "prompt": "Put the words in order: \"I'll wait for you until eight.\"", "answer": "Te espero hasta las ocho."}
+    {
+      "type": "fill",
+      "prompt": "Llegué ___ dos horas.",
+      "answers": [
+        "hace"
+      ],
+      "hint": "I arrived two hours ago."
+    },
+    {
+      "type": "fill",
+      "prompt": "Hace dos años ___ estudio español.",
+      "answers": [
+        "que"
+      ],
+      "hint": "I've been studying Spanish for two years."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estudio español ___ hace dos años.",
+      "answers": [
+        "desde"
+      ],
+      "hint": "I've been studying Spanish for two years."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ dos años estudiando español. (llevar, yo)",
+      "answers": [
+        "llevo"
+      ],
+      "hint": "I've been studying Spanish for two years."
+    },
+    {
+      "type": "fill",
+      "prompt": "Vivo aquí ___ 2020.",
+      "answers": [
+        "desde"
+      ],
+      "hint": "I've lived here since 2020."
+    },
+    {
+      "type": "fill",
+      "prompt": "Trabajo desde las nueve ___ las cinco.",
+      "answers": [
+        "hasta"
+      ],
+      "hint": "I work from nine until five."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Cuánto ___ llevas aquí?",
+      "answers": [
+        "tiempo"
+      ],
+      "hint": "How long have you been here?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ hace diez años. (casarse, ellos)",
+      "answers": [
+        "casaron"
+      ],
+      "hint": "They got married ten years ago."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nos ___ hace un mes. (mudarse)",
+      "answers": [
+        "mudamos"
+      ],
+      "hint": "We moved a month ago."
+    },
+    {
+      "type": "fill",
+      "prompt": "Llevo media hora ___. (esperar)",
+      "answers": [
+        "esperando"
+      ],
+      "hint": "I've been waiting for half an hour."
+    },
+    {
+      "type": "mc",
+      "prompt": "\"I've lived here for two years\" (and still do) is…",
+      "options": [
+        "Vivo aquí desde hace dos años.",
+        "He vivido aquí dos años.",
+        "Viví aquí hace dos años.",
+        "Vivo aquí hace dos años que."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Llegué hace dos horas* means…",
+      "options": [
+        "I arrived two hours ago.",
+        "I've been arriving for two hours.",
+        "I'll arrive in two hours.",
+        "I arrived at two."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*¡Cuánto tiempo!* is said when…",
+      "options": [
+        "you haven't seen someone in a long time",
+        "you're late",
+        "you ask the time",
+        "you're bored"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which tense goes with *hace … que* for something still going on?",
+      "options": [
+        "the present",
+        "the preterite",
+        "the future"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Hace mucho tiempo que no te veo* means…",
+      "options": [
+        "I haven't seen you in a long time.",
+        "I saw you a long time ago.",
+        "I'll see you in a long time.",
+        "It's been a long day."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I arrived two hours ago.",
+      "answers": [
+        "Llegué hace dos horas.",
+        "Hace dos horas que llegué."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "How long have you lived here? (informal)",
+      "answers": [
+        "¿Cuánto tiempo hace que vives aquí?",
+        "¿Cuánto tiempo llevas viviendo aquí?",
+        "¿Desde cuándo vives aquí?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I've lived here since 2020.",
+      "answers": [
+        "Vivo aquí desde 2020."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Long time no see!",
+      "answers": [
+        "¡Cuánto tiempo!"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "We moved a month ago.",
+      "answers": [
+        "Nos mudamos hace un mes.",
+        "Hace un mes que nos mudamos."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I've been studying Spanish for two years.\"",
+      "answer": "Llevo dos años estudiando español."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I haven't seen you in a long time.\"",
+      "answer": "Hace mucho tiempo que no te veo."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'll wait for you until eight.\"",
+      "answer": "Te espero hasta las ocho."
+    }
   ]
 }

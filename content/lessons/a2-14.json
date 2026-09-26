@@ -42,7 +42,7 @@
     },
     {
       "heading": "Alguno and ninguno",
-      "body": "They agree with the noun and shorten before a masculine singular noun: *algún libro, ningún problema*. *Ninguno* is almost always singular: *No tengo ningún amigo aquí* (I don't have any friends here). *¿Tienes alguna pregunta?* — *No, ninguna.*\n\n*Alguien / nadie* refer to people and take personal *a* as objects: *¿Conoces a alguien aquí? — No, no conozco a nadie.*"
+      "body": "They agree with the noun and shorten before a masculine singular noun: *algún libro, ningún problema*. *Ninguno* is almost always singular: *No tengo ningún amigo aquí* (I don't have any friends here). *¿Tienes alguna pregunta?* — *No, ninguna.*\n\n*Alguien / nadie* refer to people and take personal *a* as objects: *¿Conoces a alguien aquí? — No, no conozco a nadie.*\n\nA very common fixed phrase: *No tengo ni idea* (I have no idea)."
     }
   ],
   "vocab": [
@@ -105,7 +105,7 @@
   ],
   "examples": [
     [
-      "¿Quieres algo? No, no quiero nada.",
+      "—¿Quieres algo? —No, no quiero nada.",
       "Do you want anything? No, I don't want anything."
     ],
     [
@@ -125,7 +125,7 @@
       "I don't know anybody."
     ],
     [
-      "¿Tienes alguna pregunta? No, ninguna.",
+      "—¿Tienes alguna pregunta? —No, ninguna.",
       "Do you have any questions? No, none."
     ],
     [
@@ -169,7 +169,7 @@
       "Some students didn't come."
     ],
     [
-      "No tengo ninguna idea.",
+      "No tengo ni idea.",
       "I have no idea."
     ],
     [
@@ -317,7 +317,7 @@
     },
     {
       "type": "mc",
-      "prompt": "*No tengo ninguna idea* means…",
+      "prompt": "*No tengo ni idea* means…",
       "options": [
         "I have no idea.",
         "I have some ideas.",

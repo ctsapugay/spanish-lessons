@@ -298,11 +298,11 @@
     },
     {
       "type": "fill",
-      "prompt": "___ la luz. (irse, de repente)",
+      "prompt": "De repente, ___ la luz. (irse)",
       "answers": [
         "se fue"
       ],
-      "hint": "The power went out."
+      "hint": "Suddenly, the power went out."
     },
     {
       "type": "translate",

@@ -6,16 +6,44 @@
     },
     {
       "heading": "Adjectives that change meaning with ser and estar",
-      "body": "Some adjectives mean different things depending on the verb:",
+      "body": "Some adjectives mean different things depending on the verb: (For \"ill\", much of Latin America prefers *estar enfermo*; *estar malo* is common in Spain and some countries.)",
       "table": {
-        "head": ["Adjective", "with ser (what someone is like)", "with estar (state now)"],
+        "head": [
+          "Adjective",
+          "with ser (what someone is like)",
+          "with estar (state now)"
+        ],
         "rows": [
-          ["*aburrido*", "*Es aburrido* — he's boring", "*Está aburrido* — he's bored"],
-          ["*listo*", "*Es lista* — she's clever", "*Está lista* — she's ready"],
-          ["*malo*", "*Es malo* — he's bad (a bad person)", "*Está malo* — he's ill (or the food has gone bad)"],
-          ["*rico*", "*Es rico* — he's rich", "*Está rico* — it's delicious"],
-          ["*nervioso*", "*Es nerviosa* — she's a nervous person", "*Está nerviosa* — she's nervous (now)"],
-          ["*orgulloso*", "*Es orgulloso* — he's arrogant", "*Está orgulloso* — he's proud (of something)"]
+          [
+            "*aburrido*",
+            "*Es aburrido* — he's boring",
+            "*Está aburrido* — he's bored"
+          ],
+          [
+            "*listo*",
+            "*Es lista* — she's clever",
+            "*Está lista* — she's ready"
+          ],
+          [
+            "*malo*",
+            "*Es malo* — he's bad (a bad person)",
+            "*Está malo* — he's ill (or the food has gone bad)"
+          ],
+          [
+            "*rico*",
+            "*Es rico* — he's rich",
+            "*Está rico* — it's delicious"
+          ],
+          [
+            "*nervioso*",
+            "*Es nerviosa* — she's a nervous person",
+            "*Está nerviosa* — she's nervous (now)"
+          ],
+          [
+            "*orgulloso*",
+            "*Es orgulloso* — he's arrogant",
+            "*Está orgulloso* — he's proud (of something)"
+          ]
         ]
       }
     },
@@ -25,69 +53,358 @@
     }
   ],
   "vocab": [
-    ["amable", "kind"],
-    ["divertido / divertida", "fun"],
-    ["serio / seria", "serious"],
-    ["tímido / tímida", "shy"],
-    ["trabajador / trabajadora", "hard-working"],
-    ["perezoso / perezosa", "lazy"],
-    ["generoso / generosa", "generous"],
-    ["tacaño / tacaña", "stingy"],
-    ["paciente", "patient"],
-    ["listo / lista", "clever (ser) / ready (estar)"],
-    ["orgulloso / orgullosa", "proud"],
-    ["delgado / delgada", "thin"],
-    ["guapo / guapa", "good-looking"],
-    ["moreno / morena", "dark-haired / dark-skinned"],
-    ["el bigote", "the mustache"],
-    ["el carácter", "personality / character"]
+    [
+      "amable",
+      "kind"
+    ],
+    [
+      "divertido / divertida",
+      "fun"
+    ],
+    [
+      "serio / seria",
+      "serious"
+    ],
+    [
+      "tímido / tímida",
+      "shy"
+    ],
+    [
+      "trabajador / trabajadora",
+      "hard-working"
+    ],
+    [
+      "perezoso / perezosa",
+      "lazy"
+    ],
+    [
+      "generoso / generosa",
+      "generous"
+    ],
+    [
+      "tacaño / tacaña",
+      "stingy"
+    ],
+    [
+      "paciente",
+      "patient"
+    ],
+    [
+      "listo / lista",
+      "clever (ser) / ready (estar)"
+    ],
+    [
+      "orgulloso / orgullosa",
+      "proud"
+    ],
+    [
+      "delgado / delgada",
+      "thin"
+    ],
+    [
+      "guapo / guapa",
+      "good-looking"
+    ],
+    [
+      "moreno / morena",
+      "dark-haired / dark-skinned"
+    ],
+    [
+      "el bigote",
+      "the mustache"
+    ],
+    [
+      "el carácter",
+      "personality / character"
+    ]
   ],
   "examples": [
-    ["Mi jefa es muy trabajadora y un poco seria.", "My boss is very hard-working and a bit serious."],
-    ["Mi hermano es divertido y muy generoso.", "My brother is fun and very generous."],
-    ["No es muy paciente.", "He's not very patient."],
-    ["Es un poco tímida.", "She's a bit shy."],
-    ["Mi primo es perezoso.", "My cousin is lazy."],
-    ["Es aburrido.", "He's boring."],
-    ["Está aburrido.", "He's bored."],
-    ["Es muy lista.", "She's very clever."],
-    ["¿Estás lista? Nos vamos.", "Are you ready? We're leaving."],
-    ["El niño está malo; tiene fiebre.", "The boy is ill; he has a fever."],
-    ["Esta sopa está muy rica.", "This soup is delicious."],
-    ["Su familia es rica.", "Her family is rich."],
-    ["Estoy orgullosa de ti.", "I'm proud of you."],
-    ["Es alto, delgado y moreno.", "He's tall, thin and dark-haired."],
-    ["Lleva bigote y lentes.", "He has a mustache and wears glasses."],
-    ["Tiene unos cuarenta años.", "He's about forty."],
-    ["Mi abuela es una persona muy amable.", "My grandmother is a very kind person."],
-    ["¿Cómo es tu novio? Es guapo y muy simpático.", "What's your boyfriend like? He's handsome and very nice."],
-    ["Mi padre tiene mucho carácter.", "My father has a strong personality."],
-    ["No seas tacaño.", "Don't be stingy."],
-    ["Está nerviosa por el examen.", "She's nervous about the exam."]
+    [
+      "Mi jefa es muy trabajadora y un poco seria.",
+      "My boss is very hard-working and a bit serious."
+    ],
+    [
+      "Mi hermano es divertido y muy generoso.",
+      "My brother is fun and very generous."
+    ],
+    [
+      "No es muy paciente.",
+      "He's not very patient."
+    ],
+    [
+      "Es un poco tímida.",
+      "She's a bit shy."
+    ],
+    [
+      "Mi primo es perezoso.",
+      "My cousin is lazy."
+    ],
+    [
+      "Es aburrido.",
+      "He's boring."
+    ],
+    [
+      "Está aburrido.",
+      "He's bored."
+    ],
+    [
+      "Es muy lista.",
+      "She's very clever."
+    ],
+    [
+      "¿Estás lista? Nos vamos.",
+      "Are you ready? We're leaving."
+    ],
+    [
+      "El niño está malo; tiene fiebre.",
+      "The boy is ill; he has a fever."
+    ],
+    [
+      "Esta sopa está muy rica.",
+      "This soup is delicious."
+    ],
+    [
+      "Su familia es rica.",
+      "Her family is rich."
+    ],
+    [
+      "Estoy orgullosa de ti.",
+      "I'm proud of you."
+    ],
+    [
+      "Es alto, delgado y moreno.",
+      "He's tall, thin and dark-haired."
+    ],
+    [
+      "Lleva bigote y lentes.",
+      "He has a mustache and wears glasses."
+    ],
+    [
+      "Tiene unos cuarenta años.",
+      "He's about forty."
+    ],
+    [
+      "Mi abuela es una persona muy amable.",
+      "My grandmother is a very kind person."
+    ],
+    [
+      "—¿Cómo es tu novio? —Es guapo y muy simpático.",
+      "What's your boyfriend like? He's handsome and very nice."
+    ],
+    [
+      "Mi padre tiene mucho carácter.",
+      "My father has a strong personality."
+    ],
+    [
+      "No seas tacaño.",
+      "Don't be stingy."
+    ],
+    [
+      "Está nerviosa por el examen.",
+      "She's nervous about the exam."
+    ]
   ],
   "exercises": [
-    {"type": "mc", "prompt": "Choose: Mi hermano ___ aburrido. (He is a boring person.)", "options": ["es", "está"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: ¿___ lista? Nos vamos. (Are you ready?)", "options": ["Estás", "Eres"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: Esta sopa ___ muy rica. (It tastes delicious.)", "options": ["está", "es"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: Su familia ___ rica. (They have lots of money.)", "options": ["es", "está"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: El niño ___ malo; tiene fiebre.", "options": ["está", "es"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: Ella ___ muy lista; siempre saca buenas notas.", "options": ["es", "está"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "The opposite of *trabajador* is…", "options": ["perezoso", "generoso", "tímido", "serio"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "The opposite of *generoso* is…", "options": ["tacaño", "amable", "paciente", "divertido"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "*Tiene unos cuarenta años* means…", "options": ["He's about forty.", "He has forty years left.", "He's exactly forty.", "He has forty things."], "answer": 0},
-    {"type": "fill", "prompt": "Mi jefa es muy ___ y un poco seria.", "answers": ["trabajadora"], "hint": "My boss is very hard-working and a bit serious."},
-    {"type": "fill", "prompt": "Es un poco ___.", "answers": ["tímida", "tímido"], "hint": "She's a bit shy."},
-    {"type": "fill", "prompt": "Estoy ___ de ti.", "answers": ["orgullosa", "orgulloso"], "hint": "I'm proud of you."},
-    {"type": "fill", "prompt": "Es alto, ___ y moreno.", "answers": ["delgado"], "hint": "He's tall, thin and dark-haired."},
-    {"type": "fill", "prompt": "Lleva ___ y lentes.", "answers": ["bigote", "barba"], "hint": "He has a mustache and wears glasses."},
-    {"type": "fill", "prompt": "Mi abuela es una persona muy ___.", "answers": ["amable"], "hint": "My grandmother is a very kind person."},
-    {"type": "translate", "prompt": "He's bored.", "answers": ["Está aburrido.", "Él está aburrido."]},
-    {"type": "translate", "prompt": "She's very clever.", "answers": ["Es muy lista.", "Ella es muy lista.", "Es muy inteligente."]},
-    {"type": "translate", "prompt": "This soup is delicious.", "answers": ["Esta sopa está muy rica.", "Esta sopa está rica.", "Esta sopa está deliciosa."]},
-    {"type": "translate", "prompt": "I'm proud of you. (a woman speaking)", "answers": ["Estoy orgullosa de ti."]},
-    {"type": "translate", "prompt": "He's not very patient.", "answers": ["No es muy paciente."]},
-    {"type": "build", "prompt": "Put the words in order: \"My brother is fun and very generous.\"", "answer": "Mi hermano es divertido y muy generoso."},
-    {"type": "build", "prompt": "Put the words in order: \"She's nervous about the exam.\"", "answer": "Está nerviosa por el examen."},
-    {"type": "build", "prompt": "Put the words in order: \"He has a mustache and wears glasses.\"", "answer": "Lleva bigote y lentes."}
+    {
+      "type": "mc",
+      "prompt": "Choose: Mi hermano ___ aburrido. (He is a boring person.)",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ¿___ lista? Nos vamos. (Are you ready?)",
+      "options": [
+        "Estás",
+        "Eres"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Esta sopa ___ muy rica. (It tastes delicious.)",
+      "options": [
+        "está",
+        "es"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Su familia ___ rica. (They have lots of money.)",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: El niño ___ malo; tiene fiebre.",
+      "options": [
+        "está",
+        "es"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Ella ___ muy lista; siempre saca buenas notas.",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The opposite of *trabajador* is…",
+      "options": [
+        "perezoso",
+        "generoso",
+        "tímido",
+        "serio"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The opposite of *generoso* is…",
+      "options": [
+        "tacaño",
+        "amable",
+        "paciente",
+        "divertido"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Tiene unos cuarenta años* means…",
+      "options": [
+        "He's about forty.",
+        "He has forty years left.",
+        "He's exactly forty.",
+        "He has forty things."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi jefa es muy ___ y un poco seria.",
+      "answers": [
+        "trabajadora"
+      ],
+      "hint": "My boss is very hard-working and a bit serious."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es un poco ___.",
+      "answers": [
+        "tímida",
+        "tímido"
+      ],
+      "hint": "She's a bit shy."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estoy ___ de ti.",
+      "answers": [
+        "orgullosa",
+        "orgulloso"
+      ],
+      "hint": "I'm proud of you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es alto, ___ y moreno.",
+      "answers": [
+        "delgado"
+      ],
+      "hint": "He's tall, thin and dark-haired."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lleva ___ y lentes.",
+      "answers": [
+        "bigote",
+        "barba"
+      ],
+      "hint": "He has a mustache and wears glasses."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi abuela es una persona muy ___.",
+      "answers": [
+        "amable"
+      ],
+      "hint": "My grandmother is a very kind person."
+    },
+    {
+      "type": "translate",
+      "prompt": "He's bored.",
+      "answers": [
+        "Está aburrido.",
+        "Él está aburrido."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "She's very clever.",
+      "answers": [
+        "Es muy lista.",
+        "Ella es muy lista.",
+        "Es muy inteligente."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "This soup is delicious.",
+      "answers": [
+        "Esta sopa está muy rica.",
+        "Esta sopa está rica.",
+        "Esta sopa está deliciosa."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm proud of you. (a woman speaking)",
+      "answers": [
+        "Estoy orgullosa de ti."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He's not very patient.",
+      "answers": [
+        "No es muy paciente."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"My brother is fun and very generous.\"",
+      "answer": "Mi hermano es divertido y muy generoso."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"She's nervous about the exam.\"",
+      "answer": "Está nerviosa por el examen."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He has a mustache and wears glasses.\"",
+      "answer": "Lleva bigote y lentes."
+    }
   ]
 }

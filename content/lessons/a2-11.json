@@ -8,12 +8,32 @@
       "heading": "Le and les become se",
       "body": "Spanish never says *le lo* or *les la*. When *le* or *les* comes before *lo, la, los, las*, it changes to *se*:\n\n*Le di el libro a Ana.* → *Se lo di.* (I gave it to her.)\n*Les mandé las fotos.* → *Se las mandé.* (I sent them to them.)\n\nBecause *se* can mean to him, her, you, or them, add *a* + person if needed: *Se lo di a ella.*",
       "table": {
-        "head": ["Indirect", "+ lo / la / los / las", "Example"],
+        "head": [
+          "Indirect",
+          "+ lo / la / los / las",
+          "Example"
+        ],
         "rows": [
-          ["*me*", "*me lo, me la…*", "*Me lo explicó.* — He explained it to me."],
-          ["*te*", "*te lo, te la…*", "*¿Te lo digo?* — Shall I tell you?"],
-          ["*le / les* → *se*", "*se lo, se la, se los, se las*", "*Se lo di.* — I gave it to him."],
-          ["*nos*", "*nos lo, nos la…*", "*Nos la trajeron.* — They brought it to us."]
+          [
+            "*me*",
+            "*me lo, me la…*",
+            "*Me lo explicó.* — He explained it to me."
+          ],
+          [
+            "*te*",
+            "*te lo, te la…*",
+            "*¿Te lo digo?* — Shall I tell you?"
+          ],
+          [
+            "*le / les* → *se*",
+            "*se lo, se la, se los, se las*",
+            "*Se lo di.* — I gave it to him."
+          ],
+          [
+            "*nos*",
+            "*nos lo, nos la…*",
+            "*Nos la trajeron.* — They brought it to us."
+          ]
         ]
       }
     },
@@ -23,69 +43,356 @@
     }
   ],
   "vocab": [
-    ["me lo", "it to me"],
-    ["te lo", "it to you"],
-    ["se lo", "it to him / her / them / you (formal)"],
-    ["nos lo", "it to us"],
-    ["dímelo", "tell me (it)"],
-    ["dámelo", "give it to me"],
-    ["dártelo", "to give it to you"],
-    ["la llave", "the key"],
-    ["el paquete", "the package"],
-    ["la contraseña", "the password"],
-    ["el secreto", "the secret"],
-    ["la dirección", "the address"],
-    ["devolver", "to give back / return (something)"],
-    ["pasar", "to pass / to hand"]
+    [
+      "me lo",
+      "it to me"
+    ],
+    [
+      "te lo",
+      "it to you"
+    ],
+    [
+      "se lo",
+      "it to him / her / them / you (formal)"
+    ],
+    [
+      "nos lo",
+      "it to us"
+    ],
+    [
+      "dímelo",
+      "tell me (it)"
+    ],
+    [
+      "dámelo",
+      "give it to me"
+    ],
+    [
+      "dártelo",
+      "to give it to you"
+    ],
+    [
+      "la llave",
+      "the key"
+    ],
+    [
+      "el paquete",
+      "the package"
+    ],
+    [
+      "la contraseña",
+      "the password"
+    ],
+    [
+      "el secreto",
+      "the secret"
+    ],
+    [
+      "la dirección",
+      "the address"
+    ],
+    [
+      "devolver",
+      "to give back / return (something)"
+    ],
+    [
+      "pasar",
+      "to pass / to hand"
+    ]
   ],
   "examples": [
-    ["Me lo dio mi hermano.", "My brother gave it to me."],
-    ["Te la mando mañana.", "I'll send it to you tomorrow."],
-    ["Se lo di a Ana.", "I gave it to Ana."],
-    ["Se las mandé ayer.", "I sent them to them yesterday."],
-    ["¿Me lo explicas otra vez?", "Can you explain it to me again?"],
-    ["Nos la trajeron a casa.", "They brought it to our house."],
-    ["¿Me pasas la sal? Sí, te la paso.", "Can you pass me the salt? Yes, I'll pass it to you."],
-    ["¿Le diste el paquete a Luis? Sí, se lo di.", "Did you give the package to Luis? Yes, I gave it to him."],
-    ["Voy a dártelo mañana.", "I'm going to give it to you tomorrow."],
-    ["Te lo voy a dar mañana.", "I'm going to give it to you tomorrow."],
-    ["¡Dímelo!", "Tell me!"],
-    ["Dámelo, por favor.", "Give it to me, please."],
-    ["¿Me devuelves mi libro? Te lo devuelvo el lunes.", "Will you give me back my book? I'll return it to you on Monday."],
-    ["No se lo digas a nadie.", "Don't tell anyone."],
-    ["¿Quién te dio la llave? Me la dio el portero.", "Who gave you the key? The doorman gave it to me."],
-    ["Se lo estoy explicando.", "I'm explaining it to him."],
-    ["¿Le mandaste la dirección? Todavía no se la mandé.", "Did you send her the address? I haven't sent it to her yet."],
-    ["Mi madre me lo regaló.", "My mother gave it to me as a gift."],
-    ["Nos lo dijeron ayer.", "They told us yesterday."],
-    ["Es un secreto. No te lo puedo decir.", "It's a secret. I can't tell you."],
-    ["¿La contraseña? Te la escribo aquí.", "The password? I'll write it for you here."],
-    ["Se los compré a mis hijos.", "I bought them for my kids."]
+    [
+      "Me lo dio mi hermano.",
+      "My brother gave it to me."
+    ],
+    [
+      "Te la mando mañana.",
+      "I'll send it to you tomorrow."
+    ],
+    [
+      "Se lo di a Ana.",
+      "I gave it to Ana."
+    ],
+    [
+      "Se las mandé ayer.",
+      "I sent them to them yesterday."
+    ],
+    [
+      "¿Me lo explicas otra vez?",
+      "Can you explain it to me again?"
+    ],
+    [
+      "Nos la trajeron a casa.",
+      "They brought it to our house."
+    ],
+    [
+      "—¿Me pasas la sal? —Sí, te la paso.",
+      "Can you pass me the salt? Yes, I'll pass it to you."
+    ],
+    [
+      "—¿Le diste el paquete a Luis? —Sí, se lo di.",
+      "Did you give the package to Luis? Yes, I gave it to him."
+    ],
+    [
+      "Voy a dártelo mañana.",
+      "I'm going to give it to you tomorrow."
+    ],
+    [
+      "Te lo voy a dar mañana.",
+      "I'm going to give it to you tomorrow."
+    ],
+    [
+      "¡Dímelo!",
+      "Tell me!"
+    ],
+    [
+      "Dámelo, por favor.",
+      "Give it to me, please."
+    ],
+    [
+      "—¿Me devuelves mi libro? —Te lo devuelvo el lunes.",
+      "Will you give me back my book? I'll return it to you on Monday."
+    ],
+    [
+      "No se lo digas a nadie.",
+      "Don't tell anyone."
+    ],
+    [
+      "—¿Quién te dio la llave? —Me la dio el portero.",
+      "Who gave you the key? The doorman gave it to me."
+    ],
+    [
+      "Se lo estoy explicando.",
+      "I'm explaining it to him."
+    ],
+    [
+      "—¿Le mandaste la dirección? —Todavía no se la mandé.",
+      "Did you send her the address? I haven't sent it to her yet."
+    ],
+    [
+      "Mi madre me lo regaló.",
+      "My mother gave it to me as a gift."
+    ],
+    [
+      "Nos lo dijeron ayer.",
+      "They told us yesterday."
+    ],
+    [
+      "Es un secreto. No te lo puedo decir.",
+      "It's a secret. I can't tell you."
+    ],
+    [
+      "¿La contraseña? Te la escribo aquí.",
+      "The password? I'll write it for you here."
+    ],
+    [
+      "Se los compré a mis hijos.",
+      "I bought them for my kids."
+    ]
   ],
   "exercises": [
-    {"type": "fill", "prompt": "¿El libro? Mi hermano ___ lo dio. (a mí)", "answers": ["me"], "hint": "The book? My brother gave it to me."},
-    {"type": "fill", "prompt": "¿La foto? Te ___ mando mañana.", "answers": ["la"], "hint": "The photo? I'll send it to you tomorrow."},
-    {"type": "fill", "prompt": "¿El paquete? ___ lo di a Luis.", "answers": ["se"], "hint": "The package? I gave it to Luis."},
-    {"type": "fill", "prompt": "¿Las fotos? Se ___ mandé ayer.", "answers": ["las"], "hint": "The photos? I sent them to them yesterday."},
-    {"type": "fill", "prompt": "¿La sal? Sí, te ___ paso.", "answers": ["la"], "hint": "The salt? Yes, I'll pass it to you."},
-    {"type": "fill", "prompt": "¿La llave? ___ la dio el portero. (a mí)", "answers": ["me"], "hint": "The key? The doorman gave it to me."},
-    {"type": "fill", "prompt": "Voy a ___ mañana. (dar + te + lo)", "answers": ["dártelo"], "hint": "I'm going to give it to you tomorrow. (one word)"},
-    {"type": "fill", "prompt": "¡___! (decir + me + lo)", "answers": ["dímelo"], "hint": "Tell me! (one word)"},
-    {"type": "fill", "prompt": "¿Tu libro? Te lo ___ el lunes. (devolver, yo)", "answers": ["devuelvo"], "hint": "Your book? I'll give it back to you on Monday."},
-    {"type": "mc", "prompt": "*Le di el libro a Ana* with two pronouns is…", "options": ["Se lo di.", "Le lo di.", "Lo le di.", "Se le di."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Which order is correct?", "options": ["Me lo dio.", "Lo me dio.", "Me dio lo.", "Dio me lo."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "*Les mandé las fotos* with two pronouns is…", "options": ["Se las mandé.", "Les las mandé.", "Las les mandé.", "Se los mandé."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Which is NOT correct?", "options": ["Voy a te lo dar.", "Te lo voy a dar.", "Voy a dártelo."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "*Dámelo* means…", "options": ["Give it to me.", "I gave it to him.", "Give me yours.", "Tell me."], "answer": 0},
-    {"type": "mc", "prompt": "Why does *dártelo* have an accent?", "options": ["To keep the stress on *dar* after adding two syllables", "Because it's a question", "All verbs with pronouns have one"], "answer": 0},
-    {"type": "mc", "prompt": "In *Se lo di a ella*, what does *a ella* do?", "options": ["Makes clear who *se* refers to", "Adds a second person", "It's a mistake"], "answer": 0},
-    {"type": "translate", "prompt": "My brother gave it to me. (el regalo)", "answers": ["Me lo dio mi hermano.", "Mi hermano me lo dio."]},
-    {"type": "translate", "prompt": "I gave it to Ana. (el libro)", "answers": ["Se lo di a Ana."]},
-    {"type": "translate", "prompt": "Give it to me, please. (el libro, informal)", "answers": ["Dámelo, por favor."]},
-    {"type": "translate", "prompt": "Tell me!", "answers": ["¡Dímelo!", "¡Dime!"]},
-    {"type": "translate", "prompt": "They told us yesterday. (lo)", "answers": ["Nos lo dijeron ayer.", "Ayer nos lo dijeron."]},
-    {"type": "build", "prompt": "Put the words in order: \"It's a secret. I can't tell you.\"", "answer": "Es un secreto. No te lo puedo decir."},
-    {"type": "build", "prompt": "Put the words in order: \"I'm explaining it to him.\"", "answer": "Se lo estoy explicando."},
-    {"type": "build", "prompt": "Put the words in order: \"I bought them for my kids.\"", "answer": "Se los compré a mis hijos."}
+    {
+      "type": "fill",
+      "prompt": "¿El libro? Mi hermano ___ lo dio. (a mí)",
+      "answers": [
+        "me"
+      ],
+      "hint": "The book? My brother gave it to me."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿La foto? Te ___ mando mañana.",
+      "answers": [
+        "la"
+      ],
+      "hint": "The photo? I'll send it to you tomorrow."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿El paquete? ___ lo di a Luis.",
+      "answers": [
+        "se"
+      ],
+      "hint": "The package? I gave it to Luis."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Las fotos? Se ___ mandé ayer.",
+      "answers": [
+        "las"
+      ],
+      "hint": "The photos? I sent them to them yesterday."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿La sal? Sí, te ___ paso.",
+      "answers": [
+        "la"
+      ],
+      "hint": "The salt? Yes, I'll pass it to you."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿La llave? ___ la dio el portero. (a mí)",
+      "answers": [
+        "me"
+      ],
+      "hint": "The key? The doorman gave it to me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Voy a ___ mañana. (dar + te + lo)",
+      "answers": [
+        "dártelo"
+      ],
+      "hint": "I'm going to give it to you tomorrow. (one word)"
+    },
+    {
+      "type": "fill",
+      "prompt": "¡___! (decir + me + lo)",
+      "answers": [
+        "dímelo"
+      ],
+      "hint": "Tell me! (one word)"
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Tu libro? Te lo ___ el lunes. (devolver, yo)",
+      "answers": [
+        "devuelvo"
+      ],
+      "hint": "Your book? I'll give it back to you on Monday."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Le di el libro a Ana* with two pronouns is…",
+      "options": [
+        "Se lo di.",
+        "Le lo di.",
+        "Lo le di.",
+        "Se le di."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which order is correct?",
+      "options": [
+        "Me lo dio.",
+        "Lo me dio.",
+        "Me dio lo.",
+        "Dio me lo."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Les mandé las fotos* with two pronouns is…",
+      "options": [
+        "Se las mandé.",
+        "Les las mandé.",
+        "Las les mandé.",
+        "Se los mandé."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is NOT correct?",
+      "options": [
+        "Voy a te lo dar.",
+        "Te lo voy a dar.",
+        "Voy a dártelo."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Dámelo* means…",
+      "options": [
+        "Give it to me.",
+        "I gave it to him.",
+        "Give me yours.",
+        "Tell me."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Why does *dártelo* have an accent?",
+      "options": [
+        "To keep the stress on *dar* after adding two syllables",
+        "Because it's a question",
+        "All verbs with pronouns have one"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "In *Se lo di a ella*, what does *a ella* do?",
+      "options": [
+        "Makes clear who *se* refers to",
+        "Adds a second person",
+        "It's a mistake"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "My brother gave it to me. (el regalo)",
+      "answers": [
+        "Me lo dio mi hermano.",
+        "Mi hermano me lo dio."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I gave it to Ana. (el libro)",
+      "answers": [
+        "Se lo di a Ana."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Give it to me, please. (el libro, informal)",
+      "answers": [
+        "Dámelo, por favor."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Tell me!",
+      "answers": [
+        "¡Dímelo!",
+        "¡Dime!"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "They told us yesterday. (lo)",
+      "answers": [
+        "Nos lo dijeron ayer.",
+        "Ayer nos lo dijeron."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's a secret. I can't tell you.\"",
+      "answer": "Es un secreto. No te lo puedo decir."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'm explaining it to him.\"",
+      "answer": "Se lo estoy explicando."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I bought them for my kids.\"",
+      "answer": "Se los compré a mis hijos."
+    }
   ]
 }

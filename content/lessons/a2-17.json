@@ -14,69 +14,367 @@
     }
   ],
   "vocab": [
-    ["para", "for (purpose, recipient, destination, deadline)"],
-    ["por", "for (cause, exchange), through, by"],
-    ["por eso", "that's why"],
-    ["por ejemplo", "for example"],
-    ["por cierto", "by the way"],
-    ["ganar", "to earn / to win"],
-    ["la ayuda", "the help"],
-    ["la taza", "the cup"],
-    ["cambiar", "to change / exchange"],
-    ["pasar por", "to go by / stop by"],
-    ["internet", "the internet"],
-    ["la razón", "the reason"],
-    ["el examen", "the exam"]
+    [
+      "para",
+      "for (purpose, recipient, destination, deadline)"
+    ],
+    [
+      "por",
+      "for (cause, exchange), through, by"
+    ],
+    [
+      "por eso",
+      "that's why"
+    ],
+    [
+      "por ejemplo",
+      "for example"
+    ],
+    [
+      "por cierto",
+      "by the way"
+    ],
+    [
+      "ganar",
+      "to earn / to win"
+    ],
+    [
+      "la ayuda",
+      "the help"
+    ],
+    [
+      "la taza",
+      "the cup"
+    ],
+    [
+      "cambiar",
+      "to change / exchange"
+    ],
+    [
+      "pasar por",
+      "to go by / stop by"
+    ],
+    [
+      "internet",
+      "the internet"
+    ],
+    [
+      "la razón",
+      "the reason"
+    ],
+    [
+      "el examen",
+      "the exam"
+    ]
   ],
   "examples": [
-    ["Estudio para aprender.", "I study in order to learn."],
-    ["Trabajo para ganar dinero.", "I work to earn money."],
-    ["Este regalo es para ti.", "This gift is for you."],
-    ["Salgo para Lima mañana.", "I'm leaving for Lima tomorrow."],
-    ["La tarea es para el lunes.", "The homework is due Monday."],
-    ["Para mí, es una buena idea.", "For me, it's a good idea."],
-    ["Gracias por tu ayuda.", "Thanks for your help."],
-    ["Lo hice por ti.", "I did it for you."],
-    ["Cerraron la escuela por la lluvia.", "They closed the school because of the rain."],
-    ["Pagué diez dólares por el libro.", "I paid ten dollars for the book."],
-    ["Caminamos por el parque.", "We walked through the park."],
-    ["Paso por tu casa a las ocho.", "I'll stop by your house at eight."],
-    ["Estudié por dos horas.", "I studied for two hours."],
-    ["Hablamos por teléfono.", "We talked on the phone."],
-    ["Lo compré por internet.", "I bought it online."],
-    ["Trabajo por la mañana.", "I work in the morning."],
-    ["Llovió mucho; por eso no salimos.", "It rained a lot; that's why we didn't go out."],
-    ["Por cierto, ¿viste a Marta?", "By the way, did you see Marta?"],
-    ["Una taza para café.", "A coffee cup."],
-    ["Estudio mucho para el examen.", "I'm studying a lot for the exam."],
-    ["Te cambio mi libro por el tuyo.", "I'll trade you my book for yours."],
-    ["¿Por qué? Por muchas razones.", "Why? For many reasons."]
+    [
+      "Estudio para aprender.",
+      "I study in order to learn."
+    ],
+    [
+      "Trabajo para ganar dinero.",
+      "I work to earn money."
+    ],
+    [
+      "Este regalo es para ti.",
+      "This gift is for you."
+    ],
+    [
+      "Salgo para Lima mañana.",
+      "I'm leaving for Lima tomorrow."
+    ],
+    [
+      "La tarea es para el lunes.",
+      "The homework is due Monday."
+    ],
+    [
+      "Para mí, es una buena idea.",
+      "For me, it's a good idea."
+    ],
+    [
+      "Gracias por tu ayuda.",
+      "Thanks for your help."
+    ],
+    [
+      "Lo hice por ti.",
+      "I did it for you."
+    ],
+    [
+      "Cerraron la escuela por la lluvia.",
+      "They closed the school because of the rain."
+    ],
+    [
+      "Pagué diez dólares por el libro.",
+      "I paid ten dollars for the book."
+    ],
+    [
+      "Caminamos por el parque.",
+      "We walked through the park."
+    ],
+    [
+      "Paso por tu casa a las ocho.",
+      "I'll stop by your house at eight."
+    ],
+    [
+      "Estudié por dos horas.",
+      "I studied for two hours."
+    ],
+    [
+      "Hablamos por teléfono.",
+      "We talked on the phone."
+    ],
+    [
+      "Lo compré por internet.",
+      "I bought it online."
+    ],
+    [
+      "Trabajo por la mañana.",
+      "I work in the morning."
+    ],
+    [
+      "Llovió mucho; por eso no salimos.",
+      "It rained a lot; that's why we didn't go out."
+    ],
+    [
+      "Por cierto, ¿viste a Marta?",
+      "By the way, did you see Marta?"
+    ],
+    [
+      "Una taza para café.",
+      "A coffee cup."
+    ],
+    [
+      "Estudio mucho para el examen.",
+      "I'm studying a lot for the exam."
+    ],
+    [
+      "Te cambio mi libro por el tuyo.",
+      "I'll trade you my book for yours."
+    ],
+    [
+      "—¿Por qué? —Por muchas razones.",
+      "Why? For many reasons."
+    ]
   ],
   "exercises": [
-    {"type": "mc", "prompt": "Choose: Estudio ___ aprender.", "options": ["para", "por"], "answer": 0, "lang": "es", "explain": "Purpose → *para*."},
-    {"type": "mc", "prompt": "Choose: Este regalo es ___ ti.", "options": ["para", "por"], "answer": 0, "lang": "es", "explain": "Recipient → *para*."},
-    {"type": "mc", "prompt": "Choose: Gracias ___ tu ayuda.", "options": ["por", "para"], "answer": 0, "lang": "es", "explain": "Cause / reason → *por*."},
-    {"type": "mc", "prompt": "Choose: Pagué diez dólares ___ el libro.", "options": ["por", "para"], "answer": 0, "lang": "es", "explain": "Exchange → *por*."},
-    {"type": "mc", "prompt": "Choose: Caminamos ___ el parque.", "options": ["por", "para"], "answer": 0, "lang": "es", "explain": "Through → *por*."},
-    {"type": "mc", "prompt": "Choose: La tarea es ___ el lunes.", "options": ["para", "por"], "answer": 0, "lang": "es", "explain": "Deadline → *para*."},
-    {"type": "mc", "prompt": "Choose: Salgo ___ Lima mañana.", "options": ["para", "por"], "answer": 0, "lang": "es", "explain": "Destination → *para*."},
-    {"type": "mc", "prompt": "Choose: Hablamos ___ teléfono.", "options": ["por", "para"], "answer": 0, "lang": "es", "explain": "Means → *por*."},
-    {"type": "mc", "prompt": "Choose: Trabajo ___ la mañana.", "options": ["por", "para"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: ___ mí, es una buena idea.", "options": ["Para", "Por"], "answer": 0, "lang": "es", "explain": "Opinion → *para mí*."},
-    {"type": "mc", "prompt": "Choose: Cerraron la escuela ___ la lluvia.", "options": ["por", "para"], "answer": 0, "lang": "es"},
-    {"type": "fill", "prompt": "Llovió mucho; por ___ no salimos.", "answers": ["eso"], "hint": "It rained a lot; that's why we didn't go out."},
-    {"type": "fill", "prompt": "Trabajo para ___ dinero.", "answers": ["ganar"], "hint": "I work to earn money."},
-    {"type": "fill", "prompt": "Paso ___ tu casa a las ocho.", "answers": ["por"], "hint": "I'll stop by your house at eight."},
-    {"type": "fill", "prompt": "Lo compré por ___.", "answers": ["internet"], "hint": "I bought it online."},
-    {"type": "fill", "prompt": "Estudio mucho ___ el examen.", "answers": ["para"], "hint": "I'm studying a lot for the exam."},
-    {"type": "fill", "prompt": "Por ___, ¿viste a Marta?", "answers": ["cierto"], "hint": "By the way, did you see Marta?"},
-    {"type": "translate", "prompt": "Thanks for your help. (informal)", "answers": ["Gracias por tu ayuda."]},
-    {"type": "translate", "prompt": "This gift is for you. (informal)", "answers": ["Este regalo es para ti."]},
-    {"type": "translate", "prompt": "We walked through the park.", "answers": ["Caminamos por el parque."]},
-    {"type": "translate", "prompt": "I'm leaving for Lima tomorrow.", "answers": ["Salgo para Lima mañana.", "Mañana salgo para Lima."]},
-    {"type": "translate", "prompt": "I paid ten dollars for the book.", "answers": ["Pagué diez dólares por el libro."]},
-    {"type": "build", "prompt": "Put the words in order: \"I'll trade you my book for yours.\"", "answer": "Te cambio mi libro por el tuyo."},
-    {"type": "build", "prompt": "Put the words in order: \"They closed the school because of the rain.\"", "answer": "Cerraron la escuela por la lluvia."},
-    {"type": "build", "prompt": "Put the words in order: \"The homework is due Monday.\"", "answer": "La tarea es para el lunes."}
+    {
+      "type": "mc",
+      "prompt": "Choose: Estudio ___ aprender.",
+      "options": [
+        "para",
+        "por"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Purpose → *para*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Este regalo es ___ ti.",
+      "options": [
+        "para",
+        "por"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Recipient → *para*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Gracias ___ tu ayuda.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Cause / reason → *por*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Pagué diez dólares ___ el libro.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Exchange → *por*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Caminamos ___ el parque.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Through → *por*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: La tarea es ___ el lunes.",
+      "options": [
+        "para",
+        "por"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Deadline → *para*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Salgo ___ Lima mañana.",
+      "options": [
+        "para",
+        "por"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Destination → *para*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Hablamos ___ teléfono.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Means → *por*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Trabajo ___ la mañana.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ___ mí, es una buena idea.",
+      "options": [
+        "Para",
+        "Por"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Opinion → *para mí*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Cerraron la escuela ___ la lluvia.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "fill",
+      "prompt": "Llovió mucho; por ___ no salimos.",
+      "answers": [
+        "eso"
+      ],
+      "hint": "It rained a lot; that's why we didn't go out."
+    },
+    {
+      "type": "fill",
+      "prompt": "Trabajo para ___ dinero.",
+      "answers": [
+        "ganar"
+      ],
+      "hint": "I work to earn money."
+    },
+    {
+      "type": "fill",
+      "prompt": "Paso ___ tu casa a las ocho.",
+      "answers": [
+        "por"
+      ],
+      "hint": "I'll stop by your house at eight."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo compré por ___.",
+      "answers": [
+        "internet"
+      ],
+      "hint": "I bought it online."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estudio mucho ___ el examen.",
+      "answers": [
+        "para"
+      ],
+      "hint": "I'm studying a lot for the exam."
+    },
+    {
+      "type": "fill",
+      "prompt": "Por ___, ¿viste a Marta?",
+      "answers": [
+        "cierto"
+      ],
+      "hint": "By the way, did you see Marta?"
+    },
+    {
+      "type": "translate",
+      "prompt": "Thanks for your help. (informal)",
+      "answers": [
+        "Gracias por tu ayuda."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "This gift is for you. (informal)",
+      "answers": [
+        "Este regalo es para ti."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "We walked through the park.",
+      "answers": [
+        "Caminamos por el parque."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm leaving for Lima tomorrow.",
+      "answers": [
+        "Salgo para Lima mañana.",
+        "Mañana salgo para Lima."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I paid ten dollars for the book.",
+      "answers": [
+        "Pagué diez dólares por el libro."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'll trade you my book for yours.\"",
+      "answer": "Te cambio mi libro por el tuyo."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"They closed the school because of the rain.\"",
+      "answer": "Cerraron la escuela por la lluvia."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The homework is due Monday.\"",
+      "answer": "La tarea es para el lunes."
+    }
   ]
 }

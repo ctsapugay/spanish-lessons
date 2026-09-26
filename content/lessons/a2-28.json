@@ -10,7 +10,7 @@
     },
     {
       "heading": "Passive se: things being done",
-      "body": "When there's a thing, the verb agrees with it: singular or plural.\n\n- *Se vende casa.* (House for sale.) *Se venden casas.* (Houses for sale.)\n- *Se necesita camarero.* / *Se necesitan camareros.* (Waiter / waiters needed.)\n- *Se alquila apartamento.* (Apartment for rent.)\n- *Los platos se lavan con agua caliente.* (Dishes are washed with hot water.)\n\nYou'll see this form on signs, in recipes and in instructions everywhere."
+      "body": "When there's a thing, the verb agrees with it: singular or plural.\n\n- *Se vende casa.* (House for sale.) *Se venden casas.* (Houses for sale.)\n- *Se necesita mesero.* / *Se necesitan meseros.* (Waiter / waiters needed — *camarero* in Spain.)\n- *Se alquila apartamento.* (Apartment for rent.)\n- *Los platos se lavan con agua caliente.* (Dishes are washed with hot water.)\n\nYou'll see this form on signs, in recipes and in instructions everywhere."
     }
   ],
   "vocab": [
@@ -149,7 +149,7 @@
       "Used cars for sale."
     ],
     [
-      "Se necesitan camareros.",
+      "Se necesitan meseros.",
       "Waiters needed."
     ],
     [
@@ -240,7 +240,7 @@
     },
     {
       "type": "fill",
-      "prompt": "Se ___ camareros. (necesitar)",
+      "prompt": "Se ___ meseros. (necesitar)",
       "answers": [
         "necesitan"
       ],

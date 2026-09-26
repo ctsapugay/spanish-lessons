@@ -58,7 +58,7 @@
     },
     {
       "heading": "Irregulars and spelling",
-      "body": "Five that don't follow the *yo* rule: *ir → vaya / vayan*, *ser → sea / sean*, *saber → sepa*, *estar → esté*, *dar → dé*.\n\nSpelling changes keep the sound: *buscar → busque*, *llegar → llegue*, *empezar → empiece*.\n\nIn Latin America, *ustedes* commands are used for **any** group — friends included: *¡Niños, vengan aquí!*"
+      "body": "Five that don't follow the *yo* rule: *ir → vaya / vayan*, *ser → sea / sean*, *saber → sepa*, *estar → esté*, *dar → dé*.\n\nSpelling changes keep the sound: *buscar → busque*, *llegar → llegue*, *empezar → empiece*.\n\nIn Latin America, *ustedes* commands are used for **any** group — friends included: *¡Niños, vengan aquí!* Stem changes carry over too: *seguir → siga*, *doblar → doble*."
     },
     {
       "heading": "Irregular tú commands",
@@ -161,7 +161,7 @@
       "Here you are, your change."
     ],
     [
-      "Vaya todo derecho y gire a la izquierda.",
+      "Siga derecho y doble a la izquierda.",
       "Go straight ahead and turn left."
     ],
     [
@@ -256,9 +256,9 @@
     },
     {
       "type": "fill",
-      "prompt": "___ todo derecho. (ir, usted)",
+      "prompt": "___ derecho. (seguir, usted)",
       "answers": [
-        "vaya"
+        "siga"
       ],
       "hint": "Go straight ahead."
     },
@@ -438,7 +438,7 @@
     {
       "type": "build",
       "prompt": "Put the words in order: \"Go straight ahead and turn left.\" (usted)",
-      "answer": "Vaya todo derecho y gire a la izquierda."
+      "answer": "Siga derecho y doble a la izquierda."
     },
     {
       "type": "build",

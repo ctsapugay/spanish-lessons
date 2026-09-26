@@ -197,7 +197,8 @@
       "type": "fill",
       "prompt": "___ descansar. (deber, tú)",
       "answers": [
-        "deberías"
+        "deberías",
+        "debes"
       ],
       "hint": "You should rest."
     },
