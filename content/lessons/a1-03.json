@@ -1,0 +1,80 @@
+{
+  "sections": [
+    {
+      "heading": "Saying your name",
+      "body": "The most common way to give your name is *Me llamo…* (literally \"I call myself…\"): *Me llamo Ana.* You can also say *Soy Ana* (I'm Ana) or, a bit more formally, *Mi nombre es Ana* (My name is Ana).\n\nTo ask someone's name:\n\n- *¿Cómo te llamas?* — What's your name? (informal, to a friend, a child, someone your age)\n- *¿Cómo se llama usted?* — What's your name? (formal)\n- *¿Cómo se llama?* — What's his/her name? (about someone else)"
+    },
+    {
+      "heading": "Nice to meet you",
+      "body": "When you meet someone, say *Mucho gusto* (Nice to meet you) or *Encantado* (if you're a man) / *Encantada* (if you're a woman). The other person usually answers *Igualmente* (Likewise) or *El gusto es mío* (The pleasure is mine).\n\nTo introduce someone else, say *Te presento a…* (informal) or *Le presento a…* (formal): *Te presento a Carlos.* (This is Carlos. / Let me introduce Carlos.) You can also simply say *Este es Carlos* (for a man) or *Esta es Ana* (for a woman)."
+    },
+    {
+      "heading": "Tú or usted?",
+      "body": "Spanish has two words for \"you\" when talking to one person:\n\n- *tú* — informal: friends, family, children, people your age in casual settings.\n- *usted* — formal and respectful: older people, strangers, customers, officials, your boss.\n\nIn Latin America, *usted* is used more than in Spain; when in doubt with an adult you don't know, start with *usted*. If they say *Puedes tutearme* (you can use *tú* with me), switch to *tú*. In some countries, such as Colombia and Costa Rica, *usted* is used even among friends and family.\n\nThe verb changes with the pronoun: *¿Cómo te llamas?* goes with *tú*; *¿Cómo se llama usted?* goes with *usted*."
+    },
+    {
+      "heading": "Where are you from?",
+      "body": "Two quick questions you will hear right after names:\n\n- *¿De dónde eres?* — Where are you from? (informal)\n- *¿De dónde es usted?* — Where are you from? (formal)\n\nAnswer with *Soy de* + place: *Soy de Chicago.* *Soy de México.* You'll learn much more about this in the next lesson."
+    }
+  ],
+  "vocab": [
+    ["me llamo", "my name is (I call myself)"],
+    ["¿Cómo te llamas?", "What's your name? (informal)"],
+    ["¿Cómo se llama usted?", "What's your name? (formal)"],
+    ["mucho gusto", "nice to meet you"],
+    ["encantado / encantada", "delighted (to meet you)"],
+    ["igualmente", "likewise"],
+    ["el nombre", "the name"],
+    ["tú", "you (informal)"],
+    ["usted", "you (formal)"],
+    ["te presento a", "let me introduce (informal)"],
+    ["le presento a", "let me introduce (formal)"],
+    ["¿De dónde eres?", "Where are you from? (informal)"],
+    ["soy", "I am"],
+    ["soy de", "I'm from"],
+    ["mi", "my"]
+  ],
+  "examples": [
+    ["Hola, me llamo Ana. ¿Cómo te llamas?", "Hi, my name is Ana. What's your name?"],
+    ["Me llamo Carlos. Mucho gusto.", "My name is Carlos. Nice to meet you."],
+    ["Igualmente.", "Likewise."],
+    ["Buenos días, ¿cómo se llama usted?", "Good morning, what's your name?"],
+    ["Mi nombre es Laura Gómez.", "My name is Laura Gómez."],
+    ["Encantada.", "Pleased to meet you. (said by a woman)"],
+    ["Encantado.", "Pleased to meet you. (said by a man)"],
+    ["Te presento a Pedro.", "Let me introduce Pedro."],
+    ["Le presento a la señora Díaz.", "Let me introduce Mrs. Díaz."],
+    ["Soy Marta. ¿Y tú?", "I'm Marta. And you?"],
+    ["¿De dónde eres?", "Where are you from?"],
+    ["Soy de México.", "I'm from Mexico."],
+    ["El gusto es mío.", "The pleasure is mine."],
+    ["Este es Carlos y esta es Ana.", "This is Carlos and this is Ana."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "How do you ask a new classmate their name?", "options": ["¿Cómo te llamas?", "¿Cómo se llama usted?", "Mucho gusto.", "Me llamo Ana."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you politely ask an older stranger their name?", "options": ["¿Cómo se llama usted?", "¿Cómo te llamas?", "¿Y tú?", "Soy de México."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Ana (a woman) is introduced to someone. What does she say?", "options": ["Encantada.", "Encantado.", "Adiós.", "Buenas noches."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Someone says *Mucho gusto.* A natural reply is…", "options": ["Igualmente.", "Hasta luego.", "Más o menos.", "Me llamo."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which \"you\" do you use with your new boss?", "options": ["usted", "tú"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which \"you\" do you use with a five-year-old child?", "options": ["tú", "usted"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What does *Me llamo Pedro* literally mean?", "options": ["I call myself Pedro", "I am from Pedro", "My friend is Pedro", "Pedro calls me"], "answer": 0},
+    {"type": "mc", "prompt": "How do you introduce your friend Luis to your friend Sara?", "options": ["Te presento a Luis.", "Le presento a Luis.", "Me llamo Luis.", "¿De dónde eres?"], "answer": 0, "lang": "es", "explain": "Sara is a friend, so use the informal *te*."},
+    {"type": "mc", "prompt": "What does *¿De dónde eres?* mean?", "options": ["Where are you from?", "What's your name?", "How are you?", "Where are you?"], "answer": 0},
+    {"type": "mc", "prompt": "In Latin America, when you meet an adult stranger, the safe choice is…", "options": ["usted", "tú"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "Hola, me ___ Ana.", "answers": ["llamo"], "hint": "Hi, my name is Ana."},
+    {"type": "fill", "prompt": "¿Cómo te ___?", "answers": ["llamas"], "hint": "What's your name? (informal)"},
+    {"type": "fill", "prompt": "¿Cómo se ___ usted?", "answers": ["llama"], "hint": "What's your name? (formal)"},
+    {"type": "fill", "prompt": "Mucho ___.", "answers": ["gusto"], "hint": "Nice to meet you."},
+    {"type": "fill", "prompt": "Soy ___ México.", "answers": ["de"], "hint": "I'm from Mexico."},
+    {"type": "fill", "prompt": "Mi ___ es Laura.", "answers": ["nombre"], "hint": "My name is Laura."},
+    {"type": "fill", "prompt": "Te ___ a Pedro.", "answers": ["presento"], "hint": "Let me introduce Pedro."},
+    {"type": "translate", "prompt": "My name is Sofía.", "answers": ["Me llamo Sofía.", "Mi nombre es Sofía.", "Soy Sofía."]},
+    {"type": "translate", "prompt": "Nice to meet you.", "answers": ["Mucho gusto.", "Encantado.", "Encantada."]},
+    {"type": "translate", "prompt": "What's your name? (informal)", "answers": ["¿Cómo te llamas?"]},
+    {"type": "translate", "prompt": "I'm from Mexico.", "answers": ["Soy de México."]},
+    {"type": "translate", "prompt": "Likewise.", "answers": ["Igualmente."]},
+    {"type": "build", "prompt": "Put the words in order: \"Hi, my name is Ana. What's your name?\"", "answer": "Hola, me llamo Ana. ¿Cómo te llamas?"},
+    {"type": "build", "prompt": "Put the words in order: \"Good morning, what's your name?\" (formal)", "answer": "Buenos días, ¿cómo se llama usted?"},
+    {"type": "build", "prompt": "Put the words in order: \"The pleasure is mine.\"", "answer": "El gusto es mío."}
+  ]
+}

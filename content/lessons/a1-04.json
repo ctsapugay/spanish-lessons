@@ -1,0 +1,437 @@
+{
+  "sections": [
+    {
+      "heading": "Subject pronouns",
+      "body": "These are the words for I, you, he, she, we, they. In Latin America, *ustedes* is the only plural \"you\" — used for any group, friends or strangers.",
+      "table": {
+        "head": [
+          "",
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "1st person",
+            "*yo* — I",
+            "*nosotros / nosotras* — we"
+          ],
+          [
+            "2nd person (informal)",
+            "*tú* — you",
+            "*ustedes* — you all"
+          ],
+          [
+            "2nd person (formal)",
+            "*usted* — you",
+            "*ustedes* — you all"
+          ],
+          [
+            "3rd person",
+            "*él* — he · *ella* — she",
+            "*ellos / ellas* — they"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Pronouns are usually left out",
+      "body": "Because the verb ending already shows who is doing the action, Spanish usually drops the pronoun: *Soy de Chile* is more natural than *Yo soy de Chile*. Use the pronoun for emphasis or contrast (*Yo soy de Chile, y ella es de Perú*) or to make clear who you mean with *él*, *ella* and *usted*, which share the same verb form.\n\n*Nosotras* and *ellas* are for all-female groups; a mixed group uses *nosotros* and *ellos*. (In Spain you'll also hear *vosotros* for informal \"you all\" — you'll meet it later for recognition.)"
+    },
+    {
+      "heading": "The verb ser (to be)",
+      "body": "*Ser* is one of the two verbs for \"to be\". Use it to say who or what someone is, their nationality, where they're from, and their job.",
+      "table": {
+        "head": [
+          "Pronoun",
+          "ser",
+          "Example"
+        ],
+        "rows": [
+          [
+            "*yo*",
+            "*soy*",
+            "*Soy estudiante.* — I'm a student."
+          ],
+          [
+            "*tú*",
+            "*eres*",
+            "*¿Eres de aquí?* — Are you from here?"
+          ],
+          [
+            "*él / ella / usted*",
+            "*es*",
+            "*Ella es profesora.* — She's a teacher."
+          ],
+          [
+            "*nosotros / nosotras*",
+            "*somos*",
+            "*Somos amigos.* — We're friends."
+          ],
+          [
+            "*ustedes*",
+            "*son*",
+            "*¿Ustedes son de Perú?* — Are you all from Peru?"
+          ],
+          [
+            "*ellos / ellas*",
+            "*son*",
+            "*Son mexicanos.* — They're Mexican."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Nationalities and origin",
+      "body": "Say where you're from with *ser de* + place: *Soy de Canadá.* Say your nationality with *ser* + adjective: *Soy canadiense.* Nationalities are written with a small letter in Spanish.\n\nMany nationalities change for gender: *Él es mexicano, ella es mexicana.* Those ending in *-e* don't: *Él es canadiense, ella es canadiense.* For a man, *-és* nationalities become *-esa* for a woman: *inglés → inglesa*. Note there is no \"a/an\" before jobs: *Soy médico* (I'm a doctor)."
+    }
+  ],
+  "vocab": [
+    [
+      "yo",
+      "I"
+    ],
+    [
+      "él",
+      "he"
+    ],
+    [
+      "ella",
+      "she"
+    ],
+    [
+      "nosotros / nosotras",
+      "we"
+    ],
+    [
+      "ustedes",
+      "you all"
+    ],
+    [
+      "ellos / ellas",
+      "they"
+    ],
+    [
+      "ser",
+      "to be (identity, origin)"
+    ],
+    [
+      "el país",
+      "the country"
+    ],
+    [
+      "México / mexicano",
+      "Mexico / Mexican"
+    ],
+    [
+      "Estados Unidos / estadounidense",
+      "the United States / American"
+    ],
+    [
+      "Colombia / colombiano",
+      "Colombia / Colombian"
+    ],
+    [
+      "España / español",
+      "Spain / Spanish"
+    ],
+    [
+      "Canadá / canadiense",
+      "Canada / Canadian"
+    ],
+    [
+      "Inglaterra / inglés",
+      "England / English"
+    ],
+    [
+      "el estudiante / la estudiante",
+      "the student"
+    ],
+    [
+      "el profesor / la profesora",
+      "the teacher"
+    ],
+    [
+      "el amigo / la amiga",
+      "the friend"
+    ],
+    [
+      "el médico / la médica",
+      "the doctor"
+    ]
+  ],
+  "examples": [
+    [
+      "Yo soy de Estados Unidos.",
+      "I'm from the United States."
+    ],
+    [
+      "Soy estadounidense.",
+      "I'm American."
+    ],
+    [
+      "¿Tú eres de aquí?",
+      "Are you from here?"
+    ],
+    [
+      "Ella es colombiana.",
+      "She's Colombian."
+    ],
+    [
+      "Él es mexicano y ella es mexicana.",
+      "He's Mexican and she's Mexican."
+    ],
+    [
+      "Nosotros somos amigos.",
+      "We're friends."
+    ],
+    [
+      "Ustedes son estudiantes.",
+      "You all are students."
+    ],
+    [
+      "Ellos son de España.",
+      "They're from Spain."
+    ],
+    [
+      "Usted es profesor, ¿no?",
+      "You're a teacher, aren't you?"
+    ],
+    [
+      "Somos de Canadá. Somos canadienses.",
+      "We're from Canada. We're Canadian."
+    ],
+    [
+      "Ella es médica.",
+      "She's a doctor."
+    ],
+    [
+      "¿De dónde son ustedes?",
+      "Where are you all from?"
+    ],
+    [
+      "Ellas son inglesas.",
+      "They're English. (all women)"
+    ],
+    [
+      "Eres muy amable.",
+      "You're very kind."
+    ],
+    [
+      "Ellos son profesores.",
+      "They're teachers."
+    ],
+    [
+      "Ana y Marta son amigas.",
+      "Ana and Marta are friends."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Yo ___ de México.",
+      "answers": [
+        "soy"
+      ],
+      "hint": "I am from Mexico."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tú ___ estudiante.",
+      "answers": [
+        "eres"
+      ],
+      "hint": "You are a student."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ella ___ colombiana.",
+      "answers": [
+        "es"
+      ],
+      "hint": "She is Colombian."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nosotros ___ amigos.",
+      "answers": [
+        "somos"
+      ],
+      "hint": "We are friends."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ustedes ___ de España.",
+      "answers": [
+        "son"
+      ],
+      "hint": "You all are from Spain."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ellos ___ profesores.",
+      "answers": [
+        "son"
+      ],
+      "hint": "They are teachers."
+    },
+    {
+      "type": "fill",
+      "prompt": "Usted ___ médico.",
+      "answers": [
+        "es"
+      ],
+      "hint": "You are a doctor. (formal)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Él es mexicano y ella es ___.",
+      "answers": [
+        "mexicana"
+      ],
+      "hint": "He's Mexican and she's Mexican."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ellas son ___.",
+      "answers": [
+        "inglesas"
+      ],
+      "hint": "They are English. (women)"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which pronoun means \"you all\" in Latin America?",
+      "options": [
+        "ustedes",
+        "nosotros",
+        "ellos",
+        "usted"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "A group of three women and one man is…",
+      "options": [
+        "ellos",
+        "ellas"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "A mixed group always takes the masculine form."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which sentence sounds most natural?",
+      "options": [
+        "Soy de Chile.",
+        "Yo soy yo de Chile.",
+        "Es yo de Chile."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "A Canadian woman says: \"Soy ___.\"",
+      "options": [
+        "canadiense",
+        "canadiensa",
+        "canadienso"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct?",
+      "options": [
+        "Ella es profesora.",
+        "Ella es una Profesora.",
+        "Ella son profesora."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "How do you write \"Mexican\" in Spanish?",
+      "options": [
+        "mexicano (small m)",
+        "Mexicano (capital M)"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Somos* goes with…",
+      "options": [
+        "nosotros",
+        "ellos",
+        "yo",
+        "tú"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm American.",
+      "answers": [
+        "Soy estadounidense.",
+        "Yo soy estadounidense."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "She's from Colombia.",
+      "answers": [
+        "Ella es de Colombia.",
+        "Es de Colombia."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "We're friends.",
+      "answers": [
+        "Somos amigos.",
+        "Nosotros somos amigos.",
+        "Somos amigas.",
+        "Nosotras somos amigas."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "They're students.",
+      "answers": [
+        "Son estudiantes.",
+        "Ellos son estudiantes.",
+        "Ellas son estudiantes."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Where are you all from?",
+      "answers": [
+        "¿De dónde son ustedes?",
+        "¿De dónde son?"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He's Mexican and she's Mexican.\"",
+      "answer": "Él es mexicano y ella es mexicana."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"We're from Canada.\"",
+      "answer": "Somos de Canadá."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"You're a teacher, aren't you?\"",
+      "answer": "Usted es profesor, ¿no?"
+    }
+  ]
+}

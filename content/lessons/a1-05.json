@@ -1,0 +1,426 @@
+{
+  "sections": [
+    {
+      "heading": "Every noun is masculine or feminine",
+      "body": "In Spanish, every noun has a gender — even objects. The ending is usually your best clue:\n\n- Nouns ending in *-o* are usually masculine: *el libro* (book), *el vaso* (glass).\n- Nouns ending in *-a* are usually feminine: *la mesa* (table), *la ventana* (window).\n- Nouns ending in *-ción*, *-sión*, *-dad* are feminine: *la canción* (song), *la ciudad* (city).\n- Other endings (*-e*, consonants) must be learned: *el coche* (car, in Spain — *el carro* in much of Latin America), *la calle* (street), *el papel* (paper), *la luz* (light).\n\nA few common exceptions: *el día* (day) and *el mapa* (map) are masculine; *la mano* (hand) is feminine. Always learn a noun together with its article."
+    },
+    {
+      "heading": "Definite articles: the",
+      "body": "\"The\" has four forms, matching the noun's gender and number.",
+      "table": {
+        "head": [
+          "",
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "Masculine",
+            "*el libro*",
+            "*los libros*"
+          ],
+          [
+            "Feminine",
+            "*la mesa*",
+            "*las mesas*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Indefinite articles: a, an, some",
+      "body": "\"A/an\" also agrees. In the plural, *unos / unas* means \"some\" or \"a few\".",
+      "table": {
+        "head": [
+          "",
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "Masculine",
+            "*un libro* — a book",
+            "*unos libros* — some books"
+          ],
+          [
+            "Feminine",
+            "*una mesa* — a table",
+            "*unas mesas* — some tables"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Making nouns plural",
+      "body": "- Ending in a vowel: add *-s* — *casa → casas*, *coche → coches*.\n- Ending in a consonant: add *-es* — *papel → papeles*, *ciudad → ciudades*.\n- Ending in *-z*: change it to *-ces* — *luz → luces*, *lápiz → lápices*.\n- A written accent on the last syllable disappears when *-es* is added: *canción → canciones*.\n\nPeople: many nouns for people change *-o* to *-a* (*el amigo → la amiga*), and nouns ending in *-e* or *-ista* often just change the article (*el estudiante → la estudiante*, *el turista → la turista*)."
+    }
+  ],
+  "vocab": [
+    [
+      "el libro",
+      "the book"
+    ],
+    [
+      "el vaso",
+      "the glass"
+    ],
+    [
+      "la ventana",
+      "the window"
+    ],
+    [
+      "la canción",
+      "the song"
+    ],
+    [
+      "la ciudad",
+      "the city"
+    ],
+    [
+      "el carro / el coche",
+      "the car"
+    ],
+    [
+      "la calle",
+      "the street"
+    ],
+    [
+      "el papel",
+      "the paper"
+    ],
+    [
+      "la luz",
+      "the light"
+    ],
+    [
+      "el lápiz",
+      "the pencil"
+    ],
+    [
+      "el día",
+      "the day"
+    ],
+    [
+      "el mapa",
+      "the map"
+    ],
+    [
+      "la mano",
+      "the hand"
+    ],
+    [
+      "la puerta",
+      "the door"
+    ],
+    [
+      "la silla",
+      "the chair"
+    ],
+    [
+      "el teléfono",
+      "the phone"
+    ],
+    [
+      "la palabra",
+      "the word"
+    ]
+  ],
+  "examples": [
+    [
+      "El libro y la mesa.",
+      "The book and the table."
+    ],
+    [
+      "Los libros y las mesas.",
+      "The books and the tables."
+    ],
+    [
+      "Un vaso y una silla.",
+      "A glass and a chair."
+    ],
+    [
+      "Unos lápices y unos papeles.",
+      "Some pencils and some papers."
+    ],
+    [
+      "La ciudad es muy bonita.",
+      "The city is very pretty."
+    ],
+    [
+      "El día es bonito.",
+      "The day is nice."
+    ],
+    [
+      "Las canciones de Shakira.",
+      "Shakira's songs."
+    ],
+    [
+      "Es un mapa de México.",
+      "It's a map of Mexico."
+    ],
+    [
+      "La puerta y las ventanas.",
+      "The door and the windows."
+    ],
+    [
+      "Es una palabra, no dos.",
+      "It's one word, not two."
+    ],
+    [
+      "El carro de Ana.",
+      "Ana's car."
+    ],
+    [
+      "Las luces de la calle.",
+      "The street lights."
+    ],
+    [
+      "Es el teléfono de Carlos.",
+      "It's Carlos's phone."
+    ],
+    [
+      "Las manos.",
+      "The hands."
+    ],
+    [
+      "Las puertas y los teléfonos.",
+      "The doors and the phones."
+    ],
+    [
+      "Las calles de la ciudad.",
+      "The streets of the city."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose the right article: ___ libro",
+      "options": [
+        "el",
+        "la"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose the right article: ___ ventana",
+      "options": [
+        "la",
+        "el"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose the right article: ___ canción",
+      "options": [
+        "la",
+        "el"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Nouns ending in *-ción* are feminine."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose the right article: ___ día",
+      "options": [
+        "el",
+        "la"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*Día* is an exception: masculine even though it ends in -a."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose the right article: ___ mano",
+      "options": [
+        "la",
+        "el"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*Mano* is an exception: feminine even though it ends in -o."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose the right article: ___ mapa",
+      "options": [
+        "el",
+        "la"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose the right article: ___ ciudad",
+      "options": [
+        "la",
+        "el"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "What is the plural of *la luz*?",
+      "options": [
+        "las luces",
+        "las luzes",
+        "los luces",
+        "las luzs"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "What is the plural of *el papel*?",
+      "options": [
+        "los papeles",
+        "los papels",
+        "las papeles",
+        "el papeles"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "What is the plural of *la canción*?",
+      "options": [
+        "las canciones",
+        "las cancións",
+        "las canciónes",
+        "los canciones"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "What does *unos libros* mean?",
+      "options": [
+        "some books",
+        "one book",
+        "the books",
+        "a book"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "___ silla",
+      "answers": [
+        "una"
+      ],
+      "hint": "a chair"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ vaso",
+      "answers": [
+        "un"
+      ],
+      "hint": "a glass"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ puertas",
+      "answers": [
+        "las"
+      ],
+      "hint": "the doors"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ teléfonos",
+      "answers": [
+        "los"
+      ],
+      "hint": "the phones"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ lápices",
+      "answers": [
+        "unos"
+      ],
+      "hint": "some pencils"
+    },
+    {
+      "type": "fill",
+      "prompt": "la calle → las ___",
+      "answers": [
+        "calles"
+      ],
+      "hint": "plural of calle"
+    },
+    {
+      "type": "fill",
+      "prompt": "la ciudad → las ___",
+      "answers": [
+        "ciudades"
+      ],
+      "hint": "plural of ciudad"
+    },
+    {
+      "type": "fill",
+      "prompt": "el lápiz → los ___",
+      "answers": [
+        "lápices"
+      ],
+      "hint": "plural of lápiz"
+    },
+    {
+      "type": "translate",
+      "prompt": "the books",
+      "answers": [
+        "los libros"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "a window",
+      "answers": [
+        "una ventana"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "the cities",
+      "answers": [
+        "las ciudades"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "some songs",
+      "answers": [
+        "unas canciones"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "the car",
+      "answers": [
+        "el carro",
+        "el coche"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The door and the windows.\"",
+      "answer": "La puerta y las ventanas."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's a map of Mexico.\"",
+      "answer": "Es un mapa de México."
+    }
+  ]
+}

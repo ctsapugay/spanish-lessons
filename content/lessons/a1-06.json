@@ -1,0 +1,105 @@
+{
+  "sections": [
+    {
+      "heading": "Numbers 0–20",
+      "body": "Learn these by heart — they're everywhere: phone numbers, prices, ages, addresses.",
+      "table": {
+        "head": ["", "", "", ""],
+        "rows": [
+          ["0 *cero*", "6 *seis*", "11 *once*", "16 *dieciséis*"],
+          ["1 *uno*", "7 *siete*", "12 *doce*", "17 *diecisiete*"],
+          ["2 *dos*", "8 *ocho*", "13 *trece*", "18 *dieciocho*"],
+          ["3 *tres*", "9 *nueve*", "14 *catorce*", "19 *diecinueve*"],
+          ["4 *cuatro*", "10 *diez*", "15 *quince*", "20 *veinte*"],
+          ["5 *cinco*", "", "", ""]
+        ]
+      }
+    },
+    {
+      "heading": "Uno, un, una",
+      "body": "When you count, say *uno*. Before a masculine noun it shortens to *un*: *un libro*. Before a feminine noun it's *una*: *una mesa*. The same happens at the end of bigger numbers later (*veintiún años*)."
+    },
+    {
+      "heading": "The verb tener (to have)",
+      "body": "*Tener* means \"to have\". It is irregular — memorise it now, you'll use it constantly.",
+      "table": {
+        "head": ["Pronoun", "tener"],
+        "rows": [
+          ["*yo*", "*tengo*"],
+          ["*tú*", "*tienes*"],
+          ["*él / ella / usted*", "*tiene*"],
+          ["*nosotros / nosotras*", "*tenemos*"],
+          ["*ustedes*", "*tienen*"],
+          ["*ellos / ellas*", "*tienen*"]
+        ]
+      }
+    },
+    {
+      "heading": "Saying your age",
+      "body": "Spanish uses *tener* for age — you literally \"have\" years: *Tengo veinte años* (I'm twenty). Never use *ser* for age.\n\nTo ask: *¿Cuántos años tienes?* (How old are you? — informal) or *¿Cuántos años tiene usted?* (formal). *¿Cuántos?* means \"how many?\"\n\nA useful related phrase: *Tengo dos hermanos* (I have two siblings) — *hermano* means brother, *hermana* sister."
+    }
+  ],
+  "vocab": [
+    ["cero", "zero"],
+    ["cuatro", "four"],
+    ["cinco", "five"],
+    ["seis", "six"],
+    ["siete", "seven"],
+    ["ocho", "eight"],
+    ["nueve", "nine"],
+    ["diez", "ten"],
+    ["once", "eleven"],
+    ["doce", "twelve"],
+    ["quince", "fifteen"],
+    ["veinte", "twenty"],
+    ["tener", "to have"],
+    ["el año", "the year"],
+    ["¿Cuántos años tienes?", "How old are you?"],
+    ["el hermano / la hermana", "the brother / the sister"],
+    ["el número", "the number"]
+  ],
+  "examples": [
+    ["Tengo diecinueve años.", "I'm nineteen years old."],
+    ["¿Cuántos años tienes?", "How old are you?"],
+    ["¿Cuántos años tiene usted?", "How old are you? (formal)"],
+    ["Mi hermana tiene doce años.", "My sister is twelve."],
+    ["Tenemos un perro y dos gatos.", "We have a dog and two cats."],
+    ["¿Tienes hermanos?", "Do you have brothers and sisters?"],
+    ["Sí, tengo una hermana y un hermano.", "Yes, I have a sister and a brother."],
+    ["Ellos tienen catorce años.", "They're fourteen."],
+    ["El número es trece.", "The number is thirteen."],
+    ["Uno, dos, tres, cuatro, cinco.", "One, two, three, four, five."],
+    ["Tienes diez libros.", "You have ten books."],
+    ["Mi amigo tiene dieciséis años.", "My friend is sixteen."],
+    ["Ustedes tienen un carro.", "You all have a car."],
+    ["Once, doce, quince, dieciocho, veinte.", "Eleven, twelve, fifteen, eighteen, twenty."],
+    ["Diecisiete años.", "Seventeen years old."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "What is 7 in Spanish?", "options": ["siete", "seis", "sete", "nueve"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What is 13 in Spanish?", "options": ["trece", "tres", "treinta", "dieciocho"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What is 15 in Spanish?", "options": ["quince", "cinco", "catorce", "cincuenta"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What number is *dieciocho*?", "options": ["18", "8", "80", "16"], "answer": 0},
+    {"type": "mc", "prompt": "What number is *once*?", "options": ["11", "1", "12", "10"], "answer": 0},
+    {"type": "mc", "prompt": "Which verb do you use to say your age?", "options": ["tener", "ser"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Tengo veinte años.", "Soy veinte años.", "Tengo veinte."], "answer": 0, "lang": "es", "explain": "Age uses *tener* + number + *años*. Just *tengo veinte* sounds incomplete."},
+    {"type": "mc", "prompt": "How do you ask a friend their age?", "options": ["¿Cuántos años tienes?", "¿Cuántos años tiene usted?", "¿Cómo estás?", "¿Qué tal?"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "Yo ___ veinte años.", "answers": ["tengo"], "hint": "I am twenty."},
+    {"type": "fill", "prompt": "¿Cuántos años ___ tú?", "answers": ["tienes"], "hint": "How old are you?"},
+    {"type": "fill", "prompt": "Mi hermana ___ doce años.", "answers": ["tiene"], "hint": "My sister is twelve."},
+    {"type": "fill", "prompt": "Nosotros ___ un perro.", "answers": ["tenemos"], "hint": "We have a dog."},
+    {"type": "fill", "prompt": "Ellos ___ catorce años.", "answers": ["tienen"], "hint": "They are fourteen."},
+    {"type": "fill", "prompt": "Ustedes ___ un carro.", "answers": ["tienen"], "hint": "You all have a car."},
+    {"type": "fill", "prompt": "Uno, dos, ___, cuatro.", "answers": ["tres"], "hint": "count: 1, 2, 3, 4"},
+    {"type": "fill", "prompt": "Ocho, ___, diez.", "answers": ["nueve"], "hint": "count: 8, 9, 10"},
+    {"type": "fill", "prompt": "Tengo ___ hermanos.", "answers": ["dos"], "hint": "I have two siblings."},
+    {"type": "translate", "prompt": "I'm nineteen years old.", "answers": ["Tengo diecinueve años.", "Yo tengo diecinueve años."]},
+    {"type": "translate", "prompt": "How old are you? (formal)", "answers": ["¿Cuántos años tiene usted?", "¿Cuántos años tiene?"]},
+    {"type": "translate", "prompt": "I have a sister.", "answers": ["Tengo una hermana.", "Yo tengo una hermana."]},
+    {"type": "translate", "prompt": "We have two cats.", "answers": ["Tenemos dos gatos.", "Nosotros tenemos dos gatos."]},
+    {"type": "translate", "prompt": "twenty", "answers": ["veinte"]},
+    {"type": "build", "prompt": "Put the words in order: \"My sister is twelve years old.\"", "answer": "Mi hermana tiene doce años."},
+    {"type": "build", "prompt": "Put the words in order: \"Do you have brothers and sisters?\"", "answer": "¿Tienes hermanos?"},
+    {"type": "build", "prompt": "Put the words in order: \"We have a dog and two cats.\"", "answer": "Tenemos un perro y dos gatos."}
+  ]
+}

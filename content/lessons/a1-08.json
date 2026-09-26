@@ -1,0 +1,89 @@
+{
+  "sections": [
+    {
+      "heading": "The family",
+      "body": "*La familia* is central in Latin American life, and you'll talk about it a lot. The masculine plural covers mixed groups: *los padres* = parents (father + mother), *los hermanos* = brothers and sisters, *los hijos* = children (sons and daughters), *los abuelos* = grandparents.\n\nIn everyday speech, parents are usually *mamá* and *papá*; *la madre* and *el padre* are a bit more formal."
+    },
+    {
+      "heading": "Possessive words: my, your, his, her, our, their",
+      "body": "These go before the noun. *Mi, tu, su* only change for plural; *nuestro* changes for gender and number.",
+      "table": {
+        "head": ["", "Singular noun", "Plural noun"],
+        "rows": [
+          ["my", "*mi hermano*", "*mis hermanos*"],
+          ["your (tú)", "*tu madre*", "*tus padres*"],
+          ["his / her / its / your (usted)", "*su casa*", "*sus casas*"],
+          ["our", "*nuestro padre* · *nuestra madre*", "*nuestros hijos* · *nuestras hijas*"],
+          ["your (ustedes) / their", "*su familia*", "*sus abuelos*"]
+        ]
+      }
+    },
+    {
+      "heading": "Watch out",
+      "body": "- *Tu* (your) has no accent; *tú* (you) does: *Tú eres mi amigo y tu casa es bonita.*\n- The possessive agrees with the thing owned, not the owner: *nuestra casa* (our house) — *casa* is feminine.\n- *Su* can mean his, her, their, or your (formal). Context usually makes it clear; if not, say *la casa de Juan* (Juan's house). Spanish has no \"'s\": use *de* — *el perro de mi hermana* (my sister's dog)."
+    }
+  ],
+  "vocab": [
+    ["la familia", "the family"],
+    ["el padre / papá", "the father / dad"],
+    ["la madre / mamá", "the mother / mom"],
+    ["los padres", "the parents"],
+    ["el hijo / la hija", "the son / the daughter"],
+    ["los hijos", "the children (sons and daughters)"],
+    ["el abuelo / la abuela", "the grandfather / the grandmother"],
+    ["el tío / la tía", "the uncle / the aunt"],
+    ["el primo / la prima", "the cousin"],
+    ["el esposo / la esposa", "the husband / the wife"],
+    ["el novio / la novia", "the boyfriend / the girlfriend"],
+    ["tu", "your (informal)"],
+    ["su", "his / her / their / your (formal)"],
+    ["nuestro / nuestra", "our"],
+    ["mis", "my (plural)"]
+  ],
+  "examples": [
+    ["Mi familia es grande.", "My family is big."],
+    ["Mis padres son de Colombia.", "My parents are from Colombia."],
+    ["Tengo dos hermanos y una hermana.", "I have two brothers and a sister."],
+    ["¿Cómo se llama tu madre?", "What's your mother's name?"],
+    ["Mi abuela tiene ochenta años.", "My grandmother is eighty."],
+    ["Nuestra casa es pequeña.", "Our house is small."],
+    ["Nuestros hijos son simpáticos.", "Our children are nice."],
+    ["Sus primos son de México.", "His cousins are from Mexico."],
+    ["El perro de mi hermana es muy bonito.", "My sister's dog is very pretty."],
+    ["Mi tío es médico y mi tía es profesora.", "My uncle is a doctor and my aunt is a teacher."],
+    ["Tu novio es muy alto.", "Your boyfriend is very tall."],
+    ["¿Tienes hijos?", "Do you have children?"],
+    ["Sí, tengo una hija de seis años.", "Yes, I have a six-year-old daughter."],
+    ["Mi esposa se llama Lucía.", "My wife's name is Lucía."],
+    ["Tus abuelos son muy simpáticos.", "Your grandparents are very nice."],
+    ["Sus hijas son altas.", "Her daughters are tall."],
+    ["Nuestras primas son de España.", "Our cousins are from Spain. (all female)"],
+    ["Mi papá y mi mamá.", "My dad and my mom."],
+    ["La casa de Juan.", "Juan's house."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "___ padres son de Colombia.", "answers": ["mis"], "hint": "My parents are from Colombia."},
+    {"type": "fill", "prompt": "___ casa es pequeña.", "answers": ["nuestra"], "hint": "Our house is small."},
+    {"type": "fill", "prompt": "___ hijos son simpáticos.", "answers": ["nuestros"], "hint": "Our children are nice."},
+    {"type": "fill", "prompt": "¿Cómo se llama ___ madre?", "answers": ["tu"], "hint": "What's your mother's name? (informal)"},
+    {"type": "fill", "prompt": "___ abuelos son muy simpáticos.", "answers": ["tus"], "hint": "Your grandparents are very nice. (informal)"},
+    {"type": "fill", "prompt": "___ hijas son altas.", "answers": ["sus"], "hint": "Her daughters are tall."},
+    {"type": "fill", "prompt": "El perro ___ mi hermana.", "answers": ["de"], "hint": "My sister's dog."},
+    {"type": "mc", "prompt": "The father of your father is your…", "options": ["abuelo", "tío", "primo", "hermano"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The sister of your mother is your…", "options": ["tía", "prima", "abuela", "hija"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The son of your uncle is your…", "options": ["primo", "hermano", "hijo", "tío"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Los padres* means…", "options": ["the parents", "the fathers only", "the relatives", "the grandparents"], "answer": 0},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Tú eres mi amigo.", "Tu eres mi amigo.", "Tú eres mí amigo."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you say \"Juan's house\"?", "options": ["la casa de Juan", "Juan's casa", "la Juan casa", "la casa Juan"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Su casa* can mean…", "options": ["his, her, their or your (formal) house", "only his house", "only my house", "only our house"], "answer": 0},
+    {"type": "mc", "prompt": "Which is correct for \"our daughters\"?", "options": ["nuestras hijas", "nuestros hijas", "nuestra hijas", "nuestro hijas"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "My family is big.", "answers": ["Mi familia es grande."]},
+    {"type": "translate", "prompt": "Our house is small.", "answers": ["Nuestra casa es pequeña."]},
+    {"type": "translate", "prompt": "My parents are from Colombia.", "answers": ["Mis padres son de Colombia."]},
+    {"type": "translate", "prompt": "Do you have children?", "answers": ["¿Tienes hijos?", "¿Tiene hijos?", "¿Tiene usted hijos?"]},
+    {"type": "translate", "prompt": "My sister's dog", "answers": ["el perro de mi hermana"]},
+    {"type": "build", "prompt": "Put the words in order: \"My uncle is a doctor and my aunt is a teacher.\"", "answer": "Mi tío es médico y mi tía es profesora."},
+    {"type": "build", "prompt": "Put the words in order: \"Yes, I have a six-year-old daughter.\"", "answer": "Sí, tengo una hija de seis años."},
+    {"type": "build", "prompt": "Put the words in order: \"My wife's name is Lucía.\"", "answer": "Mi esposa se llama Lucía."}
+  ]
+}

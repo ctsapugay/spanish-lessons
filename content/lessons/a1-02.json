@@ -1,0 +1,81 @@
+{
+  "sections": [
+    {
+      "heading": "Greetings by time of day",
+      "body": "*Hola* (hello) works any time, with anyone. For something a little more polite, use the greeting for the time of day:\n\n- *Buenos días* — good morning (until about noon)\n- *Buenas tardes* — good afternoon (from noon until dark)\n- *Buenas noches* — good evening / good night (after dark, both to greet and to say goodbye)\n\nIn Latin America it is very common to combine them: *Hola, buenos días.* Many people shorten them in casual speech to *buenas*. In Argentina and Uruguay you will often hear *buen día* in the morning."
+    },
+    {
+      "heading": "How are you?",
+      "body": "After the greeting, people ask how you are:\n\n- *¿Qué tal?* — How's it going? (casual, very common)\n- *¿Cómo estás?* — How are you? (to a friend, someone your age, a child)\n- *¿Cómo está usted?* — How are you? (polite: to an older person, a customer, someone you don't know)\n\nTypical answers: *Bien, gracias.* (Fine, thanks.) *Muy bien.* (Very well.) *Más o menos.* (So-so.) *Mal.* (Bad.) Then bounce the question back: *¿Y tú?* (And you?) or, politely, *¿Y usted?*"
+    },
+    {
+      "heading": "Saying goodbye",
+      "body": "- *Adiós* — goodbye\n- *Hasta luego* — see you later (the most common everyday goodbye)\n- *Hasta mañana* — see you tomorrow\n- *Nos vemos* — see you\n- *Chao* — bye (very common in much of Latin America; also spelled *chau* in Argentina)\n\nWhen you leave a shop or office, *hasta luego* or *que le vaya bien* (may it go well for you) is friendly and polite."
+    },
+    {
+      "heading": "Greeting customs",
+      "body": "In much of Latin America, people greet friends and acquaintances with one kiss on the right cheek (women with women, and men with women); men often shake hands or hug. In shops and lifts it is normal to say *buenos días* or *buenas tardes* to everyone present — silence can seem rude."
+    }
+  ],
+  "vocab": [
+    ["buenos días", "good morning"],
+    ["buenas tardes", "good afternoon"],
+    ["buenas noches", "good evening / good night"],
+    ["adiós", "goodbye"],
+    ["hasta luego", "see you later"],
+    ["hasta mañana", "see you tomorrow"],
+    ["nos vemos", "see you"],
+    ["chao", "bye"],
+    ["¿Qué tal?", "How's it going?"],
+    ["¿Cómo estás?", "How are you? (informal)"],
+    ["¿Cómo está usted?", "How are you? (formal)"],
+    ["bien", "well / fine"],
+    ["muy bien", "very well"],
+    ["mal", "badly / not well"],
+    ["más o menos", "so-so"],
+    ["¿Y tú?", "And you? (informal)"],
+    ["¿Y usted?", "And you? (formal)"]
+  ],
+  "examples": [
+    ["Hola, buenos días.", "Hello, good morning."],
+    ["Buenas tardes, ¿cómo está usted?", "Good afternoon, how are you?"],
+    ["Muy bien, gracias. ¿Y usted?", "Very well, thank you. And you?"],
+    ["Hola, ¿qué tal?", "Hi, how's it going?"],
+    ["Bien, ¿y tú?", "Fine, and you?"],
+    ["Más o menos.", "So-so."],
+    ["Estoy bien, gracias.", "I'm fine, thanks."],
+    ["Estoy mal.", "I'm not well."],
+    ["Adiós, hasta mañana.", "Goodbye, see you tomorrow."],
+    ["Hasta luego.", "See you later."],
+    ["Buenas noches.", "Good night."],
+    ["Chao, nos vemos.", "Bye, see you."],
+    ["Que le vaya bien.", "Have a good day. (literally: may it go well for you)"]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "It's 9 a.m. How do you greet your neighbor politely?", "options": ["Buenos días", "Buenas noches", "Buenas tardes", "Hasta luego"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "It's 3 p.m. Which greeting fits?", "options": ["Buenas tardes", "Buenos días", "Buenas noches", "Adiós"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "It's 10 p.m. and you're leaving a party. What do you say?", "options": ["Buenas noches", "Buenos días", "Buenas tardes", "¿Qué tal?"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which question would you ask an older stranger?", "options": ["¿Cómo está usted?", "¿Cómo estás?", "¿Y tú?", "Chao"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What does *más o menos* mean as an answer to \"how are you?\"", "options": ["so-so", "very well", "badly", "see you"], "answer": 0},
+    {"type": "mc", "prompt": "Which is the most common everyday way to say \"see you later\"?", "options": ["Hasta luego", "Hasta mañana", "Buenos días", "Muy bien"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Someone says *¿Qué tal?* The best reply is…", "options": ["Bien, ¿y tú?", "Buenos días, ¿y usted?", "Adiós.", "Hasta mañana, gracias."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Buenas noches* can be used…", "options": ["both to greet and to say goodbye in the evening", "only in the morning", "only to say goodbye", "only to greet"], "answer": 0},
+    {"type": "mc", "prompt": "What does *nos vemos* mean?", "options": ["see you", "good morning", "thank you", "how are you"], "answer": 0},
+    {"type": "fill", "prompt": "Buenos ___.", "answers": ["días"], "hint": "Good morning."},
+    {"type": "fill", "prompt": "Buenas ___.", "answers": ["tardes", "noches"], "hint": "Good afternoon. (or good evening)"},
+    {"type": "fill", "prompt": "Hasta ___.", "answers": ["luego", "mañana"], "hint": "See you later. (or see you tomorrow)"},
+    {"type": "fill", "prompt": "Muy bien, gracias. ¿Y ___?", "answers": ["tú", "usted"], "hint": "And you?"},
+    {"type": "fill", "prompt": "¿Cómo ___ usted?", "answers": ["está"], "hint": "How are you? (formal)"},
+    {"type": "fill", "prompt": "¿Cómo ___?", "answers": ["estás"], "hint": "How are you? (informal)"},
+    {"type": "fill", "prompt": "Más o ___.", "answers": ["menos"], "hint": "So-so."},
+    {"type": "translate", "prompt": "Good morning.", "answers": ["Buenos días.", "Buen día."]},
+    {"type": "translate", "prompt": "See you tomorrow.", "answers": ["Hasta mañana."]},
+    {"type": "translate", "prompt": "Very well, thank you.", "answers": ["Muy bien, gracias."]},
+    {"type": "translate", "prompt": "Fine, and you? (to a friend)", "answers": ["Bien, ¿y tú?"]},
+    {"type": "translate", "prompt": "Goodbye.", "answers": ["Adiós.", "Chao."]},
+    {"type": "translate", "prompt": "I'm fine, thanks.", "answers": ["Estoy bien, gracias.", "Bien, gracias."]},
+    {"type": "build", "prompt": "Put the words in order: \"Good afternoon, how are you?\" (formal)", "answer": "Buenas tardes, ¿cómo está usted?"},
+    {"type": "build", "prompt": "Put the words in order: \"Very well, thank you. And you?\" (formal)", "answer": "Muy bien, gracias. ¿Y usted?"},
+    {"type": "build", "prompt": "Put the words in order: \"Goodbye, see you tomorrow.\"", "answer": "Adiós, hasta mañana."}
+  ]
+}

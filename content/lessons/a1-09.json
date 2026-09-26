@@ -1,0 +1,97 @@
+{
+  "sections": [
+    {
+      "heading": "Verbs have endings",
+      "body": "Spanish verbs come in three groups, by the ending of the infinitive (the \"to …\" form): *-ar* (*hablar*, to speak), *-er* (*comer*, to eat) and *-ir* (*vivir*, to live). To conjugate a regular verb, remove the ending and add the ending for the person.\n\n*-ar* verbs are the biggest group. Here is *hablar*:",
+      "table": {
+        "head": ["Pronoun", "Ending", "hablar"],
+        "rows": [
+          ["*yo*", "-o", "*hablo*"],
+          ["*tú*", "-as", "*hablas*"],
+          ["*él / ella / usted*", "-a", "*habla*"],
+          ["*nosotros / nosotras*", "-amos", "*hablamos*"],
+          ["*ustedes*", "-an", "*hablan*"],
+          ["*ellos / ellas*", "-an", "*hablan*"]
+        ]
+      }
+    },
+    {
+      "heading": "One form, three meanings",
+      "body": "The Spanish present covers what English says in several ways: *Hablo español* = I speak Spanish / I'm speaking Spanish / I do speak Spanish. It also works for the near future: *Mañana trabajo* (I'm working tomorrow).\n\nTo make it negative, put *no* before the verb: *No hablo francés.* (I don't speak French.) To make a yes/no question, just use question marks and rising intonation: *¿Hablas inglés?*"
+    },
+    {
+      "heading": "Common -ar verbs",
+      "body": "All the verbs in this lesson's vocabulary follow exactly the *hablar* pattern: *trabajo, trabajas, trabaja, trabajamos, trabajan*. *Estudio, estudias, estudia…* *Escucho, escuchas, escucha…*\n\nFor languages, use the masculine singular with a small letter: *el inglés, el español, el francés*. After *hablar* you normally drop the article: *Hablo inglés.*"
+    }
+  ],
+  "vocab": [
+    ["hablar", "to speak / to talk"],
+    ["trabajar", "to work"],
+    ["estudiar", "to study"],
+    ["escuchar", "to listen (to)"],
+    ["mirar", "to look at / to watch"],
+    ["cocinar", "to cook"],
+    ["caminar", "to walk"],
+    ["comprar", "to buy"],
+    ["tomar", "to take / to drink"],
+    ["llegar", "to arrive"],
+    ["necesitar", "to need"],
+    ["bailar", "to dance"],
+    ["cantar", "to sing"],
+    ["el inglés", "English (language)"],
+    ["el francés", "French (language)"],
+    ["la televisión", "television"],
+    ["mucho", "a lot"]
+  ],
+  "examples": [
+    ["Hablo español y un poco de inglés.", "I speak Spanish and a little English."],
+    ["¿Hablas francés?", "Do you speak French?"],
+    ["No, no hablo francés.", "No, I don't speak French."],
+    ["Mi madre trabaja mucho.", "My mother works a lot."],
+    ["Estudiamos español.", "We're studying Spanish."],
+    ["Ellos escuchan música.", "They listen to music."],
+    ["Mi padre cocina muy bien.", "My father cooks very well."],
+    ["¿Ustedes miran la televisión?", "Do you all watch television?"],
+    ["Camino con mi perro.", "I walk with my dog."],
+    ["Ella compra un libro.", "She's buying a book."],
+    ["Tomo un café.", "I'm having a coffee."],
+    ["Necesito un lápiz.", "I need a pencil."],
+    ["Mañana trabajo.", "I'm working tomorrow."],
+    ["Bailamos y cantamos.", "We dance and sing."],
+    ["Llegan mañana.", "They arrive tomorrow."],
+    ["¿Trabajas o estudias?", "Do you work or study?"],
+    ["Hablas muy bien.", "You speak very well."],
+    ["Estudias mucho.", "You study a lot."],
+    ["Mi hermana canta y baila.", "My sister sings and dances."],
+    ["Usted habla inglés.", "You speak English."],
+    ["Ellas necesitan un carro.", "They need a car."],
+    ["Escuchamos canciones.", "We listen to songs."],
+    ["Trabajo y estudio.", "I work and study."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ español. (hablar)", "answers": ["hablo"], "hint": "I speak Spanish."},
+    {"type": "fill", "prompt": "Tú ___ mucho. (estudiar)", "answers": ["estudias"], "hint": "You study a lot."},
+    {"type": "fill", "prompt": "Mi madre ___ mucho. (trabajar)", "answers": ["trabaja"], "hint": "My mother works a lot."},
+    {"type": "fill", "prompt": "Nosotros ___ español. (estudiar)", "answers": ["estudiamos"], "hint": "We study Spanish."},
+    {"type": "fill", "prompt": "Ellos ___ música. (escuchar)", "answers": ["escuchan"], "hint": "They listen to music."},
+    {"type": "fill", "prompt": "Ustedes ___ la televisión. (mirar)", "answers": ["miran"], "hint": "You all watch television."},
+    {"type": "fill", "prompt": "Yo ___ un lápiz. (necesitar)", "answers": ["necesito"], "hint": "I need a pencil."},
+    {"type": "fill", "prompt": "Ella ___ un libro. (comprar)", "answers": ["compra"], "hint": "She buys a book."},
+    {"type": "fill", "prompt": "Nosotros ___ y cantamos. (bailar)", "answers": ["bailamos"], "hint": "We dance and sing."},
+    {"type": "fill", "prompt": "Mi padre ___ muy bien. (cocinar)", "answers": ["cocina"], "hint": "My father cooks very well."},
+    {"type": "mc", "prompt": "How do you say \"I don't speak French\"?", "options": ["No hablo francés.", "Hablo no francés.", "No hablas francés.", "Yo hablo francés no."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Hablamos* goes with…", "options": ["nosotros", "ellos", "yo", "usted"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Trabajan* can go with…", "options": ["ellos, ellas or ustedes", "only ellos", "yo", "tú"], "answer": 0},
+    {"type": "mc", "prompt": "*Hablo español* can mean…", "options": ["I speak / I'm speaking / I do speak Spanish", "only \"I'm speaking Spanish\"", "I spoke Spanish", "I will speak Spanish"], "answer": 0},
+    {"type": "mc", "prompt": "Which ending goes with *tú* in -ar verbs?", "options": ["-as", "-a", "-o", "-an"], "answer": 0},
+    {"type": "mc", "prompt": "How do you ask \"Do you speak English?\" (informal)", "options": ["¿Hablas inglés?", "¿Habla inglés tú?", "¿Hablo inglés?", "¿Hablan inglés?"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "I speak Spanish.", "answers": ["Hablo español.", "Yo hablo español."]},
+    {"type": "translate", "prompt": "We study Spanish.", "answers": ["Estudiamos español.", "Nosotros estudiamos español.", "Nosotras estudiamos español."]},
+    {"type": "translate", "prompt": "Do you work or study? (informal)", "answers": ["¿Trabajas o estudias?", "¿Tú trabajas o estudias?"]},
+    {"type": "translate", "prompt": "I need a pencil.", "answers": ["Necesito un lápiz.", "Yo necesito un lápiz."]},
+    {"type": "translate", "prompt": "They listen to music.", "answers": ["Escuchan música.", "Ellos escuchan música.", "Ellas escuchan música."]},
+    {"type": "build", "prompt": "Put the words in order: \"My father cooks very well.\"", "answer": "Mi padre cocina muy bien."},
+    {"type": "build", "prompt": "Put the words in order: \"No, I don't speak French.\"", "answer": "No, no hablo francés."},
+    {"type": "build", "prompt": "Put the words in order: \"I walk with my dog.\"", "answer": "Camino con mi perro."}
+  ]
+}

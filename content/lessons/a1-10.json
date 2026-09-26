@@ -1,0 +1,100 @@
+{
+  "sections": [
+    {
+      "heading": "Question words",
+      "body": "Every question word carries a written accent. Put it at the start, and in most questions the verb comes next, before the subject: *¿Dónde trabaja tu padre?*",
+      "table": {
+        "head": ["Spanish", "English", "Example"],
+        "rows": [
+          ["*¿qué?*", "what?", "*¿Qué estudias?*"],
+          ["*¿quién? / ¿quiénes?*", "who?", "*¿Quién es ella?*"],
+          ["*¿dónde?*", "where?", "*¿Dónde trabajas?*"],
+          ["*¿de dónde?*", "where from?", "*¿De dónde eres?*"],
+          ["*¿cuándo?*", "when?", "*¿Cuándo llegan?*"],
+          ["*¿cómo?*", "how? / what … like?", "*¿Cómo es tu casa?*"],
+          ["*¿cuánto? / ¿cuánta?*", "how much?", "*¿Cuánto necesitas?*"],
+          ["*¿cuántos? / ¿cuántas?*", "how many?", "*¿Cuántos hermanos tienes?*"],
+          ["*¿por qué?*", "why?", "*¿Por qué estudias español?*"],
+          ["*¿cuál? / ¿cuáles?*", "which? / what?", "*¿Cuál es tu nombre?*"]
+        ]
+      }
+    },
+    {
+      "heading": "Why? Because!",
+      "body": "*¿Por qué?* (two words, accent) asks \"why?\". The answer uses *porque* (one word, no accent): *¿Por qué estudias español? — Porque trabajo en México.*"
+    },
+    {
+      "heading": "Yes/no questions",
+      "body": "No helper verb is needed — the words stay the same, only the punctuation and your voice change: *Hablas español.* (statement) → *¿Hablas español?* (question). You can also add *¿no?* or *¿verdad?* at the end to check something you think is true: *Eres de Perú, ¿verdad?* (You're from Peru, right?)"
+    },
+    {
+      "heading": "Saying no",
+      "body": "Put *no* directly before the verb: *No trabajo los lunes.* When you answer a question with no, you usually say *no* twice — once as the answer, once in the sentence: *¿Hablas francés? — No, no hablo francés.*"
+    }
+  ],
+  "vocab": [
+    ["¿qué?", "what?"],
+    ["¿quién?", "who?"],
+    ["¿dónde?", "where?"],
+    ["¿cuándo?", "when?"],
+    ["¿cómo?", "how?"],
+    ["¿cuánto?", "how much?"],
+    ["¿cuántos?", "how many?"],
+    ["¿por qué?", "why?"],
+    ["porque", "because"],
+    ["¿cuál?", "which? / what?"],
+    ["¿verdad?", "right? / isn't it?"],
+    ["en", "in / at / on"],
+    ["con", "with"],
+    ["aquí", "here"]
+  ],
+  "examples": [
+    ["¿Qué estudias?", "What are you studying?"],
+    ["¿Quién es ella?", "Who is she?"],
+    ["¿Quiénes son ellos?", "Who are they?"],
+    ["¿Dónde trabajas?", "Where do you work?"],
+    ["Trabajo en un hospital.", "I work in a hospital."],
+    ["¿Cuándo llegan tus padres?", "When are your parents arriving?"],
+    ["¿Cómo es tu casa?", "What's your house like?"],
+    ["¿Cuánto necesitas?", "How much do you need?"],
+    ["¿Cuántas hermanas tienes?", "How many sisters do you have?"],
+    ["¿Por qué estudias español?", "Why are you studying Spanish?"],
+    ["Porque trabajo en México.", "Because I work in Mexico."],
+    ["¿Cuál es tu número de teléfono?", "What's your phone number?"],
+    ["Eres de Perú, ¿verdad?", "You're from Peru, right?"],
+    ["No trabajo aquí.", "I don't work here."],
+    ["¿Con quién estudias?", "Who do you study with?"],
+    ["¿Qué necesitas?", "What do you need?"],
+    ["¿Dónde trabaja tu padre?", "Where does your father work?"],
+    ["Estudio con mi amiga.", "I study with my friend."],
+    ["¿Hablas francés? No, no hablo francés.", "Do you speak French? No, I don't speak French."],
+    ["¿Qué escuchas?", "What are you listening to?"],
+    ["¿Cuál es tu nombre?", "What's your name?"]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "You want to know where someone works.", "options": ["¿Dónde trabajas?", "¿Cuándo trabajas?", "¿Quién trabaja?", "¿Por qué trabajas?"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "You want to know how many sisters someone has.", "options": ["¿Cuántas hermanas tienes?", "¿Cuántos hermanas tienes?", "¿Cuánto hermanas tienes?", "¿Qué hermanas tienes?"], "answer": 0, "lang": "es", "explain": "*Hermanas* is feminine plural, so *cuántas*."},
+    {"type": "mc", "prompt": "Which word means \"because\"?", "options": ["porque", "por qué", "¿por qué?", "porqué"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you ask \"What's your phone number?\"", "options": ["¿Cuál es tu número de teléfono?", "¿Qué es tu número de teléfono?", "¿Cómo es tu número?", "¿Dónde es tu número?"], "answer": 0, "lang": "es", "explain": "\"What is…?\" asking for a piece of information usually takes *¿Cuál es…?*"},
+    {"type": "mc", "prompt": "How do you say \"I don't work here\"?", "options": ["No trabajo aquí.", "Trabajo no aquí.", "Yo trabajo aquí no.", "No aquí trabajo."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What does *¿Cómo es tu casa?* ask?", "options": ["What's your house like?", "How is your house doing?", "Where is your house?", "Whose house is it?"], "answer": 0},
+    {"type": "mc", "prompt": "Add a tag to check a fact: *Eres de Perú, ___?*", "options": ["¿verdad?", "¿qué?", "¿cuál?", "¿dónde?"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "¿___ estudias? Estudio español.", "answers": ["qué"], "hint": "What are you studying? I study Spanish."},
+    {"type": "fill", "prompt": "¿___ es ella? Es mi hermana.", "answers": ["quién"], "hint": "Who is she? She's my sister."},
+    {"type": "fill", "prompt": "¿___ trabajas? En un hospital.", "answers": ["dónde"], "hint": "Where do you work? In a hospital."},
+    {"type": "fill", "prompt": "¿___ llegan tus padres? Mañana.", "answers": ["cuándo"], "hint": "When are your parents arriving? Tomorrow."},
+    {"type": "fill", "prompt": "¿Por qué estudias español? ___ trabajo en México.", "answers": ["porque"], "hint": "Why do you study Spanish? Because I work in Mexico."},
+    {"type": "fill", "prompt": "¿___ hermanos tienes? Dos.", "answers": ["cuántos"], "hint": "How many brothers and sisters do you have? Two."},
+    {"type": "fill", "prompt": "¿Con ___ estudias?", "answers": ["quién"], "hint": "Who do you study with?"},
+    {"type": "fill", "prompt": "¿Hablas francés? No, ___ hablo francés.", "answers": ["no"], "hint": "Do you speak French? No, I don't speak French."},
+    {"type": "translate", "prompt": "Where do you work? (informal)", "answers": ["¿Dónde trabajas?", "¿Dónde trabajas tú?"]},
+    {"type": "translate", "prompt": "Who is she?", "answers": ["¿Quién es ella?", "¿Quién es?"]},
+    {"type": "translate", "prompt": "Why are you studying Spanish? (informal)", "answers": ["¿Por qué estudias español?"]},
+    {"type": "translate", "prompt": "I don't work here.", "answers": ["No trabajo aquí.", "Yo no trabajo aquí."]},
+    {"type": "translate", "prompt": "What do you need? (informal)", "answers": ["¿Qué necesitas?"]},
+    {"type": "build", "prompt": "Put the words in order: \"Where does your father work?\"", "answer": "¿Dónde trabaja tu padre?"},
+    {"type": "build", "prompt": "Put the words in order: \"Because I work in Mexico.\"", "answer": "Porque trabajo en México."},
+    {"type": "build", "prompt": "Put the words in order: \"You're from Peru, right?\"", "answer": "Eres de Perú, ¿verdad?"},
+    {"type": "build", "prompt": "Put the words in order: \"I study with my friend.\"", "answer": "Estudio con mi amiga."}
+  ]
+}

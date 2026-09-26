@@ -1,0 +1,400 @@
+{
+  "sections": [
+    {
+      "heading": "Adjectives agree with nouns",
+      "body": "Adjectives change to match the gender and number of the noun they describe.\n\n- Adjectives ending in *-o* have four forms: *alto, alta, altos, altas* (tall).\n- Adjectives ending in *-e* or a consonant have two forms, singular and plural: *grande, grandes* (big); *difícil, difíciles* (difficult).\n- Nationality adjectives ending in a consonant add *-a*: *español, española*.",
+      "table": {
+        "head": [
+          "",
+          "Masculine",
+          "Feminine"
+        ],
+        "rows": [
+          [
+            "Singular",
+            "*el chico alto*",
+            "*la chica alta*"
+          ],
+          [
+            "Plural",
+            "*los chicos altos*",
+            "*las chicas altas*"
+          ],
+          [
+            "Singular",
+            "*el libro grande*",
+            "*la casa grande*"
+          ],
+          [
+            "Plural",
+            "*los libros grandes*",
+            "*las casas grandes*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Adjectives usually go after the noun",
+      "body": "In Spanish the adjective normally follows the noun: *una casa blanca* (a white house), *un libro interesante* (an interesting book). A few very common ones can go before, like *bueno* and *malo*, which shorten before a masculine singular noun: *un buen amigo*, *un mal día*. *Grande* before a noun becomes *gran* and means \"great\": *una gran ciudad*."
+    },
+    {
+      "heading": "Describing people with ser",
+      "body": "Use *ser* + adjective for what someone is like — appearance and personality: *Ana es alta y simpática.* To make an adjective stronger, put *muy* (very) before it: *Es muy inteligente.* For \"a bit\", use *un poco*, mostly with negative qualities: *Es un poco tímido.*\n\nTo ask what someone is like: *¿Cómo es?* — *¿Cómo es tu profesora?* (What's your teacher like?)"
+    }
+  ],
+  "vocab": [
+    [
+      "alto / alta",
+      "tall"
+    ],
+    [
+      "bajo / baja",
+      "short (height)"
+    ],
+    [
+      "grande",
+      "big"
+    ],
+    [
+      "pequeño / pequeña",
+      "small"
+    ],
+    [
+      "bonito / bonita",
+      "pretty / nice"
+    ],
+    [
+      "feo / fea",
+      "ugly"
+    ],
+    [
+      "simpático / simpática",
+      "nice / friendly"
+    ],
+    [
+      "antipático / antipática",
+      "unfriendly"
+    ],
+    [
+      "inteligente",
+      "intelligent"
+    ],
+    [
+      "interesante",
+      "interesting"
+    ],
+    [
+      "aburrido / aburrida",
+      "boring"
+    ],
+    [
+      "joven",
+      "young"
+    ],
+    [
+      "viejo / vieja",
+      "old"
+    ],
+    [
+      "bueno / buena",
+      "good"
+    ],
+    [
+      "malo / mala",
+      "bad"
+    ],
+    [
+      "fácil",
+      "easy"
+    ],
+    [
+      "difícil",
+      "difficult"
+    ],
+    [
+      "el chico / la chica",
+      "the boy / the girl"
+    ],
+    [
+      "muy",
+      "very"
+    ],
+    [
+      "¿Cómo es?",
+      "What is he/she/it like?"
+    ]
+  ],
+  "examples": [
+    [
+      "Ana es alta y simpática.",
+      "Ana is tall and nice."
+    ],
+    [
+      "Los chicos son altos.",
+      "The boys are tall."
+    ],
+    [
+      "Las chicas son inteligentes.",
+      "The girls are intelligent."
+    ],
+    [
+      "Es una ciudad muy bonita.",
+      "It's a very pretty city."
+    ],
+    [
+      "El libro es interesante.",
+      "The book is interesting."
+    ],
+    [
+      "La película es aburrida.",
+      "The movie is boring."
+    ],
+    [
+      "Mi profesor es joven y muy bueno.",
+      "My teacher is young and very good."
+    ],
+    [
+      "¿Cómo es tu hermano?",
+      "What's your brother like?"
+    ],
+    [
+      "Es un poco tímido.",
+      "He's a bit shy."
+    ],
+    [
+      "Es un buen amigo.",
+      "He's a good friend."
+    ],
+    [
+      "Es un mal día.",
+      "It's a bad day."
+    ],
+    [
+      "México es un gran país.",
+      "Mexico is a great country."
+    ],
+    [
+      "Las casas son pequeñas.",
+      "The houses are small."
+    ],
+    [
+      "El español no es difícil. Es fácil.",
+      "Spanish isn't difficult. It's easy."
+    ],
+    [
+      "Los perros son buenos.",
+      "The dogs are good."
+    ],
+    [
+      "Una casa blanca.",
+      "A white house."
+    ],
+    [
+      "La chica es simpática y el chico es antipático.",
+      "The girl is nice and the boy is unfriendly."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "La chica es ___ (alto).",
+      "answers": [
+        "alta"
+      ],
+      "hint": "The girl is tall."
+    },
+    {
+      "type": "fill",
+      "prompt": "Los chicos son ___ (alto).",
+      "answers": [
+        "altos"
+      ],
+      "hint": "The boys are tall."
+    },
+    {
+      "type": "fill",
+      "prompt": "Las casas son ___ (pequeño).",
+      "answers": [
+        "pequeñas"
+      ],
+      "hint": "The houses are small."
+    },
+    {
+      "type": "fill",
+      "prompt": "Las chicas son ___ (inteligente).",
+      "answers": [
+        "inteligentes"
+      ],
+      "hint": "The girls are intelligent."
+    },
+    {
+      "type": "fill",
+      "prompt": "La película es ___ (aburrido).",
+      "answers": [
+        "aburrida"
+      ],
+      "hint": "The movie is boring."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es una ciudad muy ___ (bonito).",
+      "answers": [
+        "bonita"
+      ],
+      "hint": "It's a very pretty city."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es un ___ amigo (bueno).",
+      "answers": [
+        "buen"
+      ],
+      "hint": "He's a good friend."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es un ___ día (malo).",
+      "answers": [
+        "mal"
+      ],
+      "hint": "It's a bad day."
+    },
+    {
+      "type": "fill",
+      "prompt": "México es un ___ país (grande).",
+      "answers": [
+        "gran"
+      ],
+      "hint": "Mexico is a great country."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"a white house\"?",
+      "options": [
+        "una casa blanca",
+        "una blanca casa",
+        "una casa blanco"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"The dogs are good\"?",
+      "options": [
+        "Los perros son buenos.",
+        "Los perros son bueno.",
+        "Los perros es buenos."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "How many forms does *grande* have?",
+      "options": [
+        "two: grande, grandes",
+        "four: grande, granda, grandes, grandas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "What does *¿Cómo es tu hermano?* ask?",
+      "options": [
+        "What is your brother like?",
+        "How is your brother feeling?",
+        "Where is your brother?",
+        "How old is your brother?"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "The opposite of *simpático* is…",
+      "options": [
+        "antipático",
+        "aburrido",
+        "pequeño",
+        "joven"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The opposite of *fácil* is…",
+      "options": [
+        "difícil",
+        "feo",
+        "bajo",
+        "malo"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The opposite of *joven* is…",
+      "options": [
+        "viejo",
+        "alto",
+        "bonito",
+        "bueno"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "Ana is tall and nice.",
+      "answers": [
+        "Ana es alta y simpática."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The book is very interesting.",
+      "answers": [
+        "El libro es muy interesante."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The houses are small.",
+      "answers": [
+        "Las casas son pequeñas."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Spanish is easy.",
+      "answers": [
+        "El español es fácil."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He's a good friend.",
+      "answers": [
+        "Es un buen amigo.",
+        "Él es un buen amigo."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's a very pretty city.\"",
+      "answer": "Es una ciudad muy bonita."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"My teacher is young and very good.\"",
+      "answer": "Mi profesor es joven y muy bueno."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"What's your brother like?\"",
+      "answer": "¿Cómo es tu hermano?"
+    }
+  ]
+}
