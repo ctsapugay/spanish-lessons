@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-09-26
-**Now:** Writing A1 lesson content. Done: a1-01. App, build, and all three check scripts exist and work.
-**Next:** a1-02 … a1-30 (content/lessons/<id>.json, format in content/README.md), then the A1 accuracy review (curriculum/reviews/A1.md), then A2.
-**Watch:** Rebuild (python3 scripts/build.py) after every content edit or CHK-002 fails on staleness. CHK-003 cumulative/level-test checks need 4+ lessons / a complete level.
+**Now:** A1 complete (30 lessons, content check green, review recorded in curriculum/reviews/A1.md). Starting A2.
+**Next:** Write a2-01 … a2-32 (outline in content/course.json), then the A2 review, then B1.
+**Watch:** Two-speaker examples use the dialogue dash (—). Keep prompts unique per lesson. Put English only in hints. Rebuild after edits.

@@ -12,11 +12,13 @@ Covers G2, C-NO-FORWARD-REFERENCES and C-ANSWERABLE. For every lesson in the out
                  and an answer index inside them; fill-in prompts contain a blank and have a
                  non-empty answer list with no duplicates; translations have answers; word
                  builders have at least two words; no two items in a lesson share a prompt.
-  in order       every Spanish word an exercise requires (fill-in prompts and answers,
-                 translation answers, word-builder answers, the correct option of a Spanish
-                 multiple-choice item) appears in the vocabulary, examples, or *italicised*
-                 Spanish (in text or tables) of this lesson or an earlier one. Proper nouns
-                 (capitalised mid-sentence) and numbers are exempt.
+  in order       every Spanish word an exercise requires appears in the vocabulary, examples, or *italicised*
+                 Spanish (in text or tables) of this lesson or an earlier one. Required means:
+                 all of a fill-in prompt, a word-builder answer and the correct option of a
+                 Spanish multiple-choice item; and for fill-in and translation answers, at
+                 least one accepted answer (extra accepted variants may go beyond what was
+                 taught — accepting them never requires them). Proper nouns (capitalised
+                 mid-sentence) and numbers are exempt.
 
     python3 checks/scripts/check_content.py            # whole course
     python3 checks/scripts/check_content.py a1-05      # one lesson (still uses earlier lessons)
@@ -126,7 +128,8 @@ for level, meta in ordered_lessons(course):
             continue
         if not prompt.strip():
             e(f"{where}: empty prompt")
-        spanish: list[str] = []
+        spanish: list[str] = []      # every word here must be taught
+        alternatives: list[str] = []  # accepted answers: at least one must be fully taught
         if t == "mc":
             opts = it.get("options", [])
             a = it.get("answer")
@@ -146,21 +149,26 @@ for level, meta in ordered_lessons(course):
                 e(f"{where}: no answers")
             if len({normalise(x) for x in ans}) != len(ans):
                 e(f"{where}: duplicate answers")
-            spanish += [prompt] + list(ans)
+            spanish.append(prompt)
+            alternatives += list(ans)
         elif t == "translate":
             ans = it.get("answers", [])
             if not ans or any(not str(x).strip() for x in ans):
                 e(f"{where}: no answers")
             if len({normalise(x) for x in ans}) != len(ans):
                 e(f"{where}: duplicate answers")
-            spanish += list(ans)
+            alternatives += list(ans)
         elif t == "build":
             ans = it.get("answer", "")
             if len(ans.split()) < 2:
                 e(f"{where}: word builder needs at least two words")
             spanish.append(ans)
-        unknown = sorted({normalise(w) for s in spanish for w in required_words(s)
-                          if not w.isdigit() and normalise(w) not in known})
+        def untaught(texts):
+            return sorted({normalise(w) for s in texts for w in required_words(s)
+                           if not w.isdigit() and normalise(w) not in known})
+        unknown = untaught(spanish)
+        if alternatives and all(untaught([a]) for a in alternatives):
+            unknown = sorted(set(unknown) | set(untaught(alternatives[:1])))
         if unknown:
             e(f"{where}: uses words not yet taught: {', '.join(unknown)}  [{prompt[:50]}]")
 

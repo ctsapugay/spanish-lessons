@@ -1,0 +1,377 @@
+{
+  "sections": [
+    {
+      "heading": "How often?",
+      "body": "From most to least often: *siempre* (always), *casi siempre* (almost always), *normalmente / generalmente* (usually), *a menudo / con frecuencia* (often), *a veces* (sometimes), *casi nunca* (hardly ever), *nunca* (never).\n\nAlso: *todos los días* (every day), *todas las semanas* (every week), *una vez a la semana* (once a week), *dos veces al mes* (twice a month).\n\n*Nunca* can go before the verb (*Nunca como carne*) or after it with *no* before the verb (*No como carne nunca*) — Spanish happily uses double negatives. To ask: *¿Con qué frecuencia…?* (How often…?)"
+    },
+    {
+      "heading": "Joining ideas",
+      "body": "- *y* (and): *Estudio y trabajo.* Before a word starting with an *i* sound it becomes *e*: *padres e hijos*.\n- *o* (or): *¿Café o té?* Before an *o* sound it becomes *u*: *siete u ocho*.\n- *pero* (but): *Me gusta, pero es caro.*\n- *porque* (because): *Estudio español porque me gusta.*\n- *cuando* (when): *Cuando llueve, leo.*\n- *también / tampoco* (also / neither), which you know from *gustar*."
+    },
+    {
+      "heading": "Before and after",
+      "body": "*Antes de* (before) and *después de* (after) are followed by an infinitive in Spanish, where English uses \"-ing\": *Antes de comer, me lavo las manos.* (Before eating, I wash my hands.) *Después de trabajar, voy al gimnasio.* (After working, I go to the gym.) They can also take a noun: *después de la clase*."
+    }
+  ],
+  "vocab": [
+    [
+      "siempre",
+      "always"
+    ],
+    [
+      "casi siempre",
+      "almost always"
+    ],
+    [
+      "normalmente",
+      "usually"
+    ],
+    [
+      "a menudo",
+      "often"
+    ],
+    [
+      "a veces",
+      "sometimes"
+    ],
+    [
+      "casi nunca",
+      "hardly ever"
+    ],
+    [
+      "nunca",
+      "never"
+    ],
+    [
+      "una vez",
+      "once"
+    ],
+    [
+      "dos veces",
+      "twice"
+    ],
+    [
+      "¿Con qué frecuencia?",
+      "How often?"
+    ],
+    [
+      "pero",
+      "but"
+    ],
+    [
+      "o",
+      "or"
+    ],
+    [
+      "cuando",
+      "when"
+    ],
+    [
+      "antes de",
+      "before"
+    ],
+    [
+      "después de",
+      "after"
+    ],
+    [
+      "el gimnasio",
+      "the gym"
+    ],
+    [
+      "el té",
+      "tea"
+    ]
+  ],
+  "examples": [
+    [
+      "Siempre desayuno café.",
+      "I always have coffee for breakfast."
+    ],
+    [
+      "A veces como en un restaurante.",
+      "Sometimes I eat at a restaurant."
+    ],
+    [
+      "Nunca como carne.",
+      "I never eat meat."
+    ],
+    [
+      "No como carne nunca.",
+      "I never eat meat."
+    ],
+    [
+      "Casi nunca veo la televisión.",
+      "I hardly ever watch TV."
+    ],
+    [
+      "Voy al gimnasio dos veces a la semana.",
+      "I go to the gym twice a week."
+    ],
+    [
+      "¿Con qué frecuencia llamas a tus padres?",
+      "How often do you call your parents?"
+    ],
+    [
+      "Los llamo una vez a la semana.",
+      "I call them once a week."
+    ],
+    [
+      "Estudio y trabajo.",
+      "I study and work."
+    ],
+    [
+      "¿Café o té?",
+      "Coffee or tea?"
+    ],
+    [
+      "Me gusta, pero es caro.",
+      "I like it, but it's expensive."
+    ],
+    [
+      "Estudio español porque me gusta.",
+      "I study Spanish because I like it."
+    ],
+    [
+      "Cuando llueve, leo.",
+      "When it rains, I read."
+    ],
+    [
+      "Antes de comer, me lavo las manos.",
+      "Before eating, I wash my hands."
+    ],
+    [
+      "Después de trabajar, voy al gimnasio.",
+      "After work, I go to the gym."
+    ],
+    [
+      "Padres e hijos.",
+      "Parents and children."
+    ],
+    [
+      "Siete u ocho.",
+      "Seven or eight."
+    ],
+    [
+      "Normalmente me levanto a las siete.",
+      "I usually get up at seven."
+    ],
+    [
+      "Mi madre cocina a menudo.",
+      "My mother often cooks."
+    ],
+    [
+      "Casi siempre llego tarde.",
+      "I almost always arrive late."
+    ],
+    [
+      "Después de la clase, vamos al parque.",
+      "After class, we go to the park."
+    ],
+    [
+      "Llamo a mi abuela todas las semanas.",
+      "I call my grandmother every week."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Put in order from most to least often:",
+      "options": [
+        "siempre → a veces → nunca",
+        "nunca → siempre → a veces",
+        "a veces → siempre → nunca"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct?",
+      "options": [
+        "No como carne nunca.",
+        "No como carne siempre nunca.",
+        "Como carne no nunca."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: padres ___ hijos",
+      "options": [
+        "e",
+        "y",
+        "u",
+        "o"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*Y* becomes *e* before a word starting with an i sound."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: siete ___ ocho",
+      "options": [
+        "u",
+        "o",
+        "y",
+        "e"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*O* becomes *u* before a word starting with an o sound."
+    },
+    {
+      "type": "mc",
+      "prompt": "How do you say \"before eating\"?",
+      "options": [
+        "antes de comer",
+        "antes de comiendo",
+        "antes comer",
+        "antes que comiendo"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*¿Con qué frecuencia…?* asks…",
+      "options": [
+        "How often…?",
+        "How much…?",
+        "With whom…?",
+        "Since when…?"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Casi nunca* means…",
+      "options": [
+        "hardly ever",
+        "almost always",
+        "never again",
+        "sometimes"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "___ desayuno café.",
+      "answers": [
+        "siempre"
+      ],
+      "hint": "I always have coffee for breakfast."
+    },
+    {
+      "type": "fill",
+      "prompt": "A ___ como en un restaurante.",
+      "answers": [
+        "veces"
+      ],
+      "hint": "Sometimes I eat at a restaurant."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ como carne.",
+      "answers": [
+        "nunca"
+      ],
+      "hint": "I never eat meat."
+    },
+    {
+      "type": "fill",
+      "prompt": "Voy al gimnasio dos ___ a la semana.",
+      "answers": [
+        "veces"
+      ],
+      "hint": "I go to the gym twice a week."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me gusta, ___ es caro.",
+      "answers": [
+        "pero"
+      ],
+      "hint": "I like it, but it's expensive."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ llueve, leo.",
+      "answers": [
+        "cuando"
+      ],
+      "hint": "When it rains, I read."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ de comer, me lavo las manos.",
+      "answers": [
+        "antes"
+      ],
+      "hint": "Before eating, I wash my hands."
+    },
+    {
+      "type": "fill",
+      "prompt": "Después de ___, voy al gimnasio. (trabajar)",
+      "answers": [
+        "trabajar"
+      ],
+      "hint": "After working, I go to the gym."
+    },
+    {
+      "type": "translate",
+      "prompt": "I never eat meat.",
+      "answers": [
+        "Nunca como carne.",
+        "No como carne nunca.",
+        "Yo nunca como carne."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Coffee or tea?",
+      "answers": [
+        "¿Café o té?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Sometimes I eat at a restaurant.",
+      "answers": [
+        "A veces como en un restaurante.",
+        "Como en un restaurante a veces."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I study Spanish because I like it.",
+      "answers": [
+        "Estudio español porque me gusta."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "When it rains, I read.",
+      "answers": [
+        "Cuando llueve, leo.",
+        "Leo cuando llueve."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"After class, we go to the park.\"",
+      "answer": "Después de la clase, vamos al parque."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I usually get up at seven.\"",
+      "answer": "Normalmente me levanto a las siete."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"How often do you call your parents?\"",
+      "answer": "¿Con qué frecuencia llamas a tus padres?"
+    }
+  ]
+}

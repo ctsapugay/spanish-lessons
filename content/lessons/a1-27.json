@@ -1,0 +1,84 @@
+{
+  "sections": [
+    {
+      "heading": "Estar + gerund: happening right now",
+      "body": "To stress that something is in progress at this moment, use *estar* + the gerund (the \"-ing\" form): *Estoy estudiando* (I'm studying right now).\n\nForming the gerund:\n\n- *-ar* verbs: *-ando* — *hablar → hablando*, *trabajar → trabajando*\n- *-er / -ir* verbs: *-iendo* — *comer → comiendo*, *vivir → viviendo*\n- When the stem ends in a vowel, *-iendo* becomes *-yendo*: *leer → leyendo*, *traer → trayendo*, *ir → yendo*\n- *-ir* stem-changing verbs change e → i and o → u: *pedir → pidiendo*, *decir → diciendo*, *dormir → durmiendo*, *servir → sirviendo*"
+    },
+    {
+      "heading": "When to use it",
+      "body": "Spanish uses the progressive less than English. The simple present already covers \"I'm doing\": *¿Qué haces?* often means \"What are you doing?\". Use *estar* + gerund to emphasise that the action is happening **right now** or is temporary: *No puedo hablar, estoy trabajando.* (I can't talk, I'm working.) *Estamos viviendo con mis padres* (for now).\n\nDon't use it for the future — English \"I'm leaving tomorrow\" is *Salgo mañana* or *Voy a salir mañana*, never *Estoy saliendo mañana*."
+    },
+    {
+      "heading": "Pronouns with the gerund",
+      "body": "Object and reflexive pronouns go before *estar* or attach to the gerund (then add an accent to keep the stress): *Me estoy duchando* = *Estoy duchándome*. *Lo estoy leyendo* = *Estoy leyéndolo*."
+    }
+  ],
+  "vocab": [
+    ["estar + gerundio", "to be doing (right now)"],
+    ["hablando", "speaking"],
+    ["comiendo", "eating"],
+    ["viviendo", "living"],
+    ["leyendo", "reading"],
+    ["durmiendo", "sleeping"],
+    ["pidiendo", "asking for / ordering"],
+    ["diciendo", "saying"],
+    ["jugando", "playing"],
+    ["esperando", "waiting"],
+    ["ahora", "now"],
+    ["ahora mismo", "right now"],
+    ["en este momento", "at this moment"],
+    ["llover / lloviendo", "to rain / raining"]
+  ],
+  "examples": [
+    ["Estoy estudiando.", "I'm studying (right now)."],
+    ["¿Qué estás haciendo?", "What are you doing (right now)?"],
+    ["Estoy cocinando la cena.", "I'm cooking dinner."],
+    ["No puedo hablar, estoy trabajando.", "I can't talk, I'm working."],
+    ["Los niños están durmiendo.", "The children are sleeping."],
+    ["Mi padre está leyendo el periódico.", "My father is reading the newspaper."],
+    ["Estamos comiendo.", "We're eating."],
+    ["Está lloviendo.", "It's raining."],
+    ["¿Qué estás diciendo?", "What are you saying?"],
+    ["Ella está pidiendo la cuenta.", "She's asking for the check."],
+    ["Estamos viviendo con mis padres.", "We're living with my parents (for now)."],
+    ["Me estoy duchando.", "I'm taking a shower."],
+    ["Estoy duchándome.", "I'm taking a shower."],
+    ["Ahora mismo están jugando al fútbol.", "Right now they're playing soccer."],
+    ["Te estoy esperando.", "I'm waiting for you."],
+    ["En este momento estoy escuchando música.", "At this moment I'm listening to music."],
+    ["¿Estás bebiendo agua?", "Are you drinking water?"],
+    ["Estoy escribiendo un correo.", "I'm writing an email."],
+    ["Lo estoy leyendo.", "I'm reading it."],
+    ["Estás hablando muy bien.", "You're speaking very well."],
+    ["Ellos están bailando.", "They're dancing."],
+    ["Estoy aprendiendo mucho.", "I'm learning a lot."],
+    ["Estamos viendo una película.", "We're watching a movie."],
+    ["¿Estás trayendo el pan?", "Are you bringing the bread?"]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Estoy ___ . (estudiar)", "answers": ["estudiando"], "hint": "I'm studying."},
+    {"type": "fill", "prompt": "Estamos ___ . (comer)", "answers": ["comiendo"], "hint": "We're eating."},
+    {"type": "fill", "prompt": "Mi padre está ___ el periódico. (leer)", "answers": ["leyendo"], "hint": "My father is reading the newspaper."},
+    {"type": "fill", "prompt": "Los niños están ___ . (dormir)", "answers": ["durmiendo"], "hint": "The children are sleeping."},
+    {"type": "fill", "prompt": "¿Qué estás ___ ? (decir)", "answers": ["diciendo"], "hint": "What are you saying?"},
+    {"type": "fill", "prompt": "Ella está ___ la cuenta. (pedir)", "answers": ["pidiendo"], "hint": "She's asking for the check."},
+    {"type": "fill", "prompt": "Estoy ___ un correo. (escribir)", "answers": ["escribiendo"], "hint": "I'm writing an email."},
+    {"type": "fill", "prompt": "Ellos ___ bailando. (estar)", "answers": ["están"], "hint": "They're dancing."},
+    {"type": "fill", "prompt": "Está ___ . (llover)", "answers": ["lloviendo"], "hint": "It's raining."},
+    {"type": "fill", "prompt": "¿Qué ___ haciendo? (estar, tú)", "answers": ["estás"], "hint": "What are you doing?"},
+    {"type": "mc", "prompt": "What is the gerund of *leer*?", "options": ["leyendo", "leiendo", "leendo", "leando"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What is the gerund of *dormir*?", "options": ["durmiendo", "dormiendo", "duermiendo", "dormando"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What is the gerund of *trabajar*?", "options": ["trabajando", "trabajiendo", "trabajendo", "trabajo"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"I'm leaving tomorrow\" in Spanish is…", "options": ["Salgo mañana.", "Estoy saliendo mañana.", "Estoy salir mañana."], "answer": 0, "lang": "es", "explain": "Spanish doesn't use the progressive for future plans."},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Estoy duchándome.", "Estoy me duchando.", "Estoy duchandome me."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Ahora mismo* means…", "options": ["right now", "later", "the same", "always"], "answer": 0},
+    {"type": "translate", "prompt": "I'm studying.", "answers": ["Estoy estudiando.", "Yo estoy estudiando.", "Estudio."]},
+    {"type": "translate", "prompt": "It's raining.", "answers": ["Está lloviendo.", "Llueve."]},
+    {"type": "translate", "prompt": "What are you doing? (informal)", "answers": ["¿Qué estás haciendo?", "¿Qué haces?"]},
+    {"type": "translate", "prompt": "The children are sleeping.", "answers": ["Los niños están durmiendo."]},
+    {"type": "translate", "prompt": "I'm waiting for you. (informal)", "answers": ["Te estoy esperando.", "Estoy esperándote."]},
+    {"type": "build", "prompt": "Put the words in order: \"I can't talk, I'm working.\"", "answer": "No puedo hablar, estoy trabajando."},
+    {"type": "build", "prompt": "Put the words in order: \"Right now they're playing soccer.\"", "answer": "Ahora mismo están jugando al fútbol."},
+    {"type": "build", "prompt": "Put the words in order: \"My father is reading the newspaper.\"", "answer": "Mi padre está leyendo el periódico."}
+  ]
+}

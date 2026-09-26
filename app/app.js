@@ -105,7 +105,7 @@
     // **bold**, *Spanish* (rendered emphasised and speakable)
     return esc(text)
       .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
-      .replace(/\*([^*]+)\*/g, '<em class="say" data-say="$1">$1</em>');
+      .replace(/\*([^*]+)\*/g, (m, s) => `<em class="say" data-say="${s.replace(/<[^>]*>/g, "")}">${s}</em>`);
   }
   function paragraphs(text) {
     const blocks = String(text).split(/\n\s*\n/);
@@ -179,7 +179,7 @@
     return String(s)
       .normalize("NFC")
       .toLowerCase()
-      .replace(/[¿¡?!.,;:"“”«»()]/g, " ")
+      .replace(/[¿¡?!.,;:"“”«»()—–]/g, " ")
       .replace(/’/g, "'")
       .replace(/\s+/g, " ")
       .trim();
@@ -711,6 +711,7 @@
   // ------------------------------------------------------------------ router
   function route() {
     if ("speechSynthesis" in window) speechSynthesis.cancel();
+    state = loadState(); // progress may have changed in another tab (every change is saved at once)
     const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
     const [a, b, c] = parts;
     document.querySelectorAll("[data-nav]").forEach((n) => n.classList.remove("active"));

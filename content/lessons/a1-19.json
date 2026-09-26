@@ -4,13 +4,37 @@
       "heading": "Gustar works backwards",
       "body": "To say you like something, Spanish says \"it is pleasing to me\": *Me gusta el café* (literally: coffee pleases me). The thing you like is the subject, so the verb agrees with **it**, not with you:\n\n- One thing or an activity (infinitive): *gusta* — *Me gusta la música. Me gusta bailar.*\n- Several things: *gustan* — *Me gustan los perros.*\n\nThe person who likes is shown by a pronoun before the verb.",
       "table": {
-        "head": ["Who likes", "Pronoun", "Example"],
+        "head": [
+          "Who likes",
+          "Pronoun",
+          "Example"
+        ],
         "rows": [
-          ["I", "*me*", "*Me gusta el chocolate.*"],
-          ["you (tú)", "*te*", "*¿Te gustan las películas?*"],
-          ["he / she / you (usted)", "*le*", "*Le gusta cocinar.*"],
-          ["we", "*nos*", "*Nos gusta viajar.*"],
-          ["you all / they", "*les*", "*Les gustan los gatos.*"]
+          [
+            "I",
+            "*me*",
+            "*Me gusta el chocolate.*"
+          ],
+          [
+            "you (tú)",
+            "*te*",
+            "*¿Te gustan las películas?*"
+          ],
+          [
+            "he / she / you (usted)",
+            "*le*",
+            "*Le gusta cocinar.*"
+          ],
+          [
+            "we",
+            "*nos*",
+            "*Nos gusta viajar.*"
+          ],
+          [
+            "you all / they",
+            "*les*",
+            "*Les gustan los gatos.*"
+          ]
         ]
       }
     },
@@ -20,76 +44,379 @@
     },
     {
       "heading": "Me too, me neither",
-      "body": "Agreeing with someone uses *también* (too) and *tampoco* (neither):\n\n- *Me gusta el cine.* — *A mí también.* (Me too.)\n- *No me gusta el frío.* — *A mí tampoco.* (Me neither.)\n\nDisagreeing flips them: *Me gusta el cine.* — *A mí no.* (I don't.) *No me gusta el frío.* — *A mí sí.* (I do.)"
+      "body": "Agreeing with someone uses *también* (too) and *tampoco* (neither):\n\n- *Me gusta el cine.* — *A mí también.* (Me too.)\n- *No me gusta el frío.* — *A mí tampoco.* (Me neither.)\n\nDisagreeing flips them: *Me gusta el cine.* — *A mí no.* (I don't.) *No me gusta el frío.* — *A mí sí.* (I do.)\n\nIn written dialogue Spanish marks each new speaker with a long dash (*—*) instead of quotation marks, as in the examples below."
     }
   ],
   "vocab": [
-    ["gustar", "to be pleasing (to like)"],
-    ["me gusta", "I like (one thing)"],
-    ["me gustan", "I like (several things)"],
-    ["encantar", "to love (things, activities)"],
-    ["también", "also / too"],
-    ["tampoco", "neither / not either"],
-    ["a mí", "to me (emphatic)"],
-    ["a ti", "to you (emphatic)"],
-    ["el chocolate", "chocolate"],
-    ["el helado", "ice cream"],
-    ["el cine", "the movies / cinema"],
-    ["viajar", "to travel"],
-    ["el deporte", "sport"],
-    ["el té", "tea"],
-    ["el frío", "the cold"],
-    ["el calor", "the heat"],
-    ["la playa", "the beach"],
-    ["el animal", "the animal"]
+    [
+      "gustar",
+      "to be pleasing (to like)"
+    ],
+    [
+      "me gusta",
+      "I like (one thing)"
+    ],
+    [
+      "me gustan",
+      "I like (several things)"
+    ],
+    [
+      "encantar",
+      "to love (things, activities)"
+    ],
+    [
+      "también",
+      "also / too"
+    ],
+    [
+      "tampoco",
+      "neither / not either"
+    ],
+    [
+      "a mí",
+      "to me (emphatic)"
+    ],
+    [
+      "a ti",
+      "to you (emphatic)"
+    ],
+    [
+      "el chocolate",
+      "chocolate"
+    ],
+    [
+      "el helado",
+      "ice cream"
+    ],
+    [
+      "el cine",
+      "the movies / cinema"
+    ],
+    [
+      "viajar",
+      "to travel"
+    ],
+    [
+      "el deporte",
+      "sport"
+    ],
+    [
+      "el té",
+      "tea"
+    ],
+    [
+      "el frío",
+      "the cold"
+    ],
+    [
+      "el calor",
+      "the heat"
+    ],
+    [
+      "la playa",
+      "the beach"
+    ],
+    [
+      "el animal",
+      "the animal"
+    ]
   ],
   "examples": [
-    ["Me gusta el café.", "I like coffee."],
-    ["Me gustan los perros.", "I like dogs."],
-    ["¿Te gusta bailar?", "Do you like to dance?"],
-    ["¿Te gustan las películas de terror?", "Do you like horror movies?"],
-    ["A María le gusta el té.", "María likes tea."],
-    ["A mis padres les gusta caminar.", "My parents like to walk."],
-    ["Nos gusta viajar.", "We like to travel."],
-    ["No me gusta el frío.", "I don't like the cold."],
-    ["A mí tampoco.", "Me neither."],
-    ["Me gusta el cine. A mí también.", "I like the movies. Me too."],
-    ["Me encanta el helado.", "I love ice cream."],
-    ["Me encantan los animales.", "I love animals."],
-    ["A mí me gusta, pero a ti no.", "I like it, but you don't."],
-    ["Le gusta mucho cocinar.", "He really likes to cook."],
-    ["Les gustan los deportes.", "They like sports."],
-    ["¿Qué te gusta hacer?", "What do you like to do?"],
-    ["Me gusta la playa. A mí no.", "I like the beach. I don't."],
-    ["No me gusta el calor. A mí sí.", "I don't like the heat. I do."],
-    ["Nos encanta la música.", "We love music."],
-    ["Me gusta el chocolate.", "I like chocolate."],
-    ["¿Le gustan los gatos?", "Do you (formal) like cats?"],
-    ["A ti te gusta el té.", "You like tea."]
+    [
+      "Me gusta el café.",
+      "I like coffee."
+    ],
+    [
+      "Me gustan los perros.",
+      "I like dogs."
+    ],
+    [
+      "¿Te gusta bailar?",
+      "Do you like to dance?"
+    ],
+    [
+      "¿Te gustan las películas de terror?",
+      "Do you like horror movies?"
+    ],
+    [
+      "A María le gusta el té.",
+      "María likes tea."
+    ],
+    [
+      "A mis padres les gusta caminar.",
+      "My parents like to walk."
+    ],
+    [
+      "Nos gusta viajar.",
+      "We like to travel."
+    ],
+    [
+      "No me gusta el frío.",
+      "I don't like the cold."
+    ],
+    [
+      "A mí tampoco.",
+      "Me neither."
+    ],
+    [
+      "—Me gusta el cine. —A mí también.",
+      "I like the movies. Me too."
+    ],
+    [
+      "Me encanta el helado.",
+      "I love ice cream."
+    ],
+    [
+      "Me encantan los animales.",
+      "I love animals."
+    ],
+    [
+      "A mí me gusta, pero a ti no.",
+      "I like it, but you don't."
+    ],
+    [
+      "Le gusta mucho cocinar.",
+      "He really likes to cook."
+    ],
+    [
+      "Les gustan los deportes.",
+      "They like sports."
+    ],
+    [
+      "¿Qué te gusta hacer?",
+      "What do you like to do?"
+    ],
+    [
+      "—Me gusta la playa. —A mí no.",
+      "I like the beach. I don't."
+    ],
+    [
+      "—No me gusta el calor. —A mí sí.",
+      "I don't like the heat. I do."
+    ],
+    [
+      "Nos encanta la música.",
+      "We love music."
+    ],
+    [
+      "Me gusta el chocolate.",
+      "I like chocolate."
+    ],
+    [
+      "¿Le gustan los gatos?",
+      "Do you (formal) like cats?"
+    ],
+    [
+      "A ti te gusta el té.",
+      "You like tea."
+    ]
   ],
   "exercises": [
-    {"type": "mc", "prompt": "Choose: Me ___ los perros.", "options": ["gustan", "gusta", "gusto"], "answer": 0, "lang": "es", "explain": "*Los perros* is plural → *gustan*."},
-    {"type": "mc", "prompt": "Choose: Me ___ bailar.", "options": ["gusta", "gustan", "gusto"], "answer": 0, "lang": "es", "explain": "An activity (infinitive) → *gusta*."},
-    {"type": "mc", "prompt": "Choose: ¿___ gusta el café? (to a friend)", "options": ["Te", "Le", "Me", "Tú"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: A mis padres ___ gusta caminar.", "options": ["les", "le", "los", "se"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Your friend says *No me gusta el frío.* You don't like it either. You say…", "options": ["A mí tampoco.", "A mí también.", "A mí sí.", "Yo no gusto."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Your friend says *Me gusta el cine.* You like it too. You say…", "options": ["A mí también.", "A mí tampoco.", "Yo también gusto.", "Me también."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Your friend says *No me gusta el calor.* But you like it. You say…", "options": ["A mí sí.", "A mí no.", "A mí tampoco.", "Yo sí gusto."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "*Me encanta el helado* means…", "options": ["I love ice cream.", "I like ice cream a little.", "I want ice cream.", "Ice cream loves me."], "answer": 0},
-    {"type": "fill", "prompt": "Me ___ el café. (gustar)", "answers": ["gusta"], "hint": "I like coffee."},
-    {"type": "fill", "prompt": "Me ___ los animales. (encantar)", "answers": ["encantan"], "hint": "I love animals."},
-    {"type": "fill", "prompt": "___ gusta viajar. (nosotros)", "answers": ["nos"], "hint": "We like to travel."},
-    {"type": "fill", "prompt": "A María ___ gusta el té.", "answers": ["le"], "hint": "María likes tea."},
-    {"type": "fill", "prompt": "___ me gusta el frío.", "answers": ["no"], "hint": "I don't like the cold."},
-    {"type": "fill", "prompt": "Les ___ los deportes. (gustar)", "answers": ["gustan"], "hint": "They like sports."},
-    {"type": "fill", "prompt": "¿Qué te gusta ___?", "answers": ["hacer"], "hint": "What do you like to do?"},
-    {"type": "translate", "prompt": "I like coffee.", "answers": ["Me gusta el café.", "A mí me gusta el café."]},
-    {"type": "translate", "prompt": "Do you like to dance? (informal)", "answers": ["¿Te gusta bailar?", "¿A ti te gusta bailar?"]},
-    {"type": "translate", "prompt": "We love music.", "answers": ["Nos encanta la música.", "A nosotros nos encanta la música."]},
-    {"type": "translate", "prompt": "Me neither.", "answers": ["A mí tampoco.", "Yo tampoco."]},
-    {"type": "translate", "prompt": "I don't like the cold.", "answers": ["No me gusta el frío.", "A mí no me gusta el frío."]},
-    {"type": "build", "prompt": "Put the words in order: \"My parents like to walk.\"", "answer": "A mis padres les gusta caminar."},
-    {"type": "build", "prompt": "Put the words in order: \"I like it, but you don't.\"", "answer": "A mí me gusta, pero a ti no."},
-    {"type": "build", "prompt": "Put the words in order: \"What do you like to do?\"", "answer": "¿Qué te gusta hacer?"}
+    {
+      "type": "mc",
+      "prompt": "Choose: Me ___ los perros.",
+      "options": [
+        "gustan",
+        "gusta",
+        "gusto"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*Los perros* is plural → *gustan*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Me ___ bailar.",
+      "options": [
+        "gusta",
+        "gustan",
+        "gusto"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "An activity (infinitive) → *gusta*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ¿___ gusta el café? (to a friend)",
+      "options": [
+        "Te",
+        "Le",
+        "Me",
+        "Tú"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: A mis padres ___ gusta caminar.",
+      "options": [
+        "les",
+        "le",
+        "los",
+        "se"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Your friend says *No me gusta el frío.* You don't like it either. You say…",
+      "options": [
+        "A mí tampoco.",
+        "A mí también.",
+        "A mí sí.",
+        "Yo no gusto."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Your friend says *Me gusta el cine.* You like it too. You say…",
+      "options": [
+        "A mí también.",
+        "A mí tampoco.",
+        "Yo también gusto.",
+        "Me también."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Your friend says *No me gusta el calor.* But you like it. You say…",
+      "options": [
+        "A mí sí.",
+        "A mí no.",
+        "A mí tampoco.",
+        "Yo sí gusto."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Me encanta el helado* means…",
+      "options": [
+        "I love ice cream.",
+        "I like ice cream a little.",
+        "I want ice cream.",
+        "Ice cream loves me."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Me ___ el café. (gustar)",
+      "answers": [
+        "gusta"
+      ],
+      "hint": "I like coffee."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me ___ los animales. (encantar)",
+      "answers": [
+        "encantan"
+      ],
+      "hint": "I love animals."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ gusta viajar. (nosotros)",
+      "answers": [
+        "nos"
+      ],
+      "hint": "We like to travel."
+    },
+    {
+      "type": "fill",
+      "prompt": "A María ___ gusta el té.",
+      "answers": [
+        "le"
+      ],
+      "hint": "María likes tea."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ me gusta el frío.",
+      "answers": [
+        "no"
+      ],
+      "hint": "I don't like the cold."
+    },
+    {
+      "type": "fill",
+      "prompt": "Les ___ los deportes. (gustar)",
+      "answers": [
+        "gustan"
+      ],
+      "hint": "They like sports."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué te gusta ___?",
+      "answers": [
+        "hacer"
+      ],
+      "hint": "What do you like to do?"
+    },
+    {
+      "type": "translate",
+      "prompt": "I like coffee.",
+      "answers": [
+        "Me gusta el café.",
+        "A mí me gusta el café."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Do you like to dance? (informal)",
+      "answers": [
+        "¿Te gusta bailar?",
+        "¿A ti te gusta bailar?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "We love music.",
+      "answers": [
+        "Nos encanta la música.",
+        "A nosotros nos encanta la música."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Me neither.",
+      "answers": [
+        "A mí tampoco.",
+        "Yo tampoco."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I don't like the cold.",
+      "answers": [
+        "No me gusta el frío.",
+        "A mí no me gusta el frío."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"My parents like to walk.\"",
+      "answer": "A mis padres les gusta caminar."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I like it, but you don't.\"",
+      "answer": "A mí me gusta, pero a ti no."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"What do you like to do?\"",
+      "answer": "¿Qué te gusta hacer?"
+    }
   ]
 }

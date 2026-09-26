@@ -267,12 +267,13 @@ async function scenarioCumulativeQuiz() {
   // Heavily missed item in an early lesson should be favoured.
   const weak = earlier[1].items.find((it) => it.type !== "listen");
   const st = progressUpTo(c, target.id);
-  st.misses[weak.id] = 50;
+  st.misses[weak.id] = 1000; // heavy enough that "favoured" is near-certain, not a coin flip
   await setProgress(page, st);
   let sawWeak = 0;
   let spans = [];
   let ownShare = [];
   for (let run = 0; run < 3; run++) {
+    await page.goto(BASE + "#/");
     await page.goto(BASE + "#/quiz/" + target.id);
     const seen = await answerAll(page, () => true);
     const byLesson = {};

@@ -1,0 +1,423 @@
+{
+  "sections": [
+    {
+      "heading": "The body",
+      "body": "Spanish usually uses *el / la* with body parts, not \"my\": *Me lavo las manos* (I wash my hands). Who owns the hands is already clear from the pronoun *me*."
+    },
+    {
+      "heading": "What hurts: doler",
+      "body": "*Doler* (to hurt) works like *gustar*: the body part is the subject. And it has an o → ue stem change.\n\n- One thing hurts: *Me duele la cabeza.* (My head hurts / I have a headache.)\n- Several things hurt: *Me duelen los pies.* (My feet hurt.)\n- *¿Te duele algo?* (Does anything hurt?) *¿Qué le duele?* (What hurts? — doctor to patient)"
+    },
+    {
+      "heading": "How you feel",
+      "body": "Two patterns:\n\n- *estar* + adjective for states: *Estoy cansado, enfermo, nervioso, contento, triste, preocupado* (worried), *enojado* (angry — *enfadado* in Spain), *aburrido* (bored), *mejor* (better).\n- *tener* + noun for sensations: *tengo hambre* (I'm hungry), *tengo sed* (thirsty), *tengo sueño* (sleepy), *tengo frío / calor*, *tengo miedo* (I'm scared), *tengo fiebre* (I have a fever), *tengo gripe* (I have the flu). Intensify with *mucho / mucha*: *Tengo mucha hambre, tengo mucho sueño*.\n\nTo ask: *¿Cómo te sientes?* (How do you feel?) — *Me siento mal* (I feel bad/sick)."
+    }
+  ],
+  "vocab": [
+    [
+      "el cuerpo",
+      "the body"
+    ],
+    [
+      "la cabeza",
+      "the head"
+    ],
+    [
+      "los ojos",
+      "the eyes"
+    ],
+    [
+      "la boca",
+      "the mouth"
+    ],
+    [
+      "la nariz",
+      "the nose"
+    ],
+    [
+      "el brazo",
+      "the arm"
+    ],
+    [
+      "la pierna",
+      "the leg"
+    ],
+    [
+      "el pie",
+      "the foot"
+    ],
+    [
+      "el estómago",
+      "the stomach"
+    ],
+    [
+      "la espalda",
+      "the back"
+    ],
+    [
+      "el diente",
+      "the tooth"
+    ],
+    [
+      "doler",
+      "to hurt"
+    ],
+    [
+      "tener hambre",
+      "to be hungry"
+    ],
+    [
+      "tener sed",
+      "to be thirsty"
+    ],
+    [
+      "tener sueño",
+      "to be sleepy"
+    ],
+    [
+      "tener miedo",
+      "to be afraid"
+    ],
+    [
+      "la fiebre",
+      "fever"
+    ],
+    [
+      "preocupado / preocupada",
+      "worried"
+    ],
+    [
+      "enojado / enojada",
+      "angry"
+    ],
+    [
+      "sentirse",
+      "to feel"
+    ],
+    [
+      "mejor",
+      "better"
+    ]
+  ],
+  "examples": [
+    [
+      "Me duele la cabeza.",
+      "I have a headache."
+    ],
+    [
+      "Me duelen los pies.",
+      "My feet hurt."
+    ],
+    [
+      "¿Te duele algo?",
+      "Does anything hurt?"
+    ],
+    [
+      "¿Qué le duele?",
+      "What hurts? (formal)"
+    ],
+    [
+      "Le duele el estómago.",
+      "His stomach hurts."
+    ],
+    [
+      "Me duele la espalda.",
+      "My back hurts."
+    ],
+    [
+      "Tengo hambre.",
+      "I'm hungry."
+    ],
+    [
+      "Tengo mucha sed.",
+      "I'm very thirsty."
+    ],
+    [
+      "Tengo mucho sueño.",
+      "I'm very sleepy."
+    ],
+    [
+      "Tengo miedo.",
+      "I'm scared."
+    ],
+    [
+      "Tengo fiebre.",
+      "I have a fever."
+    ],
+    [
+      "Estoy preocupada.",
+      "I'm worried."
+    ],
+    [
+      "Mi padre está enojado.",
+      "My father is angry."
+    ],
+    [
+      "¿Cómo te sientes?",
+      "How do you feel?"
+    ],
+    [
+      "Me siento mal.",
+      "I feel sick."
+    ],
+    [
+      "Hoy me siento mejor.",
+      "Today I feel better."
+    ],
+    [
+      "Me lavo las manos.",
+      "I wash my hands."
+    ],
+    [
+      "Tiene los ojos azules.",
+      "She has blue eyes."
+    ],
+    [
+      "Me duele un diente.",
+      "I have a toothache."
+    ],
+    [
+      "Nos duelen las piernas.",
+      "Our legs hurt."
+    ],
+    [
+      "¿Tienes hambre?",
+      "Are you hungry?"
+    ],
+    [
+      "Me duele el brazo.",
+      "My arm hurts."
+    ],
+    [
+      "Tengo gripe.",
+      "I have the flu."
+    ],
+    [
+      "La boca y la nariz.",
+      "The mouth and the nose."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose: Me ___ la cabeza.",
+      "options": [
+        "duele",
+        "duelen",
+        "dolor",
+        "dolo"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Me ___ los pies.",
+      "options": [
+        "duelen",
+        "duele",
+        "duelo",
+        "dolen"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "You're hungry. Which is correct?",
+      "options": [
+        "Tengo hambre.",
+        "Estoy hambre.",
+        "Soy hambre.",
+        "Tengo hambriento."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "You're worried (a woman speaking). Which is correct?",
+      "options": [
+        "Estoy preocupada.",
+        "Tengo preocupada.",
+        "Soy preocupada.",
+        "Estoy preocupado."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "How do you say \"I wash my hands\"?",
+      "options": [
+        "Me lavo las manos.",
+        "Lavo mis manos me.",
+        "Me lavo mis las manos."
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*Mis manos* is understandable, but Spanish normally uses the article with body parts."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Tengo sueño* means…",
+      "options": [
+        "I'm sleepy.",
+        "I'm dreaming.",
+        "I'm asleep.",
+        "I have a dream job."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which part of the body do you see with?",
+      "options": [
+        "los ojos",
+        "la boca",
+        "los pies",
+        "la espalda"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "What does a doctor ask you?",
+      "options": [
+        "¿Qué le duele?",
+        "¿Qué le gusta?",
+        "¿Qué tiempo hace?",
+        "¿Qué hora es?"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "fill",
+      "prompt": "Me duele la ___.",
+      "answers": [
+        "cabeza",
+        "espalda",
+        "pierna",
+        "boca",
+        "nariz"
+      ],
+      "hint": "My head hurts. (or back, leg…)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Le duele el ___.",
+      "answers": [
+        "estómago",
+        "brazo",
+        "pie"
+      ],
+      "hint": "His stomach hurts."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tengo mucha ___.",
+      "answers": [
+        "sed",
+        "hambre",
+        "fiebre"
+      ],
+      "hint": "I'm very thirsty."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tengo ___.",
+      "answers": [
+        "miedo",
+        "hambre",
+        "sed",
+        "sueño",
+        "fiebre",
+        "frío",
+        "calor",
+        "gripe"
+      ],
+      "hint": "I'm scared."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Cómo te ___?",
+      "answers": [
+        "sientes"
+      ],
+      "hint": "How do you feel?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Hoy me siento ___.",
+      "answers": [
+        "mejor",
+        "mal",
+        "bien"
+      ],
+      "hint": "Today I feel better."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nos ___ las piernas.",
+      "answers": [
+        "duelen"
+      ],
+      "hint": "Our legs hurt."
+    },
+    {
+      "type": "translate",
+      "prompt": "I have a headache.",
+      "answers": [
+        "Me duele la cabeza."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm hungry.",
+      "answers": [
+        "Tengo hambre.",
+        "Yo tengo hambre."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I have a fever.",
+      "answers": [
+        "Tengo fiebre."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "My feet hurt.",
+      "answers": [
+        "Me duelen los pies."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I feel sick.",
+      "answers": [
+        "Me siento mal.",
+        "Estoy enfermo.",
+        "Estoy enferma."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Today I feel better.\"",
+      "answer": "Hoy me siento mejor."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"She has blue eyes.\"",
+      "answer": "Tiene los ojos azules."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Does anything hurt?\"",
+      "answer": "¿Te duele algo?"
+    }
+  ]
+}

@@ -56,3 +56,10 @@ reader: state, not narrative.
 ## 2026-09-26 — Check tightened (C-CHECKS-NOT-WEAKENED record)
 
 - **decisions:** CHK-002 made stricter: table cells now teach only their *italic* Spanish (before, English header words like "this" counted as taught Spanish, a loophole). Duplicate-prompt errors now name the prompt. All existing lessons still pass.
+
+## 2026-09-26 — A1 finished and reviewed
+
+- **state:** A1 (a1-01…a1-30) written; CHK-002 passes for all 30; CHK-003 green (24/24) now that a full level exists; A1 review recorded (curriculum/reviews/A1.md). CHK-001 fails only for A2–C1 reviews; CHK-002 fails only for unwritten lessons.
+- **done:** A1 review found and fixed 9 issues (markup, punctuation, an unfair distractor, unnatural examples, missing regional notes). App: re-reads progress on every navigation (keeps tabs in sync, fixed test harness), strips dialogue dashes when grading, renderer strips tags from speakable text.
+- **decisions:** CHK-002 answer semantics clarified (C-CHECKS-NOT-WEAKENED record): fill-in prompts, word-builder answers and Spanish MC answers must be fully taught; for fill-in/translation answer *lists*, at least one accepted answer must be fully taught — extra accepted variants (e.g. *acá*, *hable*) may go beyond, because accepting a variant never requires it. Reason: the check was flagging correct extra variants, which would force removing them and make grading stricter than fair (C-ANSWERABLE). CHK-003 weak-item test uses misses=1000 (was 50) so it isn't a ~1-in-6 coin flip; same property tested.
+- **next:** A2.

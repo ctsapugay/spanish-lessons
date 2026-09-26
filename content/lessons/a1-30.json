@@ -1,0 +1,84 @@
+{
+  "sections": [
+    {
+      "heading": "Telling a friend what to do",
+      "body": "The affirmative *tú* command of regular verbs looks exactly like the *él / ella* present form: *hablar → habla*, *comer → come*, *escribir → escribe*. Stem changes stay: *cerrar → cierra*, *dormir → duerme*, *pedir → pide*.\n\n*Habla más despacio.* (Speak more slowly.) *Come la sopa.* (Eat the soup.) *Escribe tu nombre aquí.* (Write your name here.)\n\nPronouns attach to the end, and an accent keeps the stress where it was: *Llámame* (Call me). *Dímelo* comes later. *Levántate* (Get up). *Siéntate* (Sit down)."
+    },
+    {
+      "heading": "Some irregular tú commands",
+      "body": "A few very common verbs have short irregular commands: *ven* (come — from *venir*), *ten* (have / take — *tener*), *pon* (put — *poner*), *sal* (go out — *salir*), *haz* (do / make — *hacer*), *di* (say — *decir*), *ve* (go — *ir*), *sé* (be — *ser*). You'll practise these more in A2; for now, recognise *ven aquí* (come here) and *ten cuidado* (be careful).\n\nFor polite requests to strangers, a question is softer: *¿Me ayuda, por favor?* *¿Puede repetir?*"
+    },
+    {
+      "heading": "Asking for and giving directions",
+      "body": "Ask: *Perdón, ¿dónde está la estación?* *¿Cómo llego al museo?* (How do I get to the museum?) *¿Está lejos?*\n\nGive directions with commands: *Sigue derecho* (go straight — *todo recto* in Spain), *gira / dobla a la derecha* (turn right), *gira a la izquierda* (turn left), *cruza la calle* (cross the street), *toma la segunda calle* (take the second street). Then: *Está en la esquina* (on the corner), *está a dos cuadras* (two blocks away — *manzanas* in Spain)."
+    }
+  ],
+  "vocab": [
+    ["sigue derecho", "go straight"],
+    ["gira / dobla", "turn"],
+    ["cruza", "cross"],
+    ["toma", "take"],
+    ["la esquina", "the corner"],
+    ["la cuadra", "the block"],
+    ["el semáforo", "the traffic light"],
+    ["perdón", "excuse me / sorry"],
+    ["¿Cómo llego a…?", "How do I get to…?"],
+    ["despacio", "slowly"],
+    ["ven", "come"],
+    ["ten cuidado", "be careful"],
+    ["siéntate", "sit down"],
+    ["llámame", "call me"],
+    ["escucha", "listen"],
+    ["primera / segunda", "first / second"]
+  ],
+  "examples": [
+    ["Habla más despacio, por favor.", "Speak more slowly, please."],
+    ["Come la sopa.", "Eat the soup."],
+    ["Escribe tu nombre aquí.", "Write your name here."],
+    ["Cierra la puerta.", "Close the door."],
+    ["Llámame mañana.", "Call me tomorrow."],
+    ["Levántate, es tarde.", "Get up, it's late."],
+    ["Siéntate aquí.", "Sit down here."],
+    ["Ven aquí.", "Come here."],
+    ["Ten cuidado.", "Be careful."],
+    ["Perdón, ¿dónde está la estación?", "Excuse me, where is the station?"],
+    ["¿Cómo llego al museo?", "How do I get to the museum?"],
+    ["Sigue derecho dos cuadras.", "Go straight for two blocks."],
+    ["Gira a la derecha en el semáforo.", "Turn right at the traffic light."],
+    ["Dobla a la izquierda.", "Turn left."],
+    ["Cruza la calle.", "Cross the street."],
+    ["Toma la segunda calle a la derecha.", "Take the second street on the right."],
+    ["El banco está en la esquina.", "The bank is on the corner."],
+    ["Está a dos cuadras.", "It's two blocks away."],
+    ["Escucha la canción.", "Listen to the song."],
+    ["Toma la primera calle a la izquierda.", "Take the first street on the left."],
+    ["Pide la cuenta.", "Ask for the check."],
+    ["Duerme bien.", "Sleep well."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "___ más despacio, por favor. (hablar)", "answers": ["habla"], "hint": "Speak more slowly, please."},
+    {"type": "fill", "prompt": "___ la sopa. (comer)", "answers": ["come"], "hint": "Eat the soup."},
+    {"type": "fill", "prompt": "___ tu nombre aquí. (escribir)", "answers": ["escribe"], "hint": "Write your name here."},
+    {"type": "fill", "prompt": "___ la puerta. (cerrar)", "answers": ["cierra"], "hint": "Close the door."},
+    {"type": "fill", "prompt": "___ bien. (dormir)", "answers": ["duerme"], "hint": "Sleep well."},
+    {"type": "fill", "prompt": "___ mañana. (llamar + me)", "answers": ["llámame"], "hint": "Call me tomorrow."},
+    {"type": "fill", "prompt": "___ aquí. (venir)", "answers": ["ven"], "hint": "Come here."},
+    {"type": "fill", "prompt": "Gira a la ___ en el semáforo.", "answers": ["derecha", "izquierda"], "hint": "Turn right at the traffic light."},
+    {"type": "fill", "prompt": "Sigue ___ dos cuadras.", "answers": ["derecho"], "hint": "Go straight for two blocks."},
+    {"type": "fill", "prompt": "El banco está en la ___.", "answers": ["esquina"], "hint": "The bank is on the corner."},
+    {"type": "mc", "prompt": "The *tú* command of *hablar* is…", "options": ["habla", "hablas", "hable", "hablo"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The *tú* command of *pedir* is…", "options": ["pide", "pede", "pida", "pedes"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you ask \"How do I get to the museum?\"", "options": ["¿Cómo llego al museo?", "¿Cómo es el museo?", "¿Dónde es el museo?", "¿Cuándo llego al museo?"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Ten cuidado* means…", "options": ["Be careful.", "Have a good time.", "Take care of it.", "You have ten minutes."], "answer": 0},
+    {"type": "mc", "prompt": "*Está a dos cuadras* means…", "options": ["It's two blocks away.", "It's at two o'clock.", "It's two squares.", "It's on the second floor."], "answer": 0},
+    {"type": "mc", "prompt": "Which one means \"Sit down\"?", "options": ["Siéntate.", "Levántate.", "Llámame.", "Escucha."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Speak more slowly, please.", "answers": ["Habla más despacio, por favor.", "Hable más despacio, por favor."]},
+    {"type": "translate", "prompt": "Turn left.", "answers": ["Gira a la izquierda.", "Dobla a la izquierda."]},
+    {"type": "translate", "prompt": "Cross the street.", "answers": ["Cruza la calle."]},
+    {"type": "translate", "prompt": "Come here.", "answers": ["Ven aquí.", "Ven acá."]},
+    {"type": "translate", "prompt": "Call me tomorrow.", "answers": ["Llámame mañana."]},
+    {"type": "build", "prompt": "Put the words in order: \"Take the second street on the right.\"", "answer": "Toma la segunda calle a la derecha."},
+    {"type": "build", "prompt": "Put the words in order: \"Excuse me, where is the station?\"", "answer": "Perdón, ¿dónde está la estación?"},
+    {"type": "build", "prompt": "Put the words in order: \"Turn right at the traffic light.\"", "answer": "Gira a la derecha en el semáforo."}
+  ]
+}

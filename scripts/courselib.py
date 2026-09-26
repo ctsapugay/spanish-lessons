@@ -143,7 +143,7 @@ def render_data_js(data: dict) -> str:
 
 def normalise(s: str) -> str:
     s = unicodedata.normalize("NFC", s).lower()
-    s = re.sub(r"[¿¡?!.,;:\"“”«»()]", " ", s)
+    s = re.sub(r"[¿¡?!.,;:\"“”«»()—–]", " ", s)
     s = s.replace("’", "'")
     return re.sub(r"\s+", " ", s).strip()
 

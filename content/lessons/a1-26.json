@@ -1,0 +1,418 @@
+{
+  "sections": [
+    {
+      "heading": "Direct objects",
+      "body": "The direct object is the thing or person that receives the action: in *Compro el pan* (I buy the bread), the object is *el pan*. To avoid repeating it, replace it with a pronoun: *Lo compro* (I buy it).",
+      "table": {
+        "head": [
+          "",
+          "Pronoun",
+          "Example"
+        ],
+        "rows": [
+          [
+            "me",
+            "*me*",
+            "*Ana me llama.* — Ana calls me."
+          ],
+          [
+            "you (tú)",
+            "*te*",
+            "*Te veo mañana.* — I'll see you tomorrow."
+          ],
+          [
+            "him / it (masc.) / you (usted, masc.)",
+            "*lo*",
+            "*¿El libro? Lo leo.* — I read it."
+          ],
+          [
+            "her / it (fem.) / you (usted, fem.)",
+            "*la*",
+            "*¿La camisa? La compro.* — I'll buy it."
+          ],
+          [
+            "us",
+            "*nos*",
+            "*Nos invitan.* — They invite us."
+          ],
+          [
+            "them / you all (masc.)",
+            "*los*",
+            "*¿Los zapatos? Los necesito.*"
+          ],
+          [
+            "them / you all (fem.)",
+            "*las*",
+            "*¿Las llaves? No las encuentro.*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Where the pronoun goes",
+      "body": "- Before a conjugated verb: *Lo quiero.* (I want it.) *No la conozco.* (I don't know her.)\n- With an infinitive or *ir a* + infinitive, you can put it before the first verb **or** attach it to the infinitive: *La voy a llamar* = *Voy a llamarla* (I'm going to call her). *Lo quiero ver* = *Quiero verlo*.\n\n*Lo / la / los / las* must match the noun they replace: *¿Tienes las llaves? — Sí, las tengo.*"
+    },
+    {
+      "heading": "The personal a",
+      "body": "When the direct object is a specific person (or a beloved pet), put *a* in front of it: *Veo a María. Llamo a mi madre. Busco a mi perro.* No *a* for things: *Veo la casa.* And no *a* after *tener*: *Tengo dos hermanos.*"
+    }
+  ],
+  "vocab": [
+    [
+      "lo",
+      "him / it (masc.)"
+    ],
+    [
+      "la",
+      "her / it (fem.)"
+    ],
+    [
+      "los / las",
+      "them"
+    ],
+    [
+      "me",
+      "me"
+    ],
+    [
+      "te",
+      "you (object)"
+    ],
+    [
+      "nos",
+      "us"
+    ],
+    [
+      "llamar",
+      "to call"
+    ],
+    [
+      "buscar",
+      "to look for"
+    ],
+    [
+      "invitar",
+      "to invite"
+    ],
+    [
+      "ayudar",
+      "to help"
+    ],
+    [
+      "esperar",
+      "to wait (for)"
+    ],
+    [
+      "usar",
+      "to use"
+    ],
+    [
+      "llevar",
+      "to take / carry / wear"
+    ],
+    [
+      "querer a",
+      "to love (a person)"
+    ],
+    [
+      "el regalo",
+      "the gift"
+    ],
+    [
+      "la computadora",
+      "the computer"
+    ]
+  ],
+  "examples": [
+    [
+      "Compro el pan. Lo compro.",
+      "I buy the bread. I buy it."
+    ],
+    [
+      "—¿Tienes las llaves? —Sí, las tengo.",
+      "Do you have the keys? Yes, I have them."
+    ],
+    [
+      "—¿Conoces a Laura? —No, no la conozco.",
+      "Do you know Laura? No, I don't know her."
+    ],
+    [
+      "Te llamo mañana.",
+      "I'll call you tomorrow."
+    ],
+    [
+      "Ana me ayuda.",
+      "Ana helps me."
+    ],
+    [
+      "Nos invitan a la fiesta.",
+      "They're inviting us to the party."
+    ],
+    [
+      "La voy a llamar.",
+      "I'm going to call her."
+    ],
+    [
+      "Voy a llamarla.",
+      "I'm going to call her."
+    ],
+    [
+      "Quiero verlo.",
+      "I want to see it / him."
+    ],
+    [
+      "Lo quiero ver.",
+      "I want to see it / him."
+    ],
+    [
+      "Busco a mi perro.",
+      "I'm looking for my dog."
+    ],
+    [
+      "Veo a María todos los días.",
+      "I see María every day."
+    ],
+    [
+      "Llamo a mi madre los domingos.",
+      "I call my mother on Sundays."
+    ],
+    [
+      "¿Me esperas?",
+      "Will you wait for me?"
+    ],
+    [
+      "Te quiero.",
+      "I love you."
+    ],
+    [
+      "¿El regalo? Lo tengo aquí.",
+      "The gift? I have it here."
+    ],
+    [
+      "Uso la computadora. La uso mucho.",
+      "I use the computer. I use it a lot."
+    ],
+    [
+      "¿Los zapatos? Los necesito.",
+      "The shoes? I need them."
+    ],
+    [
+      "¿Las camisas? Las llevo.",
+      "The shirts? I'm taking them."
+    ],
+    [
+      "No lo sé.",
+      "I don't know (it)."
+    ],
+    [
+      "Espero a mis amigos.",
+      "I'm waiting for my friends."
+    ],
+    [
+      "Los veo mañana.",
+      "I'll see you all tomorrow."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "¿El pan? Sí, ___ compro.",
+      "answers": [
+        "lo"
+      ],
+      "hint": "The bread? Yes, I'll buy it."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Tienes las llaves? Sí, ___ tengo.",
+      "answers": [
+        "las"
+      ],
+      "hint": "Do you have the keys? Yes, I have them."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Conoces a Laura? No, no ___ conozco.",
+      "answers": [
+        "la"
+      ],
+      "hint": "Do you know Laura? No, I don't know her."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Los zapatos? ___ necesito.",
+      "answers": [
+        "los"
+      ],
+      "hint": "The shoes? I need them."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ana ___ ayuda. (a mí)",
+      "answers": [
+        "me"
+      ],
+      "hint": "Ana helps me."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ invitan a la fiesta. (a nosotros)",
+      "answers": [
+        "nos"
+      ],
+      "hint": "They're inviting us to the party."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ llamo mañana. (a ti)",
+      "answers": [
+        "te"
+      ],
+      "hint": "I'll call you tomorrow."
+    },
+    {
+      "type": "fill",
+      "prompt": "Voy a ___ . (llamar a ella)",
+      "answers": [
+        "llamarla"
+      ],
+      "hint": "I'm going to call her. (one word)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Veo ___ María todos los días.",
+      "answers": [
+        "a"
+      ],
+      "hint": "I see María every day."
+    },
+    {
+      "type": "fill",
+      "prompt": "Uso la computadora. ___ uso mucho.",
+      "answers": [
+        "la"
+      ],
+      "hint": "I use the computer. I use it a lot."
+    },
+    {
+      "type": "mc",
+      "prompt": "Replace the object: *Leo el libro.* → ___ leo.",
+      "options": [
+        "Lo",
+        "La",
+        "Le",
+        "Los"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Replace the object: *Compro las camisas.* → ___ compro.",
+      "options": [
+        "Las",
+        "Los",
+        "La",
+        "Les"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is NOT correct?",
+      "options": [
+        "Voy la a llamar.",
+        "La voy a llamar.",
+        "Voy a llamarla."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which needs the personal *a*?",
+      "options": [
+        "Busco ___ mi hermano.",
+        "Busco ___ mis llaves.",
+        "Tengo ___ dos gatos."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Te quiero* means…",
+      "options": [
+        "I love you.",
+        "I want to.",
+        "You love me.",
+        "I see you."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Where does the pronoun go? *No ___ sé.*",
+      "options": [
+        "No lo sé.",
+        "Lo no sé.",
+        "No sé lo."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "I love you.",
+      "answers": [
+        "Te quiero.",
+        "Yo te quiero."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'll call you tomorrow. (informal)",
+      "answers": [
+        "Te llamo mañana."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I don't know.",
+      "answers": [
+        "No lo sé.",
+        "No sé."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm looking for my dog.",
+      "answers": [
+        "Busco a mi perro.",
+        "Estoy buscando a mi perro."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Will you wait for me? (informal)",
+      "answers": [
+        "¿Me esperas?"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'm going to call her.\"",
+      "answer": "La voy a llamar."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I call my mother on Sundays.\"",
+      "answer": "Llamo a mi madre los domingos."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The gift? I have it here.\"",
+      "answer": "¿El regalo? Lo tengo aquí."
+    }
+  ]
+}
