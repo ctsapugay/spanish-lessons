@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-09-26
-**Now:** A1 and A2 complete (62 lessons, reviews in curriculum/reviews/). Starting B1.
-**Next:** Write b1-01 … b1-36 (outline in content/course.json), then the B1 review, then B2.
+**Now:** A1, A2 done and reviewed. B1 in progress: b1-01…b1-20 written.
+**Next:** b1-21 … b1-36, then the B1 review (curriculum/reviews/B1.md), then B2.
 **Watch:** Dialogue dashes (—) for two speakers. Unique prompts per lesson (and unique English glosses in vocab — they generate prompts). English only in hints. LatAm vocabulary (mesero, carro, celular, boleto). Rebuild after edits.

@@ -1,0 +1,358 @@
+{
+  "sections": [
+    {
+      "heading": "Se: one little word, many jobs",
+      "body": "You've met several uses of *se*: reflexive (*se levanta*), the replacement for *le/les* (*se lo di*), and impersonal/passive (*se habla español*). Here are three more."
+    },
+    {
+      "heading": "Reciprocal: each other",
+      "body": "With plural subjects, *se / nos* can mean \"each other\": *Se quieren mucho.* (They love each other.) *Nos conocimos en la universidad.* (We met each other at university.) *Se escriben todos los días.* To avoid ambiguity with \"themselves\", add *el uno al otro*: *Se ayudan el uno al otro.*"
+    },
+    {
+      "heading": "Accidental se: things that \"happen to\" you",
+      "body": "For unplanned events — forgetting, dropping, breaking, losing — Spanish often makes the **thing** the subject and the person an indirect object, as if it happened to them:\n\n*se* + indirect pronoun (*me, te, le, nos, les*) + verb (agreeing with the thing):\n\n- *Se me olvidó.* (I forgot — literally \"it forgot itself on me\".)\n- *Se me olvidaron las llaves.* (I forgot the keys.)\n- *Se le cayó el vaso.* (He dropped the glass.)\n- *Se nos rompió la ventana.* (Our window broke.)\n- *Se me perdió el teléfono.* (I lost my phone.)\n- *Se te acabó el tiempo.* (You ran out of time.)\n- *Se me ocurrió una idea.* (An idea occurred to me.)\n\nIt softens responsibility — it was an accident!"
+    },
+    {
+      "heading": "Passive se, review",
+      "body": "*Se venden casas. Se habla inglés. Se necesita experiencia.* The verb agrees with the thing; nobody is named."
+    }
+  ],
+  "vocab": [
+    [
+      "se quieren",
+      "they love each other"
+    ],
+    [
+      "el uno al otro",
+      "each other"
+    ],
+    [
+      "se me olvidó",
+      "I forgot (it)"
+    ],
+    [
+      "se me cayó",
+      "I dropped (it)"
+    ],
+    [
+      "se me rompió",
+      "I broke (it) / it broke on me"
+    ],
+    [
+      "se me perdió",
+      "I lost (it)"
+    ],
+    [
+      "se me acabó",
+      "I ran out of (it)"
+    ],
+    [
+      "se me ocurrió",
+      "it occurred to me"
+    ],
+    [
+      "caerse",
+      "to fall"
+    ],
+    [
+      "romperse",
+      "to break"
+    ],
+    [
+      "acabarse",
+      "to run out"
+    ],
+    [
+      "ocurrirse",
+      "to occur (to someone)"
+    ],
+    [
+      "la batería",
+      "the battery"
+    ],
+    [
+      "la leche",
+      "milk"
+    ]
+  ],
+  "examples": [
+    [
+      "Se quieren mucho.",
+      "They love each other a lot."
+    ],
+    [
+      "Nos conocimos en la universidad.",
+      "We met at university."
+    ],
+    [
+      "Se escriben todos los días.",
+      "They write to each other every day."
+    ],
+    [
+      "Se ayudan el uno al otro.",
+      "They help each other."
+    ],
+    [
+      "Se me olvidó.",
+      "I forgot."
+    ],
+    [
+      "Se me olvidaron las llaves.",
+      "I forgot the keys."
+    ],
+    [
+      "Se le cayó el vaso.",
+      "He dropped the glass."
+    ],
+    [
+      "Se nos rompió la ventana.",
+      "Our window broke."
+    ],
+    [
+      "Se me perdió el teléfono.",
+      "I lost my phone."
+    ],
+    [
+      "Se te acabó el tiempo.",
+      "You ran out of time."
+    ],
+    [
+      "Se me ocurrió una idea.",
+      "An idea occurred to me."
+    ],
+    [
+      "Se nos acabó la leche.",
+      "We ran out of milk."
+    ],
+    [
+      "Se le rompieron los lentes.",
+      "Her glasses broke."
+    ],
+    [
+      "Se me acabó la batería.",
+      "My battery died."
+    ],
+    [
+      "¿Se te olvidó mi cumpleaños?",
+      "Did you forget my birthday?"
+    ],
+    [
+      "Se les perdió el perro.",
+      "They lost their dog."
+    ],
+    [
+      "Se venden casas.",
+      "Houses for sale."
+    ],
+    [
+      "Nos vemos mañana.",
+      "We'll see each other tomorrow."
+    ],
+    [
+      "Se me cayeron las llaves.",
+      "I dropped the keys."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Se me ___ las llaves. (olvidar)",
+      "answers": [
+        "olvidaron"
+      ],
+      "hint": "I forgot the keys."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ cayó el vaso. (a él)",
+      "answers": [
+        "le"
+      ],
+      "hint": "He dropped the glass."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se nos ___ la ventana. (romper)",
+      "answers": [
+        "rompió"
+      ],
+      "hint": "Our window broke."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se me ___ el teléfono. (perder)",
+      "answers": [
+        "perdió"
+      ],
+      "hint": "I lost my phone."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ acabó el tiempo. (a ti)",
+      "answers": [
+        "te"
+      ],
+      "hint": "You ran out of time."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se me ___ una idea. (ocurrirse)",
+      "answers": [
+        "ocurrió"
+      ],
+      "hint": "An idea occurred to me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se nos ___ la leche. (acabar)",
+      "answers": [
+        "acabó"
+      ],
+      "hint": "We ran out of milk."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se le ___ los lentes. (romper)",
+      "answers": [
+        "rompieron"
+      ],
+      "hint": "Her glasses broke."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ mucho. (querer, ellos)",
+      "answers": [
+        "quieren"
+      ],
+      "hint": "They love each other a lot."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nos ___ en la universidad. (conocer)",
+      "answers": [
+        "conocimos"
+      ],
+      "hint": "We met at university."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ayudan el uno al ___.",
+      "answers": [
+        "otro"
+      ],
+      "hint": "They help each other."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Se me olvidó* literally suggests…",
+      "options": [
+        "it got forgotten on me (an accident)",
+        "I forgot on purpose",
+        "someone made me forget",
+        "I remember it"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Se me ___ las llaves.",
+      "options": [
+        "cayeron",
+        "cayó",
+        "caí",
+        "cayé"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "The verb agrees with *las llaves* (plural)."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Se escriben todos los días* means…",
+      "options": [
+        "They write to each other every day.",
+        "They write themselves every day.",
+        "It's written every day.",
+        "He writes every day."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "\"We ran out of milk\" is…",
+      "options": [
+        "Se nos acabó la leche.",
+        "Nos acabamos la leche.",
+        "Se acabamos la leche.",
+        "Nos se acabó la leche."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"Did you forget my birthday?\"",
+      "options": [
+        "¿Se te olvidó mi cumpleaños?",
+        "¿Te se olvidó mi cumpleaños?",
+        "¿Se olvidaste mi cumpleaños?"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "I forgot.",
+      "answers": [
+        "Se me olvidó.",
+        "Lo olvidé.",
+        "Me olvidé."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He dropped the glass.",
+      "answers": [
+        "Se le cayó el vaso."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I lost my phone.",
+      "answers": [
+        "Se me perdió el teléfono.",
+        "Perdí mi teléfono.",
+        "Perdí el teléfono."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "They love each other a lot.",
+      "answers": [
+        "Se quieren mucho."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "My battery died.",
+      "answers": [
+        "Se me acabó la batería."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I forgot the keys.\"",
+      "answer": "Se me olvidaron las llaves."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"An idea occurred to me.\"",
+      "answer": "Se me ocurrió una idea."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"They write to each other every day.\"",
+      "answer": "Se escriben todos los días."
+    }
+  ]
+}

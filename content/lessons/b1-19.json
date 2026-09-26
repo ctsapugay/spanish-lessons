@@ -1,0 +1,326 @@
+{
+  "sections": [
+    {
+      "heading": "Reporting questions",
+      "body": "- **Yes/no questions** → *preguntar si* (asked if/whether): *\"¿Tienes hambre?\"* → *Me preguntó si tenía hambre.*\n- **Question-word questions** → keep the question word (with its accent): *\"¿Dónde vives?\"* → *Me preguntó dónde vivía.* *\"¿Cuándo llegas?\"* → *Me preguntó cuándo llegaba.*\n\nThe same tense shifts apply as with statements. No question marks in the reported version."
+    },
+    {
+      "heading": "Reporting commands and requests",
+      "body": "A reported command becomes *que* + **subjunctive** — present if the reporting verb is present, imperfect if it's past:\n\n- *\"Ven aquí.\"* → *Dice que vengas.* / *Dijo que fueras allí.*\n- *\"No hagas ruido.\"* → *Me dijo que no hiciera ruido.*\n- *\"Llámame.\"* → *Me pidió que lo llamara.*\n- *\"Siéntense, por favor.\"* → *Nos pidió que nos sentáramos.*\n\nUse *pedir* for requests and *decir / ordenar* for commands. Compare *Me dijo que venía* (He told me he was coming — information, indicative) with *Me dijo que viniera* (He told me to come — command, subjunctive)."
+    }
+  ],
+  "vocab": [
+    [
+      "preguntar si",
+      "to ask if / whether"
+    ],
+    [
+      "me preguntó si",
+      "he/she asked me if"
+    ],
+    [
+      "me preguntó dónde",
+      "he/she asked me where"
+    ],
+    [
+      "me dijo que viniera",
+      "he/she told me to come"
+    ],
+    [
+      "me pidió que",
+      "he/she asked me to"
+    ],
+    [
+      "ordenar",
+      "to order"
+    ],
+    [
+      "hacer ruido",
+      "to make noise"
+    ],
+    [
+      "sentarse",
+      "to sit down"
+    ],
+    [
+      "el ruido",
+      "noise"
+    ],
+    [
+      "la pregunta",
+      "the question"
+    ],
+    [
+      "el recado",
+      "the message / errand"
+    ],
+    [
+      "cerrar con llave",
+      "to lock"
+    ]
+  ],
+  "examples": [
+    [
+      "Me preguntó si tenía hambre.",
+      "He asked me if I was hungry."
+    ],
+    [
+      "Me preguntó dónde vivía.",
+      "She asked me where I lived."
+    ],
+    [
+      "Me preguntó cuándo llegaba.",
+      "He asked me when I was arriving."
+    ],
+    [
+      "Le pregunté si quería venir.",
+      "I asked her if she wanted to come."
+    ],
+    [
+      "Nos preguntaron qué hacíamos allí.",
+      "They asked us what we were doing there."
+    ],
+    [
+      "Dice que vengas.",
+      "He says to come."
+    ],
+    [
+      "Me dijo que no hiciera ruido.",
+      "She told me not to make noise."
+    ],
+    [
+      "Me pidió que lo llamara.",
+      "He asked me to call him."
+    ],
+    [
+      "Nos pidió que nos sentáramos.",
+      "She asked us to sit down."
+    ],
+    [
+      "Me dijo que venía.",
+      "He told me he was coming."
+    ],
+    [
+      "Me dijo que viniera.",
+      "He told me to come."
+    ],
+    [
+      "Mi madre me dijo que cerrara con llave.",
+      "My mother told me to lock the door."
+    ],
+    [
+      "El médico le ordenó que descansara.",
+      "The doctor ordered him to rest."
+    ],
+    [
+      "Te pregunté si habías terminado.",
+      "I asked you if you had finished."
+    ],
+    [
+      "Quería saber cuánto costaba.",
+      "She wanted to know how much it cost."
+    ],
+    [
+      "Me pidió que le dejara un recado.",
+      "He asked me to leave him a message."
+    ],
+    [
+      "Descanse, por favor.",
+      "Please rest."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "\"¿Tienes hambre?\" → Me preguntó ___ tenía hambre.",
+      "answers": [
+        "si"
+      ],
+      "hint": "He asked me if I was hungry."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"¿Dónde vives?\" → Me preguntó dónde ___.",
+      "answers": [
+        "vivía"
+      ],
+      "hint": "She asked me where I lived."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"¿Cuándo llegas?\" → Me preguntó ___ llegaba.",
+      "answers": [
+        "cuándo"
+      ],
+      "hint": "He asked me when I was arriving."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"¿Quieres venir?\" → Le pregunté si ___ venir.",
+      "answers": [
+        "quería"
+      ],
+      "hint": "I asked her if she wanted to come."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"No hagas ruido.\" → Me dijo que no ___ ruido.",
+      "answers": [
+        "hiciera"
+      ],
+      "hint": "She told me not to make noise."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Llámame.\" → Me pidió que lo ___.",
+      "answers": [
+        "llamara"
+      ],
+      "hint": "He asked me to call him."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Siéntense.\" → Nos pidió que nos ___.",
+      "answers": [
+        "sentáramos"
+      ],
+      "hint": "She asked us to sit down."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Ven.\" → Dice que ___.",
+      "answers": [
+        "vengas"
+      ],
+      "hint": "He says to come."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Descanse.\" → El médico le ordenó que ___.",
+      "answers": [
+        "descansara"
+      ],
+      "hint": "The doctor ordered him to rest."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"¿Has terminado?\" → Te pregunté si ___ terminado.",
+      "answers": [
+        "habías"
+      ],
+      "hint": "I asked you if you had finished."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"¿Cuánto cuesta?\" → Quería saber cuánto ___.",
+      "answers": [
+        "costaba"
+      ],
+      "hint": "She wanted to know how much it cost."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Me dijo que viniera* means…",
+      "options": [
+        "He told me to come.",
+        "He told me he was coming.",
+        "He said he came.",
+        "He asked if I was coming."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Me dijo que venía* means…",
+      "options": [
+        "He told me he was coming.",
+        "He told me to come.",
+        "He asked me to come."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "A yes/no question is reported with…",
+      "options": [
+        "preguntar si",
+        "preguntar que",
+        "decir si",
+        "pedir que"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "A request is reported with…",
+      "options": [
+        "pedir que + subjunctive",
+        "preguntar si + indicative",
+        "decir que + indicative"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Nos preguntaron qué ___ allí.",
+      "options": [
+        "hacíamos",
+        "hiciéramos",
+        "hacemos"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "He asked me if I was hungry.",
+      "answers": [
+        "Me preguntó si tenía hambre."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "She asked me where I lived.",
+      "answers": [
+        "Me preguntó dónde vivía."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He told me to come.",
+      "answers": [
+        "Me dijo que viniera."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "She told me not to make noise.",
+      "answers": [
+        "Me dijo que no hiciera ruido."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He asked me to call him.",
+      "answers": [
+        "Me pidió que lo llamara.",
+        "Me pidió que le llamara."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"They asked us what we were doing there.\"",
+      "answer": "Nos preguntaron qué hacíamos allí."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"My mother told me to lock the door.\"",
+      "answer": "Mi madre me dijo que cerrara con llave."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He asked me to leave him a message.\"",
+      "answer": "Me pidió que le dejara un recado."
+    }
+  ]
+}

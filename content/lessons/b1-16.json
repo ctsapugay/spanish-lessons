@@ -1,0 +1,77 @@
+{
+  "sections": [
+    {
+      "heading": "Past triggers take the past subjunctive",
+      "body": "Every subjunctive trigger you've learned (wanting, asking, emotions, judgments, doubt, purpose…) also works in the past. When the trigger verb is in the preterite, imperfect or conditional, the subjunctive after *que* is usually the **imperfect subjunctive**:\n\n- *Quiero que vengas* → *Quería que vinieras.* (I wanted you to come.)\n- *Me pide que lo ayude* → *Me pidió que lo ayudara.*\n- *Me alegra que estés aquí* → *Me alegró que estuvieras aquí.*\n- *Es importante que lleguemos* → *Era importante que llegáramos.*\n- *Te lo explico para que entiendas* → *Te lo expliqué para que entendieras.*\n- *No creo que sea verdad* → *No creía que fuera verdad.*\n- *Busco a alguien que sepa* → *Buscaba a alguien que supiera.*"
+    },
+    {
+      "heading": "Conditional triggers too",
+      "body": "*Me gustaría que vinieras* (I'd like you to come). *Sería mejor que no dijeras nada* (It would be better if you didn't say anything). *Preferiría que me llamaras.*"
+    },
+    {
+      "heading": "Ojalá + imperfect subjunctive",
+      "body": "With the present subjunctive, *ojalá* is a real hope: *Ojalá venga* (I hope he comes — he might). With the imperfect subjunctive it's a wish about something unlikely or impossible now: *Ojalá estuvieras aquí* (I wish you were here). *Ojalá tuviera más tiempo* (I wish I had more time)."
+    }
+  ],
+  "vocab": [
+    ["quería que", "I wanted (someone) to"],
+    ["me pidió que", "he/she asked me to"],
+    ["me gustaría que", "I would like (someone) to"],
+    ["sería mejor que", "it would be better if"],
+    ["preferiría que", "I would prefer that"],
+    ["ojalá estuvieras", "I wish you were"],
+    ["ojalá tuviera", "I wish I had"],
+    ["me alegró que", "I was glad that"],
+    ["entendieras", "(that) you understood"],
+    ["ayudara", "(that) I/he/she helped"],
+    ["la verdad", "the truth"],
+    ["la reunión", "the meeting"]
+  ],
+  "examples": [
+    ["Quería que vinieras.", "I wanted you to come."],
+    ["Me pidió que lo ayudara.", "He asked me to help him."],
+    ["Me alegró que estuvieras aquí.", "I was glad you were here."],
+    ["Era importante que llegáramos a tiempo.", "It was important for us to arrive on time."],
+    ["Te lo expliqué para que entendieras.", "I explained it so you would understand."],
+    ["No creía que fuera verdad.", "I didn't believe it was true."],
+    ["Buscaba a alguien que supiera inglés.", "I was looking for someone who knew English."],
+    ["Me gustaría que vinieras a la fiesta.", "I'd like you to come to the party."],
+    ["Sería mejor que no dijeras nada.", "It would be better if you didn't say anything."],
+    ["Preferiría que me llamaras.", "I'd prefer that you call me."],
+    ["Ojalá venga.", "I hope he comes."],
+    ["Ojalá estuvieras aquí.", "I wish you were here."],
+    ["Ojalá tuviera más tiempo.", "I wish I had more time."],
+    ["El jefe nos dijo que termináramos el informe.", "The boss told us to finish the report."],
+    ["Mi madre no quería que saliera de noche.", "My mother didn't want me to go out at night."],
+    ["Fue una pena que no pudieras venir.", "It was a shame you couldn't come."],
+    ["Nos sorprendió que nadie fuera a la reunión.", "We were surprised that nobody went to the meeting."],
+    ["Dudaba que lo terminaran a tiempo.", "I doubted they'd finish it on time."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Quería que ___. (venir, tú)", "answers": ["vinieras"], "hint": "I wanted you to come."},
+    {"type": "fill", "prompt": "Me pidió que lo ___. (ayudar, yo)", "answers": ["ayudara"], "hint": "He asked me to help him."},
+    {"type": "fill", "prompt": "Me alegró que ___ aquí. (estar, tú)", "answers": ["estuvieras"], "hint": "I was glad you were here."},
+    {"type": "fill", "prompt": "Era importante que ___ a tiempo. (llegar, nosotros)", "answers": ["llegáramos"], "hint": "It was important for us to arrive on time."},
+    {"type": "fill", "prompt": "Te lo expliqué para que ___. (entender, tú)", "answers": ["entendieras"], "hint": "I explained it so you would understand."},
+    {"type": "fill", "prompt": "Buscaba a alguien que ___ inglés. (saber)", "answers": ["supiera"], "hint": "I was looking for someone who knew English."},
+    {"type": "fill", "prompt": "Me gustaría que ___ a la fiesta. (venir, tú)", "answers": ["vinieras"], "hint": "I'd like you to come to the party."},
+    {"type": "fill", "prompt": "Sería mejor que no ___ nada. (decir, tú)", "answers": ["dijeras"], "hint": "It would be better if you didn't say anything."},
+    {"type": "fill", "prompt": "Ojalá ___ aquí. (estar, tú)", "answers": ["estuvieras"], "hint": "I wish you were here."},
+    {"type": "fill", "prompt": "Ojalá ___ más tiempo. (tener, yo)", "answers": ["tuviera"], "hint": "I wish I had more time."},
+    {"type": "fill", "prompt": "El jefe nos dijo que ___ el informe. (terminar, nosotros)", "answers": ["termináramos"], "hint": "The boss told us to finish the report."},
+    {"type": "fill", "prompt": "Mi madre no quería que ___ de noche. (salir, yo)", "answers": ["saliera"], "hint": "My mother didn't want me to go out at night."},
+    {"type": "fill", "prompt": "Fue una pena que no ___ venir. (poder, tú)", "answers": ["pudieras"], "hint": "It was a shame you couldn't come."},
+    {"type": "mc", "prompt": "Choose: Quería que tú ___.", "options": ["vinieras", "vengas", "vienes", "vendrías"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Quiero que tú ___.", "options": ["vengas", "vinieras", "vienes", "vendrás"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Ojalá estuvieras aquí* means…", "options": ["I wish you were here.", "I hope you're here.", "I'm glad you're here.", "You were here."], "answer": 0},
+    {"type": "mc", "prompt": "*Ojalá venga* vs. *Ojalá viniera*:", "options": ["The first is a real hope; the second is less likely or impossible", "They are identical", "The first is past, the second is present"], "answer": 0},
+    {"type": "translate", "prompt": "I wanted you to come. (tú)", "answers": ["Quería que vinieras."]},
+    {"type": "translate", "prompt": "I wish you were here. (tú)", "answers": ["Ojalá estuvieras aquí.", "Ojalá que estuvieras aquí."]},
+    {"type": "translate", "prompt": "I'd like you to come to the party. (tú)", "answers": ["Me gustaría que vinieras a la fiesta."]},
+    {"type": "translate", "prompt": "He asked me to help him.", "answers": ["Me pidió que lo ayudara.", "Me pidió que le ayudara."]},
+    {"type": "translate", "prompt": "I wish I had more time.", "answers": ["Ojalá tuviera más tiempo.", "Ojalá que tuviera más tiempo."]},
+    {"type": "build", "prompt": "Put the words in order: \"We were surprised that nobody went to the meeting.\"", "answer": "Nos sorprendió que nadie fuera a la reunión."},
+    {"type": "build", "prompt": "Put the words in order: \"I'd prefer that you call me.\"", "answer": "Preferiría que me llamaras."},
+    {"type": "build", "prompt": "Put the words in order: \"I doubted they'd finish it on time.\"", "answer": "Dudaba que lo terminaran a tiempo."}
+  ]
+}

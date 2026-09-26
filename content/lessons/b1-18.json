@@ -1,0 +1,361 @@
+{
+  "sections": [
+    {
+      "heading": "Reporting what someone says",
+      "body": "When the reporting verb is in the **present** (*dice que*), the tenses don't change: *\"Estoy cansada.\"* → *Dice que está cansada.* Only pronouns and person change: *\"Te llamo mañana\"* → *Dice que me llama mañana.*"
+    },
+    {
+      "heading": "Reporting what someone said: tense shifts",
+      "body": "When the reporting verb is in the **past** (*dijo que, me contó que, explicó que*), tenses usually shift back:",
+      "table": {
+        "head": [
+          "Original words",
+          "Reported (dijo que…)"
+        ],
+        "rows": [
+          [
+            "present: *\"Estoy cansada.\"*",
+            "imperfect: *Dijo que estaba cansada.*"
+          ],
+          [
+            "preterite: *\"Perdí las llaves.\"*",
+            "pluperfect: *Dijo que había perdido las llaves.* (or preterite, in speech)"
+          ],
+          [
+            "present perfect: *\"He terminado.\"*",
+            "pluperfect: *Dijo que había terminado.*"
+          ],
+          [
+            "future: *\"Vendré mañana.\"*",
+            "conditional: *Dijo que vendría al día siguiente.*"
+          ],
+          [
+            "ir a: *\"Voy a llamar.\"*",
+            "iba a: *Dijo que iba a llamar.*"
+          ],
+          [
+            "imperfect: *\"Vivía en Lima.\"*",
+            "no change: *Dijo que vivía en Lima.*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Time and place words shift too",
+      "body": "*hoy → ese día*, *mañana → al día siguiente*, *ayer → el día anterior*, *ahora → en ese momento*, *aquí → allí*, *este → ese*. *\"Mañana voy aquí\"* → *Dijo que al día siguiente iba allí.*\n\nUseful reporting verbs (all take the indicative for statements): *decir, contar* (to tell), *explicar, comentar, contestar / responder* (to answer), *asegurar* (to assure), *añadir* (to add)."
+    }
+  ],
+  "vocab": [
+    [
+      "dijo que",
+      "he/she said that"
+    ],
+    [
+      "me contó que",
+      "he/she told me that"
+    ],
+    [
+      "explicó que",
+      "he/she explained that"
+    ],
+    [
+      "contestó que",
+      "he/she answered that"
+    ],
+    [
+      "comentar",
+      "to comment / mention"
+    ],
+    [
+      "asegurar",
+      "to assure"
+    ],
+    [
+      "añadir",
+      "to add"
+    ],
+    [
+      "ese día",
+      "that day"
+    ],
+    [
+      "al día siguiente",
+      "the next day"
+    ],
+    [
+      "el día anterior",
+      "the day before"
+    ],
+    [
+      "en ese momento",
+      "at that moment"
+    ],
+    [
+      "el estilo indirecto",
+      "reported speech"
+    ]
+  ],
+  "examples": [
+    [
+      "Dice que está cansada.",
+      "She says she's tired."
+    ],
+    [
+      "Dice que me llama mañana.",
+      "He says he'll call me tomorrow."
+    ],
+    [
+      "Dijo que estaba cansada.",
+      "She said she was tired."
+    ],
+    [
+      "Dijo que había perdido las llaves.",
+      "He said he had lost the keys."
+    ],
+    [
+      "Me contó que había terminado.",
+      "She told me she had finished."
+    ],
+    [
+      "Dijo que vendría al día siguiente.",
+      "He said he would come the next day."
+    ],
+    [
+      "Dijo que iba a llamar.",
+      "She said she was going to call."
+    ],
+    [
+      "Me explicó que vivía en Lima.",
+      "He explained that he lived in Lima."
+    ],
+    [
+      "Contestó que no sabía nada.",
+      "She answered that she didn't know anything."
+    ],
+    [
+      "Me aseguró que todo estaba bien.",
+      "He assured me that everything was fine."
+    ],
+    [
+      "Dijeron que llegarían tarde.",
+      "They said they would arrive late."
+    ],
+    [
+      "Comentó que el día anterior había llovido.",
+      "She mentioned that it had rained the day before."
+    ],
+    [
+      "Añadió que en ese momento no tenía tiempo.",
+      "He added that at that moment he didn't have time."
+    ],
+    [
+      "Me dijo que me quería.",
+      "He told me he loved me."
+    ],
+    [
+      "Dijo que ese día no trabajaba.",
+      "She said she wasn't working that day."
+    ],
+    [
+      "Dijo que allí hacía mucho calor.",
+      "He said it was very hot there."
+    ],
+    [
+      "Llegaremos tarde.",
+      "We'll arrive late."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "\"Estoy cansada.\" → Dijo que ___ cansada.",
+      "answers": [
+        "estaba"
+      ],
+      "hint": "She said she was tired."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Perdí las llaves.\" → Dijo que ___ perdido las llaves.",
+      "answers": [
+        "había"
+      ],
+      "hint": "He said he had lost the keys."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"He terminado.\" → Me contó que ___ terminado.",
+      "answers": [
+        "había"
+      ],
+      "hint": "She told me she had finished."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Vendré mañana.\" → Dijo que ___ al día siguiente.",
+      "answers": [
+        "vendría"
+      ],
+      "hint": "He said he would come the next day."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Voy a llamar.\" → Dijo que ___ a llamar.",
+      "answers": [
+        "iba"
+      ],
+      "hint": "She said she was going to call."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Vivo en Lima.\" → Me explicó que ___ en Lima.",
+      "answers": [
+        "vivía"
+      ],
+      "hint": "He explained that he lived in Lima."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"No sé nada.\" → Contestó que no ___ nada.",
+      "answers": [
+        "sabía"
+      ],
+      "hint": "She answered that she didn't know anything."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Llegaremos tarde.\" → Dijeron que ___ tarde.",
+      "answers": [
+        "llegarían"
+      ],
+      "hint": "They said they would arrive late."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Estoy cansada.\" → Dice que ___ cansada.",
+      "answers": [
+        "está"
+      ],
+      "hint": "She says she's tired."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Vendré mañana.\" → Dijo que vendría al día ___.",
+      "answers": [
+        "siguiente"
+      ],
+      "hint": "He said he would come the next day."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Ayer llovió.\" → Dijo que el día ___ había llovido.",
+      "answers": [
+        "anterior"
+      ],
+      "hint": "She said it had rained the day before."
+    },
+    {
+      "type": "fill",
+      "prompt": "\"Te quiero.\" → Me dijo que me ___.",
+      "answers": [
+        "quería"
+      ],
+      "hint": "He told me he loved me."
+    },
+    {
+      "type": "mc",
+      "prompt": "After *dice que* (present), the original tense…",
+      "options": [
+        "doesn't change",
+        "moves one step back",
+        "becomes subjunctive"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "The future *vendré* becomes, after *dijo que*…",
+      "options": [
+        "vendría",
+        "vendrá",
+        "venía",
+        "viniera"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"*Aquí hace frío*,\" dijo. → Dijo que ___ hacía frío.",
+      "options": [
+        "allí",
+        "aquí",
+        "acá",
+        "ahí mismo aquí"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the reported form of *\"Estoy aquí\"*?",
+      "options": [
+        "Dijo que estaba allí.",
+        "Dijo que estoy aquí.",
+        "Dijo que esté allí."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "She said she was tired.",
+      "answers": [
+        "Dijo que estaba cansada."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He said he would come the next day.",
+      "answers": [
+        "Dijo que vendría al día siguiente."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "They said they would arrive late.",
+      "answers": [
+        "Dijeron que llegarían tarde."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He told me he loved me.",
+      "answers": [
+        "Me dijo que me quería."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "She said she was going to call.",
+      "answers": [
+        "Dijo que iba a llamar."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He assured me that everything was fine.\"",
+      "answer": "Me aseguró que todo estaba bien."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"She mentioned that it had rained the day before.\"",
+      "answer": "Comentó que el día anterior había llovido."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He said it was very hot there.\"",
+      "answer": "Dijo que allí hacía mucho calor."
+    }
+  ]
+}

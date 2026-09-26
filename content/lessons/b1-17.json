@@ -1,0 +1,81 @@
+{
+  "sections": [
+    {
+      "heading": "The present perfect subjunctive",
+      "body": "Form: present subjunctive of *haber* + past participle.",
+      "table": {
+        "head": ["Pronoun", "haber", "Example"],
+        "rows": [
+          ["*yo*", "*haya*", "*haya terminado*"],
+          ["*tú*", "*hayas*", "*hayas llegado*"],
+          ["*él / ella / usted*", "*haya*", "*haya dicho*"],
+          ["*nosotros*", "*hayamos*", "*hayamos visto*"],
+          ["*ustedes / ellos*", "*hayan*", "*hayan salido*"]
+        ]
+      }
+    },
+    {
+      "heading": "When to use it",
+      "body": "It's the subjunctive version of the present perfect (*he terminado*): a completed action, looked at from now, after a subjunctive trigger.\n\n- *Espero que hayas llegado bien.* (I hope you got there OK.)\n- *Me alegra que hayas venido.* (I'm glad you came.)\n- *No creo que haya terminado.* (I don't think he's finished.)\n- *Es posible que se hayan perdido.* (They may have gotten lost.)\n- *Ojalá haya aprobado.* (I hope she passed.)\n- With future time clauses, for something completed by then: *Llámame cuando hayas terminado.* (Call me when you've finished.)\n\nCompare: *Espero que llegues bien* (I hope you arrive safely — future) vs. *Espero que hayas llegado bien* (I hope you arrived safely — already done)."
+    }
+  ],
+  "vocab": [
+    ["haya", "have (present subj. of haber)"],
+    ["hayas", "you have (subj.)"],
+    ["hayamos", "we have (subj.)"],
+    ["hayan", "they have (subj.)"],
+    ["espero que hayas", "I hope you have (done)"],
+    ["perderse", "to get lost"],
+    ["aprobar", "to pass (a test)"],
+    ["el paquete", "the package"],
+    ["recibir", "to receive"],
+    ["olvidarse", "to forget"],
+    ["arreglar", "to fix / to arrange"],
+    ["la llamada", "the call"]
+  ],
+  "examples": [
+    ["Espero que hayas llegado bien.", "I hope you got there OK."],
+    ["Me alegra que hayas venido.", "I'm glad you came."],
+    ["No creo que haya terminado.", "I don't think he's finished."],
+    ["Es posible que se hayan perdido.", "They may have gotten lost."],
+    ["Ojalá haya aprobado el examen.", "I hope she passed the exam."],
+    ["Llámame cuando hayas terminado.", "Call me when you've finished."],
+    ["Espero que llegues bien.", "I hope you arrive safely."],
+    ["Dudo que hayan recibido el paquete.", "I doubt they've received the package."],
+    ["Es raro que no haya llamado.", "It's strange that he hasn't called."],
+    ["Siento que hayas tenido un mal día.", "I'm sorry you've had a bad day."],
+    ["Me sorprende que no te hayas dado cuenta.", "I'm surprised you haven't noticed."],
+    ["No hay nadie que haya visto la película.", "There's nobody who's seen the movie."],
+    ["Espero que no se hayan olvidado de mí.", "I hope they haven't forgotten me."],
+    ["Cuando hayamos comido, salimos.", "When we've eaten, we'll leave."],
+    ["Ojalá hayan arreglado la computadora.", "I hope they've fixed the computer."],
+    ["No es verdad que lo haya dicho.", "It's not true that she said it."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Espero que ___ llegado bien. (tú)", "answers": ["hayas"], "hint": "I hope you got there OK."},
+    {"type": "fill", "prompt": "Me alegra que ___ venido. (tú)", "answers": ["hayas"], "hint": "I'm glad you came."},
+    {"type": "fill", "prompt": "No creo que ___ terminado. (él)", "answers": ["haya"], "hint": "I don't think he's finished."},
+    {"type": "fill", "prompt": "Es posible que se ___ perdido. (ellos)", "answers": ["hayan"], "hint": "They may have gotten lost."},
+    {"type": "fill", "prompt": "Ojalá haya ___ el examen. (aprobar)", "answers": ["aprobado"], "hint": "I hope she passed the exam."},
+    {"type": "fill", "prompt": "Llámame cuando ___ terminado. (tú)", "answers": ["hayas"], "hint": "Call me when you've finished."},
+    {"type": "fill", "prompt": "Dudo que hayan ___ el paquete. (recibir)", "answers": ["recibido"], "hint": "I doubt they've received the package."},
+    {"type": "fill", "prompt": "Es raro que no haya ___. (llamar)", "answers": ["llamado"], "hint": "It's strange that he hasn't called."},
+    {"type": "fill", "prompt": "No hay nadie que haya ___ la película. (ver)", "answers": ["visto"], "hint": "There's nobody who's seen the movie."},
+    {"type": "fill", "prompt": "Cuando ___ comido, salimos. (nosotros)", "answers": ["hayamos"], "hint": "When we've eaten, we'll leave."},
+    {"type": "fill", "prompt": "No es verdad que lo haya ___. (decir)", "answers": ["dicho"], "hint": "It's not true that she said it."},
+    {"type": "fill", "prompt": "Siento que ___ tenido un mal día. (tú)", "answers": ["hayas"], "hint": "I'm sorry you've had a bad day."},
+    {"type": "mc", "prompt": "*Espero que hayas llegado bien* means…", "options": ["I hope you got there OK.", "I hope you arrive safely.", "I hoped you would arrive.", "I know you arrived."], "answer": 0},
+    {"type": "mc", "prompt": "*Espero que llegues bien* means…", "options": ["I hope you arrive safely (future).", "I hope you arrived safely.", "I'm sure you arrived.", "I wanted you to arrive."], "answer": 0},
+    {"type": "mc", "prompt": "The present perfect subjunctive uses…", "options": ["haya + participle", "había + participle", "he + participle", "hubiera + participle"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: Llámame cuando ___ terminado.", "options": ["hayas", "has", "habrás", "hubieras"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Sé que ___ terminado.", "options": ["has", "hayas"], "answer": 0, "lang": "es", "explain": "*Saber que* states a fact → indicative."},
+    {"type": "translate", "prompt": "I hope you got there OK. (tú)", "answers": ["Espero que hayas llegado bien."]},
+    {"type": "translate", "prompt": "I'm glad you came. (tú)", "answers": ["Me alegra que hayas venido.", "Me alegro de que hayas venido.", "Qué bueno que viniste."]},
+    {"type": "translate", "prompt": "I don't think he's finished.", "answers": ["No creo que haya terminado."]},
+    {"type": "translate", "prompt": "Call me when you've finished. (tú)", "answers": ["Llámame cuando hayas terminado.", "Llámame cuando termines."]},
+    {"type": "translate", "prompt": "They may have gotten lost.", "answers": ["Es posible que se hayan perdido.", "Puede que se hayan perdido.", "Quizás se hayan perdido."]},
+    {"type": "build", "prompt": "Put the words in order: \"I hope they haven't forgotten me.\"", "answer": "Espero que no se hayan olvidado de mí."},
+    {"type": "build", "prompt": "Put the words in order: \"I'm surprised you haven't noticed.\"", "answer": "Me sorprende que no te hayas dado cuenta."},
+    {"type": "build", "prompt": "Put the words in order: \"I hope they've fixed the computer.\"", "answer": "Ojalá hayan arreglado la computadora."}
+  ]
+}
