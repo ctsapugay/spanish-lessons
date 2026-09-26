@@ -73,3 +73,7 @@ reader: state, not narrative.
 
 - **state:** A1–B1 (98 lessons) written; CHK-002 passes for all 98; CHK-003 green (25/25). B1 review recorded (curriculum/reviews/B1.md, 10 findings fixed — notably regional: *coger* avoided, *estar por* for "about to").
 - **next:** B2 (34 lessons), B2 review, C1 (30), C1 review, final verification and criteria evidence.
+
+## 2026-09-26 — Check tightened again (C-CHECKS-NOT-WEAKENED record)
+
+- **decisions:** CHK-002 made stricter: **bold** text in explanations is English emphasis and no longer counts as taught Spanish (previously English words like "hypothetical" inside bold slipped through as "known"). Only *italic* spans teach. Fallout: one nested-bold span in b1-02 rewritten; all 103 lessons pass.

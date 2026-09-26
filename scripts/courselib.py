@@ -158,5 +158,5 @@ def tokens(text: str) -> list[str]:
 
 
 def spanish_spans_in_body(body: str) -> list[str]:
-    """Spanish in explanation text is marked with *italics* (and **bold** inside tables)."""
-    return ITALIC_RE.findall(body) + BOLD_RE.findall(body)
+    """Spanish in explanation text is marked with *italics*. **Bold** is English emphasis."""
+    return ITALIC_RE.findall(BOLD_RE.sub(" ", body))

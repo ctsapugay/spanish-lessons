@@ -1,0 +1,339 @@
+{
+  "sections": [
+    {
+      "heading": "Aunque: indicative or subjunctive",
+      "body": "*Aunque* (although / even if / even though) changes meaning with the mood:\n\n- **Indicative** — you present the obstacle as a real, new fact: *Aunque está cansado, sigue trabajando.* (Although he's tired — and he is — he keeps working.)\n- **Present subjunctive** — hypothetical (\"even if\") or a fact that doesn't matter / is already known: *Aunque esté cansado, tiene que terminar.* (Even if he's tired / tired or not, he has to finish.) *Aunque no te guste, es la verdad.*\n- **Imperfect subjunctive** — unlikely or contrary to fact: *Aunque tuviera dinero, no lo compraría.* (Even if I had money — I don't — I wouldn't buy it.)"
+    },
+    {
+      "heading": "A pesar de",
+      "body": "*A pesar de* (despite) + noun or infinitive: *A pesar de la lluvia, salimos.* *A pesar de estar cansada, fue a la fiesta.* With a clause: *a pesar de que* + indicative (fact) or subjunctive (hypothetical / irrelevant), like *aunque*: *A pesar de que estudió mucho, no aprobó.*"
+    },
+    {
+      "heading": "Por mucho que / por más que",
+      "body": "\"However much / no matter how much\": *Por mucho que estudies, no vas a aprobar sin práctica.* *Por más que lo intento, no me sale.* (No matter how hard I try, I can't do it — here indicative: real, repeated attempts.) Also: *por muy* + adjective + *que*: *Por muy difícil que sea, lo voy a intentar.* (However hard it is…)"
+    },
+    {
+      "heading": "Other ways to concede",
+      "body": "*Aun así* (even so): *Es caro. Aun así, lo quiero.* *De todas formas / de todos modos* (anyway): *No me invitaron, pero voy a ir de todas formas.* *Si bien* (although — formal writing): *Si bien es cierto que…*"
+    }
+  ],
+  "vocab": [
+    [
+      "aunque",
+      "although / even if"
+    ],
+    [
+      "a pesar de",
+      "despite"
+    ],
+    [
+      "a pesar de que",
+      "even though"
+    ],
+    [
+      "por mucho que",
+      "however much"
+    ],
+    [
+      "por más que",
+      "no matter how much"
+    ],
+    [
+      "por muy … que",
+      "however (adjective)"
+    ],
+    [
+      "aun así",
+      "even so"
+    ],
+    [
+      "de todas formas",
+      "anyway"
+    ],
+    [
+      "de todos modos",
+      "anyway / in any case"
+    ],
+    [
+      "si bien",
+      "although (formal)"
+    ],
+    [
+      "intentar",
+      "to try"
+    ],
+    [
+      "me sale",
+      "I manage it / it works out for me"
+    ],
+    [
+      "el esfuerzo",
+      "the effort"
+    ],
+    [
+      "la práctica",
+      "practice"
+    ]
+  ],
+  "examples": [
+    [
+      "Aunque está cansado, sigue trabajando.",
+      "Although he's tired, he keeps working."
+    ],
+    [
+      "Aunque esté cansado, tiene que terminar.",
+      "Even if he's tired, he has to finish."
+    ],
+    [
+      "Aunque no te guste, es la verdad.",
+      "Whether you like it or not, it's the truth."
+    ],
+    [
+      "Aunque tuviera dinero, no lo compraría.",
+      "Even if I had money, I wouldn't buy it."
+    ],
+    [
+      "A pesar de la lluvia, salimos.",
+      "Despite the rain, we went out."
+    ],
+    [
+      "A pesar de estar cansada, fue a la fiesta.",
+      "Despite being tired, she went to the party."
+    ],
+    [
+      "A pesar de que estudió mucho, no aprobó.",
+      "Even though he studied a lot, he didn't pass."
+    ],
+    [
+      "Por mucho que estudies, no vas a aprobar sin práctica.",
+      "However much you study, you won't pass without practice."
+    ],
+    [
+      "Por más que lo intento, no me sale.",
+      "No matter how hard I try, I can't do it."
+    ],
+    [
+      "Por muy difícil que sea, lo voy a intentar.",
+      "However hard it is, I'm going to try."
+    ],
+    [
+      "Es caro. Aun así, lo quiero.",
+      "It's expensive. Even so, I want it."
+    ],
+    [
+      "No me invitaron, pero voy a ir de todas formas.",
+      "They didn't invite me, but I'm going anyway."
+    ],
+    [
+      "Si bien es cierto que es caro, la calidad es excelente.",
+      "While it's true that it's expensive, the quality is excellent."
+    ],
+    [
+      "Aunque llueva mañana, iremos a la playa.",
+      "Even if it rains tomorrow, we'll go to the beach."
+    ],
+    [
+      "Aunque sea tarde, llámame.",
+      "Even if it's late, call me."
+    ],
+    [
+      "De todos modos, gracias por tu esfuerzo.",
+      "Anyway, thanks for your effort."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose (it IS raining — a fact): Aunque ___, salgo.",
+      "options": [
+        "llueve",
+        "llueva",
+        "lloviera"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose (even if — hypothetical): Aunque ___ mañana, iremos a la playa.",
+      "options": [
+        "llueva",
+        "llueve",
+        "lloverá"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose (contrary to fact): Aunque ___ dinero, no lo compraría.",
+      "options": [
+        "tuviera",
+        "tengo",
+        "tenga",
+        "tendría"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Por más que lo intento, no me sale* means…",
+      "options": [
+        "No matter how hard I try, I can't do it.",
+        "The more I try, the better it goes.",
+        "I try more, but I leave.",
+        "I'll try more later."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "\"Despite being tired\" is…",
+      "options": [
+        "A pesar de estar cansada",
+        "A pesar de que cansada",
+        "Aunque de estar cansada",
+        "Por mucho cansada"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Aun así* means…",
+      "options": [
+        "even so",
+        "just like that",
+        "still here",
+        "also"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Aunque ___ cansado, tiene que terminar. (estar)",
+      "answers": [
+        "esté"
+      ],
+      "hint": "Even if he's tired, he has to finish."
+    },
+    {
+      "type": "fill",
+      "prompt": "Aunque no te ___, es la verdad. (gustar)",
+      "answers": [
+        "guste"
+      ],
+      "hint": "Whether you like it or not, it's the truth."
+    },
+    {
+      "type": "fill",
+      "prompt": "A pesar ___ la lluvia, salimos.",
+      "answers": [
+        "de"
+      ],
+      "hint": "Despite the rain, we went out."
+    },
+    {
+      "type": "fill",
+      "prompt": "A pesar de que ___ mucho, no aprobó. (estudiar, él)",
+      "answers": [
+        "estudió"
+      ],
+      "hint": "Even though he studied a lot, he didn't pass."
+    },
+    {
+      "type": "fill",
+      "prompt": "Por mucho que ___, no vas a aprobar sin práctica. (estudiar, tú)",
+      "answers": [
+        "estudies"
+      ],
+      "hint": "However much you study, you won't pass without practice."
+    },
+    {
+      "type": "fill",
+      "prompt": "Por muy difícil que ___, lo voy a intentar. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "However hard it is, I'm going to try."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es caro. Aun ___, lo quiero.",
+      "answers": [
+        "así"
+      ],
+      "hint": "It's expensive. Even so, I want it."
+    },
+    {
+      "type": "fill",
+      "prompt": "Voy a ir de todas ___.",
+      "answers": [
+        "formas"
+      ],
+      "hint": "I'm going anyway."
+    },
+    {
+      "type": "fill",
+      "prompt": "Aunque ___ tarde, llámame. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "Even if it's late, call me."
+    },
+    {
+      "type": "translate",
+      "prompt": "Even if it's late, call me. (tú)",
+      "answers": [
+        "Aunque sea tarde, llámame.",
+        "Llámame aunque sea tarde."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Despite the rain, we went out.",
+      "answers": [
+        "A pesar de la lluvia, salimos."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Even if I had money, I wouldn't buy it.",
+      "answers": [
+        "Aunque tuviera dinero, no lo compraría.",
+        "Aunque tuviese dinero, no lo compraría."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's expensive. Even so, I want it.",
+      "answers": [
+        "Es caro. Aun así, lo quiero."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "However hard it is, I'm going to try.",
+      "answers": [
+        "Por muy difícil que sea, lo voy a intentar.",
+        "Por difícil que sea, lo voy a intentar."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Although he's tired, he keeps working.\"",
+      "answer": "Aunque está cansado, sigue trabajando."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"No matter how hard I try, I can't do it.\"",
+      "answer": "Por más que lo intento, no me sale."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Anyway, thanks for your effort.\"",
+      "answer": "De todos modos, gracias por tu esfuerzo."
+    }
+  ]
+}

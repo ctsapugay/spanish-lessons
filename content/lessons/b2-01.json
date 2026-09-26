@@ -1,0 +1,353 @@
+{
+  "sections": [
+    {
+      "heading": "One idea behind the subjunctive",
+      "body": "At B1 you learned the subjunctive trigger by trigger. At B2 it helps to see the common thread: the **indicative asserts** — it presents something as information, as true. The **subjunctive does not assert** — the clause is wished for, required, judged, doubted, not yet real, or simply taken as known background you're reacting to.\n\n- *Sé que viene.* (I'm stating a fact.) vs. *Quiero que venga.* (Not a fact — a wish.)\n- *Es cierto que es caro.* (asserting) vs. *Es lógico que sea caro.* (judging)\n- *Busco al chico que habla francés.* (a known person) vs. *Busco a alguien que hable francés.* (unknown)\n- *Cuando llega, cenamos.* (habit — real) vs. *Cuando llegue, cenamos.* (future — not yet real)"
+    },
+    {
+      "heading": "The same verb, two moods",
+      "body": "Some structures allow both, with a difference in meaning:\n\n- *Aunque llueve, salgo.* (It is raining — fact.) vs. *Aunque llueva, salgo.* (Even if it rains — or: it may be raining, doesn't matter.)\n- *Como quieres.* (As you want — known.) vs. *Como quieras.* (However you want / Whatever you prefer.)\n- *Hazlo donde te dicen.* (where they tell you — a specific place) vs. *Hazlo donde quieras.* (wherever you want)\n- *El hecho de que* + subjunctive is the norm, even for facts: *El hecho de que no llame me preocupa.*"
+    },
+    {
+      "heading": "A decision checklist",
+      "body": "When you hesitate, ask:\n\n1. Is there a trigger of wish, influence, emotion, judgment or doubt before *que*? → subjunctive\n2. Is it about the future after a time word (*cuando, hasta que, en cuanto…*)? → subjunctive\n3. Is the thing described unknown or non-existent? → subjunctive\n4. Is it purpose (*para que*) or before (*antes de que*)? → subjunctive\n5. Otherwise, is it simply being stated as true? → indicative"
+    }
+  ],
+  "vocab": [
+    [
+      "afirmar",
+      "to assert / state"
+    ],
+    [
+      "asegurar",
+      "to assure / affirm"
+    ],
+    [
+      "el hecho de que",
+      "the fact that"
+    ],
+    [
+      "lógico / lógica",
+      "logical / natural"
+    ],
+    [
+      "como quieras",
+      "however you like / as you wish"
+    ],
+    [
+      "donde quieras",
+      "wherever you want"
+    ],
+    [
+      "lo que quieras",
+      "whatever you want"
+    ],
+    [
+      "cuando quieras",
+      "whenever you want"
+    ],
+    [
+      "aunque llueva",
+      "even if it rains"
+    ],
+    [
+      "el matiz",
+      "the nuance"
+    ],
+    [
+      "la duda",
+      "doubt"
+    ],
+    [
+      "el deseo",
+      "the wish"
+    ],
+    [
+      "la hipótesis",
+      "the hypothesis"
+    ]
+  ],
+  "examples": [
+    [
+      "Sé que viene.",
+      "I know he's coming."
+    ],
+    [
+      "Quiero que venga.",
+      "I want him to come."
+    ],
+    [
+      "Es cierto que es caro.",
+      "It's true that it's expensive."
+    ],
+    [
+      "Es lógico que sea caro.",
+      "It makes sense that it's expensive."
+    ],
+    [
+      "Busco al chico que habla francés.",
+      "I'm looking for the boy who speaks French."
+    ],
+    [
+      "Busco a alguien que hable francés.",
+      "I'm looking for someone who speaks French."
+    ],
+    [
+      "Cuando llega, cenamos.",
+      "When he arrives, we have dinner. (habit)"
+    ],
+    [
+      "Cuando llegue, cenamos.",
+      "When he arrives, we'll have dinner."
+    ],
+    [
+      "Aunque llueve, salgo.",
+      "Although it's raining, I'm going out."
+    ],
+    [
+      "Aunque llueva, salgo.",
+      "Even if it rains, I'm going out."
+    ],
+    [
+      "Como quieras.",
+      "As you wish. / Whatever you prefer."
+    ],
+    [
+      "Siéntate donde quieras.",
+      "Sit wherever you like."
+    ],
+    [
+      "Llámame cuando quieras.",
+      "Call me whenever you want."
+    ],
+    [
+      "Pide lo que quieras.",
+      "Order whatever you want."
+    ],
+    [
+      "El hecho de que no llame me preocupa.",
+      "The fact that he doesn't call worries me."
+    ],
+    [
+      "Afirma que es inocente.",
+      "He asserts that he's innocent."
+    ],
+    [
+      "No afirma que sea inocente.",
+      "He doesn't claim to be innocent."
+    ],
+    [
+      "Es un matiz importante.",
+      "It's an important nuance."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose: Sé que ___.",
+      "options": [
+        "viene",
+        "venga"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Es lógico que ___ caro.",
+      "options": [
+        "sea",
+        "es"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Busco al chico que ___ francés. (a specific boy)",
+      "options": [
+        "habla",
+        "hable"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Cuando ___, cenamos. (future)",
+      "options": [
+        "llegue",
+        "llega"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Aunque llueva, salgo* means…",
+      "options": [
+        "Even if it rains, I'm going out.",
+        "Although it's raining (now), I'm going out.",
+        "Because it rains, I go out."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Como quieras* means…",
+      "options": [
+        "As you wish / whatever you prefer",
+        "Since you want",
+        "How do you want it?",
+        "Like you want it (known)"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: El hecho de que no ___ me preocupa.",
+      "options": [
+        "llame",
+        "llama"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*El hecho de que* normally takes the subjunctive, even for facts."
+    },
+    {
+      "type": "mc",
+      "prompt": "The indicative generally…",
+      "options": [
+        "asserts information as true",
+        "expresses wishes",
+        "expresses doubt",
+        "is used after para que"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Quiero que ___. (venir, él)",
+      "answers": [
+        "venga"
+      ],
+      "hint": "I want him to come."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es cierto que ___ caro. (ser)",
+      "answers": [
+        "es"
+      ],
+      "hint": "It's true that it's expensive."
+    },
+    {
+      "type": "fill",
+      "prompt": "Busco a alguien que ___ francés. (hablar)",
+      "answers": [
+        "hable"
+      ],
+      "hint": "I'm looking for someone who speaks French."
+    },
+    {
+      "type": "fill",
+      "prompt": "Aunque ___, salgo. (llover)",
+      "answers": [
+        "llueve"
+      ],
+      "hint": "Although it's raining, I'm going out."
+    },
+    {
+      "type": "fill",
+      "prompt": "Siéntate donde ___. (querer, tú)",
+      "answers": [
+        "quieras"
+      ],
+      "hint": "Sit wherever you like."
+    },
+    {
+      "type": "fill",
+      "prompt": "Llámame cuando ___. (querer, tú)",
+      "answers": [
+        "quieras"
+      ],
+      "hint": "Call me whenever you want."
+    },
+    {
+      "type": "fill",
+      "prompt": "Pide lo que ___. (querer, tú)",
+      "answers": [
+        "quieras"
+      ],
+      "hint": "Order whatever you want."
+    },
+    {
+      "type": "fill",
+      "prompt": "No afirma que ___ inocente. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "He doesn't claim to be innocent."
+    },
+    {
+      "type": "fill",
+      "prompt": "Afirma que ___ inocente. (ser)",
+      "answers": [
+        "es"
+      ],
+      "hint": "He asserts that he's innocent."
+    },
+    {
+      "type": "translate",
+      "prompt": "Sit wherever you like. (tú)",
+      "answers": [
+        "Siéntate donde quieras."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "As you wish. (tú)",
+      "answers": [
+        "Como quieras."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Even if it rains, I'm going out.",
+      "answers": [
+        "Aunque llueva, salgo.",
+        "Aunque llueva, voy a salir."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The fact that he doesn't call worries me.",
+      "answers": [
+        "El hecho de que no llame me preocupa.",
+        "Me preocupa el hecho de que no llame."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Order whatever you want. (tú)",
+      "answers": [
+        "Pide lo que quieras."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It makes sense that it's expensive.\"",
+      "answer": "Es lógico que sea caro."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'm looking for the boy who speaks French.\"",
+      "answer": "Busco al chico que habla francés."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Call me whenever you want.\"",
+      "answer": "Llámame cuando quieras."
+    }
+  ]
+}

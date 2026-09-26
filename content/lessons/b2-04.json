@@ -1,0 +1,83 @@
+{
+  "sections": [
+    {
+      "heading": "The pluperfect subjunctive",
+      "body": "Form: imperfect subjunctive of *haber* + past participle.",
+      "table": {
+        "head": ["Pronoun", "haber", "Example"],
+        "rows": [
+          ["*yo*", "*hubiera*", "*hubiera sabido* — (if) I had known"],
+          ["*tú*", "*hubieras*", "*hubieras venido*"],
+          ["*él / ella / usted*", "*hubiera*", "*hubiera llamado*"],
+          ["*nosotros*", "*hubiéramos*", "*hubiéramos salido*"],
+          ["*ustedes / ellos*", "*hubieran*", "*hubieran dicho*"]
+        ]
+      }
+    },
+    {
+      "heading": "Past unreal conditions",
+      "body": "To talk about what **would have happened** if the past had been different:\n\n*si* + pluperfect subjunctive, + conditional perfect (*habría* + participle):\n\n*Si hubiera sabido, te habría llamado.* (If I had known, I would have called you.)\n*Si hubiéramos salido antes, no habríamos perdido el tren.*\n\nIn everyday speech, the result clause very often uses *hubiera* too: *Si hubiera sabido, te hubiera llamado.* Both are correct.\n\nMixed: past condition, present result: *Si hubiera estudiado medicina, ahora sería médico.* (If I had studied medicine, I'd be a doctor now.)"
+    },
+    {
+      "heading": "Regrets and reproaches",
+      "body": "- *Ojalá* + pluperfect subjunctive = if only / I wish (about the past): *Ojalá hubiera estudiado más.* (I wish I had studied more.) *Ojalá no lo hubiera dicho.*\n- *Deberías haber* + participle = you should have: *Deberías haberme llamado.* *No deberías haberlo hecho.*\n- *Me habría gustado* + infinitive / *que* + pluperfect subjunctive: *Me habría gustado verte. Me habría gustado que vinieras / hubieras venido.*"
+    }
+  ],
+  "vocab": [
+    ["hubiera", "had (pluperfect subj. of haber)"],
+    ["si hubiera sabido", "if I had known"],
+    ["habría", "would have (+ participle)"],
+    ["te habría llamado", "I would have called you"],
+    ["ojalá hubiera", "if only I had / I wish I had"],
+    ["deberías haber", "you should have"],
+    ["me habría gustado", "I would have liked"],
+    ["el arrepentimiento", "regret"],
+    ["perder el tren", "to miss the train"],
+    ["avisar", "to warn / let know"],
+    ["aceptar", "to accept"],
+    ["la oportunidad", "the opportunity"]
+  ],
+  "examples": [
+    ["Si hubiera sabido, te habría llamado.", "If I had known, I would have called you."],
+    ["Si hubiera sabido, te hubiera llamado.", "If I had known, I would have called you."],
+    ["Si hubiéramos salido antes, no habríamos perdido el tren.", "If we had left earlier, we wouldn't have missed the train."],
+    ["Si hubiera estudiado medicina, ahora sería médico.", "If I had studied medicine, I'd be a doctor now."],
+    ["¿Qué habrías hecho tú?", "What would you have done?"],
+    ["Ojalá hubiera estudiado más.", "I wish I had studied more."],
+    ["Ojalá no lo hubiera dicho.", "I wish I hadn't said it."],
+    ["Deberías haberme llamado.", "You should have called me."],
+    ["No deberías haberlo hecho.", "You shouldn't have done it."],
+    ["Me habría gustado verte.", "I would have liked to see you."],
+    ["Me habría gustado que hubieras venido.", "I would have liked you to have come."],
+    ["Si me hubieras avisado, habría ido.", "If you had told me, I would have gone."],
+    ["Si hubieran aceptado, todo sería diferente.", "If they had accepted, everything would be different."],
+    ["Si no hubiera llovido, habríamos ido a la playa.", "If it hadn't rained, we'd have gone to the beach."],
+    ["Habría sido una gran oportunidad.", "It would have been a great opportunity."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Si ___ sabido, te habría llamado. (yo)", "answers": ["hubiera", "hubiese"], "hint": "If I had known, I would have called you."},
+    {"type": "fill", "prompt": "Si hubiera sabido, te ___ llamado.", "answers": ["habría", "hubiera"], "hint": "If I had known, I would have called you."},
+    {"type": "fill", "prompt": "Si ___ salido antes, no habríamos perdido el tren. (nosotros)", "answers": ["hubiéramos", "hubiésemos"], "hint": "If we had left earlier, we wouldn't have missed the train."},
+    {"type": "fill", "prompt": "Si hubiera estudiado medicina, ahora ___ médico. (ser)", "answers": ["sería"], "hint": "If I had studied medicine, I'd be a doctor now."},
+    {"type": "fill", "prompt": "¿Qué ___ hecho tú?", "answers": ["habrías", "hubieras"], "hint": "What would you have done?"},
+    {"type": "fill", "prompt": "Ojalá ___ estudiado más. (yo)", "answers": ["hubiera", "hubiese"], "hint": "I wish I had studied more."},
+    {"type": "fill", "prompt": "Ojalá no lo hubiera ___. (decir)", "answers": ["dicho"], "hint": "I wish I hadn't said it."},
+    {"type": "fill", "prompt": "Deberías ___ llamado. (haber + me)", "answers": ["haberme"], "hint": "You should have called me. (one word)"},
+    {"type": "fill", "prompt": "Me habría ___ verte. (gustar)", "answers": ["gustado"], "hint": "I would have liked to see you."},
+    {"type": "fill", "prompt": "Si me hubieras avisado, ___ ido. (yo)", "answers": ["habría", "hubiera"], "hint": "If you had told me, I would have gone."},
+    {"type": "fill", "prompt": "Si no hubiera ___, habríamos ido a la playa. (llover)", "answers": ["llovido"], "hint": "If it hadn't rained, we'd have gone to the beach."},
+    {"type": "mc", "prompt": "\"If I had known, I would have called you\" is…", "options": ["Si hubiera sabido, te habría llamado.", "Si habría sabido, te hubiera llamado.", "Si sabía, te llamaba.", "Si supiera, te llamaría."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which one can NOT go after *si*?", "options": ["habría sabido", "hubiera sabido", "hubiese sabido"], "answer": 0, "explain": "The conditional (perfect) never goes in the *si* clause."},
+    {"type": "mc", "prompt": "*Ojalá hubiera estudiado más* expresses…", "options": ["regret about the past", "hope for the future", "a present fact", "an order"], "answer": 0},
+    {"type": "mc", "prompt": "*Si hubiera estudiado medicina, ahora sería médico* mixes…", "options": ["a past condition with a present result", "two future events", "two present facts"], "answer": 0},
+    {"type": "mc", "prompt": "\"You shouldn't have done it\" is…", "options": ["No deberías haberlo hecho.", "No debías hacerlo nunca.", "No lo hubieras debido.", "No deberías lo haber hecho."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "If I had known, I would have called you. (tú)", "answers": ["Si hubiera sabido, te habría llamado.", "Si hubiera sabido, te hubiera llamado.", "Si lo hubiera sabido, te habría llamado.", "Si lo hubiera sabido, te hubiera llamado."]},
+    {"type": "translate", "prompt": "I wish I had studied more.", "answers": ["Ojalá hubiera estudiado más.", "Ojalá hubiese estudiado más."]},
+    {"type": "translate", "prompt": "You should have called me. (tú)", "answers": ["Deberías haberme llamado.", "Me deberías haber llamado."]},
+    {"type": "translate", "prompt": "What would you have done? (tú)", "answers": ["¿Qué habrías hecho?", "¿Qué habrías hecho tú?", "¿Qué hubieras hecho?", "¿Qué hubieras hecho tú?"]},
+    {"type": "translate", "prompt": "It would have been a great opportunity.", "answers": ["Habría sido una gran oportunidad.", "Hubiera sido una gran oportunidad."]},
+    {"type": "build", "prompt": "Put the words in order: \"If we had left earlier, we wouldn't have missed the train.\"", "answer": "Si hubiéramos salido antes, no habríamos perdido el tren."},
+    {"type": "build", "prompt": "Put the words in order: \"If I had studied medicine, I'd be a doctor now.\"", "answer": "Si hubiera estudiado medicina, ahora sería médico."},
+    {"type": "build", "prompt": "Put the words in order: \"I wish I hadn't said it.\"", "answer": "Ojalá no lo hubiera dicho."}
+  ]
+}

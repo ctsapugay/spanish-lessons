@@ -1,0 +1,360 @@
+{
+  "sections": [
+    {
+      "heading": "The future perfect: will have done",
+      "body": "Form: future of *haber* (*habré, habrás, habrá, habremos, habrán*) + participle.\n\n1. **Completed before a future moment**: *Para el viernes, habré terminado el informe.* (By Friday, I'll have finished the report.) *Cuando llegues, ya habremos cenado.*\n2. **Guess about the recent past** (like the future of probability, one step back): *¿Por qué no ha venido? — Se habrá dormido.* (He's probably overslept / He must have fallen asleep.) *Habrá perdido el autobús.*"
+    },
+    {
+      "heading": "The conditional perfect: would have done",
+      "body": "Form: conditional of *haber* (*habría, habrías, habría, habríamos, habrían*) + participle.\n\n1. **Unreal past** (you met it in the last lesson): *Yo no lo habría hecho.* (I wouldn't have done it.)\n2. **Guess about an earlier past**: *¿Por qué no vino ayer? — Se habría enfermado.* (She must have gotten sick.)\n3. **Future-in-the-past, completed**: *Me dijo que para las ocho habría terminado.* (He said that by eight he would have finished.)"
+    },
+    {
+      "heading": "The probability ladder",
+      "body": "Guessing moves back a step in each tense:",
+      "table": {
+        "head": [
+          "Guess about…",
+          "Tense",
+          "Example"
+        ],
+        "rows": [
+          [
+            "the present",
+            "future",
+            "*Estará en casa.* — He's probably at home."
+          ],
+          [
+            "the recent past",
+            "future perfect",
+            "*Habrá salido.* — He's probably gone out."
+          ],
+          [
+            "the past",
+            "conditional",
+            "*Estaría en casa.* — He was probably at home."
+          ],
+          [
+            "an earlier past",
+            "conditional perfect",
+            "*Habría salido.* — He had probably gone out."
+          ]
+        ]
+      }
+    }
+  ],
+  "vocab": [
+    [
+      "habré terminado",
+      "I will have finished"
+    ],
+    [
+      "habremos",
+      "we will have"
+    ],
+    [
+      "para el viernes",
+      "by Friday"
+    ],
+    [
+      "ya",
+      "already"
+    ],
+    [
+      "se habrá dormido",
+      "he has probably overslept"
+    ],
+    [
+      "habría hecho",
+      "would have done"
+    ],
+    [
+      "se habría enfermado",
+      "she must have gotten sick"
+    ],
+    [
+      "enfermarse",
+      "to get sick"
+    ],
+    [
+      "el informe",
+      "the report"
+    ],
+    [
+      "para entonces",
+      "by then"
+    ],
+    [
+      "la probabilidad",
+      "probability"
+    ],
+    [
+      "olvidarse de",
+      "to forget"
+    ]
+  ],
+  "examples": [
+    [
+      "Para el viernes, habré terminado el informe.",
+      "By Friday, I'll have finished the report."
+    ],
+    [
+      "Cuando llegues, ya habremos cenado.",
+      "When you arrive, we'll have already eaten."
+    ],
+    [
+      "Para entonces, habrán vendido la casa.",
+      "By then, they'll have sold the house."
+    ],
+    [
+      "¿Por qué no ha venido? Se habrá dormido.",
+      "Why hasn't he come? He must have overslept."
+    ],
+    [
+      "Habrá perdido el autobús.",
+      "She's probably missed the bus."
+    ],
+    [
+      "¿Dónde habré puesto las llaves?",
+      "Where could I have put the keys?"
+    ],
+    [
+      "Yo no lo habría hecho.",
+      "I wouldn't have done it."
+    ],
+    [
+      "¿Por qué no vino ayer? Se habría enfermado.",
+      "Why didn't she come yesterday? She must have gotten sick."
+    ],
+    [
+      "Me dijo que para las ocho habría terminado.",
+      "He said that by eight he would have finished."
+    ],
+    [
+      "Estará en casa.",
+      "He's probably at home."
+    ],
+    [
+      "Habrá salido.",
+      "He's probably gone out."
+    ],
+    [
+      "Estaría en casa.",
+      "He was probably at home."
+    ],
+    [
+      "Habría salido.",
+      "He had probably gone out."
+    ],
+    [
+      "Se habrán olvidado de nosotros.",
+      "They must have forgotten about us."
+    ],
+    [
+      "En diez años habremos aprendido mucho.",
+      "In ten years we'll have learned a lot."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Para el viernes, ___ terminado el informe. (yo)",
+      "answers": [
+        "habré"
+      ],
+      "hint": "By Friday, I'll have finished the report."
+    },
+    {
+      "type": "fill",
+      "prompt": "Cuando llegues, ya ___ cenado. (nosotros)",
+      "answers": [
+        "habremos"
+      ],
+      "hint": "When you arrive, we'll have already eaten."
+    },
+    {
+      "type": "fill",
+      "prompt": "Para entonces, ___ vendido la casa. (ellos)",
+      "answers": [
+        "habrán"
+      ],
+      "hint": "By then, they'll have sold the house."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ dormido. (él)",
+      "answers": [
+        "habrá"
+      ],
+      "hint": "He must have overslept."
+    },
+    {
+      "type": "fill",
+      "prompt": "Habrá ___ el autobús. (perder)",
+      "answers": [
+        "perdido"
+      ],
+      "hint": "She's probably missed the bus."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Dónde ___ puesto las llaves? (yo)",
+      "answers": [
+        "habré"
+      ],
+      "hint": "Where could I have put the keys?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Yo no lo ___ hecho.",
+      "answers": [
+        "habría",
+        "hubiera"
+      ],
+      "hint": "I wouldn't have done it."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ enfermado. (ella)",
+      "answers": [
+        "habría"
+      ],
+      "hint": "She must have gotten sick."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me dijo que para las ocho ___ terminado.",
+      "answers": [
+        "habría"
+      ],
+      "hint": "He said that by eight he would have finished."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ olvidado de nosotros. (ellos)",
+      "answers": [
+        "habrán"
+      ],
+      "hint": "They must have forgotten about us."
+    },
+    {
+      "type": "fill",
+      "prompt": "En diez años ___ aprendido mucho. (nosotros)",
+      "answers": [
+        "habremos"
+      ],
+      "hint": "In ten years we'll have learned a lot."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Habrá salido* (about someone not answering now) means…",
+      "options": [
+        "He's probably gone out.",
+        "He will go out.",
+        "He had gone out.",
+        "He would go out."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Estaría en casa* (about yesterday) means…",
+      "options": [
+        "He was probably at home.",
+        "He would be at home.",
+        "He will be at home.",
+        "He is at home."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "\"By Friday I'll have finished\" is…",
+      "options": [
+        "Para el viernes habré terminado.",
+        "Por el viernes terminaré.",
+        "Para el viernes habría terminado.",
+        "Hasta el viernes terminé."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The future perfect is formed with…",
+      "options": [
+        "habré, habrás… + participle",
+        "habría, habrías… + participle",
+        "hube, hubiste… + participle",
+        "he, has… + participle"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*¿Dónde habré puesto las llaves?* expresses…",
+      "options": [
+        "wondering about the recent past",
+        "a future plan",
+        "an order",
+        "a certain fact"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "By Friday, I'll have finished the report.",
+      "answers": [
+        "Para el viernes, habré terminado el informe.",
+        "Para el viernes ya habré terminado el informe."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He must have overslept. (guess, recent past)",
+      "answers": [
+        "Se habrá dormido.",
+        "Se habrá quedado dormido."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I wouldn't have done it.",
+      "answers": [
+        "Yo no lo habría hecho.",
+        "No lo habría hecho.",
+        "Yo no lo hubiera hecho.",
+        "No lo hubiera hecho."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "When you arrive, we'll have already eaten. (tú)",
+      "answers": [
+        "Cuando llegues, ya habremos cenado.",
+        "Cuando llegues, ya habremos comido."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Where could I have put the keys?",
+      "answers": [
+        "¿Dónde habré puesto las llaves?"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"By then, they'll have sold the house.\"",
+      "answer": "Para entonces, habrán vendido la casa."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He said that by eight he would have finished.\"",
+      "answer": "Me dijo que para las ocho habría terminado."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"In ten years we'll have learned a lot.\"",
+      "answer": "En diez años habremos aprendido mucho."
+    }
+  ]
+}

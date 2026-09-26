@@ -1,0 +1,343 @@
+{
+  "sections": [
+    {
+      "heading": "As soon as",
+      "body": "*En cuanto*, *tan pronto como*, *apenas* (\"as soon as\" — *apenas* is very common in Latin America) and *nada más* + infinitive (\"right after\") follow the same rule as *cuando*:\n\n- **Future** → subjunctive: *En cuanto llegue, te llamo.* *Apenas sepa algo, te aviso.*\n- **Habit or past** → indicative: *En cuanto llego a casa, me ducho.* *Apenas salió, empezó a llover.*\n- *Nada más* + infinitive: *Nada más llegar, se fue a dormir.* (As soon as he arrived, he went to bed.)"
+    },
+    {
+      "heading": "Once, while, until",
+      "body": "- *Una vez que* (once): *Una vez que termines, puedes irte.*\n- *Mientras* + indicative = while (simultaneous, real): *Mientras cocinas, pongo la mesa.* *Mientras* + subjunctive = as long as (condition): *Mientras no llueva, jugaremos.*\n- *Hasta que* (until): *No me voy hasta que me pagues.* *Esperé hasta que cerraron.*\n- *Siempre que* + indicative = whenever (habit): *Siempre que viene, trae flores.* + subjunctive = as long as / provided: *Te ayudo siempre que me lo pidas.*"
+    },
+    {
+      "heading": "In reported or past-future contexts",
+      "body": "When the whole sentence is in the past but the event was still in the future at that time, use the **imperfect subjunctive**: *Me dijo que me llamaría en cuanto llegara.* (He told me he'd call me as soon as he arrived.) *Quedamos en que nos veríamos cuando terminara el curso.*"
+    }
+  ],
+  "vocab": [
+    [
+      "en cuanto",
+      "as soon as"
+    ],
+    [
+      "apenas",
+      "as soon as (LatAm) / barely"
+    ],
+    [
+      "nada más + infinitivo",
+      "right after / as soon as"
+    ],
+    [
+      "una vez que",
+      "once"
+    ],
+    [
+      "mientras",
+      "while / as long as"
+    ],
+    [
+      "siempre que",
+      "whenever / as long as"
+    ],
+    [
+      "hasta que",
+      "until"
+    ],
+    [
+      "avisar",
+      "to let know"
+    ],
+    [
+      "quedar en",
+      "to agree to"
+    ],
+    [
+      "el curso",
+      "the course"
+    ],
+    [
+      "las flores",
+      "flowers"
+    ],
+    [
+      "pagar",
+      "to pay"
+    ],
+    [
+      "cerrar",
+      "to close"
+    ],
+    [
+      "enterarse",
+      "to find out"
+    ]
+  ],
+  "examples": [
+    [
+      "En cuanto llegue, te llamo.",
+      "As soon as I arrive, I'll call you."
+    ],
+    [
+      "Apenas sepa algo, te aviso.",
+      "As soon as I know anything, I'll let you know."
+    ],
+    [
+      "En cuanto llego a casa, me ducho.",
+      "As soon as I get home, I shower."
+    ],
+    [
+      "Apenas salió, empezó a llover.",
+      "As soon as he left, it started to rain."
+    ],
+    [
+      "Nada más llegar, se fue a dormir.",
+      "As soon as he arrived, he went to bed."
+    ],
+    [
+      "Una vez que termines, puedes irte.",
+      "Once you finish, you can go."
+    ],
+    [
+      "Mientras cocinas, pongo la mesa.",
+      "While you cook, I'll set the table."
+    ],
+    [
+      "Mientras no llueva, jugaremos.",
+      "As long as it doesn't rain, we'll play."
+    ],
+    [
+      "No me voy hasta que me pagues.",
+      "I'm not leaving until you pay me."
+    ],
+    [
+      "Esperé hasta que cerraron.",
+      "I waited until they closed."
+    ],
+    [
+      "Siempre que viene, trae flores.",
+      "Whenever she comes, she brings flowers."
+    ],
+    [
+      "Te ayudo siempre que me lo pidas.",
+      "I'll help you as long as you ask me."
+    ],
+    [
+      "Me dijo que me llamaría en cuanto llegara.",
+      "He told me he'd call me as soon as he arrived."
+    ],
+    [
+      "Quedamos en que nos veríamos cuando terminara el curso.",
+      "We agreed we'd meet when the course ended."
+    ],
+    [
+      "Tan pronto como me entere, te lo digo.",
+      "As soon as I find out, I'll tell you."
+    ],
+    [
+      "Apenas terminemos, nos vamos.",
+      "As soon as we finish, we'll leave."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose: En cuanto ___, te llamo. (future)",
+      "options": [
+        "llegue",
+        "llego",
+        "llegaré"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Apenas ___, empezó a llover. (past)",
+      "options": [
+        "salió",
+        "saliera",
+        "salga"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Mientras no ___, jugaremos. (as long as)",
+      "options": [
+        "llueva",
+        "llueve"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Siempre que ___, trae flores. (whenever — habit)",
+      "options": [
+        "viene",
+        "venga"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Me dijo que me llamaría en cuanto ___.",
+      "options": [
+        "llegara",
+        "llegue",
+        "llegó"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Nada más llegar, se fue a dormir* means…",
+      "options": [
+        "As soon as he arrived, he went to bed.",
+        "He only arrived to sleep.",
+        "Nothing arrived, so he slept.",
+        "He didn't arrive; he slept."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Apenas ___ algo, te aviso. (saber, yo)",
+      "answers": [
+        "sepa"
+      ],
+      "hint": "As soon as I know anything, I'll let you know."
+    },
+    {
+      "type": "fill",
+      "prompt": "En cuanto ___ a casa, me ducho. (llegar, yo)",
+      "answers": [
+        "llego"
+      ],
+      "hint": "As soon as I get home, I shower."
+    },
+    {
+      "type": "fill",
+      "prompt": "Una vez que ___, puedes irte. (terminar, tú)",
+      "answers": [
+        "termines"
+      ],
+      "hint": "Once you finish, you can go."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mientras ___, pongo la mesa. (cocinar, tú)",
+      "answers": [
+        "cocinas"
+      ],
+      "hint": "While you cook, I'll set the table."
+    },
+    {
+      "type": "fill",
+      "prompt": "No me voy hasta que me ___. (pagar, tú)",
+      "answers": [
+        "pagues"
+      ],
+      "hint": "I'm not leaving until you pay me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Esperé hasta que ___. (cerrar, ellos)",
+      "answers": [
+        "cerraron"
+      ],
+      "hint": "I waited until they closed."
+    },
+    {
+      "type": "fill",
+      "prompt": "Te ayudo siempre que me lo ___. (pedir, tú)",
+      "answers": [
+        "pidas"
+      ],
+      "hint": "I'll help you as long as you ask me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tan pronto como me ___, te lo digo. (enterarse, yo)",
+      "answers": [
+        "entere"
+      ],
+      "hint": "As soon as I find out, I'll tell you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Apenas ___, nos vamos. (terminar, nosotros)",
+      "answers": [
+        "terminemos"
+      ],
+      "hint": "As soon as we finish, we'll leave."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nos veríamos cuando ___ el curso. (terminar)",
+      "answers": [
+        "terminara"
+      ],
+      "hint": "We'd meet when the course ended."
+    },
+    {
+      "type": "translate",
+      "prompt": "As soon as I arrive, I'll call you. (tú)",
+      "answers": [
+        "En cuanto llegue, te llamo.",
+        "Apenas llegue, te llamo.",
+        "Tan pronto como llegue, te llamo.",
+        "En cuanto llegue, te llamaré."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Once you finish, you can go. (tú)",
+      "answers": [
+        "Una vez que termines, puedes irte.",
+        "Cuando termines, puedes irte."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "As long as it doesn't rain, we'll play.",
+      "answers": [
+        "Mientras no llueva, jugaremos.",
+        "Mientras no llueva, vamos a jugar."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I waited until they closed.",
+      "answers": [
+        "Esperé hasta que cerraron."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Whenever she comes, she brings flowers.",
+      "answers": [
+        "Siempre que viene, trae flores.",
+        "Cada vez que viene, trae flores.",
+        "Cuando viene, trae flores."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He told me he'd call me as soon as he arrived.\"",
+      "answer": "Me dijo que me llamaría en cuanto llegara."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'm not leaving until you pay me.\"",
+      "answer": "No me voy hasta que me pagues."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"As soon as he arrived, he went to bed.\"",
+      "answer": "Nada más llegar, se fue a dormir."
+    }
+  ]
+}
