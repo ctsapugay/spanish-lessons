@@ -1,0 +1,91 @@
+{
+  "sections": [
+    {
+      "heading": "Six irregular verbs",
+      "body": "These don't follow the *yo* rule (their *yo* form doesn't end in *-o*). Learn them as a group — they're very frequent. A trick: they spell **DISHES** — *Dar, Ir, Saber, Haber, Estar, Ser*.",
+      "table": {
+        "head": ["Verb", "yo / él", "tú", "nosotros", "ellos"],
+        "rows": [
+          ["*dar*", "*dé*", "*des*", "*demos*", "*den*"],
+          ["*ir*", "*vaya*", "*vayas*", "*vayamos*", "*vayan*"],
+          ["*saber*", "*sepa*", "*sepas*", "*sepamos*", "*sepan*"],
+          ["*haber*", "*haya*", "*hayas*", "*hayamos*", "*hayan*"],
+          ["*estar*", "*esté*", "*estés*", "*estemos*", "*estén*"],
+          ["*ser*", "*sea*", "*seas*", "*seamos*", "*sean*"]
+        ]
+      }
+    },
+    {
+      "heading": "Stem-changing verbs",
+      "body": "- *-ar* and *-er* verbs change exactly as in the present — everywhere except *nosotros*: *querer → quiera, quieras, quiera, queramos, quieran*; *poder → pueda, puedas, pueda, podamos, puedan*.\n- *-ir* stem-changers change in **all** forms, and *nosotros* gets the small change (e → i, o → u): *pedir → pida, pidas, pida, **pidamos**, pidan*; *dormir → duerma, duermas, duerma, **durmamos**, duerman*; *sentir → sienta, … **sintamos**…*"
+    },
+    {
+      "heading": "Hay que and haya",
+      "body": "*Haya* is the subjunctive of *hay*: *Espero que haya comida.* (I hope there's food.) It's also used to form the present perfect subjunctive, which you'll learn later in B1: *Espero que hayas llegado bien.*"
+    }
+  ],
+  "vocab": [
+    ["que dé", "that he/she give (subj.)"],
+    ["que vaya", "that he/she go (subj.)"],
+    ["que sepa", "that he/she know (subj.)"],
+    ["que haya", "that there be (subj.)"],
+    ["que esté", "that he/she be (estar, subj.)"],
+    ["que sea", "that he/she be (ser, subj.)"],
+    ["que pueda", "that he/she can (subj.)"],
+    ["que quiera", "that he/she want (subj.)"],
+    ["que pida", "that he/she ask for (subj.)"],
+    ["que duerma", "that he/she sleep (subj.)"],
+    ["que durmamos", "that we sleep (subj.)"],
+    ["el permiso", "permission"],
+    ["puntual", "punctual"],
+    ["la comida", "food / meal"]
+  ],
+  "examples": [
+    ["Quiero que vayas conmigo.", "I want you to go with me."],
+    ["Necesito que estés aquí a las ocho.", "I need you to be here at eight."],
+    ["Quiero que seas feliz.", "I want you to be happy."],
+    ["Espero que haya comida.", "I hope there's food."],
+    ["Quiero que sepas la verdad.", "I want you to know the truth."],
+    ["Necesito que me des tu número.", "I need you to give me your number."],
+    ["Quiero que puedas venir.", "I want you to be able to come."],
+    ["No quiero que pidas pizza otra vez.", "I don't want you to order pizza again."],
+    ["Quiero que duermas bien.", "I want you to sleep well."],
+    ["El médico quiere que durmamos ocho horas.", "The doctor wants us to sleep eight hours."],
+    ["Necesito que seamos puntuales.", "I need us to be on time."],
+    ["Quiero que vayamos al cine.", "I want us to go to the movies."],
+    ["No quieren que estemos tristes.", "They don't want us to be sad."],
+    ["Espero que no haya problemas.", "I hope there are no problems."],
+    ["Quiero que me den permiso.", "I want them to give me permission."],
+    ["Mi jefe quiere que sea más puntual.", "My boss wants me to be more punctual."],
+    ["Necesito que quieras ayudar.", "I need you to want to help."],
+    ["Quiero que sientas lo mismo.", "I want you to feel the same."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Quiero que ___ conmigo. (ir, tú)", "answers": ["vayas"], "hint": "I want you to go with me."},
+    {"type": "fill", "prompt": "Necesito que ___ aquí a las ocho. (estar, tú)", "answers": ["estés"], "hint": "I need you to be here at eight."},
+    {"type": "fill", "prompt": "Quiero que ___ feliz. (ser, tú)", "answers": ["seas"], "hint": "I want you to be happy."},
+    {"type": "fill", "prompt": "Espero que ___ comida. (haber)", "answers": ["haya"], "hint": "I hope there's food."},
+    {"type": "fill", "prompt": "Quiero que ___ la verdad. (saber, tú)", "answers": ["sepas"], "hint": "I want you to know the truth."},
+    {"type": "fill", "prompt": "Necesito que me ___ tu número. (dar, tú)", "answers": ["des"], "hint": "I need you to give me your number."},
+    {"type": "fill", "prompt": "Quiero que ___ venir. (poder, tú)", "answers": ["puedas"], "hint": "I want you to be able to come."},
+    {"type": "fill", "prompt": "El médico quiere que ___ ocho horas. (dormir, nosotros)", "answers": ["durmamos"], "hint": "The doctor wants us to sleep eight hours."},
+    {"type": "fill", "prompt": "Necesito que ___ puntuales. (ser, nosotros)", "answers": ["seamos"], "hint": "I need us to be on time."},
+    {"type": "fill", "prompt": "Quiero que ___ al cine. (ir, nosotros)", "answers": ["vayamos"], "hint": "I want us to go to the movies."},
+    {"type": "fill", "prompt": "No quiero que ___ pizza otra vez. (pedir, tú)", "answers": ["pidas"], "hint": "I don't want you to order pizza again."},
+    {"type": "fill", "prompt": "Quiero que me ___ permiso. (dar, ellos)", "answers": ["den"], "hint": "I want them to give me permission."},
+    {"type": "fill", "prompt": "No quieren que ___ tristes. (estar, nosotros)", "answers": ["estemos"], "hint": "They don't want us to be sad."},
+    {"type": "mc", "prompt": "Which verb's subjunctive is *sepa*?", "options": ["saber", "ser", "sentir", "salir"], "answer": 0},
+    {"type": "mc", "prompt": "Which verb's subjunctive is *vaya*?", "options": ["ir", "ver", "venir", "valer"], "answer": 0},
+    {"type": "mc", "prompt": "The subjunctive of *hay* is…", "options": ["haya", "haiga", "hay", "hubo"], "answer": 0, "lang": "es", "explain": "*Haiga* is heard in some places but is considered non-standard."},
+    {"type": "mc", "prompt": "The *nosotros* subjunctive of *pedir* is…", "options": ["pidamos", "pedamos", "piedamos", "pedimos"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The *nosotros* subjunctive of *poder* is…", "options": ["podamos", "pudamos", "puedamos", "podemos"], "answer": 0, "lang": "es", "explain": "-er verbs don't change in *nosotros*."},
+    {"type": "mc", "prompt": "Which has a written accent?", "options": ["esté", "sea", "vaya", "sepa"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "I want you to be happy. (tú)", "answers": ["Quiero que seas feliz."]},
+    {"type": "translate", "prompt": "I hope there are no problems.", "answers": ["Espero que no haya problemas.", "Ojalá que no haya problemas.", "Ojalá no haya problemas."]},
+    {"type": "translate", "prompt": "I want you to go with me. (tú)", "answers": ["Quiero que vayas conmigo.", "Quiero que vengas conmigo."]},
+    {"type": "translate", "prompt": "I need you to be here at eight. (tú)", "answers": ["Necesito que estés aquí a las ocho."]},
+    {"type": "build", "prompt": "Put the words in order: \"My boss wants me to be more punctual.\"", "answer": "Mi jefe quiere que sea más puntual."},
+    {"type": "build", "prompt": "Put the words in order: \"I want us to go to the movies.\"", "answer": "Quiero que vayamos al cine."},
+    {"type": "build", "prompt": "Put the words in order: \"The doctor wants us to sleep eight hours.\"", "answer": "El médico quiere que durmamos ocho horas."}
+  ]
+}

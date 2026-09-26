@@ -1,0 +1,404 @@
+{
+  "sections": [
+    {
+      "heading": "What is the subjunctive?",
+      "body": "So far you've used the **indicative**: verb forms that state facts (*Ana viene* — Ana is coming). The **subjunctive** (*el subjuntivo*) is a second set of forms used when the speaker is *not* simply stating a fact: wishing, wanting, feeling, doubting, or talking about something not yet real. *Quiero que Ana venga.* (I want Ana to come.)\n\nIt appears mostly after *que* in a second clause, triggered by the first clause. English barely has it (\"I suggest that he **be** there\"), but in Spanish it's everywhere — this whole level is about when to use it."
+    },
+    {
+      "heading": "Forming the present subjunctive",
+      "body": "Start from the *yo* form of the present indicative, drop the *-o*, and add the \"opposite\" vowel endings: *-ar* verbs take *e*, *-er / -ir* verbs take *a*. You already know most of these forms from the *usted* commands!",
+      "table": {
+        "head": [
+          "Pronoun",
+          "hablar",
+          "comer",
+          "vivir"
+        ],
+        "rows": [
+          [
+            "*yo*",
+            "*hable*",
+            "*coma*",
+            "*viva*"
+          ],
+          [
+            "*tú*",
+            "*hables*",
+            "*comas*",
+            "*vivas*"
+          ],
+          [
+            "*él / ella / usted*",
+            "*hable*",
+            "*coma*",
+            "*viva*"
+          ],
+          [
+            "*nosotros*",
+            "*hablemos*",
+            "*comamos*",
+            "*vivamos*"
+          ],
+          [
+            "*ustedes / ellos*",
+            "*hablen*",
+            "*coman*",
+            "*vivan*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "The yo-form rule gives you the irregulars for free",
+      "body": "Because it starts from *yo*, any irregularity in the *yo* form carries through: *tengo → tenga*, *hago → haga*, *pongo → ponga*, *salgo → salga*, *digo → diga*, *vengo → venga*, *conozco → conozca*, *veo → vea*, *traigo → traiga*.\n\nSpelling changes keep the sound: *buscar → busque*, *llegar → llegue*, *empezar → empiece*, *pagar → pague*, *coger → coja*.\n\nNotice *yo* and *él/ella/usted* are identical: *que yo hable, que ella hable*."
+    }
+  ],
+  "vocab": [
+    [
+      "el subjuntivo",
+      "the subjunctive"
+    ],
+    [
+      "el indicativo",
+      "the indicative"
+    ],
+    [
+      "que yo hable",
+      "that I speak (subjunctive)"
+    ],
+    [
+      "que comas",
+      "that you eat (subjunctive)"
+    ],
+    [
+      "que viva",
+      "that he/she lives (subjunctive)"
+    ],
+    [
+      "que tenga",
+      "that I/he/she have (subjunctive)"
+    ],
+    [
+      "que haga",
+      "that I/he/she do (subjunctive)"
+    ],
+    [
+      "que venga",
+      "that I/he/she come (subjunctive)"
+    ],
+    [
+      "que diga",
+      "that I/he/she say (subjunctive)"
+    ],
+    [
+      "que llegue",
+      "that I/he/she arrive (subjunctive)"
+    ],
+    [
+      "quiero que",
+      "I want (someone) to"
+    ],
+    [
+      "necesito que",
+      "I need (someone) to"
+    ],
+    [
+      "la ayuda",
+      "help"
+    ],
+    [
+      "temprano",
+      "early"
+    ]
+  ],
+  "examples": [
+    [
+      "Quiero que Ana venga a la fiesta.",
+      "I want Ana to come to the party."
+    ],
+    [
+      "Necesito que me ayudes.",
+      "I need you to help me."
+    ],
+    [
+      "Quiero que hables con él.",
+      "I want you to talk to him."
+    ],
+    [
+      "Mis padres quieren que yo estudie más.",
+      "My parents want me to study more."
+    ],
+    [
+      "Necesito que llegues temprano.",
+      "I need you to arrive early."
+    ],
+    [
+      "Quiero que comamos juntos.",
+      "I want us to eat together."
+    ],
+    [
+      "Necesitamos que ustedes vivan cerca.",
+      "We need you all to live nearby."
+    ],
+    [
+      "Quiero que me digas la verdad.",
+      "I want you to tell me the truth."
+    ],
+    [
+      "Necesito que hagas la tarea.",
+      "I need you to do your homework."
+    ],
+    [
+      "Quiero que tengas cuidado.",
+      "I want you to be careful."
+    ],
+    [
+      "El profesor quiere que leamos el libro.",
+      "The teacher wants us to read the book."
+    ],
+    [
+      "Necesito que pongas la mesa.",
+      "I need you to set the table."
+    ],
+    [
+      "Quiero que conozcas a mi familia.",
+      "I want you to meet my family."
+    ],
+    [
+      "No quiero que salgas tan tarde.",
+      "I don't want you to go out so late."
+    ],
+    [
+      "Quiero que paguen hoy.",
+      "I want them to pay today."
+    ],
+    [
+      "Necesito que me traigas el libro.",
+      "I need you to bring me the book."
+    ],
+    [
+      "Quiero estudiar, pero quiero que tú estudies también.",
+      "I want to study, but I want you to study too."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Quiero que tú ___ con él. (hablar)",
+      "answers": [
+        "hables"
+      ],
+      "hint": "I want you to talk to him."
+    },
+    {
+      "type": "fill",
+      "prompt": "Necesito que tú me ___. (ayudar)",
+      "answers": [
+        "ayudes"
+      ],
+      "hint": "I need you to help me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mis padres quieren que yo ___ más. (estudiar)",
+      "answers": [
+        "estudie"
+      ],
+      "hint": "My parents want me to study more."
+    },
+    {
+      "type": "fill",
+      "prompt": "Quiero que nosotros ___ juntos. (comer)",
+      "answers": [
+        "comamos"
+      ],
+      "hint": "I want us to eat together."
+    },
+    {
+      "type": "fill",
+      "prompt": "Necesito que ___ temprano. (llegar, tú)",
+      "answers": [
+        "llegues"
+      ],
+      "hint": "I need you to arrive early."
+    },
+    {
+      "type": "fill",
+      "prompt": "Quiero que me ___ la verdad. (decir, tú)",
+      "answers": [
+        "digas"
+      ],
+      "hint": "I want you to tell me the truth."
+    },
+    {
+      "type": "fill",
+      "prompt": "Necesito que ___ la tarea. (hacer, tú)",
+      "answers": [
+        "hagas"
+      ],
+      "hint": "I need you to do your homework."
+    },
+    {
+      "type": "fill",
+      "prompt": "Quiero que ___ cuidado. (tener, tú)",
+      "answers": [
+        "tengas"
+      ],
+      "hint": "I want you to be careful."
+    },
+    {
+      "type": "fill",
+      "prompt": "El profesor quiere que ___ el libro. (leer, nosotros)",
+      "answers": [
+        "leamos"
+      ],
+      "hint": "The teacher wants us to read the book."
+    },
+    {
+      "type": "fill",
+      "prompt": "Quiero que ___ a mi familia. (conocer, tú)",
+      "answers": [
+        "conozcas"
+      ],
+      "hint": "I want you to meet my family."
+    },
+    {
+      "type": "fill",
+      "prompt": "No quiero que ___ tan tarde. (salir, tú)",
+      "answers": [
+        "salgas"
+      ],
+      "hint": "I don't want you to go out so late."
+    },
+    {
+      "type": "fill",
+      "prompt": "Quiero que ___ hoy. (pagar, ellos)",
+      "answers": [
+        "paguen"
+      ],
+      "hint": "I want them to pay today."
+    },
+    {
+      "type": "fill",
+      "prompt": "Necesitamos que ustedes ___ cerca. (vivir)",
+      "answers": [
+        "vivan"
+      ],
+      "hint": "We need you all to live nearby."
+    },
+    {
+      "type": "mc",
+      "prompt": "The present subjunctive is built from…",
+      "options": [
+        "the yo form of the present, minus -o",
+        "the infinitive",
+        "the preterite",
+        "the future stem"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "-ar verbs take which vowel in the subjunctive?",
+      "options": [
+        "e",
+        "a",
+        "i",
+        "o"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "The subjunctive of *tener* (él) is…",
+      "options": [
+        "tenga",
+        "tena",
+        "tiene",
+        "tenge"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct: \"I want you to go out\"?",
+      "options": [
+        "Quiero que salgas.",
+        "Quiero que sales.",
+        "Quiero tú salir.",
+        "Quiero que salir."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"I want to go\" (same subject) is…",
+      "options": [
+        "Quiero ir.",
+        "Quiero que vaya.",
+        "Quiero que voy."
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Same person wanting and doing → infinitive. Different people → *que* + subjunctive."
+    },
+    {
+      "type": "mc",
+      "prompt": "The subjunctive of *buscar* (yo) is…",
+      "options": [
+        "busque",
+        "busca",
+        "busqe",
+        "buske"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "I want you to help me. (tú)",
+      "answers": [
+        "Quiero que me ayudes."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I need you to arrive early. (tú)",
+      "answers": [
+        "Necesito que llegues temprano."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "My parents want me to study more.",
+      "answers": [
+        "Mis padres quieren que estudie más.",
+        "Mis padres quieren que yo estudie más."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I want you to tell me the truth. (tú)",
+      "answers": [
+        "Quiero que me digas la verdad."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I want Ana to come to the party.\"",
+      "answer": "Quiero que Ana venga a la fiesta."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The teacher wants us to read the book.\"",
+      "answer": "El profesor quiere que leamos el libro."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I need you to bring me the book.\"",
+      "answer": "Necesito que me traigas el libro."
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "sections": [
+    {
+      "heading": "Reacting with feelings",
+      "body": "When you express an emotion **about** something someone else does or something that happens, the verb after *que* is subjunctive — even if it's a known fact. The subjunctive shows you're reacting, not reporting.\n\n- With *gustar*-type verbs: *Me alegra que vengas* (I'm glad you're coming). *Me molesta que llegues tarde. Me encanta que me llames. Me preocupa que no coma. Me sorprende que no lo sepas.* (It surprises me that you don't know.)\n- With *estar* + adjective + *de que*: *Estoy contento de que estés aquí. Estoy harto de que siempre llegues tarde* (I'm fed up that…).\n- With nouns: *Tengo miedo de que* (I'm afraid that…), *Es una pena / una lástima que* (It's a shame that…): *Es una pena que no puedas venir.*"
+    },
+    {
+      "heading": "Same person? Use the infinitive",
+      "body": "If the person who feels is the same as the person who acts, use the infinitive: *Me alegra verte.* (I'm glad to see you.) *Siento llegar tarde.* (I'm sorry I'm late.) Compare *Siento que llegues tarde* — \"I'm sorry that **you're** late\": two different people, so *que* + subjunctive."
+    },
+    {
+      "heading": "Useful emotion expressions",
+      "body": "*alegrarse de que* (to be glad), *sentir que* (to be sorry — *Siento que estés enfermo*), *odiar que* (to hate), *tener miedo de que*, *estar harto de que*, *me da pena que* (it makes me sad), *me da rabia que* (it makes me angry), *qué bueno que…* (how great that…): *¡Qué bueno que viniste!* — careful, in Latin America *qué bueno que* is often followed by the indicative for past facts; the subjunctive is also correct."
+    }
+  ],
+  "vocab": [
+    [
+      "me alegra que",
+      "I'm glad that"
+    ],
+    [
+      "alegrarse de que",
+      "to be glad that"
+    ],
+    [
+      "me molesta que",
+      "it bothers me that"
+    ],
+    [
+      "me sorprende que",
+      "it surprises me that"
+    ],
+    [
+      "me preocupa que",
+      "it worries me that"
+    ],
+    [
+      "tener miedo de que",
+      "to be afraid that"
+    ],
+    [
+      "es una pena que",
+      "it's a shame that"
+    ],
+    [
+      "es una lástima que",
+      "it's a pity that"
+    ],
+    [
+      "estar harto de",
+      "to be fed up with"
+    ],
+    [
+      "sentir que",
+      "to be sorry that"
+    ],
+    [
+      "me da rabia que",
+      "it makes me angry that"
+    ],
+    [
+      "odiar",
+      "to hate"
+    ],
+    [
+      "la lástima",
+      "pity"
+    ],
+    [
+      "sorprender",
+      "to surprise"
+    ],
+    [
+      "enojarse",
+      "to get angry"
+    ]
+  ],
+  "examples": [
+    [
+      "Me alegra que vengas.",
+      "I'm glad you're coming."
+    ],
+    [
+      "Me molesta que llegues tarde.",
+      "It bothers me that you arrive late."
+    ],
+    [
+      "Me encanta que me llames.",
+      "I love it when you call me."
+    ],
+    [
+      "Me preocupa que no coma.",
+      "It worries me that she isn't eating."
+    ],
+    [
+      "Me sorprende que no lo sepas.",
+      "I'm surprised you don't know."
+    ],
+    [
+      "Estoy contento de que estés aquí.",
+      "I'm happy you're here."
+    ],
+    [
+      "Estoy harto de que siempre llegues tarde.",
+      "I'm fed up with you always being late."
+    ],
+    [
+      "Tengo miedo de que se enoje.",
+      "I'm afraid he'll get angry."
+    ],
+    [
+      "Es una pena que no puedas venir.",
+      "It's a shame you can't come."
+    ],
+    [
+      "Es una lástima que llueva.",
+      "It's a pity it's raining."
+    ],
+    [
+      "Me alegra verte.",
+      "I'm glad to see you."
+    ],
+    [
+      "Siento llegar tarde.",
+      "I'm sorry I'm late."
+    ],
+    [
+      "Siento que estés enfermo.",
+      "I'm sorry you're sick."
+    ],
+    [
+      "Odio que me mientan.",
+      "I hate it when people lie to me."
+    ],
+    [
+      "Me da rabia que no me escuchen.",
+      "It makes me angry that they don't listen to me."
+    ],
+    [
+      "Nos alegramos de que todo salga bien.",
+      "We're glad everything is going well."
+    ],
+    [
+      "Me sorprende que haga tanto frío.",
+      "I'm surprised it's so cold."
+    ],
+    [
+      "¡Qué bueno que viniste!",
+      "How great that you came!"
+    ],
+    [
+      "Me da pena que te vayas.",
+      "It makes me sad that you're leaving."
+    ],
+    [
+      "Me encanta que haya tantos parques.",
+      "I love that there are so many parks."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Me alegra que ___. (venir, tú)",
+      "answers": [
+        "vengas"
+      ],
+      "hint": "I'm glad you're coming."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me molesta que ___ tarde. (llegar, tú)",
+      "answers": [
+        "llegues"
+      ],
+      "hint": "It bothers me that you arrive late."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me preocupa que no ___. (comer, ella)",
+      "answers": [
+        "coma"
+      ],
+      "hint": "It worries me that she isn't eating."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me sorprende que no lo ___. (saber, tú)",
+      "answers": [
+        "sepas"
+      ],
+      "hint": "I'm surprised you don't know."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estoy contento de que ___ aquí. (estar, tú)",
+      "answers": [
+        "estés"
+      ],
+      "hint": "I'm happy you're here."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es una pena que no ___ venir. (poder, tú)",
+      "answers": [
+        "puedas"
+      ],
+      "hint": "It's a shame you can't come."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es una lástima que ___. (llover)",
+      "answers": [
+        "llueva"
+      ],
+      "hint": "It's a pity it's raining."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me alegra ___. (ver + te)",
+      "answers": [
+        "verte"
+      ],
+      "hint": "I'm glad to see you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Siento ___ tarde. (llegar, yo)",
+      "answers": [
+        "llegar"
+      ],
+      "hint": "I'm sorry I'm late."
+    },
+    {
+      "type": "fill",
+      "prompt": "Siento que ___ enfermo. (estar, tú)",
+      "answers": [
+        "estés"
+      ],
+      "hint": "I'm sorry you're sick."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tengo miedo de que se ___. (enojarse, él)",
+      "answers": [
+        "enoje"
+      ],
+      "hint": "I'm afraid he'll get angry."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me encanta que ___ tantos parques. (haber)",
+      "answers": [
+        "haya"
+      ],
+      "hint": "I love that there are so many parks."
+    },
+    {
+      "type": "mc",
+      "prompt": "Why is it *Me alegra que vengas* (subjunctive) even though you know she's coming?",
+      "options": [
+        "Emotional reactions take the subjunctive",
+        "Because it's the future",
+        "Because *vengas* is irregular",
+        "It's a mistake"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "\"I'm sorry I'm late\" (same person) is…",
+      "options": [
+        "Siento llegar tarde.",
+        "Siento que llegue tarde.",
+        "Siento que llego tarde."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Estoy harto de que…* means…",
+      "options": [
+        "I'm fed up that…",
+        "I'm full because…",
+        "I'm happy that…",
+        "I'm tired because…"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Es una pena que ___ tan lejos.",
+      "options": [
+        "vivas",
+        "vives",
+        "vivir"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Odio que me mientan* means…",
+      "options": [
+        "I hate it when people lie to me.",
+        "I hate lying.",
+        "They hate me.",
+        "I lie because I hate."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm glad you're coming. (tú)",
+      "answers": [
+        "Me alegra que vengas.",
+        "Me alegro de que vengas.",
+        "Estoy contento de que vengas.",
+        "Estoy contenta de que vengas."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's a shame you can't come. (tú)",
+      "answers": [
+        "Es una pena que no puedas venir.",
+        "Es una lástima que no puedas venir.",
+        "Qué pena que no puedas venir."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm sorry you're sick. (tú, to a man)",
+      "answers": [
+        "Siento que estés enfermo.",
+        "Lamento que estés enfermo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm glad to see you. (tú)",
+      "answers": [
+        "Me alegra verte.",
+        "Me alegro de verte."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "How great that you came!",
+      "answers": [
+        "¡Qué bueno que viniste!",
+        "¡Qué bueno que hayas venido!",
+        "¡Qué bien que viniste!"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'm fed up with you always being late.\"",
+      "answer": "Estoy harto de que siempre llegues tarde."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It makes me sad that you're leaving.\"",
+      "answer": "Me da pena que te vayas."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'm surprised it's so cold.\"",
+      "answer": "Me sorprende que haga tanto frío."
+    }
+  ]
+}

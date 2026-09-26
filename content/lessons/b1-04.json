@@ -1,0 +1,370 @@
+{
+  "sections": [
+    {
+      "heading": "Influencing others",
+      "body": "When you try to get someone else to do something — asking, advising, recommending, allowing, forbidding — the verb after *que* is subjunctive:\n\n- *pedir que* (to ask someone to): *Te pido que me escuches.*\n- *recomendar / aconsejar que* (to recommend / advise): *Te recomiendo que pruebes el ceviche.*\n- *sugerir que* (to suggest): *Sugiero que salgamos temprano.*\n- *decir que* (to tell someone to — an order): *Mi madre me dice que limpie mi cuarto.*\n- *permitir / dejar que* (to allow / let): *No me dejan que salga.*\n- *prohibir que* (to forbid): *Prohíben que fumemos aquí.*\n- *insistir en que*: *Insiste en que vayamos.*\n\nCareful with *decir*: to **report information** it takes the indicative (*Dice que está cansado* — He says he's tired); to **give an order** it takes the subjunctive (*Dice que estemos callados* — He says to be quiet)."
+    },
+    {
+      "heading": "Negative commands",
+      "body": "All negative commands use the subjunctive — for *tú* too:\n\n- *tú*: *No hables. No comas eso. No vayas. No me digas.* (No way! — literally \"don't tell me\")\n- *usted / ustedes*: *No hable. No se preocupe. No lo toquen.*\n\nPronouns go **before** the verb in negative commands: *Dímelo* → *No me lo digas*. *Siéntate* → *No te sientes*."
+    }
+  ],
+  "vocab": [
+    [
+      "pedir que",
+      "to ask (someone) to"
+    ],
+    [
+      "recomendar",
+      "to recommend"
+    ],
+    [
+      "aconsejar",
+      "to advise"
+    ],
+    [
+      "sugerir",
+      "to suggest"
+    ],
+    [
+      "permitir",
+      "to allow"
+    ],
+    [
+      "dejar",
+      "to let / to allow"
+    ],
+    [
+      "prohibir",
+      "to forbid"
+    ],
+    [
+      "insistir en",
+      "to insist on"
+    ],
+    [
+      "no hables",
+      "don't talk (tú)"
+    ],
+    [
+      "no vayas",
+      "don't go (tú)"
+    ],
+    [
+      "no me digas",
+      "no way! / you don't say"
+    ],
+    [
+      "no te preocupes",
+      "don't worry"
+    ],
+    [
+      "callado / callada",
+      "quiet"
+    ],
+    [
+      "tocar",
+      "to touch"
+    ],
+    [
+      "el ceviche",
+      "ceviche (marinated raw fish)"
+    ],
+    [
+      "preocuparse",
+      "to worry"
+    ]
+  ],
+  "examples": [
+    [
+      "Te pido que me escuches.",
+      "I'm asking you to listen to me."
+    ],
+    [
+      "Te recomiendo que pruebes el ceviche.",
+      "I recommend you try the ceviche."
+    ],
+    [
+      "El médico me aconseja que coma menos azúcar.",
+      "The doctor advises me to eat less sugar."
+    ],
+    [
+      "Sugiero que salgamos temprano.",
+      "I suggest we leave early."
+    ],
+    [
+      "Mi madre me dice que limpie mi cuarto.",
+      "My mother tells me to clean my room."
+    ],
+    [
+      "Dice que está cansado.",
+      "He says he's tired."
+    ],
+    [
+      "Dice que estemos callados.",
+      "He says to be quiet."
+    ],
+    [
+      "Mis padres no me dejan salir de noche.",
+      "My parents don't let me go out at night."
+    ],
+    [
+      "Prohíben que fumemos aquí.",
+      "They forbid us to smoke here."
+    ],
+    [
+      "Insiste en que vayamos con él.",
+      "He insists that we go with him."
+    ],
+    [
+      "No hables tan alto.",
+      "Don't talk so loud."
+    ],
+    [
+      "No vayas sola.",
+      "Don't go alone."
+    ],
+    [
+      "No comas eso.",
+      "Don't eat that."
+    ],
+    [
+      "¿Ganaste la lotería? ¡No me digas!",
+      "You won the lottery? No way!"
+    ],
+    [
+      "No te preocupes.",
+      "Don't worry."
+    ],
+    [
+      "No me lo digas.",
+      "Don't tell me."
+    ],
+    [
+      "No te sientes ahí.",
+      "Don't sit there."
+    ],
+    [
+      "No lo toquen, por favor.",
+      "Please don't touch it."
+    ],
+    [
+      "Le pido que me ayude.",
+      "I'm asking her to help me."
+    ],
+    [
+      "Te sugiero que descanses.",
+      "I suggest you rest."
+    ],
+    [
+      "No se preocupe, señora.",
+      "Don't worry, ma'am."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Te pido que me ___. (escuchar)",
+      "answers": [
+        "escuches"
+      ],
+      "hint": "I'm asking you to listen to me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Te recomiendo que ___ el ceviche. (probar)",
+      "answers": [
+        "pruebes"
+      ],
+      "hint": "I recommend you try the ceviche."
+    },
+    {
+      "type": "fill",
+      "prompt": "Sugiero que ___ temprano. (salir, nosotros)",
+      "answers": [
+        "salgamos"
+      ],
+      "hint": "I suggest we leave early."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi madre me dice que ___ mi cuarto. (limpiar)",
+      "answers": [
+        "limpie"
+      ],
+      "hint": "My mother tells me to clean my room."
+    },
+    {
+      "type": "fill",
+      "prompt": "Prohíben que ___ aquí. (fumar, nosotros)",
+      "answers": [
+        "fumemos"
+      ],
+      "hint": "They forbid us to smoke here."
+    },
+    {
+      "type": "fill",
+      "prompt": "Insiste en que ___ con él. (ir, nosotros)",
+      "answers": [
+        "vayamos"
+      ],
+      "hint": "He insists that we go with him."
+    },
+    {
+      "type": "fill",
+      "prompt": "No ___ tan alto. (hablar, tú)",
+      "answers": [
+        "hables"
+      ],
+      "hint": "Don't talk so loud."
+    },
+    {
+      "type": "fill",
+      "prompt": "No ___ sola. (ir, tú)",
+      "answers": [
+        "vayas"
+      ],
+      "hint": "Don't go alone."
+    },
+    {
+      "type": "fill",
+      "prompt": "No ___ eso. (comer, tú)",
+      "answers": [
+        "comas"
+      ],
+      "hint": "Don't eat that."
+    },
+    {
+      "type": "fill",
+      "prompt": "No te ___. (preocuparse, tú)",
+      "answers": [
+        "preocupes"
+      ],
+      "hint": "Don't worry."
+    },
+    {
+      "type": "fill",
+      "prompt": "No te ___ ahí. (sentarse, tú)",
+      "answers": [
+        "sientes"
+      ],
+      "hint": "Don't sit there."
+    },
+    {
+      "type": "fill",
+      "prompt": "Te sugiero que ___. (descansar)",
+      "answers": [
+        "descanses"
+      ],
+      "hint": "I suggest you rest."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Dice que ___ cansado. (He reports he's tired.)",
+      "options": [
+        "está",
+        "esté"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Reporting information → indicative."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Dice que ___ callados. (He tells us to be quiet.)",
+      "options": [
+        "estemos",
+        "estamos"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Giving an order → subjunctive."
+    },
+    {
+      "type": "mc",
+      "prompt": "The negative of *Dímelo* is…",
+      "options": [
+        "No me lo digas.",
+        "No dímelo.",
+        "No dime lo.",
+        "No me lo dices."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*¡No me digas!* usually means…",
+      "options": [
+        "No way! / You don't say!",
+        "Don't talk to me.",
+        "Tell me no.",
+        "Say nothing."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"Don't worry\" (usted)?",
+      "options": [
+        "No se preocupe.",
+        "No preocúpese.",
+        "No se preocupa.",
+        "No te preocupes."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "Don't worry. (tú)",
+      "answers": [
+        "No te preocupes."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I recommend you try the ceviche. (tú)",
+      "answers": [
+        "Te recomiendo que pruebes el ceviche."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I suggest we leave early.",
+      "answers": [
+        "Sugiero que salgamos temprano.",
+        "Sugiero que nos vayamos temprano."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Don't go alone. (tú, to a woman)",
+      "answers": [
+        "No vayas sola."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Don't tell me. (tú, \"it\")",
+      "answers": [
+        "No me lo digas."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The doctor advises me to eat less sugar.\"",
+      "answer": "El médico me aconseja que coma menos azúcar."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Please don't touch it.\" (ustedes)",
+      "answer": "No lo toquen, por favor."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He insists that we go with him.\"",
+      "answer": "Insiste en que vayamos con él."
+    }
+  ]
+}

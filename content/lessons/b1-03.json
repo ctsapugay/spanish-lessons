@@ -1,0 +1,81 @@
+{
+  "sections": [
+    {
+      "heading": "Wishing with ojalá",
+      "body": "*Ojalá* (from Arabic, \"may God will it\") means \"I hope / let's hope / if only\" and is **always** followed by the subjunctive. *Que* is optional after it: *Ojalá (que) llueva mañana.* (I hope it rains tomorrow.) *¡Ojalá!* on its own means \"I hope so!\""
+    },
+    {
+      "heading": "Wanting and hoping that someone else…",
+      "body": "When one person wants, hopes, or wishes something about **another** person or thing, use *que* + subjunctive:\n\n- *querer que*: *Quiero que vengas.*\n- *esperar que* (to hope): *Espero que estés bien.* (I hope you're well.)\n- *desear que* (to wish, more formal): *Te deseo que tengas un buen viaje.*\n- *preferir que*: *Prefiero que me llames mañana.*\n\nIf the subject is the same, use the infinitive: *Espero llegar a tiempo.* (I hope to arrive on time.) vs. *Espero que llegues a tiempo.* (I hope you arrive on time.)"
+    },
+    {
+      "heading": "Wishes as set phrases",
+      "body": "Many good wishes are really *(Espero) que* + subjunctive with the first part left out — you know some already: *¡Que te mejores!* (Get well!) *¡Que te vaya bien!* *¡Que tengas un buen día!* (Have a good day!) *¡Que descanses!* (Sleep well / rest up!) *¡Que lo pases bien!* (Have a good time!) *¡Que cumplas muchos más!*"
+    }
+  ],
+  "vocab": [
+    ["ojalá", "I hope / hopefully / if only"],
+    ["esperar que", "to hope that"],
+    ["desear", "to wish"],
+    ["preferir que", "to prefer that"],
+    ["¡Que tengas un buen día!", "Have a good day!"],
+    ["¡Que descanses!", "Rest well! / Sleep well!"],
+    ["¡Que lo pases bien!", "Have a good time!"],
+    ["a tiempo", "on time"],
+    ["el deseo", "the wish"],
+    ["la suerte", "luck"],
+    ["aprobar", "to pass (an exam)"],
+    ["ganar", "to win"],
+    ["el equipo", "the team"],
+    ["salir bien", "to go well"]
+  ],
+  "examples": [
+    ["Ojalá llueva mañana.", "I hope it rains tomorrow."],
+    ["Ojalá que apruebes el examen.", "I hope you pass the exam."],
+    ["¡Ojalá!", "I hope so!"],
+    ["Ojalá gane mi equipo.", "I hope my team wins."],
+    ["Espero que estés bien.", "I hope you're well."],
+    ["Espero que te guste el regalo.", "I hope you like the gift."],
+    ["Esperamos que todo salga bien.", "We hope everything goes well."],
+    ["Te deseo que tengas un buen viaje.", "I wish you a good trip."],
+    ["Prefiero que me llames mañana.", "I'd rather you call me tomorrow."],
+    ["Espero llegar a tiempo.", "I hope to arrive on time."],
+    ["Espero que llegues a tiempo.", "I hope you arrive on time."],
+    ["¡Que tengas un buen día!", "Have a good day!"],
+    ["¡Que descanses!", "Rest well!"],
+    ["¡Que lo pases bien en la fiesta!", "Have a good time at the party!"],
+    ["Mis padres esperan que yo sea médico.", "My parents hope I'll be a doctor."],
+    ["Ojalá tengamos suerte.", "Hopefully we'll be lucky."],
+    ["Ojalá no haya mucho tráfico.", "Hopefully there won't be much traffic."],
+    ["Deseo que seas muy feliz.", "I wish you great happiness."],
+    ["Prefiero que no vengas hoy.", "I'd prefer that you don't come today."],
+    ["Es mi deseo.", "It's my wish."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Ojalá ___ mañana. (llover)", "answers": ["llueva"], "hint": "I hope it rains tomorrow."},
+    {"type": "fill", "prompt": "Ojalá que ___ el examen. (aprobar, tú)", "answers": ["apruebes"], "hint": "I hope you pass the exam."},
+    {"type": "fill", "prompt": "Espero que ___ bien. (estar, tú)", "answers": ["estés"], "hint": "I hope you're well."},
+    {"type": "fill", "prompt": "Espero que te ___ el regalo. (gustar)", "answers": ["guste"], "hint": "I hope you like the gift."},
+    {"type": "fill", "prompt": "Esperamos que todo ___ bien. (salir)", "answers": ["salga"], "hint": "We hope everything goes well."},
+    {"type": "fill", "prompt": "Te deseo que ___ un buen viaje. (tener, tú)", "answers": ["tengas"], "hint": "I wish you a good trip."},
+    {"type": "fill", "prompt": "Prefiero que me ___ mañana. (llamar, tú)", "answers": ["llames"], "hint": "I'd rather you call me tomorrow."},
+    {"type": "fill", "prompt": "Espero ___ a tiempo. (llegar, yo)", "answers": ["llegar"], "hint": "I hope to arrive on time."},
+    {"type": "fill", "prompt": "¡Que ___ un buen día! (tener, tú)", "answers": ["tengas"], "hint": "Have a good day!"},
+    {"type": "fill", "prompt": "Ojalá ___ suerte. (tener, nosotros)", "answers": ["tengamos"], "hint": "Hopefully we'll be lucky."},
+    {"type": "fill", "prompt": "Ojalá ___ mi equipo. (ganar)", "answers": ["gane"], "hint": "I hope my team wins."},
+    {"type": "fill", "prompt": "Mis padres esperan que yo ___ médico. (ser)", "answers": ["sea"], "hint": "My parents hope I'll be a doctor."},
+    {"type": "mc", "prompt": "*Ojalá* is always followed by…", "options": ["the subjunctive", "the indicative", "the infinitive", "the future"], "answer": 0},
+    {"type": "mc", "prompt": "\"I hope to arrive on time\" (same person) is…", "options": ["Espero llegar a tiempo.", "Espero que llegue a tiempo.", "Espero que llego a tiempo."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"I hope you arrive on time\" is…", "options": ["Espero que llegues a tiempo.", "Espero que llegas a tiempo.", "Espero llegar a tiempo tú."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*¡Que descanses!* is said…", "options": ["when someone is going to bed or resting", "at a wedding", "when someone sneezes", "at a restaurant"], "answer": 0},
+    {"type": "mc", "prompt": "Can you say *Ojalá llueva* without *que*?", "options": ["Yes, *que* is optional", "No, *que* is required"], "answer": 0},
+    {"type": "translate", "prompt": "I hope you're well. (tú)", "answers": ["Espero que estés bien.", "Ojalá que estés bien.", "Ojalá estés bien."]},
+    {"type": "translate", "prompt": "I hope so!", "answers": ["¡Ojalá!", "¡Eso espero!"]},
+    {"type": "translate", "prompt": "Have a good day! (tú)", "answers": ["¡Que tengas un buen día!"]},
+    {"type": "translate", "prompt": "I hope you like the gift. (tú)", "answers": ["Espero que te guste el regalo.", "Ojalá que te guste el regalo.", "Ojalá te guste el regalo."]},
+    {"type": "translate", "prompt": "We hope everything goes well.", "answers": ["Esperamos que todo salga bien."]},
+    {"type": "build", "prompt": "Put the words in order: \"Hopefully there won't be much traffic.\"", "answer": "Ojalá no haya mucho tráfico."},
+    {"type": "build", "prompt": "Put the words in order: \"I'd rather you call me tomorrow.\"", "answer": "Prefiero que me llames mañana."},
+    {"type": "build", "prompt": "Put the words in order: \"Have a good time at the party!\"", "answer": "¡Que lo pases bien en la fiesta!"}
+  ]
+}
