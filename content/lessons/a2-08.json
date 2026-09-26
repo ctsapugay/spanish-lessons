@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "heading": "Telling a whole story",
+      "body": "Real stories weave the two tenses together. A simple recipe:\n\n1. **Set the scene** (imperfect): time, place, weather, people, what was going on. *Era un sábado. Hacía sol y yo estaba en el mercado con mi hermana.*\n2. **Tell the events** (preterite), in order: *De repente, un hombre se acercó y me preguntó la hora. Le dije la hora y se fue.*\n3. **Describe reactions and states** during the story (usually imperfect): *Yo estaba un poco nerviosa.*\n4. **Finish** (preterite): *Al final, volvimos a casa y le contamos todo a mi madre.*"
+    },
+    {
+      "heading": "Verbs that change meaning",
+      "body": "A few verbs say something slightly different in each tense:",
+      "table": {
+        "head": ["Verb", "Imperfect", "Preterite"],
+        "rows": [
+          ["*conocer*", "*conocía* — I knew (was acquainted with)", "*conocí* — I met"],
+          ["*saber*", "*sabía* — I knew", "*supe* — I found out"],
+          ["*querer*", "*quería* — I wanted", "*quise* — I tried · *no quise* — I refused"],
+          ["*poder*", "*podía* — I was able to (in general)", "*pude* — I managed to · *no pude* — I failed to"],
+          ["*tener*", "*tenía* — I had", "*tuve* — I got / received"]
+        ]
+      }
+    },
+    {
+      "heading": "The same sentence, two meanings",
+      "body": "*Tenía que trabajar* (I was supposed to work — maybe I did, maybe not) vs. *Tuve que trabajar* (I had to work — and I did). *Iba a llamarte* (I was going to call you — but didn't) is a very common way to excuse yourself."
+    }
+  ],
+  "vocab": [
+    ["acercarse", "to come closer / approach"],
+    ["preguntar", "to ask (a question)"],
+    ["contar", "to tell (a story) / to count"],
+    ["el mercado", "the market"],
+    ["el hombre", "the man"],
+    ["la mujer", "the woman"],
+    ["la historia", "the story / history"],
+    ["pasar", "to happen / to pass / to spend (time)"],
+    ["¿Qué pasó?", "What happened?"],
+    ["asustado / asustada", "scared"],
+    ["sorprendido / sorprendida", "surprised"],
+    ["iba a", "I was going to"],
+    ["tenía que", "I was supposed to / had to"],
+    ["no quise", "I refused"],
+    ["la verdad", "the truth"]
+  ],
+  "examples": [
+    ["Era un sábado y hacía sol.", "It was a Saturday and it was sunny."],
+    ["Yo estaba en el mercado con mi hermana.", "I was at the market with my sister."],
+    ["De repente, un hombre se acercó.", "Suddenly, a man came up to us."],
+    ["Me preguntó la hora.", "He asked me the time."],
+    ["Le dije la hora y se fue.", "I told him the time and he left."],
+    ["Yo estaba un poco nerviosa.", "I was a bit nervous."],
+    ["Al final, volvimos a casa y le contamos todo a mi madre.", "In the end, we went home and told my mother everything."],
+    ["¿Qué pasó?", "What happened?"],
+    ["Conocía a su hermano, pero no a ella.", "I knew her brother, but not her."],
+    ["La conocí en una fiesta.", "I met her at a party."],
+    ["Sabía la verdad.", "I knew the truth."],
+    ["Supe la verdad el lunes.", "I found out the truth on Monday."],
+    ["Quería ir, pero no pude.", "I wanted to go, but I couldn't."],
+    ["No quise comer.", "I refused to eat."],
+    ["Tenía que trabajar, pero me quedé en casa.", "I was supposed to work, but I stayed home."],
+    ["Tuve que trabajar el domingo.", "I had to work on Sunday."],
+    ["Iba a llamarte, pero se me olvidó.", "I was going to call you, but I forgot."],
+    ["Estábamos muy sorprendidos.", "We were very surprised."],
+    ["La niña estaba asustada.", "The girl was scared."],
+    ["Pasamos una semana en Cancún.", "We spent a week in Cancún."],
+    ["La mujer me contó una historia increíble.", "The woman told me an amazing story."],
+    ["Podía nadar muy bien de niño.", "I could swim very well as a child."],
+    ["Por fin pude hablar con él.", "At last I managed to talk to him."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Choose the scene-setting verb: ___ un sábado.", "options": ["Era", "Fue"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: De repente, un hombre ___.", "options": ["se acercó", "se acercaba"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"I met her at a party.\"", "options": ["La conocí en una fiesta.", "La conocía en una fiesta.", "La supe en una fiesta."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"I found out the truth on Monday.\"", "options": ["Supe la verdad el lunes.", "Sabía la verdad el lunes.", "Conocí la verdad el lunes."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*No quise comer* means…", "options": ["I refused to eat.", "I didn't want to eat (in general).", "I couldn't eat.", "I didn't like the food."], "answer": 0},
+    {"type": "mc", "prompt": "*Iba a llamarte* means…", "options": ["I was going to call you (but didn't).", "I called you.", "I used to call you.", "I'm going to call you."], "answer": 0},
+    {"type": "mc", "prompt": "Which means \"I had to work (and did)\"?", "options": ["Tuve que trabajar.", "Tenía que trabajar.", "Tengo que trabajar."], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "Yo ___ en el mercado con mi hermana. (estar)", "answers": ["estaba"], "hint": "I was at the market with my sister."},
+    {"type": "fill", "prompt": "Me ___ la hora. (preguntar, él)", "answers": ["preguntó"], "hint": "He asked me the time."},
+    {"type": "fill", "prompt": "Al final, le ___ todo a mi madre. (contar, nosotros)", "answers": ["contamos"], "hint": "In the end, we told my mother everything."},
+    {"type": "fill", "prompt": "¿Qué ___? (pasar)", "answers": ["pasó"], "hint": "What happened?"},
+    {"type": "fill", "prompt": "___ a su hermano, pero no a ella. (conocer, yo)", "answers": ["conocía"], "hint": "I knew her brother, but not her."},
+    {"type": "fill", "prompt": "La niña ___ asustada. (estar)", "answers": ["estaba"], "hint": "The girl was scared."},
+    {"type": "fill", "prompt": "___ una semana en Cancún. (pasar, nosotros)", "answers": ["pasamos"], "hint": "We spent a week in Cancún."},
+    {"type": "fill", "prompt": "Por fin ___ hablar con él. (poder, yo)", "answers": ["pude"], "hint": "At last I managed to talk to him."},
+    {"type": "translate", "prompt": "What happened?", "answers": ["¿Qué pasó?"]},
+    {"type": "translate", "prompt": "I wanted to go, but I couldn't.", "answers": ["Quería ir, pero no pude."]},
+    {"type": "translate", "prompt": "I met her at a party.", "answers": ["La conocí en una fiesta."]},
+    {"type": "translate", "prompt": "We were very surprised.", "answers": ["Estábamos muy sorprendidos.", "Estábamos muy sorprendidas."]},
+    {"type": "translate", "prompt": "I had to work on Sunday.", "answers": ["Tuve que trabajar el domingo."]},
+    {"type": "build", "prompt": "Put the words in order: \"I told him the time and he left.\"", "answer": "Le dije la hora y se fue."},
+    {"type": "build", "prompt": "Put the words in order: \"I was supposed to work, but I stayed home.\"", "answer": "Tenía que trabajar, pero me quedé en casa."},
+    {"type": "build", "prompt": "Put the words in order: \"The woman told me an amazing story.\"", "answer": "La mujer me contó una historia increíble."}
+  ]
+}

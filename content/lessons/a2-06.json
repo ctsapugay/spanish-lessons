@@ -1,0 +1,86 @@
+{
+  "sections": [
+    {
+      "heading": "Painting a picture of the past",
+      "body": "Besides habits, the imperfect is the tense for **description** in the past: what people and places were like, what time it was, the weather, how people felt, how old they were. Think of it as the scenery of a story.\n\n- People: *Mi abuelo era alto y tenía el pelo blanco.* (My grandfather was tall and had white hair.)\n- Places: *La casa era vieja y tenía un jardín enorme.*\n- Time and age: *Eran las diez de la noche. Yo tenía ocho años.*\n- Weather: *Hacía frío y llovía.* (It was cold and it was raining.)\n- Feelings and states: *Estaba cansada. Tenía hambre.*"
+    },
+    {
+      "heading": "Physical description words",
+      "body": "Hair: *tener el pelo* + *largo* (long), *corto* (short), *rubio* (blond), *castaño* (brown), *negro*, *rizado* (curly), *liso* (straight). Eyes: *tener los ojos* + *azules, verdes, marrones / cafés* (brown). *Llevar* means to wear: *Llevaba una chaqueta roja.* Also *llevar barba / lentes* (to have a beard / wear glasses — *gafas* in Spain)."
+    },
+    {
+      "heading": "Asking about how things were",
+      "body": "*¿Cómo era tu casa?* (What was your house like?) *¿Cómo era tu profesor?* *¿Qué tiempo hacía?* (What was the weather like?) *¿Qué hora era?* *¿Cuántos años tenías?* (How old were you?)"
+    }
+  ],
+  "vocab": [
+    ["el pelo", "hair"],
+    ["largo / larga", "long"],
+    ["corto / corta", "short (length)"],
+    ["rubio / rubia", "blond"],
+    ["castaño / castaña", "brown (hair)"],
+    ["rizado / rizada", "curly"],
+    ["liso / lisa", "straight (hair)"],
+    ["marrón / café", "brown (eyes)"],
+    ["la barba", "beard"],
+    ["los lentes", "glasses"],
+    ["llevar", "to wear"],
+    ["enorme", "huge"],
+    ["viejo / vieja", "old"],
+    ["el barrio", "the neighborhood"],
+    ["oscuro / oscura", "dark"],
+    ["lleno / llena", "full"]
+  ],
+  "examples": [
+    ["Mi abuelo era alto y tenía el pelo blanco.", "My grandfather was tall and had white hair."],
+    ["La casa era vieja y tenía un jardín enorme.", "The house was old and had a huge garden."],
+    ["Eran las diez de la noche.", "It was ten at night."],
+    ["Yo tenía ocho años.", "I was eight years old."],
+    ["Hacía frío y llovía.", "It was cold and it was raining."],
+    ["Estaba cansada y tenía hambre.", "I was tired and hungry."],
+    ["Ella tenía el pelo largo y rizado.", "She had long curly hair."],
+    ["Llevaba una chaqueta roja.", "He was wearing a red jacket."],
+    ["Mi profesor llevaba lentes y tenía barba.", "My teacher wore glasses and had a beard."],
+    ["¿Cómo era tu casa?", "What was your house like?"],
+    ["Era pequeña pero muy bonita.", "It was small but very pretty."],
+    ["¿Qué tiempo hacía?", "What was the weather like?"],
+    ["Hacía sol y no había nubes.", "It was sunny and there were no clouds."],
+    ["El barrio era tranquilo.", "The neighborhood was quiet."],
+    ["La calle estaba oscura.", "The street was dark."],
+    ["El restaurante estaba lleno.", "The restaurant was full."],
+    ["Tenía los ojos verdes.", "She had green eyes."],
+    ["¿Cuántos años tenías?", "How old were you?"],
+    ["Mis padres estaban muy contentos.", "My parents were very happy."],
+    ["Mi hermana era rubia y tenía el pelo liso.", "My sister was blond and had straight hair."],
+    ["El chico tenía el pelo corto y castaño.", "The boy had short brown hair."],
+    ["Hacía mucho calor en la ciudad.", "It was very hot in the city."],
+    ["¿Qué hora era?", "What time was it?"],
+    ["Tenía los ojos marrones.", "He had brown eyes."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Mi abuelo ___ alto. (ser)", "answers": ["era"], "hint": "My grandfather was tall."},
+    {"type": "fill", "prompt": "___ las diez de la noche. (ser)", "answers": ["eran"], "hint": "It was ten at night."},
+    {"type": "fill", "prompt": "Yo ___ ocho años. (tener)", "answers": ["tenía"], "hint": "I was eight years old."},
+    {"type": "fill", "prompt": "___ frío y llovía. (hacer)", "answers": ["hacía"], "hint": "It was cold and it was raining."},
+    {"type": "fill", "prompt": "Ella ___ cansada. (estar)", "answers": ["estaba"], "hint": "She was tired."},
+    {"type": "fill", "prompt": "___ una chaqueta roja. (llevar, él)", "answers": ["llevaba"], "hint": "He was wearing a red jacket."},
+    {"type": "fill", "prompt": "Ella tenía el pelo ___ y rizado.", "answers": ["largo", "corto"], "hint": "She had long curly hair."},
+    {"type": "fill", "prompt": "El restaurante estaba ___.", "answers": ["lleno"], "hint": "The restaurant was full."},
+    {"type": "fill", "prompt": "¿Cuántos años ___? (tener, tú)", "answers": ["tenías"], "hint": "How old were you?"},
+    {"type": "fill", "prompt": "Mis padres ___ muy contentos. (estar)", "answers": ["estaban"], "hint": "My parents were very happy."},
+    {"type": "fill", "prompt": "La calle estaba ___.", "answers": ["oscura"], "hint": "The street was dark."},
+    {"type": "mc", "prompt": "Why is it *Eran las diez* and not *Fueron las diez*?", "options": ["Telling the time in the past is description → imperfect", "Because it's plural", "Both are equally common"], "answer": 0},
+    {"type": "mc", "prompt": "Which asks \"What was your house like?\"", "options": ["¿Cómo era tu casa?", "¿Cómo fue tu casa?", "¿Dónde estaba tu casa?", "¿Cómo estaba tu casa?"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Llevaba lentes* means…", "options": ["He wore glasses.", "He brought glasses.", "He was slow.", "He carried lenses."], "answer": 0},
+    {"type": "mc", "prompt": "Which tense describes the weather in a past story?", "options": ["imperfect: Hacía frío.", "preterite: Hizo frío.", "present: Hace frío."], "answer": 0, "explain": "The preterite *hizo frío* is possible when summing up a whole period (*Ayer hizo frío*), but for scene-setting use the imperfect."},
+    {"type": "mc", "prompt": "*Tenía el pelo rizado* means…", "options": ["She had curly hair.", "She had straight hair.", "She had red hair.", "She cut her hair."], "answer": 0},
+    {"type": "translate", "prompt": "It was cold and it was raining.", "answers": ["Hacía frío y llovía.", "Hacía frío y estaba lloviendo."]},
+    {"type": "translate", "prompt": "I was eight years old.", "answers": ["Tenía ocho años.", "Yo tenía ocho años."]},
+    {"type": "translate", "prompt": "What was the weather like?", "answers": ["¿Qué tiempo hacía?"]},
+    {"type": "translate", "prompt": "The neighborhood was quiet.", "answers": ["El barrio era tranquilo.", "El barrio estaba tranquilo."]},
+    {"type": "translate", "prompt": "She had green eyes.", "answers": ["Tenía los ojos verdes.", "Ella tenía los ojos verdes."]},
+    {"type": "build", "prompt": "Put the words in order: \"The house was old and had a huge garden.\"", "answer": "La casa era vieja y tenía un jardín enorme."},
+    {"type": "build", "prompt": "Put the words in order: \"My teacher wore glasses and had a beard.\"", "answer": "Mi profesor llevaba lentes y tenía barba."},
+    {"type": "build", "prompt": "Put the words in order: \"It was sunny and there were no clouds.\"", "answer": "Hacía sol y no había nubes."}
+  ]
+}

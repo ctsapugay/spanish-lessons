@@ -1,0 +1,96 @@
+{
+  "sections": [
+    {
+      "heading": "The present perfect: he hablado",
+      "body": "Form it with the present of *haber* + the past participle. The participle never changes.",
+      "table": {
+        "head": ["Pronoun", "haber", "+ participle"],
+        "rows": [
+          ["*yo*", "*he*", "*he hablado* — I have spoken"],
+          ["*tú*", "*has*", "*has comido* — you have eaten"],
+          ["*él / ella / usted*", "*ha*", "*ha vivido* — she has lived"],
+          ["*nosotros*", "*hemos*", "*hemos viajado* — we have traveled"],
+          ["*ustedes / ellos*", "*han*", "*han salido* — they have gone out"]
+        ]
+      }
+    },
+    {
+      "heading": "Participles",
+      "body": "Regular: *-ar → -ado* (*hablado*), *-er / -ir → -ido* (*comido, vivido*). Common irregular participles: *hacer → hecho*, *decir → dicho*, *ver → visto*, *escribir → escrito*, *poner → puesto*, *volver → vuelto*, *abrir → abierto*, *romper → roto*, *morir → muerto*, *ser → sido*, *ir → ido*.\n\nNothing goes between *haber* and the participle: pronouns go before *haber* (*Lo he visto*), and so does *no* (*No he comido*)."
+    },
+    {
+      "heading": "When to use it — and Latin America vs. Spain",
+      "body": "The present perfect connects the past to now, especially for experiences and things not yet finished:\n\n- Life experience with *alguna vez* (ever) and *nunca*: *¿Has estado alguna vez en Perú?* — *No, nunca he estado allí.*\n- With *ya* (already) and *todavía no* (not yet): *Ya he terminado. Todavía no he comido.*\n\nIn **Spain**, it is also used for anything that happened today or this week (*Hoy he trabajado mucho*). In most of **Latin America**, people use the preterite for that: *Hoy trabajé mucho. ¿Ya comiste?* Both are correct everywhere; this course uses the Latin American habit, but you'll understand both."
+    }
+  ],
+  "vocab": [
+    ["haber", "to have (auxiliary)"],
+    ["he", "I have (done)"],
+    ["hemos", "we have (done)"],
+    ["alguna vez", "ever"],
+    ["hecho", "done / made"],
+    ["dicho", "said"],
+    ["visto", "seen"],
+    ["escrito", "written"],
+    ["puesto", "put"],
+    ["vuelto", "returned"],
+    ["abierto", "opened"],
+    ["roto", "broken"],
+    ["muerto", "dead / died"],
+    ["probar", "to try / to taste"],
+    ["el país", "the country"],
+    ["el extranjero", "abroad"]
+  ],
+  "examples": [
+    ["He hablado con tu madre.", "I've spoken to your mother."],
+    ["¿Has estado alguna vez en Perú?", "Have you ever been to Peru?"],
+    ["No, nunca he estado allí.", "No, I've never been there."],
+    ["Ya he terminado.", "I've already finished."],
+    ["Todavía no he comido.", "I haven't eaten yet."],
+    ["¿Has visto mis llaves?", "Have you seen my keys?"],
+    ["Lo he visto muchas veces.", "I've seen it many times."],
+    ["Hemos viajado por todo el país.", "We've traveled all over the country."],
+    ["Ella ha vivido en el extranjero.", "She has lived abroad."],
+    ["¿Qué has hecho hoy?", "What have you done today?"],
+    ["Nunca he probado el mole.", "I've never tried mole."],
+    ["¿Han abierto la tienda?", "Have they opened the store?"],
+    ["Alguien ha roto la ventana.", "Someone has broken the window."],
+    ["No me has dicho la verdad.", "You haven't told me the truth."],
+    ["He escrito tres correos.", "I've written three emails."],
+    ["¿Dónde has puesto el libro?", "Where have you put the book?"],
+    ["Mis padres han vuelto de su viaje.", "My parents have come back from their trip."],
+    ["Hoy trabajé mucho.", "I worked a lot today. (Latin America)"],
+    ["Hoy he trabajado mucho.", "I've worked a lot today. (Spain)"],
+    ["¿Ya comiste?", "Did you eat yet? (Latin America)"],
+    ["Ha sido un día largo.", "It's been a long day."],
+    ["Han ido al mercado.", "They've gone to the market."],
+    ["Mi perro ha muerto.", "My dog has died."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ hablado con tu madre.", "answers": ["he"], "hint": "I've spoken to your mother."},
+    {"type": "fill", "prompt": "¿___ estado alguna vez en Perú? (tú)", "answers": ["has"], "hint": "Have you ever been to Peru?"},
+    {"type": "fill", "prompt": "Nosotros ___ viajado por todo el país.", "answers": ["hemos"], "hint": "We've traveled all over the country."},
+    {"type": "fill", "prompt": "Ella ha ___ en el extranjero. (vivir)", "answers": ["vivido"], "hint": "She has lived abroad."},
+    {"type": "fill", "prompt": "¿Qué has ___ hoy? (hacer)", "answers": ["hecho"], "hint": "What have you done today?"},
+    {"type": "fill", "prompt": "¿Has ___ mis llaves? (ver)", "answers": ["visto"], "hint": "Have you seen my keys?"},
+    {"type": "fill", "prompt": "No me has ___ la verdad. (decir)", "answers": ["dicho"], "hint": "You haven't told me the truth."},
+    {"type": "fill", "prompt": "He ___ tres correos. (escribir)", "answers": ["escrito"], "hint": "I've written three emails."},
+    {"type": "fill", "prompt": "Alguien ha ___ la ventana. (romper)", "answers": ["roto"], "hint": "Someone has broken the window."},
+    {"type": "fill", "prompt": "Mis padres han ___ de su viaje. (volver)", "answers": ["vuelto"], "hint": "My parents have come back from their trip."},
+    {"type": "fill", "prompt": "¿Han ___ la tienda? (abrir)", "answers": ["abierto"], "hint": "Have they opened the store?"},
+    {"type": "fill", "prompt": "Todavía no ___ comido. (yo)", "answers": ["he"], "hint": "I haven't eaten yet."},
+    {"type": "mc", "prompt": "Where does the pronoun go?", "options": ["Lo he visto.", "He lo visto.", "He visto lo.", "He vistolo."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is the participle of *poner*?", "options": ["puesto", "ponido", "puso", "pusto"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "In most of Latin America, \"Did you eat yet?\" is usually…", "options": ["¿Ya comiste?", "¿Ya has comido?", "¿Ya comías?"], "answer": 0, "lang": "es", "explain": "*¿Ya has comido?* is also correct and understood — it's just more typical of Spain."},
+    {"type": "mc", "prompt": "*alguna vez* means…", "options": ["ever", "once only", "sometimes", "never"], "answer": 0},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["No he comido.", "He no comido.", "He comido no."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Have you ever been to Peru? (informal)", "answers": ["¿Has estado alguna vez en Perú?", "¿Alguna vez has estado en Perú?"]},
+    {"type": "translate", "prompt": "I've never been there.", "answers": ["Nunca he estado allí.", "No he estado nunca allí.", "Nunca he estado ahí."]},
+    {"type": "translate", "prompt": "I haven't eaten yet.", "answers": ["Todavía no he comido.", "Todavía no comí.", "Aún no he comido."]},
+    {"type": "translate", "prompt": "Have you seen my keys? (informal)", "answers": ["¿Has visto mis llaves?", "¿Viste mis llaves?"]},
+    {"type": "translate", "prompt": "It's been a long day.", "answers": ["Ha sido un día largo."]},
+    {"type": "build", "prompt": "Put the words in order: \"We've traveled all over the country.\"", "answer": "Hemos viajado por todo el país."},
+    {"type": "build", "prompt": "Put the words in order: \"I've never tried mole.\"", "answer": "Nunca he probado el mole."},
+    {"type": "build", "prompt": "Put the words in order: \"I've seen it many times.\"", "answer": "Lo he visto muchas veces."}
+  ]
+}

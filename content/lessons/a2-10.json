@@ -1,0 +1,402 @@
+{
+  "sections": [
+    {
+      "heading": "Indirect objects: to whom, for whom",
+      "body": "The indirect object is the person who **receives** something or **benefits**: *I give the book **to Ana***. Spanish replaces it with an indirect object pronoun. You already know them from *gustar*.",
+      "table": {
+        "head": [
+          "",
+          "Pronoun",
+          "Example"
+        ],
+        "rows": [
+          [
+            "to me",
+            "*me*",
+            "*Mi madre me dio un regalo.*"
+          ],
+          [
+            "to you (tú)",
+            "*te*",
+            "*Te escribo mañana.*"
+          ],
+          [
+            "to him / her / you (usted)",
+            "*le*",
+            "*Le mandé un mensaje.*"
+          ],
+          [
+            "to us",
+            "*nos*",
+            "*Nos explicaron el problema.*"
+          ],
+          [
+            "to you all / them",
+            "*les*",
+            "*Les compré helado.*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Doubling: le + a + person",
+      "body": "Spanish very often uses the pronoun **and** the person in the same sentence: *Le di el libro a Ana.* (I gave the book to Ana.) *Les escribí a mis padres.* This isn't repetition — it's normal and even expected with *le / les*. It also clarifies who *le* is: *Le dije la verdad a él / a ella / a usted.*"
+    },
+    {
+      "heading": "Verbs that take indirect objects",
+      "body": "Giving and communicating: *dar* (to give), *decir* (to tell), *mandar / enviar* (to send), *escribir*, *explicar* (to explain), *preguntar* (to ask), *contestar* (to answer), *prestar* (to lend), *regalar* (to give as a gift), *mostrar / enseñar* (to show), *pedir* (to ask for), *traer*, *comprar* (for someone).\n\nPosition works exactly like direct objects: before the conjugated verb, or attached to an infinitive/gerund: *Voy a darle el libro* = *Le voy a dar el libro*."
+    }
+  ],
+  "vocab": [
+    [
+      "le",
+      "to him / to her / to you (formal)"
+    ],
+    [
+      "les",
+      "to them / to you all"
+    ],
+    [
+      "mandar",
+      "to send (everyday)"
+    ],
+    [
+      "enviar",
+      "to send (a bit more formal)"
+    ],
+    [
+      "el mensaje",
+      "the message"
+    ],
+    [
+      "explicar",
+      "to explain"
+    ],
+    [
+      "contestar",
+      "to answer"
+    ],
+    [
+      "prestar",
+      "to lend"
+    ],
+    [
+      "regalar",
+      "to give (as a gift)"
+    ],
+    [
+      "mostrar",
+      "to show"
+    ],
+    [
+      "enseñar",
+      "to teach / to show"
+    ],
+    [
+      "la foto",
+      "the photo"
+    ],
+    [
+      "el dinero",
+      "money"
+    ],
+    [
+      "la pregunta",
+      "the question"
+    ],
+    [
+      "la receta",
+      "the recipe / prescription"
+    ]
+  ],
+  "examples": [
+    [
+      "Mi madre me dio un regalo.",
+      "My mother gave me a gift."
+    ],
+    [
+      "Te escribo mañana.",
+      "I'll write to you tomorrow."
+    ],
+    [
+      "Le mandé un mensaje a Pedro.",
+      "I sent Pedro a message."
+    ],
+    [
+      "Nos explicaron el problema.",
+      "They explained the problem to us."
+    ],
+    [
+      "Les compré helado a los niños.",
+      "I bought the kids ice cream."
+    ],
+    [
+      "Le di el libro a Ana.",
+      "I gave the book to Ana."
+    ],
+    [
+      "Les escribí a mis padres.",
+      "I wrote to my parents."
+    ],
+    [
+      "¿Me prestas tu lápiz?",
+      "Can you lend me your pencil?"
+    ],
+    [
+      "¿Qué le regalaste a tu hermana?",
+      "What did you give your sister?"
+    ],
+    [
+      "Le regalé un libro.",
+      "I gave her a book."
+    ],
+    [
+      "Te voy a mostrar unas fotos.",
+      "I'm going to show you some photos."
+    ],
+    [
+      "El profesor nos enseña español.",
+      "The teacher teaches us Spanish."
+    ],
+    [
+      "Le pregunté la hora a un hombre.",
+      "I asked a man the time."
+    ],
+    [
+      "No me contestó.",
+      "He didn't answer me."
+    ],
+    [
+      "Voy a enviarle la receta.",
+      "I'm going to send her the recipe."
+    ],
+    [
+      "¿Le dijiste la verdad a tu jefe?",
+      "Did you tell your boss the truth?"
+    ],
+    [
+      "Mis abuelos nos mandan dinero.",
+      "My grandparents send us money."
+    ],
+    [
+      "¿Te gusta la foto?",
+      "Do you like the photo?"
+    ],
+    [
+      "Les expliqué la pregunta.",
+      "I explained the question to them."
+    ],
+    [
+      "Le traje un café.",
+      "I brought him a coffee."
+    ],
+    [
+      "Nos pidieron ayuda.",
+      "They asked us for help."
+    ],
+    [
+      "Le voy a dar el libro.",
+      "I'm going to give him the book."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Mi madre ___ dio un regalo. (a mí)",
+      "answers": [
+        "me"
+      ],
+      "hint": "My mother gave me a gift."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ mandé un mensaje a Pedro.",
+      "answers": [
+        "le"
+      ],
+      "hint": "I sent Pedro a message."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ compré helado a los niños.",
+      "answers": [
+        "les"
+      ],
+      "hint": "I bought the kids ice cream."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ explicaron el problema. (a nosotros)",
+      "answers": [
+        "nos"
+      ],
+      "hint": "They explained the problem to us."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿___ prestas tu lápiz? (a mí)",
+      "answers": [
+        "me"
+      ],
+      "hint": "Can you lend me your pencil?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Te voy a ___ unas fotos. (mostrar)",
+      "answers": [
+        "mostrar"
+      ],
+      "hint": "I'm going to show you some photos."
+    },
+    {
+      "type": "fill",
+      "prompt": "Le ___ la hora a un hombre. (preguntar, yo)",
+      "answers": [
+        "pregunté"
+      ],
+      "hint": "I asked a man the time."
+    },
+    {
+      "type": "fill",
+      "prompt": "No me ___. (contestar, él)",
+      "answers": [
+        "contestó"
+      ],
+      "hint": "He didn't answer me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Voy a ___ la receta. (enviar + le)",
+      "answers": [
+        "enviarle"
+      ],
+      "hint": "I'm going to send her the recipe. (one word)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Le di el libro ___ Ana.",
+      "answers": [
+        "a"
+      ],
+      "hint": "I gave the book to Ana."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ___ escribí a mis padres.",
+      "options": [
+        "Les",
+        "Los",
+        "Le",
+        "Se"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "In *Le di el libro a Ana*, the word *le* refers to…",
+      "options": [
+        "Ana",
+        "el libro",
+        "me",
+        "nobody — it's optional decoration"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which sentence is natural Spanish?",
+      "options": [
+        "Le dije la verdad a mi jefe.",
+        "Dije la verdad le a mi jefe.",
+        "Lo dije la verdad a mi jefe."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*¿Me prestas…?* is a way to…",
+      "options": [
+        "borrow something",
+        "lend something to someone",
+        "buy something",
+        "steal something"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*El profesor nos enseña español* means…",
+      "options": [
+        "The teacher teaches us Spanish.",
+        "The teacher shows Spanish to himself.",
+        "We teach the teacher Spanish."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"I'm going to give him the book\"?",
+      "options": [
+        "Le voy a dar el libro.",
+        "Voy le a dar el libro.",
+        "Voy a le dar el libro."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "My mother gave me a gift.",
+      "answers": [
+        "Mi madre me dio un regalo.",
+        "Mi mamá me dio un regalo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I sent Pedro a message.",
+      "answers": [
+        "Le mandé un mensaje a Pedro.",
+        "Le envié un mensaje a Pedro."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Can you lend me your pencil? (informal)",
+      "answers": [
+        "¿Me prestas tu lápiz?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He didn't answer me.",
+      "answers": [
+        "No me contestó."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "They asked us for help.",
+      "answers": [
+        "Nos pidieron ayuda."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"What did you give your sister?\"",
+      "answer": "¿Qué le regalaste a tu hermana?"
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"My grandparents send us money.\"",
+      "answer": "Mis abuelos nos mandan dinero."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I explained the question to them.\"",
+      "answer": "Les expliqué la pregunta."
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "sections": [
+    {
+      "heading": "Two tenses, two jobs",
+      "body": "- **Preterite**: completed events — what happened. Often with a specific time or a number of times: *ayer, el lunes, en 2019, tres veces, de repente* (suddenly).\n- **Imperfect**: background and ongoing situations — what was going on, what things were like, habits.\n\nPicture a film: the imperfect is the scenery and what was already happening; the preterite is the action that moves the story forward."
+    },
+    {
+      "heading": "Interrupted actions",
+      "body": "The classic combination: something was going on (imperfect) when something happened (preterite).\n\n*Yo leía cuando sonó el teléfono.* (I was reading when the phone rang.)\n*Estábamos en la playa cuando empezó a llover.* (We were at the beach when it started to rain.)\n\nYou can also use *estar* in the imperfect + gerund for the ongoing action: *Estaba cocinando cuando llegaste.*"
+    },
+    {
+      "heading": "Mientras and cuando",
+      "body": "- *mientras* (while) introduces the ongoing background, usually in the imperfect: *Mientras yo cocinaba, mi hermano ponía la mesa.* (Two things going on at the same time — both imperfect.)\n- *cuando* (when) often introduces the event that interrupts, in the preterite: *…cuando llegó mi madre.*\n\nCompare: *Cuando era niña, vivía en Lima* (background: imperfect) vs. *Cuando llegué a Lima, llovía* (event, then background)."
+    }
+  ],
+  "vocab": [
+    [
+      "mientras",
+      "while"
+    ],
+    [
+      "de repente",
+      "suddenly"
+    ],
+    [
+      "sonar",
+      "to ring / to sound"
+    ],
+    [
+      "sonó",
+      "it rang"
+    ],
+    [
+      "la llamada",
+      "the call"
+    ],
+    [
+      "poner la mesa",
+      "to set the table"
+    ],
+    [
+      "caerse",
+      "to fall (down)"
+    ],
+    [
+      "se cayó",
+      "he/she fell"
+    ],
+    [
+      "romper",
+      "to break"
+    ],
+    [
+      "rompió",
+      "he/she broke"
+    ],
+    [
+      "la lluvia",
+      "the rain"
+    ],
+    [
+      "el ruido",
+      "the noise"
+    ],
+    [
+      "despertarse",
+      "to wake up"
+    ],
+    [
+      "la luz",
+      "the light / electricity"
+    ],
+    [
+      "irse la luz",
+      "the power going out"
+    ]
+  ],
+  "examples": [
+    [
+      "Yo leía cuando sonó el teléfono.",
+      "I was reading when the phone rang."
+    ],
+    [
+      "Estábamos en la playa cuando empezó a llover.",
+      "We were at the beach when it started to rain."
+    ],
+    [
+      "Estaba cocinando cuando llegaste.",
+      "I was cooking when you arrived."
+    ],
+    [
+      "Mientras yo cocinaba, mi hermano ponía la mesa.",
+      "While I was cooking, my brother was setting the table."
+    ],
+    [
+      "Dormía cuando oí un ruido.",
+      "I was sleeping when I heard a noise."
+    ],
+    [
+      "De repente, se fue la luz.",
+      "Suddenly, the power went out."
+    ],
+    [
+      "Caminaba por el parque y de repente vi a Luis.",
+      "I was walking in the park and suddenly I saw Luis."
+    ],
+    [
+      "El niño jugaba y se cayó.",
+      "The boy was playing and fell down."
+    ],
+    [
+      "Mientras hablábamos, él rompió un vaso.",
+      "While we were talking, he broke a glass."
+    ],
+    [
+      "Cuando llegué a Lima, llovía.",
+      "When I arrived in Lima, it was raining."
+    ],
+    [
+      "Eran las tres cuando terminó la clase.",
+      "It was three o'clock when the class ended."
+    ],
+    [
+      "¿Qué hacías cuando te llamé?",
+      "What were you doing when I called you?"
+    ],
+    [
+      "Veía una película.",
+      "I was watching a movie."
+    ],
+    [
+      "Mientras ella estudiaba, yo escuchaba música.",
+      "While she was studying, I was listening to music."
+    ],
+    [
+      "Íbamos al cine cuando vimos el accidente.",
+      "We were going to the movies when we saw the accident."
+    ],
+    [
+      "Me desperté porque hacía mucho calor.",
+      "I woke up because it was very hot."
+    ],
+    [
+      "Estaba en la oficina cuando recibí la llamada.",
+      "I was at the office when I got the call."
+    ],
+    [
+      "Llovía mucho, así que no salimos.",
+      "It was raining a lot, so we didn't go out."
+    ],
+    [
+      "Ayer fui al médico tres veces.",
+      "Yesterday I went to the doctor three times."
+    ],
+    [
+      "Mi madre se cayó en la calle.",
+      "My mother fell in the street."
+    ],
+    [
+      "Cuando era niña, vivía en Lima.",
+      "When I was a girl, I lived in Lima."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose: Yo ___ cuando sonó el teléfono.",
+      "options": [
+        "leía",
+        "leí"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "The ongoing action that gets interrupted → imperfect."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Yo leía cuando ___ el teléfono.",
+      "options": [
+        "sonó",
+        "sonaba"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "The interrupting event → preterite."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Mientras yo cocinaba, mi hermano ___ la mesa.",
+      "options": [
+        "ponía",
+        "puso"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Two simultaneous ongoing actions → both imperfect."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: De repente, ___ la luz.",
+      "options": [
+        "se fue",
+        "se iba"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*De repente* marks a sudden event → preterite."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Cuando llegué a Lima, ___.",
+      "options": [
+        "llovía",
+        "llovió"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "The weather as background → imperfect."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Ayer ___ al médico tres veces.",
+      "options": [
+        "fui",
+        "iba"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "A counted number of times → preterite."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ___ las tres cuando terminó la clase.",
+      "options": [
+        "Eran",
+        "Fueron"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: El niño jugaba y ___.",
+      "options": [
+        "se cayó",
+        "se caía"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "fill",
+      "prompt": "Estábamos en la playa cuando ___ a llover. (empezar)",
+      "answers": [
+        "empezó"
+      ],
+      "hint": "We were at the beach when it started to rain."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ cuando oí un ruido. (dormir, yo)",
+      "answers": [
+        "dormía"
+      ],
+      "hint": "I was sleeping when I heard a noise."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué ___ cuando te llamé? (hacer, tú)",
+      "answers": [
+        "hacías"
+      ],
+      "hint": "What were you doing when I called you?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Estaba cocinando cuando ___. (llegar, tú)",
+      "answers": [
+        "llegaste"
+      ],
+      "hint": "I was cooking when you arrived."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mientras hablábamos, él ___ un vaso. (romper)",
+      "answers": [
+        "rompió"
+      ],
+      "hint": "While we were talking, he broke a glass."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me desperté porque ___ mucho calor. (hacer)",
+      "answers": [
+        "hacía"
+      ],
+      "hint": "I woke up because it was very hot."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ la luz. (irse, de repente)",
+      "answers": [
+        "se fue"
+      ],
+      "hint": "The power went out."
+    },
+    {
+      "type": "translate",
+      "prompt": "I was reading when the phone rang.",
+      "answers": [
+        "Leía cuando sonó el teléfono.",
+        "Yo leía cuando sonó el teléfono.",
+        "Estaba leyendo cuando sonó el teléfono."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "What were you doing when I called you? (informal)",
+      "answers": [
+        "¿Qué hacías cuando te llamé?",
+        "¿Qué estabas haciendo cuando te llamé?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Suddenly, the power went out.",
+      "answers": [
+        "De repente, se fue la luz."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "When I arrived in Lima, it was raining.",
+      "answers": [
+        "Cuando llegué a Lima, llovía.",
+        "Cuando llegué a Lima, estaba lloviendo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "My mother fell in the street.",
+      "answers": [
+        "Mi madre se cayó en la calle.",
+        "Mi mamá se cayó en la calle."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"While I was cooking, my brother was setting the table.\"",
+      "answer": "Mientras yo cocinaba, mi hermano ponía la mesa."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It was raining a lot, so we didn't go out.\"",
+      "answer": "Llovía mucho, así que no salimos."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I was at the office when I got the call.\"",
+      "answer": "Estaba en la oficina cuando recibí la llamada."
+    }
+  ]
+}
