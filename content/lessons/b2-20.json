@@ -1,0 +1,91 @@
+{
+  "sections": [
+    {
+      "heading": "Where events take place: ser",
+      "body": "Location normally uses *estar*, but the location of an **event** uses *ser*: *La fiesta es en mi casa.* (The party is at my house.) *¿Dónde es el concierto?* *La boda fue en una iglesia.* Compare: *Mi casa está en el centro.* (a place) vs. *La reunión es en el centro.* (an event)."
+    },
+    {
+      "heading": "Estar de…",
+      "body": "*Estar de* + noun describes a temporary role or situation: *estar de vacaciones* (on vacation), *estar de viaje* (traveling), *estar de pie* (standing), *estar de rodillas* (kneeling), *estar de acuerdo*, *estar de buen / mal humor* (in a good / bad mood), *estar de moda* (in fashion), *estar de luto* (in mourning). And *estar de* + job for a temporary position: *Está de camarero este verano.* (He's working as a waiter this summer.)"
+    },
+    {
+      "heading": "More meaning changes",
+      "body": "",
+      "table": {
+        "head": ["Adjective", "ser", "estar"],
+        "rows": [
+          ["*bueno*", "*Es bueno* — he's a good person / it's good quality", "*Está bueno* — it tastes good / (colloquial) he's attractive"],
+          ["*malo*", "*Es malo* — he's bad / it's bad quality", "*Está malo* — he's ill / it's gone bad"],
+          ["*rico*", "*Es rico* — he's wealthy", "*Está rico* — it's delicious"],
+          ["*seguro*", "*Es seguro* — it's safe", "*Está seguro* — he's sure"],
+          ["*atento*", "*Es atento* — he's considerate", "*Está atento* — he's paying attention"],
+          ["*católico*", "*Es católico* — he's Catholic", "*No está muy católico* — (colloquial) he's not feeling great"],
+          ["*negro*", "*Es negro* — it's black", "*Está negro* — (colloquial) he's furious / it's burnt"]
+        ]
+      }
+    },
+    {
+      "heading": "Estar for a subjective impression",
+      "body": "*Estar* with an adjective that normally uses *ser* expresses how something seems now or a change: *¡Qué alta estás!* (How tall you've gotten!) *La sopa está salada.* (The soup is (tastes) salty.) *Estás muy guapa hoy.* (You look very pretty today.)"
+    }
+  ],
+  "vocab": [
+    ["estar de vacaciones", "to be on vacation"],
+    ["estar de viaje", "to be traveling"],
+    ["estar de pie", "to be standing"],
+    ["estar de buen humor", "to be in a good mood"],
+    ["estar de mal humor", "to be in a bad mood"],
+    ["estar de moda", "to be in fashion"],
+    ["la boda", "the wedding"],
+    ["seguro / segura", "safe (ser) / sure (estar)"],
+    ["atento / atenta", "considerate (ser) / attentive (estar)"],
+    ["salado / salada", "salty"],
+    ["el humor", "the mood / humor"],
+    ["la moda", "fashion"]
+  ],
+  "examples": [
+    ["La fiesta es en mi casa.", "The party is at my house."],
+    ["¿Dónde es el concierto?", "Where's the concert?"],
+    ["La boda fue en una iglesia.", "The wedding was in a church."],
+    ["Mi casa está en el centro.", "My house is downtown."],
+    ["Estoy de vacaciones hasta el lunes.", "I'm on vacation until Monday."],
+    ["Mi jefe está de viaje.", "My boss is traveling."],
+    ["Llevo tres horas de pie.", "I've been standing for three hours."],
+    ["Hoy estás de buen humor.", "You're in a good mood today."],
+    ["Esos zapatos están de moda.", "Those shoes are in fashion."],
+    ["Este barrio es seguro.", "This neighborhood is safe."],
+    ["¿Estás seguro?", "Are you sure?"],
+    ["Es muy atento con sus clientes.", "He's very considerate with his customers."],
+    ["Estén atentos, por favor.", "Please pay attention."],
+    ["¡Qué alta estás!", "How tall you've gotten!"],
+    ["La sopa está salada.", "The soup is salty."],
+    ["Estás muy guapa hoy.", "You look very pretty today."],
+    ["Está de camarero este verano.", "He's working as a waiter this summer."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Choose: La fiesta ___ en mi casa.", "options": ["es", "está"], "answer": 0, "lang": "es", "explain": "Location of an event → *ser*."},
+    {"type": "mc", "prompt": "Choose: Mi casa ___ en el centro.", "options": ["está", "es"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Este barrio ___ seguro. (safe)", "options": ["es", "está"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: ¿___ seguro? (Are you sure?)", "options": ["Estás", "Eres"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: ¡Qué alta ___! (You've grown!)", "options": ["estás", "eres"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Mi jefe está de viaje* means…", "options": ["My boss is traveling.", "My boss is a traveler.", "My boss is on the way.", "My boss likes travel."], "answer": 0},
+    {"type": "mc", "prompt": "Choose: La boda ___ en una iglesia.", "options": ["fue", "estuvo"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "Estoy de ___ hasta el lunes.", "answers": ["vacaciones"], "hint": "I'm on vacation until Monday."},
+    {"type": "fill", "prompt": "Hoy estás de buen ___.", "answers": ["humor"], "hint": "You're in a good mood today."},
+    {"type": "fill", "prompt": "Esos zapatos están de ___.", "answers": ["moda"], "hint": "Those shoes are in fashion."},
+    {"type": "fill", "prompt": "Llevo tres horas de ___.", "answers": ["pie"], "hint": "I've been standing for three hours."},
+    {"type": "fill", "prompt": "¿Dónde ___ el concierto?", "answers": ["es"], "hint": "Where's the concert?"},
+    {"type": "fill", "prompt": "La sopa ___ salada.", "answers": ["está"], "hint": "The soup is salty."},
+    {"type": "fill", "prompt": "Es muy ___ con sus clientes.", "answers": ["atento"], "hint": "He's very considerate with his customers."},
+    {"type": "fill", "prompt": "Estás muy ___ hoy.", "answers": ["guapa", "guapo"], "hint": "You look very pretty today."},
+    {"type": "fill", "prompt": "Mi jefe ___ de viaje.", "answers": ["está"], "hint": "My boss is traveling."},
+    {"type": "translate", "prompt": "The party is at my house.", "answers": ["La fiesta es en mi casa."]},
+    {"type": "translate", "prompt": "Are you sure? (tú, to a man)", "answers": ["¿Estás seguro?"]},
+    {"type": "translate", "prompt": "I'm on vacation until Monday.", "answers": ["Estoy de vacaciones hasta el lunes."]},
+    {"type": "translate", "prompt": "This neighborhood is safe.", "answers": ["Este barrio es seguro."]},
+    {"type": "translate", "prompt": "Those shoes are in fashion.", "answers": ["Esos zapatos están de moda."]},
+    {"type": "build", "prompt": "Put the words in order: \"The wedding was in a church.\"", "answer": "La boda fue en una iglesia."},
+    {"type": "build", "prompt": "Put the words in order: \"You're in a good mood today.\"", "answer": "Hoy estás de buen humor."},
+    {"type": "build", "prompt": "Put the words in order: \"How tall you've gotten!\"", "answer": "¡Qué alta estás!"}
+  ]
+}

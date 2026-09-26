@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "heading": "Markers that organise discourse",
+      "body": "Discourse markers show how ideas connect. Using them well is one of the clearest signs of B2 level.\n\n- **Adding**: *además, asimismo* (likewise — formal), *por otra parte* (moreover / on the other hand), *encima* (on top of that — colloquial, often negative): *Llegó tarde y, encima, sin disculparse.*\n- **Contrast**: *sin embargo, no obstante* (nevertheless — formal), *en cambio* (by contrast), *por el contrario* (on the contrary), *aun así* (even so).\n- **Reformulating**: *es decir* (that is), *o sea* (I mean — colloquial), *mejor dicho* (or rather), *en otras palabras*.\n- **Examples**: *por ejemplo, a saber* (namely — formal).\n- **Concluding**: *en resumen, en definitiva* (in short / ultimately), *en conclusión, al fin y al cabo* (after all).\n- **Emphasizing / real fact**: *de hecho* (in fact), *en realidad* (actually), *la verdad es que* (the truth is).\n- **Topic shift**: *por cierto* (by the way), *en cuanto a / respecto a* (as for / regarding)."
+    },
+    {
+      "heading": "False friends",
+      "body": "*Actualmente* = currently (not \"actually\" — that's *en realidad*). *Eventualmente* = possibly / occasionally (not \"eventually\" — that's *finalmente / al final*)."
+    }
+  ],
+  "vocab": [
+    ["no obstante", "nevertheless"],
+    ["asimismo", "likewise / also"],
+    ["por otra parte", "moreover / on the other hand"],
+    ["encima", "on top of that"],
+    ["por el contrario", "on the contrary"],
+    ["es decir", "that is / in other words"],
+    ["mejor dicho", "or rather"],
+    ["en definitiva", "ultimately / in short"],
+    ["al fin y al cabo", "after all"],
+    ["de hecho", "in fact"],
+    ["en realidad", "actually"],
+    ["en cuanto a", "as for / regarding"],
+    ["actualmente", "currently"],
+    ["a saber", "namely"]
+  ],
+  "examples": [
+    ["Llegó tarde y, encima, sin disculparse.", "He arrived late and, on top of that, without apologizing."],
+    ["El plan es bueno. No obstante, es muy caro.", "The plan is good. Nevertheless, it's very expensive."],
+    ["A mí me encanta el frío; a mi hermana, por el contrario, le encanta el calor.", "I love the cold; my sister, on the contrary, loves the heat."],
+    ["Llegaré el lunes, es decir, dentro de tres días.", "I'll arrive on Monday, that is, in three days."],
+    ["Son las siete, mejor dicho, las siete y cuarto.", "It's seven o'clock — or rather, a quarter past seven."],
+    ["En definitiva, fue una buena decisión.", "Ultimately, it was a good decision."],
+    ["Al fin y al cabo, es tu dinero.", "After all, it's your money."],
+    ["De hecho, ya lo sabía.", "In fact, I already knew."],
+    ["En realidad, no me gusta mucho.", "Actually, I don't like it much."],
+    ["En cuanto al precio, lo hablamos mañana.", "As for the price, we'll discuss it tomorrow."],
+    ["Actualmente vivo en Bogotá.", "I currently live in Bogotá."],
+    ["Por cierto, ¿viste a Laura?", "By the way, did you see Laura?"],
+    ["Asimismo, se aprobó el presupuesto.", "Likewise, the budget was approved."],
+    ["Por otra parte, hay que considerar el tiempo.", "On the other hand, we have to consider the time."],
+    ["La verdad es que no tengo ganas.", "The truth is I don't feel like it."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Llegó tarde y, ___, sin disculparse.", "answers": ["encima", "además"], "hint": "He arrived late and, on top of that, without apologizing."},
+    {"type": "fill", "prompt": "El plan es bueno. No ___, es muy caro.", "answers": ["obstante"], "hint": "The plan is good. Nevertheless, it's very expensive."},
+    {"type": "fill", "prompt": "Llegaré el lunes, es ___, dentro de tres días.", "answers": ["decir"], "hint": "I'll arrive on Monday, that is, in three days."},
+    {"type": "fill", "prompt": "Son las siete, mejor ___, las siete y cuarto.", "answers": ["dicho"], "hint": "It's seven — or rather, a quarter past seven."},
+    {"type": "fill", "prompt": "Al fin y al ___, es tu dinero.", "answers": ["cabo"], "hint": "After all, it's your money."},
+    {"type": "fill", "prompt": "De ___, ya lo sabía.", "answers": ["hecho"], "hint": "In fact, I already knew."},
+    {"type": "fill", "prompt": "En ___, no me gusta mucho.", "answers": ["realidad"], "hint": "Actually, I don't like it much."},
+    {"type": "fill", "prompt": "En ___ al precio, lo hablamos mañana.", "answers": ["cuanto"], "hint": "As for the price, we'll discuss it tomorrow."},
+    {"type": "fill", "prompt": "___ vivo en Bogotá.", "answers": ["actualmente"], "hint": "I currently live in Bogotá."},
+    {"type": "fill", "prompt": "En ___, fue una buena decisión.", "answers": ["definitiva", "resumen", "conclusión"], "hint": "Ultimately, it was a good decision."},
+    {"type": "mc", "prompt": "*Actualmente* means…", "options": ["currently", "actually", "eventually", "accurately"], "answer": 0},
+    {"type": "mc", "prompt": "\"Actually, I don't like it\" →", "options": ["En realidad, no me gusta.", "Actualmente, no me gusta.", "Eventualmente, no me gusta."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which marker is formal for \"nevertheless\"?", "options": ["no obstante", "encima", "o sea", "por cierto"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*encima* (colloquial) adds something…", "options": ["extra, often negative", "as a conclusion", "as an example", "as a contrast"], "answer": 0},
+    {"type": "mc", "prompt": "*Mejor dicho* is used to…", "options": ["correct or refine what you just said", "give an example", "conclude", "disagree"], "answer": 0},
+    {"type": "mc", "prompt": "*Al fin y al cabo* means…", "options": ["after all", "at the end of the street", "finally, at last", "on the other hand"], "answer": 0},
+    {"type": "translate", "prompt": "In fact, I already knew.", "answers": ["De hecho, ya lo sabía."]},
+    {"type": "translate", "prompt": "After all, it's your money. (tú)", "answers": ["Al fin y al cabo, es tu dinero."]},
+    {"type": "translate", "prompt": "I currently live in Bogotá.", "answers": ["Actualmente vivo en Bogotá.", "Vivo actualmente en Bogotá."]},
+    {"type": "translate", "prompt": "The truth is I don't feel like it.", "answers": ["La verdad es que no tengo ganas."]},
+    {"type": "translate", "prompt": "As for the price, we'll discuss it tomorrow.", "answers": ["En cuanto al precio, lo hablamos mañana.", "Respecto al precio, lo hablamos mañana."]},
+    {"type": "build", "prompt": "Put the words in order: \"The plan is good. Nevertheless, it's very expensive.\"", "answer": "El plan es bueno. No obstante, es muy caro."},
+    {"type": "build", "prompt": "Put the words in order: \"On the other hand, we have to consider the time.\"", "answer": "Por otra parte, hay que considerar el tiempo."},
+    {"type": "build", "prompt": "Put the words in order: \"Ultimately, it was a good decision.\"", "answer": "En definitiva, fue una buena decisión."}
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "sections": [
+    {
+      "heading": "Verbs that need a preposition",
+      "body": "Many Spanish verbs require a specific preposition, often different from English. Learn them as units:",
+      "table": {
+        "head": ["Preposition", "Verbs"],
+        "rows": [
+          ["*a*", "*aprender a, empezar a, ayudar a, atreverse a* (to dare), *acostumbrarse a* (to get used to), *negarse a, invitar a, oler a* (to smell of), *saber a* (to taste of)"],
+          ["*de*", "*depender de, acordarse de, olvidarse de, tratar de* (to try to), *enamorarse de, quejarse de, darse cuenta de* (to realize), *dejar de, cansarse de, burlarse de* (to make fun of)"],
+          ["*en*", "*pensar en* (to think about), *confiar en, insistir en, tardar en, consistir en* (to consist of), *fijarse en* (to notice), *quedar en* (to agree to), *convertirse en*"],
+          ["*con*", "*soñar con* (to dream of), *casarse con, contar con* (to count on), *soñar con, encontrarse con* (to run into), *meterse con* (to pick on)"],
+          ["*por*", "*preocuparse por* (to worry about), *interesarse por, luchar por, votar por, optar por* (to opt for)"]
+        ]
+      }
+    },
+    {
+      "heading": "The preposition stays with a clause",
+      "body": "When the verb is followed by *que* + clause, the preposition stays: *Me di cuenta de que era tarde.* (I realized it was late.) *Insisto en que vengas.* *Confío en que todo salga bien.* Dropping the *de* is a common error (*dequeísmo* is the opposite error — adding *de* where it doesn't belong, as in \"pienso de que\": avoid it)."
+    },
+    {
+      "heading": "Pensar en vs. pensar de",
+      "body": "*Pensar en* = to think about (have in mind): *Pienso en ti.* *Pensar de* = to think of (opinion), usually in questions: *¿Qué piensas de la película?*"
+    }
+  ],
+  "vocab": [
+    ["depender de", "to depend on"],
+    ["tratar de", "to try to"],
+    ["darse cuenta de", "to realize"],
+    ["atreverse a", "to dare to"],
+    ["acostumbrarse a", "to get used to"],
+    ["oler a", "to smell of"],
+    ["pensar en", "to think about"],
+    ["consistir en", "to consist of"],
+    ["fijarse en", "to notice / pay attention to"],
+    ["soñar con", "to dream of"],
+    ["contar con", "to count on"],
+    ["encontrarse con", "to run into"],
+    ["preocuparse por", "to worry about"],
+    ["burlarse de", "to make fun of"],
+    ["cansarse de", "to get tired of"]
+  ],
+  "examples": [
+    ["Todo depende de ti.", "Everything depends on you."],
+    ["Trato de hablar español todos los días.", "I try to speak Spanish every day."],
+    ["Me di cuenta de que era tarde.", "I realized it was late."],
+    ["No me atrevo a decírselo.", "I don't dare tell him."],
+    ["Ya me acostumbré a vivir sola.", "I've gotten used to living alone."],
+    ["La cocina huele a café.", "The kitchen smells of coffee."],
+    ["Pienso en ti todos los días.", "I think about you every day."],
+    ["¿Qué piensas de la película?", "What do you think of the movie?"],
+    ["El trabajo consiste en atender a los clientes.", "The job consists of attending to customers."],
+    ["¿Te fijaste en su vestido?", "Did you notice her dress?"],
+    ["Sueño con viajar por Sudamérica.", "I dream of traveling around South America."],
+    ["Puedes contar conmigo.", "You can count on me."],
+    ["Me encontré con Pedro en el mercado.", "I ran into Pedro at the market."],
+    ["Se preocupa mucho por su hijo.", "She worries a lot about her son."],
+    ["No te burles de mí.", "Don't make fun of me."],
+    ["Me cansé de esperar.", "I got tired of waiting."],
+    ["Confío en que todo salga bien.", "I trust everything will turn out well."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Todo depende ___ ti.", "answers": ["de"], "hint": "Everything depends on you."},
+    {"type": "fill", "prompt": "Me di cuenta ___ que era tarde.", "answers": ["de"], "hint": "I realized it was late."},
+    {"type": "fill", "prompt": "No me atrevo ___ decírselo.", "answers": ["a"], "hint": "I don't dare tell him."},
+    {"type": "fill", "prompt": "La cocina huele ___ café.", "answers": ["a"], "hint": "The kitchen smells of coffee."},
+    {"type": "fill", "prompt": "Pienso ___ ti todos los días.", "answers": ["en"], "hint": "I think about you every day."},
+    {"type": "fill", "prompt": "El trabajo consiste ___ atender a los clientes.", "answers": ["en"], "hint": "The job consists of attending to customers."},
+    {"type": "fill", "prompt": "Sueño ___ viajar por Sudamérica.", "answers": ["con"], "hint": "I dream of traveling around South America."},
+    {"type": "fill", "prompt": "Puedes contar ___.", "answers": ["conmigo"], "hint": "You can count on me."},
+    {"type": "fill", "prompt": "Se preocupa mucho ___ su hijo.", "answers": ["por"], "hint": "She worries a lot about her son."},
+    {"type": "fill", "prompt": "No te burles ___ mí.", "answers": ["de"], "hint": "Don't make fun of me."},
+    {"type": "fill", "prompt": "Me cansé ___ esperar.", "answers": ["de"], "hint": "I got tired of waiting."},
+    {"type": "fill", "prompt": "Ya me acostumbré ___ vivir sola.", "answers": ["a"], "hint": "I've gotten used to living alone."},
+    {"type": "mc", "prompt": "\"I think about you\" →", "options": ["Pienso en ti.", "Pienso de ti.", "Pienso sobre ti.", "Pienso a ti."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"What do you think of the movie?\" →", "options": ["¿Qué piensas de la película?", "¿Qué piensas en la película?", "¿Qué piensas a la película?"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"I ran into Pedro\" →", "options": ["Me encontré con Pedro.", "Corrí en Pedro.", "Encontré a Pedro corriendo.", "Me corrí con Pedro."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Pienso que es verdad.", "Pienso de que es verdad."], "answer": 0, "lang": "es", "explain": "Adding *de* after *pensar que* (\"dequeísmo\") is a common error."},
+    {"type": "mc", "prompt": "*tratar de* + infinitive means…", "options": ["to try to", "to treat", "to deal with only", "to be about"], "answer": 0},
+    {"type": "translate", "prompt": "Everything depends on you. (tú)", "answers": ["Todo depende de ti."]},
+    {"type": "translate", "prompt": "I realized it was late.", "answers": ["Me di cuenta de que era tarde."]},
+    {"type": "translate", "prompt": "You can count on me. (tú)", "answers": ["Puedes contar conmigo."]},
+    {"type": "translate", "prompt": "I dream of traveling around South America.", "answers": ["Sueño con viajar por Sudamérica.", "Sueño con viajar por América del Sur."]},
+    {"type": "translate", "prompt": "Don't make fun of me. (tú)", "answers": ["No te burles de mí."]},
+    {"type": "build", "prompt": "Put the words in order: \"I trust everything will turn out well.\"", "answer": "Confío en que todo salga bien."},
+    {"type": "build", "prompt": "Put the words in order: \"I try to speak Spanish every day.\"", "answer": "Trato de hablar español todos los días."},
+    {"type": "build", "prompt": "Put the words in order: \"Did you notice her dress?\"", "answer": "¿Te fijaste en su vestido?"}
+  ]
+}

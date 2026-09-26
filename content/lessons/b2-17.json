@@ -1,0 +1,89 @@
+{
+  "sections": [
+    {
+      "heading": "When se changes the meaning",
+      "body": "Many verbs change meaning (or nuance) when used with a reflexive pronoun:",
+      "table": {
+        "head": ["Without se", "With se"],
+        "rows": [
+          ["*ir* — to go", "*irse* — to leave, go away: *Me voy.*"],
+          ["*dormir* — to sleep", "*dormirse* — to fall asleep: *Me dormí en el cine.*"],
+          ["*llevar* — to carry, take", "*llevarse* — to take away (with you): *Me llevo este.*"],
+          ["*quedar* — to arrange to meet / be left", "*quedarse* — to stay: *Me quedo en casa.*"],
+          ["*acordar* — to agree", "*acordarse (de)* — to remember: *¿Te acuerdas de mí?*"],
+          ["*parecer* — to seem", "*parecerse (a)* — to look like: *Te pareces a tu madre.*"],
+          ["*negar* — to deny", "*negarse (a)* — to refuse: *Se negó a pagar.*"],
+          ["*poner* — to put", "*ponerse* — to put on / become: *Se puso nervioso.*"],
+          ["*comer* — to eat", "*comerse* — to eat up (all of it): *Se comió toda la pizza.*"],
+          ["*morir* — to die", "*morirse* — to die (emotional) / be dying to: *Me muero de hambre.*"]
+        ]
+      }
+    },
+    {
+      "heading": "The \"intensifying\" se",
+      "body": "With verbs of consumption (*comer, beber, tomar*) and some others (*saber, leer, ver*), *se* + a specific quantity emphasises completeness: *Me tomé dos cafés.* *Se leyó el libro en un día.* (She read the whole book in a day.) *Me sé la canción de memoria.* (I know the song by heart.)"
+    },
+    {
+      "heading": "The dative of interest",
+      "body": "An indirect pronoun can show who is affected — often emotionally: *No te me pongas triste.* (Don't go getting sad on me.) *Se me murió el perro.* (My dog died — and it affected me.) *Cuídame a los niños.* (Look after the kids for me.) It's very common and colloquial in Latin America."
+    }
+  ],
+  "vocab": [
+    ["irse", "to leave / go away"],
+    ["dormirse", "to fall asleep"],
+    ["llevarse", "to take away"],
+    ["quedarse", "to stay"],
+    ["acordarse de", "to remember"],
+    ["parecerse a", "to look like"],
+    ["negarse a", "to refuse to"],
+    ["comerse", "to eat up"],
+    ["morirse de", "to be dying of"],
+    ["de memoria", "by heart"],
+    ["cuidar", "to look after"],
+    ["el cine", "the movie theater"]
+  ],
+  "examples": [
+    ["Me voy, es tarde.", "I'm leaving, it's late."],
+    ["Me dormí en el cine.", "I fell asleep at the movies."],
+    ["Me llevo este.", "I'll take this one."],
+    ["Me quedo en casa esta noche.", "I'm staying home tonight."],
+    ["¿Te acuerdas de mí?", "Do you remember me?"],
+    ["Te pareces mucho a tu madre.", "You look a lot like your mother."],
+    ["Se negó a pagar.", "He refused to pay."],
+    ["Se comió toda la pizza.", "He ate the whole pizza."],
+    ["Me muero de hambre.", "I'm starving."],
+    ["Me tomé dos cafés.", "I had two coffees."],
+    ["Se leyó el libro en un día.", "She read the whole book in a day."],
+    ["Me sé la canción de memoria.", "I know the song by heart."],
+    ["Se me murió el perro.", "My dog died (on me)."],
+    ["Cuídame a los niños, por favor.", "Look after the kids for me, please."],
+    ["No te me pongas triste.", "Don't go getting sad on me."],
+    ["Quedamos a las ocho.", "We agreed to meet at eight."],
+    ["No me acuerdo de su nombre.", "I don't remember her name."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "\"I'm leaving\" →", "options": ["Me voy.", "Voy.", "Me ido.", "Voyme."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"I fell asleep at the movies\" →", "options": ["Me dormí en el cine.", "Dormí en el cine.", "Me dormía en el cine.", "Dormí me en el cine."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*¿Te acuerdas de mí?* means…", "options": ["Do you remember me?", "Do you agree with me?", "Are you with me?", "Do you remind me?"], "answer": 0},
+    {"type": "mc", "prompt": "*Te pareces a tu madre* means…", "options": ["You look like your mother.", "Your mother seems nice.", "You appear with your mother.", "You agree with your mother."], "answer": 0},
+    {"type": "mc", "prompt": "*Se negó a pagar* means…", "options": ["He refused to pay.", "He denied paying.", "He didn't pay yet.", "He paid in cash."], "answer": 0},
+    {"type": "mc", "prompt": "*Me muero de hambre* means…", "options": ["I'm starving.", "I'm dying.", "I'm killing hunger.", "I'm not hungry."], "answer": 0},
+    {"type": "fill", "prompt": "Me ___ este. (llevarse, yo)", "answers": ["llevo"], "hint": "I'll take this one."},
+    {"type": "fill", "prompt": "Me ___ en casa esta noche. (quedarse)", "answers": ["quedo"], "hint": "I'm staying home tonight."},
+    {"type": "fill", "prompt": "¿Te ___ de mí? (acordarse)", "answers": ["acuerdas"], "hint": "Do you remember me?"},
+    {"type": "fill", "prompt": "Te ___ mucho a tu madre. (parecerse)", "answers": ["pareces"], "hint": "You look a lot like your mother."},
+    {"type": "fill", "prompt": "Se ___ toda la pizza. (comerse, él)", "answers": ["comió"], "hint": "He ate the whole pizza."},
+    {"type": "fill", "prompt": "Me sé la canción de ___.", "answers": ["memoria"], "hint": "I know the song by heart."},
+    {"type": "fill", "prompt": "Se me ___ el perro. (morir)", "answers": ["murió"], "hint": "My dog died (on me)."},
+    {"type": "fill", "prompt": "No me ___ de su nombre. (acordarse)", "answers": ["acuerdo"], "hint": "I don't remember her name."},
+    {"type": "fill", "prompt": "Se ___ a pagar. (negarse, él)", "answers": ["negó"], "hint": "He refused to pay."},
+    {"type": "translate", "prompt": "I'm leaving, it's late.", "answers": ["Me voy, es tarde.", "Ya me voy, es tarde."]},
+    {"type": "translate", "prompt": "Do you remember me? (tú)", "answers": ["¿Te acuerdas de mí?", "¿Me recuerdas?"]},
+    {"type": "translate", "prompt": "I'm starving.", "answers": ["Me muero de hambre.", "Tengo mucha hambre."]},
+    {"type": "translate", "prompt": "I'm staying home tonight.", "answers": ["Me quedo en casa esta noche.", "Esta noche me quedo en casa."]},
+    {"type": "translate", "prompt": "He refused to pay.", "answers": ["Se negó a pagar."]},
+    {"type": "build", "prompt": "Put the words in order: \"She read the whole book in a day.\"", "answer": "Se leyó el libro en un día."},
+    {"type": "build", "prompt": "Put the words in order: \"Look after the kids for me, please.\"", "answer": "Cuídame a los niños, por favor."},
+    {"type": "build", "prompt": "Put the words in order: \"You look a lot like your mother.\"", "answer": "Te pareces mucho a tu madre."}
+  ]
+}
