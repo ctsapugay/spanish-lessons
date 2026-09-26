@@ -68,3 +68,8 @@ reader: state, not narrative.
 
 - **state:** A1 + A2 (62 lessons) written; CHK-002 passes for all 62; CHK-003 green (25/25, now including an A2 level test that pulls from A1). A2 review recorded (curriculum/reviews/A2.md, 9 findings fixed).
 - **next:** B1 (36 lessons), then its review.
+
+## 2026-09-26 — B1 finished and reviewed
+
+- **state:** A1–B1 (98 lessons) written; CHK-002 passes for all 98; CHK-003 green (25/25). B1 review recorded (curriculum/reviews/B1.md, 10 findings fixed — notably regional: *coger* avoided, *estar por* for "about to").
+- **next:** B2 (34 lessons), B2 review, C1 (30), C1 review, final verification and criteria evidence.

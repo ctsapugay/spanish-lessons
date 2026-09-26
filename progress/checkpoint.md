@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-09-26
-**Now:** A1, A2 done and reviewed. B1 in progress: b1-01…b1-20 written.
-**Next:** b1-21 … b1-36, then the B1 review (curriculum/reviews/B1.md), then B2.
-**Watch:** Dialogue dashes (—) for two speakers. Unique prompts per lesson (and unique English glosses in vocab — they generate prompts). English only in hints. LatAm vocabulary (mesero, carro, celular, boleto). Rebuild after edits.
+**Now:** A1, A2, B1 complete (98 lessons) and reviewed. Starting B2.
+**Next:** Write b2-01 … b2-34 (outline in content/course.json), then the B2 review, then C1 (30), C1 review, final verification.
+**Watch:** Dialogue dashes. Unique prompts & vocab glosses per lesson. English only in hints (no "(pret.)", "(guess)" etc. in prompts). Conjugated forms used in MC answers must appear in examples/tables. LatAm usage (estar por, mesero, carro, celular, computadora; avoid coger). Rebuild after edits.

@@ -14,66 +14,336 @@
     }
   ],
   "vocab": [
-    ["llevar una vida sana", "to lead a healthy life"],
-    ["hacer ejercicio", "to exercise"],
-    ["la dieta equilibrada", "a balanced diet"],
-    ["comer sano", "to eat healthily"],
-    ["la comida chatarra", "junk food"],
-    ["el estrés", "stress"],
-    ["relajarse", "to relax"],
-    ["estirarse", "to stretch"],
-    ["bajar de peso", "to lose weight"],
-    ["engordar", "to put on weight"],
-    ["adelgazar", "to lose weight / slim down"],
-    ["la energía", "energy"],
-    ["las verduras", "vegetables"],
-    ["el refresco", "the soft drink"],
-    ["intentar", "to try"],
-    ["cada vez más", "more and more"]
+    [
+      "llevar una vida sana",
+      "to lead a healthy life"
+    ],
+    [
+      "hacer ejercicio",
+      "to exercise"
+    ],
+    [
+      "la dieta equilibrada",
+      "a balanced diet"
+    ],
+    [
+      "comer sano",
+      "to eat healthily"
+    ],
+    [
+      "la comida chatarra",
+      "junk food"
+    ],
+    [
+      "el estrés",
+      "stress"
+    ],
+    [
+      "relajarse",
+      "to relax"
+    ],
+    [
+      "estirarse",
+      "to stretch"
+    ],
+    [
+      "bajar de peso",
+      "to lose weight"
+    ],
+    [
+      "engordar",
+      "to put on weight"
+    ],
+    [
+      "adelgazar",
+      "to lose weight / slim down"
+    ],
+    [
+      "la energía",
+      "energy"
+    ],
+    [
+      "las verduras",
+      "vegetables"
+    ],
+    [
+      "el refresco",
+      "the soft drink"
+    ],
+    [
+      "intentar",
+      "to try"
+    ],
+    [
+      "cada vez más",
+      "more and more"
+    ]
   ],
   "examples": [
-    ["Quiero llevar una vida más sana.", "I want to lead a healthier life."],
-    ["Hago ejercicio tres veces por semana.", "I exercise three times a week."],
-    ["Es importante tener una dieta equilibrada.", "It's important to have a balanced diet."],
-    ["Intento comer sano.", "I try to eat healthily."],
-    ["Deberías comer menos comida chatarra.", "You should eat less junk food."],
-    ["Tengo mucho estrés en el trabajo.", "I have a lot of stress at work."],
-    ["El yoga me ayuda a relajarme.", "Yoga helps me relax."],
-    ["Siempre me estiro antes de correr.", "I always stretch before running."],
-    ["Bajé cinco kilos el año pasado.", "I lost five kilos last year."],
-    ["Te recomiendo que hagas ejercicio todos los días.", "I recommend that you exercise every day."],
-    ["Es mejor que no comas tanta azúcar.", "It's better if you don't eat so much sugar."],
-    ["El médico me aconsejó que dejara el azúcar.", "The doctor advised me to give up sugar."],
-    ["Si comieras mejor, tendrías más energía.", "If you ate better, you'd have more energy."],
-    ["Llevo un mes sin tomar refrescos.", "I haven't had soft drinks for a month."],
-    ["Cada vez como más verduras.", "I eat more and more vegetables."],
-    ["Suelo caminar por las mañanas.", "I usually walk in the mornings."],
-    ["Engordé mucho durante las vacaciones.", "I put on a lot of weight during vacation."]
+    [
+      "Quiero llevar una vida más sana.",
+      "I want to lead a healthier life."
+    ],
+    [
+      "Hago ejercicio tres veces por semana.",
+      "I exercise three times a week."
+    ],
+    [
+      "Es importante tener una dieta equilibrada.",
+      "It's important to have a balanced diet."
+    ],
+    [
+      "Intento comer sano.",
+      "I try to eat healthily."
+    ],
+    [
+      "Deberías comer menos comida chatarra.",
+      "You should eat less junk food."
+    ],
+    [
+      "Tengo mucho estrés en el trabajo.",
+      "I have a lot of stress at work."
+    ],
+    [
+      "El yoga me ayuda a relajarme.",
+      "Yoga helps me relax."
+    ],
+    [
+      "Siempre me estiro antes de correr.",
+      "I always stretch before running."
+    ],
+    [
+      "Bajé cinco kilos el año pasado.",
+      "I lost five kilos last year."
+    ],
+    [
+      "Te recomiendo que hagas ejercicio todos los días.",
+      "I recommend that you exercise every day."
+    ],
+    [
+      "Es mejor que no comas tanto azúcar.",
+      "It's better if you don't eat so much sugar."
+    ],
+    [
+      "El médico me aconsejó que dejara el azúcar.",
+      "The doctor advised me to give up sugar."
+    ],
+    [
+      "Si comieras mejor, tendrías más energía.",
+      "If you ate better, you'd have more energy."
+    ],
+    [
+      "Llevo un mes sin tomar refrescos.",
+      "I haven't had soft drinks for a month."
+    ],
+    [
+      "Cada vez como más verduras.",
+      "I eat more and more vegetables."
+    ],
+    [
+      "Suelo caminar por las mañanas.",
+      "I usually walk in the mornings."
+    ],
+    [
+      "Engordé mucho durante las vacaciones.",
+      "I put on a lot of weight during vacation."
+    ]
   ],
   "exercises": [
-    {"type": "fill", "prompt": "Quiero llevar una vida más ___.", "answers": ["sana"], "hint": "I want to lead a healthier life."},
-    {"type": "fill", "prompt": "Hago ___ tres veces por semana.", "answers": ["ejercicio", "deporte"], "hint": "I exercise three times a week."},
-    {"type": "fill", "prompt": "Es importante tener una dieta ___.", "answers": ["equilibrada"], "hint": "It's important to have a balanced diet."},
-    {"type": "fill", "prompt": "Deberías comer menos comida ___.", "answers": ["chatarra"], "hint": "You should eat less junk food."},
-    {"type": "fill", "prompt": "Te recomiendo que ___ ejercicio todos los días. (hacer, tú)", "answers": ["hagas"], "hint": "I recommend that you exercise every day."},
-    {"type": "fill", "prompt": "Es mejor que no ___ tanta azúcar. (comer, tú)", "answers": ["comas"], "hint": "It's better if you don't eat so much sugar."},
-    {"type": "fill", "prompt": "El médico me aconsejó que ___ el azúcar. (dejar, yo)", "answers": ["dejara"], "hint": "The doctor advised me to give up sugar."},
-    {"type": "fill", "prompt": "Si comieras mejor, ___ más energía. (tener, tú)", "answers": ["tendrías"], "hint": "If you ate better, you'd have more energy."},
-    {"type": "fill", "prompt": "Llevo un mes sin ___ refrescos. (tomar)", "answers": ["tomar"], "hint": "I haven't had soft drinks for a month."},
-    {"type": "fill", "prompt": "Cada vez como ___ verduras.", "answers": ["más"], "hint": "I eat more and more vegetables."},
-    {"type": "fill", "prompt": "El yoga me ayuda a ___. (relajarse)", "answers": ["relajarme"], "hint": "Yoga helps me relax."},
-    {"type": "fill", "prompt": "___ cinco kilos el año pasado. (bajar, yo)", "answers": ["bajé"], "hint": "I lost five kilos last year."},
-    {"type": "mc", "prompt": "*la comida chatarra* is…", "options": ["junk food", "canned food", "cheap food", "leftover food"], "answer": 0},
-    {"type": "mc", "prompt": "The opposite of *engordar* is…", "options": ["adelgazar", "estirarse", "relajarse", "subir de peso"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: Si ___ mejor, tendrías más energía.", "options": ["comieras", "comes", "comerías", "comas"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "*Cada vez como más verduras* means…", "options": ["I eat more and more vegetables.", "Each time I eat vegetables.", "I eat vegetables every time.", "I ate more vegetables once."], "answer": 0},
-    {"type": "translate", "prompt": "I exercise three times a week.", "answers": ["Hago ejercicio tres veces por semana.", "Hago ejercicio tres veces a la semana."]},
-    {"type": "translate", "prompt": "I try to eat healthily.", "answers": ["Intento comer sano.", "Trato de comer sano."]},
-    {"type": "translate", "prompt": "You should eat less junk food. (tú)", "answers": ["Deberías comer menos comida chatarra."]},
-    {"type": "translate", "prompt": "I have a lot of stress at work.", "answers": ["Tengo mucho estrés en el trabajo."]},
-    {"type": "translate", "prompt": "I recommend that you exercise every day. (tú)", "answers": ["Te recomiendo que hagas ejercicio todos los días."]},
-    {"type": "build", "prompt": "Put the words in order: \"I always stretch before running.\"", "answer": "Siempre me estiro antes de correr."},
-    {"type": "build", "prompt": "Put the words in order: \"The doctor advised me to give up sugar.\"", "answer": "El médico me aconsejó que dejara el azúcar."},
-    {"type": "build", "prompt": "Put the words in order: \"I put on a lot of weight during vacation.\"", "answer": "Engordé mucho durante las vacaciones."}
+    {
+      "type": "fill",
+      "prompt": "Quiero llevar una vida más ___.",
+      "answers": [
+        "sana"
+      ],
+      "hint": "I want to lead a healthier life."
+    },
+    {
+      "type": "fill",
+      "prompt": "Hago ___ tres veces por semana.",
+      "answers": [
+        "ejercicio",
+        "deporte"
+      ],
+      "hint": "I exercise three times a week."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es importante tener una dieta ___.",
+      "answers": [
+        "equilibrada"
+      ],
+      "hint": "It's important to have a balanced diet."
+    },
+    {
+      "type": "fill",
+      "prompt": "Deberías comer menos comida ___.",
+      "answers": [
+        "chatarra"
+      ],
+      "hint": "You should eat less junk food."
+    },
+    {
+      "type": "fill",
+      "prompt": "Te recomiendo que ___ ejercicio todos los días. (hacer, tú)",
+      "answers": [
+        "hagas"
+      ],
+      "hint": "I recommend that you exercise every day."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es mejor que no ___ tanto azúcar. (comer, tú)",
+      "answers": [
+        "comas"
+      ],
+      "hint": "It's better if you don't eat so much sugar."
+    },
+    {
+      "type": "fill",
+      "prompt": "El médico me aconsejó que ___ el azúcar. (dejar, yo)",
+      "answers": [
+        "dejara"
+      ],
+      "hint": "The doctor advised me to give up sugar."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si comieras mejor, ___ más energía. (tener, tú)",
+      "answers": [
+        "tendrías"
+      ],
+      "hint": "If you ate better, you'd have more energy."
+    },
+    {
+      "type": "fill",
+      "prompt": "Llevo un mes sin ___ refrescos. (tomar)",
+      "answers": [
+        "tomar"
+      ],
+      "hint": "I haven't had soft drinks for a month."
+    },
+    {
+      "type": "fill",
+      "prompt": "Cada vez como ___ verduras.",
+      "answers": [
+        "más"
+      ],
+      "hint": "I eat more and more vegetables."
+    },
+    {
+      "type": "fill",
+      "prompt": "El yoga me ayuda a ___. (relajarse)",
+      "answers": [
+        "relajarme"
+      ],
+      "hint": "Yoga helps me relax."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ cinco kilos el año pasado. (bajar, yo)",
+      "answers": [
+        "bajé"
+      ],
+      "hint": "I lost five kilos last year."
+    },
+    {
+      "type": "mc",
+      "prompt": "*la comida chatarra* is…",
+      "options": [
+        "junk food",
+        "canned food",
+        "cheap food",
+        "leftover food"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "The opposite of *engordar* is…",
+      "options": [
+        "adelgazar",
+        "estirarse",
+        "relajarse",
+        "subir de peso"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Si ___ mejor, tendrías más energía.",
+      "options": [
+        "comieras",
+        "comes",
+        "comerías",
+        "comas"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Cada vez como más verduras* means…",
+      "options": [
+        "I eat more and more vegetables.",
+        "Each time I eat vegetables.",
+        "I eat vegetables every time.",
+        "I ate more vegetables once."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I exercise three times a week.",
+      "answers": [
+        "Hago ejercicio tres veces por semana.",
+        "Hago ejercicio tres veces a la semana."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I try to eat healthily.",
+      "answers": [
+        "Intento comer sano.",
+        "Trato de comer sano."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "You should eat less junk food. (tú)",
+      "answers": [
+        "Deberías comer menos comida chatarra."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I have a lot of stress at work.",
+      "answers": [
+        "Tengo mucho estrés en el trabajo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I recommend that you exercise every day. (tú)",
+      "answers": [
+        "Te recomiendo que hagas ejercicio todos los días."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I always stretch before running.\"",
+      "answer": "Siempre me estiro antes de correr."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The doctor advised me to give up sugar.\"",
+      "answer": "El médico me aconsejó que dejara el azúcar."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I put on a lot of weight during vacation.\"",
+      "answer": "Engordé mucho durante las vacaciones."
+    }
   ]
 }

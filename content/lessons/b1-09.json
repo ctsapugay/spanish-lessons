@@ -6,68 +6,336 @@
     },
     {
       "heading": "Por vs. para: round two",
-      "body": "Many sentences contrast **cause** (por) and **purpose** (para):\n\n- *Lo hice por ti.* (I did it because of you / for your sake.) vs. *Lo hice para ti.* (I made it for you — you'll receive it.)\n- *Trabajo por necesidad.* (I work out of necessity.) vs. *Trabajo para vivir.* (I work in order to live.)\n\nMore uses of *por*: agent of passive (*escrito por García Márquez*), \"per\" (*cien kilómetros por hora, dos veces por semana*), \"in place of\" (*¿Puedes trabajar por mí mañana?*), \"to get / fetch\" with *ir* (*Voy por pan* — I'm going to get bread, common in Latin America), \"still to be done\" (*La casa está por limpiar*).\n\nMore uses of *para*: comparison (*Para ser tan joven, habla muy bien* — For someone so young…), *estar para* + infinitive (to be about to — *El tren está para salir*), *para siempre* (forever)."
+      "body": "Many sentences contrast **cause** (por) and **purpose** (para):\n\n- *Lo hice por ti.* (I did it because of you / for your sake.) vs. *Lo hice para ti.* (I made it for you — you'll receive it.)\n- *Trabajo por necesidad.* (I work out of necessity.) vs. *Trabajo para vivir.* (I work in order to live.)\n\nMore uses of *por*: agent of passive (*escrito por García Márquez*), \"per\" (*cien kilómetros por hora, dos veces por semana*), \"in place of\" (*¿Puedes trabajar por mí mañana?*), \"to get / fetch\" with *ir* (*Voy por pan* — I'm going to get bread, common in Latin America), and *estar por* + infinitive — \"to be about to\", very common in Latin America (*El tren está por salir*).\n\nMore uses of *para*: comparison (*Para ser tan joven, habla muy bien* — For someone so young…), *para siempre* (forever). (Spain uses *estar para* + infinitive for \"about to\"; *estar a punto de* works everywhere.)"
     }
   ],
   "vocab": [
-    ["para que", "so that"],
-    ["ahorrar", "to save (money)"],
-    ["explicar", "to explain"],
-    ["la necesidad", "necessity"],
-    ["por hora", "per hour"],
-    ["por semana", "per week"],
-    ["escrito por", "written by"],
-    ["ir por", "to go get"],
-    ["para siempre", "forever"],
-    ["estar para", "to be about to"],
-    ["a fin de que", "so that (formal)"],
-    ["despacio", "slowly"],
-    ["entender", "to understand"]
+    [
+      "para que",
+      "so that"
+    ],
+    [
+      "ahorrar",
+      "to save (money)"
+    ],
+    [
+      "explicar",
+      "to explain"
+    ],
+    [
+      "la necesidad",
+      "necessity"
+    ],
+    [
+      "por hora",
+      "per hour"
+    ],
+    [
+      "por semana",
+      "per week"
+    ],
+    [
+      "escrito por",
+      "written by"
+    ],
+    [
+      "ir por",
+      "to go get"
+    ],
+    [
+      "para siempre",
+      "forever"
+    ],
+    [
+      "estar por",
+      "to be about to (Latin America)"
+    ],
+    [
+      "a fin de que",
+      "so that (formal)"
+    ],
+    [
+      "despacio",
+      "slowly"
+    ],
+    [
+      "entender",
+      "to understand"
+    ]
   ],
   "examples": [
-    ["Estudio para aprender.", "I study to learn."],
-    ["Ahorro para comprar un carro.", "I'm saving to buy a car."],
-    ["Te lo explico para que entiendas.", "I'm explaining it so you understand."],
-    ["Hablo despacio para que me entiendan.", "I speak slowly so they understand me."],
-    ["Te doy mi número para que me llames.", "I'm giving you my number so you can call me."],
-    ["Cierra la ventana para que no entre el frío.", "Close the window so the cold doesn't get in."],
-    ["Lo hice por ti.", "I did it for you (for your sake)."],
-    ["Lo hice para ti.", "I made it for you."],
-    ["Trabajo por necesidad.", "I work out of necessity."],
-    ["Trabajo para vivir.", "I work to live."],
-    ["Es un libro escrito por García Márquez.", "It's a book written by García Márquez."],
-    ["Voy a cien kilómetros por hora.", "I'm going a hundred kilometers per hour."],
-    ["Voy al gimnasio dos veces por semana.", "I go to the gym twice a week."],
-    ["¿Puedes trabajar por mí mañana?", "Can you work for me (in my place) tomorrow?"],
-    ["Voy por pan.", "I'm going to get bread."],
-    ["Para ser tan joven, habla muy bien.", "For someone so young, he speaks very well."],
-    ["El tren está para salir.", "The train is about to leave."],
-    ["Te voy a querer para siempre.", "I'm going to love you forever."],
-    ["Traje comida para que no tengas que cocinar.", "I brought food so you don't have to cook."]
+    [
+      "Estudio para aprender.",
+      "I study to learn."
+    ],
+    [
+      "Ahorro para comprar un carro.",
+      "I'm saving to buy a car."
+    ],
+    [
+      "Te lo explico para que entiendas.",
+      "I'm explaining it so you understand."
+    ],
+    [
+      "Hablo despacio para que me entiendan.",
+      "I speak slowly so they understand me."
+    ],
+    [
+      "Te doy mi número para que me llames.",
+      "I'm giving you my number so you can call me."
+    ],
+    [
+      "Cierra la ventana para que no entre el frío.",
+      "Close the window so the cold doesn't get in."
+    ],
+    [
+      "Lo hice por ti.",
+      "I did it for you (for your sake)."
+    ],
+    [
+      "Lo hice para ti.",
+      "I made it for you."
+    ],
+    [
+      "Trabajo por necesidad.",
+      "I work out of necessity."
+    ],
+    [
+      "Trabajo para vivir.",
+      "I work to live."
+    ],
+    [
+      "Es un libro escrito por García Márquez.",
+      "It's a book written by García Márquez."
+    ],
+    [
+      "Voy a cien kilómetros por hora.",
+      "I'm going a hundred kilometers per hour."
+    ],
+    [
+      "Voy al gimnasio dos veces por semana.",
+      "I go to the gym twice a week."
+    ],
+    [
+      "¿Puedes trabajar por mí mañana?",
+      "Can you work for me (in my place) tomorrow?"
+    ],
+    [
+      "Voy por pan.",
+      "I'm going to get bread."
+    ],
+    [
+      "Para ser tan joven, habla muy bien.",
+      "For someone so young, he speaks very well."
+    ],
+    [
+      "El tren está por salir.",
+      "The train is about to leave."
+    ],
+    [
+      "Te voy a querer para siempre.",
+      "I'm going to love you forever."
+    ],
+    [
+      "Traje comida para que no tengas que cocinar.",
+      "I brought food so you don't have to cook."
+    ]
   ],
   "exercises": [
-    {"type": "mc", "prompt": "Choose: Estudio ___ aprender.", "options": ["para", "para que"], "answer": 0, "lang": "es", "explain": "Same subject → *para* + infinitive."},
-    {"type": "mc", "prompt": "Choose: Te lo explico ___ entiendas.", "options": ["para que", "para"], "answer": 0, "lang": "es", "explain": "Different subject → *para que* + subjunctive."},
-    {"type": "mc", "prompt": "Choose: Es un libro escrito ___ García Márquez.", "options": ["por", "para"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: Voy al gimnasio dos veces ___ semana.", "options": ["por", "para"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: ___ ser tan joven, habla muy bien.", "options": ["Para", "Por"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "Choose: El tren está ___ salir.", "options": ["para", "por"], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "*Lo hice por ti* means…", "options": ["I did it for your sake / because of you.", "I made it for you to keep.", "I did it through you."], "answer": 0},
-    {"type": "mc", "prompt": "*Voy por pan* (Latin America) means…", "options": ["I'm going to get bread.", "I'm going because of bread.", "I'm going through the bread."], "answer": 0},
-    {"type": "fill", "prompt": "Hablo despacio para que me ___. (entender, ellos)", "answers": ["entiendan"], "hint": "I speak slowly so they understand me."},
-    {"type": "fill", "prompt": "Te doy mi número para que me ___. (llamar, tú)", "answers": ["llames"], "hint": "I'm giving you my number so you can call me."},
-    {"type": "fill", "prompt": "Cierra la ventana para que no ___ el frío. (entrar)", "answers": ["entre"], "hint": "Close the window so the cold doesn't get in."},
-    {"type": "fill", "prompt": "Ahorro para ___ un carro. (comprar)", "answers": ["comprar"], "hint": "I'm saving to buy a car."},
-    {"type": "fill", "prompt": "Traje comida para que no ___ que cocinar. (tener, tú)", "answers": ["tengas"], "hint": "I brought food so you don't have to cook."},
-    {"type": "fill", "prompt": "Te voy a querer para ___.", "answers": ["siempre"], "hint": "I'm going to love you forever."},
-    {"type": "fill", "prompt": "¿Puedes trabajar ___ mí mañana?", "answers": ["por"], "hint": "Can you work for me (in my place) tomorrow?"},
-    {"type": "fill", "prompt": "Trabajo ___ vivir.", "answers": ["para"], "hint": "I work to live."},
-    {"type": "translate", "prompt": "I'm explaining it so you understand. (tú)", "answers": ["Te lo explico para que entiendas.", "Te lo explico para que lo entiendas."]},
-    {"type": "translate", "prompt": "I'm saving to buy a car.", "answers": ["Ahorro para comprar un carro.", "Estoy ahorrando para comprar un carro."]},
-    {"type": "translate", "prompt": "The train is about to leave.", "answers": ["El tren está para salir.", "El tren está a punto de salir."]},
-    {"type": "translate", "prompt": "I go to the gym twice a week.", "answers": ["Voy al gimnasio dos veces por semana.", "Voy al gimnasio dos veces a la semana."]},
-    {"type": "build", "prompt": "Put the words in order: \"Close the window so the cold doesn't get in.\"", "answer": "Cierra la ventana para que no entre el frío."},
-    {"type": "build", "prompt": "Put the words in order: \"For someone so young, he speaks very well.\"", "answer": "Para ser tan joven, habla muy bien."},
-    {"type": "build", "prompt": "Put the words in order: \"It's a book written by García Márquez.\"", "answer": "Es un libro escrito por García Márquez."}
+    {
+      "type": "mc",
+      "prompt": "Choose: Estudio ___ aprender.",
+      "options": [
+        "para",
+        "para que"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Same subject → *para* + infinitive."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Te lo explico ___ entiendas.",
+      "options": [
+        "para que",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Different subject → *para que* + subjunctive."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Es un libro escrito ___ García Márquez.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Voy al gimnasio dos veces ___ semana.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ___ ser tan joven, habla muy bien.",
+      "options": [
+        "Para",
+        "Por"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: El tren está ___ salir.",
+      "options": [
+        "por",
+        "para"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "In Latin America *estar por* + infinitive means \"to be about to\" (Spain: *estar para*)."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Lo hice por ti* means…",
+      "options": [
+        "I did it for your sake / because of you.",
+        "I made it for you to keep.",
+        "I did it through you."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Voy por pan* (Latin America) means…",
+      "options": [
+        "I'm going to get bread.",
+        "I'm going because of bread.",
+        "I'm going through the bread."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Hablo despacio para que me ___. (entender, ellos)",
+      "answers": [
+        "entiendan"
+      ],
+      "hint": "I speak slowly so they understand me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Te doy mi número para que me ___. (llamar, tú)",
+      "answers": [
+        "llames"
+      ],
+      "hint": "I'm giving you my number so you can call me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Cierra la ventana para que no ___ el frío. (entrar)",
+      "answers": [
+        "entre"
+      ],
+      "hint": "Close the window so the cold doesn't get in."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ahorro para ___ un carro. (comprar)",
+      "answers": [
+        "comprar"
+      ],
+      "hint": "I'm saving to buy a car."
+    },
+    {
+      "type": "fill",
+      "prompt": "Traje comida para que no ___ que cocinar. (tener, tú)",
+      "answers": [
+        "tengas"
+      ],
+      "hint": "I brought food so you don't have to cook."
+    },
+    {
+      "type": "fill",
+      "prompt": "Te voy a querer para ___.",
+      "answers": [
+        "siempre"
+      ],
+      "hint": "I'm going to love you forever."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Puedes trabajar ___ mí mañana?",
+      "answers": [
+        "por"
+      ],
+      "hint": "Can you work for me (in my place) tomorrow?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Trabajo ___ vivir.",
+      "answers": [
+        "para"
+      ],
+      "hint": "I work to live."
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm explaining it so you understand. (tú)",
+      "answers": [
+        "Te lo explico para que entiendas.",
+        "Te lo explico para que lo entiendas."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm saving to buy a car.",
+      "answers": [
+        "Ahorro para comprar un carro.",
+        "Estoy ahorrando para comprar un carro."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The train is about to leave.",
+      "answers": [
+        "El tren está por salir.",
+        "El tren está a punto de salir.",
+        "El tren está para salir."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I go to the gym twice a week.",
+      "answers": [
+        "Voy al gimnasio dos veces por semana.",
+        "Voy al gimnasio dos veces a la semana."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Close the window so the cold doesn't get in.\"",
+      "answer": "Cierra la ventana para que no entre el frío."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"For someone so young, he speaks very well.\"",
+      "answer": "Para ser tan joven, habla muy bien."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's a book written by García Márquez.\"",
+      "answer": "Es un libro escrito por García Márquez."
+    }
   ]
 }

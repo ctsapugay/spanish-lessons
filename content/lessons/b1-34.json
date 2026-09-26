@@ -4,14 +4,42 @@
       "heading": "Many ways to say \"become\"",
       "body": "English uses \"become / get / turn\"; Spanish chooses the verb by the **kind of change**:",
       "table": {
-        "head": ["Verb", "Kind of change", "Example"],
+        "head": [
+          "Verb",
+          "Kind of change",
+          "Example"
+        ],
         "rows": [
-          ["*ponerse* + adjective", "sudden, temporary (mood, appearance)", "*Se puso rojo.* — He went red. *Me pongo nerviosa.*"],
-          ["*volverse* + adjective", "radical, often lasting (personality)", "*Se volvió muy egoísta.* — He became very selfish."],
-          ["*hacerse* + noun/adjective", "through effort or gradually (job, status, beliefs)", "*Se hizo médica.* *Se hizo rico.*"],
-          ["*llegar a ser*", "after a long process", "*Llegó a ser presidente.*"],
-          ["*convertirse en* + noun", "transformation", "*La ciudad se convirtió en un centro turístico.*"],
-          ["*quedarse* + adjective", "result of something (often loss)", "*Se quedó ciego / sordo / sin trabajo.* — He went blind / deaf / lost his job."]
+          [
+            "*ponerse* + adjective",
+            "sudden, temporary (mood, appearance)",
+            "*Se puso rojo.* — He went red. *Me pongo nerviosa.*"
+          ],
+          [
+            "*volverse* + adjective",
+            "radical, often lasting (personality)",
+            "*Se volvió muy egoísta.* — He became very selfish."
+          ],
+          [
+            "*hacerse* + noun/adjective",
+            "through effort or gradually (job, status, beliefs)",
+            "*Se hizo médica.* *Se hizo rico.*"
+          ],
+          [
+            "*llegar a ser*",
+            "after a long process",
+            "*Llegó a ser presidente.*"
+          ],
+          [
+            "*convertirse en* + noun",
+            "transformation",
+            "*La ciudad se convirtió en un centro turístico.*"
+          ],
+          [
+            "*quedarse* + adjective",
+            "result of something (often loss)",
+            "*Se quedó ciego / sordo / sin trabajo.* — He went blind / deaf / lost his job."
+          ]
         ]
       }
     },
@@ -21,66 +49,343 @@
     }
   ],
   "vocab": [
-    ["ponerse", "to become (suddenly, temporarily)"],
-    ["volverse", "to become (radically)"],
-    ["hacerse", "to become (through effort)"],
-    ["llegar a ser", "to eventually become"],
-    ["convertirse en", "to turn into"],
-    ["quedarse", "to become / be left (result)"],
-    ["rojo / roja", "red"],
-    ["egoísta", "selfish"],
-    ["rico / rica", "rich"],
-    ["ciego / ciega", "blind"],
-    ["sordo / sorda", "deaf"],
-    ["celoso / celosa", "jealous"],
-    ["furioso / furiosa", "furious"],
-    ["vegetariano / vegetariana", "vegetarian"],
-    ["turístico / turística", "touristy / tourist (adj.)"],
-    ["embarazada", "pregnant"]
+    [
+      "ponerse",
+      "to become (suddenly, temporarily)"
+    ],
+    [
+      "volverse",
+      "to become (radically)"
+    ],
+    [
+      "hacerse",
+      "to become (through effort)"
+    ],
+    [
+      "llegar a ser",
+      "to eventually become"
+    ],
+    [
+      "convertirse en",
+      "to turn into"
+    ],
+    [
+      "quedarse",
+      "to become / be left (result)"
+    ],
+    [
+      "rojo / roja",
+      "red"
+    ],
+    [
+      "egoísta",
+      "selfish"
+    ],
+    [
+      "rico / rica",
+      "rich"
+    ],
+    [
+      "ciego / ciega",
+      "blind"
+    ],
+    [
+      "sordo / sorda",
+      "deaf"
+    ],
+    [
+      "celoso / celosa",
+      "jealous"
+    ],
+    [
+      "furioso / furiosa",
+      "furious"
+    ],
+    [
+      "vegetariano / vegetariana",
+      "vegetarian"
+    ],
+    [
+      "turístico / turística",
+      "touristy / tourist (adj.)"
+    ],
+    [
+      "embarazada",
+      "pregnant"
+    ]
   ],
   "examples": [
-    ["Se puso rojo cuando lo vio.", "He went red when he saw her."],
-    ["Me pongo nerviosa antes de los exámenes.", "I get nervous before exams."],
-    ["Se puso furioso.", "He got furious."],
-    ["Se volvió muy egoísta con los años.", "He became very selfish over the years."],
-    ["Mi hermana se hizo médica.", "My sister became a doctor."],
-    ["Se hizo rico con su empresa.", "He got rich with his company."],
-    ["Me hice vegetariano el año pasado.", "I became vegetarian last year."],
-    ["Llegó a ser presidente del país.", "He eventually became president of the country."],
-    ["La ciudad se convirtió en un centro turístico.", "The city turned into a tourist center."],
-    ["El agua se convirtió en hielo.", "The water turned into ice."],
-    ["Se quedó sin trabajo.", "He lost his job."],
-    ["Mi abuelo se quedó ciego.", "My grandfather went blind."],
-    ["Me quedé sorprendida.", "I was left surprised."],
-    ["Se está haciendo tarde.", "It's getting late."],
-    ["Se pone celoso cuando hablo con otros.", "He gets jealous when I talk to others."],
-    ["Mi prima se quedó embarazada.", "My cousin got pregnant."],
-    ["Nos pusimos muy contentos con la noticia.", "We got very happy about the news."]
+    [
+      "Se puso rojo cuando la vio.",
+      "He went red when he saw her."
+    ],
+    [
+      "Me pongo nerviosa antes de los exámenes.",
+      "I get nervous before exams."
+    ],
+    [
+      "Se puso furioso.",
+      "He got furious."
+    ],
+    [
+      "Se volvió muy egoísta con los años.",
+      "He became very selfish over the years."
+    ],
+    [
+      "Mi hermana se hizo médica.",
+      "My sister became a doctor."
+    ],
+    [
+      "Se hizo rico con su empresa.",
+      "He got rich with his company."
+    ],
+    [
+      "Me hice vegetariano el año pasado.",
+      "I became vegetarian last year."
+    ],
+    [
+      "Llegó a ser presidente del país.",
+      "He eventually became president of the country."
+    ],
+    [
+      "La ciudad se convirtió en un centro turístico.",
+      "The city turned into a tourist center."
+    ],
+    [
+      "El agua se convirtió en hielo.",
+      "The water turned into ice."
+    ],
+    [
+      "Se quedó sin trabajo.",
+      "He lost his job."
+    ],
+    [
+      "Mi abuelo se quedó ciego.",
+      "My grandfather went blind."
+    ],
+    [
+      "Me quedé sorprendida.",
+      "I was left surprised."
+    ],
+    [
+      "Se está haciendo tarde.",
+      "It's getting late."
+    ],
+    [
+      "Se pone celoso cuando hablo con otros.",
+      "He gets jealous when I talk to others."
+    ],
+    [
+      "Mi prima se quedó embarazada.",
+      "My cousin got pregnant."
+    ],
+    [
+      "Nos pusimos muy contentos con la noticia.",
+      "We got very happy about the news."
+    ]
   ],
   "exercises": [
-    {"type": "mc", "prompt": "\"He went red\" (sudden, temporary) →", "options": ["Se puso rojo.", "Se volvió rojo.", "Se hizo rojo.", "Se convirtió rojo."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "\"She became a doctor\" (through effort) →", "options": ["Se hizo médica.", "Se puso médica.", "Se quedó médica.", "Se volvió médica."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "\"The water turned into ice\" →", "options": ["El agua se convirtió en hielo.", "El agua se puso hielo.", "El agua se hizo en hielo.", "El agua se quedó hielo."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "\"He went blind\" →", "options": ["Se quedó ciego.", "Se puso ciego.", "Se hizo ciego.", "Llegó a ser ciego."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "\"He became very selfish (a lasting change)\" →", "options": ["Se volvió muy egoísta.", "Se puso muy egoísta.", "Se quedó muy egoísta."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "*Se está haciendo tarde* means…", "options": ["It's getting late.", "He's making it late.", "She's doing it late.", "It's staying late."], "answer": 0},
-    {"type": "fill", "prompt": "Me ___ nerviosa antes de los exámenes. (ponerse)", "answers": ["pongo"], "hint": "I get nervous before exams."},
-    {"type": "fill", "prompt": "Se ___ furioso. (ponerse, él)", "answers": ["puso"], "hint": "He got furious."},
-    {"type": "fill", "prompt": "Mi hermana se ___ médica. (hacerse)", "answers": ["hizo"], "hint": "My sister became a doctor."},
-    {"type": "fill", "prompt": "Me ___ vegetariano el año pasado. (hacerse)", "answers": ["hice"], "hint": "I became vegetarian last year."},
-    {"type": "fill", "prompt": "___ a ser presidente del país. (llegar, él)", "answers": ["llegó"], "hint": "He eventually became president of the country."},
-    {"type": "fill", "prompt": "La ciudad se ___ en un centro turístico. (convertirse)", "answers": ["convirtió"], "hint": "The city turned into a tourist center."},
-    {"type": "fill", "prompt": "Se ___ sin trabajo. (quedarse, él)", "answers": ["quedó"], "hint": "He lost his job."},
-    {"type": "fill", "prompt": "Se pone ___ cuando hablo con otros.", "answers": ["celoso"], "hint": "He gets jealous when I talk to others."},
-    {"type": "fill", "prompt": "Nos ___ muy contentos con la noticia. (ponerse)", "answers": ["pusimos"], "hint": "We got very happy about the news."},
-    {"type": "fill", "prompt": "Se ___ muy egoísta con los años. (volverse)", "answers": ["volvió"], "hint": "He became very selfish over the years."},
-    {"type": "translate", "prompt": "I get nervous before exams. (a woman speaking)", "answers": ["Me pongo nerviosa antes de los exámenes."]},
-    {"type": "translate", "prompt": "It's getting late.", "answers": ["Se está haciendo tarde.", "Se hace tarde."]},
-    {"type": "translate", "prompt": "He lost his job. (quedarse)", "answers": ["Se quedó sin trabajo."]},
-    {"type": "translate", "prompt": "My sister became a doctor.", "answers": ["Mi hermana se hizo médica.", "Mi hermana se hizo doctora."]},
-    {"type": "translate", "prompt": "He got furious.", "answers": ["Se puso furioso."]},
-    {"type": "build", "prompt": "Put the words in order: \"He went red when he saw her.\"", "answer": "Se puso rojo cuando lo vio."},
-    {"type": "build", "prompt": "Put the words in order: \"The city turned into a tourist center.\"", "answer": "La ciudad se convirtió en un centro turístico."},
-    {"type": "build", "prompt": "Put the words in order: \"He got rich with his company.\"", "answer": "Se hizo rico con su empresa."}
+    {
+      "type": "mc",
+      "prompt": "\"He went red\" (sudden, temporary) →",
+      "options": [
+        "Se puso rojo.",
+        "Se volvió rojo.",
+        "Se hizo rojo.",
+        "Se convirtió rojo."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"She became a doctor\" (through effort) →",
+      "options": [
+        "Se hizo médica.",
+        "Se puso médica.",
+        "Se quedó médica.",
+        "Se volvió médica."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"The water turned into ice\" →",
+      "options": [
+        "El agua se convirtió en hielo.",
+        "El agua se puso hielo.",
+        "El agua se hizo en hielo.",
+        "El agua se quedó hielo."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"He went blind\" →",
+      "options": [
+        "Se quedó ciego.",
+        "Se puso ciego.",
+        "Se hizo ciego.",
+        "Llegó a ser ciego."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"He became very selfish (a lasting change)\" →",
+      "options": [
+        "Se volvió muy egoísta.",
+        "Se puso muy egoísta.",
+        "Se quedó muy egoísta."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Se está haciendo tarde* means…",
+      "options": [
+        "It's getting late.",
+        "He's making it late.",
+        "She's doing it late.",
+        "It's staying late."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Me ___ nerviosa antes de los exámenes. (ponerse)",
+      "answers": [
+        "pongo"
+      ],
+      "hint": "I get nervous before exams."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ furioso. (ponerse, él)",
+      "answers": [
+        "puso"
+      ],
+      "hint": "He got furious."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi hermana se ___ médica. (hacerse)",
+      "answers": [
+        "hizo"
+      ],
+      "hint": "My sister became a doctor."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me ___ vegetariano el año pasado. (hacerse)",
+      "answers": [
+        "hice"
+      ],
+      "hint": "I became vegetarian last year."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ a ser presidente del país. (llegar, él)",
+      "answers": [
+        "llegó"
+      ],
+      "hint": "He eventually became president of the country."
+    },
+    {
+      "type": "fill",
+      "prompt": "La ciudad se ___ en un centro turístico. (convertirse)",
+      "answers": [
+        "convirtió"
+      ],
+      "hint": "The city turned into a tourist center."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ sin trabajo. (quedarse, él)",
+      "answers": [
+        "quedó"
+      ],
+      "hint": "He lost his job."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se pone ___ cuando hablo con otros.",
+      "answers": [
+        "celoso"
+      ],
+      "hint": "He gets jealous when I talk to others."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nos ___ muy contentos con la noticia. (ponerse)",
+      "answers": [
+        "pusimos"
+      ],
+      "hint": "We got very happy about the news."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ muy egoísta con los años. (volverse)",
+      "answers": [
+        "volvió"
+      ],
+      "hint": "He became very selfish over the years."
+    },
+    {
+      "type": "translate",
+      "prompt": "I get nervous before exams. (a woman speaking)",
+      "answers": [
+        "Me pongo nerviosa antes de los exámenes."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's getting late.",
+      "answers": [
+        "Se está haciendo tarde.",
+        "Se hace tarde."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He lost his job. (quedarse)",
+      "answers": [
+        "Se quedó sin trabajo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "My sister became a doctor.",
+      "answers": [
+        "Mi hermana se hizo médica.",
+        "Mi hermana se hizo doctora."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He got furious.",
+      "answers": [
+        "Se puso furioso."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He went red when he saw her.\"",
+      "answer": "Se puso rojo cuando la vio."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The city turned into a tourist center.\"",
+      "answer": "La ciudad se convirtió en un centro turístico."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He got rich with his company.\"",
+      "answer": "Se hizo rico con su empresa."
+    }
   ]
 }
