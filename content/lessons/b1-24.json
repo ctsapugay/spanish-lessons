@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "heading": "Qué or cuál?",
+      "body": "Both can mean \"what?\" or \"which?\". The rules of thumb:\n\n- **Before a noun** → *qué*: *¿Qué libro quieres?* (Which book do you want?) *¿Qué color te gusta?* (In Latin America, *cuál* + noun is also heard: *¿Cuál libro?*)\n- **Before *ser*, asking for a piece of information** → *cuál*: *¿Cuál es tu dirección?* (What's your address?) *¿Cuál es la capital de Chile?* *¿Cuál es tu número?*\n- **Asking for a definition** → *qué es*: *¿Qué es un aguacate?* (What is an avocado?)\n- **Choosing from a set** → *cuál / cuáles*: *Hay dos camisas. ¿Cuál prefieres?* (Which one?) *¿Cuáles son tus películas favoritas?*\n- **Before other verbs**, \"what\" in general → *qué*: *¿Qué quieres? ¿Qué pasó?*"
+    },
+    {
+      "heading": "Exclamations",
+      "body": "- *¡Qué* + adjective*!*: *¡Qué bonito!* (How pretty!) *¡Qué caro!*\n- *¡Qué* + noun*!*: *¡Qué suerte!* (How lucky!) *¡Qué pena!* (What a shame!) *¡Qué calor!*\n- *¡Qué* + noun + *tan / más* + adjective*!*: *¡Qué día tan bonito!* (What a beautiful day!) *¡Qué casa más grande!*\n- *¡Qué* + adverb*!*: *¡Qué bien cantas!* (How well you sing!)\n- *¡Cuánto / cuánta / cuántos* + noun*!*: *¡Cuánta gente!* (So many people!) *¡Cuánto tiempo!*\n- *¡Cómo* + verb*!*: *¡Cómo llueve!* (Look at it rain!)"
+    }
+  ],
+  "vocab": [
+    ["¿Qué…?", "What…? / Which…? (+ noun)"],
+    ["¿Cuál es…?", "What is…? (information)"],
+    ["¿Cuáles…?", "Which ones…?"],
+    ["¡Qué bonito!", "How pretty!"],
+    ["¡Qué suerte!", "How lucky!"],
+    ["¡Qué pena!", "What a shame!"],
+    ["¡Qué día tan bonito!", "What a beautiful day!"],
+    ["¡Cuánta gente!", "So many people!"],
+    ["la dirección", "the address"],
+    ["la capital", "the capital (city)"],
+    ["el aguacate", "the avocado"],
+    ["favorito / favorita", "favorite"]
+  ],
+  "examples": [
+    ["¿Qué libro quieres?", "Which book do you want?"],
+    ["¿Qué color te gusta?", "What color do you like?"],
+    ["¿Cuál es tu dirección?", "What's your address?"],
+    ["¿Cuál es la capital de Chile?", "What's the capital of Chile?"],
+    ["¿Qué es un aguacate?", "What is an avocado?"],
+    ["Hay dos camisas. ¿Cuál prefieres?", "There are two shirts. Which one do you prefer?"],
+    ["¿Cuáles son tus películas favoritas?", "What are your favorite movies?"],
+    ["¿Qué pasó?", "What happened?"],
+    ["¡Qué bonito!", "How pretty!"],
+    ["¡Qué suerte!", "How lucky!"],
+    ["¡Qué pena que no puedas venir!", "What a shame you can't come!"],
+    ["¡Qué día tan bonito!", "What a beautiful day!"],
+    ["¡Qué casa más grande!", "What a big house!"],
+    ["¡Qué bien cantas!", "How well you sing!"],
+    ["¡Cuánta gente!", "So many people!"],
+    ["¡Cómo llueve!", "Look at it rain!"],
+    ["¡Qué calor hace!", "It's so hot!"],
+    ["¿Cuál es tu comida favorita?", "What's your favorite food?"]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Choose: ¿___ es tu dirección?", "options": ["Cuál", "Qué"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: ¿___ es un aguacate? (definition)", "options": ["Qué", "Cuál"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: ¿___ libro quieres?", "options": ["Qué", "Cuál es"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Hay dos camisas. ¿___ prefieres?", "options": ["Cuál", "Qué es"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: ¿___ son tus películas favoritas?", "options": ["Cuáles", "Qué"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: ¿___ es la capital de Chile?", "options": ["Cuál", "Qué"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"What a beautiful day!\" is…", "options": ["¡Qué día tan bonito!", "¡Cuál día bonito!", "¡Qué tan día bonito!", "¡Cómo día bonito!"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*¡Qué pena!* means…", "options": ["What a shame!", "What pain!", "How embarrassing! (always)", "What a punishment!"], "answer": 0},
+    {"type": "fill", "prompt": "¡___ bonito!", "answers": ["qué"], "hint": "How pretty!"},
+    {"type": "fill", "prompt": "¡Qué ___!", "answers": ["suerte", "pena", "calor", "bonito"], "hint": "How lucky!"},
+    {"type": "fill", "prompt": "¡Qué casa ___ grande!", "answers": ["más", "tan"], "hint": "What a big house!"},
+    {"type": "fill", "prompt": "¡Qué ___ cantas!", "answers": ["bien"], "hint": "How well you sing!"},
+    {"type": "fill", "prompt": "¡___ gente!", "answers": ["cuánta"], "hint": "So many people!"},
+    {"type": "fill", "prompt": "¿___ es tu comida favorita?", "answers": ["cuál"], "hint": "What's your favorite food?"},
+    {"type": "fill", "prompt": "¡___ llueve!", "answers": ["cómo"], "hint": "Look at it rain!"},
+    {"type": "translate", "prompt": "What's your address? (tú)", "answers": ["¿Cuál es tu dirección?"]},
+    {"type": "translate", "prompt": "How lucky!", "answers": ["¡Qué suerte!"]},
+    {"type": "translate", "prompt": "What a beautiful day!", "answers": ["¡Qué día tan bonito!", "¡Qué día más bonito!", "¡Qué bonito día!"]},
+    {"type": "translate", "prompt": "What's the capital of Chile?", "answers": ["¿Cuál es la capital de Chile?"]},
+    {"type": "translate", "prompt": "So many people!", "answers": ["¡Cuánta gente!"]},
+    {"type": "build", "prompt": "Put the words in order: \"There are two shirts. Which one do you prefer?\"", "answer": "Hay dos camisas. ¿Cuál prefieres?"},
+    {"type": "build", "prompt": "Put the words in order: \"What a shame you can't come!\"", "answer": "¡Qué pena que no puedas venir!"},
+    {"type": "build", "prompt": "Put the words in order: \"What are your favorite movies?\"", "answer": "¿Cuáles son tus películas favoritas?"}
+  ]
+}

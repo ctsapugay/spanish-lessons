@@ -1,0 +1,81 @@
+{
+  "sections": [
+    {
+      "heading": "Contrast",
+      "body": "- *pero* (but): *Es caro, pero es bueno.*\n- *sin embargo* (however) — starts a new sentence or clause, with commas: *Es caro. Sin embargo, lo voy a comprar.*\n- *aunque* + indicative (although — a fact): *Aunque es caro, lo voy a comprar.* (You'll learn *aunque* + subjunctive in B2.)\n- *en cambio* (on the other hand): *Mi hermano es alto; yo, en cambio, soy bajo.*\n- *sino* (but rather — after a negative): *No es rojo, sino naranja.*"
+    },
+    {
+      "heading": "Addition",
+      "body": "*además* (besides, also, moreover): *Es barato y, además, está cerca.* *también* (also), *incluso* (even): *Incluso mi abuela usa WhatsApp.* *ni siquiera* (not even): *Ni siquiera me llamó.*"
+    },
+    {
+      "heading": "Cause",
+      "body": "- *porque* (because) — usually in the middle: *No salí porque llovía.*\n- *como* (since / as) — at the **start** of the sentence: *Como llovía, no salí.*\n- *ya que / puesto que* (since, given that): *Ya que estás aquí, ayúdame.*\n- *por* + noun / infinitive: *No salí por la lluvia.*"
+    },
+    {
+      "heading": "Consequence",
+      "body": "*así que* (so): *Llovía, así que no salí.* *por eso* (that's why): *Estaba cansado; por eso me acosté temprano.* *por lo tanto* (therefore — more formal). *entonces* (so, then): *Entonces, ¿vienes o no?* *o sea* (I mean, in other words): *No tengo dinero, o sea, no puedo ir.*"
+    }
+  ],
+  "vocab": [
+    ["sin embargo", "however"],
+    ["aunque", "although"],
+    ["en cambio", "on the other hand"],
+    ["sino", "but rather"],
+    ["además", "besides / moreover"],
+    ["incluso", "even"],
+    ["ni siquiera", "not even"],
+    ["como", "since / as (at the start)"],
+    ["ya que", "since / given that"],
+    ["así que", "so"],
+    ["por lo tanto", "therefore"],
+    ["o sea", "I mean / in other words"],
+    ["el conector", "the connector"],
+    ["la lluvia", "the rain"]
+  ],
+  "examples": [
+    ["Es caro, pero es bueno.", "It's expensive, but it's good."],
+    ["Es caro. Sin embargo, lo voy a comprar.", "It's expensive. However, I'm going to buy it."],
+    ["Aunque es caro, lo voy a comprar.", "Although it's expensive, I'm going to buy it."],
+    ["Mi hermano es alto; yo, en cambio, soy bajo.", "My brother is tall; I, on the other hand, am short."],
+    ["No es rojo, sino naranja.", "It isn't red, but orange."],
+    ["Es barato y, además, está cerca.", "It's cheap, and besides, it's nearby."],
+    ["Incluso mi abuela usa WhatsApp.", "Even my grandmother uses WhatsApp."],
+    ["Ni siquiera me llamó.", "He didn't even call me."],
+    ["No salí porque llovía.", "I didn't go out because it was raining."],
+    ["Como llovía, no salí.", "Since it was raining, I didn't go out."],
+    ["Ya que estás aquí, ayúdame.", "Since you're here, help me."],
+    ["No salí por la lluvia.", "I didn't go out because of the rain."],
+    ["Llovía, así que no salí.", "It was raining, so I didn't go out."],
+    ["Estaba cansado; por eso me acosté temprano.", "I was tired; that's why I went to bed early."],
+    ["No hay suficientes datos; por lo tanto, no podemos decidir.", "There isn't enough data; therefore, we can't decide."],
+    ["Entonces, ¿vienes o no?", "So, are you coming or not?"],
+    ["No tengo dinero, o sea, no puedo ir.", "I don't have money, I mean, I can't go."],
+    ["No quiero té, sino café.", "I don't want tea, but coffee."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Choose: No es rojo, ___ naranja.", "options": ["sino", "pero", "sin embargo", "aunque"], "answer": 0, "lang": "es", "explain": "After a negative, \"but rather\" is *sino*."},
+    {"type": "mc", "prompt": "Choose: ___ llovía, no salí. (at the start)", "options": ["Como", "Porque", "Así que", "Pero"], "answer": 0, "lang": "es", "explain": "*Como* (since) goes at the start; *porque* goes in the middle."},
+    {"type": "mc", "prompt": "Choose: Llovía, ___ no salí.", "options": ["así que", "porque", "como", "aunque"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Ni siquiera me llamó* means…", "options": ["He didn't even call me.", "He called me anyway.", "He only called me.", "He never calls me."], "answer": 0},
+    {"type": "mc", "prompt": "*o sea* means…", "options": ["I mean / in other words", "or else", "or maybe", "therefore"], "answer": 0},
+    {"type": "mc", "prompt": "Which is the most formal way to say \"so / therefore\"?", "options": ["por lo tanto", "así que", "entonces", "o sea"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "Es caro. Sin ___, lo voy a comprar.", "answers": ["embargo"], "hint": "It's expensive. However, I'm going to buy it."},
+    {"type": "fill", "prompt": "___ es caro, lo voy a comprar.", "answers": ["aunque"], "hint": "Although it's expensive, I'm going to buy it."},
+    {"type": "fill", "prompt": "Yo, en ___, soy bajo.", "answers": ["cambio"], "hint": "I, on the other hand, am short."},
+    {"type": "fill", "prompt": "Es barato y, ___, está cerca.", "answers": ["además"], "hint": "It's cheap, and besides, it's nearby."},
+    {"type": "fill", "prompt": "___ mi abuela usa WhatsApp.", "answers": ["incluso"], "hint": "Even my grandmother uses WhatsApp."},
+    {"type": "fill", "prompt": "Ya ___ estás aquí, ayúdame.", "answers": ["que"], "hint": "Since you're here, help me."},
+    {"type": "fill", "prompt": "Estaba cansado; por ___ me acosté temprano.", "answers": ["eso"], "hint": "I was tired; that's why I went to bed early."},
+    {"type": "fill", "prompt": "No quiero té, ___ café.", "answers": ["sino"], "hint": "I don't want tea, but coffee."},
+    {"type": "fill", "prompt": "Ni ___ me llamó.", "answers": ["siquiera"], "hint": "He didn't even call me."},
+    {"type": "translate", "prompt": "Since it was raining, I didn't go out. (start with como)", "answers": ["Como llovía, no salí.", "Como estaba lloviendo, no salí."]},
+    {"type": "translate", "prompt": "It isn't red, but orange.", "answers": ["No es rojo, sino naranja."]},
+    {"type": "translate", "prompt": "He didn't even call me.", "answers": ["Ni siquiera me llamó."]},
+    {"type": "translate", "prompt": "It was raining, so I didn't go out.", "answers": ["Llovía, así que no salí.", "Estaba lloviendo, así que no salí."]},
+    {"type": "translate", "prompt": "Since you're here, help me. (ya que, tú)", "answers": ["Ya que estás aquí, ayúdame."]},
+    {"type": "build", "prompt": "Put the words in order: \"My brother is tall; I, on the other hand, am short.\"", "answer": "Mi hermano es alto; yo, en cambio, soy bajo."},
+    {"type": "build", "prompt": "Put the words in order: \"I don't have money, I mean, I can't go.\"", "answer": "No tengo dinero, o sea, no puedo ir."},
+    {"type": "build", "prompt": "Put the words in order: \"So, are you coming or not?\"", "answer": "Entonces, ¿vienes o no?"}
+  ]
+}

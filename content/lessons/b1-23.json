@@ -1,0 +1,84 @@
+{
+  "sections": [
+    {
+      "heading": "Soler: usually",
+      "body": "*Soler* (o → ue) + infinitive means \"to usually do\" or \"to tend to\": *Suelo levantarme a las siete.* (I usually get up at seven.) *¿Qué sueles hacer los domingos?* In the imperfect it means \"used to\": *Solíamos ir a la playa cada verano.* It's only used in the present and imperfect."
+    },
+    {
+      "heading": "Estar a punto de: about to",
+      "body": "*Estar a punto de* + infinitive = to be about to: *Estoy a punto de salir.* (I'm just about to leave.) *El concierto estaba a punto de empezar.*"
+    },
+    {
+      "heading": "Ponerse a: to start (suddenly)",
+      "body": "You saw this in A2: *De repente se puso a llover.* (Suddenly it started raining.) *Cuando llegué, los niños se pusieron a gritar.*"
+    },
+    {
+      "heading": "Llevar + gerund: how long",
+      "body": "*Llevar* + time + gerund says how long you've been doing something: *Llevo tres años estudiando español.* *¿Cuánto tiempo llevas esperando?* Negative: *llevar* + time + *sin* + infinitive: *Llevo dos días sin dormir.* (I haven't slept for two days.)"
+    },
+    {
+      "heading": "Tardar: to take time",
+      "body": "*Tardar* + time + *en* + infinitive = to take (time) to do something: *Tardo veinte minutos en llegar al trabajo.* (It takes me twenty minutes to get to work.) *¿Cuánto tardas en arreglarte?* (How long does it take you to get ready?) *No tardes.* (Don't be long.)"
+    }
+  ],
+  "vocab": [
+    ["soler", "to usually (do)"],
+    ["suelo", "I usually"],
+    ["solíamos", "we used to"],
+    ["estar a punto de", "to be about to"],
+    ["ponerse a", "to start (suddenly)"],
+    ["llevar + gerundio", "to have been (doing)"],
+    ["llevar sin", "to have not (done) for"],
+    ["tardar en", "to take (time) to"],
+    ["arreglarse", "to get ready"],
+    ["gritar", "to shout"],
+    ["el concierto", "the concert"],
+    ["manejar", "to drive"]
+  ],
+  "examples": [
+    ["Suelo levantarme a las siete.", "I usually get up at seven."],
+    ["¿Qué sueles hacer los domingos?", "What do you usually do on Sundays?"],
+    ["En diciembre suele hacer calor aquí.", "It's usually hot here in December."],
+    ["Solíamos ir a la playa cada verano.", "We used to go to the beach every summer."],
+    ["Estoy a punto de salir.", "I'm just about to leave."],
+    ["El concierto estaba a punto de empezar.", "The concert was about to start."],
+    ["De repente se puso a llover.", "Suddenly it started raining."],
+    ["Los niños se pusieron a gritar.", "The kids started shouting."],
+    ["Llevo tres años estudiando español.", "I've been studying Spanish for three years."],
+    ["¿Cuánto tiempo llevas esperando?", "How long have you been waiting?"],
+    ["Llevo dos días sin dormir.", "I haven't slept for two days."],
+    ["Tardo veinte minutos en llegar al trabajo.", "It takes me twenty minutes to get to work."],
+    ["¿Cuánto tardas en arreglarte?", "How long does it take you to get ready?"],
+    ["No tardes.", "Don't be long."],
+    ["Tardamos una hora en encontrar el hotel.", "It took us an hour to find the hotel."],
+    ["Mi padre suele manejar muy despacio.", "My father usually drives very slowly."],
+    ["Estábamos a punto de llamarte.", "We were just about to call you."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "___ levantarme a las siete. (soler, yo)", "answers": ["suelo"], "hint": "I usually get up at seven."},
+    {"type": "fill", "prompt": "¿Qué ___ hacer los domingos? (soler, tú)", "answers": ["sueles"], "hint": "What do you usually do on Sundays?"},
+    {"type": "fill", "prompt": "___ ir a la playa cada verano. (soler, nosotros)", "answers": ["solíamos"], "hint": "We used to go to the beach every summer."},
+    {"type": "fill", "prompt": "Estoy a punto ___ salir.", "answers": ["de"], "hint": "I'm just about to leave."},
+    {"type": "fill", "prompt": "De repente se ___ a llover. (ponerse)", "answers": ["puso"], "hint": "Suddenly it started raining."},
+    {"type": "fill", "prompt": "___ tres años estudiando español. (llevar, yo)", "answers": ["llevo"], "hint": "I've been studying Spanish for three years."},
+    {"type": "fill", "prompt": "Llevo dos días ___ dormir.", "answers": ["sin"], "hint": "I haven't slept for two days."},
+    {"type": "fill", "prompt": "Tardo veinte minutos ___ llegar al trabajo.", "answers": ["en"], "hint": "It takes me twenty minutes to get to work."},
+    {"type": "fill", "prompt": "¿Cuánto ___ en arreglarte? (tardar, tú)", "answers": ["tardas"], "hint": "How long does it take you to get ready?"},
+    {"type": "fill", "prompt": "No ___. (tardar, tú)", "answers": ["tardes"], "hint": "Don't be long."},
+    {"type": "fill", "prompt": "Los niños se pusieron a ___. (gritar)", "answers": ["gritar"], "hint": "The kids started shouting."},
+    {"type": "fill", "prompt": "¿Cuánto tiempo llevas ___? (esperar)", "answers": ["esperando"], "hint": "How long have you been waiting?"},
+    {"type": "mc", "prompt": "*Suelo cocinar en casa* means…", "options": ["I usually cook at home.", "I cook alone at home.", "I used to cook at home.", "I'm about to cook."], "answer": 0},
+    {"type": "mc", "prompt": "*Estoy a punto de llorar* means…", "options": ["I'm about to cry.", "I'm crying a lot.", "I just cried.", "I cry on the dot."], "answer": 0},
+    {"type": "mc", "prompt": "*Llevo dos días sin dormir* means…", "options": ["I haven't slept for two days.", "I slept for two days.", "I'll sleep in two days.", "I carry two days of sleep."], "answer": 0},
+    {"type": "mc", "prompt": "\"It takes me an hour to get there\" is…", "options": ["Tardo una hora en llegar.", "Llevo una hora en llegar.", "Me toma una hora a llegar.", "Suelo una hora en llegar."], "answer": 0, "lang": "es", "explain": "*Me toma una hora llegar* is also heard in Latin America."},
+    {"type": "mc", "prompt": "In which tenses is *soler* normally used?", "options": ["present and imperfect", "all tenses", "future only", "preterite only"], "answer": 0},
+    {"type": "translate", "prompt": "I usually get up at seven.", "answers": ["Suelo levantarme a las siete.", "Normalmente me levanto a las siete."]},
+    {"type": "translate", "prompt": "I'm just about to leave.", "answers": ["Estoy a punto de salir.", "Estoy a punto de irme."]},
+    {"type": "translate", "prompt": "How long have you been waiting? (tú)", "answers": ["¿Cuánto tiempo llevas esperando?", "¿Cuánto tiempo hace que esperas?"]},
+    {"type": "translate", "prompt": "Don't be long. (tú)", "answers": ["No tardes."]},
+    {"type": "translate", "prompt": "We used to go to the beach every summer.", "answers": ["Solíamos ir a la playa cada verano.", "Íbamos a la playa cada verano.", "Íbamos a la playa todos los veranos."]},
+    {"type": "build", "prompt": "Put the words in order: \"It took us an hour to find the hotel.\"", "answer": "Tardamos una hora en encontrar el hotel."},
+    {"type": "build", "prompt": "Put the words in order: \"The concert was about to start.\"", "answer": "El concierto estaba a punto de empezar."},
+    {"type": "build", "prompt": "Put the words in order: \"My father usually drives very slowly.\"", "answer": "Mi padre suele manejar muy despacio."}
+  ]
+}

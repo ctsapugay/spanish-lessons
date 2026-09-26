@@ -1,0 +1,80 @@
+{
+  "sections": [
+    {
+      "heading": "Adverbs with -mente",
+      "body": "Add *-mente* (like English \"-ly\") to the **feminine** form of the adjective: *rápido → rápidamente*, *tranquilo → tranquilamente*, *lento → lentamente*. Adjectives without a feminine form just add it: *fácil → fácilmente*, *normal → normalmente*, *feliz → felizmente*. The written accent stays: *rápidamente, fácilmente*.\n\nTwo in a row? Only the last one gets *-mente*: *Habló clara y lentamente.* (She spoke clearly and slowly.)\n\nIn conversation, people often use *con* + noun or the adjective itself: *con cuidado* (carefully), *Habla rápido* (He talks fast)."
+    },
+    {
+      "heading": "Focus words",
+      "body": "- *solo / solamente* (only): *Solo quiero un café.* (No accent on *solo* is the current norm.)\n- *sobre todo* (above all, especially): *Me gusta la fruta, sobre todo el mango.*\n- *especialmente, precisamente* (precisely), *exactamente*: *Eso es exactamente lo que quería.*"
+    },
+    {
+      "heading": "The absolute superlative: -ísimo",
+      "body": "To say \"very, very\" or \"extremely\", add *-ísimo / -ísima* to the adjective (dropping a final vowel): *caro → carísimo*, *bueno → buenísimo*, *grande → grandísimo*, *fácil → facilísimo*, *rico → riquísimo* (spelling change), *largo → larguísimo*, *poco → poquito / poquísimo*. *La comida estaba riquísima.* (The food was delicious.) *Es una película larguísima.*\n\nIt works with some adverbs too: *muchísimo* (very much), *tardísimo* (really late), *cerquita* (very close — a diminutive, common in Latin America)."
+    }
+  ],
+  "vocab": [
+    ["rápidamente", "quickly"],
+    ["lentamente", "slowly"],
+    ["fácilmente", "easily"],
+    ["tranquilamente", "calmly"],
+    ["realmente", "really"],
+    ["claramente", "clearly"],
+    ["con cuidado", "carefully"],
+    ["solo / solamente", "only"],
+    ["sobre todo", "above all / especially"],
+    ["exactamente", "exactly"],
+    ["carísimo", "extremely expensive"],
+    ["buenísimo", "extremely good"],
+    ["riquísimo", "extremely delicious"],
+    ["muchísimo", "very much"],
+    ["larguísimo", "extremely long"],
+    ["el mango", "the mango"]
+  ],
+  "examples": [
+    ["Terminó el examen rápidamente.", "She finished the exam quickly."],
+    ["Habló clara y lentamente.", "She spoke clearly and slowly."],
+    ["Aprendes fácilmente.", "You learn easily."],
+    ["Caminamos tranquilamente por la playa.", "We walked calmly along the beach."],
+    ["Realmente no sé qué hacer.", "I really don't know what to do."],
+    ["Maneja con cuidado.", "Drive carefully."],
+    ["Solo quiero un café.", "I only want a coffee."],
+    ["Me gusta la fruta, sobre todo el mango.", "I like fruit, especially mango."],
+    ["Eso es exactamente lo que quería.", "That's exactly what I wanted."],
+    ["Este restaurante es carísimo.", "This restaurant is extremely expensive."],
+    ["La comida estaba riquísima.", "The food was delicious."],
+    ["El libro es buenísimo.", "The book is really great."],
+    ["Es una película larguísima.", "It's an incredibly long movie."],
+    ["Te quiero muchísimo.", "I love you so much."],
+    ["Llegamos tardísimo.", "We arrived really late."],
+    ["Normalmente me levanto a las siete.", "I normally get up at seven."],
+    ["El examen fue facilísimo.", "The exam was super easy."],
+    ["Habla rápido.", "He talks fast."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Terminó el examen ___. (rápido)", "answers": ["rápidamente", "rápido"], "hint": "She finished the exam quickly."},
+    {"type": "fill", "prompt": "Aprendes ___. (fácil)", "answers": ["fácilmente"], "hint": "You learn easily."},
+    {"type": "fill", "prompt": "Caminamos ___ por la playa. (tranquilo)", "answers": ["tranquilamente"], "hint": "We walked calmly along the beach."},
+    {"type": "fill", "prompt": "Habló clara y ___. (lento)", "answers": ["lentamente"], "hint": "She spoke clearly and slowly."},
+    {"type": "fill", "prompt": "Maneja con ___.", "answers": ["cuidado"], "hint": "Drive carefully."},
+    {"type": "fill", "prompt": "Me gusta la fruta, sobre ___ el mango.", "answers": ["todo"], "hint": "I like fruit, especially mango."},
+    {"type": "fill", "prompt": "Este restaurante es ___. (caro, -ísimo)", "answers": ["carísimo"], "hint": "This restaurant is extremely expensive."},
+    {"type": "fill", "prompt": "La comida estaba ___. (rica, -ísima)", "answers": ["riquísima"], "hint": "The food was delicious."},
+    {"type": "fill", "prompt": "Es una película ___. (larga, -ísima)", "answers": ["larguísima"], "hint": "It's an incredibly long movie."},
+    {"type": "fill", "prompt": "Te quiero ___. (mucho, -ísimo)", "answers": ["muchísimo"], "hint": "I love you so much."},
+    {"type": "fill", "prompt": "El examen fue ___. (fácil, -ísimo)", "answers": ["facilísimo"], "hint": "The exam was super easy."},
+    {"type": "mc", "prompt": "The -mente adverb of *rápido* is…", "options": ["rápidamente", "rápidomente", "rapidamente", "rápidemente"], "answer": 0, "lang": "es", "explain": "Use the feminine form, and keep the accent."},
+    {"type": "mc", "prompt": "\"clearly and slowly\" is…", "options": ["clara y lentamente", "claramente y lentamente (only correct way)", "claro y lento mente"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The -ísimo form of *rico* is…", "options": ["riquísimo", "ricísimo", "riquisimo", "ricoísimo"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Solo quiero un café* means…", "options": ["I only want a coffee.", "I want a coffee alone.", "I want a single coffee only once.", "I'm alone with a coffee."], "answer": 0},
+    {"type": "mc", "prompt": "*Llegamos tardísimo* means…", "options": ["We arrived really late.", "We arrived a little late.", "We arrived on time.", "We'll arrive late."], "answer": 0},
+    {"type": "translate", "prompt": "I only want a coffee.", "answers": ["Solo quiero un café.", "Solamente quiero un café.", "Sólo quiero un café."]},
+    {"type": "translate", "prompt": "Drive carefully. (tú)", "answers": ["Maneja con cuidado.", "Conduce con cuidado."]},
+    {"type": "translate", "prompt": "That's exactly what I wanted.", "answers": ["Eso es exactamente lo que quería."]},
+    {"type": "translate", "prompt": "The food was delicious. (use -ísima)", "answers": ["La comida estaba riquísima."]},
+    {"type": "translate", "prompt": "I really don't know what to do.", "answers": ["Realmente no sé qué hacer.", "De verdad no sé qué hacer."]},
+    {"type": "build", "prompt": "Put the words in order: \"I like fruit, especially mango.\"", "answer": "Me gusta la fruta, sobre todo el mango."},
+    {"type": "build", "prompt": "Put the words in order: \"She spoke clearly and slowly.\"", "answer": "Habló clara y lentamente."},
+    {"type": "build", "prompt": "Put the words in order: \"I normally get up at seven.\"", "answer": "Normalmente me levanto a las siete."}
+  ]
+}

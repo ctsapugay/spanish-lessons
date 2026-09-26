@@ -1,0 +1,75 @@
+{
+  "sections": [
+    {
+      "heading": "Lo que: what / the thing that",
+      "body": "*Lo que* means \"what\" in the sense of \"the thing that\" — not a question: *Lo que quiero es dormir.* (What I want is to sleep.) *No entiendo lo que dices.* (I don't understand what you're saying.) *Haz lo que quieras.* (Do whatever you want.) *Todo lo que necesitas…* (Everything you need…)\n\nIt can also refer back to a whole idea: *Llegó tarde, lo que me molestó mucho.* (He arrived late, which bothered me a lot.)"
+    },
+    {
+      "heading": "Lo + adjective: the … thing",
+      "body": "*Lo* + masculine adjective turns it into an abstract noun: *lo bueno* (the good thing), *lo malo* (the bad thing), *lo importante* (the important thing), *lo mejor / lo peor* (the best / worst part), *lo difícil*, *lo mismo* (the same thing), *lo único* (the only thing).\n\n*Lo bueno es que no llueve.* (The good thing is that it's not raining.) *Lo mejor del viaje fue la comida.* *Quiero lo mismo.* (I want the same.)"
+    },
+    {
+      "heading": "Eso, esto: pointing at ideas",
+      "body": "The neuter demonstratives point to ideas or situations, not things: *Eso es lo que pienso.* (That's what I think.) *Esto no me gusta nada.* (I don't like this at all.) *Por eso…* (That's why…), *Eso es.* (That's it / Exactly.) *¿Qué es eso?*"
+    }
+  ],
+  "vocab": [
+    ["lo que", "what / the thing that"],
+    ["todo lo que", "everything that"],
+    ["lo bueno", "the good thing"],
+    ["lo malo", "the bad thing"],
+    ["lo importante", "the important thing"],
+    ["lo mejor", "the best part / thing"],
+    ["lo peor", "the worst part / thing"],
+    ["lo mismo", "the same thing"],
+    ["lo único", "the only thing"],
+    ["eso es", "that's it / exactly"],
+    ["molestar", "to bother"],
+    ["necesitar", "to need"]
+  ],
+  "examples": [
+    ["Lo que quiero es dormir.", "What I want is to sleep."],
+    ["No entiendo lo que dices.", "I don't understand what you're saying."],
+    ["Haz lo que quieras.", "Do whatever you want."],
+    ["Aquí tienes todo lo que necesitas.", "Here's everything you need."],
+    ["Llegó tarde, lo que me molestó mucho.", "He arrived late, which bothered me a lot."],
+    ["Lo bueno es que no llueve.", "The good thing is that it's not raining."],
+    ["Lo malo es que está lejos.", "The bad thing is that it's far away."],
+    ["Lo importante es estar juntos.", "The important thing is to be together."],
+    ["Lo mejor del viaje fue la comida.", "The best part of the trip was the food."],
+    ["Lo peor fue el tráfico.", "The worst part was the traffic."],
+    ["Quiero lo mismo.", "I want the same thing."],
+    ["Lo único que necesito es tiempo.", "The only thing I need is time."],
+    ["Eso es lo que pienso.", "That's what I think."],
+    ["Esto no me gusta nada.", "I don't like this at all."],
+    ["¡Eso es!", "That's it!"],
+    ["Cuéntame lo que pasó.", "Tell me what happened."],
+    ["No sé lo que quiero.", "I don't know what I want."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "___ que quiero es dormir.", "answers": ["lo"], "hint": "What I want is to sleep."},
+    {"type": "fill", "prompt": "No entiendo lo ___ dices.", "answers": ["que"], "hint": "I don't understand what you're saying."},
+    {"type": "fill", "prompt": "Haz lo que ___. (querer, tú)", "answers": ["quieras"], "hint": "Do whatever you want."},
+    {"type": "fill", "prompt": "Aquí tienes todo lo que ___. (necesitar, tú)", "answers": ["necesitas"], "hint": "Here's everything you need."},
+    {"type": "fill", "prompt": "Lo ___ es que no llueve.", "answers": ["bueno"], "hint": "The good thing is that it's not raining."},
+    {"type": "fill", "prompt": "Lo ___ del viaje fue la comida.", "answers": ["mejor"], "hint": "The best part of the trip was the food."},
+    {"type": "fill", "prompt": "Lo ___ fue el tráfico.", "answers": ["peor", "malo"], "hint": "The worst part was the traffic."},
+    {"type": "fill", "prompt": "Quiero lo ___.", "answers": ["mismo"], "hint": "I want the same thing."},
+    {"type": "fill", "prompt": "Lo ___ que necesito es tiempo.", "answers": ["único"], "hint": "The only thing I need is time."},
+    {"type": "fill", "prompt": "___ es lo que pienso.", "answers": ["eso"], "hint": "That's what I think."},
+    {"type": "fill", "prompt": "Cuéntame lo que ___. (pasar)", "answers": ["pasó"], "hint": "Tell me what happened."},
+    {"type": "mc", "prompt": "\"I don't know what I want\" (not a question) is…", "options": ["No sé lo que quiero.", "No sé qué lo quiero.", "No sé cuál quiero lo."], "answer": 0, "lang": "es", "explain": "*No sé qué quiero* is also correct and common."},
+    {"type": "mc", "prompt": "*Lo importante* means…", "options": ["the important thing", "it's important", "the important person", "importantly"], "answer": 0},
+    {"type": "mc", "prompt": "*Llegó tarde, lo que me molestó* — *lo que* refers to…", "options": ["the fact that he arrived late", "the time", "him", "me"], "answer": 0},
+    {"type": "mc", "prompt": "*¡Eso es!* means…", "options": ["That's it! / Exactly!", "What is that?", "This is it.", "That is him."], "answer": 0},
+    {"type": "mc", "prompt": "Choose: ___ malo es que está lejos.", "options": ["Lo", "El", "La", "Eso"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "What I want is to sleep.", "answers": ["Lo que quiero es dormir."]},
+    {"type": "translate", "prompt": "I don't understand what you're saying. (tú)", "answers": ["No entiendo lo que dices.", "No entiendo qué dices.", "No entiendo lo que estás diciendo."]},
+    {"type": "translate", "prompt": "The good thing is that it's not raining.", "answers": ["Lo bueno es que no llueve.", "Lo bueno es que no está lloviendo."]},
+    {"type": "translate", "prompt": "I want the same thing.", "answers": ["Quiero lo mismo."]},
+    {"type": "translate", "prompt": "Tell me what happened. (tú)", "answers": ["Cuéntame lo que pasó.", "Dime lo que pasó.", "Cuéntame qué pasó.", "Dime qué pasó."]},
+    {"type": "build", "prompt": "Put the words in order: \"The only thing I need is time.\"", "answer": "Lo único que necesito es tiempo."},
+    {"type": "build", "prompt": "Put the words in order: \"He arrived late, which bothered me a lot.\"", "answer": "Llegó tarde, lo que me molestó mucho."},
+    {"type": "build", "prompt": "Put the words in order: \"The important thing is to be together.\"", "answer": "Lo importante es estar juntos."}
+  ]
+}
