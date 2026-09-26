@@ -1,0 +1,1503 @@
+{
+ "about": "Items this course commits to covering, distilled from the sources in curriculum/research.md.",
+ "items": [
+  {
+   "id": "A1-pron",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Alphabet, vowel and consonant sounds, stress and written accents",
+   "source": "PCIC pronunciación A1"
+  },
+  {
+   "id": "A1-f-greet",
+   "level": "A1",
+   "kind": "function",
+   "description": "Greet, respond to greetings, say goodbye",
+   "source": "PCIC functions A1 §5"
+  },
+  {
+   "id": "A1-f-introduce",
+   "level": "A1",
+   "kind": "function",
+   "description": "Introduce yourself and others; respond to introductions",
+   "source": "PCIC functions A1 §5"
+  },
+  {
+   "id": "A1-g-tu-usted",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Forms of address: tú vs. usted",
+   "source": "PCIC grammar A1 pronombre"
+  },
+  {
+   "id": "A1-g-subject-pron",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Subject pronouns and their usual omission",
+   "source": "PCIC grammar A1 §7"
+  },
+  {
+   "id": "A1-g-ser",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Ser: identification, origin, nationality, profession",
+   "source": "PCIC grammar A1 §12"
+  },
+  {
+   "id": "A1-v-countries",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Countries and nationalities",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A1-g-gender-number",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Noun gender (-o/-a) and regular plurals (-s/-es)",
+   "source": "PCIC grammar A1 §1"
+  },
+  {
+   "id": "A1-g-articles",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Definite and indefinite articles",
+   "source": "PCIC grammar A1 §3"
+  },
+  {
+   "id": "A1-g-numbers-20",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Cardinal numbers 0–20",
+   "source": "PCIC grammar A1 §6"
+  },
+  {
+   "id": "A1-g-tener",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Tener: possession and age",
+   "source": "PCIC grammar A1 §9"
+  },
+  {
+   "id": "A1-g-adj-agreement",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Adjective agreement and position after the noun; muy",
+   "source": "PCIC grammar A1 §2"
+  },
+  {
+   "id": "A1-f-describe-basic",
+   "level": "A1",
+   "kind": "function",
+   "description": "Describe people and things simply",
+   "source": "PCIC functions A1 §1"
+  },
+  {
+   "id": "A1-g-possessive-atonic",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Possessive determiners mi/tu/su/nuestro",
+   "source": "PCIC grammar A1 §5"
+  },
+  {
+   "id": "A1-v-family",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Family members",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A1-g-present-ar",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Present tense of regular -ar verbs",
+   "source": "PCIC grammar A1 §9"
+  },
+  {
+   "id": "A1-g-questions",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Interrogatives qué, quién, dónde, cuándo, cómo, cuánto, por qué",
+   "source": "PCIC grammar A1 §7"
+  },
+  {
+   "id": "A1-g-negation",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Negation with no",
+   "source": "PCIC grammar A1 §13"
+  },
+  {
+   "id": "A1-f-ask-info",
+   "level": "A1",
+   "kind": "function",
+   "description": "Request and give information",
+   "source": "PCIC functions A1 §1"
+  },
+  {
+   "id": "A1-g-present-er-ir",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Present tense of regular -er and -ir verbs",
+   "source": "PCIC grammar A1 §9"
+  },
+  {
+   "id": "A1-g-estar",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Estar: location and states; estar + adjective",
+   "source": "PCIC grammar A1 §12"
+  },
+  {
+   "id": "A1-g-ser-estar-1",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Ser vs. estar: first contrast",
+   "source": "PCIC grammar A1 §12"
+  },
+  {
+   "id": "A1-g-hay",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Hay (there is/are) vs. estar",
+   "source": "PCIC grammar A1 §13"
+  },
+  {
+   "id": "A1-g-contractions",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Contractions al and del",
+   "source": "PCIC grammar A1 §3"
+  },
+  {
+   "id": "A1-v-town",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Places in town",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A1-g-place-adverbs",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Place adverbs aquí, ahí, allí",
+   "source": "PCIC grammar A1 §8"
+  },
+  {
+   "id": "A1-g-numbers-big",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Cardinal numbers 20 to 1,000,000",
+   "source": "PCIC grammar A1 §6"
+  },
+  {
+   "id": "A1-f-prices",
+   "level": "A1",
+   "kind": "function",
+   "description": "Ask for and give prices",
+   "source": "PCIC functions A1 §1"
+  },
+  {
+   "id": "A1-v-time-days",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Clock time, days of the week, parts of the day",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A1-g-reflexive",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Reflexive verbs and pronouns (me, te, se...)",
+   "source": "PCIC grammar A1 §7"
+  },
+  {
+   "id": "A1-g-stem-change",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Present tense vowel changes e→ie, o→ue, e→i",
+   "source": "PCIC grammar A2 §9 irregularidades vocálicas"
+  },
+  {
+   "id": "A1-g-irregular-present",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Present tense of key irregular verbs, including ir",
+   "source": "PCIC grammar A1 §9"
+  },
+  {
+   "id": "A1-g-saber-conocer",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Saber vs. conocer",
+   "source": "PCIC grammar A1 §9"
+  },
+  {
+   "id": "A1-g-gustar",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Gustar and encantar with indirect object pronouns",
+   "source": "PCIC grammar A1 §7"
+  },
+  {
+   "id": "A1-f-likes",
+   "level": "A1",
+   "kind": "function",
+   "description": "Express likes, dislikes and agreement (también, tampoco)",
+   "source": "PCIC functions A1 §3"
+  },
+  {
+   "id": "A1-g-tambien-tampoco",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Polarity adverbs también, tampoco",
+   "source": "PCIC grammar A1 §8"
+  },
+  {
+   "id": "A1-v-food",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Food and drink",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A1-f-request",
+   "level": "A1",
+   "kind": "function",
+   "description": "Request things politely (quiero, quisiera, me trae)",
+   "source": "PCIC functions A1 §4"
+  },
+  {
+   "id": "A1-g-demonstratives",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Demonstratives este/ese/aquel and neuter esto/eso/aquello",
+   "source": "PCIC grammar A1 §4"
+  },
+  {
+   "id": "A1-v-clothes-colors",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Clothes and colours",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A1-v-house",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "House, rooms and furniture",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A1-g-prep-place",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Prepositions and locutions of place (en, encima de, al lado de...)",
+   "source": "PCIC grammar A1 SP"
+  },
+  {
+   "id": "A1-v-weather",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Weather, seasons, months, dates",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A1-g-weather-verbs",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Weather expressions hace, hay, está, llueve, nieva",
+   "source": "PCIC grammar A2 §7 verbos meteorológicos"
+  },
+  {
+   "id": "A1-g-ir-a",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Ir a + infinitive for plans",
+   "source": "PCIC grammar A2 §9 perífrasis"
+  },
+  {
+   "id": "A1-f-plans",
+   "level": "A1",
+   "kind": "function",
+   "description": "Ask about and express plans and intentions",
+   "source": "PCIC functions A2 §3"
+  },
+  {
+   "id": "A1-g-modals",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Poder, tener que, hay que + infinitive",
+   "source": "PCIC grammar A2 §9 perífrasis modales"
+  },
+  {
+   "id": "A1-f-invite",
+   "level": "A1",
+   "kind": "function",
+   "description": "Invite, accept and decline; ask for and give permission",
+   "source": "PCIC functions A1 §4"
+  },
+  {
+   "id": "A1-g-do-pronouns",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Direct object pronouns and personal a",
+   "source": "PCIC grammar A1 §7, A2 §12"
+  },
+  {
+   "id": "A1-g-progressive",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Estar + gerundio (present progressive)",
+   "source": "PCIC grammar A1 §9"
+  },
+  {
+   "id": "A1-v-body",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Parts of the body",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A1-f-feelings",
+   "level": "A1",
+   "kind": "function",
+   "description": "Express physical sensations and mood (me duele, estoy cansado)",
+   "source": "PCIC functions A1 §3"
+  },
+  {
+   "id": "A1-g-frequency",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Frequency expressions (siempre, a veces, nunca)",
+   "source": "PCIC grammar A1 §8"
+  },
+  {
+   "id": "A1-g-connectors-basic",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Coordination y/o/pero; porque, cuando, antes de/después de + infinitive",
+   "source": "PCIC grammar A1 §14–15"
+  },
+  {
+   "id": "A1-g-imperative-tu",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Affirmative tú imperative (regular)",
+   "source": "PCIC grammar A1 §9 imperativo"
+  },
+  {
+   "id": "A1-f-directions",
+   "level": "A1",
+   "kind": "function",
+   "description": "Give and ask for directions and instructions",
+   "source": "PCIC functions A1 §4"
+  },
+  {
+   "id": "A2-g-pret-ar",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Preterite of regular -ar verbs; past time markers",
+   "source": "PCIC grammar A1 §9 indefinido"
+  },
+  {
+   "id": "A2-g-pret-er-ir",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Preterite of regular -er/-ir verbs and spelling changes (busqué, leyó)",
+   "source": "PCIC grammar A1 §9 indefinido; B1 irregularidades ortográficas"
+  },
+  {
+   "id": "A2-g-pret-irregular",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Irregular preterites (strong stems)",
+   "source": "PCIC grammar B1 indefinido perfectos fuertes"
+  },
+  {
+   "id": "A2-g-pret-stem",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Stem-changing -ir preterites (pidió, durmió)",
+   "source": "PCIC grammar B1 indefinido irregularidades vocálicas"
+  },
+  {
+   "id": "A2-f-narrate",
+   "level": "A2",
+   "kind": "function",
+   "description": "Narrate a sequence of events; sequence adverbs",
+   "source": "PCIC functions A2 §1; PCIC grammar A2 §8"
+  },
+  {
+   "id": "A2-g-imperfect-forms",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Imperfect tense forms and past habits",
+   "source": "PCIC grammar A1 §9 imperfecto"
+  },
+  {
+   "id": "A2-g-imperfect-desc",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Imperfect for description in the past",
+   "source": "PCIC grammar A1 §9 imperfecto"
+  },
+  {
+   "id": "A2-f-describe",
+   "level": "A2",
+   "kind": "function",
+   "description": "Describe people, places and situations",
+   "source": "PCIC functions A2 §1"
+  },
+  {
+   "id": "A2-g-pret-imp-1",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Preterite vs. imperfect: event vs. background, mientras/cuando",
+   "source": "PCIC grammar B1 imperfecto"
+  },
+  {
+   "id": "A2-g-pret-imp-2",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Preterite vs. imperfect in narration; verbs that change meaning",
+   "source": "PCIC grammar B1 imperfecto/indefinido"
+  },
+  {
+   "id": "A2-g-perfect",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Present perfect and irregular participles; Latin America vs. Spain usage",
+   "source": "PCIC grammar A1–A2 §9 perfecto"
+  },
+  {
+   "id": "A2-g-io-pronouns",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Indirect object pronouns le/les and clitic doubling",
+   "source": "PCIC grammar A2 §7"
+  },
+  {
+   "id": "A2-g-double-pronouns",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Combined pronouns, le→se, position with infinitives and gerunds",
+   "source": "PCIC grammar A2 §7"
+  },
+  {
+   "id": "A2-g-comparisons",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Comparatives más/menos que, tan/tanto como, mejor/peor/mayor/menor; superlative el más",
+   "source": "PCIC grammar A2 §2, §15"
+  },
+  {
+   "id": "A2-g-possessive-tonic",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Stressed possessives mío, tuyo, suyo...",
+   "source": "PCIC grammar A2 §5"
+  },
+  {
+   "id": "A2-g-ordinals",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Ordinal numbers 1st–10th",
+   "source": "PCIC grammar A2 §6"
+  },
+  {
+   "id": "A2-g-indefinites",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Algo/nada, alguien/nadie, alguno/ninguno; double negation",
+   "source": "PCIC grammar A2 §6, B1 cuantificadores"
+  },
+  {
+   "id": "A2-v-travel",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Travel, transport and accommodation",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A2-f-complain",
+   "level": "A2",
+   "kind": "function",
+   "description": "Request services, complain, ask for confirmation",
+   "source": "PCIC functions A2 §4"
+  },
+  {
+   "id": "A2-g-imperative-2",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Usted/ustedes imperative, irregular tú imperatives, enclitic pronouns",
+   "source": "PCIC grammar A2 §9 imperativo"
+  },
+  {
+   "id": "A2-g-por-para",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Por vs. para: main uses",
+   "source": "PCIC grammar A2 §15 finales; preposiciones"
+  },
+  {
+   "id": "A2-g-periphrases",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Aspectual periphrases acabar de, empezar a, volver a, dejar de, seguir + gerundio",
+   "source": "PCIC grammar A2 §9, B1 perífrasis"
+  },
+  {
+   "id": "A2-g-duration",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Hace + time, desde, desde hace, llevar + time",
+   "source": "PCIC grammar A2 §15 temporales"
+  },
+  {
+   "id": "A2-v-shopping",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Shops, sizes, money and payment",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A2-v-health",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Illness, symptoms and remedies",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A2-f-advise",
+   "level": "A2",
+   "kind": "function",
+   "description": "Advise and warn (deberías, tienes que, ten cuidado)",
+   "source": "PCIC functions A2 §4"
+  },
+  {
+   "id": "A2-g-ser-estar-2",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Ser vs. estar with adjectives that change meaning (aburrido, listo)",
+   "source": "PCIC grammar A2 §12, B2 cambio de significado"
+  },
+  {
+   "id": "A2-v-character",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Personality and physical description",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A2-v-work",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Jobs and the workplace",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A2-g-relative-que",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Relative clauses with que and donde (indicative)",
+   "source": "PCIC grammar A1–A2 §15 relativas"
+  },
+  {
+   "id": "A2-g-future",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Simple future: regular and irregular forms",
+   "source": "PCIC grammar B1 futuro imperfecto"
+  },
+  {
+   "id": "A2-g-conditional",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Simple conditional for politeness and advice (me gustaría, podría, debería)",
+   "source": "PCIC grammar B1 condicional simple"
+  },
+  {
+   "id": "A2-f-social",
+   "level": "A2",
+   "kind": "function",
+   "description": "Apologise, congratulate, express good wishes and condolences, toast",
+   "source": "PCIC functions A2 §5"
+  },
+  {
+   "id": "A2-f-phone",
+   "level": "A2",
+   "kind": "function",
+   "description": "Telephone calls, messages, arranging to meet (quedar)",
+   "source": "PCIC functions A2 §6"
+  },
+  {
+   "id": "A2-v-chores",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Housework and household objects",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A2-g-impersonal-se",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Impersonal and passive se (se habla, se venden)",
+   "source": "PCIC grammar B1 se"
+  },
+  {
+   "id": "A2-f-preferences",
+   "level": "A2",
+   "kind": "function",
+   "description": "Ask about and express preferences",
+   "source": "PCIC functions A2 §3"
+  },
+  {
+   "id": "A2-g-gustar-like",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Verbs like gustar: interesar, molestar, importar, parecer, doler",
+   "source": "PCIC grammar A2 §7"
+  },
+  {
+   "id": "A2-f-opinion",
+   "level": "A2",
+   "kind": "function",
+   "description": "Give opinions; agree and disagree; express certainty and possibility",
+   "source": "PCIC functions A1–A2 §2"
+  },
+  {
+   "id": "A2-v-nature",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Nature, animals, environment",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A2-v-cooking",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Cooking, quantities and containers",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "A2-g-quantities",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Quantities: un kilo de, una docena de, demasiado, bastante",
+   "source": "PCIC grammar A2 §6"
+  },
+  {
+   "id": "B1-g-subj-regular",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Present subjunctive of regular verbs",
+   "source": "PCIC grammar B1 subjuntivo presente"
+  },
+  {
+   "id": "B1-g-subj-irregular",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Irregular present subjunctive forms",
+   "source": "PCIC grammar B1 subjuntivo presente"
+  },
+  {
+   "id": "B1-g-subj-wishes",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Subjunctive after desire: ojalá, quiero que, espero que",
+   "source": "PCIC grammar B1 desiderativas"
+  },
+  {
+   "id": "B1-f-desires",
+   "level": "B1",
+   "kind": "function",
+   "description": "Express desires and hopes",
+   "source": "PCIC functions B1 §3"
+  },
+  {
+   "id": "B1-g-subj-influence",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Subjunctive after influence verbs; negative imperative",
+   "source": "PCIC grammar B1 imperativo; B2 OD verbos de influencia"
+  },
+  {
+   "id": "B1-f-influence",
+   "level": "B1",
+   "kind": "function",
+   "description": "Request, advise, permit and forbid",
+   "source": "PCIC functions B1 §4"
+  },
+  {
+   "id": "B1-g-subj-emotion",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Subjunctive after emotion and feeling",
+   "source": "PCIC grammar B1 sustantivas OD emoción"
+  },
+  {
+   "id": "B1-f-feelings",
+   "level": "B1",
+   "kind": "function",
+   "description": "Express joy, sadness, fear, annoyance, surprise",
+   "source": "PCIC functions B1 §3"
+  },
+  {
+   "id": "B1-g-subj-impersonal",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Impersonal expressions: valuation + subjunctive vs. certainty + indicative",
+   "source": "PCIC grammar B1 impersonales de valoración"
+  },
+  {
+   "id": "B1-g-subj-doubt",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Doubt and denial + subjunctive; creer que vs. no creer que; quizás/tal vez/a lo mejor",
+   "source": "PCIC grammar B1 duda, dubitativas"
+  },
+  {
+   "id": "B1-f-certainty",
+   "level": "B1",
+   "kind": "function",
+   "description": "Express certainty, uncertainty and possibility",
+   "source": "PCIC functions B1 §2"
+  },
+  {
+   "id": "B1-g-subj-time",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Time clauses: cuando/hasta que/antes de que/después de que + subjunctive for the future",
+   "source": "PCIC grammar B1 temporales"
+  },
+  {
+   "id": "B1-g-subj-purpose",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Para + infinitive vs. para que + subjunctive",
+   "source": "PCIC grammar B1 finales"
+  },
+  {
+   "id": "B1-g-por-para-2",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Por vs. para: cause vs. purpose and further uses",
+   "source": "PCIC grammar B1 causalidad/finalidad"
+  },
+  {
+   "id": "B1-g-relative-mood",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Relative clauses: indicative (known) vs. subjunctive (unknown/nonexistent); que vs. quien",
+   "source": "PCIC grammar B1–B2 relativas"
+  },
+  {
+   "id": "B1-g-pluperfect",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Pluperfect indicative (había hecho)",
+   "source": "PCIC grammar B1 pluscuamperfecto"
+  },
+  {
+   "id": "B1-g-future-prob",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Future of probability (serán las ocho)",
+   "source": "PCIC grammar B1 futuro de probabilidad"
+  },
+  {
+   "id": "B1-g-conditional-2",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Conditional: irregulars, probability in the past, hypotheses",
+   "source": "PCIC grammar B1–B2 condicional"
+  },
+  {
+   "id": "B1-g-imp-subj-forms",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Imperfect subjunctive forms (-ra, -se)",
+   "source": "PCIC grammar B1 subjuntivo imperfecto"
+  },
+  {
+   "id": "B1-g-si-clauses",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Si + present (real) and si + imperfect subjunctive + conditional (hypothetical)",
+   "source": "PCIC grammar B1 condicionales; B2 hipótesis irreales"
+  },
+  {
+   "id": "B1-g-imp-subj-uses",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Imperfect subjunctive after past triggers; ojalá + imperfect subjunctive",
+   "source": "PCIC grammar B1 subjuntivo imperfecto"
+  },
+  {
+   "id": "B1-g-perf-subj",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Present perfect subjunctive",
+   "source": "PCIC grammar B1 subjuntivo perfecto"
+  },
+  {
+   "id": "B1-g-reported-1",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Reported statements and tense shifts",
+   "source": "PCIC grammar B1 discurso referido"
+  },
+  {
+   "id": "B1-g-reported-2",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Reported questions and commands",
+   "source": "PCIC grammar B1–B2 discurso referido"
+  },
+  {
+   "id": "B1-g-se-values",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Se: reciprocal, impersonal/passive, unplanned events",
+   "source": "PCIC grammar B1 se"
+  },
+  {
+   "id": "B1-g-se-accidental",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Se + indirect object for unplanned events",
+   "source": "PCIC grammar B2 se mitigador"
+  },
+  {
+   "id": "B1-g-connectors",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Connectors of contrast, addition, cause and consequence",
+   "source": "PCIC grammar B1 coordinadas, causales, consecutivas"
+  },
+  {
+   "id": "B1-f-structure",
+   "level": "B1",
+   "kind": "function",
+   "description": "Structure discourse",
+   "source": "PCIC functions B1 §6"
+  },
+  {
+   "id": "B1-g-adverbs-mente",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Adverbs in -mente; focalisers solo, sobre todo",
+   "source": "PCIC grammar B1 adverbio"
+  },
+  {
+   "id": "B1-g-superlative-isimo",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Absolute superlative -ísimo",
+   "source": "PCIC grammar B1 adjetivo"
+  },
+  {
+   "id": "B1-g-periphrases-2",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Periphrases soler, ponerse a, estar a punto de, llevar + gerundio",
+   "source": "PCIC grammar B1 perífrasis"
+  },
+  {
+   "id": "B1-g-que-cual",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Qué vs. cuál",
+   "source": "PCIC grammar B1 interrogativos"
+  },
+  {
+   "id": "B1-g-exclamations",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Exclamatives qué + noun + tan/más + adjective",
+   "source": "PCIC grammar B1 exclamativos"
+  },
+  {
+   "id": "B1-g-lo-que",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Neuter lo, lo que, lo + adjective; demonstratives referring to ideas",
+   "source": "PCIC grammar B1 demostrativo; B2 sustantivación"
+  },
+  {
+   "id": "B1-f-empathy",
+   "level": "B1",
+   "kind": "function",
+   "description": "Express empathy, regret, disappointment, relief",
+   "source": "PCIC functions B1 §3"
+  },
+  {
+   "id": "B1-f-argue",
+   "level": "B1",
+   "kind": "function",
+   "description": "Position for/against, counterargument, agree and disagree",
+   "source": "PCIC functions B1 §2"
+  },
+  {
+   "id": "B1-v-work-2",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Job applications, interviews, formal correspondence",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B1-v-media",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Media and news",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B1-g-passive-ser",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Passive voice ser + participle (recognition and use)",
+   "source": "PCIC grammar B2 pasivas perifrásticas"
+  },
+  {
+   "id": "B1-v-lifestyle",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Health, sport and lifestyle",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B1-f-narrate-2",
+   "level": "B1",
+   "kind": "function",
+   "description": "Narrate anecdotes with all past tenses",
+   "source": "PCIC functions B1 §1"
+  },
+  {
+   "id": "B1-v-tech",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Technology and the internet",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B1-v-relationships",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Relationships and personality",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B1-g-ser-estar-3",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Ser/estar with change of meaning (ser listo/estar listo)",
+   "source": "PCIC grammar B2 ser/estar"
+  },
+  {
+   "id": "B1-g-change-verbs",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Verbs of change: ponerse, volverse, hacerse, quedarse, convertirse en",
+   "source": "PCIC grammar B2 seudocopulativos"
+  },
+  {
+   "id": "B1-v-culture",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Festivals, traditions, culture",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B1-g-vosotros-voseo",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Recognising vosotros and voseo forms",
+   "source": "PCIC grammar A1 pronombres (vosotros); PCIC variedades"
+  },
+  {
+   "id": "B1-v-society",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Social and environmental problems",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B1-f-propose",
+   "level": "B1",
+   "kind": "function",
+   "description": "Propose solutions and hypotheses",
+   "source": "PCIC functions B1 §2"
+  },
+  {
+   "id": "B2-g-mood-overview",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Mood choice: information vs. non-assertion",
+   "source": "PCIC grammar B2 subjuntivo"
+  },
+  {
+   "id": "B2-g-concessive",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Concessives aunque + indicative/subjunctive, a pesar de que, por mucho que",
+   "source": "PCIC grammar B2 concesivas"
+  },
+  {
+   "id": "B2-g-time-2",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Time clauses en cuanto, tan pronto como, apenas, una vez que, mientras + mood",
+   "source": "PCIC grammar B2 temporales"
+  },
+  {
+   "id": "B2-g-pluperf-subj",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Pluperfect subjunctive; si hubiera + habría/hubiera",
+   "source": "PCIC grammar B1 pluscuamperfecto subj.; B2 hipótesis irreales pasado"
+  },
+  {
+   "id": "B2-g-compound-future",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Future perfect and conditional perfect; probability in the past",
+   "source": "PCIC grammar B2 futuro perfecto, condicional compuesto"
+  },
+  {
+   "id": "B2-g-conditional-links",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Conditional connectors other than si",
+   "source": "PCIC grammar B2 condicionales"
+  },
+  {
+   "id": "B2-g-como-si",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Como si + imperfect/pluperfect subjunctive; ni que",
+   "source": "PCIC grammar C1 modales como si"
+  },
+  {
+   "id": "B2-g-relatives",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Relative pronouns el que, el cual, lo cual, quien, cuyo; explicative clauses",
+   "source": "PCIC grammar B2 relativos"
+  },
+  {
+   "id": "B2-g-relatives-prep",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Preposition + article + que/cual; relative adverbs donde, como, cuando",
+   "source": "PCIC grammar B2 relativas"
+  },
+  {
+   "id": "B2-g-consecutio",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Sequence of tenses (consecutio temporum)",
+   "source": "PCIC grammar B2 correlación temporal"
+  },
+  {
+   "id": "B2-g-reported-3",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Reporting verbs and mood; full tense shifts",
+   "source": "PCIC grammar B2 discurso referido"
+  },
+  {
+   "id": "B2-g-passive",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Passive of action (ser), passive of result (estar), passive se",
+   "source": "PCIC grammar B2 pasiva"
+  },
+  {
+   "id": "B2-g-negated-opinion",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Negated verbs of opinion/communication + subjunctive; no es que",
+   "source": "PCIC grammar B2 sustantivas negadas"
+  },
+  {
+   "id": "B2-g-cause-consequence",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Causal (puesto que, dado que, debido a) and consecutive (de modo que, tan...que) clauses",
+   "source": "PCIC grammar B2 causales, consecutivas"
+  },
+  {
+   "id": "B2-g-periphrases-3",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Periphrases llegar a, acabar + gerundio, ir/andar + gerundio, llevar/tener + participio, deber de",
+   "source": "PCIC grammar B2 perífrasis"
+  },
+  {
+   "id": "B2-g-nominalization",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Lo + adjective (+ que); el hecho de que + subjunctive",
+   "source": "PCIC grammar B2 sustantivación"
+  },
+  {
+   "id": "B2-g-pronominal",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Pronominal verbs with meaning change; dative of interest",
+   "source": "PCIC grammar B2 se diferenciador"
+  },
+  {
+   "id": "B2-g-markers",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Discourse markers of contrast, reformulation, conclusion",
+   "source": "PCIC grammar B2 adverbios conjuntivos"
+  },
+  {
+   "id": "B2-f-structure",
+   "level": "B2",
+   "kind": "function",
+   "description": "Structure extended discourse",
+   "source": "PCIC functions B2 §6"
+  },
+  {
+   "id": "B2-g-verb-prep",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Verbs with governed prepositions",
+   "source": "PCIC grammar B2 complemento de régimen"
+  },
+  {
+   "id": "B2-g-ser-estar-4",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Advanced ser/estar: ser for events, estar de, meaning changes",
+   "source": "PCIC grammar B2 ser/estar"
+  },
+  {
+   "id": "B2-g-word-formation",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Word formation: prefixes, suffixes, diminutives, augmentatives",
+   "source": "PCIC grammar B2 sustantivo/adjetivo"
+  },
+  {
+   "id": "B2-f-debate",
+   "level": "B2",
+   "kind": "function",
+   "description": "Debate: concede, counter-argue, hedge",
+   "source": "PCIC functions B2 §2"
+  },
+  {
+   "id": "B2-f-formal-writing",
+   "level": "B2",
+   "kind": "function",
+   "description": "Formal register in writing",
+   "source": "PCIC functions B2 §5–6"
+  },
+  {
+   "id": "B2-v-economy",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Work, business and the economy",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B2-v-science",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Science and technology",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B2-g-hypothesis",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Hypothesis expressions: puede que, es posible que, a lo mejor, igual",
+   "source": "PCIC grammar B2 dubitativas"
+  },
+  {
+   "id": "B2-v-politics",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Politics and society",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B2-v-idioms-1",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Common idioms and colloquial expressions",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B2-f-regret",
+   "level": "B2",
+   "kind": "function",
+   "description": "Express regret, reproach and resignation",
+   "source": "PCIC functions B2 §3"
+  },
+  {
+   "id": "B2-v-medicine",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Medicine and health care",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B2-g-accents",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Written accent rules, including diacritic accents",
+   "source": "PCIC grammar ortografía B2"
+  },
+  {
+   "id": "B2-v-arts",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Arts, literature and cinema",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B2-g-quantifiers",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Quantifiers cualquier(a), cada, ambos, demás; mitad, doble, porcentajes",
+   "source": "PCIC grammar B2 cuantificadores"
+  },
+  {
+   "id": "B2-g-imperative-nuance",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Softening/strengthening orders; que + subjunctive; lexicalised imperatives",
+   "source": "PCIC grammar B2 imperativo"
+  },
+  {
+   "id": "B2-v-statistics",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Statistics, trends and graphs",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "B2-v-variation",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Regional variation in vocabulary and voseo",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-g-mood-meaning",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Verbs alternating mood with a change of meaning",
+   "source": "PCIC grammar C1 sustantivas"
+  },
+  {
+   "id": "C1-g-concessive-2",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Advanced concessives: por más que, si bien, aun + gerundio, así, y eso que",
+   "source": "PCIC grammar C1 concesivas"
+  },
+  {
+   "id": "C1-g-conditional-3",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Advanced conditionals: de haber + participio, como + subjuntivo, a no ser que",
+   "source": "PCIC grammar C1 condicionales"
+  },
+  {
+   "id": "C1-g-relatives-2",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Advanced relatives: cuyo, el cual after prepositions, free relatives, indefinite relatives",
+   "source": "PCIC grammar C1 relativas"
+  },
+  {
+   "id": "C1-g-purpose-2",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Advanced final clauses: a fin de (que), con el fin de, no sea que",
+   "source": "PCIC grammar C1 finales"
+  },
+  {
+   "id": "C1-g-consecutive-2",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Intensive consecutives; de ahí que + subjunctive",
+   "source": "PCIC grammar C1 consecutivas"
+  },
+  {
+   "id": "C1-g-time-3",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Advanced temporal clauses: a medida que, conforme, según, tras, nada más + infinitivo",
+   "source": "PCIC grammar C1 temporales"
+  },
+  {
+   "id": "C1-g-gerund-participle",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Adverbial gerunds; absolute participle constructions",
+   "source": "PCIC grammar C1 formas no personales"
+  },
+  {
+   "id": "C1-g-periphrases-4",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Periphrases echarse a, romper a, acabar por, venir + gerundio, dar por",
+   "source": "PCIC grammar C1 perífrasis"
+  },
+  {
+   "id": "C1-g-tense-style",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Stylistic tense uses: historical present, rumour conditional, concessive future",
+   "source": "PCIC grammar C1 tiempos"
+  },
+  {
+   "id": "C1-g-pronouns-adv",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Ello; clitic doubling; leísmo/laísmo/loísmo recognition",
+   "source": "PCIC grammar C1 pronombres"
+  },
+  {
+   "id": "C1-g-emphasis",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Cleft sentences and word order for focus",
+   "source": "PCIC grammar C1 oración simple"
+  },
+  {
+   "id": "C1-g-markers-2",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Advanced discourse markers",
+   "source": "PCIC grammar C1 adverbios conjuntivos"
+  },
+  {
+   "id": "C1-f-academic",
+   "level": "C1",
+   "kind": "function",
+   "description": "Academic register, nominalisation, hedging",
+   "source": "PCIC functions C1"
+  },
+  {
+   "id": "C1-v-colloquial",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Colloquial and regional expressions",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-v-idioms-2",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Idioms and proverbs",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-v-collocations",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Collocations with hacer, dar, tomar, poner, echar, llevar",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-v-synonyms",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Near-synonyms and precise vocabulary",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-v-false-friends",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "False friends and anglicisms",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-g-verb-prep-2",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Advanced verbs with governed prepositions",
+   "source": "PCIC grammar C1 complemento de régimen"
+  },
+  {
+   "id": "C1-g-mood-special",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Mood after superlatives, el único que, lo que + mood",
+   "source": "PCIC grammar C1 relativas modo"
+  },
+  {
+   "id": "C1-g-reported-4",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Nuanced reporting verbs; summarising speech",
+   "source": "PCIC grammar C1 discurso referido"
+  },
+  {
+   "id": "C1-f-persuade",
+   "level": "C1",
+   "kind": "function",
+   "description": "Persuade, use irony and rhetorical questions",
+   "source": "PCIC functions C1"
+  },
+  {
+   "id": "C1-v-business",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Business, negotiation and meetings",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-v-law",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Law, rights and institutions",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-v-abstract",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Abstract and scientific vocabulary",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-g-literary",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Literary forms: future subjunctive recognition, pretérito anterior recognition",
+   "source": "PCIC grammar C1 tiempos"
+  },
+  {
+   "id": "C1-v-humour",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Humour, wordplay and double meanings",
+   "source": "Davies frequency / PCIC nociones"
+  },
+  {
+   "id": "C1-g-orthography",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Regional pronunciation; current RAE spelling norms (solo, guion)",
+   "source": "PCIC grammar C1 ortografía y pronunciación"
+  },
+  {
+   "id": "C1-f-politeness",
+   "level": "C1",
+   "kind": "function",
+   "description": "Mitigation and politeness strategies",
+   "source": "PCIC functions C1"
+  }
+ ]
+}

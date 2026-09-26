@@ -1,0 +1,1412 @@
+{
+ "levels": [
+  {
+   "id": "A1",
+   "title": "A1 · Beginner",
+   "lessons": [
+    {
+     "id": "a1-01",
+     "title": "Sounds and the alphabet",
+     "objective": "Pronounce Spanish vowels and consonants, spell words aloud, and read written accents.",
+     "covers": [
+      "A1-pron"
+     ]
+    },
+    {
+     "id": "a1-02",
+     "title": "Hello and goodbye",
+     "objective": "Greet people and say goodbye at any time of day, and ask how someone is.",
+     "covers": [
+      "A1-f-greet"
+     ]
+    },
+    {
+     "id": "a1-03",
+     "title": "What's your name?",
+     "objective": "Introduce yourself and others, and choose between tú and usted.",
+     "covers": [
+      "A1-f-introduce",
+      "A1-g-tu-usted"
+     ]
+    },
+    {
+     "id": "a1-04",
+     "title": "Ser and where you're from",
+     "objective": "Use subject pronouns and ser to say who you are, your nationality, and where you are from.",
+     "covers": [
+      "A1-g-subject-pron",
+      "A1-g-ser",
+      "A1-v-countries"
+     ]
+    },
+    {
+     "id": "a1-05",
+     "title": "Nouns and articles",
+     "objective": "Use masculine/feminine and singular/plural nouns with el, la, los, las, un, una.",
+     "covers": [
+      "A1-g-gender-number",
+      "A1-g-articles"
+     ]
+    },
+    {
+     "id": "a1-06",
+     "title": "Numbers 0–20 and your age",
+     "objective": "Count to twenty and say how old you and others are with tener.",
+     "covers": [
+      "A1-g-numbers-20",
+      "A1-g-tener"
+     ]
+    },
+    {
+     "id": "a1-07",
+     "title": "Describing people",
+     "objective": "Describe people and things with adjectives that agree in gender and number.",
+     "covers": [
+      "A1-g-adj-agreement",
+      "A1-f-describe-basic"
+     ]
+    },
+    {
+     "id": "a1-08",
+     "title": "Family and possessives",
+     "objective": "Talk about your family using mi, tu, su, nuestro.",
+     "covers": [
+      "A1-g-possessive-atonic",
+      "A1-v-family"
+     ]
+    },
+    {
+     "id": "a1-09",
+     "title": "Regular -ar verbs",
+     "objective": "Conjugate regular -ar verbs in the present to talk about what you do.",
+     "covers": [
+      "A1-g-present-ar"
+     ]
+    },
+    {
+     "id": "a1-10",
+     "title": "Asking questions and saying no",
+     "objective": "Ask yes/no and question-word questions and make sentences negative.",
+     "covers": [
+      "A1-g-questions",
+      "A1-g-negation",
+      "A1-f-ask-info"
+     ]
+    },
+    {
+     "id": "a1-11",
+     "title": "Regular -er and -ir verbs",
+     "objective": "Conjugate regular -er and -ir verbs in the present.",
+     "covers": [
+      "A1-g-present-er-ir"
+     ]
+    },
+    {
+     "id": "a1-12",
+     "title": "Estar: where and how",
+     "objective": "Use estar for location and temporary states, and start telling ser from estar.",
+     "covers": [
+      "A1-g-estar",
+      "A1-g-ser-estar-1"
+     ]
+    },
+    {
+     "id": "a1-13",
+     "title": "Around town with hay",
+     "objective": "Say what there is in a place with hay and talk about places in town.",
+     "covers": [
+      "A1-g-hay",
+      "A1-g-contractions",
+      "A1-v-town",
+      "A1-g-place-adverbs"
+     ]
+    },
+    {
+     "id": "a1-14",
+     "title": "Big numbers and prices",
+     "objective": "Use numbers up to a million and ask and answer how much things cost.",
+     "covers": [
+      "A1-g-numbers-big",
+      "A1-f-prices"
+     ]
+    },
+    {
+     "id": "a1-15",
+     "title": "Time and days of the week",
+     "objective": "Tell the time and talk about days of the week and daily schedules.",
+     "covers": [
+      "A1-v-time-days"
+     ]
+    },
+    {
+     "id": "a1-16",
+     "title": "Daily routine",
+     "objective": "Describe your daily routine with reflexive verbs.",
+     "covers": [
+      "A1-g-reflexive"
+     ]
+    },
+    {
+     "id": "a1-17",
+     "title": "Stem-changing verbs",
+     "objective": "Use present-tense stem-changing verbs (e→ie, o→ue, e→i).",
+     "covers": [
+      "A1-g-stem-change"
+     ]
+    },
+    {
+     "id": "a1-18",
+     "title": "Irregular verbs and ir",
+     "objective": "Use common irregular present verbs (ir, hacer, tener, venir, salir, saber, conocer).",
+     "covers": [
+      "A1-g-irregular-present",
+      "A1-g-saber-conocer"
+     ]
+    },
+    {
+     "id": "a1-19",
+     "title": "Likes and dislikes",
+     "objective": "Say what you and others like with gustar and encantar, and agree with también/tampoco.",
+     "covers": [
+      "A1-g-gustar",
+      "A1-f-likes",
+      "A1-g-tambien-tampoco"
+     ]
+    },
+    {
+     "id": "a1-20",
+     "title": "At the restaurant",
+     "objective": "Order food and drinks and talk about what you eat.",
+     "covers": [
+      "A1-v-food",
+      "A1-f-request"
+     ]
+    },
+    {
+     "id": "a1-21",
+     "title": "Shopping for clothes",
+     "objective": "Buy clothes, name colours, and point things out with este, ese, aquel.",
+     "covers": [
+      "A1-g-demonstratives",
+      "A1-v-clothes-colors"
+     ]
+    },
+    {
+     "id": "a1-22",
+     "title": "Home and prepositions of place",
+     "objective": "Describe your home and say where things are.",
+     "covers": [
+      "A1-v-house",
+      "A1-g-prep-place"
+     ]
+    },
+    {
+     "id": "a1-23",
+     "title": "Weather, months and dates",
+     "objective": "Talk about the weather, seasons, months and dates.",
+     "covers": [
+      "A1-v-weather",
+      "A1-g-weather-verbs"
+     ]
+    },
+    {
+     "id": "a1-24",
+     "title": "Plans with ir a",
+     "objective": "Talk about future plans with ir a + infinitive and time expressions.",
+     "covers": [
+      "A1-g-ir-a",
+      "A1-f-plans"
+     ]
+    },
+    {
+     "id": "a1-25",
+     "title": "Can, must and invitations",
+     "objective": "Express ability, obligation, and make, accept or turn down invitations.",
+     "covers": [
+      "A1-g-modals",
+      "A1-f-invite"
+     ]
+    },
+    {
+     "id": "a1-26",
+     "title": "Direct object pronouns",
+     "objective": "Replace direct objects with lo, la, los, las, me, te and use personal a.",
+     "covers": [
+      "A1-g-do-pronouns"
+     ]
+    },
+    {
+     "id": "a1-27",
+     "title": "What's happening now",
+     "objective": "Describe actions in progress with estar + gerund.",
+     "covers": [
+      "A1-g-progressive"
+     ]
+    },
+    {
+     "id": "a1-28",
+     "title": "Body, health and feelings",
+     "objective": "Say how you feel, what hurts, and describe basic emotions.",
+     "covers": [
+      "A1-v-body",
+      "A1-f-feelings"
+     ]
+    },
+    {
+     "id": "a1-29",
+     "title": "How often, and connecting ideas",
+     "objective": "Say how often you do things and join ideas with y, pero, o, porque, cuando.",
+     "covers": [
+      "A1-g-frequency",
+      "A1-g-connectors-basic"
+     ]
+    },
+    {
+     "id": "a1-30",
+     "title": "Instructions and directions",
+     "objective": "Give instructions and directions with the tú imperative.",
+     "covers": [
+      "A1-g-imperative-tu",
+      "A1-f-directions"
+     ]
+    }
+   ],
+   "test": {
+    "id": "a1-test",
+    "title": "A1 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   }
+  },
+  {
+   "id": "A2",
+   "title": "A2 · Elementary",
+   "lessons": [
+    {
+     "id": "a2-01",
+     "title": "The preterite: -ar verbs",
+     "objective": "Talk about completed past actions with regular -ar verbs in the preterite.",
+     "covers": [
+      "A2-g-pret-ar"
+     ]
+    },
+    {
+     "id": "a2-02",
+     "title": "The preterite: -er and -ir verbs",
+     "objective": "Use regular -er/-ir verbs in the preterite, including spelling changes.",
+     "covers": [
+      "A2-g-pret-er-ir"
+     ]
+    },
+    {
+     "id": "a2-03",
+     "title": "Irregular preterites",
+     "objective": "Use the most common irregular preterites (ser, ir, hacer, tener, estar, poder, decir...).",
+     "covers": [
+      "A2-g-pret-irregular"
+     ]
+    },
+    {
+     "id": "a2-04",
+     "title": "Telling what happened",
+     "objective": "Use stem-changing preterites and sequence a story with primero, luego, después.",
+     "covers": [
+      "A2-g-pret-stem",
+      "A2-f-narrate"
+     ]
+    },
+    {
+     "id": "a2-05",
+     "title": "The imperfect: how things used to be",
+     "objective": "Form the imperfect and talk about past habits.",
+     "covers": [
+      "A2-g-imperfect-forms"
+     ]
+    },
+    {
+     "id": "a2-06",
+     "title": "Describing the past",
+     "objective": "Use the imperfect to describe people, places and situations in the past.",
+     "covers": [
+      "A2-g-imperfect-desc",
+      "A2-f-describe"
+     ]
+    },
+    {
+     "id": "a2-07",
+     "title": "Preterite or imperfect? (1)",
+     "objective": "Choose between the preterite and the imperfect for events vs. background.",
+     "covers": [
+      "A2-g-pret-imp-1"
+     ]
+    },
+    {
+     "id": "a2-08",
+     "title": "Preterite or imperfect? (2)",
+     "objective": "Narrate complete stories mixing the preterite and imperfect.",
+     "covers": [
+      "A2-g-pret-imp-2"
+     ]
+    },
+    {
+     "id": "a2-09",
+     "title": "The present perfect",
+     "objective": "Use the present perfect with ya, todavía no, alguna vez, nunca, and irregular participles.",
+     "covers": [
+      "A2-g-perfect"
+     ]
+    },
+    {
+     "id": "a2-10",
+     "title": "Indirect object pronouns",
+     "objective": "Use le and les with verbs like dar, decir and mandar, including doubling.",
+     "covers": [
+      "A2-g-io-pronouns"
+     ]
+    },
+    {
+     "id": "a2-11",
+     "title": "Double object pronouns",
+     "objective": "Combine indirect and direct object pronouns (se lo, me la) in the right position.",
+     "covers": [
+      "A2-g-double-pronouns"
+     ]
+    },
+    {
+     "id": "a2-12",
+     "title": "Comparing things",
+     "objective": "Compare people and things and use the superlative.",
+     "covers": [
+      "A2-g-comparisons"
+     ]
+    },
+    {
+     "id": "a2-13",
+     "title": "Mine, yours, and ordinal numbers",
+     "objective": "Use stressed possessives (mío, tuyo) and ordinal numbers.",
+     "covers": [
+      "A2-g-possessive-tonic",
+      "A2-g-ordinals"
+     ]
+    },
+    {
+     "id": "a2-14",
+     "title": "Something, nothing, someone, no one",
+     "objective": "Use indefinite and negative words and double negation.",
+     "covers": [
+      "A2-g-indefinites"
+     ]
+    },
+    {
+     "id": "a2-15",
+     "title": "Travel and transport",
+     "objective": "Buy tickets, book a hotel and solve travel problems.",
+     "covers": [
+      "A2-v-travel",
+      "A2-f-complain"
+     ]
+    },
+    {
+     "id": "a2-16",
+     "title": "Formal and irregular commands",
+     "objective": "Give commands with usted/ustedes and irregular tú commands, with pronouns attached.",
+     "covers": [
+      "A2-g-imperative-2"
+     ]
+    },
+    {
+     "id": "a2-17",
+     "title": "Por and para",
+     "objective": "Choose between por and para in their most common uses.",
+     "covers": [
+      "A2-g-por-para"
+     ]
+    },
+    {
+     "id": "a2-18",
+     "title": "Starting, stopping and repeating",
+     "objective": "Use verb phrases like acabar de, empezar a, volver a, dejar de and seguir + gerund.",
+     "covers": [
+      "A2-g-periphrases"
+     ]
+    },
+    {
+     "id": "a2-19",
+     "title": "How long? Hace, desde, llevar",
+     "objective": "Say how long something has been happening and how long ago something happened.",
+     "covers": [
+      "A2-g-duration"
+     ]
+    },
+    {
+     "id": "a2-20",
+     "title": "Shopping and money",
+     "objective": "Shop, ask about sizes, return things and handle money.",
+     "covers": [
+      "A2-v-shopping"
+     ]
+    },
+    {
+     "id": "a2-21",
+     "title": "At the doctor",
+     "objective": "Describe symptoms and give and follow health advice.",
+     "covers": [
+      "A2-v-health",
+      "A2-f-advise"
+     ]
+    },
+    {
+     "id": "a2-22",
+     "title": "Character and appearance",
+     "objective": "Describe character and appearance, and adjectives that change with ser and estar.",
+     "covers": [
+      "A2-g-ser-estar-2",
+      "A2-v-character"
+     ]
+    },
+    {
+     "id": "a2-23",
+     "title": "Work and professions",
+     "objective": "Talk about jobs and workplaces using que and donde relative clauses.",
+     "covers": [
+      "A2-v-work",
+      "A2-g-relative-que"
+     ]
+    },
+    {
+     "id": "a2-24",
+     "title": "The future tense",
+     "objective": "Make predictions and talk about the future with the simple future.",
+     "covers": [
+      "A2-g-future"
+     ]
+    },
+    {
+     "id": "a2-25",
+     "title": "Would: the conditional",
+     "objective": "Be polite, give advice and express wishes with the conditional.",
+     "covers": [
+      "A2-g-conditional"
+     ]
+    },
+    {
+     "id": "a2-26",
+     "title": "Social occasions",
+     "objective": "Apologise, congratulate, give good wishes and condolences, and make a toast.",
+     "covers": [
+      "A2-f-social"
+     ]
+    },
+    {
+     "id": "a2-27",
+     "title": "On the phone and making plans",
+     "objective": "Handle phone calls, leave messages and arrange to meet.",
+     "covers": [
+      "A2-f-phone"
+     ]
+    },
+    {
+     "id": "a2-28",
+     "title": "Housework and impersonal se",
+     "objective": "Talk about chores and general rules with impersonal se.",
+     "covers": [
+      "A2-v-chores",
+      "A2-g-impersonal-se"
+     ]
+    },
+    {
+     "id": "a2-29",
+     "title": "Preferences and feelings",
+     "objective": "Express preferences and how things make you feel (preferir, interesar, molestar).",
+     "covers": [
+      "A2-f-preferences",
+      "A2-g-gustar-like"
+     ]
+    },
+    {
+     "id": "a2-30",
+     "title": "Giving opinions",
+     "objective": "Give opinions and agree or disagree (creo que, me parece que, estoy de acuerdo).",
+     "covers": [
+      "A2-f-opinion"
+     ]
+    },
+    {
+     "id": "a2-31",
+     "title": "Nature and the environment",
+     "objective": "Talk about the countryside, the city, animals and the environment.",
+     "covers": [
+      "A2-v-nature"
+     ]
+    },
+    {
+     "id": "a2-32",
+     "title": "Cooking and recipes",
+     "objective": "Follow and give recipes with quantities and instructions.",
+     "covers": [
+      "A2-v-cooking",
+      "A2-g-quantities"
+     ]
+    }
+   ],
+   "test": {
+    "id": "a2-test",
+    "title": "A2 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   }
+  },
+  {
+   "id": "B1",
+   "title": "B1 · Intermediate",
+   "lessons": [
+    {
+     "id": "b1-01",
+     "title": "The present subjunctive: regular forms",
+     "objective": "Form the present subjunctive of regular verbs.",
+     "covers": [
+      "B1-g-subj-regular"
+     ]
+    },
+    {
+     "id": "b1-02",
+     "title": "The present subjunctive: irregular forms",
+     "objective": "Form the irregular present subjunctive (ser, ir, estar, dar, saber, haber, stem changes).",
+     "covers": [
+      "B1-g-subj-irregular"
+     ]
+    },
+    {
+     "id": "b1-03",
+     "title": "Hopes and wishes",
+     "objective": "Express wishes with ojalá, querer que and esperar que.",
+     "covers": [
+      "B1-g-subj-wishes",
+      "B1-f-desires"
+     ]
+    },
+    {
+     "id": "b1-04",
+     "title": "Asking, advising and forbidding",
+     "objective": "Influence others with recomendar que, pedir que, prohibir que and negative commands.",
+     "covers": [
+      "B1-g-subj-influence",
+      "B1-f-influence"
+     ]
+    },
+    {
+     "id": "b1-05",
+     "title": "Feelings about things",
+     "objective": "React emotionally with me alegra que, me molesta que, tengo miedo de que.",
+     "covers": [
+      "B1-g-subj-emotion",
+      "B1-f-feelings"
+     ]
+    },
+    {
+     "id": "b1-06",
+     "title": "Judging things: es importante que",
+     "objective": "Make value judgments with es importante que + subjunctive vs. es verdad que + indicative.",
+     "covers": [
+      "B1-g-subj-impersonal"
+     ]
+    },
+    {
+     "id": "b1-07",
+     "title": "Doubt and certainty",
+     "objective": "Express doubt and certainty (dudo que, no creo que, quizás, a lo mejor).",
+     "covers": [
+      "B1-g-subj-doubt",
+      "B1-f-certainty"
+     ]
+    },
+    {
+     "id": "b1-08",
+     "title": "When it happens: time clauses",
+     "objective": "Use cuando, hasta que, antes de que, después de que with the right mood.",
+     "covers": [
+      "B1-g-subj-time"
+     ]
+    },
+    {
+     "id": "b1-09",
+     "title": "Purpose: para que",
+     "objective": "Express purpose with para + infinitive and para que + subjunctive; por vs. para again.",
+     "covers": [
+      "B1-g-subj-purpose",
+      "B1-g-por-para-2"
+     ]
+    },
+    {
+     "id": "b1-10",
+     "title": "Relative clauses and mood",
+     "objective": "Describe known and unknown things with relative clauses (busco a alguien que hable...).",
+     "covers": [
+      "B1-g-relative-mood"
+     ]
+    },
+    {
+     "id": "b1-11",
+     "title": "The pluperfect",
+     "objective": "Say what had happened before another past event.",
+     "covers": [
+      "B1-g-pluperfect"
+     ]
+    },
+    {
+     "id": "b1-12",
+     "title": "Guessing: future of probability",
+     "objective": "Make guesses about the present with the future tense.",
+     "covers": [
+      "B1-g-future-prob"
+     ]
+    },
+    {
+     "id": "b1-13",
+     "title": "The conditional in depth",
+     "objective": "Use the conditional for past probability, hypotheses and advice.",
+     "covers": [
+      "B1-g-conditional-2"
+     ]
+    },
+    {
+     "id": "b1-14",
+     "title": "The imperfect subjunctive",
+     "objective": "Form the imperfect subjunctive (-ra, and recognise -se).",
+     "covers": [
+      "B1-g-imp-subj-forms"
+     ]
+    },
+    {
+     "id": "b1-15",
+     "title": "If: real and hypothetical conditions",
+     "objective": "Use si-clauses for real and hypothetical conditions.",
+     "covers": [
+      "B1-g-si-clauses"
+     ]
+    },
+    {
+     "id": "b1-16",
+     "title": "Wishes and requests in the past",
+     "objective": "Use the imperfect subjunctive after past triggers (quería que, me pidió que).",
+     "covers": [
+      "B1-g-imp-subj-uses"
+     ]
+    },
+    {
+     "id": "b1-17",
+     "title": "The present perfect subjunctive",
+     "objective": "Use the present perfect subjunctive (espero que hayas llegado bien).",
+     "covers": [
+      "B1-g-perf-subj"
+     ]
+    },
+    {
+     "id": "b1-18",
+     "title": "Reported speech: statements",
+     "objective": "Report what someone said, shifting tenses correctly.",
+     "covers": [
+      "B1-g-reported-1"
+     ]
+    },
+    {
+     "id": "b1-19",
+     "title": "Reported speech: questions and commands",
+     "objective": "Report questions (me preguntó si...) and commands (me dijo que viniera).",
+     "covers": [
+      "B1-g-reported-2"
+     ]
+    },
+    {
+     "id": "b1-20",
+     "title": "The many uses of se",
+     "objective": "Use reciprocal se, passive/impersonal se and accidental se (se me olvidó).",
+     "covers": [
+      "B1-g-se-values",
+      "B1-g-se-accidental"
+     ]
+    },
+    {
+     "id": "b1-21",
+     "title": "Linking ideas",
+     "objective": "Connect ideas with sin embargo, aunque, además, por lo tanto, así que, ya que, como.",
+     "covers": [
+      "B1-g-connectors",
+      "B1-f-structure"
+     ]
+    },
+    {
+     "id": "b1-22",
+     "title": "Adverbs and intensifiers",
+     "objective": "Form adverbs with -mente and use -ísimo, solo and sobre todo.",
+     "covers": [
+      "B1-g-adverbs-mente",
+      "B1-g-superlative-isimo"
+     ]
+    },
+    {
+     "id": "b1-23",
+     "title": "Habits and processes",
+     "objective": "Use soler, ponerse a, estar a punto de, llevar + gerund.",
+     "covers": [
+      "B1-g-periphrases-2"
+     ]
+    },
+    {
+     "id": "b1-24",
+     "title": "Qué or cuál? Exclamations",
+     "objective": "Choose qué vs. cuál and make exclamations (¡Qué día tan bonito!).",
+     "covers": [
+      "B1-g-que-cual",
+      "B1-g-exclamations"
+     ]
+    },
+    {
+     "id": "b1-25",
+     "title": "Lo and lo que",
+     "objective": "Use neuter lo and lo que to talk about ideas.",
+     "covers": [
+      "B1-g-lo-que"
+     ]
+    },
+    {
+     "id": "b1-26",
+     "title": "Empathy, regret and reactions",
+     "objective": "Show empathy, express regret and react to news.",
+     "covers": [
+      "B1-f-empathy"
+     ]
+    },
+    {
+     "id": "b1-27",
+     "title": "Arguing your point",
+     "objective": "Structure an argument and take a position for or against.",
+     "covers": [
+      "B1-f-argue"
+     ]
+    },
+    {
+     "id": "b1-28",
+     "title": "The world of work",
+     "objective": "Handle job interviews and write formal emails.",
+     "covers": [
+      "B1-v-work-2"
+     ]
+    },
+    {
+     "id": "b1-29",
+     "title": "News and the passive voice",
+     "objective": "Understand news headlines and the passive with ser + participle.",
+     "covers": [
+      "B1-v-media",
+      "B1-g-passive-ser"
+     ]
+    },
+    {
+     "id": "b1-30",
+     "title": "Healthy living",
+     "objective": "Talk about lifestyle and health using subjunctive advice.",
+     "covers": [
+      "B1-v-lifestyle"
+     ]
+    },
+    {
+     "id": "b1-31",
+     "title": "Telling anecdotes",
+     "objective": "Tell a full story using all past tenses together.",
+     "covers": [
+      "B1-f-narrate-2"
+     ]
+    },
+    {
+     "id": "b1-32",
+     "title": "Technology and the internet",
+     "objective": "Talk about devices, the internet and social media.",
+     "covers": [
+      "B1-v-tech"
+     ]
+    },
+    {
+     "id": "b1-33",
+     "title": "Relationships and personality",
+     "objective": "Talk about relationships and adjectives that change meaning with ser/estar.",
+     "covers": [
+      "B1-v-relationships",
+      "B1-g-ser-estar-3"
+     ]
+    },
+    {
+     "id": "b1-34",
+     "title": "Verbs of change",
+     "objective": "Express change with ponerse, volverse, hacerse, quedarse and convertirse en.",
+     "covers": [
+      "B1-g-change-verbs"
+     ]
+    },
+    {
+     "id": "b1-35",
+     "title": "Festivals and regional Spanish",
+     "objective": "Learn about Latin American festivals and recognise vosotros and voseo.",
+     "covers": [
+      "B1-v-culture",
+      "B1-g-vosotros-voseo"
+     ]
+    },
+    {
+     "id": "b1-36",
+     "title": "Society and the environment",
+     "objective": "Discuss problems and propose solutions.",
+     "covers": [
+      "B1-v-society",
+      "B1-f-propose"
+     ]
+    }
+   ],
+   "test": {
+    "id": "b1-test",
+    "title": "B1 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   }
+  },
+  {
+   "id": "B2",
+   "title": "B2 · Upper intermediate",
+   "lessons": [
+    {
+     "id": "b2-01",
+     "title": "Indicative or subjunctive? The big picture",
+     "objective": "Decide between indicative and subjunctive across all the main triggers.",
+     "covers": [
+      "B2-g-mood-overview"
+     ]
+    },
+    {
+     "id": "b2-02",
+     "title": "Although: concessive clauses",
+     "objective": "Use aunque, a pesar de (que), por mucho que with indicative or subjunctive.",
+     "covers": [
+      "B2-g-concessive"
+     ]
+    },
+    {
+     "id": "b2-03",
+     "title": "As soon as: advanced time clauses",
+     "objective": "Use en cuanto, tan pronto como, apenas, una vez que, mientras.",
+     "covers": [
+      "B2-g-time-2"
+     ]
+    },
+    {
+     "id": "b2-04",
+     "title": "If only I had known: past unreal",
+     "objective": "Use the pluperfect subjunctive for past unreal conditions and regrets.",
+     "covers": [
+      "B2-g-pluperf-subj"
+     ]
+    },
+    {
+     "id": "b2-05",
+     "title": "Will have, would have",
+     "objective": "Use the future perfect and conditional perfect, including for probability.",
+     "covers": [
+      "B2-g-compound-future"
+     ]
+    },
+    {
+     "id": "b2-06",
+     "title": "Provided that, unless, in case",
+     "objective": "Express conditions with con tal de que, a menos que, siempre que, en caso de que, de + infinitive.",
+     "covers": [
+      "B2-g-conditional-links"
+     ]
+    },
+    {
+     "id": "b2-07",
+     "title": "As if",
+     "objective": "Use como si with the imperfect and pluperfect subjunctive.",
+     "covers": [
+      "B2-g-como-si"
+     ]
+    },
+    {
+     "id": "b2-08",
+     "title": "Relative pronouns: el cual, cuyo",
+     "objective": "Use el que, el cual, lo cual, quien and cuyo; restrictive vs. non-restrictive clauses.",
+     "covers": [
+      "B2-g-relatives"
+     ]
+    },
+    {
+     "id": "b2-09",
+     "title": "Relative clauses with prepositions",
+     "objective": "Build relative clauses with prepositions (con la que, en el que).",
+     "covers": [
+      "B2-g-relatives-prep"
+     ]
+    },
+    {
+     "id": "b2-10",
+     "title": "Sequence of tenses",
+     "objective": "Match tenses correctly between main and subordinate clauses.",
+     "covers": [
+      "B2-g-consecutio"
+     ]
+    },
+    {
+     "id": "b2-11",
+     "title": "Reporting verbs",
+     "objective": "Report speech with verbs like asegurar, negar, sugerir, advertir.",
+     "covers": [
+      "B2-g-reported-3"
+     ]
+    },
+    {
+     "id": "b2-12",
+     "title": "The passive voice",
+     "objective": "Use the passive with ser, estar + participle, and passive se.",
+     "covers": [
+      "B2-g-passive"
+     ]
+    },
+    {
+     "id": "b2-13",
+     "title": "It's not that...",
+     "objective": "Use subjunctive after negated opinion and communication verbs, and no es que.",
+     "covers": [
+      "B2-g-negated-opinion"
+     ]
+    },
+    {
+     "id": "b2-14",
+     "title": "Cause and consequence",
+     "objective": "Express cause and consequence (puesto que, dado que, de modo que, tan... que).",
+     "covers": [
+      "B2-g-cause-consequence"
+     ]
+    },
+    {
+     "id": "b2-15",
+     "title": "More verb phrases",
+     "objective": "Use llegar a, acabar + gerund, ir + gerund, andar + gerund, llevar/tener + participle, deber de.",
+     "covers": [
+      "B2-g-periphrases-3"
+     ]
+    },
+    {
+     "id": "b2-16",
+     "title": "The good thing is...: nominalisation",
+     "objective": "Use lo + adjective, lo + adjective + que, and el hecho de que.",
+     "covers": [
+      "B2-g-nominalization"
+     ]
+    },
+    {
+     "id": "b2-17",
+     "title": "Verbs that change with se",
+     "objective": "Use pronominal verbs that change meaning (ir/irse, llevar/llevarse) and the dative of interest.",
+     "covers": [
+      "B2-g-pronominal"
+     ]
+    },
+    {
+     "id": "b2-18",
+     "title": "Discourse markers",
+     "objective": "Use no obstante, en cambio, es decir, de hecho, en resumen, en cualquier caso.",
+     "covers": [
+      "B2-g-markers",
+      "B2-f-structure"
+     ]
+    },
+    {
+     "id": "b2-19",
+     "title": "Verbs with prepositions",
+     "objective": "Use verbs with fixed prepositions (depender de, soñar con, consistir en).",
+     "covers": [
+      "B2-g-verb-prep"
+     ]
+    },
+    {
+     "id": "b2-20",
+     "title": "Ser and estar: advanced",
+     "objective": "Master ser/estar contrasts that change meaning and estar de, ser + location of events.",
+     "covers": [
+      "B2-g-ser-estar-4"
+     ]
+    },
+    {
+     "id": "b2-21",
+     "title": "Building words",
+     "objective": "Use prefixes and suffixes, diminutives and augmentatives.",
+     "covers": [
+      "B2-g-word-formation"
+     ]
+    },
+    {
+     "id": "b2-22",
+     "title": "Debating",
+     "objective": "Argue, concede, counter-argue and hedge in a debate.",
+     "covers": [
+      "B2-f-debate"
+     ]
+    },
+    {
+     "id": "b2-23",
+     "title": "Formal writing",
+     "objective": "Write formal letters, complaints and reports in the right register.",
+     "covers": [
+      "B2-f-formal-writing"
+     ]
+    },
+    {
+     "id": "b2-24",
+     "title": "Work and the economy",
+     "objective": "Discuss business, the economy and working conditions.",
+     "covers": [
+      "B2-v-economy"
+     ]
+    },
+    {
+     "id": "b2-25",
+     "title": "Science and hypotheses",
+     "objective": "Discuss science and technology and express hypotheses (puede que, es posible que).",
+     "covers": [
+      "B2-v-science",
+      "B2-g-hypothesis"
+     ]
+    },
+    {
+     "id": "b2-26",
+     "title": "Politics and society",
+     "objective": "Discuss politics and social issues.",
+     "covers": [
+      "B2-v-politics"
+     ]
+    },
+    {
+     "id": "b2-27",
+     "title": "Everyday idioms",
+     "objective": "Understand and use common Latin American idioms.",
+     "covers": [
+      "B2-v-idioms-1"
+     ]
+    },
+    {
+     "id": "b2-28",
+     "title": "Regrets and reproaches",
+     "objective": "Express regret and reproach (ojalá hubiera, deberías haber).",
+     "covers": [
+      "B2-f-regret"
+     ]
+    },
+    {
+     "id": "b2-29",
+     "title": "Health, medicine and accents",
+     "objective": "Discuss medicine and master written accent rules.",
+     "covers": [
+      "B2-v-medicine",
+      "B2-g-accents"
+     ]
+    },
+    {
+     "id": "b2-30",
+     "title": "Books, films and the arts",
+     "objective": "Describe and review books, films and art.",
+     "covers": [
+      "B2-v-arts"
+     ]
+    },
+    {
+     "id": "b2-31",
+     "title": "Quantifiers",
+     "objective": "Use cualquier(a), cada, varios, ambos, demás, fractions and multiples.",
+     "covers": [
+      "B2-g-quantifiers"
+     ]
+    },
+    {
+     "id": "b2-32",
+     "title": "Commands with nuance",
+     "objective": "Soften and strengthen commands and use que + subjunctive wishes and set phrases (anda, venga).",
+     "covers": [
+      "B2-g-imperative-nuance"
+     ]
+    },
+    {
+     "id": "b2-33",
+     "title": "Numbers, trends and graphs",
+     "objective": "Describe statistics, trends and graphs.",
+     "covers": [
+      "B2-v-statistics"
+     ]
+    },
+    {
+     "id": "b2-34",
+     "title": "Spanish across countries",
+     "objective": "Recognise voseo and vocabulary differences between Spanish-speaking countries.",
+     "covers": [
+      "B2-v-variation"
+     ]
+    }
+   ],
+   "test": {
+    "id": "b2-test",
+    "title": "B2 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   }
+  },
+  {
+   "id": "C1",
+   "title": "C1 · Advanced",
+   "lessons": [
+    {
+     "id": "c1-01",
+     "title": "When mood changes meaning",
+     "objective": "Use verbs whose meaning changes with indicative or subjunctive (decir, sentir, comprender).",
+     "covers": [
+      "C1-g-mood-meaning"
+     ]
+    },
+    {
+     "id": "c1-02",
+     "title": "Advanced concessives",
+     "objective": "Use por más que, si bien, aun + gerund, y eso que, así.",
+     "covers": [
+      "C1-g-concessive-2"
+     ]
+    },
+    {
+     "id": "c1-03",
+     "title": "Advanced conditions",
+     "objective": "Use de + compound infinitive, como + subjunctive, a no ser que, salvo que, siempre y cuando.",
+     "covers": [
+      "C1-g-conditional-3"
+     ]
+    },
+    {
+     "id": "c1-04",
+     "title": "Advanced relative clauses",
+     "objective": "Use cuyo, lo cual, el cual, quienquiera, and free relatives.",
+     "covers": [
+      "C1-g-relatives-2"
+     ]
+    },
+    {
+     "id": "c1-05",
+     "title": "Advanced purpose",
+     "objective": "Express purpose with a fin de que, con el objeto de, no sea que.",
+     "covers": [
+      "C1-g-purpose-2"
+     ]
+    },
+    {
+     "id": "c1-06",
+     "title": "So... that: intensive consequence",
+     "objective": "Use tan... que, tal... que, de tal modo que, de ahí que.",
+     "covers": [
+      "C1-g-consecutive-2"
+     ]
+    },
+    {
+     "id": "c1-07",
+     "title": "As, while, upon: advanced time",
+     "objective": "Use a medida que, conforme, según, tras, nada más + infinitive.",
+     "covers": [
+      "C1-g-time-3"
+     ]
+    },
+    {
+     "id": "c1-08",
+     "title": "Gerunds and absolute participles",
+     "objective": "Use gerunds with causal/conditional/concessive meaning and absolute participle clauses.",
+     "covers": [
+      "C1-g-gerund-participle"
+     ]
+    },
+    {
+     "id": "c1-09",
+     "title": "Expressive verb phrases",
+     "objective": "Use echarse a, romper a, acabar por, venir + gerund, quedar en, dar por.",
+     "covers": [
+      "C1-g-periphrases-4"
+     ]
+    },
+    {
+     "id": "c1-10",
+     "title": "Stylistic uses of tenses",
+     "objective": "Recognise and use the historical present, imperfect of politeness, rumour conditional, and future of concession.",
+     "covers": [
+      "C1-g-tense-style"
+     ]
+    },
+    {
+     "id": "c1-11",
+     "title": "Pronouns at an advanced level",
+     "objective": "Handle ello, clitic doubling, and recognise leísmo, laísmo and loísmo.",
+     "covers": [
+      "C1-g-pronouns-adv"
+     ]
+    },
+    {
+     "id": "c1-12",
+     "title": "Emphasis and word order",
+     "objective": "Use cleft sentences (es ahí donde, fue él quien) and topicalisation for emphasis.",
+     "covers": [
+      "C1-g-emphasis"
+     ]
+    },
+    {
+     "id": "c1-13",
+     "title": "Advanced discourse markers",
+     "objective": "Use ahora bien, con todo, a fin de cuentas, dicho sea de paso, en definitiva.",
+     "covers": [
+      "C1-g-markers-2"
+     ]
+    },
+    {
+     "id": "c1-14",
+     "title": "Academic and formal register",
+     "objective": "Write in an academic register with impersonal structures and hedging.",
+     "covers": [
+      "C1-f-academic"
+     ]
+    },
+    {
+     "id": "c1-15",
+     "title": "Colloquial Spanish",
+     "objective": "Understand informal Latin American colloquialisms by region.",
+     "covers": [
+      "C1-v-colloquial"
+     ]
+    },
+    {
+     "id": "c1-16",
+     "title": "Idioms and proverbs",
+     "objective": "Understand and use idioms and proverbs.",
+     "covers": [
+      "C1-v-idioms-2"
+     ]
+    },
+    {
+     "id": "c1-17",
+     "title": "Collocations",
+     "objective": "Use natural verb + noun combinations (tomar una decisión, dar un paseo).",
+     "covers": [
+      "C1-v-collocations"
+     ]
+    },
+    {
+     "id": "c1-18",
+     "title": "Near-synonyms",
+     "objective": "Choose between near-synonyms (mirar/ver/observar, pedir/preguntar, quedar/quedarse).",
+     "covers": [
+      "C1-v-synonyms"
+     ]
+    },
+    {
+     "id": "c1-19",
+     "title": "False friends",
+     "objective": "Avoid false friends and anglicisms (embarazada, realizar, actualmente).",
+     "covers": [
+      "C1-v-false-friends"
+     ]
+    },
+    {
+     "id": "c1-20",
+     "title": "Advanced prepositional verbs",
+     "objective": "Use verbs with fixed prepositions (atreverse a, carecer de, empeñarse en).",
+     "covers": [
+      "C1-g-verb-prep-2"
+     ]
+    },
+    {
+     "id": "c1-21",
+     "title": "Mood in special contexts",
+     "objective": "Choose mood after superlatives, el único que, and in free relatives.",
+     "covers": [
+      "C1-g-mood-special"
+     ]
+    },
+    {
+     "id": "c1-22",
+     "title": "Reporting with nuance",
+     "objective": "Report speech with nuanced verbs (alegar, insinuar, reconocer) and summarise.",
+     "covers": [
+      "C1-g-reported-4"
+     ]
+    },
+    {
+     "id": "c1-23",
+     "title": "Persuasion and rhetoric",
+     "objective": "Persuade using rhetorical questions, irony and emphasis.",
+     "covers": [
+      "C1-f-persuade"
+     ]
+    },
+    {
+     "id": "c1-24",
+     "title": "Business and meetings",
+     "objective": "Take part in formal meetings and business negotiations.",
+     "covers": [
+      "C1-v-business"
+     ]
+    },
+    {
+     "id": "c1-25",
+     "title": "Law, rights and institutions",
+     "objective": "Discuss law, rights and institutions.",
+     "covers": [
+      "C1-v-law"
+     ]
+    },
+    {
+     "id": "c1-26",
+     "title": "Abstract and scientific topics",
+     "objective": "Discuss abstract, philosophical and scientific topics.",
+     "covers": [
+      "C1-v-abstract"
+     ]
+    },
+    {
+     "id": "c1-27",
+     "title": "Reading literature",
+     "objective": "Read literary Spanish and recognise literary and legal forms (future subjunctive).",
+     "covers": [
+      "C1-g-literary"
+     ]
+    },
+    {
+     "id": "c1-28",
+     "title": "Humour and wordplay",
+     "objective": "Understand humour, wordplay and double meanings.",
+     "covers": [
+      "C1-v-humour"
+     ]
+    },
+    {
+     "id": "c1-29",
+     "title": "Accents and spelling mastery",
+     "objective": "Recognise regional accents and apply current spelling norms.",
+     "covers": [
+      "C1-g-orthography"
+     ]
+    },
+    {
+     "id": "c1-30",
+     "title": "Politeness and nuance",
+     "objective": "Soften requests and criticism and handle delicate situations.",
+     "covers": [
+      "C1-f-politeness"
+     ]
+    }
+   ],
+   "test": {
+    "id": "c1-test",
+    "title": "C1 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   }
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "spanish-lessons",
+  "private": true,
+  "description": "Local Spanish course app (A1-C1). Node is only used for the browser test (checks/app.sh).",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "test:app": "bash checks/app.sh"
+  },
+  "devDependencies": {
+    "playwright": "1.55"
+  }
+}

@@ -44,3 +44,11 @@ reader: state, not narrative.
 - APPROVED: BASELINE
 - Clara's stated authority, verbatim: "I approve the goal condition. Go ahead and seed yourself with it and start working towards this in goal mode."
 - Attribution mode makes this an audit record, not proof the authority was real. Enable signing (docs/governance.md) for approval the agent cannot forge.
+
+## 2026-09-26 — Goal mode: research, outline, app, checks
+
+- **state:** Governance engaged (baseline 1dd20d5). Curriculum outline: 162 lessons (A1 30, A2 32, B1 36, B2 34, C1 30) in `content/course.json`, 214 inventory items in `curriculum/inventory.json`, sources in `curriculum/research.md`. App in `app/` (open `app/index.html`), built from `content/` by `scripts/build.py`. Lesson a1-01 written.
+- **done:** CHK-001 (`checks/curriculum.sh`) fails only on missing level reviews. CHK-002 (`checks/content.sh`) passes for a1-01 (fails for unwritten lessons). CHK-003 (`checks/app.sh`, Playwright driving installed Chrome) passes 17/19; the two failures need more content (cumulative quiz needs 4+ lessons; level test needs a complete level).
+- **next:** Write a1-02 … a1-30, then the A1 review record, then A2 onwards.
+- **decisions:** Content authored as JSON, bundled into `app/course-data.js` so the app works from file:// with no server. Generated drills per lesson: 2 per vocab word + 1 listening per example. Quiz = 60% current lesson + earlier lessons visited round-robin, weighted toward past misses; level test = 70% this level + 30% earlier. Accents: a missing accent is accepted with a note. "I was right" override on typed answers records the item in Settings → Flagged answers. Playwright installed in node_modules (project-local); the test uses installed Chrome, so no browser download outside the project. Preview server port 8777 (8765 was taken).
+- **dead ends:** Check bug fixed before first commit: duplicate-option check normalised away punctuation, treating "¿" and "?" as duplicates.

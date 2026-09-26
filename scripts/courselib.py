@@ -1,0 +1,162 @@
+"""Shared helpers for building and checking the course content.
+
+Source of truth:
+  content/course.json          ordered levels -> lessons (id, title, objective, covers) + level tests
+  content/lessons/<id>.json    the lesson itself: sections, vocab, examples, exercises
+  curriculum/inventory.json    what the course commits to cover (from curriculum/research.md)
+
+The build turns these into app/course-data.js, adding generated drill items (vocabulary
+and listening) to each lesson's authored exercises. Standard library only.
+"""
+
+from __future__ import annotations
+
+import hashlib
+import json
+import random
+import re
+import unicodedata
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+COURSE_FILE = ROOT / "content" / "course.json"
+LESSONS_DIR = ROOT / "content" / "lessons"
+INVENTORY_FILE = ROOT / "curriculum" / "inventory.json"
+REVIEWS_DIR = ROOT / "curriculum" / "reviews"
+RESEARCH_FILE = ROOT / "curriculum" / "research.md"
+OUT_FILE = ROOT / "app" / "course-data.js"
+
+LEVEL_ORDER = ["A1", "A2", "B1", "B2", "C1"]
+AUTHORED_TYPES = {"mc", "fill", "translate", "build"}
+
+WORD_RE = re.compile(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+")
+ITALIC_RE = re.compile(r"(?<!\*)\*([^*\n]+)\*(?!\*)")
+BOLD_RE = re.compile(r"\*\*([^*\n]+)\*\*")
+
+
+def load_json(path: Path):
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def load_course() -> dict:
+    return load_json(COURSE_FILE)
+
+
+def ordered_lessons(course: dict) -> list[tuple[str, dict]]:
+    return [(lv["id"], lesson) for lv in course["levels"] for lesson in lv["lessons"]]
+
+
+def lesson_path(lesson_id: str) -> Path:
+    return LESSONS_DIR / f"{lesson_id}.json"
+
+
+def item_id(lesson_id: str, item: dict) -> str:
+    key = json.dumps(
+        [item.get("type"), item.get("prompt"), item.get("audio")], ensure_ascii=False
+    )
+    return f"{lesson_id}:{hashlib.sha1(key.encode('utf-8')).hexdigest()[:10]}"
+
+
+def strip_article(es: str) -> str:
+    return re.sub(r"^(el|la|los|las|un|una|unos|unas)\s+", "", es.strip(), flags=re.I)
+
+
+def generated_items(lesson_id: str, lesson: dict, earlier_vocab: list[list[str]]) -> list[dict]:
+    """Vocabulary and listening drills derived from the lesson's own vocab and examples."""
+    rng = random.Random(lesson_id)
+    items = []
+    vocab = lesson.get("vocab", [])
+    pool = [v[1] for v in vocab] + [v[1] for v in earlier_vocab]
+    for es, en in vocab:
+        distractors = [p for p in dict.fromkeys(pool) if p != en]
+        rng.shuffle(distractors)
+        options = distractors[:3] + [en]
+        rng.shuffle(options)
+        items.append({
+            "type": "mc", "gen": "vocab",
+            "prompt": f"What does «{es}» mean?",
+            "options": options, "answer": options.index(en), "say": es,
+        })
+        answers = [a.strip() for a in es.split("/")]
+        answers += [strip_article(a) for a in answers]
+        items.append({
+            "type": "translate", "gen": "vocab",
+            "prompt": f"Write in Spanish: “{en}”",
+            "answers": list(dict.fromkeys(answers)),
+        })
+    for es, en in lesson.get("examples", []):
+        items.append({
+            "type": "listen", "gen": "listen",
+            "prompt": "Listen and type what you hear.",
+            "audio": es, "answers": [es], "translation": en,
+        })
+    return items
+
+
+def build_lesson(lesson_id: str, meta: dict, level: str, earlier_vocab: list) -> dict | None:
+    path = lesson_path(lesson_id)
+    if not path.exists():
+        return None
+    src = load_json(path)
+    items = [dict(ex) for ex in src.get("exercises", [])]
+    items += generated_items(lesson_id, src, earlier_vocab)
+    for it in items:
+        it["id"] = item_id(lesson_id, it)
+    return {
+        "id": lesson_id,
+        "level": level,
+        "title": meta["title"],
+        "objective": meta["objective"],
+        "sections": src.get("sections", []),
+        "vocab": src.get("vocab", []),
+        "examples": src.get("examples", []),
+        "items": items,
+    }
+
+
+def build_course() -> dict:
+    course = load_course()
+    out_levels = []
+    earlier_vocab: list = []
+    for lv in course["levels"]:
+        lessons = []
+        for meta in lv["lessons"]:
+            built = build_lesson(meta["id"], meta, lv["id"], earlier_vocab[-60:])
+            if built:
+                lessons.append(built)
+                earlier_vocab += built["vocab"]
+            else:
+                lessons.append({"id": meta["id"], "level": lv["id"], "title": meta["title"],
+                                "objective": meta["objective"], "missing": True})
+        out_levels.append({"id": lv["id"], "title": lv["title"], "test": lv["test"],
+                           "lessons": lessons})
+    return {"levels": out_levels}
+
+
+def render_data_js(data: dict) -> str:
+    body = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+    return "// Generated by scripts/build.py from content/. Do not edit by hand.\nwindow.COURSE = " + body + ";\n"
+
+
+# ---------------------------------------------------------------- answer normalising
+# Mirrors normalise() in app/app.js; the app is what actually grades.
+
+def normalise(s: str) -> str:
+    s = unicodedata.normalize("NFC", s).lower()
+    s = re.sub(r"[¿¡?!.,;:\"“”«»()]", " ", s)
+    s = s.replace("’", "'")
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def fold(s: str) -> str:
+    return "".join(c for c in unicodedata.normalize("NFD", normalise(s))
+                   if unicodedata.category(c) != "Mn")
+
+
+def tokens(text: str) -> list[str]:
+    return WORD_RE.findall(text)
+
+
+def spanish_spans_in_body(body: str) -> list[str]:
+    """Spanish in explanation text is marked with *italics* (and **bold** inside tables)."""
+    return ITALIC_RE.findall(body) + BOLD_RE.findall(body)

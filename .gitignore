@@ -26,3 +26,5 @@ checks/board-url.txt
 
 # Local agent scratch that should not be committed
 .claude/settings.local.json
+
+node_modules/

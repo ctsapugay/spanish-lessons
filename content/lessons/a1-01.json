@@ -1,0 +1,97 @@
+{
+  "sections": [
+    {
+      "heading": "Spanish is spelled the way it sounds",
+      "body": "Good news: Spanish spelling is very regular. Once you know how each letter sounds, you can read almost any word aloud correctly, even one you have never seen.\n\nThe five vowels are always short and clear, and they never change: *a* as in \"father\", *e* as in \"bet\", *i* as in \"machine\", *o* as in \"more\" (but shorter), *u* as in \"rule\". Say *casa*, *mesa*, *sí*, *no*, *uno* and listen to how pure each vowel is."
+    },
+    {
+      "heading": "The alphabet",
+      "body": "The Spanish alphabet has 27 letters: the 26 you know plus *ñ*. Letter names are useful for spelling your name or an email address.",
+      "table": {
+        "head": ["Letter", "Name", "Letter", "Name", "Letter", "Name"],
+        "rows": [
+          ["A", "*a*", "J", "*jota*", "R", "*erre*"],
+          ["B", "*be*", "K", "*ka*", "S", "*ese*"],
+          ["C", "*ce*", "L", "*ele*", "T", "*te*"],
+          ["D", "*de*", "M", "*eme*", "U", "*u*"],
+          ["E", "*e*", "N", "*ene*", "V", "*uve*"],
+          ["F", "*efe*", "Ñ", "*eñe*", "W", "*uve doble*"],
+          ["G", "*ge*", "O", "*o*", "X", "*equis*"],
+          ["H", "*hache*", "P", "*pe*", "Y", "*ye*"],
+          ["I", "*i*", "Q", "*cu*", "Z", "*zeta*"]
+        ]
+      }
+    },
+    {
+      "heading": "Consonants that differ from English",
+      "body": "- *h* is always silent: *hola* sounds like \"ola\".\n- *j* is a breathy sound from the throat, like a strong English h: *jugo*, *José*.\n- *g* before *e* or *i* sounds like *j* (*gente*); before *a*, *o*, *u* it is hard like in \"go\" (*gato*).\n- *c* before *e* or *i* sounds like s in Latin America (*cena*); otherwise it is k (*casa*). *z* also sounds like s (*zapato*).\n- *ll* and *y* sound like the y in \"yes\" in most of Latin America: *llamo*, *yo*.\n- *ñ* is like the ny in \"canyon\": *niño*, *mañana*.\n- *r* is a quick single tap, like the tt in American \"butter\": *pero*. *rr*, and *r* at the start of a word, is rolled: *perro*, *rojo*.\n- *qu* sounds like k (the u is silent): *queso*, *que*.\n- *b* and *v* sound the same: *vaca* and *baca* are pronounced identically.\n- *d* between vowels is soft, like the th in \"this\": *nada*."
+    },
+    {
+      "heading": "Stress and written accents",
+      "body": "Every Spanish word has one stressed syllable, and the rules tell you where it is:\n\n- Words ending in a vowel, *n* or *s* stress the second-to-last syllable: *casa* (CA-sa), *hablan*.\n- Words ending in any other consonant stress the last syllable: *hablar* (ha-BLAR), *papel*.\n- A written accent (´) breaks the rule and marks the stressed syllable: *café*, *música*, *lápiz*.\n\nSome short words use an accent only to tell two meanings apart: *sí* (yes) and *si* (if), *tú* (you) and *tu* (your). Questions and exclamations open with upside-down marks: *¿…?* and *¡…!*"
+    },
+    {
+      "heading": "Spelling out loud",
+      "body": "To spell a word, say the letter names: *hola* is *hache, o, ele, a*. To ask how something is spelled, say *¿Cómo se escribe?* (How is it written?)."
+    }
+  ],
+  "vocab": [
+    ["hola", "hello"],
+    ["sí", "yes"],
+    ["no", "no"],
+    ["la casa", "the house"],
+    ["el gato", "the cat"],
+    ["el perro", "the dog"],
+    ["el café", "coffee"],
+    ["la mesa", "the table"],
+    ["el niño", "the boy / the child"],
+    ["mañana", "tomorrow"],
+    ["el queso", "cheese"],
+    ["la música", "music"],
+    ["uno", "one"],
+    ["gracias", "thank you"],
+    ["¿Cómo se escribe?", "How is it spelled?"]
+  ],
+  "examples": [
+    ["Hola.", "Hello."],
+    ["Sí, gracias.", "Yes, thank you."],
+    ["No, gracias.", "No, thank you."],
+    ["La casa.", "The house."],
+    ["El perro y el gato.", "The dog and the cat."],
+    ["El café y el queso.", "Coffee and cheese."],
+    ["La música, mañana.", "The music, tomorrow."],
+    ["¿Cómo se escribe \"hola\"?", "How do you spell \"hola\"?"],
+    ["Hache, o, ele, a.", "H, O, L, A."],
+    ["Uno, dos, tres.", "One, two, three."],
+    ["El niño y el perro.", "The boy and the dog."],
+    ["La mesa y la casa.", "The table and the house."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "How is the *h* in *hola* pronounced?", "options": ["It is silent", "Like English h", "Like English j"], "answer": 0},
+    {"type": "mc", "prompt": "Which word has a rolled *rr* sound?", "options": ["perro", "pero", "hola", "mesa"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "In Latin America, the *c* in *cena* sounds like…", "options": ["s", "k", "th", "ch"], "answer": 0},
+    {"type": "mc", "prompt": "The letter *ñ* sounds like…", "options": ["the ny in \"canyon\"", "the n in \"no\"", "the g in \"go\"", "the h in \"hat\""], "answer": 0},
+    {"type": "mc", "prompt": "How is *qu* in *queso* pronounced?", "options": ["k (the u is silent)", "kw, as in \"queen\"", "ch", "g"], "answer": 0},
+    {"type": "mc", "prompt": "Which pair sounds exactly the same in Spanish?", "options": ["b and v", "r and rr", "c and ch", "n and ñ"], "answer": 0},
+    {"type": "mc", "prompt": "Where is the stress in *casa*?", "options": ["CA-sa (first syllable)", "ca-SA (last syllable)"], "answer": 0, "explain": "It ends in a vowel, so the stress falls on the second-to-last syllable."},
+    {"type": "mc", "prompt": "Where is the stress in *hablar*?", "options": ["ha-BLAR (last syllable)", "HA-blar (first syllable)"], "answer": 0, "explain": "It ends in r (not n or s), so the stress falls on the last syllable."},
+    {"type": "mc", "prompt": "Why does *café* have a written accent?", "options": ["It is stressed on the last syllable even though it ends in a vowel", "All words ending in é need one", "It shows the word is feminine"], "answer": 0},
+    {"type": "mc", "prompt": "What does *sí* (with an accent) mean?", "options": ["yes", "if", "no", "you"], "answer": 0},
+    {"type": "mc", "prompt": "What is the Spanish name of the letter *j*?", "options": ["jota", "je", "ji", "hache"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What is the Spanish name of the letter *h*?", "options": ["hache", "ache", "jota", "eñe"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What is the Spanish name of the letter *v*?", "options": ["uve", "be", "ve doble", "ese"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The *g* in *gato* sounds like…", "options": ["g in \"go\"", "h in \"hat\"", "j in \"jam\""], "answer": 0},
+    {"type": "mc", "prompt": "The *g* in *gente* sounds like…", "options": ["a breathy h, like Spanish j", "g in \"go\"", "g in \"gem\""], "answer": 0},
+    {"type": "mc", "prompt": "How many letters does the Spanish alphabet have?", "options": ["27", "26", "30", "24"], "answer": 0},
+    {"type": "mc", "prompt": "How do you ask how a word is spelled?", "options": ["¿Cómo se escribe?", "¿Qué tal?", "Gracias.", "Hola."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which punctuation opens a question in Spanish?", "options": ["¿", "¡", "?", "!"], "answer": 0},
+    {"type": "translate", "prompt": "hello", "answers": ["hola"]},
+    {"type": "translate", "prompt": "yes, thank you", "answers": ["sí, gracias"]},
+    {"type": "translate", "prompt": "no, thank you", "answers": ["no, gracias"]},
+    {"type": "translate", "prompt": "the dog and the cat", "answers": ["el perro y el gato"]},
+    {"type": "fill", "prompt": "___ perro y el gato.", "answers": ["el"], "hint": "the"},
+    {"type": "fill", "prompt": "¿Cómo se ___?", "answers": ["escribe"], "hint": "How is it spelled?"},
+    {"type": "build", "prompt": "Put the words in order: \"The dog and the cat.\"", "answer": "El perro y el gato."},
+    {"type": "build", "prompt": "Put the words in order: \"How is it spelled?\"", "answer": "¿Cómo se escribe?"}
+  ]
+}

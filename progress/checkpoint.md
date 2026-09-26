@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-09-26
-**Now:** Intake written; goal condition is a draft awaiting Clara's approval in chat.
-**Next:** On approval, record the baseline (approve.py --baseline --on-behalf-of-clara), push, then start goal mode with curriculum research.
-**Watch:** Nothing app-side exists yet; all four checks except CHK-004 fail until built.
+**Now:** Writing A1 lesson content. Done: a1-01. App, build, and all three check scripts exist and work.
+**Next:** a1-02 … a1-30 (content/lessons/<id>.json, format in content/README.md), then the A1 accuracy review (curriculum/reviews/A1.md), then A2.
+**Watch:** Rebuild (python3 scripts/build.py) after every content edit or CHK-002 fails on staleness. CHK-003 cumulative/level-test checks need 4+ lessons / a complete level.
