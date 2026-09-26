@@ -1,0 +1,410 @@
+{
+  "sections": [
+    {
+      "heading": "The conditional: would",
+      "body": "Like the future, the conditional adds endings to the whole infinitive, and it uses the **same irregular stems** (*tendr-, har-, podr-, dir-…*). The endings are the *-ía* endings of the imperfect.",
+      "table": {
+        "head": [
+          "Pronoun",
+          "Ending",
+          "hablar",
+          "tener",
+          "poder"
+        ],
+        "rows": [
+          [
+            "*yo*",
+            "-ía",
+            "*hablaría*",
+            "*tendría*",
+            "*podría*"
+          ],
+          [
+            "*tú*",
+            "-ías",
+            "*hablarías*",
+            "*tendrías*",
+            "*podrías*"
+          ],
+          [
+            "*él / ella / usted*",
+            "-ía",
+            "*hablaría*",
+            "*tendría*",
+            "*podría*"
+          ],
+          [
+            "*nosotros*",
+            "-íamos",
+            "*hablaríamos*",
+            "*tendríamos*",
+            "*podríamos*"
+          ],
+          [
+            "*ustedes / ellos*",
+            "-ían",
+            "*hablarían*",
+            "*tendrían*",
+            "*podrían*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Being polite",
+      "body": "The conditional softens requests and wishes — you'll hear it constantly:\n\n- *Me gustaría* + infinitive — I'd like to: *Me gustaría reservar una mesa.*\n- *¿Podría…? / ¿Podrías…?* — Could you…?: *¿Podría ayudarme?* *¿Podrías cerrar la ventana?*\n- *¿Le importaría…?* — Would you mind…?: *¿Le importaría esperar un momento?*\n- *Querría* / more commonly *quisiera* — I would like."
+    },
+    {
+      "heading": "Giving advice",
+      "body": "- *Deberías* + infinitive — you should: *Deberías dormir más.*\n- *Yo que tú, …* / *Yo en tu lugar, …* — If I were you, …: *Yo que tú, hablaría con ella.*\n- *Sería mejor* + infinitive — it would be better to: *Sería mejor salir temprano.*\n\nAnd for hypotheticals: *¿Qué harías con un millón de dólares?* — *Viajaría por todo el mundo.*"
+    }
+  ],
+  "vocab": [
+    [
+      "me gustaría",
+      "I would like"
+    ],
+    [
+      "podría",
+      "I/he/she could; could you (formal)"
+    ],
+    [
+      "podrías",
+      "could you (informal)"
+    ],
+    [
+      "¿Le importaría…?",
+      "Would you mind…? (formal)"
+    ],
+    [
+      "deberías",
+      "you should"
+    ],
+    [
+      "yo que tú",
+      "if I were you"
+    ],
+    [
+      "sería",
+      "it would be"
+    ],
+    [
+      "haría",
+      "I/he/she would do"
+    ],
+    [
+      "tendría",
+      "I/he/she would have"
+    ],
+    [
+      "reservar",
+      "to reserve / book"
+    ],
+    [
+      "importar",
+      "to matter / to mind"
+    ],
+    [
+      "el mundo",
+      "the world"
+    ],
+    [
+      "el lugar",
+      "the place"
+    ],
+    [
+      "la ventana",
+      "the window"
+    ],
+    [
+      "el consejo",
+      "the advice"
+    ]
+  ],
+  "examples": [
+    [
+      "Me gustaría reservar una mesa para cuatro.",
+      "I'd like to book a table for four."
+    ],
+    [
+      "¿Podría ayudarme, por favor?",
+      "Could you help me, please?"
+    ],
+    [
+      "¿Podrías cerrar la ventana?",
+      "Could you close the window?"
+    ],
+    [
+      "¿Le importaría esperar un momento?",
+      "Would you mind waiting a moment?"
+    ],
+    [
+      "Deberías dormir más.",
+      "You should sleep more."
+    ],
+    [
+      "Yo que tú, hablaría con ella.",
+      "If I were you, I'd talk to her."
+    ],
+    [
+      "Yo en tu lugar, no lo haría.",
+      "If I were you, I wouldn't do it."
+    ],
+    [
+      "Sería mejor salir temprano.",
+      "It would be better to leave early."
+    ],
+    [
+      "¿Qué harías con un millón de dólares?",
+      "What would you do with a million dollars?"
+    ],
+    [
+      "Viajaría por todo el mundo.",
+      "I'd travel all over the world."
+    ],
+    [
+      "Me gustaría hablar con el gerente.",
+      "I'd like to speak with the manager."
+    ],
+    [
+      "¿Me podrías dar un consejo?",
+      "Could you give me some advice?"
+    ],
+    [
+      "Con más tiempo, estudiaría francés.",
+      "With more time, I'd study French."
+    ],
+    [
+      "Nos encantaría ir.",
+      "We'd love to go."
+    ],
+    [
+      "Dijo que vendría a las ocho.",
+      "He said he would come at eight."
+    ],
+    [
+      "¿Tendrías tiempo mañana?",
+      "Would you have time tomorrow?"
+    ],
+    [
+      "Sería genial.",
+      "That would be great."
+    ],
+    [
+      "No sabría qué decir.",
+      "I wouldn't know what to say."
+    ],
+    [
+      "¿Qué me recomendaría?",
+      "What would you recommend?"
+    ],
+    [
+      "Yo compraría una casa en el campo.",
+      "I'd buy a house in the countryside."
+    ],
+    [
+      "No sé qué diría mi madre.",
+      "I don't know what my mother would say."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Me ___ reservar una mesa. (gustar)",
+      "answers": [
+        "gustaría"
+      ],
+      "hint": "I'd like to book a table."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿___ ayudarme, por favor? (poder, usted)",
+      "answers": [
+        "podría"
+      ],
+      "hint": "Could you help me, please?"
+    },
+    {
+      "type": "fill",
+      "prompt": "¿___ cerrar la ventana? (poder, tú)",
+      "answers": [
+        "podrías"
+      ],
+      "hint": "Could you close the window?"
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Le ___ esperar un momento? (importar)",
+      "answers": [
+        "importaría"
+      ],
+      "hint": "Would you mind waiting a moment?"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ dormir más. (deber, tú)",
+      "answers": [
+        "deberías"
+      ],
+      "hint": "You should sleep more."
+    },
+    {
+      "type": "fill",
+      "prompt": "Yo que tú, ___ con ella. (hablar)",
+      "answers": [
+        "hablaría"
+      ],
+      "hint": "If I were you, I'd talk to her."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ mejor salir temprano. (ser)",
+      "answers": [
+        "sería"
+      ],
+      "hint": "It would be better to leave early."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué ___ con un millón de dólares? (hacer, tú)",
+      "answers": [
+        "harías"
+      ],
+      "hint": "What would you do with a million dollars?"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ por todo el mundo. (viajar, yo)",
+      "answers": [
+        "viajaría"
+      ],
+      "hint": "I'd travel all over the world."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿___ tiempo mañana? (tener, tú)",
+      "answers": [
+        "tendrías"
+      ],
+      "hint": "Would you have time tomorrow?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Dijo que ___ a las ocho. (venir)",
+      "answers": [
+        "vendría"
+      ],
+      "hint": "He said he would come at eight."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the most polite request?",
+      "options": [
+        "¿Podría ayudarme?",
+        "Ayúdame.",
+        "Tienes que ayudarme.",
+        "Quiero ayuda."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Yo que tú, no lo haría* means…",
+      "options": [
+        "If I were you, I wouldn't do it.",
+        "I did it, not you.",
+        "You and I won't do it.",
+        "I would do it for you."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "The conditional of *decir* (yo) is…",
+      "options": [
+        "diría",
+        "deciría",
+        "dijería",
+        "dicería"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "The conditional uses the same irregular stems as…",
+      "options": [
+        "the future",
+        "the preterite",
+        "the present subjunctive",
+        "the imperfect"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Sería genial* means…",
+      "options": [
+        "That would be great.",
+        "It was great.",
+        "It will be great.",
+        "He is great."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I'd like to speak with the manager.",
+      "answers": [
+        "Me gustaría hablar con el gerente.",
+        "Quisiera hablar con el gerente."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Could you help me, please? (usted)",
+      "answers": [
+        "¿Podría ayudarme, por favor?",
+        "¿Me podría ayudar, por favor?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "You should sleep more. (tú)",
+      "answers": [
+        "Deberías dormir más."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "That would be great.",
+      "answers": [
+        "Sería genial.",
+        "Sería estupendo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "We'd love to go.",
+      "answers": [
+        "Nos encantaría ir."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"If I were you, I'd talk to her.\"",
+      "answer": "Yo que tú, hablaría con ella."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Could you give me some advice?\"",
+      "answer": "¿Me podrías dar un consejo?"
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"With more time, I'd study French.\"",
+      "answer": "Con más tiempo, estudiaría francés."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "sections": [
+    {
+      "heading": "The simple future",
+      "body": "Add the endings to the **whole infinitive** — the same endings for all three groups:",
+      "table": {
+        "head": ["Pronoun", "Ending", "hablar", "comer", "vivir"],
+        "rows": [
+          ["*yo*", "-é", "*hablaré*", "*comeré*", "*viviré*"],
+          ["*tú*", "-ás", "*hablarás*", "*comerás*", "*vivirás*"],
+          ["*él / ella / usted*", "-á", "*hablará*", "*comerá*", "*vivirá*"],
+          ["*nosotros*", "-emos", "*hablaremos*", "*comeremos*", "*viviremos*"],
+          ["*ustedes / ellos*", "-án", "*hablarán*", "*comerán*", "*vivirán*"]
+        ]
+      }
+    },
+    {
+      "heading": "Irregular stems",
+      "body": "A handful of common verbs use a shortened stem with the same endings:",
+      "table": {
+        "head": ["Verb", "Stem", "yo"],
+        "rows": [
+          ["*tener*", "*tendr-*", "*tendré*"],
+          ["*poner*", "*pondr-*", "*pondré*"],
+          ["*salir*", "*saldr-*", "*saldré*"],
+          ["*venir*", "*vendr-*", "*vendré*"],
+          ["*poder*", "*podr-*", "*podré*"],
+          ["*saber*", "*sabr-*", "*sabré*"],
+          ["*querer*", "*querr-*", "*querré*"],
+          ["*hacer*", "*har-*", "*haré*"],
+          ["*decir*", "*dir-*", "*diré*"],
+          ["*haber* (hay)", "*habr-*", "*habrá* — there will be"]
+        ]
+      }
+    },
+    {
+      "heading": "Future tense or ir a?",
+      "body": "In everyday Latin American speech, *ir a* + infinitive is the usual way to talk about plans: *Voy a viajar en julio.* The simple future is used for predictions, promises, more distant or less certain things, and in writing: *Mañana lloverá en el norte.* (weather forecast) *Te llamaré, te lo prometo.* *Algún día viviré en la playa.*\n\n(You'll see in B1 that the future also expresses guesses about the present: *¿Dónde estará Juan?* — I wonder where Juan is.)"
+    }
+  ],
+  "vocab": [
+    ["hablaré", "I will speak"],
+    ["tendré", "I will have"],
+    ["haré", "I will do / make"],
+    ["podré", "I will be able to"],
+    ["saldré", "I will leave / go out"],
+    ["vendré", "I will come"],
+    ["diré", "I will say"],
+    ["habrá", "there will be"],
+    ["prometer", "to promise"],
+    ["el futuro", "the future"],
+    ["el pronóstico", "the forecast"],
+    ["la nube", "the cloud"],
+    ["la temperatura", "the temperature"],
+    ["el norte / el sur", "the north / the south"],
+    ["algún día", "someday"],
+    ["dentro de", "in (time from now)"]
+  ],
+  "examples": [
+    ["Mañana lloverá en el norte.", "Tomorrow it will rain in the north."],
+    ["Te llamaré, te lo prometo.", "I'll call you, I promise."],
+    ["Algún día viviré en la playa.", "Someday I'll live at the beach."],
+    ["¿Qué harás el año que viene?", "What will you do next year?"],
+    ["Tendremos una reunión el lunes.", "We'll have a meeting on Monday."],
+    ["No podré ir a la fiesta.", "I won't be able to go to the party."],
+    ["Saldremos a las ocho.", "We'll leave at eight."],
+    ["¿Vendrás conmigo?", "Will you come with me?"],
+    ["Habrá mucha gente.", "There will be lots of people."],
+    ["Te diré la verdad.", "I'll tell you the truth."],
+    ["El pronóstico dice que hará sol.", "The forecast says it will be sunny."],
+    ["Las temperaturas bajarán en el sur.", "Temperatures will drop in the south."],
+    ["Dentro de diez años, hablaré español perfectamente.", "In ten years, I'll speak Spanish perfectly."],
+    ["¿Sabrás llegar?", "Will you know how to get there?"],
+    ["Pondré la mesa.", "I'll set the table."],
+    ["Estudiaremos juntos.", "We'll study together."],
+    ["El tren llegará a las cinco.", "The train will arrive at five."],
+    ["Nunca lo olvidaré.", "I'll never forget it."],
+    ["Mis hijos querrán venir.", "My kids will want to come."],
+    ["En el futuro, trabajaremos desde casa.", "In the future, we'll work from home."],
+    ["Mañana habrá nubes.", "Tomorrow there will be clouds."],
+    ["Viajarán a Chile en diciembre.", "They'll travel to Chile in December."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Mañana ___ en el norte. (llover)", "answers": ["lloverá"], "hint": "Tomorrow it will rain in the north."},
+    {"type": "fill", "prompt": "Te ___, te lo prometo. (llamar, yo)", "answers": ["llamaré"], "hint": "I'll call you, I promise."},
+    {"type": "fill", "prompt": "¿Qué ___ el año que viene? (hacer, tú)", "answers": ["harás"], "hint": "What will you do next year?"},
+    {"type": "fill", "prompt": "___ una reunión el lunes. (tener, nosotros)", "answers": ["tendremos"], "hint": "We'll have a meeting on Monday."},
+    {"type": "fill", "prompt": "No ___ ir a la fiesta. (poder, yo)", "answers": ["podré"], "hint": "I won't be able to go to the party."},
+    {"type": "fill", "prompt": "___ a las ocho. (salir, nosotros)", "answers": ["saldremos"], "hint": "We'll leave at eight."},
+    {"type": "fill", "prompt": "¿___ conmigo? (venir, tú)", "answers": ["vendrás"], "hint": "Will you come with me?"},
+    {"type": "fill", "prompt": "___ mucha gente. (haber)", "answers": ["habrá"], "hint": "There will be lots of people."},
+    {"type": "fill", "prompt": "Te ___ la verdad. (decir, yo)", "answers": ["diré"], "hint": "I'll tell you the truth."},
+    {"type": "fill", "prompt": "El tren ___ a las cinco. (llegar)", "answers": ["llegará"], "hint": "The train will arrive at five."},
+    {"type": "fill", "prompt": "Algún día ___ en la playa. (vivir, yo)", "answers": ["viviré"], "hint": "Someday I'll live at the beach."},
+    {"type": "fill", "prompt": "___ la mesa. (poner, yo)", "answers": ["pondré"], "hint": "I'll set the table."},
+    {"type": "mc", "prompt": "The future stem of *hacer* is…", "options": ["har-", "hacer-", "hic-", "hag-"], "answer": 0},
+    {"type": "mc", "prompt": "The future of *hay* is…", "options": ["habrá", "hayará", "habiará", "hay"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "In everyday Latin American speech, plans are usually expressed with…", "options": ["ir a + infinitive", "the simple future only", "the preterite"], "answer": 0},
+    {"type": "mc", "prompt": "*Dentro de diez años* means…", "options": ["in ten years (from now)", "ten years ago", "for ten years", "inside ten years ago"], "answer": 0},
+    {"type": "mc", "prompt": "Which one is NOT a future form?", "options": ["hablé", "hablaré", "hablarás", "hablarán"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "I'll call you, I promise. (informal)", "answers": ["Te llamaré, te lo prometo.", "Te voy a llamar, te lo prometo."]},
+    {"type": "translate", "prompt": "There will be lots of people.", "answers": ["Habrá mucha gente.", "Va a haber mucha gente."]},
+    {"type": "translate", "prompt": "I won't be able to go.", "answers": ["No podré ir.", "No voy a poder ir."]},
+    {"type": "translate", "prompt": "What will you do next year? (informal)", "answers": ["¿Qué harás el año que viene?", "¿Qué vas a hacer el año que viene?", "¿Qué harás el próximo año?"]},
+    {"type": "translate", "prompt": "I'll never forget it.", "answers": ["Nunca lo olvidaré.", "Nunca lo voy a olvidar.", "No lo olvidaré nunca."]},
+    {"type": "build", "prompt": "Put the words in order: \"The forecast says it will be sunny.\"", "answer": "El pronóstico dice que hará sol."},
+    {"type": "build", "prompt": "Put the words in order: \"In the future, we'll work from home.\"", "answer": "En el futuro, trabajaremos desde casa."},
+    {"type": "build", "prompt": "Put the words in order: \"They'll travel to Chile in December.\"", "answer": "Viajarán a Chile en diciembre."}
+  ]
+}

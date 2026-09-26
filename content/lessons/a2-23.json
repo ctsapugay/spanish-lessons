@@ -1,0 +1,84 @@
+{
+  "sections": [
+    {
+      "heading": "Jobs",
+      "body": "Many job nouns change *-o → -a* (*el abogado / la abogada*, lawyer), add *-a* (*el profesor / la profesora*), or stay the same with *-ista* and *-e* (*el / la periodista*, journalist; *el / la gerente*, manager). Say your job with *ser* and no article: *Soy enfermera.* Ask: *¿A qué te dedicas?* (What do you do?) or *¿En qué trabajas?* Answer: *Trabajo en una empresa de tecnología. Trabajo como ingeniero.*"
+    },
+    {
+      "heading": "The workplace",
+      "body": "*la empresa* (company), *la oficina*, *el jefe / la jefa* (boss), *el compañero de trabajo* (coworker), *el sueldo / el salario* (salary), *el horario* (schedule), *la reunión* (meeting), *trabajar a tiempo completo / medio tiempo* (full-time / part-time), *estar desempleado* (unemployed), *buscar trabajo*, *jubilarse* (to retire)."
+    },
+    {
+      "heading": "Relative clauses with que and donde",
+      "body": "*Que* (that, which, who) joins two ideas about the same thing or person. It's the most common relative word in Spanish and can't be left out as in English:\n\n*Tengo un amigo **que** trabaja en un hospital.* (I have a friend who works in a hospital.)\n*El libro **que** compré es muy bueno.* (The book (that) I bought is very good.)\n\n*Donde* (where) is for places: *Es la empresa **donde** trabajo.* (It's the company where I work.) *La ciudad donde nací es pequeña.*"
+    }
+  ],
+  "vocab": [
+    ["el abogado / la abogada", "the lawyer"],
+    ["el enfermero / la enfermera", "the nurse"],
+    ["el ingeniero / la ingeniera", "the engineer"],
+    ["el / la periodista", "the journalist"],
+    ["el / la gerente", "the manager"],
+    ["el cocinero / la cocinera", "the cook"],
+    ["¿A qué te dedicas?", "What do you do (for a living)?"],
+    ["la empresa", "the company"],
+    ["el jefe / la jefa", "the boss"],
+    ["el compañero de trabajo", "the coworker"],
+    ["el sueldo", "the salary"],
+    ["la reunión", "the meeting"],
+    ["a tiempo completo", "full-time"],
+    ["a medio tiempo", "part-time"],
+    ["desempleado / desempleada", "unemployed"],
+    ["jubilarse", "to retire"],
+    ["que", "that / which / who"],
+    ["donde", "where (relative)"]
+  ],
+  "examples": [
+    ["¿A qué te dedicas?", "What do you do?"],
+    ["Soy enfermera.", "I'm a nurse."],
+    ["Trabajo como ingeniero en una empresa de tecnología.", "I work as an engineer at a tech company."],
+    ["Mi hermana es abogada.", "My sister is a lawyer."],
+    ["Mi jefe es muy exigente.", "My boss is very demanding."],
+    ["Trabajo a tiempo completo.", "I work full-time."],
+    ["Tengo una reunión a las diez.", "I have a meeting at ten."],
+    ["Mis compañeros de trabajo son simpáticos.", "My coworkers are nice."],
+    ["Estoy desempleado. Estoy buscando trabajo.", "I'm unemployed. I'm looking for work."],
+    ["Mi padre se jubiló el año pasado.", "My father retired last year."],
+    ["Tengo un amigo que trabaja en un hospital.", "I have a friend who works in a hospital."],
+    ["El libro que compré es muy bueno.", "The book I bought is very good."],
+    ["Es la empresa donde trabajo.", "It's the company where I work."],
+    ["La ciudad donde nací es pequeña.", "The city where I was born is small."],
+    ["La mujer que habla es la gerente.", "The woman who's speaking is the manager."],
+    ["El sueldo no es muy alto.", "The salary isn't very high."],
+    ["Es un trabajo que me gusta mucho.", "It's a job I really like."],
+    ["El restaurante donde trabaja es famoso.", "The restaurant where he works is famous."],
+    ["El periodista que escribió el artículo es mi primo.", "The journalist who wrote the article is my cousin."],
+    ["Trabajo a medio tiempo en una cafetería.", "I work part-time in a coffee shop."],
+    ["El cocinero que contrataron es de Perú.", "The cook they hired is from Peru."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Tengo un amigo ___ trabaja en un hospital.", "answers": ["que"], "hint": "I have a friend who works in a hospital."},
+    {"type": "fill", "prompt": "El libro ___ compré es muy bueno.", "answers": ["que"], "hint": "The book I bought is very good."},
+    {"type": "fill", "prompt": "Es la empresa ___ trabajo.", "answers": ["donde"], "hint": "It's the company where I work."},
+    {"type": "fill", "prompt": "La ciudad ___ nací es pequeña.", "answers": ["donde"], "hint": "The city where I was born is small."},
+    {"type": "fill", "prompt": "¿A qué te ___?", "answers": ["dedicas"], "hint": "What do you do?"},
+    {"type": "fill", "prompt": "Mi hermana es ___.", "answers": ["abogada"], "hint": "My sister is a lawyer."},
+    {"type": "fill", "prompt": "Tengo una ___ a las diez.", "answers": ["reunión"], "hint": "I have a meeting at ten."},
+    {"type": "fill", "prompt": "Trabajo a tiempo ___.", "answers": ["completo"], "hint": "I work full-time."},
+    {"type": "fill", "prompt": "Mi padre se ___ el año pasado. (jubilarse)", "answers": ["jubiló"], "hint": "My father retired last year."},
+    {"type": "fill", "prompt": "Estoy ___. Estoy buscando trabajo.", "answers": ["desempleado", "desempleada"], "hint": "I'm unemployed. I'm looking for work."},
+    {"type": "mc", "prompt": "How do you say \"I'm a nurse\" (a woman)?", "options": ["Soy enfermera.", "Soy una enfermera.", "Estoy enfermera.", "Trabajo enfermera."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Can you leave out *que* like English \"the book (that) I bought\"?", "options": ["No, *que* is required", "Yes, it's optional"], "answer": 0},
+    {"type": "mc", "prompt": "*el / la periodista* is…", "options": ["a journalist", "a newspaper", "a period", "a manager"], "answer": 0},
+    {"type": "mc", "prompt": "*el sueldo* is…", "options": ["the salary", "the floor", "the boss", "the schedule"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: Es el restaurante ___ trabaja mi hermano.", "options": ["donde", "que", "quien", "cuando"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "What do you do? (informal)", "answers": ["¿A qué te dedicas?", "¿En qué trabajas?"]},
+    {"type": "translate", "prompt": "I have a friend who works in a hospital.", "answers": ["Tengo un amigo que trabaja en un hospital.", "Tengo una amiga que trabaja en un hospital."]},
+    {"type": "translate", "prompt": "It's the company where I work.", "answers": ["Es la empresa donde trabajo.", "Es la empresa en la que trabajo."]},
+    {"type": "translate", "prompt": "My father retired last year.", "answers": ["Mi padre se jubiló el año pasado.", "Mi papá se jubiló el año pasado."]},
+    {"type": "translate", "prompt": "I work part-time.", "answers": ["Trabajo a medio tiempo."]},
+    {"type": "build", "prompt": "Put the words in order: \"The woman who's speaking is the manager.\"", "answer": "La mujer que habla es la gerente."},
+    {"type": "build", "prompt": "Put the words in order: \"It's a job I really like.\"", "answer": "Es un trabajo que me gusta mucho."},
+    {"type": "build", "prompt": "Put the words in order: \"I work as an engineer at a tech company.\"", "answer": "Trabajo como ingeniero en una empresa de tecnología."}
+  ]
+}

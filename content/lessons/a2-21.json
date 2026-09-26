@@ -1,0 +1,375 @@
+{
+  "sections": [
+    {
+      "heading": "At the doctor's",
+      "body": "The doctor will ask *¿Qué le pasa?* (What's the matter?) or *¿Qué síntomas tiene?* Describe symptoms with the patterns you know:\n\n- *Me duele* + body part: *Me duele la garganta* (I have a sore throat).\n- *Tengo* + noun: *tengo fiebre, tos* (a cough), *gripe, dolor de cabeza / de estómago* (a headache / stomachache), *náuseas*, *diarrea*, *una infección*, *alergia*.\n- *Estoy* + adjective: *Estoy resfriado* (I have a cold), *mareado* (dizzy), *cansado*.\n\nThe doctor may give you *una receta* (a prescription) for *pastillas* (pills), *un jarabe* (cough syrup) or *antibióticos*, and you go to *la farmacia*. *Tengo la nariz tapada* (my nose is blocked) is common too."
+    },
+    {
+      "heading": "Giving advice",
+      "body": "- *Deberías* + infinitive — you should (soft, friendly): *Deberías descansar.*\n- *Tienes que / Tiene que* + infinitive — you have to (stronger): *Tiene que tomar estas pastillas.*\n- *Hay que* + infinitive — one must (general): *Hay que beber mucha agua.*\n- Commands: *Tome una pastilla cada ocho horas. Quédese en cama.*\n- *Es mejor* + infinitive: *Es mejor no salir hoy.*"
+    },
+    {
+      "heading": "Warnings",
+      "body": "*¡Cuidado!* (Careful!) *¡Ten cuidado con el perro!* *¡Ojo!* (Watch out! — informal). *No toques eso, está caliente.* (Don't touch that, it's hot — negative commands come in B1.) When someone is sick, wish them well: *¡Que te mejores!* (Get well soon!)"
+    }
+  ],
+  "vocab": [
+    [
+      "el médico / la médica",
+      "the doctor"
+    ],
+    [
+      "¿Qué le pasa?",
+      "What's the matter? (formal)"
+    ],
+    [
+      "el síntoma",
+      "the symptom"
+    ],
+    [
+      "la garganta",
+      "the throat"
+    ],
+    [
+      "la tos",
+      "the cough"
+    ],
+    [
+      "el dolor de cabeza",
+      "headache"
+    ],
+    [
+      "resfriado / resfriada",
+      "having a cold"
+    ],
+    [
+      "mareado / mareada",
+      "dizzy"
+    ],
+    [
+      "la receta",
+      "the prescription"
+    ],
+    [
+      "la pastilla",
+      "the pill"
+    ],
+    [
+      "el jarabe",
+      "the syrup"
+    ],
+    [
+      "deberías",
+      "you should"
+    ],
+    [
+      "quedarse en cama",
+      "to stay in bed"
+    ],
+    [
+      "¡Cuidado!",
+      "Careful!"
+    ],
+    [
+      "¡Que te mejores!",
+      "Get well soon!"
+    ],
+    [
+      "la alergia",
+      "allergy"
+    ],
+    [
+      "la salud",
+      "health"
+    ]
+  ],
+  "examples": [
+    [
+      "¿Qué le pasa?",
+      "What's the matter?"
+    ],
+    [
+      "Me duele la garganta y tengo tos.",
+      "I have a sore throat and a cough."
+    ],
+    [
+      "Tengo dolor de cabeza desde ayer.",
+      "I've had a headache since yesterday."
+    ],
+    [
+      "Estoy resfriado.",
+      "I have a cold."
+    ],
+    [
+      "Me siento mareada.",
+      "I feel dizzy."
+    ],
+    [
+      "¿Tiene fiebre?",
+      "Do you have a fever?"
+    ],
+    [
+      "Tengo alergia a la penicilina.",
+      "I'm allergic to penicillin."
+    ],
+    [
+      "Aquí tiene la receta.",
+      "Here's the prescription."
+    ],
+    [
+      "Tome una pastilla cada ocho horas.",
+      "Take one pill every eight hours."
+    ],
+    [
+      "Quédese en cama dos días.",
+      "Stay in bed for two days."
+    ],
+    [
+      "Deberías descansar.",
+      "You should rest."
+    ],
+    [
+      "Deberías ir al médico.",
+      "You should go to the doctor."
+    ],
+    [
+      "Hay que beber mucha agua.",
+      "You need to drink lots of water."
+    ],
+    [
+      "Es mejor no salir hoy.",
+      "It's better not to go out today."
+    ],
+    [
+      "Tiene que tomar este jarabe.",
+      "You have to take this syrup."
+    ],
+    [
+      "¡Cuidado! El café está caliente.",
+      "Careful! The coffee is hot."
+    ],
+    [
+      "¡Que te mejores!",
+      "Get well soon!"
+    ],
+    [
+      "La salud es lo más importante.",
+      "Health is the most important thing."
+    ],
+    [
+      "¿Qué síntomas tiene?",
+      "What symptoms do you have?"
+    ],
+    [
+      "Compré las pastillas en la farmacia.",
+      "I bought the pills at the pharmacy."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Me duele la ___.",
+      "answers": [
+        "garganta",
+        "cabeza"
+      ],
+      "hint": "I have a sore throat."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tengo ___ y fiebre.",
+      "answers": [
+        "tos",
+        "gripe"
+      ],
+      "hint": "I have a cough and a fever."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estoy ___. Tengo tos y fiebre.",
+      "answers": [
+        "resfriado",
+        "resfriada"
+      ],
+      "hint": "I have a cold. I have a cough and a fever."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ descansar. (deber, tú)",
+      "answers": [
+        "deberías"
+      ],
+      "hint": "You should rest."
+    },
+    {
+      "type": "fill",
+      "prompt": "Hay que ___ mucha agua. (beber)",
+      "answers": [
+        "beber",
+        "tomar"
+      ],
+      "hint": "You need to drink lots of water."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tome una ___ cada ocho horas.",
+      "answers": [
+        "pastilla"
+      ],
+      "hint": "Take one pill every eight hours."
+    },
+    {
+      "type": "fill",
+      "prompt": "Aquí tiene la ___.",
+      "answers": [
+        "receta"
+      ],
+      "hint": "Here's the prescription."
+    },
+    {
+      "type": "fill",
+      "prompt": "¡Que te ___!",
+      "answers": [
+        "mejores"
+      ],
+      "hint": "Get well soon!"
+    },
+    {
+      "type": "fill",
+      "prompt": "Tengo ___ a la penicilina.",
+      "answers": [
+        "alergia"
+      ],
+      "hint": "I'm allergic to penicillin."
+    },
+    {
+      "type": "fill",
+      "prompt": "Quédese en ___ dos días.",
+      "answers": [
+        "cama"
+      ],
+      "hint": "Stay in bed for two days."
+    },
+    {
+      "type": "mc",
+      "prompt": "The doctor asks *¿Qué le pasa?* She wants to know…",
+      "options": [
+        "what's wrong with you",
+        "what happened to her",
+        "where you're going",
+        "what you ate"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the softest advice?",
+      "options": [
+        "Deberías descansar.",
+        "Tienes que descansar.",
+        "¡Descansa!",
+        "Hay que descansar."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Estoy mareado* means…",
+      "options": [
+        "I'm dizzy.",
+        "I'm married.",
+        "I'm seasick only.",
+        "I'm bored."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Your friend is sick. You say…",
+      "options": [
+        "¡Que te mejores!",
+        "¡Cuidado!",
+        "¡Buen provecho!",
+        "¡Felicidades!"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"I have a headache\" can be…",
+      "options": [
+        "Me duele la cabeza. / Tengo dolor de cabeza.",
+        "Estoy cabeza.",
+        "Tengo la cabeza dolor."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*un jarabe* is…",
+      "options": [
+        "a (cough) syrup",
+        "a pill",
+        "a bandage",
+        "a fever"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I have a sore throat.",
+      "answers": [
+        "Me duele la garganta.",
+        "Tengo dolor de garganta."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "You should go to the doctor. (tú)",
+      "answers": [
+        "Deberías ir al médico.",
+        "Tienes que ir al médico."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I have a cold. (a man speaking)",
+      "answers": [
+        "Estoy resfriado.",
+        "Tengo un resfriado.",
+        "Tengo gripe."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Careful! The coffee is hot.",
+      "answers": [
+        "¡Cuidado! El café está caliente."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Get well soon! (tú)",
+      "answers": [
+        "¡Que te mejores!"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Take one pill every eight hours.\"",
+      "answer": "Tome una pastilla cada ocho horas."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's better not to go out today.\"",
+      "answer": "Es mejor no salir hoy."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I've had a headache since yesterday.\"",
+      "answer": "Tengo dolor de cabeza desde ayer."
+    }
+  ]
+}
