@@ -48,6 +48,7 @@ GOVERNANCE_DIR = ROOT / "governance"
 BASELINE_FILE = GOVERNANCE_DIR / "baseline.txt"
 APPROVERS_FILE = GOVERNANCE_DIR / "approvers.txt"
 ALLOWED_SIGNERS_FILE = GOVERNANCE_DIR / "allowed_signers"
+SIGNING_OFF_FILE = GOVERNANCE_DIR / "signing-disabled.txt"
 
 # Tool sources are governed too: a validator the agent can quietly edit is not a check.
 # status.py reports progress Clara reads remotely, so faking it would misrepresent
@@ -446,7 +447,7 @@ def canonical_trust() -> str:
     a change to who is trusted is.
     """
     parts = []
-    for path in (APPROVERS_FILE, ALLOWED_SIGNERS_FILE):
+    for path in (APPROVERS_FILE, ALLOWED_SIGNERS_FILE, SIGNING_OFF_FILE):
         content = path.read_text(encoding="utf-8") if path.exists() else ""
         meaningful = "\n".join(
             _norm(line)

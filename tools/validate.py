@@ -53,6 +53,7 @@ from constraint_files import (  # noqa: E402
     load_goal,
     load_proposals,
     parse_file,
+    SIGNING_OFF_FILE,
     signing_configured,
     suite_state,
     verify_signature,
@@ -77,6 +78,7 @@ GOVERNED_PATHS = (
     "governance/baseline.txt",
     "governance/approvers.txt",
     "governance/allowed_signers",
+    "governance/signing-disabled.txt",
 )
 
 CHECK_REQUIRED = ("run", "status")
@@ -445,9 +447,15 @@ def check_governance(report: Report) -> None:
 
     # Was signature verification switched off after having been switched on?
     code, out = git("log", "--diff-filter=A", "--format=%H", "--", "governance/allowed_signers")
-    if code == 0 and out.strip() and not signing_configured():
+    if code == 0 and out.strip() and not signing_configured() and SIGNING_OFF_FILE.exists():
+        report.note(
+            "Signed approvals were turned off deliberately; approvals are attribution-only. "
+            "Reason on record in governance/signing-disabled.txt."
+        )
+    elif code == 0 and out.strip() and not signing_configured():
         report.error(
             "governance/allowed_signers",
+    "governance/signing-disabled.txt",
             "this repository used signature-verified approvals and the allowed_signers "
             "file is now gone. Governance has been downgraded to attribution-only. "
             "Restore it, or record deliberately that you turned it off.",

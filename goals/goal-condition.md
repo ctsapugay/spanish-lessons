@@ -9,8 +9,8 @@ agent's to soften: see `constraints/defaults.md` (C-GOVERNED-CHANGE) and
 
 ## Status
 
-- **state:** draft
-- **approved:** _not yet approved by Clara_
+- **state:** approved
+- **approved:** 2026-09-26, by Clara in chat
 
 ## Statement
 
