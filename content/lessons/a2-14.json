@@ -1,0 +1,394 @@
+{
+  "sections": [
+    {
+      "heading": "Positive and negative pairs",
+      "body": "",
+      "table": {
+        "head": [
+          "Positive",
+          "Negative"
+        ],
+        "rows": [
+          [
+            "*algo* — something",
+            "*nada* — nothing"
+          ],
+          [
+            "*alguien* — someone",
+            "*nadie* — no one"
+          ],
+          [
+            "*alguno / alguna / algunos / algunas* — some, any",
+            "*ninguno / ninguna* — none, no, not any"
+          ],
+          [
+            "*siempre* — always",
+            "*nunca / jamás* — never"
+          ],
+          [
+            "*también* — also",
+            "*tampoco* — neither"
+          ],
+          [
+            "*o … o* — either … or",
+            "*ni … ni* — neither … nor"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Double negatives are normal",
+      "body": "If a negative word comes **after** the verb, you need *no* before the verb: *No hay nadie.* (There's nobody.) *No quiero nada.* (I don't want anything.) *No voy nunca.* If the negative word comes **first**, drop *no*: *Nadie vino.* (Nobody came.) *Nunca voy.*\n\nSo in questions with \"any\": *¿Quieres algo?* — *No, no quiero nada.*"
+    },
+    {
+      "heading": "Alguno and ninguno",
+      "body": "They agree with the noun and shorten before a masculine singular noun: *algún libro, ningún problema*. *Ninguno* is almost always singular: *No tengo ningún amigo aquí* (I don't have any friends here). *¿Tienes alguna pregunta?* — *No, ninguna.*\n\n*Alguien / nadie* refer to people and take personal *a* as objects: *¿Conoces a alguien aquí? — No, no conozco a nadie.*"
+    }
+  ],
+  "vocab": [
+    [
+      "algo",
+      "something / anything"
+    ],
+    [
+      "nada",
+      "nothing / not anything"
+    ],
+    [
+      "alguien",
+      "someone / anyone"
+    ],
+    [
+      "nadie",
+      "no one / nobody"
+    ],
+    [
+      "alguno / algún",
+      "some / any"
+    ],
+    [
+      "ninguno / ningún",
+      "none / no / not any"
+    ],
+    [
+      "jamás",
+      "never (emphatic)"
+    ],
+    [
+      "ni … ni",
+      "neither … nor"
+    ],
+    [
+      "o … o",
+      "either … or"
+    ],
+    [
+      "el problema",
+      "the problem"
+    ],
+    [
+      "la idea",
+      "the idea"
+    ],
+    [
+      "la duda",
+      "the doubt / question"
+    ],
+    [
+      "tocar la puerta",
+      "to knock on the door"
+    ],
+    [
+      "por aquí",
+      "around here"
+    ]
+  ],
+  "examples": [
+    [
+      "¿Quieres algo? No, no quiero nada.",
+      "Do you want anything? No, I don't want anything."
+    ],
+    [
+      "No hay nadie en la oficina.",
+      "There's nobody in the office."
+    ],
+    [
+      "Nadie vino a la fiesta.",
+      "Nobody came to the party."
+    ],
+    [
+      "¿Conoces a alguien aquí?",
+      "Do you know anyone here?"
+    ],
+    [
+      "No conozco a nadie.",
+      "I don't know anybody."
+    ],
+    [
+      "¿Tienes alguna pregunta? No, ninguna.",
+      "Do you have any questions? No, none."
+    ],
+    [
+      "No hay ningún problema.",
+      "There's no problem at all."
+    ],
+    [
+      "Algún día voy a vivir en Chile.",
+      "Someday I'm going to live in Chile."
+    ],
+    [
+      "Nunca como carne.",
+      "I never eat meat."
+    ],
+    [
+      "No voy nunca al cine.",
+      "I never go to the movies."
+    ],
+    [
+      "Jamás te voy a olvidar.",
+      "I'll never forget you."
+    ],
+    [
+      "No me gusta ni el café ni el té.",
+      "I like neither coffee nor tea."
+    ],
+    [
+      "O vienes conmigo o te quedas aquí.",
+      "Either you come with me or you stay here."
+    ],
+    [
+      "Alguien tocó la puerta.",
+      "Someone knocked on the door."
+    ],
+    [
+      "¿Hay algún banco por aquí?",
+      "Is there a bank around here?"
+    ],
+    [
+      "Algunos estudiantes no vinieron.",
+      "Some students didn't come."
+    ],
+    [
+      "No tengo ninguna idea.",
+      "I have no idea."
+    ],
+    [
+      "No dije nada.",
+      "I didn't say anything."
+    ],
+    [
+      "¿Alguien tiene una duda?",
+      "Does anyone have a question?"
+    ],
+    [
+      "Yo tampoco sé nada.",
+      "I don't know anything either."
+    ],
+    [
+      "Tengo algo para ti.",
+      "I have something for you."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "¿Quieres algo? No, no quiero ___.",
+      "answers": [
+        "nada"
+      ],
+      "hint": "Do you want anything? No, I don't want anything."
+    },
+    {
+      "type": "fill",
+      "prompt": "No hay ___ en la oficina.",
+      "answers": [
+        "nadie"
+      ],
+      "hint": "There's nobody in the office."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ vino a la fiesta.",
+      "answers": [
+        "nadie"
+      ],
+      "hint": "Nobody came to the party."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Conoces a ___ aquí?",
+      "answers": [
+        "alguien"
+      ],
+      "hint": "Do you know anyone here?"
+    },
+    {
+      "type": "fill",
+      "prompt": "No hay ___ problema.",
+      "answers": [
+        "ningún"
+      ],
+      "hint": "There's no problem at all."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Tienes ___ pregunta?",
+      "answers": [
+        "alguna"
+      ],
+      "hint": "Do you have any questions?"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ día voy a vivir en Chile.",
+      "answers": [
+        "algún"
+      ],
+      "hint": "Someday I'm going to live in Chile."
+    },
+    {
+      "type": "fill",
+      "prompt": "No me gusta ___ el café ni el té.",
+      "answers": [
+        "ni"
+      ],
+      "hint": "I like neither coffee nor tea."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ tocó la puerta.",
+      "answers": [
+        "alguien"
+      ],
+      "hint": "Someone knocked on the door."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tengo ___ para ti.",
+      "answers": [
+        "algo"
+      ],
+      "hint": "I have something for you."
+    },
+    {
+      "type": "fill",
+      "prompt": "No voy ___ al cine.",
+      "answers": [
+        "nunca",
+        "jamás"
+      ],
+      "hint": "I never go to the movies."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"There's nobody\"?",
+      "options": [
+        "No hay nadie.",
+        "Hay nadie.",
+        "No hay alguien.",
+        "Hay no nadie."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"Nobody came\"?",
+      "options": [
+        "Nadie vino.",
+        "No nadie vino.",
+        "Nadie no vino."
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "When the negative word comes first, there's no *no*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: No tengo ___ amigo aquí.",
+      "options": [
+        "ningún",
+        "ninguno",
+        "algún",
+        "nada"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*No tengo ninguna idea* means…",
+      "options": [
+        "I have no idea.",
+        "I have some ideas.",
+        "I have one idea.",
+        "I don't have many ideas."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Algún día* means…",
+      "options": [
+        "someday",
+        "every day",
+        "any day now",
+        "one day ago"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I don't want anything.",
+      "answers": [
+        "No quiero nada.",
+        "Yo no quiero nada."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Nobody came.",
+      "answers": [
+        "Nadie vino.",
+        "No vino nadie."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I don't know anybody.",
+      "answers": [
+        "No conozco a nadie."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Is there a bank around here?",
+      "answers": [
+        "¿Hay algún banco por aquí?",
+        "¿Hay un banco por aquí?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I didn't say anything.",
+      "answers": [
+        "No dije nada."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Either you come with me or you stay here.\"",
+      "answer": "O vienes conmigo o te quedas aquí."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'll never forget you.\"",
+      "answer": "Jamás te voy a olvidar."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Some students didn't come.\"",
+      "answer": "Algunos estudiantes no vinieron."
+    }
+  ]
+}

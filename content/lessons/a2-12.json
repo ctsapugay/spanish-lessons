@@ -1,0 +1,98 @@
+{
+  "sections": [
+    {
+      "heading": "More and less",
+      "body": "- *más* + adjective / noun / adverb + *que* = more … than: *Mi hermano es más alto que yo.* *Tengo más libros que tú.*\n- *menos* + … + *que* = less / fewer … than: *Este carro es menos caro que ese.*\n- With verbs: *más que / menos que*: *Trabajo más que antes.*\n- Before a number, use *de*: *más de cien personas* (more than a hundred people)."
+    },
+    {
+      "heading": "As … as",
+      "body": "- *tan* + adjective / adverb + *como*: *Ana es tan alta como su madre.* (as tall as)\n- *tanto / tanta / tantos / tantas* + noun + *como* (agrees with the noun): *No tengo tanto dinero como tú. Hay tantas personas como ayer.* (as much / as many as)\n- With verbs: *tanto como*: *Estudio tanto como tú.*"
+    },
+    {
+      "heading": "Irregular comparatives",
+      "body": "",
+      "table": {
+        "head": ["Adjective / adverb", "Comparative"],
+        "rows": [
+          ["*bueno / bien*", "*mejor* — better"],
+          ["*malo / mal*", "*peor* — worse"],
+          ["*grande* (age)", "*mayor* — older"],
+          ["*pequeño / joven* (age)", "*menor* — younger"]
+        ]
+      }
+    },
+    {
+      "heading": "The most",
+      "body": "The superlative is *el / la / los / las* + (noun) + *más / menos* + adjective + *de*: *Es la ciudad más grande del país.* (It's the biggest city in the country.) *Es el mejor restaurante de la zona.* Note \"in\" is *de* here. *Mi hermana mayor* = my older sister; *el mayor* = the oldest."
+    }
+  ],
+  "vocab": [
+    ["más … que", "more … than"],
+    ["menos … que", "less … than"],
+    ["tan … como", "as … as"],
+    ["tanto … como", "as much / as many … as"],
+    ["mejor", "better / best"],
+    ["peor", "worse / worst"],
+    ["mayor", "older / oldest"],
+    ["menor", "younger / youngest"],
+    ["el / la más", "the most"],
+    ["la zona", "the area"],
+    ["rápido / rápida", "fast"],
+    ["lento / lenta", "slow"],
+    ["barato / barata", "cheap"],
+    ["cómodo / cómoda", "comfortable"],
+    ["famoso / famosa", "famous"]
+  ],
+  "examples": [
+    ["Mi hermano es más alto que yo.", "My brother is taller than me."],
+    ["Tengo más libros que tú.", "I have more books than you."],
+    ["Este carro es menos caro que ese.", "This car is less expensive than that one."],
+    ["Trabajo más que antes.", "I work more than before."],
+    ["Hay más de cien personas.", "There are more than a hundred people."],
+    ["Ana es tan alta como su madre.", "Ana is as tall as her mother."],
+    ["No tengo tanto dinero como tú.", "I don't have as much money as you."],
+    ["Hay tantas personas como ayer.", "There are as many people as yesterday."],
+    ["Estudio tanto como tú.", "I study as much as you."],
+    ["Este café es mejor que el otro.", "This coffee is better than the other one."],
+    ["Hoy me siento peor que ayer.", "Today I feel worse than yesterday."],
+    ["Mi hermana mayor vive en Lima.", "My older sister lives in Lima."],
+    ["Soy el menor de la familia.", "I'm the youngest in the family."],
+    ["Es la ciudad más grande del país.", "It's the biggest city in the country."],
+    ["Es el mejor restaurante de la zona.", "It's the best restaurant in the area."],
+    ["El tren es más rápido que el autobús.", "The train is faster than the bus."],
+    ["Este sofá es más cómodo.", "This sofa is more comfortable."],
+    ["Es la canción más famosa de Shakira.", "It's Shakira's most famous song."],
+    ["Mi computadora es más lenta que la tuya.", "My computer is slower than yours."],
+    ["Es el peor día de mi vida.", "It's the worst day of my life."],
+    ["Mi abuelo es mayor que mi abuela.", "My grandfather is older than my grandmother."],
+    ["Aquí la comida es más barata.", "Food is cheaper here."],
+    ["Hablas español mejor que yo.", "You speak Spanish better than I do."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Mi hermano es ___ alto que yo.", "answers": ["más"], "hint": "My brother is taller than me."},
+    {"type": "fill", "prompt": "Este carro es menos caro ___ ese.", "answers": ["que"], "hint": "This car is less expensive than that one."},
+    {"type": "fill", "prompt": "Hay más ___ cien personas.", "answers": ["de"], "hint": "There are more than a hundred people."},
+    {"type": "fill", "prompt": "Ana es ___ alta como su madre.", "answers": ["tan"], "hint": "Ana is as tall as her mother."},
+    {"type": "fill", "prompt": "No tengo ___ dinero como tú.", "answers": ["tanto"], "hint": "I don't have as much money as you."},
+    {"type": "fill", "prompt": "Hay ___ personas como ayer.", "answers": ["tantas"], "hint": "There are as many people as yesterday."},
+    {"type": "fill", "prompt": "Este café es ___ que el otro.", "answers": ["mejor"], "hint": "This coffee is better than the other one."},
+    {"type": "fill", "prompt": "Hoy me siento ___ que ayer.", "answers": ["peor"], "hint": "Today I feel worse than yesterday."},
+    {"type": "fill", "prompt": "Mi hermana ___ vive en Lima.", "answers": ["mayor"], "hint": "My older sister lives in Lima."},
+    {"type": "fill", "prompt": "Es la ciudad más grande ___ país.", "answers": ["del"], "hint": "It's the biggest city in the country."},
+    {"type": "fill", "prompt": "Hablas español ___ que yo.", "answers": ["mejor"], "hint": "You speak Spanish better than I do."},
+    {"type": "mc", "prompt": "\"more than a hundred\" is…", "options": ["más de cien", "más que cien", "más cien", "tan cien"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"as tall as\" is…", "options": ["tan alto como", "tanto alto como", "tan alto que", "más alto como"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"the best restaurant in the city\" is…", "options": ["el mejor restaurante de la ciudad", "el más bueno restaurante en la ciudad", "el restaurante mejor en la ciudad"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Soy el menor de la familia* means…", "options": ["I'm the youngest in the family.", "I'm the smallest in the family.", "I'm the least important.", "I'm the oldest in the family."], "answer": 0},
+    {"type": "mc", "prompt": "Choose: No tengo ___ hermanos como tú.", "options": ["tantos", "tanto", "tan", "tantas"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Es más rápido que el autobús.", "Es más rápido de el autobús.", "Es más rápido como el autobús."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "My brother is taller than me.", "answers": ["Mi hermano es más alto que yo."]},
+    {"type": "translate", "prompt": "It's the biggest city in the country.", "answers": ["Es la ciudad más grande del país."]},
+    {"type": "translate", "prompt": "Today I feel worse than yesterday.", "answers": ["Hoy me siento peor que ayer.", "Me siento peor que ayer."]},
+    {"type": "translate", "prompt": "I study as much as you.", "answers": ["Estudio tanto como tú.", "Yo estudio tanto como tú."]},
+    {"type": "translate", "prompt": "The train is faster than the bus.", "answers": ["El tren es más rápido que el autobús."]},
+    {"type": "build", "prompt": "Put the words in order: \"It's the worst day of my life.\"", "answer": "Es el peor día de mi vida."},
+    {"type": "build", "prompt": "Put the words in order: \"There are as many people as yesterday.\"", "answer": "Hay tantas personas como ayer."},
+    {"type": "build", "prompt": "Put the words in order: \"My grandfather is older than my grandmother.\"", "answer": "Mi abuelo es mayor que mi abuela."}
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "sections": [
+    {
+      "heading": "Mine, yours, his, hers",
+      "body": "The stressed possessives go **after** the noun or stand alone. They agree in gender and number with the thing owned.",
+      "table": {
+        "head": [
+          "Owner",
+          "Forms"
+        ],
+        "rows": [
+          [
+            "mine",
+            "*mío, mía, míos, mías*"
+          ],
+          [
+            "yours (tú)",
+            "*tuyo, tuya, tuyos, tuyas*"
+          ],
+          [
+            "his / hers / yours (usted) / theirs",
+            "*suyo, suya, suyos, suyas*"
+          ],
+          [
+            "ours",
+            "*nuestro, nuestra, nuestros, nuestras*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "How they're used",
+      "body": "- After *ser*: *Este libro es mío.* (This book is mine.) *¿Es tuya esta chaqueta?*\n- After a noun, for emphasis or \"of mine\": *un amigo mío* (a friend of mine), *Es culpa tuya* (It's your fault).\n- With an article, to replace a noun: *Mi carro es rojo; el tuyo es azul.* (My car is red; yours is blue.) *Tus hijos y los míos juegan juntos.*\n\nIn Latin America, *suyo* often sounds formal (\"yours, sir\"); for \"his / hers / theirs\" people often say *de él, de ella, de ellos*: *Es de ella.*"
+    },
+    {
+      "heading": "Ordinal numbers",
+      "body": "*primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo* (1st–10th). They agree like adjectives: *la segunda calle, los primeros días*. *Primero* and *tercero* shorten before a masculine singular noun: *el primer piso, el tercer día*.\n\nAfter 10th, people usually use cardinal numbers: *el piso quince, el siglo veintiuno* (21st century)."
+    }
+  ],
+  "vocab": [
+    [
+      "mío / mía",
+      "mine"
+    ],
+    [
+      "tuyo / tuya",
+      "yours (informal)"
+    ],
+    [
+      "suyo / suya",
+      "his / hers / theirs / yours (formal)"
+    ],
+    [
+      "el mío / la mía",
+      "mine (replacing a noun)"
+    ],
+    [
+      "la culpa",
+      "the fault / blame"
+    ],
+    [
+      "primero / primer",
+      "first"
+    ],
+    [
+      "segundo",
+      "second"
+    ],
+    [
+      "tercero / tercer",
+      "third"
+    ],
+    [
+      "cuarto",
+      "fourth"
+    ],
+    [
+      "quinto",
+      "fifth"
+    ],
+    [
+      "sexto",
+      "sixth"
+    ],
+    [
+      "séptimo",
+      "seventh"
+    ],
+    [
+      "octavo",
+      "eighth"
+    ],
+    [
+      "noveno",
+      "ninth"
+    ],
+    [
+      "décimo",
+      "tenth"
+    ],
+    [
+      "el piso",
+      "the floor (level)"
+    ],
+    [
+      "el siglo",
+      "the century"
+    ]
+  ],
+  "examples": [
+    [
+      "Este libro es mío.",
+      "This book is mine."
+    ],
+    [
+      "¿Es tuya esta chaqueta?",
+      "Is this jacket yours?"
+    ],
+    [
+      "Es un amigo mío.",
+      "He's a friend of mine."
+    ],
+    [
+      "Es culpa tuya.",
+      "It's your fault."
+    ],
+    [
+      "Mi carro es rojo; el tuyo es azul.",
+      "My car is red; yours is blue."
+    ],
+    [
+      "Tus hijos y los míos juegan juntos.",
+      "Your kids and mine play together."
+    ],
+    [
+      "¿De quién es este teléfono? Es de ella.",
+      "Whose phone is this? It's hers."
+    ],
+    [
+      "La casa es nuestra.",
+      "The house is ours."
+    ],
+    [
+      "Estas llaves no son mías.",
+      "These keys aren't mine."
+    ],
+    [
+      "Vivo en el primer piso.",
+      "I live on the first floor."
+    ],
+    [
+      "Es la segunda calle a la derecha.",
+      "It's the second street on the right."
+    ],
+    [
+      "Es el tercer día de clases.",
+      "It's the third day of classes."
+    ],
+    [
+      "Llegó en quinto lugar.",
+      "He came in fifth place."
+    ],
+    [
+      "Es mi cuarto viaje a México.",
+      "It's my fourth trip to Mexico."
+    ],
+    [
+      "La oficina está en el décimo piso.",
+      "The office is on the tenth floor."
+    ],
+    [
+      "Estamos en el siglo veintiuno.",
+      "We're in the twenty-first century."
+    ],
+    [
+      "Mi cumpleaños es el primero de junio.",
+      "My birthday is June first."
+    ],
+    [
+      "La maleta es suya, señor.",
+      "The suitcase is yours, sir."
+    ],
+    [
+      "Mi perro es más grande que el tuyo.",
+      "My dog is bigger than yours."
+    ],
+    [
+      "Los primeros días fueron difíciles.",
+      "The first days were difficult."
+    ],
+    [
+      "Es la primera vez que vengo.",
+      "It's the first time I've come."
+    ],
+    [
+      "Mi hija está en sexto grado.",
+      "My daughter is in sixth grade."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Este libro es ___.",
+      "answers": [
+        "mío"
+      ],
+      "hint": "This book is mine."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Es ___ esta chaqueta?",
+      "answers": [
+        "tuya"
+      ],
+      "hint": "Is this jacket yours?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Es un amigo ___.",
+      "answers": [
+        "mío"
+      ],
+      "hint": "He's a friend of mine."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi carro es rojo; el ___ es azul.",
+      "answers": [
+        "tuyo",
+        "suyo"
+      ],
+      "hint": "My car is red; yours is blue."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tus hijos y los ___ juegan juntos.",
+      "answers": [
+        "míos"
+      ],
+      "hint": "Your kids and mine play together."
+    },
+    {
+      "type": "fill",
+      "prompt": "La casa es ___.",
+      "answers": [
+        "nuestra"
+      ],
+      "hint": "The house is ours."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estas llaves no son ___.",
+      "answers": [
+        "mías"
+      ],
+      "hint": "These keys aren't mine."
+    },
+    {
+      "type": "fill",
+      "prompt": "Vivo en el ___ piso.",
+      "answers": [
+        "primer"
+      ],
+      "hint": "I live on the first floor."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es la ___ calle a la derecha.",
+      "answers": [
+        "segunda"
+      ],
+      "hint": "It's the second street on the right."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es el ___ día de clases.",
+      "answers": [
+        "tercer"
+      ],
+      "hint": "It's the third day of classes."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es la ___ vez que vengo.",
+      "answers": [
+        "primera"
+      ],
+      "hint": "It's the first time I've come."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Es culpa tuya* means…",
+      "options": [
+        "It's your fault.",
+        "It's your cup.",
+        "It's yours.",
+        "You're guilty of it."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Estas maletas son ___.",
+      "options": [
+        "mías",
+        "míos",
+        "mía",
+        "mi"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"the first floor\" is…",
+      "options": [
+        "el primer piso",
+        "el primero piso",
+        "el uno piso",
+        "la primera piso"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the ordinal for 7th?",
+      "options": [
+        "séptimo",
+        "sexto",
+        "octavo",
+        "setimo"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "\"the 21st century\" is usually…",
+      "options": [
+        "el siglo veintiuno",
+        "el vigésimo primer siglo",
+        "el siglo primero"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "In Latin America, \"It's hers\" is often said…",
+      "options": [
+        "Es de ella.",
+        "Es suya ella.",
+        "Es hers."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "This book is mine.",
+      "answers": [
+        "Este libro es mío."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He's a friend of mine.",
+      "answers": [
+        "Es un amigo mío."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's your fault. (informal)",
+      "answers": [
+        "Es culpa tuya.",
+        "Es tu culpa."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I live on the first floor.",
+      "answers": [
+        "Vivo en el primer piso."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's the second street on the right.",
+      "answers": [
+        "Es la segunda calle a la derecha."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"My car is red; yours is blue.\"",
+      "answer": "Mi carro es rojo; el tuyo es azul."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"My dog is bigger than yours.\"",
+      "answer": "Mi perro es más grande que el tuyo."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's my fourth trip to Mexico.\"",
+      "answer": "Es mi cuarto viaje a México."
+    }
+  ]
+}

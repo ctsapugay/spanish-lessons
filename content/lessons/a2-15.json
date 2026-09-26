@@ -1,0 +1,86 @@
+{
+  "sections": [
+    {
+      "heading": "Getting around",
+      "body": "Transport: *el autobús* (bus — *el camión* in Mexico, *la guagua* in the Caribbean, *el colectivo* in Argentina), *el metro* (subway), *el tren*, *el avión* (plane), *el taxi*, *el barco* (boat), *el carro*. Travel **by** is *en*: *en autobús, en avión* — but *a pie* (on foot).\n\nAt the station: *el boleto* (ticket — *el billete* in Spain, *el pasaje* for long-distance travel), *de ida* (one-way), *de ida y vuelta* (round-trip), *el andén* (platform), *la salida* (departure / exit), *la llegada* (arrival), *el horario* (timetable). *¿A qué hora sale el próximo tren a Cuzco?*"
+    },
+    {
+      "heading": "At the airport",
+      "body": "*el aeropuerto, el vuelo* (flight), *la maleta* (suitcase), *el equipaje* (luggage), *el pasaporte*, *la puerta de embarque* (boarding gate), *facturar la maleta* (check a bag), *el vuelo está retrasado* (the flight is delayed), *perder el vuelo* (to miss the flight)."
+    },
+    {
+      "heading": "At the hotel",
+      "body": "*Tengo una reserva a nombre de…* (I have a reservation under the name…). *Quisiera una habitación doble / sencilla* (double / single room). *¿El desayuno está incluido?* *¿A qué hora hay que dejar la habitación?* (What time is check-out?)\n\nWhen something goes wrong: *La ducha no funciona* (The shower doesn't work). *No hay agua caliente.* *El aire acondicionado hace mucho ruido.* *¿Me puede cambiar de habitación?* (Can you change my room?) *Quiero hacer una queja* (I want to make a complaint)."
+    }
+  ],
+  "vocab": [
+    ["el autobús", "the bus"],
+    ["el avión", "the plane"],
+    ["el metro", "the subway"],
+    ["el boleto", "the ticket"],
+    ["de ida y vuelta", "round-trip"],
+    ["el aeropuerto", "the airport"],
+    ["el vuelo", "the flight"],
+    ["la maleta", "the suitcase"],
+    ["el pasaporte", "the passport"],
+    ["retrasado / retrasada", "delayed"],
+    ["la reserva", "the reservation"],
+    ["la habitación", "the room (hotel)"],
+    ["incluido / incluida", "included"],
+    ["funcionar", "to work (machines)"],
+    ["la queja", "the complaint"],
+    ["la salida", "the departure / exit"],
+    ["la llegada", "the arrival"],
+    ["a pie", "on foot"]
+  ],
+  "examples": [
+    ["¿A qué hora sale el próximo tren a Cuzco?", "What time does the next train to Cuzco leave?"],
+    ["Un boleto de ida y vuelta, por favor.", "A round-trip ticket, please."],
+    ["Vamos en autobús.", "We're going by bus."],
+    ["Voy al trabajo a pie.", "I walk to work."],
+    ["El vuelo está retrasado.", "The flight is delayed."],
+    ["Perdimos el vuelo.", "We missed the flight."],
+    ["¿Dónde está la puerta de embarque?", "Where's the boarding gate?"],
+    ["Tengo que facturar la maleta.", "I have to check my suitcase."],
+    ["Aquí está mi pasaporte.", "Here's my passport."],
+    ["Tengo una reserva a nombre de Clara Smith.", "I have a reservation under the name Clara Smith."],
+    ["Quisiera una habitación doble.", "I'd like a double room."],
+    ["¿El desayuno está incluido?", "Is breakfast included?"],
+    ["La ducha no funciona.", "The shower doesn't work."],
+    ["No hay agua caliente.", "There's no hot water."],
+    ["¿Me puede cambiar de habitación?", "Can you change my room?"],
+    ["Quiero hacer una queja.", "I want to make a complaint."],
+    ["La llegada es a las cinco.", "The arrival is at five."],
+    ["¿Cuánto cuesta un boleto de metro?", "How much is a subway ticket?"],
+    ["Mi maleta no llegó.", "My suitcase didn't arrive."],
+    ["¿Dónde está la salida?", "Where's the exit?"],
+    ["Viajamos en avión.", "We traveled by plane."],
+    ["El aeropuerto está lejos del centro.", "The airport is far from downtown."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "¿A qué hora ___ el próximo tren? (salir)", "answers": ["sale"], "hint": "What time does the next train leave?"},
+    {"type": "fill", "prompt": "Un boleto de ida y ___, por favor.", "answers": ["vuelta"], "hint": "A round-trip ticket, please."},
+    {"type": "fill", "prompt": "Vamos ___ autobús.", "answers": ["en"], "hint": "We're going by bus."},
+    {"type": "fill", "prompt": "Voy al trabajo a ___.", "answers": ["pie"], "hint": "I walk to work."},
+    {"type": "fill", "prompt": "El vuelo está ___.", "answers": ["retrasado"], "hint": "The flight is delayed."},
+    {"type": "fill", "prompt": "Tengo una ___ a nombre de Clara Smith.", "answers": ["reserva"], "hint": "I have a reservation under the name Clara Smith."},
+    {"type": "fill", "prompt": "¿El desayuno está ___?", "answers": ["incluido"], "hint": "Is breakfast included?"},
+    {"type": "fill", "prompt": "La ducha no ___.", "answers": ["funciona"], "hint": "The shower doesn't work."},
+    {"type": "fill", "prompt": "Quiero hacer una ___.", "answers": ["queja"], "hint": "I want to make a complaint."},
+    {"type": "fill", "prompt": "___ el vuelo. (perder, nosotros)", "answers": ["perdimos"], "hint": "We missed the flight."},
+    {"type": "mc", "prompt": "\"by plane\" is…", "options": ["en avión", "por avión", "a avión", "con avión"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"on foot\" is…", "options": ["a pie", "en pie", "por pie", "con pies"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "In Mexico, a city bus is often called…", "options": ["el camión", "la guagua", "el colectivo", "el tren"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*facturar la maleta* means…", "options": ["to check a bag", "to pay for a suitcase", "to lose a bag", "to pack a suitcase"], "answer": 0},
+    {"type": "mc", "prompt": "*¿Me puede cambiar de habitación?* asks…", "options": ["Can you change my room?", "Can you clean my room?", "Can I pay for the room?", "Can you give me change?"], "answer": 0},
+    {"type": "mc", "prompt": "*la salida* can mean…", "options": ["departure or exit", "arrival", "the ticket", "the platform"], "answer": 0},
+    {"type": "translate", "prompt": "The flight is delayed.", "answers": ["El vuelo está retrasado."]},
+    {"type": "translate", "prompt": "I'd like a double room.", "answers": ["Quisiera una habitación doble.", "Quiero una habitación doble."]},
+    {"type": "translate", "prompt": "There's no hot water.", "answers": ["No hay agua caliente."]},
+    {"type": "translate", "prompt": "Where's the exit?", "answers": ["¿Dónde está la salida?"]},
+    {"type": "translate", "prompt": "My suitcase didn't arrive.", "answers": ["Mi maleta no llegó."]},
+    {"type": "build", "prompt": "Put the words in order: \"What time does the next train to Cuzco leave?\"", "answer": "¿A qué hora sale el próximo tren a Cuzco?"},
+    {"type": "build", "prompt": "Put the words in order: \"I have to check my suitcase.\"", "answer": "Tengo que facturar la maleta."},
+    {"type": "build", "prompt": "Put the words in order: \"The airport is far from downtown.\"", "answer": "El aeropuerto está lejos del centro."}
+  ]
+}
