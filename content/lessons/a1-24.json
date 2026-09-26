@@ -1,0 +1,92 @@
+{
+  "sections": [
+    {
+      "heading": "Ir a + infinitive: going to",
+      "body": "The easiest way to talk about the future is exactly like English \"going to\": conjugate *ir*, add *a*, then the infinitive.",
+      "table": {
+        "head": ["", "ir", "+ a + infinitive"],
+        "rows": [
+          ["*yo*", "*voy*", "*voy a estudiar* — I'm going to study"],
+          ["*tú*", "*vas*", "*vas a comer* — you're going to eat"],
+          ["*él / ella / usted*", "*va*", "*va a llover* — it's going to rain"],
+          ["*nosotros*", "*vamos*", "*vamos a viajar* — we're going to travel"],
+          ["*ustedes / ellos*", "*van*", "*van a salir* — they're going to go out"]
+        ]
+      }
+    },
+    {
+      "heading": "Plans and intentions",
+      "body": "Use it for plans and for things that are clearly about to happen: *Este fin de semana voy a visitar a mis abuelos. Mira, va a llover.* (Look, it's going to rain.) Ask about plans: *¿Qué vas a hacer mañana?* (What are you going to do tomorrow?)\n\n*Vamos a* + infinitive also means \"let's\": *¡Vamos a comer!* (Let's eat!) With reflexive verbs, the pronoun can go before *ir* or on the end of the infinitive: *Me voy a levantar temprano* = *Voy a levantarme temprano*.\n\nOther ways to talk about plans: *pensar* + infinitive (*Pienso estudiar medicina* — I'm planning to study medicine) and *querer* + infinitive."
+    },
+    {
+      "heading": "Future time expressions",
+      "body": "*mañana* (tomorrow), *pasado mañana* (the day after tomorrow), *esta tarde* (this afternoon), *esta noche* (tonight), *este fin de semana* (this weekend), *la próxima semana / la semana que viene* (next week), *el próximo mes* (next month), *el año que viene* (next year), *pronto* (soon), *más tarde* (later)."
+    }
+  ],
+  "vocab": [
+    ["ir a + infinitivo", "to be going to (do)"],
+    ["visitar", "to visit"],
+    ["esta noche", "tonight"],
+    ["esta tarde", "this afternoon"],
+    ["este fin de semana", "this weekend"],
+    ["pasado mañana", "the day after tomorrow"],
+    ["la próxima semana", "next week"],
+    ["el año que viene", "next year"],
+    ["el próximo mes", "next month"],
+    ["pronto", "soon"],
+    ["más tarde", "later"],
+    ["el plan", "the plan"],
+    ["las vacaciones", "vacation"],
+    ["descansar", "to rest"],
+    ["limpiar", "to clean"],
+    ["mira", "look"]
+  ],
+  "examples": [
+    ["Voy a estudiar esta noche.", "I'm going to study tonight."],
+    ["¿Qué vas a hacer mañana?", "What are you going to do tomorrow?"],
+    ["Este fin de semana voy a visitar a mis abuelos.", "This weekend I'm going to visit my grandparents."],
+    ["Mira, va a llover.", "Look, it's going to rain."],
+    ["Vamos a viajar a Perú el año que viene.", "We're going to travel to Peru next year."],
+    ["Ellos van a salir más tarde.", "They're going to go out later."],
+    ["¡Vamos a comer!", "Let's eat!"],
+    ["Voy a levantarme temprano.", "I'm going to get up early."],
+    ["Me voy a levantar temprano.", "I'm going to get up early."],
+    ["No voy a trabajar pasado mañana.", "I'm not going to work the day after tomorrow."],
+    ["¿Vas a venir a la fiesta?", "Are you going to come to the party?"],
+    ["La próxima semana vamos a limpiar la casa.", "Next week we're going to clean the house."],
+    ["Pienso estudiar medicina.", "I'm planning to study medicine."],
+    ["¿Cuáles son tus planes para las vacaciones?", "What are your plans for vacation?"],
+    ["Voy a descansar.", "I'm going to rest."],
+    ["Mi hermana va a tener un bebé pronto.", "My sister is going to have a baby soon."],
+    ["Esta tarde voy a cocinar.", "This afternoon I'm going to cook."],
+    ["El próximo mes voy a comprar un carro.", "Next month I'm going to buy a car."],
+    ["Van a ver una película.", "They're going to watch a movie."],
+    ["Vamos a bailar.", "Let's dance."],
+    ["Vas a comer con nosotros.", "You're going to eat with us."],
+    ["Va a hacer calor.", "It's going to be hot."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ a estudiar esta noche.", "answers": ["voy"], "hint": "I'm going to study tonight."},
+    {"type": "fill", "prompt": "¿Qué ___ a hacer mañana?", "answers": ["vas"], "hint": "What are you going to do tomorrow?"},
+    {"type": "fill", "prompt": "Mira, va ___ llover.", "answers": ["a"], "hint": "Look, it's going to rain."},
+    {"type": "fill", "prompt": "Nosotros ___ a viajar a Perú.", "answers": ["vamos"], "hint": "We're going to travel to Peru."},
+    {"type": "fill", "prompt": "Ellos van a ___ más tarde. (salir)", "answers": ["salir"], "hint": "They're going to go out later."},
+    {"type": "fill", "prompt": "Voy a ___ temprano. (levantarse)", "answers": ["levantarme"], "hint": "I'm going to get up early."},
+    {"type": "fill", "prompt": "La ___ semana vamos a limpiar la casa.", "answers": ["próxima"], "hint": "Next week we're going to clean the house."},
+    {"type": "fill", "prompt": "Vamos a viajar el año que ___.", "answers": ["viene"], "hint": "We're going to travel next year."},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Voy a comer.", "Voy comer.", "Voy a como.", "Yo va a comer."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*¡Vamos a comer!* can mean…", "options": ["Let's eat!", "We ate!", "Go eat!", "They're eating!"], "answer": 0},
+    {"type": "mc", "prompt": "What does *pasado mañana* mean?", "options": ["the day after tomorrow", "yesterday", "tomorrow morning", "last week"], "answer": 0},
+    {"type": "mc", "prompt": "Which sentence is about the future?", "options": ["Voy a descansar.", "Descanso ahora.", "Me gusta descansar.", "Descansas mucho."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Where can *me* go in \"I'm going to get up early\"?", "options": ["Before *voy* or attached to *levantar*", "Only before *voy*", "Only after *a*", "Between *voy* and *a*"], "answer": 0},
+    {"type": "mc", "prompt": "*Pienso estudiar medicina* means…", "options": ["I'm planning to study medicine.", "I think medicine is hard.", "I study medicine.", "I studied medicine."], "answer": 0},
+    {"type": "translate", "prompt": "I'm going to study tonight.", "answers": ["Voy a estudiar esta noche.", "Esta noche voy a estudiar."]},
+    {"type": "translate", "prompt": "What are you going to do tomorrow? (informal)", "answers": ["¿Qué vas a hacer mañana?"]},
+    {"type": "translate", "prompt": "It's going to rain.", "answers": ["Va a llover."]},
+    {"type": "translate", "prompt": "Let's eat!", "answers": ["¡Vamos a comer!"]},
+    {"type": "translate", "prompt": "I'm going to rest.", "answers": ["Voy a descansar."]},
+    {"type": "build", "prompt": "Put the words in order: \"This weekend I'm going to visit my grandparents.\"", "answer": "Este fin de semana voy a visitar a mis abuelos."},
+    {"type": "build", "prompt": "Put the words in order: \"Are you going to come to the party?\"", "answer": "¿Vas a venir a la fiesta?"},
+    {"type": "build", "prompt": "Put the words in order: \"Next month I'm going to buy a car.\"", "answer": "El próximo mes voy a comprar un carro."}
+  ]
+}

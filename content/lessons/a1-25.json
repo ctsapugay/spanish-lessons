@@ -1,0 +1,88 @@
+{
+  "sections": [
+    {
+      "heading": "Can: poder",
+      "body": "*Poder* + infinitive expresses ability, possibility and permission: *Puedo nadar* (I can swim), *¿Puedo entrar?* (May I come in?), *No puedo ir* (I can't go). Remember the stem change: *puedo, puedes, puede, podemos, pueden*.\n\n(For a learned skill, *saber* is also common: *Sé nadar*.)"
+    },
+    {
+      "heading": "Must: tener que and hay que",
+      "body": "- *Tener que* + infinitive = to have to (a specific person): *Tengo que trabajar mañana.* (I have to work tomorrow.) *¿Tienes que estudiar?*\n- *Hay que* + infinitive = one has to / it's necessary (general, nobody in particular): *Hay que llegar temprano.* (You have to arrive early.) *Hay que* never changes.\n- *Deber* + infinitive = should / must (obligation, advice): *Debes descansar.* (You should rest.)"
+    },
+    {
+      "heading": "Inviting, accepting, declining",
+      "body": "Invite with a question: *¿Quieres ir al cine?* (Do you want to go to the movies?) *¿Te gustaría cenar conmigo?* (Would you like to have dinner with me?) *¿Por qué no vamos a la playa?* (Why don't we go to the beach?)\n\nAccept: *¡Sí, claro!* (Yes, of course!) *¡Qué buena idea!* (What a good idea!) *¡Me encantaría!* (I'd love to!) *Vale / Está bien / Dale* (OK — *dale* is very Latin American).\n\nDecline politely, with a reason: *Lo siento, no puedo. Tengo que trabajar.* (Sorry, I can't. I have to work.) *Gracias, pero hoy no puedo. ¿Otro día?*\n\nNote *conmigo* (with me) and *contigo* (with you)."
+    },
+    {
+      "heading": "Asking for permission",
+      "body": "*¿Puedo…?* (Can I…?) *¿Se puede fumar aquí?* (Is smoking allowed here?) Answers: *Sí, claro. / Por supuesto.* (Of course.) *No, lo siento, no se puede.* (No, sorry, it's not allowed.)"
+    }
+  ],
+  "vocab": [
+    ["tener que", "to have to"],
+    ["hay que", "one has to / it's necessary"],
+    ["deber", "should / must"],
+    ["¿Quieres…?", "Do you want…?"],
+    ["¿Te gustaría…?", "Would you like…?"],
+    ["¡Claro!", "Of course!"],
+    ["¡Qué buena idea!", "What a good idea!"],
+    ["me encantaría", "I'd love to"],
+    ["lo siento", "I'm sorry"],
+    ["no puedo", "I can't"],
+    ["conmigo", "with me"],
+    ["contigo", "with you"],
+    ["otro día", "another day"],
+    ["entrar", "to come in / to enter"],
+    ["fumar", "to smoke"],
+    ["por supuesto", "of course"],
+    ["dale", "OK / sure (Latin America)"]
+  ],
+  "examples": [
+    ["Puedo nadar.", "I can swim."],
+    ["¿Puedo entrar?", "May I come in?"],
+    ["No puedo ir.", "I can't go."],
+    ["Tengo que trabajar mañana.", "I have to work tomorrow."],
+    ["¿Tienes que estudiar hoy?", "Do you have to study today?"],
+    ["Hay que llegar temprano.", "You have to arrive early."],
+    ["Debes descansar.", "You should rest."],
+    ["¿Quieres ir al cine?", "Do you want to go to the movies?"],
+    ["¿Te gustaría cenar conmigo?", "Would you like to have dinner with me?"],
+    ["¡Sí, claro!", "Yes, of course!"],
+    ["¡Qué buena idea!", "What a good idea!"],
+    ["¡Me encantaría!", "I'd love to!"],
+    ["Lo siento, no puedo. Tengo que trabajar.", "Sorry, I can't. I have to work."],
+    ["Gracias, pero hoy no puedo. ¿Otro día?", "Thanks, but I can't today. Another day?"],
+    ["Voy contigo.", "I'll go with you."],
+    ["¿Se puede fumar aquí?", "Is smoking allowed here?"],
+    ["No, lo siento, no se puede.", "No, sorry, it's not allowed."],
+    ["Por supuesto.", "Of course."],
+    ["¿Por qué no vamos a la playa?", "Why don't we go to the beach?"],
+    ["Dale, nos vemos a las ocho.", "OK, see you at eight."],
+    ["Tenemos que limpiar la casa.", "We have to clean the house."],
+    ["Ustedes deben estudiar más.", "You all should study more."],
+    ["Mis hijos tienen que dormir.", "My children have to sleep."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Tengo ___ trabajar mañana.", "answers": ["que"], "hint": "I have to work tomorrow."},
+    {"type": "fill", "prompt": "___ que llegar temprano.", "answers": ["hay"], "hint": "One has to arrive early."},
+    {"type": "fill", "prompt": "¿___ entrar? (poder, yo)", "answers": ["puedo"], "hint": "May I come in?"},
+    {"type": "fill", "prompt": "Nosotros ___ que limpiar la casa. (tener)", "answers": ["tenemos"], "hint": "We have to clean the house."},
+    {"type": "fill", "prompt": "___ descansar. (deber, tú)", "answers": ["debes"], "hint": "You should rest."},
+    {"type": "fill", "prompt": "¿Te gustaría cenar ___?", "answers": ["conmigo"], "hint": "Would you like to have dinner with me?"},
+    {"type": "fill", "prompt": "Voy ___.", "answers": ["contigo"], "hint": "I'll go with you."},
+    {"type": "fill", "prompt": "Lo ___, no puedo.", "answers": ["siento"], "hint": "Sorry, I can't."},
+    {"type": "mc", "prompt": "A friend invites you to the movies but you have to work. You say…", "options": ["Lo siento, no puedo. Tengo que trabajar.", "¡Me encantaría!", "¡Qué buena idea!", "Sí, claro."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "A friend says *¿Quieres ir a la playa?* and you'd love to. You say…", "options": ["¡Me encantaría!", "Lo siento, no puedo.", "No se puede.", "Tengo que ir."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which expresses a general obligation (for everybody)?", "options": ["Hay que estudiar.", "Tengo que estudiar.", "Puedo estudiar.", "Quiero estudiar."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What does *¿Se puede fumar aquí?* ask?", "options": ["Is smoking allowed here?", "Do you smoke here?", "Can you smoke for me?", "Where can I smoke?"], "answer": 0},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["Tengo que trabajar.", "Tengo trabajar.", "Tengo de trabajar.", "Tengo a trabajar."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Dale* (in much of Latin America) means…", "options": ["OK / sure", "give it", "goodbye", "sorry"], "answer": 0},
+    {"type": "translate", "prompt": "I have to work tomorrow.", "answers": ["Tengo que trabajar mañana.", "Mañana tengo que trabajar."]},
+    {"type": "translate", "prompt": "Do you want to go to the movies? (informal)", "answers": ["¿Quieres ir al cine?"]},
+    {"type": "translate", "prompt": "I can't go.", "answers": ["No puedo ir."]},
+    {"type": "translate", "prompt": "Yes, of course!", "answers": ["¡Sí, claro!", "¡Sí, por supuesto!"]},
+    {"type": "translate", "prompt": "May I come in?", "answers": ["¿Puedo entrar?"]},
+    {"type": "build", "prompt": "Put the words in order: \"Thanks, but I can't today. Another day?\"", "answer": "Gracias, pero hoy no puedo. ¿Otro día?"},
+    {"type": "build", "prompt": "Put the words in order: \"Why don't we go to the beach?\"", "answer": "¿Por qué no vamos a la playa?"},
+    {"type": "build", "prompt": "Put the words in order: \"You all should study more.\"", "answer": "Ustedes deben estudiar más."}
+  ]
+}

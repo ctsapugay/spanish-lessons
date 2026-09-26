@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "heading": "What's the weather like?",
+      "body": "Ask *¿Qué tiempo hace?* (What's the weather like?) Spanish uses different verbs for different weather:\n\n- *hacer* + noun: *Hace calor* (it's hot), *hace frío* (it's cold), *hace sol* (it's sunny), *hace viento* (it's windy), *hace buen tiempo / mal tiempo* (the weather is good / bad). To intensify: *hace mucho calor*.\n- *estar* + adjective: *Está nublado* (it's cloudy), *está soleado* (it's sunny).\n- verbs of their own: *llueve* (it's raining / it rains, from *llover*), *nieva* (it's snowing, from *nevar*).\n- *hay*: *Hay niebla* (it's foggy), *hay tormenta* (there's a storm).\n\nFor people, use *tener*: *Tengo frío* (I'm cold), *tengo calor* (I'm hot) — never *estoy frío*."
+    },
+    {
+      "heading": "Months and seasons",
+      "body": "Months are masculine and written with a small letter: *enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre*.\n\nSeasons: *la primavera* (spring), *el verano* (summer), *el otoño* (fall), *el invierno* (winter). Remember that in the southern hemisphere — Argentina, Chile, Uruguay — *diciembre* is summer! Near the equator many places just have *la temporada de lluvias* (rainy season) and *la temporada seca* (dry season)."
+    },
+    {
+      "heading": "Dates",
+      "body": "Dates go day + *de* + month: *el 15 de marzo*, *el primero de mayo* (the first uses *primero* or *uno*). Ask *¿Qué fecha es hoy?* or *¿A qué fecha estamos?* — *Hoy es el cuatro de julio.* \"In June\" is *en junio*. Years are read as full numbers: *1998* = *mil novecientos noventa y ocho*, *2025* = *dos mil veinticinco*. Your birthday: *Mi cumpleaños es el 10 de agosto.*"
+    }
+  ],
+  "vocab": [
+    ["el tiempo", "the weather / time"],
+    ["hace calor", "it's hot"],
+    ["hace frío", "it's cold"],
+    ["hace sol", "it's sunny"],
+    ["hace viento", "it's windy"],
+    ["llueve", "it rains / it's raining"],
+    ["nieva", "it snows / it's snowing"],
+    ["está nublado", "it's cloudy"],
+    ["la lluvia", "the rain"],
+    ["enero", "January"],
+    ["marzo", "March"],
+    ["mayo", "May"],
+    ["julio", "July"],
+    ["septiembre", "September"],
+    ["diciembre", "December"],
+    ["la primavera", "spring"],
+    ["el verano", "summer"],
+    ["el otoño", "fall / autumn"],
+    ["el invierno", "winter"],
+    ["la fecha", "the date"],
+    ["el cumpleaños", "the birthday"],
+    ["el mes", "the month"]
+  ],
+  "examples": [
+    ["¿Qué tiempo hace hoy?", "What's the weather like today?"],
+    ["Hace mucho calor.", "It's very hot."],
+    ["Hace frío en invierno.", "It's cold in winter."],
+    ["Hace sol y hace viento.", "It's sunny and windy."],
+    ["Hoy llueve.", "It's raining today."],
+    ["En diciembre nieva.", "It snows in December."],
+    ["Está nublado.", "It's cloudy."],
+    ["Hace buen tiempo.", "The weather is nice."],
+    ["Hace mal tiempo.", "The weather is bad."],
+    ["Tengo frío.", "I'm cold."],
+    ["Tengo calor.", "I'm hot."],
+    ["¿Qué fecha es hoy?", "What's the date today?"],
+    ["Hoy es el cuatro de julio.", "Today is the fourth of July."],
+    ["Mi cumpleaños es el diez de agosto.", "My birthday is August tenth."],
+    ["El primero de mayo.", "The first of May."],
+    ["Me gusta la primavera.", "I like spring."],
+    ["En Chile, enero es verano.", "In Chile, January is summer."],
+    ["Hay niebla.", "It's foggy."],
+    ["Me gusta el otoño.", "I like the fall."],
+    ["El quince de septiembre.", "September fifteenth."],
+    ["En marzo hace viento.", "It's windy in March."],
+    ["¿Qué mes es?", "What month is it?"],
+    ["Me gusta la lluvia.", "I like the rain."],
+    ["En junio hace calor.", "It's hot in June."],
+    ["Febrero, abril, octubre y noviembre.", "February, April, October and November."],
+    ["Hace sol en verano.", "It's sunny in summer."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "¿Qué tiempo ___ hoy?", "answers": ["hace"], "hint": "What's the weather like today?"},
+    {"type": "fill", "prompt": "Hace mucho ___.", "answers": ["calor", "frío"], "hint": "It's very hot. (or very cold)"},
+    {"type": "fill", "prompt": "Está ___.", "answers": ["nublado"], "hint": "It's cloudy."},
+    {"type": "fill", "prompt": "Hoy ___. (llover)", "answers": ["llueve"], "hint": "It's raining today."},
+    {"type": "fill", "prompt": "En diciembre ___. (nevar)", "answers": ["nieva"], "hint": "It snows in December."},
+    {"type": "fill", "prompt": "___ frío.", "answers": ["tengo"], "hint": "I'm cold. (a person)"},
+    {"type": "fill", "prompt": "Hoy es el cuatro ___ julio.", "answers": ["de"], "hint": "Today is the fourth of July."},
+    {"type": "fill", "prompt": "Mi ___ es el diez de agosto.", "answers": ["cumpleaños"], "hint": "My birthday is August tenth."},
+    {"type": "mc", "prompt": "You feel cold. Which is correct?", "options": ["Tengo frío.", "Estoy frío.", "Soy frío.", "Hace frío yo."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which month comes after *mayo*?", "options": ["junio", "julio", "abril", "marzo"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which month comes before *diciembre*?", "options": ["noviembre", "octubre", "enero", "septiembre"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "In Argentina, what season is it in January?", "options": ["el verano", "el invierno", "el otoño", "la primavera"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you say \"It's sunny\"?", "options": ["Hace sol.", "Es sol.", "Está sol.", "Hay sol mucho."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you write \"March 15\"?", "options": ["el quince de marzo", "marzo quince", "el marzo quince", "quince marzo"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Are months capitalized in Spanish?", "options": ["No: enero, febrero…", "Yes: Enero, Febrero…"], "answer": 0},
+    {"type": "translate", "prompt": "It's very hot.", "answers": ["Hace mucho calor."]},
+    {"type": "translate", "prompt": "It's raining today.", "answers": ["Hoy llueve.", "Llueve hoy."]},
+    {"type": "translate", "prompt": "I'm cold.", "answers": ["Tengo frío.", "Yo tengo frío."]},
+    {"type": "translate", "prompt": "What's the date today?", "answers": ["¿Qué fecha es hoy?"]},
+    {"type": "translate", "prompt": "I like spring.", "answers": ["Me gusta la primavera."]},
+    {"type": "build", "prompt": "Put the words in order: \"It's cold in winter.\"", "answer": "Hace frío en invierno."},
+    {"type": "build", "prompt": "Put the words in order: \"In Chile, January is summer.\"", "answer": "En Chile, enero es verano."},
+    {"type": "build", "prompt": "Put the words in order: \"It's sunny and windy.\"", "answer": "Hace sol y hace viento."}
+  ]
+}

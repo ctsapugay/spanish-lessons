@@ -1,0 +1,437 @@
+{
+  "sections": [
+    {
+      "heading": "This, that, that over there",
+      "body": "Spanish has three distances. The demonstrative agrees with the noun in gender and number.",
+      "table": {
+        "head": [
+          "",
+          "near me (this)",
+          "near you (that)",
+          "far from both (that over there)"
+        ],
+        "rows": [
+          [
+            "masc. sing.",
+            "*este*",
+            "*ese*",
+            "*aquel*"
+          ],
+          [
+            "fem. sing.",
+            "*esta*",
+            "*esa*",
+            "*aquella*"
+          ],
+          [
+            "masc. plural",
+            "*estos*",
+            "*esos*",
+            "*aquellos*"
+          ],
+          [
+            "fem. plural",
+            "*estas*",
+            "*esas*",
+            "*aquellas*"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Using them",
+      "body": "Before a noun: *Esta camisa es bonita.* (This shirt is pretty.) *¿Cuánto cuestan esos zapatos?* (How much are those shoes?)\n\nOn their own, when the noun is clear: *¿Te gusta esta? — No, prefiero esa.* (Do you like this one? — No, I prefer that one.)\n\nFor something unknown or an idea, use the neuter forms *esto* (this), *eso* (that), *aquello* (that over there): *¿Qué es esto?* (What's this?) *Eso es interesante.* They never go before a noun."
+    },
+    {
+      "heading": "Colours",
+      "body": "Colours are adjectives and go after the noun. Those ending in *-o* have four forms (*rojo, roja, rojos, rojas*); the others have two (*verde, verdes; azul, azules*). *Rosa* and *naranja* often don't change at all: *unos zapatos rosa*.\n\nTo ask: *¿De qué color es?* (What colour is it?)"
+    },
+    {
+      "heading": "In the shop",
+      "body": "- *¿Puedo probarme esta camisa?* — Can I try on this shirt?\n- *¿Qué talla usa?* — What size do you wear? (clothes) · *¿Qué número calza?* — What size shoe?\n- *Me queda grande / pequeño.* — It's too big / small on me.\n- *Me lo llevo.* — I'll take it."
+    }
+  ],
+  "vocab": [
+    [
+      "este / esta",
+      "this"
+    ],
+    [
+      "ese / esa",
+      "that"
+    ],
+    [
+      "aquel / aquella",
+      "that (over there)"
+    ],
+    [
+      "esto",
+      "this (thing / idea)"
+    ],
+    [
+      "eso",
+      "that (thing / idea)"
+    ],
+    [
+      "la ropa",
+      "clothes"
+    ],
+    [
+      "la camisa",
+      "the shirt"
+    ],
+    [
+      "la camiseta",
+      "the T-shirt"
+    ],
+    [
+      "los pantalones",
+      "the pants"
+    ],
+    [
+      "la falda",
+      "the skirt"
+    ],
+    [
+      "el vestido",
+      "the dress"
+    ],
+    [
+      "los zapatos",
+      "the shoes"
+    ],
+    [
+      "la chaqueta",
+      "the jacket"
+    ],
+    [
+      "rojo / roja",
+      "red"
+    ],
+    [
+      "azul",
+      "blue"
+    ],
+    [
+      "verde",
+      "green"
+    ],
+    [
+      "amarillo / amarilla",
+      "yellow"
+    ],
+    [
+      "negro / negra",
+      "black"
+    ],
+    [
+      "blanco / blanca",
+      "white"
+    ],
+    [
+      "gris",
+      "gray"
+    ],
+    [
+      "el color",
+      "the color"
+    ],
+    [
+      "la talla",
+      "the size (clothes)"
+    ],
+    [
+      "probarse",
+      "to try on"
+    ],
+    [
+      "me lo llevo",
+      "I'll take it"
+    ]
+  ],
+  "examples": [
+    [
+      "Esta camisa es muy bonita.",
+      "This shirt is very pretty."
+    ],
+    [
+      "¿Cuánto cuestan esos zapatos?",
+      "How much are those shoes?"
+    ],
+    [
+      "Aquella chaqueta es cara.",
+      "That jacket over there is expensive."
+    ],
+    [
+      "Estos pantalones son negros.",
+      "These pants are black."
+    ],
+    [
+      "¿Te gusta esta? No, prefiero esa.",
+      "Do you like this one? No, I prefer that one."
+    ],
+    [
+      "¿Qué es esto?",
+      "What's this?"
+    ],
+    [
+      "Eso es interesante.",
+      "That's interesting."
+    ],
+    [
+      "¿De qué color es?",
+      "What color is it?"
+    ],
+    [
+      "Es una falda roja.",
+      "It's a red skirt."
+    ],
+    [
+      "Tengo unos zapatos azules.",
+      "I have some blue shoes."
+    ],
+    [
+      "Me gustan las camisetas blancas.",
+      "I like white T-shirts."
+    ],
+    [
+      "¿Puedo probarme esta camisa?",
+      "Can I try on this shirt?"
+    ],
+    [
+      "¿Qué talla usa?",
+      "What size do you wear?"
+    ],
+    [
+      "Me queda grande.",
+      "It's too big on me."
+    ],
+    [
+      "Me lo llevo.",
+      "I'll take it."
+    ],
+    [
+      "Ese vestido verde es precioso.",
+      "That green dress is beautiful."
+    ],
+    [
+      "Aquellos pantalones grises.",
+      "Those gray pants over there."
+    ],
+    [
+      "Esas camisas amarillas.",
+      "Those yellow shirts."
+    ],
+    [
+      "Necesito ropa nueva.",
+      "I need new clothes."
+    ],
+    [
+      "Este color me gusta.",
+      "I like this color."
+    ],
+    [
+      "Estas chaquetas son rojas.",
+      "These jackets are red."
+    ],
+    [
+      "Me queda pequeño.",
+      "It's too small on me."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "___ camisa es muy bonita.",
+      "answers": [
+        "esta"
+      ],
+      "hint": "This shirt is very pretty."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Cuánto cuestan ___ zapatos?",
+      "answers": [
+        "esos"
+      ],
+      "hint": "How much are those shoes?"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ pantalones son negros.",
+      "answers": [
+        "estos"
+      ],
+      "hint": "These pants are black."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué es ___?",
+      "answers": [
+        "esto",
+        "eso"
+      ],
+      "hint": "What's this?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Es una falda ___. (rojo)",
+      "answers": [
+        "roja"
+      ],
+      "hint": "It's a red skirt."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tengo unos zapatos ___. (azul)",
+      "answers": [
+        "azules"
+      ],
+      "hint": "I have some blue shoes."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me gustan las camisetas ___. (blanco)",
+      "answers": [
+        "blancas"
+      ],
+      "hint": "I like white T-shirts."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me lo ___.",
+      "answers": [
+        "llevo"
+      ],
+      "hint": "I'll take it."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿De qué ___ es?",
+      "answers": [
+        "color"
+      ],
+      "hint": "What color is it?"
+    },
+    {
+      "type": "mc",
+      "prompt": "The jacket is far away from both of you. Which word?",
+      "options": [
+        "aquella",
+        "esta",
+        "esa",
+        "aquel"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"What's this?\"",
+      "options": [
+        "¿Qué es esto?",
+        "¿Qué es este?",
+        "¿Qué es esta?"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "For an unknown thing, use the neuter *esto*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"some green shoes\"?",
+      "options": [
+        "unos zapatos verdes",
+        "unos zapatos verdos",
+        "unos verdes zapatos"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Me queda pequeño* means…",
+      "options": [
+        "It's too small on me.",
+        "I'm staying small.",
+        "I have a little left.",
+        "I prefer small."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*¿Qué talla usa?* asks about…",
+      "options": [
+        "your clothing size",
+        "your shoe color",
+        "the price",
+        "the time"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the plural of *aquel*?",
+      "options": [
+        "aquellos",
+        "aquels",
+        "aquelles",
+        "aquellas"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "What's this?",
+      "answers": [
+        "¿Qué es esto?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I like this color.",
+      "answers": [
+        "Me gusta este color.",
+        "Este color me gusta."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Can I try on this shirt?",
+      "answers": [
+        "¿Puedo probarme esta camisa?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's a red skirt.",
+      "answers": [
+        "Es una falda roja."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'll take it.",
+      "answers": [
+        "Me lo llevo."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"That jacket over there is expensive.\"",
+      "answer": "Aquella chaqueta es cara."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"How much are those shoes?\"",
+      "answer": "¿Cuánto cuestan esos zapatos?"
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"That green dress is beautiful.\"",
+      "answer": "Ese vestido verde es precioso."
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "sections": [
+    {
+      "heading": "Rooms of the house",
+      "body": "*La casa* (house) or *el apartamento* (apartment — *el departamento* in Mexico and Argentina, *el piso* in Spain). The rooms: *la sala* (living room), *la cocina* (kitchen), *el dormitorio* or *el cuarto* (bedroom — *la recámara* in Mexico), *el baño* (bathroom), *el comedor* (dining room), *el jardín* (garden, yard). Floors: *el primer piso* can mean the ground floor or the first floor up depending on the country."
+    },
+    {
+      "heading": "Where things are",
+      "body": "Location uses *estar* + a preposition. Many are phrases ending in *de* — remember *de + el = del*.",
+      "table": {
+        "head": ["Spanish", "English", "Example"],
+        "rows": [
+          ["*en*", "in, on, at", "*El libro está en la mesa.*"],
+          ["*encima de / sobre*", "on top of", "*Las llaves están encima de la cama.*"],
+          ["*debajo de*", "under", "*El gato está debajo de la silla.*"],
+          ["*al lado de*", "next to", "*La cocina está al lado del comedor.*"],
+          ["*delante de*", "in front of", "*El carro está delante de la casa.*"],
+          ["*detrás de*", "behind", "*El jardín está detrás de la casa.*"],
+          ["*entre*", "between", "*El sofá está entre las ventanas.*"],
+          ["*dentro de / fuera de*", "inside / outside", "*El perro está fuera de la casa.*"],
+          ["*enfrente de*", "opposite", "*El banco está enfrente del parque.*"]
+        ]
+      }
+    },
+    {
+      "heading": "Describing your home",
+      "body": "Use *hay* for what there is and *tener* for what your home has: *Mi apartamento tiene dos dormitorios. En la sala hay un sofá y una mesa.* Use *ser* for what it's like (*Es grande y moderno*) and *estar* for where it is (*Está en el centro*)."
+    }
+  ],
+  "vocab": [
+    ["el apartamento", "the apartment"],
+    ["la sala", "the living room"],
+    ["la cocina", "the kitchen"],
+    ["el dormitorio / el cuarto", "the bedroom"],
+    ["el comedor", "the dining room"],
+    ["el jardín", "the garden / yard"],
+    ["la cama", "the bed"],
+    ["el sofá", "the sofa"],
+    ["el armario", "the closet / wardrobe"],
+    ["la lámpara", "the lamp"],
+    ["el refrigerador", "the refrigerator"],
+    ["las llaves", "the keys"],
+    ["encima de", "on top of"],
+    ["debajo de", "under"],
+    ["al lado de", "next to"],
+    ["delante de", "in front of"],
+    ["detrás de", "behind"],
+    ["entre", "between"],
+    ["dentro de", "inside"],
+    ["fuera de", "outside"],
+    ["enfrente de", "opposite / across from"],
+    ["moderno / moderna", "modern"]
+  ],
+  "examples": [
+    ["Mi apartamento tiene dos dormitorios.", "My apartment has two bedrooms."],
+    ["En la sala hay un sofá y una lámpara.", "In the living room there's a sofa and a lamp."],
+    ["El libro está en la mesa.", "The book is on the table."],
+    ["Las llaves están encima de la cama.", "The keys are on the bed."],
+    ["El gato está debajo de la silla.", "The cat is under the chair."],
+    ["La cocina está al lado del comedor.", "The kitchen is next to the dining room."],
+    ["El carro está delante de la casa.", "The car is in front of the house."],
+    ["El jardín está detrás de la casa.", "The garden is behind the house."],
+    ["El sofá está entre las ventanas.", "The sofa is between the windows."],
+    ["El perro está fuera de la casa.", "The dog is outside the house."],
+    ["La ropa está dentro del armario.", "The clothes are inside the closet."],
+    ["El banco está enfrente del parque.", "The bank is across from the park."],
+    ["Mi casa es grande y moderna.", "My house is big and modern."],
+    ["El refrigerador está en la cocina.", "The refrigerator is in the kitchen."],
+    ["¿Dónde están mis llaves?", "Where are my keys?"],
+    ["Hay una lámpara al lado de la cama.", "There's a lamp next to the bed."],
+    ["El apartamento está en el centro.", "The apartment is downtown."],
+    ["Tenemos un jardín pequeño.", "We have a small garden."],
+    ["La mesa está delante del sofá.", "The table is in front of the sofa."],
+    ["Los zapatos están debajo de la cama.", "The shoes are under the bed."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "El gato está ___ de la silla.", "answers": ["debajo"], "hint": "The cat is under the chair."},
+    {"type": "fill", "prompt": "La cocina está al lado ___ comedor.", "answers": ["del"], "hint": "The kitchen is next to the dining room."},
+    {"type": "fill", "prompt": "El jardín está ___ de la casa.", "answers": ["detrás"], "hint": "The garden is behind the house."},
+    {"type": "fill", "prompt": "El sofá está ___ las ventanas.", "answers": ["entre"], "hint": "The sofa is between the windows."},
+    {"type": "fill", "prompt": "La ropa está dentro ___ armario.", "answers": ["del"], "hint": "The clothes are inside the closet."},
+    {"type": "fill", "prompt": "Las llaves ___ encima de la cama.", "answers": ["están"], "hint": "The keys are on the bed."},
+    {"type": "fill", "prompt": "En la sala ___ un sofá.", "answers": ["hay"], "hint": "In the living room there's a sofa."},
+    {"type": "fill", "prompt": "Mi apartamento ___ dos dormitorios.", "answers": ["tiene"], "hint": "My apartment has two bedrooms."},
+    {"type": "fill", "prompt": "El banco está ___ del parque.", "answers": ["enfrente"], "hint": "The bank is across from the park."},
+    {"type": "mc", "prompt": "Where do you cook?", "options": ["la cocina", "el comedor", "el dormitorio", "el jardín"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Where do you sleep?", "options": ["el dormitorio", "la sala", "la cocina", "el baño"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The opposite of *delante de* is…", "options": ["detrás de", "debajo de", "encima de", "al lado de"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The opposite of *dentro de* is…", "options": ["fuera de", "entre", "encima de", "cerca de"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Mi casa ___ grande.", "options": ["es", "está", "hay"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: El apartamento ___ en el centro.", "options": ["está", "es", "hay"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "In Mexico, a bedroom is often called…", "options": ["la recámara", "la sala", "el comedor", "el armario"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "The book is on the table.", "answers": ["El libro está en la mesa.", "El libro está encima de la mesa.", "El libro está sobre la mesa."]},
+    {"type": "translate", "prompt": "Where are my keys?", "answers": ["¿Dónde están mis llaves?"]},
+    {"type": "translate", "prompt": "The dog is outside the house.", "answers": ["El perro está fuera de la casa."]},
+    {"type": "translate", "prompt": "We have a small garden.", "answers": ["Tenemos un jardín pequeño.", "Nosotros tenemos un jardín pequeño."]},
+    {"type": "translate", "prompt": "The refrigerator is in the kitchen.", "answers": ["El refrigerador está en la cocina."]},
+    {"type": "build", "prompt": "Put the words in order: \"There's a lamp next to the bed.\"", "answer": "Hay una lámpara al lado de la cama."},
+    {"type": "build", "prompt": "Put the words in order: \"The car is in front of the house.\"", "answer": "El carro está delante de la casa."},
+    {"type": "build", "prompt": "Put the words in order: \"The shoes are under the bed.\"", "answer": "Los zapatos están debajo de la cama."}
+  ]
+}

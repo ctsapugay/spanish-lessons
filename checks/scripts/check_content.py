@@ -14,8 +14,8 @@ Covers G2, C-NO-FORWARD-REFERENCES and C-ANSWERABLE. For every lesson in the out
                  builders have at least two words; no two items in a lesson share a prompt.
   in order       every Spanish word an exercise requires (fill-in prompts and answers,
                  translation answers, word-builder answers, the correct option of a Spanish
-                 multiple-choice item) appears in the vocabulary, examples, tables or
-                 *italicised* Spanish of this lesson or an earlier one. Proper nouns
+                 multiple-choice item) appears in the vocabulary, examples, or *italicised*
+                 Spanish (in text or tables) of this lesson or an earlier one. Proper nouns
                  (capitalised mid-sentence) and numbers are exempt.
 
     python3 checks/scripts/check_content.py            # whole course
@@ -76,7 +76,8 @@ for level, meta in ordered_lessons(course):
         if table:
             for row in [table.get("head", [])] + table.get("rows", []):
                 for cell in row:
-                    learn(cell)
+                    for span in spanish_spans_in_body(cell):  # only *italic* Spanish teaches
+                        learn(span)
 
     built = build_lesson(lid, meta, level, earlier_vocab[-60:])
     earlier_vocab += src.get("vocab", [])
