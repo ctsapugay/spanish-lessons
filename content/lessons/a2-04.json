@@ -1,0 +1,99 @@
+{
+  "sections": [
+    {
+      "heading": "Stem changes in -ir verbs",
+      "body": "*-ar* and *-er* verbs never change their stem in the preterite. But *-ir* verbs that change in the present (*pedir, dormir, preferir…*) also change in the preterite — only in the third person (*él, ella, usted, ellos, ellas, ustedes*): e → i, o → u.",
+      "table": {
+        "head": ["Pronoun", "pedir", "dormir", "preferir"],
+        "rows": [
+          ["*yo*", "*pedí*", "*dormí*", "*preferí*"],
+          ["*tú*", "*pediste*", "*dormiste*", "*preferiste*"],
+          ["*él / ella / usted*", "*pidió*", "*durmió*", "*prefirió*"],
+          ["*nosotros*", "*pedimos*", "*dormimos*", "*preferimos*"],
+          ["*ustedes / ellos*", "*pidieron*", "*durmieron*", "*prefirieron*"]
+        ]
+      }
+    },
+    {
+      "heading": "More verbs like these",
+      "body": "e → i: *repetir* (*repitió*), *servir* (*sirvió*), *seguir* (*siguió*), *sentir* (*sintió*), *vestirse* (*se vistió*), *divertirse* (*se divirtió* — had fun). o → u: *morir* (*murió* — died)."
+    },
+    {
+      "heading": "Telling a story in order",
+      "body": "Link completed events with sequence words: *primero* (first), *luego / después* (then), *más tarde* (later), *entonces* (so, then), *al final / por fin* (finally, at last). And set the scene in time: *un día* (one day), *esa noche* (that night), *a las ocho* (at eight), *dos horas después* (two hours later).\n\n*Primero fuimos al museo, luego comimos en el centro y al final volvimos al hotel.*"
+    }
+  ],
+  "vocab": [
+    ["pidió", "he/she asked for / ordered"],
+    ["durmió", "he/she slept"],
+    ["prefirió", "he/she preferred"],
+    ["repitió", "he/she repeated"],
+    ["sirvió", "he/she served"],
+    ["siguió", "he/she followed / continued"],
+    ["se divirtió", "he/she had fun"],
+    ["murió", "he/she died"],
+    ["seguir", "to follow / to continue"],
+    ["divertirse", "to have fun"],
+    ["morir", "to die"],
+    ["entonces", "then / so"],
+    ["al final", "in the end / finally"],
+    ["por fin", "at last"],
+    ["un día", "one day"],
+    ["esa noche", "that night"],
+    ["después", "later / afterwards"]
+  ],
+  "examples": [
+    ["Mi hermano pidió una pizza.", "My brother ordered a pizza."],
+    ["¿Qué pediste?", "What did you order?"],
+    ["Pedí pescado.", "I ordered fish."],
+    ["Los niños durmieron diez horas.", "The children slept ten hours."],
+    ["¿Dormiste bien?", "Did you sleep well?"],
+    ["Ella prefirió quedarse en casa.", "She preferred to stay at home."],
+    ["El profesor repitió la pregunta.", "The teacher repeated the question."],
+    ["El mesero nos sirvió el vino.", "The waiter served us the wine."],
+    ["Nos divertimos mucho en la fiesta.", "We had a lot of fun at the party."],
+    ["Se divirtieron mucho.", "They had a lot of fun."],
+    ["Mi abuelo murió en 2010.", "My grandfather died in 2010."],
+    ["Primero fuimos al museo.", "First we went to the museum."],
+    ["Luego comimos en el centro.", "Then we ate downtown."],
+    ["Al final volvimos al hotel.", "In the end we went back to the hotel."],
+    ["Un día conocí a una chica en el tren.", "One day I met a girl on the train."],
+    ["Esa noche no dormí.", "That night I didn't sleep."],
+    ["Dos horas después, llegó la policía.", "Two hours later, the police arrived."],
+    ["Por fin terminé el libro.", "At last I finished the book."],
+    ["Siguieron la calle hasta el parque.", "They followed the street to the park."],
+    ["Entonces decidimos volver.", "So we decided to go back."],
+    ["Ella se vistió y salió.", "She got dressed and left."],
+    ["Pidieron la cuenta.", "They asked for the check."],
+    ["Durmió en el sofá.", "He slept on the sofa."],
+    ["Después fuimos a la playa.", "Afterwards we went to the beach."],
+    ["Siguió estudiando.", "She kept studying."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Mi hermano ___ una pizza. (pedir)", "answers": ["pidió"], "hint": "My brother ordered a pizza."},
+    {"type": "fill", "prompt": "Yo ___ pescado. (pedir)", "answers": ["pedí"], "hint": "I ordered fish."},
+    {"type": "fill", "prompt": "Los niños ___ diez horas. (dormir)", "answers": ["durmieron"], "hint": "The children slept ten hours."},
+    {"type": "fill", "prompt": "¿___ bien? (dormir, tú)", "answers": ["dormiste"], "hint": "Did you sleep well?"},
+    {"type": "fill", "prompt": "Ella ___ quedarse en casa. (preferir)", "answers": ["prefirió"], "hint": "She preferred to stay at home."},
+    {"type": "fill", "prompt": "El profesor ___ la pregunta. (repetir)", "answers": ["repitió"], "hint": "The teacher repeated the question."},
+    {"type": "fill", "prompt": "El mesero nos ___ el vino. (servir)", "answers": ["sirvió"], "hint": "The waiter served us the wine."},
+    {"type": "fill", "prompt": "Nos ___ mucho en la fiesta. (divertirse)", "answers": ["divertimos"], "hint": "We had a lot of fun at the party."},
+    {"type": "fill", "prompt": "Mi abuelo ___ en 2010. (morir)", "answers": ["murió"], "hint": "My grandfather died in 2010."},
+    {"type": "fill", "prompt": "___ fuimos al museo.", "answers": ["primero"], "hint": "First we went to the museum."},
+    {"type": "fill", "prompt": "Por ___ terminé el libro.", "answers": ["fin"], "hint": "At last I finished the book."},
+    {"type": "fill", "prompt": "Ellos ___ la calle hasta el parque. (seguir)", "answers": ["siguieron"], "hint": "They followed the street to the park."},
+    {"type": "mc", "prompt": "Which verbs change their stem in the preterite?", "options": ["-ir verbs that change in the present, only in the third person", "all stem-changing verbs, in all forms", "only -ar verbs", "none"], "answer": 0},
+    {"type": "mc", "prompt": "Which is correct: \"he slept\"?", "options": ["durmió", "dormió", "duermió", "dormí"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is correct: \"I slept\"?", "options": ["dormí", "durmí", "duermí", "durmió"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Does *volver* change in the preterite (*él volvió*)?", "options": ["No, -er verbs don't change in the preterite", "Yes: vulvió"], "answer": 0},
+    {"type": "mc", "prompt": "*Nos divertimos* means…", "options": ["We had fun.", "We got divorced.", "We diverted.", "We went out."], "answer": 0},
+    {"type": "translate", "prompt": "What did you order? (informal)", "answers": ["¿Qué pediste?"]},
+    {"type": "translate", "prompt": "Did you sleep well? (informal)", "answers": ["¿Dormiste bien?"]},
+    {"type": "translate", "prompt": "We had a lot of fun.", "answers": ["Nos divertimos mucho."]},
+    {"type": "translate", "prompt": "That night I didn't sleep.", "answers": ["Esa noche no dormí."]},
+    {"type": "translate", "prompt": "They asked for the check.", "answers": ["Pidieron la cuenta.", "Ellos pidieron la cuenta."]},
+    {"type": "build", "prompt": "Put the words in order: \"Then we ate downtown.\"", "answer": "Luego comimos en el centro."},
+    {"type": "build", "prompt": "Put the words in order: \"Two hours later, the police arrived.\"", "answer": "Dos horas después, llegó la policía."},
+    {"type": "build", "prompt": "Put the words in order: \"One day I met a girl on the train.\"", "answer": "Un día conocí a una chica en el tren."}
+  ]
+}

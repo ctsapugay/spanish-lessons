@@ -1,0 +1,111 @@
+{
+  "sections": [
+    {
+      "heading": "A second past tense",
+      "body": "Spanish has two main simple past tenses. The preterite tells what happened. The imperfect (*el imperfecto*) describes how things **used to be** or **were going on**: habits, repeated actions, and background. *Cuando era niño, jugaba al fútbol todos los días.* (When I was a child, I used to play soccer every day.)"
+    },
+    {
+      "heading": "Forms: almost completely regular",
+      "body": "",
+      "table": {
+        "head": ["Pronoun", "-ar: hablar", "-er: comer", "-ir: vivir"],
+        "rows": [
+          ["*yo*", "*hablaba*", "*comía*", "*vivía*"],
+          ["*tú*", "*hablabas*", "*comías*", "*vivías*"],
+          ["*él / ella / usted*", "*hablaba*", "*comía*", "*vivía*"],
+          ["*nosotros*", "*hablábamos*", "*comíamos*", "*vivíamos*"],
+          ["*ustedes / ellos*", "*hablaban*", "*comían*", "*vivían*"]
+        ]
+      }
+    },
+    {
+      "heading": "Only three irregular verbs",
+      "body": "",
+      "table": {
+        "head": ["Pronoun", "ser", "ir", "ver"],
+        "rows": [
+          ["*yo*", "*era*", "*iba*", "*veía*"],
+          ["*tú*", "*eras*", "*ibas*", "*veías*"],
+          ["*él / ella / usted*", "*era*", "*iba*", "*veía*"],
+          ["*nosotros*", "*éramos*", "*íbamos*", "*veíamos*"],
+          ["*ustedes / ellos*", "*eran*", "*iban*", "*veían*"]
+        ]
+      }
+    },
+    {
+      "heading": "Past habits",
+      "body": "The imperfect is the natural tense for \"used to\" and \"would\" (for habits). Typical signals: *antes* (before, in the past), *de niño / de niña* (as a child), *cuando era joven* (when I was young), *siempre, todos los días, a menudo, normalmente, cada verano* (every summer).\n\n*Antes vivía en Chicago.* (I used to live in Chicago.) *De niña, iba a la playa cada verano.* (As a girl, I went to the beach every summer.) *Hay* becomes *había* (there was / there were): *Había un parque cerca de mi casa.*"
+    }
+  ],
+  "vocab": [
+    ["era", "I/he/she was (imperfect of ser)"],
+    ["iba", "I/he/she used to go / was going"],
+    ["veía", "I/he/she used to see / watch"],
+    ["había", "there was / there were (imperfect)"],
+    ["antes", "before / in the past"],
+    ["de niño / de niña", "as a child"],
+    ["cuando era joven", "when I was young"],
+    ["cada", "each / every"],
+    ["el pueblo", "the town / village"],
+    ["el abuelo", "the grandfather"],
+    ["los dibujos animados", "cartoons"],
+    ["la bicicleta", "the bicycle"],
+    ["montar en bicicleta", "to ride a bike"],
+    ["el vecino / la vecina", "the neighbor"],
+    ["tranquilo / tranquila", "calm / quiet"]
+  ],
+  "examples": [
+    ["Cuando era niño, jugaba al fútbol todos los días.", "When I was a child, I used to play soccer every day."],
+    ["Antes vivía en Chicago.", "I used to live in Chicago."],
+    ["De niña, iba a la playa cada verano.", "As a girl, I went to the beach every summer."],
+    ["Mi abuela cocinaba muy bien.", "My grandmother used to cook very well."],
+    ["Veíamos dibujos animados los sábados.", "We used to watch cartoons on Saturdays."],
+    ["Había un parque cerca de mi casa.", "There was a park near my house."],
+    ["Mis padres trabajaban mucho.", "My parents used to work a lot."],
+    ["¿Dónde vivías antes?", "Where did you use to live?"],
+    ["Éramos muy amigos.", "We were very close friends."],
+    ["Montaba en bicicleta con mis vecinos.", "I used to ride my bike with my neighbors."],
+    ["Mi pueblo era muy tranquilo.", "My town was very quiet."],
+    ["Siempre comíamos juntos los domingos.", "We always used to eat together on Sundays."],
+    ["Íbamos a la escuela a pie.", "We used to walk to school."],
+    ["Mi abuelo leía el periódico cada mañana.", "My grandfather used to read the newspaper every morning."],
+    ["Ella era profesora.", "She was a teacher."],
+    ["No me gustaba el pescado.", "I didn't like fish."],
+    ["Tenía un perro que se llamaba Max.", "I had a dog named Max."],
+    ["Escuchábamos la radio.", "We used to listen to the radio."],
+    ["Mis hermanos dormían en el mismo cuarto.", "My brothers used to sleep in the same room."],
+    ["Antes hablabas muy poco.", "You used to talk very little."],
+    ["Cuando era joven, bailaba mucho.", "When I was young, I used to dance a lot."],
+    ["Veía la televisión con mi padre.", "I used to watch TV with my father."],
+    ["Iban al pueblo cada verano.", "They used to go to the village every summer."],
+    ["Vivíamos en una casa grande.", "We lived in a big house."],
+    ["Mi madre se levantaba muy temprano.", "My mother used to get up very early."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Cuando era niño, ___ al fútbol todos los días. (jugar)", "answers": ["jugaba"], "hint": "When I was a child, I used to play soccer every day."},
+    {"type": "fill", "prompt": "Antes yo ___ en Chicago. (vivir)", "answers": ["vivía"], "hint": "I used to live in Chicago."},
+    {"type": "fill", "prompt": "De niña, ___ a la playa cada verano. (ir, yo)", "answers": ["iba"], "hint": "As a girl, I went to the beach every summer."},
+    {"type": "fill", "prompt": "Mi abuela ___ muy bien. (cocinar)", "answers": ["cocinaba"], "hint": "My grandmother used to cook very well."},
+    {"type": "fill", "prompt": "Nosotros ___ dibujos animados. (ver)", "answers": ["veíamos"], "hint": "We used to watch cartoons."},
+    {"type": "fill", "prompt": "___ un parque cerca de mi casa. (haber)", "answers": ["había"], "hint": "There was a park near my house."},
+    {"type": "fill", "prompt": "Mi pueblo ___ muy tranquilo. (ser)", "answers": ["era"], "hint": "My town was very quiet."},
+    {"type": "fill", "prompt": "Nosotros ___ muy amigos. (ser)", "answers": ["éramos"], "hint": "We were very close friends."},
+    {"type": "fill", "prompt": "¿Dónde ___ antes? (vivir, tú)", "answers": ["vivías"], "hint": "Where did you use to live?"},
+    {"type": "fill", "prompt": "Nosotros ___ a la escuela a pie. (ir)", "answers": ["íbamos"], "hint": "We used to walk to school."},
+    {"type": "fill", "prompt": "Mis padres ___ mucho. (trabajar)", "answers": ["trabajaban"], "hint": "My parents used to work a lot."},
+    {"type": "fill", "prompt": "Mi abuelo ___ el periódico cada mañana. (leer)", "answers": ["leía"], "hint": "My grandfather used to read the newspaper every morning."},
+    {"type": "mc", "prompt": "The imperfect is used for…", "options": ["habits and background in the past", "single completed events", "future plans", "commands"], "answer": 0},
+    {"type": "mc", "prompt": "How many verbs are irregular in the imperfect?", "options": ["three: ser, ir, ver", "about twenty", "none", "all -ir verbs"], "answer": 0},
+    {"type": "mc", "prompt": "Which is the imperfect of *ir* for *nosotros*?", "options": ["íbamos", "fuimos", "ibamos", "vamos"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is the imperfect of *hay*?", "options": ["había", "hubo", "hay", "habió"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"I used to live in Chicago\" is…", "options": ["Antes vivía en Chicago.", "Antes viví en Chicago.", "Antes vivo en Chicago.", "Antes vivía a Chicago."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "I used to live in Chicago.", "answers": ["Antes vivía en Chicago.", "Vivía en Chicago.", "Yo vivía en Chicago."]},
+    {"type": "translate", "prompt": "My grandmother used to cook very well.", "answers": ["Mi abuela cocinaba muy bien."]},
+    {"type": "translate", "prompt": "There was a park near my house.", "answers": ["Había un parque cerca de mi casa."]},
+    {"type": "translate", "prompt": "She was a teacher.", "answers": ["Era profesora.", "Ella era profesora."]},
+    {"type": "translate", "prompt": "We used to watch cartoons.", "answers": ["Veíamos dibujos animados.", "Nosotros veíamos dibujos animados."]},
+    {"type": "build", "prompt": "Put the words in order: \"When I was young, I used to dance a lot.\"", "answer": "Cuando era joven, bailaba mucho."},
+    {"type": "build", "prompt": "Put the words in order: \"I had a dog named Max.\"", "answer": "Tenía un perro que se llamaba Max."},
+    {"type": "build", "prompt": "Put the words in order: \"We always used to eat together on Sundays.\"", "answer": "Siempre comíamos juntos los domingos."}
+  ]
+}

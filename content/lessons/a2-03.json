@@ -1,0 +1,118 @@
+{
+  "sections": [
+    {
+      "heading": "Ser and ir: the same forms!",
+      "body": "In the preterite, *ser* and *ir* are identical. Context tells you which: *Fui a México* (I went to Mexico) vs. *Fue un día increíble* (It was an amazing day).",
+      "table": {
+        "head": ["Pronoun", "ser / ir"],
+        "rows": [
+          ["*yo*", "*fui*"],
+          ["*tú*", "*fuiste*"],
+          ["*él / ella / usted*", "*fue*"],
+          ["*nosotros / nosotras*", "*fuimos*"],
+          ["*ustedes / ellos / ellas*", "*fueron*"]
+        ]
+      }
+    },
+    {
+      "heading": "Irregular stems",
+      "body": "Many common verbs have an irregular stem in the preterite and share special endings: *-e, -iste, -o, -imos, -ieron* — with **no accents**.",
+      "table": {
+        "head": ["Verb", "Stem", "yo", "él / ella", "ellos"],
+        "rows": [
+          ["*estar*", "*estuv-*", "*estuve*", "*estuvo*", "*estuvieron*"],
+          ["*tener*", "*tuv-*", "*tuve*", "*tuvo*", "*tuvieron*"],
+          ["*poder*", "*pud-*", "*pude*", "*pudo*", "*pudieron*"],
+          ["*poner*", "*pus-*", "*puse*", "*puso*", "*pusieron*"],
+          ["*saber*", "*sup-*", "*supe*", "*supo*", "*supieron*"],
+          ["*hacer*", "*hic-*", "*hice*", "*hizo*", "*hicieron*"],
+          ["*querer*", "*quis-*", "*quise*", "*quiso*", "*quisieron*"],
+          ["*venir*", "*vin-*", "*vine*", "*vino*", "*vinieron*"],
+          ["*decir*", "*dij-*", "*dije*", "*dijo*", "*dijeron*"],
+          ["*traer*", "*traj-*", "*traje*", "*trajo*", "*trajeron*"]
+        ]
+      }
+    },
+    {
+      "heading": "Details",
+      "body": "- *Hacer*: *hizo* is spelled with *z* to keep the sound.\n- Stems ending in *j* (*dij-, traj-*) drop the *i* in the *ellos* form: *dijeron, trajeron* (not \"dijieron\").\n- *Dar* takes -er endings without accents: *di, diste, dio, dimos, dieron*.\n- *Hay* (from the verb *haber*) in the preterite is *hubo* (there was / there were — an event): *Hubo un accidente.*\n- In the preterite, *saber* often means \"found out\" (*Supe la noticia ayer* — I found out yesterday) and *no poder* means \"didn't manage to\" (*No pude ir* — I couldn't go)."
+    }
+  ],
+  "vocab": [
+    ["fui", "I went / I was"],
+    ["fue", "he/she/it went / was"],
+    ["estuve", "I was (there)"],
+    ["tuve", "I had"],
+    ["pude", "I could / managed to"],
+    ["puse", "I put"],
+    ["supe", "I found out"],
+    ["hice", "I did / made"],
+    ["hizo", "he/she did / made"],
+    ["quise", "I wanted / tried"],
+    ["vine", "I came"],
+    ["dije", "I said"],
+    ["traje", "I brought"],
+    ["di", "I gave"],
+    ["hubo", "there was / there were"],
+    ["increíble", "amazing / incredible"],
+    ["el accidente", "the accident"],
+    ["el viaje", "the trip"]
+  ],
+  "examples": [
+    ["Fui a México el verano pasado.", "I went to Mexico last summer."],
+    ["Fue un viaje increíble.", "It was an amazing trip."],
+    ["¿Adónde fuiste ayer?", "Where did you go yesterday?"],
+    ["Fuimos al cine.", "We went to the movies."],
+    ["Estuve en casa todo el día.", "I was at home all day."],
+    ["Tuve un problema con el carro.", "I had a problem with the car."],
+    ["No pude ir a la fiesta.", "I couldn't go to the party."],
+    ["¿Qué hiciste el fin de semana?", "What did you do on the weekend?"],
+    ["No hice nada.", "I didn't do anything."],
+    ["Ella hizo la cena.", "She made dinner."],
+    ["¿Dónde pusiste las llaves?", "Where did you put the keys?"],
+    ["Las puse en la mesa.", "I put them on the table."],
+    ["Supe la noticia ayer.", "I found out the news yesterday."],
+    ["Mis tíos vinieron a visitarnos.", "My aunt and uncle came to visit us."],
+    ["¿Qué te dijo?", "What did he tell you?"],
+    ["Me dijo que sí.", "He told me yes."],
+    ["Trajimos pan y vino.", "We brought bread and wine."],
+    ["Le di un regalo a mi madre.", "I gave my mother a gift."],
+    ["Hubo un accidente en la calle.", "There was an accident on the street."],
+    ["Estuvimos en Lima tres días.", "We were in Lima for three days."],
+    ["Ellos tuvieron que trabajar.", "They had to work."],
+    ["Quise llamarte, pero no pude.", "I tried to call you, but I couldn't."],
+    ["Fueron muy simpáticos.", "They were very nice."],
+    ["¿Qué hicieron ustedes?", "What did you all do?"],
+    ["Dijeron que no.", "They said no."],
+    ["Vine en tren.", "I came by train."],
+    ["¿Estuviste en la reunión?", "Were you at the meeting?"]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ a México el verano pasado. (ir)", "answers": ["fui"], "hint": "I went to Mexico last summer."},
+    {"type": "fill", "prompt": "___ un viaje increíble. (ser)", "answers": ["fue"], "hint": "It was an amazing trip."},
+    {"type": "fill", "prompt": "Nosotros ___ al cine. (ir)", "answers": ["fuimos"], "hint": "We went to the movies."},
+    {"type": "fill", "prompt": "Yo ___ en casa todo el día. (estar)", "answers": ["estuve"], "hint": "I was at home all day."},
+    {"type": "fill", "prompt": "Yo ___ un problema con el carro. (tener)", "answers": ["tuve"], "hint": "I had a problem with the car."},
+    {"type": "fill", "prompt": "No ___ ir a la fiesta. (poder, yo)", "answers": ["pude"], "hint": "I couldn't go to the party."},
+    {"type": "fill", "prompt": "¿Qué ___ el fin de semana? (hacer, tú)", "answers": ["hiciste"], "hint": "What did you do on the weekend?"},
+    {"type": "fill", "prompt": "Ella ___ la cena. (hacer)", "answers": ["hizo"], "hint": "She made dinner."},
+    {"type": "fill", "prompt": "Las ___ en la mesa. (poner, yo)", "answers": ["puse"], "hint": "I put them on the table."},
+    {"type": "fill", "prompt": "Mis tíos ___ a visitarnos. (venir)", "answers": ["vinieron"], "hint": "My aunt and uncle came to visit us."},
+    {"type": "fill", "prompt": "Me ___ que sí. (decir, él)", "answers": ["dijo"], "hint": "He told me yes."},
+    {"type": "fill", "prompt": "Ellos ___ que no. (decir)", "answers": ["dijeron"], "hint": "They said no."},
+    {"type": "fill", "prompt": "Nosotros ___ pan y vino. (traer)", "answers": ["trajimos"], "hint": "We brought bread and wine."},
+    {"type": "fill", "prompt": "___ un accidente en la calle. (haber)", "answers": ["hubo"], "hint": "There was an accident on the street."},
+    {"type": "mc", "prompt": "*Fue* can come from…", "options": ["ser or ir", "only ser", "only ir", "hacer"], "answer": 0},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["dijeron", "dijieron", "decieron", "dicieron"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Irregular preterites like *tuve, hice* have…", "options": ["no written accents", "an accent on the last letter", "accents on every form"], "answer": 0},
+    {"type": "mc", "prompt": "*Supe la verdad* most likely means…", "options": ["I found out the truth.", "I knew the truth all along.", "I told the truth.", "I want the truth."], "answer": 0},
+    {"type": "translate", "prompt": "Where did you go yesterday? (informal)", "answers": ["¿Adónde fuiste ayer?", "¿A dónde fuiste ayer?", "¿Dónde fuiste ayer?"]},
+    {"type": "translate", "prompt": "I didn't do anything.", "answers": ["No hice nada."]},
+    {"type": "translate", "prompt": "It was an amazing trip.", "answers": ["Fue un viaje increíble."]},
+    {"type": "translate", "prompt": "I couldn't go.", "answers": ["No pude ir."]},
+    {"type": "translate", "prompt": "What did you do on the weekend? (informal)", "answers": ["¿Qué hiciste el fin de semana?"]},
+    {"type": "build", "prompt": "Put the words in order: \"I tried to call you, but I couldn't.\"", "answer": "Quise llamarte, pero no pude."},
+    {"type": "build", "prompt": "Put the words in order: \"We were in Lima for three days.\"", "answer": "Estuvimos en Lima tres días."},
+    {"type": "build", "prompt": "Put the words in order: \"I gave my mother a gift.\"", "answer": "Le di un regalo a mi madre."}
+  ]
+}

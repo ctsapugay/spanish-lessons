@@ -1,0 +1,106 @@
+{
+  "sections": [
+    {
+      "heading": "Talking about the past",
+      "body": "The preterite (*el pretérito*, also called *el indefinido*) is the past tense for completed actions: things that happened and finished at a specific time. *Ayer hablé con mi madre.* (Yesterday I talked to my mother.) In Latin America it is the everyday past tense — used even for things that happened a few minutes ago: *¿Ya comiste?* (Did you eat already?)"
+    },
+    {
+      "heading": "Regular -ar verbs",
+      "body": "Take off *-ar* and add these endings. Notice the written accents on *yo* and *él/ella* — they change the meaning: *hablo* (I speak) vs. *habló* (he spoke).",
+      "table": {
+        "head": ["Pronoun", "Ending", "hablar", "trabajar"],
+        "rows": [
+          ["*yo*", "-é", "*hablé*", "*trabajé*"],
+          ["*tú*", "-aste", "*hablaste*", "*trabajaste*"],
+          ["*él / ella / usted*", "-ó", "*habló*", "*trabajó*"],
+          ["*nosotros / nosotras*", "-amos", "*hablamos*", "*trabajamos*"],
+          ["*ustedes / ellos / ellas*", "-aron", "*hablaron*", "*trabajaron*"]
+        ]
+      }
+    },
+    {
+      "heading": "Same as the present?",
+      "body": "The *nosotros* form is identical to the present: *hablamos* means \"we speak\" or \"we spoke\". Context and time words make it clear: *Ayer hablamos con Luis.* (Yesterday we talked to Luis.)\n\nSpelling changes in the *yo* form keep the sound: *llegar → llegué*, *buscar → busqué*, *empezar → empecé*, *jugar → jugué*, *pagar → pagué*, *tocar → toqué*. The other forms are regular: *llegaste, llegó…*"
+    },
+    {
+      "heading": "Past time words",
+      "body": "*ayer* (yesterday), *anoche* (last night), *anteayer* (the day before yesterday), *la semana pasada* (last week), *el mes pasado* (last month), *el año pasado* (last year), *el lunes pasado* (last Monday), *hace dos días* (two days ago), *hace una semana* (a week ago), *en 2020* (in 2020), *ya* (already), *todavía no* (not yet)."
+    }
+  ],
+  "vocab": [
+    ["ayer", "yesterday"],
+    ["anoche", "last night"],
+    ["anteayer", "the day before yesterday"],
+    ["la semana pasada", "last week"],
+    ["el año pasado", "last year"],
+    ["el mes pasado", "last month"],
+    ["hace dos días", "two days ago"],
+    ["ya", "already"],
+    ["todavía no", "not yet"],
+    ["hablé", "I spoke"],
+    ["llegué", "I arrived"],
+    ["busqué", "I looked for"],
+    ["pagar", "to pay"],
+    ["tocar", "to touch / to play (an instrument)"],
+    ["la guitarra", "the guitar"],
+    ["terminar", "to finish"],
+    ["el tren", "the train"]
+  ],
+  "examples": [
+    ["Ayer hablé con mi madre.", "Yesterday I talked to my mother."],
+    ["¿Ya comiste?", "Did you eat already?"],
+    ["Anoche cenamos en un restaurante.", "Last night we had dinner at a restaurant."],
+    ["Mi hermano trabajó mucho la semana pasada.", "My brother worked a lot last week."],
+    ["¿Qué compraste?", "What did you buy?"],
+    ["Compré una camisa y unos zapatos.", "I bought a shirt and some shoes."],
+    ["Llegué tarde a la clase.", "I arrived late to class."],
+    ["Busqué mis llaves, pero no las encontré.", "I looked for my keys, but I didn't find them."],
+    ["El año pasado viajamos a Colombia.", "Last year we traveled to Colombia."],
+    ["Ellos bailaron toda la noche.", "They danced all night."],
+    ["¿A qué hora terminaste?", "What time did you finish?"],
+    ["Terminé a las seis.", "I finished at six."],
+    ["Pagué con tarjeta.", "I paid by card."],
+    ["Ella tocó la guitarra en la fiesta.", "She played the guitar at the party."],
+    ["Hace dos días estudié en la biblioteca.", "Two days ago I studied at the library."],
+    ["Todavía no hablé con él.", "I haven't talked to him yet."],
+    ["El tren llegó a las nueve.", "The train arrived at nine."],
+    ["¿Escuchaste la canción?", "Did you listen to the song?"],
+    ["Mis padres visitaron México el mes pasado.", "My parents visited Mexico last month."],
+    ["Anteayer caminé por el parque.", "The day before yesterday I walked through the park."],
+    ["Usted cocinó muy bien.", "You cooked very well."],
+    ["Nos levantamos temprano ayer.", "We got up early yesterday."],
+    ["Empecé a trabajar en marzo.", "I started working in March."],
+    ["Jugué al fútbol con mis amigos.", "I played soccer with my friends."],
+    ["Tocó la puerta.", "He knocked on the door."],
+    ["Cantaste muy bien.", "You sang very well."],
+    ["Ya compré el pan.", "I already bought the bread."],
+    ["Lo busqué.", "I looked for it."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Ayer yo ___ con mi madre. (hablar)", "answers": ["hablé"], "hint": "Yesterday I talked to my mother."},
+    {"type": "fill", "prompt": "¿Qué ___ tú? (comprar)", "answers": ["compraste"], "hint": "What did you buy?"},
+    {"type": "fill", "prompt": "Mi hermano ___ mucho. (trabajar)", "answers": ["trabajó"], "hint": "My brother worked a lot."},
+    {"type": "fill", "prompt": "Anoche nosotros ___ en un restaurante. (cenar)", "answers": ["cenamos"], "hint": "Last night we had dinner at a restaurant."},
+    {"type": "fill", "prompt": "Ellos ___ toda la noche. (bailar)", "answers": ["bailaron"], "hint": "They danced all night."},
+    {"type": "fill", "prompt": "Yo ___ tarde a la clase. (llegar)", "answers": ["llegué"], "hint": "I arrived late to class."},
+    {"type": "fill", "prompt": "Yo ___ mis llaves. (buscar)", "answers": ["busqué"], "hint": "I looked for my keys."},
+    {"type": "fill", "prompt": "Yo ___ con tarjeta. (pagar)", "answers": ["pagué"], "hint": "I paid by card."},
+    {"type": "fill", "prompt": "Yo ___ a trabajar en marzo. (empezar)", "answers": ["empecé"], "hint": "I started working in March."},
+    {"type": "fill", "prompt": "Ella ___ la guitarra. (tocar)", "answers": ["tocó"], "hint": "She played the guitar."},
+    {"type": "fill", "prompt": "El año ___ viajamos a Colombia.", "answers": ["pasado"], "hint": "Last year we traveled to Colombia."},
+    {"type": "mc", "prompt": "What's the difference between *hablo* and *habló*?", "options": ["hablo = I speak; habló = he/she spoke", "They mean the same", "hablo = I spoke; habló = he speaks"], "answer": 0},
+    {"type": "mc", "prompt": "*Hablamos* can mean…", "options": ["we speak or we spoke", "only we spoke", "only we speak", "they spoke"], "answer": 0},
+    {"type": "mc", "prompt": "Which is the *yo* preterite of *jugar*?", "options": ["jugué", "jugé", "jugó", "juego"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What does *anoche* mean?", "options": ["last night", "tonight", "tomorrow night", "every night"], "answer": 0},
+    {"type": "mc", "prompt": "What does *hace dos días* mean?", "options": ["two days ago", "in two days", "for two days", "it makes two days"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: Ayer ellos ___ con Luis.", "options": ["hablaron", "hablan", "hablaste", "habló"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Yesterday I talked to my mother.", "answers": ["Ayer hablé con mi madre.", "Hablé con mi madre ayer.", "Ayer hablé con mi mamá."]},
+    {"type": "translate", "prompt": "What did you buy? (informal)", "answers": ["¿Qué compraste?"]},
+    {"type": "translate", "prompt": "I arrived late.", "answers": ["Llegué tarde."]},
+    {"type": "translate", "prompt": "Last year we traveled to Colombia.", "answers": ["El año pasado viajamos a Colombia.", "Viajamos a Colombia el año pasado."]},
+    {"type": "translate", "prompt": "The train arrived at nine.", "answers": ["El tren llegó a las nueve."]},
+    {"type": "build", "prompt": "Put the words in order: \"I looked for my keys, but I didn't find them.\"", "answer": "Busqué mis llaves, pero no las encontré."},
+    {"type": "build", "prompt": "Put the words in order: \"My parents visited Mexico last month.\"", "answer": "Mis padres visitaron México el mes pasado."},
+    {"type": "build", "prompt": "Put the words in order: \"What time did you finish?\"", "answer": "¿A qué hora terminaste?"}
+  ]
+}

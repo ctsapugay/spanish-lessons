@@ -1,0 +1,101 @@
+{
+  "sections": [
+    {
+      "heading": "Regular -er and -ir verbs",
+      "body": "*-er* and *-ir* verbs share one set of preterite endings.",
+      "table": {
+        "head": ["Pronoun", "Ending", "comer", "vivir"],
+        "rows": [
+          ["*yo*", "-í", "*comí*", "*viví*"],
+          ["*tú*", "-iste", "*comiste*", "*viviste*"],
+          ["*él / ella / usted*", "-ió", "*comió*", "*vivió*"],
+          ["*nosotros / nosotras*", "-imos", "*comimos*", "*vivimos*"],
+          ["*ustedes / ellos / ellas*", "-ieron", "*comieron*", "*vivieron*"]
+        ]
+      }
+    },
+    {
+      "heading": "Notes",
+      "body": "- For *-ir* verbs, *nosotros* is the same in present and preterite: *vivimos* = we live / we lived. For *-er* verbs it differs: *comemos* (we eat) vs. *comimos* (we ate).\n- Stem-changing *-er* verbs do **not** change in the preterite: *volver → volví, volvió*; *entender → entendí, entendió*.\n- When the stem ends in a vowel, *-ió* and *-ieron* become *-yó* and *-yeron*: *leer → leyó, leyeron*; *creer → creyó*; *oír → oyó*. The *tú, nosotros* forms take an accent: *leíste, leímos*.\n- *Ver* has no accents in the preterite because its forms are one syllable: *vi, viste, vio, vimos, vieron*."
+    },
+    {
+      "heading": "Useful verbs",
+      "body": "*Salir* (*salí*, I went out / left), *conocer* (*conocí*, I met — for the first time!), *nacer* (*nací*, I was born), *decidir* (*decidí*), *escribir* (*escribí*), *recibir* (*recibí*), *perder* (*perdí*, I lost), *correr* (*corrí*), *abrir* (*abrí*), *aprender* (*aprendí*), *vender* (*vendí*), *beber* (*bebí*).\n\nNote *conocer* in the preterite means \"to meet\": *Conocí a mi esposo en 2015.* (I met my husband in 2015.)"
+    }
+  ],
+  "vocab": [
+    ["comí", "I ate"],
+    ["viví", "I lived"],
+    ["salí", "I went out / I left"],
+    ["conocí", "I met (for the first time)"],
+    ["nacer", "to be born"],
+    ["nací", "I was born"],
+    ["decidir", "to decide"],
+    ["perder", "to lose"],
+    ["creer", "to believe / to think"],
+    ["oír", "to hear"],
+    ["vi", "I saw"],
+    ["leí", "I read (past)"],
+    ["la biblioteca", "the library"],
+    ["el concierto", "the concert"],
+    ["la noticia", "the news (item)"],
+    ["el partido", "the game / match"]
+  ],
+  "examples": [
+    ["Comí en casa de mi abuela.", "I ate at my grandmother's house."],
+    ["¿Dónde naciste?", "Where were you born?"],
+    ["Nací en Guadalajara.", "I was born in Guadalajara."],
+    ["Viví dos años en Chile.", "I lived in Chile for two years."],
+    ["Anoche salimos a bailar.", "Last night we went out dancing."],
+    ["Conocí a mi esposo en 2015.", "I met my husband in 2015."],
+    ["¿Viste el partido?", "Did you see the game?"],
+    ["Sí, lo vi con mis amigos.", "Yes, I watched it with my friends."],
+    ["Mi padre leyó la noticia en el periódico.", "My father read the news in the newspaper."],
+    ["¿Leíste el libro?", "Did you read the book?"],
+    ["Perdí mi teléfono.", "I lost my phone."],
+    ["Ellos decidieron vender la casa.", "They decided to sell the house."],
+    ["Recibí tu correo.", "I got your email."],
+    ["Escribimos una carta a la empresa.", "We wrote a letter to the company."],
+    ["¿Oíste eso?", "Did you hear that?"],
+    ["No oí nada.", "I didn't hear anything."],
+    ["Volvimos a casa muy tarde.", "We came back home very late."],
+    ["No entendí la pregunta.", "I didn't understand the question."],
+    ["¿Qué comieron ustedes?", "What did you all eat?"],
+    ["Él abrió la ventana.", "He opened the window."],
+    ["Aprendí mucho en la clase.", "I learned a lot in class."],
+    ["Corrieron en el parque.", "They ran in the park."],
+    ["Bebiste mucho café.", "You drank a lot of coffee."],
+    ["Mi hijo nació en mayo.", "My son was born in May."],
+    ["Estudiamos en la biblioteca.", "We studied in the library."],
+    ["Vimos un concierto increíble.", "We saw an amazing concert."],
+    ["Creyó la noticia.", "She believed the news."],
+    ["Ellos vieron la película.", "They saw the movie."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ en casa de mi abuela. (comer)", "answers": ["comí"], "hint": "I ate at my grandmother's house."},
+    {"type": "fill", "prompt": "¿Dónde ___ tú? (nacer)", "answers": ["naciste"], "hint": "Where were you born?"},
+    {"type": "fill", "prompt": "Yo ___ dos años en Chile. (vivir)", "answers": ["viví"], "hint": "I lived in Chile for two years."},
+    {"type": "fill", "prompt": "Anoche nosotros ___ a bailar. (salir)", "answers": ["salimos"], "hint": "Last night we went out dancing."},
+    {"type": "fill", "prompt": "Yo ___ a mi esposo en 2015. (conocer)", "answers": ["conocí"], "hint": "I met my husband in 2015."},
+    {"type": "fill", "prompt": "¿___ el partido? (ver, tú)", "answers": ["viste"], "hint": "Did you see the game?"},
+    {"type": "fill", "prompt": "Mi padre ___ la noticia. (leer)", "answers": ["leyó"], "hint": "My father read the news."},
+    {"type": "fill", "prompt": "Yo ___ mi teléfono. (perder)", "answers": ["perdí"], "hint": "I lost my phone."},
+    {"type": "fill", "prompt": "Ellos ___ vender la casa. (decidir)", "answers": ["decidieron"], "hint": "They decided to sell the house."},
+    {"type": "fill", "prompt": "Nosotros ___ a casa muy tarde. (volver)", "answers": ["volvimos"], "hint": "We came back home very late."},
+    {"type": "fill", "prompt": "Él ___ la ventana. (abrir)", "answers": ["abrió"], "hint": "He opened the window."},
+    {"type": "fill", "prompt": "No ___ la pregunta. (entender, yo)", "answers": ["entendí"], "hint": "I didn't understand the question."},
+    {"type": "mc", "prompt": "What is the preterite *él* form of *leer*?", "options": ["leyó", "leió", "leó", "lio"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What is the preterite *yo* form of *ver*?", "options": ["vi", "ví", "veí", "vio"], "answer": 0, "lang": "es", "explain": "One-syllable preterite forms of *ver* have no accent."},
+    {"type": "mc", "prompt": "*Conocí a Laura en 2019* means…", "options": ["I met Laura in 2019.", "I knew Laura in 2019.", "I know Laura since 2019.", "I called Laura in 2019."], "answer": 0},
+    {"type": "mc", "prompt": "Does *volver* change its stem in the preterite?", "options": ["No: volví, volvió", "Yes: vuelví, vuelvió"], "answer": 0},
+    {"type": "mc", "prompt": "Which form means \"we ate\"?", "options": ["comimos", "comemos", "comieron", "comí"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Where were you born? (informal)", "answers": ["¿Dónde naciste?", "¿Dónde naciste tú?"]},
+    {"type": "translate", "prompt": "I lost my phone.", "answers": ["Perdí mi teléfono.", "Perdí el teléfono."]},
+    {"type": "translate", "prompt": "Did you see the game? (informal)", "answers": ["¿Viste el partido?"]},
+    {"type": "translate", "prompt": "I didn't understand the question.", "answers": ["No entendí la pregunta."]},
+    {"type": "translate", "prompt": "I got your email. (informal)", "answers": ["Recibí tu correo."]},
+    {"type": "build", "prompt": "Put the words in order: \"My father read the news in the newspaper.\"", "answer": "Mi padre leyó la noticia en el periódico."},
+    {"type": "build", "prompt": "Put the words in order: \"We came back home very late.\"", "answer": "Volvimos a casa muy tarde."},
+    {"type": "build", "prompt": "Put the words in order: \"I was born in Guadalajara.\"", "answer": "Nací en Guadalajara."}
+  ]
+}
