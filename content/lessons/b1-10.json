@@ -1,0 +1,74 @@
+{
+  "sections": [
+    {
+      "heading": "Known or unknown?",
+      "body": "In a relative clause (*que* + verb describing a noun), the mood depends on whether the thing **exists and is known**:\n\n- **Known, specific → indicative**: *Tengo un amigo que habla japonés.* (I have a friend who speaks Japanese — he exists.)\n- **Unknown, hypothetical, or wished-for → subjunctive**: *Busco a alguien que hable japonés.* (I'm looking for someone who speaks Japanese — I don't know if they exist.) *Quiero un apartamento que tenga terraza.*\n- **Non-existent → subjunctive**: *No hay nadie que sepa la respuesta.* (There's nobody who knows the answer.) *No conozco a nadie que viva allí.*\n\nNote: the personal *a* is dropped when the person isn't specific: *Busco un profesor que…* is common, though *Busco a alguien que…* keeps it with *alguien / nadie*."
+    },
+    {
+      "heading": "Questions",
+      "body": "When you ask whether something exists, use the subjunctive: *¿Hay alguien aquí que hable inglés?* (Is there anyone here who speaks English?) *¿Conoces un restaurante que sea barato?*"
+    },
+    {
+      "heading": "Que or quien?",
+      "body": "*Que* is the default for people and things. *Quien / quienes* is used for people after a preposition (*la chica con quien hablé* — the girl I talked to) or between commas (*Mi hermano, quien vive en Lima, viene mañana*). *Donde* works for places: *Busco un lugar donde podamos hablar tranquilos.*"
+    }
+  ],
+  "vocab": [
+    ["busco a alguien que", "I'm looking for someone who"],
+    ["no hay nadie que", "there's nobody who"],
+    ["¿Hay alguien que…?", "Is there anyone who…?"],
+    ["quien / quienes", "who (after a preposition)"],
+    ["la terraza", "the terrace / balcony"],
+    ["el japonés", "Japanese (language)"],
+    ["el lugar", "the place"],
+    ["la respuesta", "the answer"],
+    ["el puesto", "the position / job opening"],
+    ["la experiencia", "experience"],
+    ["tranquilo / tranquila", "quiet / calm"],
+    ["exigir", "to demand / require"]
+  ],
+  "examples": [
+    ["Tengo un amigo que habla japonés.", "I have a friend who speaks Japanese."],
+    ["Busco a alguien que hable japonés.", "I'm looking for someone who speaks Japanese."],
+    ["Quiero un apartamento que tenga terraza.", "I want an apartment that has a terrace."],
+    ["Vivo en un apartamento que tiene terraza.", "I live in an apartment that has a terrace."],
+    ["No hay nadie que sepa la respuesta.", "There's nobody who knows the answer."],
+    ["No conozco a nadie que viva allí.", "I don't know anyone who lives there."],
+    ["¿Hay alguien aquí que hable inglés?", "Is there anyone here who speaks English?"],
+    ["¿Conoces un restaurante que sea barato?", "Do you know a restaurant that's cheap?"],
+    ["Conozco un restaurante que es muy barato.", "I know a restaurant that's very cheap."],
+    ["Necesitamos una persona que tenga experiencia.", "We need a person who has experience."],
+    ["El puesto exige a alguien que sepa inglés.", "The position requires someone who knows English."],
+    ["Busco un lugar donde podamos hablar tranquilos.", "I'm looking for a place where we can talk in peace."],
+    ["La chica con quien hablé es mi vecina.", "The girl I talked to is my neighbor."],
+    ["Mi hermano, quien vive en Lima, viene mañana.", "My brother, who lives in Lima, is coming tomorrow."],
+    ["No hay nada que me guste aquí.", "There's nothing I like here."],
+    ["Quiero un trabajo que me permita viajar.", "I want a job that lets me travel."],
+    ["Tengo un trabajo que me permite viajar.", "I have a job that lets me travel."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Choose: Tengo un amigo que ___ japonés.", "options": ["habla", "hable"], "answer": 0, "lang": "es", "explain": "The friend exists → indicative."},
+    {"type": "mc", "prompt": "Choose: Busco a alguien que ___ japonés.", "options": ["hable", "habla"], "answer": 0, "lang": "es", "explain": "Unknown person → subjunctive."},
+    {"type": "mc", "prompt": "Choose: No hay nadie que ___ la respuesta.", "options": ["sepa", "sabe"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Vivo en un apartamento que ___ terraza.", "options": ["tiene", "tenga"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Quiero un apartamento que ___ terraza.", "options": ["tenga", "tiene"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: ¿Hay alguien aquí que ___ inglés?", "options": ["hable", "habla"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: La chica con ___ hablé es mi vecina.", "options": ["quien", "que", "cual"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "No conozco a nadie que ___ allí. (vivir)", "answers": ["viva"], "hint": "I don't know anyone who lives there."},
+    {"type": "fill", "prompt": "¿Conoces un restaurante que ___ barato? (ser)", "answers": ["sea"], "hint": "Do you know a restaurant that's cheap?"},
+    {"type": "fill", "prompt": "Conozco un restaurante que ___ muy barato. (ser)", "answers": ["es"], "hint": "I know a restaurant that's very cheap."},
+    {"type": "fill", "prompt": "Necesitamos una persona que ___ experiencia. (tener)", "answers": ["tenga"], "hint": "We need a person who has experience."},
+    {"type": "fill", "prompt": "Busco un lugar donde ___ hablar tranquilos. (poder, nosotros)", "answers": ["podamos"], "hint": "I'm looking for a place where we can talk in peace."},
+    {"type": "fill", "prompt": "No hay nada que me ___ aquí. (gustar)", "answers": ["guste"], "hint": "There's nothing I like here."},
+    {"type": "fill", "prompt": "Quiero un trabajo que me ___ viajar. (permitir)", "answers": ["permita"], "hint": "I want a job that lets me travel."},
+    {"type": "fill", "prompt": "Tengo un trabajo que me ___ viajar. (permitir)", "answers": ["permite"], "hint": "I have a job that lets me travel."},
+    {"type": "translate", "prompt": "I'm looking for someone who speaks Japanese.", "answers": ["Busco a alguien que hable japonés.", "Estoy buscando a alguien que hable japonés."]},
+    {"type": "translate", "prompt": "There's nobody who knows the answer.", "answers": ["No hay nadie que sepa la respuesta."]},
+    {"type": "translate", "prompt": "Is there anyone here who speaks English?", "answers": ["¿Hay alguien aquí que hable inglés?", "¿Hay alguien que hable inglés aquí?"]},
+    {"type": "translate", "prompt": "I have a friend who speaks Japanese.", "answers": ["Tengo un amigo que habla japonés.", "Tengo una amiga que habla japonés."]},
+    {"type": "translate", "prompt": "We need a person who has experience.", "answers": ["Necesitamos una persona que tenga experiencia.", "Necesitamos a una persona que tenga experiencia."]},
+    {"type": "build", "prompt": "Put the words in order: \"I want an apartment that has a terrace.\"", "answer": "Quiero un apartamento que tenga terraza."},
+    {"type": "build", "prompt": "Put the words in order: \"My brother, who lives in Lima, is coming tomorrow.\"", "answer": "Mi hermano, quien vive en Lima, viene mañana."},
+    {"type": "build", "prompt": "Put the words in order: \"I don't know anyone who lives there.\"", "answer": "No conozco a nadie que viva allí."}
+  ]
+}

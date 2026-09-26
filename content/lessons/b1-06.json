@@ -1,0 +1,364 @@
+{
+  "sections": [
+    {
+      "heading": "Es + adjective + que",
+      "body": "Impersonal expressions (\"it is … that\") split into two groups:\n\n- **Judgments, necessity, possibility, emotion → subjunctive**: *Es importante que duermas bien. Es necesario que lleguemos temprano. Es mejor que no digas nada. Es normal que estés nervioso. Es posible que llueva. Es raro que no llame* (It's strange that he doesn't call). *Es increíble que…, es una pena que…, es fácil / difícil que…*\n- **Truth and certainty → indicative**: *Es verdad que…, es cierto que…, es obvio que…, es evidente que…, está claro que…*: *Es verdad que hace frío. Está claro que tiene razón.*"
+    },
+    {
+      "heading": "When certainty is negated",
+      "body": "If you deny the truth, you switch to subjunctive: *No es verdad que sea tan caro.* (It's not true that it's so expensive.) *No es cierto que lo sepa todo.* And if you deny a judgment, it stays subjunctive: *No es necesario que vengas.* (You don't need to come.)"
+    },
+    {
+      "heading": "No specific person? Use the infinitive",
+      "body": "When the judgment is about people in general, use the infinitive: *Es importante dormir bien.* (It's important to sleep well.) Add *que* + subjunctive when you mean someone specific: *Es importante que tú duermas bien.*"
+    }
+  ],
+  "vocab": [
+    [
+      "es importante que",
+      "it's important that"
+    ],
+    [
+      "es necesario que",
+      "it's necessary that"
+    ],
+    [
+      "es mejor que",
+      "it's better that"
+    ],
+    [
+      "es normal que",
+      "it's normal that"
+    ],
+    [
+      "es posible que",
+      "it's possible that"
+    ],
+    [
+      "es raro que",
+      "it's strange that"
+    ],
+    [
+      "es verdad que",
+      "it's true that"
+    ],
+    [
+      "es cierto que",
+      "it's true / certain that"
+    ],
+    [
+      "es obvio que",
+      "it's obvious that"
+    ],
+    [
+      "está claro que",
+      "it's clear that"
+    ],
+    [
+      "no es verdad que",
+      "it's not true that"
+    ],
+    [
+      "no hace falta que",
+      "there's no need to"
+    ],
+    [
+      "evidente",
+      "evident"
+    ],
+    [
+      "el tráfico",
+      "traffic"
+    ]
+  ],
+  "examples": [
+    [
+      "Es importante que duermas bien.",
+      "It's important that you sleep well."
+    ],
+    [
+      "Es necesario que lleguemos temprano.",
+      "We need to arrive early."
+    ],
+    [
+      "Es mejor que no digas nada.",
+      "It's better if you don't say anything."
+    ],
+    [
+      "Es normal que estés nervioso.",
+      "It's normal for you to be nervous."
+    ],
+    [
+      "Es posible que llueva esta tarde.",
+      "It might rain this afternoon."
+    ],
+    [
+      "Es raro que no llame.",
+      "It's strange that he doesn't call."
+    ],
+    [
+      "Es verdad que hace frío.",
+      "It's true that it's cold."
+    ],
+    [
+      "Está claro que tiene razón.",
+      "It's clear that she's right."
+    ],
+    [
+      "Es obvio que no le gusta.",
+      "It's obvious he doesn't like it."
+    ],
+    [
+      "No es verdad que sea tan caro.",
+      "It's not true that it's so expensive."
+    ],
+    [
+      "No es necesario que vengas.",
+      "You don't need to come."
+    ],
+    [
+      "No hace falta que me llames.",
+      "There's no need to call me."
+    ],
+    [
+      "Es importante dormir bien.",
+      "It's important to sleep well."
+    ],
+    [
+      "Es cierto que hay mucho tráfico.",
+      "It's true there's a lot of traffic."
+    ],
+    [
+      "Es increíble que no lo sepas.",
+      "It's incredible that you don't know."
+    ],
+    [
+      "Es difícil que lleguemos a tiempo.",
+      "It's unlikely we'll get there on time."
+    ],
+    [
+      "Es evidente que está cansada.",
+      "It's evident that she's tired."
+    ],
+    [
+      "Es una pena que se vayan.",
+      "It's a shame they're leaving."
+    ],
+    [
+      "No es verdad que trabaje mucho.",
+      "It's not true that he works a lot."
+    ],
+    [
+      "Es posible que lleguen tarde.",
+      "They might arrive late."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Es importante que ___ bien. (dormir, tú)",
+      "answers": [
+        "duermas"
+      ],
+      "hint": "It's important that you sleep well."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es necesario que ___ temprano. (llegar, nosotros)",
+      "answers": [
+        "lleguemos"
+      ],
+      "hint": "We need to arrive early."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es mejor que no ___ nada. (decir, tú)",
+      "answers": [
+        "digas"
+      ],
+      "hint": "It's better if you don't say anything."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es normal que ___ nervioso. (estar, tú)",
+      "answers": [
+        "estés"
+      ],
+      "hint": "It's normal for you to be nervous."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es posible que ___ esta tarde. (llover)",
+      "answers": [
+        "llueva"
+      ],
+      "hint": "It might rain this afternoon."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es verdad que ___ frío. (hacer)",
+      "answers": [
+        "hace"
+      ],
+      "hint": "It's true that it's cold."
+    },
+    {
+      "type": "fill",
+      "prompt": "Está claro que ___ razón. (tener, ella)",
+      "answers": [
+        "tiene"
+      ],
+      "hint": "It's clear that she's right."
+    },
+    {
+      "type": "fill",
+      "prompt": "No es verdad que ___ tan caro. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "It's not true that it's so expensive."
+    },
+    {
+      "type": "fill",
+      "prompt": "No es necesario que ___. (venir, tú)",
+      "answers": [
+        "vengas"
+      ],
+      "hint": "You don't need to come."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es cierto que ___ mucho tráfico. (haber)",
+      "answers": [
+        "hay"
+      ],
+      "hint": "It's true there's a lot of traffic."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es importante ___ bien. (dormir)",
+      "answers": [
+        "dormir"
+      ],
+      "hint": "It's important to sleep well. (people in general)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Es obvio que no le ___. (gustar)",
+      "answers": [
+        "gusta"
+      ],
+      "hint": "It's obvious he doesn't like it."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Es importante que tú ___.",
+      "options": [
+        "estudies",
+        "estudias"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Es verdad que ___ mucho.",
+      "options": [
+        "trabaja",
+        "trabaje"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Stating a truth → indicative."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: No es verdad que ___ mucho.",
+      "options": [
+        "trabaje",
+        "trabaja"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Denying a truth → subjunctive."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Es obvio que ___ cansada.",
+      "options": [
+        "está",
+        "esté"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Es posible que ___ tarde.",
+      "options": [
+        "lleguen",
+        "llegan"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*No hace falta que me llames* means…",
+      "options": [
+        "There's no need to call me.",
+        "Don't forget to call me.",
+        "You didn't call me.",
+        "It's missing that you call."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "It's important that you sleep well. (tú)",
+      "answers": [
+        "Es importante que duermas bien."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It might rain this afternoon.",
+      "answers": [
+        "Es posible que llueva esta tarde.",
+        "Puede que llueva esta tarde."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's true that it's cold.",
+      "answers": [
+        "Es verdad que hace frío.",
+        "Es cierto que hace frío."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "You don't need to come. (tú)",
+      "answers": [
+        "No es necesario que vengas.",
+        "No hace falta que vengas.",
+        "No tienes que venir."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's better if you don't say anything.\"",
+      "answer": "Es mejor que no digas nada."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's not true that it's so expensive.\"",
+      "answer": "No es verdad que sea tan caro."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's strange that he doesn't call.\"",
+      "answer": "Es raro que no llame."
+    }
+  ]
+}

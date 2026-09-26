@@ -1,0 +1,78 @@
+{
+  "sections": [
+    {
+      "heading": "Belief vs. doubt",
+      "body": "- **Believing, thinking, being sure → indicative**: *Creo que tienes razón. Pienso que es buena idea. Estoy seguro de que viene. Me parece que está cerrado.*\n- **Doubting or denying → subjunctive**: *Dudo que venga.* (I doubt he's coming.) *No creo que tengas razón.* (I don't think you're right.) *No pienso que sea buena idea. No estoy seguro de que funcione. No me parece que esté cerrado.*\n\nThe negative flips the mood: *Creo que es verdad* (indicative) → *No creo que sea verdad* (subjunctive). And *dudar* flips the other way: *No dudo que es verdad* (indicative — you don't doubt it, so you believe it)."
+    },
+    {
+      "heading": "Maybe, perhaps",
+      "body": "- *Quizás / Quizá / Tal vez* + subjunctive when you're unsure: *Quizás llueva mañana. Tal vez tengas razón.* (They can also take the indicative when you feel more confident — both are heard.)\n- *A lo mejor* + **indicative** always: *A lo mejor llueve mañana.* (Very common in speech.)\n- *Puede (ser) que* + subjunctive: *Puede que no venga.* (He might not come.)\n- *Seguramente / probablemente* + indicative (usually): *Seguramente llega tarde.*"
+    },
+    {
+      "heading": "Asking about beliefs",
+      "body": "In questions, *¿Crees que…?* usually takes the indicative when you're genuinely asking: *¿Crees que va a llover?* Using the subjunctive (*¿Crees que llueva?*) signals more doubt — it's common in Latin American speech."
+    }
+  ],
+  "vocab": [
+    ["dudar", "to doubt"],
+    ["dudo que", "I doubt that"],
+    ["no creo que", "I don't think that"],
+    ["no estoy seguro de que", "I'm not sure that"],
+    ["quizás / quizá", "perhaps / maybe"],
+    ["tal vez", "maybe"],
+    ["a lo mejor", "maybe (+ indicative)"],
+    ["puede que", "it may be that"],
+    ["probablemente", "probably"],
+    ["seguramente", "most likely"],
+    ["funcionar", "to work (function)"],
+    ["cerrado / cerrada", "closed"],
+    ["la verdad", "the truth"]
+  ],
+  "examples": [
+    ["Creo que tienes razón.", "I think you're right."],
+    ["No creo que tengas razón.", "I don't think you're right."],
+    ["Dudo que venga.", "I doubt he's coming."],
+    ["No dudo que es verdad.", "I don't doubt it's true."],
+    ["Estoy seguro de que viene.", "I'm sure she's coming."],
+    ["No estoy seguro de que funcione.", "I'm not sure it will work."],
+    ["Me parece que está cerrado.", "I think it's closed."],
+    ["No me parece que esté cerrado.", "I don't think it's closed."],
+    ["No pienso que sea buena idea.", "I don't think it's a good idea."],
+    ["Quizás llueva mañana.", "Maybe it'll rain tomorrow."],
+    ["Tal vez tengas razón.", "Maybe you're right."],
+    ["A lo mejor llueve mañana.", "Maybe it'll rain tomorrow."],
+    ["Puede que no venga.", "He might not come."],
+    ["Seguramente llega tarde.", "He'll most likely arrive late."],
+    ["Probablemente es verdad.", "It's probably true."],
+    ["¿Crees que va a llover?", "Do you think it's going to rain?"],
+    ["Dudamos que puedan terminar hoy.", "We doubt they can finish today."],
+    ["No creo que haya tiempo.", "I don't think there's time."],
+    ["Pienso que sí.", "I think so."],
+    ["No creo.", "I don't think so."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "Choose: Creo que ___ razón.", "options": ["tienes", "tengas"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: No creo que ___ razón.", "options": ["tengas", "tienes"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Dudo que ___.", "options": ["venga", "viene"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Estoy seguro de que ___.", "options": ["viene", "venga"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: A lo mejor ___ mañana.", "options": ["llueve", "llueva"], "answer": 0, "lang": "es", "explain": "*A lo mejor* always takes the indicative."},
+    {"type": "mc", "prompt": "Choose: Puede que no ___.", "options": ["venga", "viene"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: No dudo que ___ verdad.", "options": ["es", "sea"], "answer": 0, "lang": "es", "explain": "Not doubting = believing → indicative."},
+    {"type": "mc", "prompt": "Choose: Me parece que ___ cerrado.", "options": ["está", "esté"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "No estoy seguro de que ___. (funcionar)", "answers": ["funcione"], "hint": "I'm not sure it will work."},
+    {"type": "fill", "prompt": "No pienso que ___ buena idea. (ser)", "answers": ["sea"], "hint": "I don't think it's a good idea."},
+    {"type": "fill", "prompt": "Quizás ___ mañana. (llover)", "answers": ["llueva", "llueve"], "hint": "Maybe it'll rain tomorrow."},
+    {"type": "fill", "prompt": "Tal vez ___ razón. (tener, tú)", "answers": ["tengas", "tienes"], "hint": "Maybe you're right."},
+    {"type": "fill", "prompt": "Dudamos que ___ terminar hoy. (poder, ellos)", "answers": ["puedan"], "hint": "We doubt they can finish today."},
+    {"type": "fill", "prompt": "No creo que ___ tiempo. (haber)", "answers": ["haya"], "hint": "I don't think there's time."},
+    {"type": "fill", "prompt": "Seguramente ___ tarde. (llegar, él)", "answers": ["llega", "llegará", "va a llegar"], "hint": "He'll most likely arrive late."},
+    {"type": "translate", "prompt": "I don't think you're right. (tú)", "answers": ["No creo que tengas razón."]},
+    {"type": "translate", "prompt": "I doubt he's coming.", "answers": ["Dudo que venga."]},
+    {"type": "translate", "prompt": "Maybe it'll rain tomorrow. (a lo mejor)", "answers": ["A lo mejor llueve mañana."]},
+    {"type": "translate", "prompt": "I'm sure she's coming.", "answers": ["Estoy seguro de que viene.", "Estoy segura de que viene.", "Estoy seguro de que va a venir.", "Estoy segura de que va a venir."]},
+    {"type": "translate", "prompt": "I don't think there's time.", "answers": ["No creo que haya tiempo."]},
+    {"type": "build", "prompt": "Put the words in order: \"I don't think it's a good idea.\"", "answer": "No pienso que sea buena idea."},
+    {"type": "build", "prompt": "Put the words in order: \"He might not come.\"", "answer": "Puede que no venga."},
+    {"type": "build", "prompt": "Put the words in order: \"We doubt they can finish today.\"", "answer": "Dudamos que puedan terminar hoy."}
+  ]
+}

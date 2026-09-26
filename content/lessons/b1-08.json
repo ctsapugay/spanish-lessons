@@ -1,0 +1,349 @@
+{
+  "sections": [
+    {
+      "heading": "Cuando: habit, past, or future?",
+      "body": "*Cuando* (when) takes a different mood depending on time:\n\n- **Habits** (always true) → indicative: *Cuando llueve, me quedo en casa.* (Whenever it rains…)\n- **Past** → indicative: *Cuando llegué, estaban cenando.*\n- **Future** (hasn't happened yet) → **subjunctive**: *Cuando llegues, llámame.* (When you arrive, call me.) *Cuando tenga dinero, voy a viajar.*\n\nThis is one of the most common subjunctive uses. English uses the present (\"when I **have** money\") — Spanish needs the subjunctive, never the future: not *cuando tendré*."
+    },
+    {
+      "heading": "Other time words work the same way",
+      "body": "- *hasta que* (until): *Espera aquí hasta que vuelva.* (Wait here until I come back.) vs. *Esperé hasta que volvió.* (past)\n- *en cuanto / tan pronto como* (as soon as): *En cuanto sepa algo, te aviso.* (As soon as I know anything, I'll let you know.)\n- *mientras* (while / as long as): *Mientras estés aquí, puedes usar mi carro.*"
+    },
+    {
+      "heading": "Antes de que: always subjunctive",
+      "body": "*Antes de que* (before) always takes the subjunctive, because the action hasn't happened yet at that point: *Vete antes de que llueva.* (Go before it rains.) *Llámame antes de que salgas.*\n\nWith the same subject, use *antes de* / *después de* + infinitive: *Llámame antes de salir.* *Después de que* takes the subjunctive for future events: *Te llamo después de que se vayan.*"
+    }
+  ],
+  "vocab": [
+    [
+      "cuando",
+      "when"
+    ],
+    [
+      "hasta que",
+      "until"
+    ],
+    [
+      "en cuanto",
+      "as soon as"
+    ],
+    [
+      "tan pronto como",
+      "as soon as (a bit more formal)"
+    ],
+    [
+      "mientras",
+      "while / as long as"
+    ],
+    [
+      "antes de que",
+      "before"
+    ],
+    [
+      "después de que",
+      "after"
+    ],
+    [
+      "avisar",
+      "to let know / to notify"
+    ],
+    [
+      "jubilarse",
+      "to retire"
+    ],
+    [
+      "graduarse",
+      "to graduate"
+    ],
+    [
+      "crecer",
+      "to grow up"
+    ],
+    [
+      "vete",
+      "go away / leave (tú)"
+    ],
+    [
+      "el dinero",
+      "money"
+    ]
+  ],
+  "examples": [
+    [
+      "Cuando llueve, me quedo en casa.",
+      "When it rains, I stay home."
+    ],
+    [
+      "Cuando llegué, estaban cenando.",
+      "When I arrived, they were having dinner."
+    ],
+    [
+      "Cuando llegues, llámame.",
+      "When you arrive, call me."
+    ],
+    [
+      "Cuando tenga dinero, voy a viajar.",
+      "When I have money, I'm going to travel."
+    ],
+    [
+      "Cuando sea grande, quiero ser médica.",
+      "When I grow up, I want to be a doctor."
+    ],
+    [
+      "Espera aquí hasta que vuelva.",
+      "Wait here until I come back."
+    ],
+    [
+      "Esperé hasta que volvió.",
+      "I waited until he came back."
+    ],
+    [
+      "En cuanto sepa algo, te aviso.",
+      "As soon as I know anything, I'll let you know."
+    ],
+    [
+      "Tan pronto como terminemos, salimos.",
+      "As soon as we finish, we'll leave."
+    ],
+    [
+      "Mientras estés aquí, puedes usar mi carro.",
+      "While you're here, you can use my car."
+    ],
+    [
+      "Vete antes de que llueva.",
+      "Go before it rains."
+    ],
+    [
+      "Llámame antes de que salgas.",
+      "Call me before you leave."
+    ],
+    [
+      "Llámame antes de salir.",
+      "Call me before leaving."
+    ],
+    [
+      "Te llamo después de que se vayan.",
+      "I'll call you after they leave."
+    ],
+    [
+      "Cuando me jubile, voy a vivir en la playa.",
+      "When I retire, I'm going to live at the beach."
+    ],
+    [
+      "Cuando se gradúe, buscará trabajo.",
+      "When she graduates, she'll look for a job."
+    ],
+    [
+      "No me voy hasta que me digas la verdad.",
+      "I'm not leaving until you tell me the truth."
+    ],
+    [
+      "Cuando era niño, vivía en el campo.",
+      "When I was a child, I lived in the countryside."
+    ],
+    [
+      "¿Qué vas a hacer cuando termines la universidad?",
+      "What are you going to do when you finish college?"
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose: Cuando ___, llámame.",
+      "options": [
+        "llegues",
+        "llegas",
+        "llegarás"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Future event → subjunctive."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Cuando ___, me quedo en casa. (habit)",
+      "options": [
+        "llueve",
+        "llueva"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Habit → indicative."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Cuando ___, estaban cenando. (past)",
+      "options": [
+        "llegué",
+        "llegue"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Vete antes de que ___.",
+      "options": [
+        "llueva",
+        "llueve"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Esperé hasta que ___. (past)",
+      "options": [
+        "volvió",
+        "vuelva"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Espera aquí hasta que ___. (future)",
+      "options": [
+        "vuelva",
+        "vuelvo"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is WRONG in Spanish?",
+      "options": [
+        "Cuando tendré dinero, viajaré.",
+        "Cuando tenga dinero, viajaré.",
+        "Cuando tenga dinero, voy a viajar."
+      ],
+      "answer": 0,
+      "explain": "Never use the future after *cuando*."
+    },
+    {
+      "type": "fill",
+      "prompt": "Cuando ___ dinero, voy a viajar. (tener, yo)",
+      "answers": [
+        "tenga"
+      ],
+      "hint": "When I have money, I'm going to travel."
+    },
+    {
+      "type": "fill",
+      "prompt": "Cuando ___ grande, quiero ser médica. (ser, yo)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "When I grow up, I want to be a doctor."
+    },
+    {
+      "type": "fill",
+      "prompt": "En cuanto ___ algo, te aviso. (saber, yo)",
+      "answers": [
+        "sepa"
+      ],
+      "hint": "As soon as I know anything, I'll let you know."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tan pronto como ___, salimos. (terminar, nosotros)",
+      "answers": [
+        "terminemos"
+      ],
+      "hint": "As soon as we finish, we'll leave."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mientras ___ aquí, puedes usar mi carro. (estar, tú)",
+      "answers": [
+        "estés"
+      ],
+      "hint": "While you're here, you can use my car."
+    },
+    {
+      "type": "fill",
+      "prompt": "Llámame antes de que ___. (salir, tú)",
+      "answers": [
+        "salgas"
+      ],
+      "hint": "Call me before you leave."
+    },
+    {
+      "type": "fill",
+      "prompt": "Te llamo después de que se ___. (ir, ellos)",
+      "answers": [
+        "vayan"
+      ],
+      "hint": "I'll call you after they leave."
+    },
+    {
+      "type": "fill",
+      "prompt": "Cuando me ___, voy a vivir en la playa. (jubilarse, yo)",
+      "answers": [
+        "jubile"
+      ],
+      "hint": "When I retire, I'm going to live at the beach."
+    },
+    {
+      "type": "fill",
+      "prompt": "No me voy hasta que me ___ la verdad. (decir, tú)",
+      "answers": [
+        "digas"
+      ],
+      "hint": "I'm not leaving until you tell me the truth."
+    },
+    {
+      "type": "translate",
+      "prompt": "When you arrive, call me. (tú)",
+      "answers": [
+        "Cuando llegues, llámame.",
+        "Llámame cuando llegues."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Go before it rains. (tú)",
+      "answers": [
+        "Vete antes de que llueva."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Wait here until I come back. (tú)",
+      "answers": [
+        "Espera aquí hasta que vuelva.",
+        "Espérame aquí hasta que vuelva."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "When I have money, I'm going to travel.",
+      "answers": [
+        "Cuando tenga dinero, voy a viajar.",
+        "Cuando tenga dinero, viajaré."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Call me before leaving. (tú)",
+      "answers": [
+        "Llámame antes de salir."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"As soon as I know anything, I'll let you know.\"",
+      "answer": "En cuanto sepa algo, te aviso."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"What are you going to do when you finish college?\"",
+      "answer": "¿Qué vas a hacer cuando termines la universidad?"
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"When she graduates, she'll look for a job.\"",
+      "answer": "Cuando se gradúe, buscará trabajo."
+    }
+  ]
+}
