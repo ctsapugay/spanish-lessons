@@ -1,0 +1,88 @@
+{
+  "sections": [
+    {
+      "heading": "What time is it?",
+      "body": "Ask *¿Qué hora es?* Answer with *es la una* (it's one o'clock — singular, because *una* is one hour) and *son las* for everything else: *son las dos, son las tres*.\n\n- Minutes after the hour: add *y*: *son las dos y diez* (2:10).\n- Quarter and half: *y cuarto* (quarter past), *y media* (half past): *son las cuatro y media* (4:30).\n- Minutes before the hour: *menos*: *son las cinco menos cuarto* (4:45). Many Latin Americans instead say *un cuarto para las cinco* or *quince para las cinco*.\n- Parts of the day: *de la mañana* (a.m.), *de la tarde* (afternoon), *de la noche* (evening/night): *son las ocho de la noche*. Exactly: *en punto* (on the dot)."
+    },
+    {
+      "heading": "At what time?",
+      "body": "To say when something happens, use *a la / a las*: *¿A qué hora es la clase?* (What time is the class?) — *A las nueve.* *Trabajo de nueve a cinco* (from nine to five). *Llego a la una.*"
+    },
+    {
+      "heading": "Days of the week",
+      "body": "Days are masculine and written with a small letter: *lunes, martes, miércoles, jueves, viernes, sábado, domingo*. The week starts on Monday.\n\n- \"On Monday\" is *el lunes* (no preposition): *El lunes trabajo.*\n- \"On Mondays\" (every Monday) is *los lunes*: *Los sábados como con mi familia.*\n- *Hoy* (today), *mañana* (tomorrow), *el fin de semana* (the weekend).\n- *¿Qué día es hoy?* — *Hoy es martes.*\n\nCareful: *mañana* means tomorrow, but *la mañana* means the morning: *mañana por la mañana* = tomorrow morning."
+    }
+  ],
+  "vocab": [
+    ["¿Qué hora es?", "What time is it?"],
+    ["la hora", "the hour / the time"],
+    ["y cuarto", "quarter past"],
+    ["y media", "half past"],
+    ["menos cuarto", "quarter to"],
+    ["en punto", "on the dot / sharp"],
+    ["la mañana", "the morning"],
+    ["la tarde", "the afternoon"],
+    ["la noche", "the night / evening"],
+    ["lunes", "Monday"],
+    ["martes", "Tuesday"],
+    ["miércoles", "Wednesday"],
+    ["jueves", "Thursday"],
+    ["viernes", "Friday"],
+    ["sábado", "Saturday"],
+    ["domingo", "Sunday"],
+    ["hoy", "today"],
+    ["el fin de semana", "the weekend"],
+    ["la semana", "the week"],
+    ["la clase", "the class"]
+  ],
+  "examples": [
+    ["¿Qué hora es?", "What time is it?"],
+    ["Es la una.", "It's one o'clock."],
+    ["Son las dos y diez.", "It's ten past two."],
+    ["Son las cuatro y media.", "It's half past four."],
+    ["Son las cinco menos cuarto.", "It's a quarter to five."],
+    ["Son las ocho de la noche.", "It's eight p.m."],
+    ["Son las siete en punto.", "It's seven o'clock sharp."],
+    ["¿A qué hora es la clase?", "What time is the class?"],
+    ["A las nueve de la mañana.", "At nine in the morning."],
+    ["Trabajo de nueve a cinco.", "I work from nine to five."],
+    ["Hoy es martes.", "Today is Tuesday."],
+    ["¿Qué día es hoy?", "What day is it today?"],
+    ["El lunes trabajo.", "I'm working on Monday."],
+    ["Los sábados como con mi familia.", "On Saturdays I eat with my family."],
+    ["Mañana por la mañana.", "Tomorrow morning."],
+    ["El fin de semana estudio.", "I study on the weekend."],
+    ["Llego a la una y cuarto.", "I arrive at a quarter past one."],
+    ["La clase es los miércoles y los viernes.", "The class is on Wednesdays and Fridays."],
+    ["Son las tres de la tarde.", "It's three in the afternoon."],
+    ["Los domingos no trabajo.", "I don't work on Sundays."],
+    ["El jueves, a las seis.", "On Thursday, at six."],
+    ["Es un cuarto para las cinco.", "It's a quarter to five. (Latin America)"]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "It's 1:00. Which is correct?", "options": ["Es la una.", "Son las una.", "Es el uno.", "Son la una."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "It's 3:30. Which is correct?", "options": ["Son las tres y media.", "Son las tres y cuarto.", "Es la tres y media.", "Son las media tres."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "It's 6:15. Which is correct?", "options": ["Son las seis y cuarto.", "Son las seis y media.", "Son las seis menos cuarto.", "Son las siete menos cuarto."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "It's 4:45. Which is correct?", "options": ["Son las cinco menos cuarto.", "Son las cuatro menos cuarto.", "Son las cinco y cuarto.", "Son las cuatro y media."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What time is *las ocho de la noche*?", "options": ["8 p.m.", "8 a.m.", "8:30", "18:00"], "answer": 0},
+    {"type": "mc", "prompt": "How do you say \"on Mondays\" (every Monday)?", "options": ["los lunes", "el lunes", "en lunes", "a los lunes"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which day comes after *jueves*?", "options": ["viernes", "miércoles", "sábado", "martes"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which day comes before *lunes*?", "options": ["domingo", "martes", "sábado", "viernes"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What does *mañana por la mañana* mean?", "options": ["tomorrow morning", "this morning", "every morning", "tomorrow night"], "answer": 0},
+    {"type": "fill", "prompt": "¿Qué ___ es?", "answers": ["hora"], "hint": "What time is it?"},
+    {"type": "fill", "prompt": "Son las dos ___ diez.", "answers": ["y"], "hint": "It's 2:10."},
+    {"type": "fill", "prompt": "¿A qué hora es la clase? ___ las nueve.", "answers": ["a"], "hint": "What time is the class? At nine."},
+    {"type": "fill", "prompt": "Trabajo de nueve ___ cinco.", "answers": ["a"], "hint": "I work from nine to five."},
+    {"type": "fill", "prompt": "Hoy ___ martes.", "answers": ["es"], "hint": "Today is Tuesday."},
+    {"type": "fill", "prompt": "Son las siete en ___.", "answers": ["punto"], "hint": "It's seven o'clock sharp."},
+    {"type": "fill", "prompt": "Son las tres de la ___.", "answers": ["tarde"], "hint": "It's three in the afternoon."},
+    {"type": "translate", "prompt": "What time is it?", "answers": ["¿Qué hora es?"]},
+    {"type": "translate", "prompt": "It's half past four.", "answers": ["Son las cuatro y media."]},
+    {"type": "translate", "prompt": "Today is Friday.", "answers": ["Hoy es viernes."]},
+    {"type": "translate", "prompt": "I don't work on Sundays.", "answers": ["Los domingos no trabajo.", "No trabajo los domingos."]},
+    {"type": "translate", "prompt": "What day is it today?", "answers": ["¿Qué día es hoy?"]},
+    {"type": "build", "prompt": "Put the words in order: \"On Saturdays I eat with my family.\"", "answer": "Los sábados como con mi familia."},
+    {"type": "build", "prompt": "Put the words in order: \"What time is the class?\"", "answer": "¿A qué hora es la clase?"},
+    {"type": "build", "prompt": "Put the words in order: \"I arrive at a quarter past one.\"", "answer": "Llego a la una y cuarto."}
+  ]
+}

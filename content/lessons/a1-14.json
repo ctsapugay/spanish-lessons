@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "heading": "21 to 99",
+      "body": "21–29 are written as one word: *veintiuno, veintidós, veintitrés, veinticuatro, veinticinco, veintiséis, veintisiete, veintiocho, veintinueve*. From 31 on, use *y* (and): *treinta y uno, cuarenta y cinco, noventa y nueve*.",
+      "table": {
+        "head": ["Tens", "", "Tens", ""],
+        "rows": [
+          ["30", "*treinta*", "70", "*setenta*"],
+          ["40", "*cuarenta*", "80", "*ochenta*"],
+          ["50", "*cincuenta*", "90", "*noventa*"],
+          ["60", "*sesenta*", "100", "*cien*"]
+        ]
+      }
+    },
+    {
+      "heading": "100 and up",
+      "body": "*Cien* is exactly 100; from 101 it becomes *ciento*: *ciento uno, ciento cincuenta*. The hundreds agree with feminine nouns: *doscientos pesos*, *doscientas personas*.\n\n200 *doscientos* · 300 *trescientos* · 400 *cuatrocientos* · 500 *quinientos* · 600 *seiscientos* · 700 *setecientos* · 800 *ochocientos* · 900 *novecientos* · 1,000 *mil* · 2,000 *dos mil* · 1,000,000 *un millón*.\n\nNote: no *y* between hundreds and tens (*ciento veinte*, not \"ciento y veinte\"), and *mil* never takes *un* (*mil pesos*). Many Latin American countries write 1,000 as *1.000* and use a comma for decimals."
+    },
+    {
+      "heading": "How much is it?",
+      "body": "- *¿Cuánto cuesta?* — How much does it cost? (one thing)\n- *¿Cuánto cuestan?* — How much do they cost?\n- *¿Cuánto es?* — How much is it (all together)?\n- *Cuesta veinte pesos.* — It costs twenty pesos.\n\nCurrencies vary: *el peso* (Mexico, Colombia, Argentina, Chile…), *el sol* (Peru), *el dólar* (Ecuador, El Salvador, the US). *Es caro* (it's expensive), *es barato* (it's cheap)."
+    }
+  ],
+  "vocab": [
+    ["treinta", "thirty"],
+    ["cuarenta", "forty"],
+    ["cincuenta", "fifty"],
+    ["sesenta", "sixty"],
+    ["setenta", "seventy"],
+    ["ochenta", "eighty"],
+    ["noventa", "ninety"],
+    ["cien", "one hundred"],
+    ["quinientos", "five hundred"],
+    ["mil", "one thousand"],
+    ["un millón", "one million"],
+    ["¿Cuánto cuesta?", "How much does it cost?"],
+    ["el peso", "peso (currency)"],
+    ["el dólar", "dollar"],
+    ["caro / cara", "expensive"],
+    ["barato / barata", "cheap"],
+    ["la persona", "the person"],
+    ["el precio", "the price"]
+  ],
+  "examples": [
+    ["¿Cuánto cuesta el libro?", "How much is the book?"],
+    ["Cuesta veinticinco pesos.", "It costs twenty-five pesos."],
+    ["¿Cuánto cuestan los lápices?", "How much are the pencils?"],
+    ["Cuestan treinta y cinco pesos.", "They cost thirty-five pesos."],
+    ["¿Cuánto es?", "How much is it (all together)?"],
+    ["Son ciento veinte pesos.", "That's a hundred and twenty pesos."],
+    ["Es muy caro.", "It's very expensive."],
+    ["Es barato.", "It's cheap."],
+    ["Hay doscientas personas.", "There are two hundred people."],
+    ["Cuesta mil pesos.", "It costs a thousand pesos."],
+    ["Mi abuelo tiene noventa y dos años.", "My grandfather is ninety-two."],
+    ["Mi número es el cuarenta y siete.", "My number is forty-seven."],
+    ["Cien dólares.", "One hundred dollars."],
+    ["Un millón de personas.", "A million people."],
+    ["El precio es de quinientos pesos.", "The price is five hundred pesos."],
+    ["Tengo veintiún años.", "I'm twenty-one."],
+    ["Cuesta sesenta pesos.", "It costs sixty pesos."],
+    ["Setenta, ochenta, cincuenta.", "Seventy, eighty, fifty."],
+    ["Veintidós, veintitrés, veintiocho.", "Twenty-two, twenty-three, twenty-eight."],
+    ["Doscientos pesos.", "Two hundred pesos."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "How do you write 45?", "options": ["cuarenta y cinco", "cuarentaicinco", "cuatro y cinco", "cincuenta y cuatro"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you write 23?", "options": ["veintitrés", "veinte y tres", "veintetres", "treinta y dos"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you write 100 (exactly)?", "options": ["cien", "ciento", "un cien", "cientos"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "How do you write 120?", "options": ["ciento veinte", "cien veinte", "ciento y veinte", "cien y veinte"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What number is *setenta*?", "options": ["70", "60", "17", "7"], "answer": 0},
+    {"type": "mc", "prompt": "What number is *quinientos*?", "options": ["500", "50", "5,000", "15"], "answer": 0},
+    {"type": "mc", "prompt": "What number is *noventa y ocho*?", "options": ["98", "89", "908", "19"], "answer": 0},
+    {"type": "mc", "prompt": "How do you write 1,000?", "options": ["mil", "un mil", "ciento mil", "millón"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is correct for \"two hundred people\"?", "options": ["doscientas personas", "doscientos personas", "dos cien personas"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "You're asking the price of several T-shirts. Which question?", "options": ["¿Cuánto cuestan?", "¿Cuánto cuesta?", "¿Cuántos años tienes?", "¿Dónde está?"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "¿Cuánto ___ el libro?", "answers": ["cuesta"], "hint": "How much is the book?"},
+    {"type": "fill", "prompt": "¿Cuánto ___ los lápices?", "answers": ["cuestan"], "hint": "How much are the pencils?"},
+    {"type": "fill", "prompt": "Cuesta ___ pesos. (30)", "answers": ["treinta"], "hint": "It costs thirty pesos."},
+    {"type": "fill", "prompt": "Cuesta ___ pesos. (1000)", "answers": ["mil"], "hint": "It costs a thousand pesos."},
+    {"type": "fill", "prompt": "Es muy ___.", "answers": ["caro", "barato"], "hint": "It's very expensive. (or cheap)"},
+    {"type": "fill", "prompt": "Mi abuelo tiene ___ y dos años.", "answers": ["noventa"], "hint": "My grandfather is ninety-two."},
+    {"type": "translate", "prompt": "How much does it cost?", "answers": ["¿Cuánto cuesta?"]},
+    {"type": "translate", "prompt": "It's very expensive.", "answers": ["Es muy caro.", "Es muy cara."]},
+    {"type": "translate", "prompt": "It costs fifty pesos.", "answers": ["Cuesta cincuenta pesos."]},
+    {"type": "translate", "prompt": "one hundred dollars", "answers": ["cien dólares"]},
+    {"type": "translate", "prompt": "It's cheap.", "answers": ["Es barato.", "Es barata."]},
+    {"type": "build", "prompt": "Put the words in order: \"They cost thirty-five pesos.\"", "answer": "Cuestan treinta y cinco pesos."},
+    {"type": "build", "prompt": "Put the words in order: \"How much is the book?\"", "answer": "¿Cuánto cuesta el libro?"},
+    {"type": "build", "prompt": "Put the words in order: \"There are two hundred people.\"", "answer": "Hay doscientas personas."}
+  ]
+}

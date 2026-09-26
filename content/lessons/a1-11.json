@@ -1,0 +1,99 @@
+{
+  "sections": [
+    {
+      "heading": "-er and -ir verbs",
+      "body": "The other two groups work just like *-ar* verbs: take off the ending, add the person endings. *-er* and *-ir* verbs share almost all their endings — they only differ for *nosotros*.",
+      "table": {
+        "head": ["Pronoun", "comer (to eat)", "vivir (to live)"],
+        "rows": [
+          ["*yo*", "*como*", "*vivo*"],
+          ["*tú*", "*comes*", "*vives*"],
+          ["*él / ella / usted*", "*come*", "*vive*"],
+          ["*nosotros / nosotras*", "*comemos*", "*vivimos*"],
+          ["*ustedes*", "*comen*", "*viven*"],
+          ["*ellos / ellas*", "*comen*", "*viven*"]
+        ]
+      }
+    },
+    {
+      "heading": "The pattern at a glance",
+      "body": "- *-ar*: *-o, -as, -a, -amos, -an*\n- *-er*: *-o, -es, -e, -emos, -en*\n- *-ir*: *-o, -es, -e, -imos, -en*\n\nThe *yo* form always ends in *-o*. The trick is remembering the vowel: *a* for -ar verbs, *e* for -er and -ir verbs, except *nosotros* of -ir verbs, which keeps the *i*: *vivimos, escribimos, abrimos*."
+    },
+    {
+      "heading": "Useful -er and -ir verbs",
+      "body": "*Comer* (to eat), *beber* (to drink), *leer* (to read), *aprender* (to learn), *comprender* (to understand), *correr* (to run), *vender* (to sell); *vivir* (to live), *escribir* (to write), *abrir* (to open), *recibir* (to receive), *compartir* (to share).\n\n*Aprender a* + infinitive means \"to learn to\": *Aprendo a cocinar* (I'm learning to cook). In much of Latin America, *tomar* is more common than *beber* for drinks: *tomo agua*."
+    }
+  ],
+  "vocab": [
+    ["comer", "to eat"],
+    ["beber", "to drink"],
+    ["leer", "to read"],
+    ["aprender", "to learn"],
+    ["comprender", "to understand"],
+    ["correr", "to run"],
+    ["vender", "to sell"],
+    ["vivir", "to live"],
+    ["escribir", "to write"],
+    ["abrir", "to open"],
+    ["recibir", "to receive"],
+    ["compartir", "to share"],
+    ["el agua", "water"],
+    ["el periódico", "the newspaper"],
+    ["la carta", "the letter"],
+    ["el correo", "the mail / email"],
+    ["la fruta", "fruit"],
+    ["el parque", "the park"]
+  ],
+  "examples": [
+    ["Como fruta todos los días.", "I eat fruit every day."],
+    ["¿Dónde vives?", "Where do you live?"],
+    ["Vivo en Bogotá.", "I live in Bogotá."],
+    ["Mi padre lee el periódico.", "My father reads the newspaper."],
+    ["Aprendemos español.", "We're learning Spanish."],
+    ["Vivimos en una casa pequeña.", "We live in a small house."],
+    ["¿Comprendes?", "Do you understand?"],
+    ["No comprendo.", "I don't understand."],
+    ["Ella escribe una carta.", "She's writing a letter."],
+    ["Ellos corren en el parque.", "They run in the park."],
+    ["Bebo agua.", "I drink water."],
+    ["Abren la puerta.", "They open the door."],
+    ["Recibo muchos correos.", "I get a lot of emails."],
+    ["Compartimos un carro.", "We share a car."],
+    ["Aprendo a cocinar.", "I'm learning to cook."],
+    ["Ustedes venden libros.", "You all sell books."],
+    ["Escribimos en español.", "We write in Spanish."],
+    ["¿Qué lees?", "What are you reading?"],
+    ["Comes mucho.", "You eat a lot."],
+    ["Mis abuelos viven en México.", "My grandparents live in Mexico."],
+    ["Él bebe café.", "He drinks coffee."],
+    ["Leemos libros.", "We read books."],
+    ["Comemos con la familia.", "We eat with the family."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ fruta. (comer)", "answers": ["como"], "hint": "I eat fruit."},
+    {"type": "fill", "prompt": "¿Dónde ___ tú? (vivir)", "answers": ["vives"], "hint": "Where do you live?"},
+    {"type": "fill", "prompt": "Mi padre ___ el periódico. (leer)", "answers": ["lee"], "hint": "My father reads the newspaper."},
+    {"type": "fill", "prompt": "Nosotros ___ español. (aprender)", "answers": ["aprendemos"], "hint": "We're learning Spanish."},
+    {"type": "fill", "prompt": "Nosotros ___ en una casa pequeña. (vivir)", "answers": ["vivimos"], "hint": "We live in a small house."},
+    {"type": "fill", "prompt": "Ella ___ una carta. (escribir)", "answers": ["escribe"], "hint": "She's writing a letter."},
+    {"type": "fill", "prompt": "Ellos ___ en el parque. (correr)", "answers": ["corren"], "hint": "They run in the park."},
+    {"type": "fill", "prompt": "Ustedes ___ libros. (vender)", "answers": ["venden"], "hint": "You all sell books."},
+    {"type": "fill", "prompt": "Nosotros ___ un carro. (compartir)", "answers": ["compartimos"], "hint": "We share a car."},
+    {"type": "fill", "prompt": "Yo ___ muchos correos. (recibir)", "answers": ["recibo"], "hint": "I receive a lot of emails."},
+    {"type": "fill", "prompt": "Nosotros ___ en español. (escribir)", "answers": ["escribimos"], "hint": "We write in Spanish."},
+    {"type": "mc", "prompt": "Which is the *nosotros* form of *comer*?", "options": ["comemos", "comimos", "comamos", "comen"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is the *nosotros* form of *vivir*?", "options": ["vivimos", "vivemos", "vivamos", "viven"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What does *No comprendo* mean?", "options": ["I don't understand.", "I don't buy.", "I don't eat.", "I don't learn."], "answer": 0},
+    {"type": "mc", "prompt": "The *tú* ending for -er and -ir verbs is…", "options": ["-es", "-as", "-is", "-o"], "answer": 0},
+    {"type": "mc", "prompt": "*Abren* can mean…", "options": ["they open / you all open", "I open", "we open", "she opens"], "answer": 0},
+    {"type": "translate", "prompt": "Where do you live? (informal)", "answers": ["¿Dónde vives?", "¿Dónde vives tú?"]},
+    {"type": "translate", "prompt": "I live in Bogotá.", "answers": ["Vivo en Bogotá.", "Yo vivo en Bogotá."]},
+    {"type": "translate", "prompt": "I don't understand.", "answers": ["No comprendo.", "Yo no comprendo."]},
+    {"type": "translate", "prompt": "We're learning Spanish.", "answers": ["Aprendemos español.", "Nosotros aprendemos español.", "Nosotras aprendemos español."]},
+    {"type": "translate", "prompt": "I drink water.", "answers": ["Bebo agua.", "Tomo agua.", "Yo bebo agua.", "Yo tomo agua."]},
+    {"type": "translate", "prompt": "What are you reading? (informal)", "answers": ["¿Qué lees?"]},
+    {"type": "build", "prompt": "Put the words in order: \"My grandparents live in Mexico.\"", "answer": "Mis abuelos viven en México."},
+    {"type": "build", "prompt": "Put the words in order: \"I eat fruit every day.\"", "answer": "Como fruta todos los días."},
+    {"type": "build", "prompt": "Put the words in order: \"I'm learning to cook.\"", "answer": "Aprendo a cocinar."}
+  ]
+}

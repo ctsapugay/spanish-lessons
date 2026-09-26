@@ -1,0 +1,388 @@
+{
+  "sections": [
+    {
+      "heading": "Hay: there is, there are",
+      "body": "*Hay* means both \"there is\" and \"there are\". It never changes: *Hay un banco en la calle.* (There's a bank on the street.) *Hay dos farmacias.* (There are two pharmacies.) To ask, just add question marks: *¿Hay un supermercado por aquí?* (Is there a supermarket around here?) In the negative: *No hay pan.* (There's no bread.)\n\nAfter *hay*, use *un/una*, a number, *muchos/muchas*, or no article at all — but not *el/la/los/las*: *Hay café.* *Hay muchas tiendas.*"
+    },
+    {
+      "heading": "Hay or estar?",
+      "body": "- Use *hay* to say that something **exists** somewhere, usually something new to the conversation: *Hay un museo en el centro.* (There's a museum downtown.)\n- Use *estar* to say **where** a specific, known thing is: *El museo está en el centro.* (The museum is downtown.) *¿Dónde está la estación?*\n\nA quick test: *un / una / unos / números* → *hay*. *el / la / mi / tu / names* → *estar*."
+    },
+    {
+      "heading": "Al and del",
+      "body": "Two contractions are compulsory: *a + el = al* and *de + el = del*. *Voy al banco* (I'm going to the bank). *Estoy cerca del parque* (I'm near the park). They don't happen with *la*, *los* or *las*: *a la farmacia, de los museos*."
+    },
+    {
+      "heading": "Here, there, over there",
+      "body": "*Aquí* = here (near me), *ahí* = there (near you), *allí* = over there (far from both of us). *El banco está allí.* Useful location phrases: *cerca de* (near), *lejos de* (far from), *en el centro* (downtown), *a la derecha* (on the right), *a la izquierda* (on the left). To say \"I'm going to\", use *voy a*: *Voy a la plaza.*"
+    }
+  ],
+  "vocab": [
+    [
+      "hay",
+      "there is / there are"
+    ],
+    [
+      "el banco",
+      "the bank"
+    ],
+    [
+      "la farmacia",
+      "the pharmacy"
+    ],
+    [
+      "el supermercado",
+      "the supermarket"
+    ],
+    [
+      "la tienda",
+      "the store"
+    ],
+    [
+      "el museo",
+      "the museum"
+    ],
+    [
+      "la estación",
+      "the station"
+    ],
+    [
+      "el restaurante",
+      "the restaurant"
+    ],
+    [
+      "el hotel",
+      "the hotel"
+    ],
+    [
+      "la plaza",
+      "the square"
+    ],
+    [
+      "el hospital",
+      "the hospital"
+    ],
+    [
+      "la iglesia",
+      "the church"
+    ],
+    [
+      "el pan",
+      "bread"
+    ],
+    [
+      "el centro",
+      "downtown / the center"
+    ],
+    [
+      "cerca de",
+      "near"
+    ],
+    [
+      "lejos de",
+      "far from"
+    ],
+    [
+      "allí",
+      "over there"
+    ],
+    [
+      "ahí",
+      "there"
+    ],
+    [
+      "a la derecha",
+      "on the right"
+    ],
+    [
+      "a la izquierda",
+      "on the left"
+    ],
+    [
+      "voy a",
+      "I'm going to"
+    ],
+    [
+      "por aquí",
+      "around here"
+    ]
+  ],
+  "examples": [
+    [
+      "Hay un banco en la calle.",
+      "There's a bank on the street."
+    ],
+    [
+      "Hay dos farmacias en el centro.",
+      "There are two pharmacies downtown."
+    ],
+    [
+      "¿Hay un supermercado por aquí?",
+      "Is there a supermarket around here?"
+    ],
+    [
+      "No hay pan.",
+      "There's no bread."
+    ],
+    [
+      "Hay muchas tiendas.",
+      "There are lots of stores."
+    ],
+    [
+      "El museo está en el centro.",
+      "The museum is downtown."
+    ],
+    [
+      "¿Dónde está la estación?",
+      "Where is the station?"
+    ],
+    [
+      "La estación está lejos de aquí.",
+      "The station is far from here."
+    ],
+    [
+      "Voy al banco.",
+      "I'm going to the bank."
+    ],
+    [
+      "Voy a la farmacia.",
+      "I'm going to the pharmacy."
+    ],
+    [
+      "El hotel está cerca del parque.",
+      "The hotel is near the park."
+    ],
+    [
+      "El restaurante está a la derecha.",
+      "The restaurant is on the right."
+    ],
+    [
+      "La iglesia está a la izquierda.",
+      "The church is on the left."
+    ],
+    [
+      "El hospital está allí.",
+      "The hospital is over there."
+    ],
+    [
+      "Hay una plaza muy bonita.",
+      "There's a very pretty square."
+    ],
+    [
+      "¿Hay un hotel cerca?",
+      "Is there a hotel nearby?"
+    ],
+    [
+      "Hay café.",
+      "There's coffee."
+    ],
+    [
+      "La tienda está ahí.",
+      "The store is there."
+    ],
+    [
+      "Voy al centro.",
+      "I'm going downtown."
+    ],
+    [
+      "Hay muchos museos.",
+      "There are lots of museums."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose: ___ un banco en la calle.",
+      "options": [
+        "Hay",
+        "Está"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: El museo ___ en el centro.",
+      "options": [
+        "está",
+        "hay"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ¿Dónde ___ la estación?",
+      "options": [
+        "está",
+        "hay"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ___ muchas tiendas en el centro.",
+      "options": [
+        "Hay",
+        "Están"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ¿___ un supermercado por aquí?",
+      "options": [
+        "Hay",
+        "Está"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"I'm going to the bank\"?",
+      "options": [
+        "Voy al banco.",
+        "Voy a el banco.",
+        "Voy del banco."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct for \"near the park\"?",
+      "options": [
+        "cerca del parque",
+        "cerca de el parque",
+        "cerca al parque"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Allí* means…",
+      "options": [
+        "over there (far from both)",
+        "here",
+        "there (near you)",
+        "near"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "What does *Hay dos farmacias* mean?",
+      "options": [
+        "There are two pharmacies.",
+        "The two pharmacies are there.",
+        "I have two pharmacies.",
+        "Two pharmacies are open."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "No ___ pan.",
+      "answers": [
+        "hay"
+      ],
+      "hint": "There's no bread."
+    },
+    {
+      "type": "fill",
+      "prompt": "Voy ___ banco.",
+      "answers": [
+        "al"
+      ],
+      "hint": "I'm going to the bank."
+    },
+    {
+      "type": "fill",
+      "prompt": "El hotel está cerca ___ parque.",
+      "answers": [
+        "del"
+      ],
+      "hint": "The hotel is near the park."
+    },
+    {
+      "type": "fill",
+      "prompt": "Voy a ___ farmacia.",
+      "answers": [
+        "la"
+      ],
+      "hint": "I'm going to the pharmacy."
+    },
+    {
+      "type": "fill",
+      "prompt": "La estación está ___ de aquí.",
+      "answers": [
+        "lejos"
+      ],
+      "hint": "The station is far from here."
+    },
+    {
+      "type": "fill",
+      "prompt": "El restaurante está a la ___.",
+      "answers": [
+        "derecha",
+        "izquierda"
+      ],
+      "hint": "The restaurant is on the right. (or left)"
+    },
+    {
+      "type": "translate",
+      "prompt": "There's a bank on the street.",
+      "answers": [
+        "Hay un banco en la calle."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Is there a supermarket around here?",
+      "answers": [
+        "¿Hay un supermercado por aquí?",
+        "¿Hay supermercado por aquí?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Where is the station?",
+      "answers": [
+        "¿Dónde está la estación?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm going to the bank.",
+      "answers": [
+        "Voy al banco."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "There's no bread.",
+      "answers": [
+        "No hay pan."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The hotel is near the park.\"",
+      "answer": "El hotel está cerca del parque."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"There are two pharmacies downtown.\"",
+      "answer": "Hay dos farmacias en el centro."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The church is on the left.\"",
+      "answer": "La iglesia está a la izquierda."
+    }
+  ]
+}

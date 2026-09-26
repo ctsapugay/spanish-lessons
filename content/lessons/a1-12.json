@@ -1,0 +1,97 @@
+{
+  "sections": [
+    {
+      "heading": "Estar: the other \"to be\"",
+      "body": "Spanish has two verbs for \"to be\". You know *ser*. The second is *estar*, which is irregular in the *yo* form and has accents on most forms.",
+      "table": {
+        "head": ["Pronoun", "estar"],
+        "rows": [
+          ["*yo*", "*estoy*"],
+          ["*tú*", "*estás*"],
+          ["*él / ella / usted*", "*está*"],
+          ["*nosotros / nosotras*", "*estamos*"],
+          ["*ustedes*", "*están*"],
+          ["*ellos / ellas*", "*están*"]
+        ]
+      }
+    },
+    {
+      "heading": "Use 1: where something is",
+      "body": "Location — of people and things — uses *estar*: *¿Dónde está el baño?* (Where is the bathroom?) *Estoy en casa.* (I'm at home.) *Lima está en Perú.* (Lima is in Peru.)\n\n(One exception you'll learn later: for where an *event* takes place, like a party or a concert, Spanish uses *ser*.)"
+    },
+    {
+      "heading": "Use 2: how someone or something is right now",
+      "body": "States and conditions — how you feel, temporary situations — use *estar*: *Estoy cansado.* (I'm tired.) *Ella está contenta.* (She's happy.) *La sopa está fría.* (The soup is cold.) *La puerta está abierta.* (The door is open.)\n\nThat's why \"How are you?\" is *¿Cómo estás?*: it asks about your state today."
+    },
+    {
+      "heading": "Ser or estar? A first rule of thumb",
+      "body": "- *Ser*: what something **is** — identity, origin, nationality, job, personality, what it's like in general. *Ana es alta. Es de Chile. Es médica.*\n- *Estar*: where it **is**, and how it **is at the moment**. *Ana está en el hospital. Está cansada.*\n\nCompare: *Carlos es aburrido* (Carlos is a boring person) vs. *Carlos está aburrido* (Carlos is bored right now). You'll refine this over the next levels."
+    }
+  ],
+  "vocab": [
+    ["estar", "to be (location, state)"],
+    ["cansado / cansada", "tired"],
+    ["contento / contenta", "happy"],
+    ["triste", "sad"],
+    ["enfermo / enferma", "sick"],
+    ["ocupado / ocupada", "busy"],
+    ["nervioso / nerviosa", "nervous"],
+    ["abierto / abierta", "open"],
+    ["cerrado / cerrada", "closed"],
+    ["frío / fría", "cold"],
+    ["caliente", "hot (temperature)"],
+    ["el baño", "the bathroom"],
+    ["en casa", "at home"],
+    ["la oficina", "the office"],
+    ["la sopa", "the soup"],
+    ["la escuela", "the school"]
+  ],
+  "examples": [
+    ["¿Dónde está el baño?", "Where is the bathroom?"],
+    ["Estoy en casa.", "I'm at home."],
+    ["Lima está en Perú.", "Lima is in Peru."],
+    ["Estoy cansado.", "I'm tired. (man speaking)"],
+    ["Estoy cansada.", "I'm tired. (woman speaking)"],
+    ["Ella está contenta.", "She's happy."],
+    ["La sopa está fría.", "The soup is cold."],
+    ["La puerta está abierta.", "The door is open."],
+    ["La oficina está cerrada.", "The office is closed."],
+    ["¿Estás ocupado?", "Are you busy?"],
+    ["Mis padres están en la escuela.", "My parents are at the school."],
+    ["Estamos muy contentos.", "We're very happy."],
+    ["Carlos está enfermo.", "Carlos is sick."],
+    ["Carlos es aburrido.", "Carlos is a boring person."],
+    ["Carlos está aburrido.", "Carlos is bored."],
+    ["Ana es alta y está cansada.", "Ana is tall and she's tired."],
+    ["Ustedes están nerviosos.", "You all are nervous."],
+    ["El café está caliente.", "The coffee is hot."],
+    ["¿Dónde están mis libros?", "Where are my books?"],
+    ["Mi hermana está triste.", "My sister is sad."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Yo ___ en casa. (estar)", "answers": ["estoy"], "hint": "I'm at home."},
+    {"type": "fill", "prompt": "¿Dónde ___ el baño?", "answers": ["está"], "hint": "Where is the bathroom?"},
+    {"type": "fill", "prompt": "Nosotros ___ muy contentos.", "answers": ["estamos"], "hint": "We're very happy."},
+    {"type": "fill", "prompt": "¿Tú ___ ocupado?", "answers": ["estás"], "hint": "Are you busy?"},
+    {"type": "fill", "prompt": "Mis padres ___ en la escuela.", "answers": ["están"], "hint": "My parents are at the school."},
+    {"type": "fill", "prompt": "La oficina está ___.", "answers": ["cerrada"], "hint": "The office is closed."},
+    {"type": "fill", "prompt": "La sopa está ___.", "answers": ["fría"], "hint": "The soup is cold."},
+    {"type": "mc", "prompt": "Choose: Lima ___ en Perú.", "options": ["está", "es"], "answer": 0, "lang": "es", "explain": "Location → *estar*."},
+    {"type": "mc", "prompt": "Choose: Ana ___ médica.", "options": ["es", "está"], "answer": 0, "lang": "es", "explain": "Job → *ser*."},
+    {"type": "mc", "prompt": "Choose: Hoy ___ muy cansada.", "options": ["estoy", "soy"], "answer": 0, "lang": "es", "explain": "A state right now → *estar*."},
+    {"type": "mc", "prompt": "Choose: Mis padres ___ de Chile.", "options": ["son", "están"], "answer": 0, "lang": "es", "explain": "Origin → *ser*."},
+    {"type": "mc", "prompt": "Choose: La puerta ___ abierta.", "options": ["está", "es"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Mi hermano ___ alto.", "options": ["es", "está"], "answer": 0, "lang": "es", "explain": "What someone is like → *ser*."},
+    {"type": "mc", "prompt": "What does *Carlos está aburrido* mean?", "options": ["Carlos is bored.", "Carlos is a boring person.", "Carlos is tired.", "Carlos is busy."], "answer": 0},
+    {"type": "mc", "prompt": "What does *Carlos es aburrido* mean?", "options": ["Carlos is a boring person.", "Carlos is bored.", "Carlos is sad.", "Carlos is sick."], "answer": 0},
+    {"type": "mc", "prompt": "Why is it *¿Cómo estás?* and not *¿Cómo eres?* for \"How are you?\"", "options": ["It asks how you are right now (a state)", "It asks what you are like as a person", "Both mean the same thing"], "answer": 0},
+    {"type": "translate", "prompt": "I'm tired. (a woman speaking)", "answers": ["Estoy cansada.", "Yo estoy cansada."]},
+    {"type": "translate", "prompt": "Where is the bathroom?", "answers": ["¿Dónde está el baño?"]},
+    {"type": "translate", "prompt": "She's happy.", "answers": ["Está contenta.", "Ella está contenta."]},
+    {"type": "translate", "prompt": "We're at home.", "answers": ["Estamos en casa.", "Nosotros estamos en casa.", "Nosotras estamos en casa."]},
+    {"type": "translate", "prompt": "Carlos is sick.", "answers": ["Carlos está enfermo."]},
+    {"type": "build", "prompt": "Put the words in order: \"Ana is tall and she's tired.\"", "answer": "Ana es alta y está cansada."},
+    {"type": "build", "prompt": "Put the words in order: \"Where are my books?\"", "answer": "¿Dónde están mis libros?"},
+    {"type": "build", "prompt": "Put the words in order: \"The coffee is hot.\"", "answer": "El café está caliente."}
+  ]
+}

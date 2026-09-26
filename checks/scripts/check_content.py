@@ -113,7 +113,8 @@ for level, meta in ordered_lessons(course):
 
     ids = [it["id"] for it in items]
     if len(set(ids)) != len(ids):
-        e("two exercises share the same prompt (duplicate items)")
+        dups = {it.get("prompt") or it.get("audio") for it in items if ids.count(it["id"]) > 1}
+        e(f"two exercises share the same prompt (duplicate items): {sorted(dups)}")
 
     for n, it in enumerate(authored, start=1):
         where = f"exercise {n} ({it.get('type')})"
