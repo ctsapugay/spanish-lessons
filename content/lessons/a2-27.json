@@ -1,0 +1,80 @@
+{
+  "sections": [
+    {
+      "heading": "Answering the phone",
+      "body": "How people answer varies by country: *¿Aló?* (much of South America), *¿Bueno?* (Mexico), *¿Diga? / ¿Dígame?* (Spain, also formal), *¿Hola?* (Argentina and many others). The caller says who they are: *Hola, soy Clara* or *Habla Clara* (Clara speaking).\n\n- *¿Está Luis?* / *¿Se encuentra el señor Díaz?* — Is Luis / Mr. Díaz there?\n- *¿De parte de quién?* — Who's calling?\n- *Un momento, por favor.* / *No cuelgue.* — Hold on. / Don't hang up.\n- *No está. ¿Quiere dejar un mensaje?* — He's not here. Would you like to leave a message?\n- *¿Le puede decir que me llame?* — Can you tell him to call me? (subjunctive — you'll learn why in B1)\n- *Se cortó.* — The call dropped. *Te escucho mal.* — I can't hear you well."
+    },
+    {
+      "heading": "Making plans: quedar",
+      "body": "In much of the Spanish-speaking world, *quedar* means \"to arrange to meet\": *¿Quedamos el sábado?* (Shall we meet on Saturday?) *Quedé con Ana a las ocho.* (I arranged to meet Ana at eight.) In many Latin American countries people also say *¿Nos vemos el sábado?* or *¿Nos juntamos?* (Chile, Argentina).\n\n- *¿Dónde quedamos? / ¿Dónde nos vemos?* — Where shall we meet?\n- *¿Te viene bien a las siete?* / *¿Te queda bien…?* — Does seven work for you?\n- *Mejor a las ocho.* — Better at eight.\n- *Perfecto, nos vemos allí.* — Perfect, see you there."
+    },
+    {
+      "heading": "Messages",
+      "body": "Texting (*mandar un mensaje*, *escribir por WhatsApp* — often just *te escribo*) is everywhere. Common abbreviations: *q* (que), *xq* (porque / por qué), *tb* (también), *bs* (besos), *jaja* (haha)."
+    }
+  ],
+  "vocab": [
+    ["¿Aló?", "Hello? (phone)"],
+    ["¿Bueno?", "Hello? (phone, Mexico)"],
+    ["¿De parte de quién?", "Who's calling?"],
+    ["colgar", "to hang up"],
+    ["dejar un mensaje", "to leave a message"],
+    ["llamar", "to call"],
+    ["devolver la llamada", "to call back"],
+    ["quedar", "to arrange to meet"],
+    ["¿Quedamos…?", "Shall we meet…?"],
+    ["juntarse", "to get together"],
+    ["¿Te viene bien…?", "Does … work for you?"],
+    ["cortarse", "to be cut off"],
+    ["escuchar mal", "to not hear well"],
+    ["el celular", "the cell phone"],
+    ["la cita", "the appointment / date"]
+  ],
+  "examples": [
+    ["¿Aló? Hola, soy Clara.", "Hello? Hi, it's Clara."],
+    ["¿Está Luis?", "Is Luis there?"],
+    ["¿De parte de quién?", "Who's calling?"],
+    ["Un momento, por favor. No cuelgue.", "One moment, please. Don't hang up."],
+    ["No está. ¿Quiere dejar un mensaje?", "He's not here. Would you like to leave a message?"],
+    ["Dígale que me devuelva la llamada, por favor.", "Please tell him to call me back."],
+    ["Se cortó la llamada.", "The call dropped."],
+    ["Te escucho mal.", "I can't hear you well."],
+    ["¿Quedamos el sábado?", "Shall we meet on Saturday?"],
+    ["Quedé con Ana a las ocho.", "I arranged to meet Ana at eight."],
+    ["¿Dónde nos vemos?", "Where shall we meet?"],
+    ["¿Te viene bien a las siete?", "Does seven work for you?"],
+    ["Mejor a las ocho.", "Eight would be better."],
+    ["Perfecto, nos vemos allí.", "Perfect, see you there."],
+    ["¿Nos juntamos mañana?", "Shall we get together tomorrow?"],
+    ["Te escribo más tarde.", "I'll text you later."],
+    ["Tengo una cita con el médico.", "I have a doctor's appointment."],
+    ["Mi celular no tiene batería.", "My phone's battery is dead."],
+    ["Te llamo cuando llegue.", "I'll call you when I get there."],
+    ["¿Me puedes llamar más tarde?", "Can you call me later?"]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "In Mexico, people often answer the phone with…", "options": ["¿Bueno?", "¿Qué tal?", "¿Salud?", "¿Por qué?"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The receptionist asks *¿De parte de quién?* She wants to know…", "options": ["who is calling", "what the call is about", "where you are", "when you'll call back"], "answer": 0},
+    {"type": "mc", "prompt": "*No cuelgue* means…", "options": ["Don't hang up.", "Don't call.", "Don't speak.", "Don't wait."], "answer": 0},
+    {"type": "mc", "prompt": "*¿Quedamos el sábado?* means…", "options": ["Shall we meet on Saturday?", "Are we staying Saturday?", "Is it Saturday?", "Did we meet Saturday?"], "answer": 0},
+    {"type": "mc", "prompt": "*Se cortó* on the phone means…", "options": ["The call dropped.", "He cut himself.", "It's short.", "She hung up angrily."], "answer": 0},
+    {"type": "mc", "prompt": "*¿Te viene bien a las siete?* asks…", "options": ["Does seven work for you?", "Are you coming at seven?", "Do you feel good at seven?", "Did you come at seven?"], "answer": 0},
+    {"type": "fill", "prompt": "¿___ Luis?", "answers": ["está"], "hint": "Is Luis there?"},
+    {"type": "fill", "prompt": "¿De parte de ___?", "answers": ["quién"], "hint": "Who's calling?"},
+    {"type": "fill", "prompt": "No está. ¿Quiere dejar un ___?", "answers": ["mensaje"], "hint": "He's not here. Would you like to leave a message?"},
+    {"type": "fill", "prompt": "Se ___ la llamada.", "answers": ["cortó"], "hint": "The call dropped."},
+    {"type": "fill", "prompt": "Te escucho ___.", "answers": ["mal"], "hint": "I can't hear you well."},
+    {"type": "fill", "prompt": "¿___ el sábado? (quedar, nosotros)", "answers": ["quedamos"], "hint": "Shall we meet on Saturday?"},
+    {"type": "fill", "prompt": "¿Dónde nos ___?", "answers": ["vemos"], "hint": "Where shall we meet?"},
+    {"type": "fill", "prompt": "Tengo una ___ con el médico.", "answers": ["cita"], "hint": "I have a doctor's appointment."},
+    {"type": "fill", "prompt": "Te ___ más tarde. (escribir, yo)", "answers": ["escribo"], "hint": "I'll text you later."},
+    {"type": "translate", "prompt": "Is Luis there?", "answers": ["¿Está Luis?", "¿Se encuentra Luis?"]},
+    {"type": "translate", "prompt": "Shall we meet on Saturday?", "answers": ["¿Quedamos el sábado?", "¿Nos vemos el sábado?"]},
+    {"type": "translate", "prompt": "I can't hear you well. (tú)", "answers": ["Te escucho mal.", "No te escucho bien."]},
+    {"type": "translate", "prompt": "Perfect, see you there.", "answers": ["Perfecto, nos vemos allí.", "Perfecto, nos vemos ahí."]},
+    {"type": "translate", "prompt": "Can you call me later? (tú)", "answers": ["¿Me puedes llamar más tarde?", "¿Puedes llamarme más tarde?"]},
+    {"type": "build", "prompt": "Put the words in order: \"One moment, please. Don't hang up.\"", "answer": "Un momento, por favor. No cuelgue."},
+    {"type": "build", "prompt": "Put the words in order: \"I arranged to meet Ana at eight.\"", "answer": "Quedé con Ana a las ocho."},
+    {"type": "build", "prompt": "Put the words in order: \"Does seven work for you?\"", "answer": "¿Te viene bien a las siete?"}
+  ]
+}

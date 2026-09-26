@@ -1,0 +1,99 @@
+{
+  "sections": [
+    {
+      "heading": "More verbs like gustar",
+      "body": "Many verbs about feelings and opinions work like *gustar*: the thing is the subject, the person is an indirect object pronoun.",
+      "table": {
+        "head": ["Verb", "Meaning", "Example"],
+        "rows": [
+          ["*interesar*", "to interest", "*Me interesa la historia.*"],
+          ["*molestar*", "to bother", "*Me molesta el ruido.*"],
+          ["*importar*", "to matter / care", "*No me importa.* — I don't care."],
+          ["*preocupar*", "to worry", "*Me preocupa el examen.*"],
+          ["*encantar*", "to love", "*Nos encantan los perros.*"],
+          ["*fascinar*", "to fascinate", "*Le fascina la música.*"],
+          ["*parecer*", "to seem", "*Me parece interesante.*"],
+          ["*caer bien / mal*", "to like / dislike (a person)", "*Tu hermano me cae muy bien.*"],
+          ["*faltar*", "to be missing / lack", "*Me faltan dos euros.*"],
+          ["*quedar*", "to have left", "*Nos queda poco tiempo.*"]
+        ]
+      }
+    },
+    {
+      "heading": "Preferences",
+      "body": "- *preferir* (e → ie): *Prefiero el té al café.* (I prefer tea to coffee.) *Prefiero quedarme en casa.*\n- *¿Qué prefieres, la playa o la montaña?* — *Prefiero la montaña.*\n- *Me gusta más…* (I like … more) and *Lo que más me gusta es…* (What I like most is…).\n- Indifference: *Me da igual* / *Me da lo mismo* (I don't mind / It's all the same to me)."
+    },
+    {
+      "heading": "How things make you feel",
+      "body": "*Me pone nervioso / contento / triste* (it makes me nervous / happy / sad): *Me pone nerviosa hablar en público.* *Me da miedo* (it scares me): *Me dan miedo las arañas.* *Me aburre* (it bores me)."
+    }
+  ],
+  "vocab": [
+    ["interesar", "to interest"],
+    ["molestar", "to bother"],
+    ["importar", "to matter / to care"],
+    ["preocupar", "to worry"],
+    ["fascinar", "to fascinate"],
+    ["parecer", "to seem"],
+    ["caer bien", "to like (a person)"],
+    ["caer mal", "to dislike (a person)"],
+    ["faltar", "to be missing / lacking"],
+    ["preferir", "to prefer"],
+    ["me da igual", "I don't mind"],
+    ["me pone nervioso", "it makes me nervous"],
+    ["me da miedo", "it scares me"],
+    ["la montaña", "the mountains"],
+    ["la araña", "the spider"],
+    ["en público", "in public"]
+  ],
+  "examples": [
+    ["Me interesa mucho la historia.", "I'm very interested in history."],
+    ["Me molesta el ruido.", "The noise bothers me."],
+    ["No me importa.", "I don't care."],
+    ["Me preocupa el examen.", "I'm worried about the exam."],
+    ["Nos encantan los perros.", "We love dogs."],
+    ["A mi padre le fascina la música clásica.", "My father is fascinated by classical music."],
+    ["Me parece una buena idea.", "It seems like a good idea to me."],
+    ["Tu hermano me cae muy bien.", "I really like your brother."],
+    ["Esa chica me cae mal.", "I don't like that girl."],
+    ["Me faltan dos dólares.", "I'm two dollars short."],
+    ["Nos queda poco tiempo.", "We have little time left."],
+    ["Prefiero el té al café.", "I prefer tea to coffee."],
+    ["¿Qué prefieres, la playa o la montaña?", "What do you prefer, the beach or the mountains?"],
+    ["Prefiero la montaña.", "I prefer the mountains."],
+    ["Me da igual.", "I don't mind."],
+    ["Lo que más me gusta es viajar.", "What I like most is traveling."],
+    ["Me pone nerviosa hablar en público.", "Speaking in public makes me nervous."],
+    ["Me dan miedo las arañas.", "Spiders scare me."],
+    ["¿Te molesta si abro la ventana?", "Do you mind if I open the window?"],
+    ["¿Qué te parece?", "What do you think?"],
+    ["Me aburren las películas largas.", "Long movies bore me."],
+    ["A ella no le importa el dinero.", "She doesn't care about money."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Me ___ la historia. (interesar)", "answers": ["interesa"], "hint": "I'm interested in history."},
+    {"type": "fill", "prompt": "Me ___ el ruido. (molestar)", "answers": ["molesta"], "hint": "The noise bothers me."},
+    {"type": "fill", "prompt": "Nos ___ los perros. (encantar)", "answers": ["encantan"], "hint": "We love dogs."},
+    {"type": "fill", "prompt": "Tu hermano me ___ muy bien.", "answers": ["cae"], "hint": "I really like your brother."},
+    {"type": "fill", "prompt": "Me ___ dos dólares. (faltar)", "answers": ["faltan"], "hint": "I'm two dollars short."},
+    {"type": "fill", "prompt": "___ el té al café. (preferir, yo)", "answers": ["prefiero"], "hint": "I prefer tea to coffee."},
+    {"type": "fill", "prompt": "Me da ___.", "answers": ["igual", "miedo"], "hint": "I don't mind."},
+    {"type": "fill", "prompt": "Me ___ nerviosa hablar en público. (poner)", "answers": ["pone"], "hint": "Speaking in public makes me nervous."},
+    {"type": "fill", "prompt": "Me dan ___ las arañas.", "answers": ["miedo"], "hint": "Spiders scare me."},
+    {"type": "fill", "prompt": "¿Qué te ___?", "answers": ["parece"], "hint": "What do you think?"},
+    {"type": "fill", "prompt": "Nos ___ poco tiempo. (quedar)", "answers": ["queda"], "hint": "We have little time left."},
+    {"type": "mc", "prompt": "Choose: Me ___ las películas largas.", "options": ["aburren", "aburre", "aburro", "aburrimos"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Esa chica me cae mal* means…", "options": ["I don't like that girl.", "That girl fell on me.", "That girl is sick.", "I fell because of that girl."], "answer": 0},
+    {"type": "mc", "prompt": "*No me importa* means…", "options": ["I don't care.", "I don't import it.", "It's not important for you.", "I don't understand."], "answer": 0},
+    {"type": "mc", "prompt": "Someone asks if you want pizza or pasta, and you don't mind. You say…", "options": ["Me da igual.", "Me da miedo.", "Me cae bien.", "Me falta."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is correct?", "options": ["A ella no le importa el dinero.", "Ella no importa el dinero.", "A ella no la importa el dinero."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "I don't care.", "answers": ["No me importa.", "Me da igual."]},
+    {"type": "translate", "prompt": "It seems like a good idea to me.", "answers": ["Me parece una buena idea.", "Me parece buena idea."]},
+    {"type": "translate", "prompt": "I prefer tea to coffee.", "answers": ["Prefiero el té al café."]},
+    {"type": "translate", "prompt": "Spiders scare me.", "answers": ["Me dan miedo las arañas.", "Las arañas me dan miedo."]},
+    {"type": "translate", "prompt": "What do you think? (tú)", "answers": ["¿Qué te parece?", "¿Qué piensas?"]},
+    {"type": "build", "prompt": "Put the words in order: \"What I like most is traveling.\"", "answer": "Lo que más me gusta es viajar."},
+    {"type": "build", "prompt": "Put the words in order: \"Do you mind if I open the window?\"", "answer": "¿Te molesta si abro la ventana?"},
+    {"type": "build", "prompt": "Put the words in order: \"I'm worried about the exam.\"", "answer": "Me preocupa el examen."}
+  ]
+}

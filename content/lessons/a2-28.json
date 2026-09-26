@@ -1,0 +1,375 @@
+{
+  "sections": [
+    {
+      "heading": "Housework",
+      "body": "*las tareas de la casa / los quehaceres* (chores): *limpiar* (to clean), *barrer* (to sweep), *trapear* (to mop — *fregar el suelo* in Spain), *lavar los platos* (to wash the dishes), *lavar la ropa* (to do the laundry), *planchar* (to iron), *hacer la cama* (to make the bed), *sacar la basura* (to take out the trash), *pasar la aspiradora* (to vacuum), *cocinar*, *regar las plantas* (to water the plants), *ordenar* (to tidy up).\n\n*Me toca a mí* (It's my turn): *Hoy me toca lavar los platos.* *¿A quién le toca sacar la basura?*"
+    },
+    {
+      "heading": "Impersonal se: people in general",
+      "body": "*Se* + third-person verb talks about what people do in general, without saying who: *Aquí se habla español.* (Spanish is spoken here.) *¿Cómo se dice \"trash\" en español?* (How do you say…?) *No se puede fumar.* (You can't smoke / Smoking isn't allowed.) *Se come bien en este restaurante.* (You eat well at this restaurant.)"
+    },
+    {
+      "heading": "Passive se: things being done",
+      "body": "When there's a thing, the verb agrees with it: singular or plural.\n\n- *Se vende casa.* (House for sale.) *Se venden casas.* (Houses for sale.)\n- *Se necesita camarero.* / *Se necesitan camareros.* (Waiter / waiters needed.)\n- *Se alquila apartamento.* (Apartment for rent.)\n- *Los platos se lavan con agua caliente.* (Dishes are washed with hot water.)\n\nYou'll see this form on signs, in recipes and in instructions everywhere."
+    }
+  ],
+  "vocab": [
+    [
+      "las tareas de la casa",
+      "housework / chores"
+    ],
+    [
+      "limpiar",
+      "to clean"
+    ],
+    [
+      "barrer",
+      "to sweep"
+    ],
+    [
+      "trapear",
+      "to mop"
+    ],
+    [
+      "lavar los platos",
+      "to wash the dishes"
+    ],
+    [
+      "lavar la ropa",
+      "to do the laundry"
+    ],
+    [
+      "planchar",
+      "to iron"
+    ],
+    [
+      "hacer la cama",
+      "to make the bed"
+    ],
+    [
+      "sacar la basura",
+      "to take out the trash"
+    ],
+    [
+      "pasar la aspiradora",
+      "to vacuum"
+    ],
+    [
+      "regar las plantas",
+      "to water the plants"
+    ],
+    [
+      "ordenar",
+      "to tidy up"
+    ],
+    [
+      "me toca",
+      "it's my turn"
+    ],
+    [
+      "se vende",
+      "for sale"
+    ],
+    [
+      "se alquila",
+      "for rent"
+    ],
+    [
+      "se necesita",
+      "wanted / needed"
+    ],
+    [
+      "el plato",
+      "the plate / dish"
+    ],
+    [
+      "alquilar",
+      "to rent"
+    ]
+  ],
+  "examples": [
+    [
+      "Hoy me toca lavar los platos.",
+      "Today it's my turn to wash the dishes."
+    ],
+    [
+      "¿A quién le toca sacar la basura?",
+      "Whose turn is it to take out the trash?"
+    ],
+    [
+      "Hago la cama todas las mañanas.",
+      "I make the bed every morning."
+    ],
+    [
+      "Los sábados limpiamos la casa.",
+      "On Saturdays we clean the house."
+    ],
+    [
+      "Mi hermano nunca ordena su cuarto.",
+      "My brother never tidies his room."
+    ],
+    [
+      "Odio planchar.",
+      "I hate ironing."
+    ],
+    [
+      "¿Puedes pasar la aspiradora?",
+      "Can you vacuum?"
+    ],
+    [
+      "Riego las plantas los lunes.",
+      "I water the plants on Mondays."
+    ],
+    [
+      "Aquí se habla español.",
+      "Spanish is spoken here."
+    ],
+    [
+      "¿Cómo se dice \"trash\" en español?",
+      "How do you say \"trash\" in Spanish?"
+    ],
+    [
+      "Se dice \"basura\".",
+      "You say \"basura\"."
+    ],
+    [
+      "No se puede fumar aquí.",
+      "You can't smoke here."
+    ],
+    [
+      "Se come muy bien en este restaurante.",
+      "You eat very well at this restaurant."
+    ],
+    [
+      "Se vende casa.",
+      "House for sale."
+    ],
+    [
+      "Se venden carros usados.",
+      "Used cars for sale."
+    ],
+    [
+      "Se necesitan camareros.",
+      "Waiters needed."
+    ],
+    [
+      "Se alquila apartamento en el centro.",
+      "Apartment for rent downtown."
+    ],
+    [
+      "Los platos se lavan con agua caliente.",
+      "Dishes are washed with hot water."
+    ],
+    [
+      "Barro la cocina y después trapeo.",
+      "I sweep the kitchen and then I mop."
+    ],
+    [
+      "Lavo la ropa los domingos.",
+      "I do the laundry on Sundays."
+    ],
+    [
+      "¿Cómo se escribe tu nombre?",
+      "How do you spell your name?"
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Hoy me ___ lavar los platos.",
+      "answers": [
+        "toca"
+      ],
+      "hint": "Today it's my turn to wash the dishes."
+    },
+    {
+      "type": "fill",
+      "prompt": "Hago la ___ todas las mañanas.",
+      "answers": [
+        "cama"
+      ],
+      "hint": "I make the bed every morning."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿A quién le toca sacar la ___?",
+      "answers": [
+        "basura"
+      ],
+      "hint": "Whose turn is it to take out the trash?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Aquí ___ habla español.",
+      "answers": [
+        "se"
+      ],
+      "hint": "Spanish is spoken here."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Cómo se ___ \"trash\" en español?",
+      "answers": [
+        "dice"
+      ],
+      "hint": "How do you say \"trash\" in Spanish?"
+    },
+    {
+      "type": "fill",
+      "prompt": "No se ___ fumar aquí.",
+      "answers": [
+        "puede"
+      ],
+      "hint": "You can't smoke here."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ carros usados. (vender)",
+      "answers": [
+        "venden"
+      ],
+      "hint": "Used cars for sale."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ casa. (vender)",
+      "answers": [
+        "vende"
+      ],
+      "hint": "House for sale."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ camareros. (necesitar)",
+      "answers": [
+        "necesitan"
+      ],
+      "hint": "Waiters needed."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ apartamento en el centro. (alquilar)",
+      "answers": [
+        "alquila"
+      ],
+      "hint": "Apartment for rent downtown."
+    },
+    {
+      "type": "fill",
+      "prompt": "Los platos se ___ con agua caliente. (lavar)",
+      "answers": [
+        "lavan"
+      ],
+      "hint": "Dishes are washed with hot water."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Se ___ casas.",
+      "options": [
+        "venden",
+        "vende"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "The verb agrees with the plural thing: *casas*."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Aquí se ___ inglés.",
+      "options": [
+        "habla",
+        "hablan"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "A sign says *Se alquila*. It means…",
+      "options": [
+        "For rent",
+        "For sale",
+        "Closed",
+        "Help wanted"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*pasar la aspiradora* means…",
+      "options": [
+        "to vacuum",
+        "to pass the ball",
+        "to iron",
+        "to spend time"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Me toca a mí* means…",
+      "options": [
+        "It's my turn.",
+        "It touches me.",
+        "I play it.",
+        "It's for me."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "Spanish is spoken here.",
+      "answers": [
+        "Aquí se habla español.",
+        "Se habla español aquí.",
+        "Se habla español."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "How do you spell \"basura\"? (Ask the question in Spanish.)",
+      "answers": [
+        "¿Cómo se escribe basura?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "You can't smoke here.",
+      "answers": [
+        "No se puede fumar aquí.",
+        "Aquí no se puede fumar."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I make the bed every morning.",
+      "answers": [
+        "Hago la cama todas las mañanas.",
+        "Todas las mañanas hago la cama."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "House for sale.",
+      "answers": [
+        "Se vende casa.",
+        "Casa en venta."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"On Saturdays we clean the house.\"",
+      "answer": "Los sábados limpiamos la casa."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I sweep the kitchen and then I mop.\"",
+      "answer": "Barro la cocina y después trapeo."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"You eat very well at this restaurant.\"",
+      "answer": "Se come muy bien en este restaurante."
+    }
+  ]
+}

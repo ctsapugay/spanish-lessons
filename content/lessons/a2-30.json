@@ -1,0 +1,370 @@
+{
+  "sections": [
+    {
+      "heading": "Giving your opinion",
+      "body": "- *Creo que… / Pienso que…* — I think that…: *Creo que tienes razón.*\n- *Me parece que…* — It seems to me that…\n- *En mi opinión, … / Para mí, …* — In my opinion, …\n- *A mi modo de ver, …* — The way I see it, …\n\nAsk for opinions: *¿Qué piensas de…? / ¿Qué opinas de…?* (What do you think of…?) *¿Qué te parece…?* *¿Tú qué crees?*"
+    },
+    {
+      "heading": "Agreeing and disagreeing",
+      "body": "Agree: *Estoy de acuerdo (contigo).* (I agree with you.) *Tienes razón.* (You're right.) *¡Claro! / ¡Exacto! / Sin duda.*\n\nDisagree (softly first!): *No estoy de acuerdo.* *No estoy seguro / segura.* *Bueno, depende.* (Well, it depends.) *Sí, pero…* *No tienes razón* sounds blunt — *Yo no lo veo así* (I don't see it that way) is gentler.\n\nPartly: *Estoy de acuerdo en parte.* *Hasta cierto punto.* (Up to a point.)"
+    },
+    {
+      "heading": "Certainty and possibility",
+      "body": "- Certain: *Estoy seguro de que…* (I'm sure that…), *Es verdad que…*, *Seguro.*\n- Possible: *Puede ser.* (Maybe / Could be.) *A lo mejor* + indicative: *A lo mejor llueve mañana.* (Maybe it'll rain tomorrow.) *Quizás / Tal vez* (perhaps).\n\n(Note: negative opinions like *No creo que…* need the subjunctive, which you'll learn in B1. For now, keep to *Creo que no.* — I don't think so.)"
+    }
+  ],
+  "vocab": [
+    [
+      "creo que",
+      "I believe / I think that"
+    ],
+    [
+      "pienso que",
+      "I think that (after considering)"
+    ],
+    [
+      "en mi opinión",
+      "in my opinion"
+    ],
+    [
+      "opinar",
+      "to think / have an opinion"
+    ],
+    [
+      "estar de acuerdo",
+      "to agree"
+    ],
+    [
+      "tener razón",
+      "to be right"
+    ],
+    [
+      "seguro / segura",
+      "sure"
+    ],
+    [
+      "depende",
+      "it depends"
+    ],
+    [
+      "sin duda",
+      "without a doubt"
+    ],
+    [
+      "puede ser",
+      "maybe / could be"
+    ],
+    [
+      "a lo mejor",
+      "maybe"
+    ],
+    [
+      "quizás",
+      "perhaps"
+    ],
+    [
+      "creo que no",
+      "I don't think so"
+    ],
+    [
+      "creo que sí",
+      "I think so"
+    ],
+    [
+      "el punto de vista",
+      "point of view"
+    ],
+    [
+      "en parte",
+      "partly"
+    ]
+  ],
+  "examples": [
+    [
+      "Creo que tienes razón.",
+      "I think you're right."
+    ],
+    [
+      "Me parece que es muy caro.",
+      "It seems to me that it's very expensive."
+    ],
+    [
+      "En mi opinión, es una buena película.",
+      "In my opinion, it's a good movie."
+    ],
+    [
+      "¿Qué opinas de la nueva ley?",
+      "What do you think of the new law?"
+    ],
+    [
+      "¿Tú qué crees?",
+      "What do you think?"
+    ],
+    [
+      "Estoy de acuerdo contigo.",
+      "I agree with you."
+    ],
+    [
+      "No estoy de acuerdo.",
+      "I don't agree."
+    ],
+    [
+      "Tienes razón.",
+      "You're right."
+    ],
+    [
+      "Bueno, depende.",
+      "Well, it depends."
+    ],
+    [
+      "Yo no lo veo así.",
+      "I don't see it that way."
+    ],
+    [
+      "Estoy de acuerdo en parte.",
+      "I partly agree."
+    ],
+    [
+      "Estoy segura de que va a ganar.",
+      "I'm sure she's going to win."
+    ],
+    [
+      "Puede ser.",
+      "Could be."
+    ],
+    [
+      "A lo mejor llueve mañana.",
+      "Maybe it'll rain tomorrow."
+    ],
+    [
+      "Quizás tienes razón.",
+      "Perhaps you're right."
+    ],
+    [
+      "¿Va a venir Luis? Creo que no.",
+      "Is Luis coming? I don't think so."
+    ],
+    [
+      "Creo que sí.",
+      "I think so."
+    ],
+    [
+      "Sin duda, es el mejor restaurante.",
+      "Without a doubt, it's the best restaurant."
+    ],
+    [
+      "Desde mi punto de vista, es un error.",
+      "From my point of view, it's a mistake."
+    ],
+    [
+      "Pienso que deberíamos esperar.",
+      "I think we should wait."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Creo que ___ razón. (tener, tú)",
+      "answers": [
+        "tienes"
+      ],
+      "hint": "I think you're right."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estoy de ___ contigo.",
+      "answers": [
+        "acuerdo"
+      ],
+      "hint": "I agree with you."
+    },
+    {
+      "type": "fill",
+      "prompt": "En mi ___, es una buena película.",
+      "answers": [
+        "opinión"
+      ],
+      "hint": "In my opinion, it's a good movie."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué ___ de la nueva ley? (opinar, tú)",
+      "answers": [
+        "opinas"
+      ],
+      "hint": "What do you think of the new law?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Bueno, ___.",
+      "answers": [
+        "depende"
+      ],
+      "hint": "Well, it depends."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estoy ___ de que va a ganar.",
+      "answers": [
+        "segura",
+        "seguro"
+      ],
+      "hint": "I'm sure she's going to win."
+    },
+    {
+      "type": "fill",
+      "prompt": "A lo ___ llueve mañana.",
+      "answers": [
+        "mejor"
+      ],
+      "hint": "Maybe it'll rain tomorrow."
+    },
+    {
+      "type": "fill",
+      "prompt": "Creo que ___.",
+      "answers": [
+        "no",
+        "sí"
+      ],
+      "hint": "I don't think so."
+    },
+    {
+      "type": "fill",
+      "prompt": "Estoy de acuerdo en ___.",
+      "answers": [
+        "parte"
+      ],
+      "hint": "I partly agree."
+    },
+    {
+      "type": "fill",
+      "prompt": "Desde mi punto de ___, es un error.",
+      "answers": [
+        "vista"
+      ],
+      "hint": "From my point of view, it's a mistake."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the gentlest way to disagree?",
+      "options": [
+        "Yo no lo veo así.",
+        "No tienes razón.",
+        "Estás mal.",
+        "Eso es falso."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Tienes razón* means…",
+      "options": [
+        "You're right.",
+        "You have a reason.",
+        "You're reasonable.",
+        "You're wrong."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct?",
+      "options": [
+        "Estoy de acuerdo contigo.",
+        "Soy de acuerdo contigo.",
+        "Estoy acuerdo contigo.",
+        "Tengo acuerdo contigo."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Puede ser* means…",
+      "options": [
+        "Maybe / Could be.",
+        "It can be done.",
+        "It's possible for him.",
+        "He can be."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Someone asks *¿Va a llover?* You think not. You say…",
+      "options": [
+        "Creo que no.",
+        "Creo no.",
+        "No creo sí.",
+        "Pienso no que."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which asks for someone's opinion?",
+      "options": [
+        "¿Qué opinas?",
+        "¿Qué haces?",
+        "¿Qué pasó?",
+        "¿Qué hora es?"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "I agree with you. (tú)",
+      "answers": [
+        "Estoy de acuerdo contigo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "You're right. (tú)",
+      "answers": [
+        "Tienes razón."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I don't think so.",
+      "answers": [
+        "Creo que no.",
+        "No creo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Well, it depends.",
+      "answers": [
+        "Bueno, depende."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "In my opinion, it's very expensive.",
+      "answers": [
+        "En mi opinión, es muy caro.",
+        "Para mí, es muy caro."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I think we should wait.\"",
+      "answer": "Pienso que deberíamos esperar."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Without a doubt, it's the best restaurant.\"",
+      "answer": "Sin duda, es el mejor restaurante."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It seems to me that it's very expensive.\"",
+      "answer": "Me parece que es muy caro."
+    }
+  ]
+}

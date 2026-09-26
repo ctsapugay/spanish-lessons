@@ -1,0 +1,84 @@
+{
+  "sections": [
+    {
+      "heading": "Apologising",
+      "body": "- *Perdón* / *Disculpa* (tú) / *Disculpe* (usted) — sorry, excuse me (small things, getting attention)\n- *Lo siento (mucho)* — I'm (very) sorry (real regret)\n- *Perdona / Perdone el retraso* — sorry for the delay\n- *Fue sin querer* — I didn't mean to\n\nAccepting an apology: *No pasa nada* (It's nothing / No worries), *No te preocupes* (Don't worry), *Tranquilo / Tranquila* (It's fine), *No importa* (It doesn't matter)."
+    },
+    {
+      "heading": "Congratulating and good wishes",
+      "body": "- *¡Felicidades!* / *¡Felicitaciones!* — Congratulations! (for any good news)\n- *¡Feliz cumpleaños!* — Happy birthday! *¡Que cumplas muchos más!* — Many happy returns!\n- *¡Feliz Navidad! ¡Feliz Año Nuevo!* — Merry Christmas! Happy New Year!\n- *¡Buen viaje!* (Have a good trip) *¡Buena suerte!* (Good luck) *¡Que te vaya bien!* (All the best) *¡Que te diviertas!* (Have fun) *¡Buen provecho!* (Enjoy your meal — said to people eating)\n\nThe replies: *¡Gracias! Igualmente* (You too)."
+    },
+    {
+      "heading": "Condolences and toasts",
+      "body": "When someone dies: *Lo siento mucho* (I'm so sorry), *Mi más sentido pésame* (My deepest condolences — formal), *Te acompaño en el sentimiento*.\n\nToasting: raise your glass and say *¡Salud!* (Cheers! — also said when someone sneezes). For a speech: *¡Por los novios!* (To the bride and groom!) *¡Por nosotros!* (To us!)"
+    }
+  ],
+  "vocab": [
+    ["perdón", "sorry / excuse me"],
+    ["disculpe", "excuse me (formal)"],
+    ["lo siento mucho", "I'm very sorry"],
+    ["no pasa nada", "no worries / it's nothing"],
+    ["no te preocupes", "don't worry"],
+    ["no importa", "it doesn't matter"],
+    ["¡Felicidades!", "Congratulations!"],
+    ["¡Feliz cumpleaños!", "Happy birthday!"],
+    ["¡Buena suerte!", "Good luck!"],
+    ["¡Buen viaje!", "Have a good trip!"],
+    ["¡Buen provecho!", "Enjoy your meal!"],
+    ["¡Salud!", "Cheers! / Bless you!"],
+    ["el pésame", "condolences"],
+    ["la boda", "the wedding"],
+    ["los novios", "the bride and groom / the couple"],
+    ["el retraso", "the delay"],
+    ["sin querer", "by accident / without meaning to"]
+  ],
+  "examples": [
+    ["Perdón, ¿me deja pasar?", "Excuse me, can I get by?"],
+    ["Lo siento mucho, fue sin querer.", "I'm so sorry, I didn't mean to."],
+    ["Perdone el retraso.", "Sorry for the delay."],
+    ["No pasa nada.", "No worries."],
+    ["No te preocupes.", "Don't worry."],
+    ["No importa.", "It doesn't matter."],
+    ["¡Felicidades por tu nuevo trabajo!", "Congratulations on your new job!"],
+    ["¡Feliz cumpleaños, Ana!", "Happy birthday, Ana!"],
+    ["¡Que cumplas muchos más!", "Many happy returns!"],
+    ["¡Feliz Navidad y Feliz Año Nuevo!", "Merry Christmas and Happy New Year!"],
+    ["¡Buen viaje!", "Have a good trip!"],
+    ["¡Buena suerte en el examen!", "Good luck on the exam!"],
+    ["¡Que te vaya bien!", "All the best!"],
+    ["¡Que te diviertas!", "Have fun!"],
+    ["¡Buen provecho!", "Enjoy your meal!"],
+    ["Gracias, igualmente.", "Thanks, you too."],
+    ["Mi más sentido pésame.", "My deepest condolences."],
+    ["¡Salud!", "Cheers!"],
+    ["¡Por los novios!", "To the bride and groom!"],
+    ["Nos vemos en la boda.", "See you at the wedding."],
+    ["Siento no poder ir.", "I'm sorry I can't go."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "You step on someone's foot by accident. You say…", "options": ["¡Perdón! Fue sin querer.", "¡Salud!", "¡Felicidades!", "¡Buen provecho!"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Someone apologises for a small thing. You say…", "options": ["No pasa nada.", "Lo siento mucho.", "¡Buen viaje!", "Mi más sentido pésame."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Your friend got a new job. You say…", "options": ["¡Felicidades!", "¡Salud!", "Lo siento.", "¡Buen provecho!"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "You walk past people eating lunch. It's polite to say…", "options": ["¡Buen provecho!", "¡Buen viaje!", "¡Salud!", "¡Felicidades!"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Someone sneezes. You say…", "options": ["¡Salud!", "¡Perdón!", "¡Suerte!", "¡Igualmente!"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "A colleague's father has died. The formal expression is…", "options": ["Mi más sentido pésame.", "¡Que te diviertas!", "No importa.", "¡Felicidades!"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Someone says *¡Feliz Navidad!* You reply…", "options": ["Gracias, igualmente.", "No pasa nada.", "Lo siento.", "¡Buen provecho!"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Your friend is leaving on vacation. You say…", "options": ["¡Buen viaje!", "¡Buen provecho!", "¡Salud!", "Perdón."], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "Lo siento mucho, fue sin ___.", "answers": ["querer"], "hint": "I'm so sorry, I didn't mean to."},
+    {"type": "fill", "prompt": "No te ___.", "answers": ["preocupes"], "hint": "Don't worry."},
+    {"type": "fill", "prompt": "¡Feliz ___, Ana!", "answers": ["cumpleaños"], "hint": "Happy birthday, Ana!"},
+    {"type": "fill", "prompt": "¡Buena ___ en el examen!", "answers": ["suerte"], "hint": "Good luck on the exam!"},
+    {"type": "fill", "prompt": "¡Que te ___ bien!", "answers": ["vaya"], "hint": "All the best!"},
+    {"type": "fill", "prompt": "Gracias, ___.", "answers": ["igualmente"], "hint": "Thanks, you too."},
+    {"type": "fill", "prompt": "Perdone el ___.", "answers": ["retraso"], "hint": "Sorry for the delay."},
+    {"type": "fill", "prompt": "¡Felicidades por tu nuevo ___!", "answers": ["trabajo"], "hint": "Congratulations on your new job!"},
+    {"type": "translate", "prompt": "Happy birthday!", "answers": ["¡Feliz cumpleaños!"]},
+    {"type": "translate", "prompt": "Don't worry. (tú)", "answers": ["No te preocupes."]},
+    {"type": "translate", "prompt": "Good luck!", "answers": ["¡Buena suerte!", "¡Suerte!"]},
+    {"type": "translate", "prompt": "Cheers!", "answers": ["¡Salud!"]},
+    {"type": "translate", "prompt": "It doesn't matter.", "answers": ["No importa.", "No pasa nada."]},
+    {"type": "build", "prompt": "Put the words in order: \"Congratulations on your new job!\"", "answer": "¡Felicidades por tu nuevo trabajo!"},
+    {"type": "build", "prompt": "Put the words in order: \"I'm sorry I can't go.\"", "answer": "Siento no poder ir."},
+    {"type": "build", "prompt": "Put the words in order: \"See you at the wedding.\"", "answer": "Nos vemos en la boda."}
+  ]
+}

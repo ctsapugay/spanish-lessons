@@ -1,0 +1,397 @@
+{
+  "sections": [
+    {
+      "heading": "Quantities and containers",
+      "body": "Use *de* between the quantity and the food: *un kilo de papas*, *medio kilo de carne* (half a kilo), *un litro de leche*, *una docena de huevos* (a dozen), *un paquete de arroz*, *una lata de tomates* (a can), *una botella de agua*, *un pedazo / un trozo de pan* (a piece), *una cucharada de azúcar* (a spoonful), *una taza de harina* (a cup of flour), *una pizca de sal* (a pinch).\n\nAmounts: *mucho / poco* (a lot / little), *un poco de* (a bit of), *bastante* (quite a lot, enough), *demasiado* (too much), *suficiente* (enough), *más / menos*. They agree with the noun: *muchas papas, demasiada sal*."
+    },
+    {
+      "heading": "Cooking verbs",
+      "body": "*cortar* (to cut), *picar* (to chop), *pelar* (to peel), *mezclar* (to mix), *batir* (to beat), *freír* (to fry — past participle *frito*), *hervir* (to boil), *hornear* (to bake), *asar* (to roast / grill), *calentar* (to heat), *añadir / agregar* (to add), *echar* (to put in / pour), *servir*."
+    },
+    {
+      "heading": "Recipes",
+      "body": "Recipes use either commands or the passive *se*:\n\n- Commands (usually *usted* or *tú*): *Pele las papas y córtelas en rodajas. Añada sal.*\n- Passive *se*: *Se pelan las papas y se cortan en rodajas. Se añade sal.*\n\nA classic: *Tortilla de papas* — *Se pelan y se cortan las papas. Se fríen en aceite con cebolla. Se baten los huevos y se mezclan con las papas. Se cocina todo en la sartén por los dos lados.*"
+    }
+  ],
+  "vocab": [
+    [
+      "el kilo",
+      "kilo"
+    ],
+    [
+      "medio kilo",
+      "half a kilo"
+    ],
+    [
+      "el litro",
+      "liter"
+    ],
+    [
+      "la docena",
+      "dozen"
+    ],
+    [
+      "la lata",
+      "can"
+    ],
+    [
+      "la botella",
+      "bottle"
+    ],
+    [
+      "el pedazo",
+      "piece"
+    ],
+    [
+      "la cucharada",
+      "spoonful"
+    ],
+    [
+      "la pizca",
+      "pinch"
+    ],
+    [
+      "demasiado / demasiada",
+      "too much"
+    ],
+    [
+      "suficiente",
+      "enough"
+    ],
+    [
+      "cortar",
+      "to cut"
+    ],
+    [
+      "pelar",
+      "to peel"
+    ],
+    [
+      "mezclar",
+      "to mix"
+    ],
+    [
+      "batir",
+      "to beat"
+    ],
+    [
+      "freír",
+      "to fry"
+    ],
+    [
+      "hervir",
+      "to boil"
+    ],
+    [
+      "añadir",
+      "to add"
+    ],
+    [
+      "el aceite",
+      "oil"
+    ],
+    [
+      "la cebolla",
+      "onion"
+    ],
+    [
+      "el azúcar",
+      "sugar"
+    ],
+    [
+      "la sal",
+      "salt"
+    ],
+    [
+      "la sartén",
+      "frying pan"
+    ]
+  ],
+  "examples": [
+    [
+      "Un kilo de papas, por favor.",
+      "A kilo of potatoes, please."
+    ],
+    [
+      "Necesito medio kilo de carne.",
+      "I need half a kilo of meat."
+    ],
+    [
+      "Compra una docena de huevos.",
+      "Buy a dozen eggs."
+    ],
+    [
+      "Una botella de agua y un litro de leche.",
+      "A bottle of water and a liter of milk."
+    ],
+    [
+      "¿Me das un pedazo de pan?",
+      "Can you give me a piece of bread?"
+    ],
+    [
+      "Añade una cucharada de azúcar.",
+      "Add a spoonful of sugar."
+    ],
+    [
+      "Una pizca de sal.",
+      "A pinch of salt."
+    ],
+    [
+      "La sopa tiene demasiada sal.",
+      "The soup has too much salt."
+    ],
+    [
+      "No tenemos suficiente arroz.",
+      "We don't have enough rice."
+    ],
+    [
+      "Pele las papas y córtelas en rodajas.",
+      "Peel the potatoes and cut them into slices."
+    ],
+    [
+      "Se pelan las papas y se cortan en rodajas.",
+      "The potatoes are peeled and cut into slices."
+    ],
+    [
+      "Se fríen en aceite con cebolla.",
+      "They're fried in oil with onion."
+    ],
+    [
+      "Se baten los huevos.",
+      "The eggs are beaten."
+    ],
+    [
+      "Mezcla todo en un bol.",
+      "Mix everything in a bowl."
+    ],
+    [
+      "Hierve el agua y añade el arroz.",
+      "Boil the water and add the rice."
+    ],
+    [
+      "Se cocina en la sartén por los dos lados.",
+      "It's cooked in the frying pan on both sides."
+    ],
+    [
+      "Pon el pollo en el horno.",
+      "Put the chicken in the oven."
+    ],
+    [
+      "Corta la cebolla en trozos pequeños.",
+      "Cut the onion into small pieces."
+    ],
+    [
+      "¿Cuánto aceite le echo?",
+      "How much oil do I put in?"
+    ],
+    [
+      "Un poco, no demasiado.",
+      "A little, not too much."
+    ],
+    [
+      "Compré una lata de tomates.",
+      "I bought a can of tomatoes."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Un kilo ___ papas, por favor.",
+      "answers": [
+        "de"
+      ],
+      "hint": "A kilo of potatoes, please."
+    },
+    {
+      "type": "fill",
+      "prompt": "Compra una ___ de huevos.",
+      "answers": [
+        "docena"
+      ],
+      "hint": "Buy a dozen eggs."
+    },
+    {
+      "type": "fill",
+      "prompt": "Añade una ___ de azúcar.",
+      "answers": [
+        "cucharada"
+      ],
+      "hint": "Add a spoonful of sugar."
+    },
+    {
+      "type": "fill",
+      "prompt": "La sopa tiene ___ sal.",
+      "answers": [
+        "demasiada"
+      ],
+      "hint": "The soup has too much salt."
+    },
+    {
+      "type": "fill",
+      "prompt": "No tenemos ___ arroz.",
+      "answers": [
+        "suficiente",
+        "bastante"
+      ],
+      "hint": "We don't have enough rice."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ las papas. (pelar)",
+      "answers": [
+        "pelan"
+      ],
+      "hint": "The potatoes are peeled."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ los huevos. (batir)",
+      "answers": [
+        "baten"
+      ],
+      "hint": "The eggs are beaten."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ todo en un bol. (mezclar, tú)",
+      "answers": [
+        "mezcla"
+      ],
+      "hint": "Mix everything in a bowl."
+    },
+    {
+      "type": "fill",
+      "prompt": "Corta la ___ en trozos pequeños.",
+      "answers": [
+        "cebolla"
+      ],
+      "hint": "Cut the onion into small pieces."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se fríen en ___ con cebolla.",
+      "answers": [
+        "aceite"
+      ],
+      "hint": "They're fried in oil with onion."
+    },
+    {
+      "type": "fill",
+      "prompt": "Compré una ___ de tomates.",
+      "answers": [
+        "lata"
+      ],
+      "hint": "I bought a can of tomatoes."
+    },
+    {
+      "type": "mc",
+      "prompt": "\"half a kilo of meat\" is…",
+      "options": [
+        "medio kilo de carne",
+        "media kilo de carne",
+        "un medio kilo carne",
+        "la mitad kilo de carne"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*una pizca de sal* is…",
+      "options": [
+        "a pinch of salt",
+        "a spoonful of salt",
+        "a bag of salt",
+        "no salt"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which verb means \"to boil\"?",
+      "options": [
+        "hervir",
+        "freír",
+        "hornear",
+        "batir"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Recipe style with passive *se*: \"Peel the potatoes\" →",
+      "options": [
+        "Se pelan las papas.",
+        "Se pela las papas.",
+        "Pelan se las papas."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*demasiado* means…",
+      "options": [
+        "too much",
+        "enough",
+        "a lot (positive)",
+        "less"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "A kilo of potatoes, please.",
+      "answers": [
+        "Un kilo de papas, por favor."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The soup has too much salt.",
+      "answers": [
+        "La sopa tiene demasiada sal."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "We don't have enough rice.",
+      "answers": [
+        "No tenemos suficiente arroz.",
+        "No tenemos bastante arroz."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Add a pinch of salt. (tú)",
+      "answers": [
+        "Añade una pizca de sal.",
+        "Agrega una pizca de sal.",
+        "Echa una pizca de sal."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "a bottle of water",
+      "answers": [
+        "una botella de agua"
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Boil the water and add the rice.\"",
+      "answer": "Hierve el agua y añade el arroz."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's cooked in the frying pan on both sides.\"",
+      "answer": "Se cocina en la sartén por los dos lados."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Put the chicken in the oven.\"",
+      "answer": "Pon el pollo en el horno."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "sections": [
+    {
+      "heading": "Landscapes",
+      "body": "*el campo* (the countryside), *la montaña* (mountain), *el río* (river), *el lago* (lake), *el mar* (sea), *la playa* (beach), *la selva* (jungle, rainforest), *el bosque* (forest), *el desierto* (desert), *la isla* (island), *el volcán* (volcano), *la costa* (coast), *el cerro* (hill — very common in Latin America).\n\nLatin America has all of them: *la selva amazónica*, *la cordillera de los Andes* (the Andes mountain range), *el desierto de Atacama*, *el lago Titicaca*, *las islas Galápagos*."
+    },
+    {
+      "heading": "Animals",
+      "body": "Domestic: *el perro, el gato, el caballo* (horse), *la vaca* (cow), *el cerdo / el chancho* (pig), *la gallina* (hen), *el pájaro* (bird). Wild: *el mono* (monkey), *el oso* (bear), *el león*, *la serpiente* (snake), *la tortuga* (turtle), *el loro* (parrot), *la ballena* (whale), *el tiburón* (shark)."
+    },
+    {
+      "heading": "City or countryside? The environment",
+      "body": "Compare using what you know: *La ciudad es más ruidosa, pero hay más trabajo. En el campo hay menos contaminación y la vida es más tranquila.*\n\nEnvironment words: *el medio ambiente* (the environment), *la contaminación* (pollution), *la basura* (trash), *reciclar* (to recycle), *cuidar* (to take care of), *ahorrar agua / energía* (to save water / energy), *el cambio climático* (climate change). *Hay que cuidar el planeta.*"
+    }
+  ],
+  "vocab": [
+    ["el campo", "the countryside"],
+    ["el río", "the river"],
+    ["el lago", "the lake"],
+    ["el mar", "the sea"],
+    ["la selva", "the jungle / rainforest"],
+    ["el bosque", "the forest"],
+    ["el desierto", "the desert"],
+    ["la isla", "the island"],
+    ["el volcán", "the volcano"],
+    ["el caballo", "the horse"],
+    ["la vaca", "the cow"],
+    ["el pájaro", "the bird"],
+    ["el mono", "the monkey"],
+    ["la tortuga", "the turtle"],
+    ["el medio ambiente", "the environment"],
+    ["la contaminación", "pollution"],
+    ["reciclar", "to recycle"],
+    ["cuidar", "to take care of"],
+    ["ahorrar", "to save"],
+    ["ruidoso / ruidosa", "noisy"]
+  ],
+  "examples": [
+    ["Mis abuelos viven en el campo.", "My grandparents live in the countryside."],
+    ["El río pasa por el pueblo.", "The river runs through the town."],
+    ["Nadamos en el lago.", "We swam in the lake."],
+    ["Me encanta el mar.", "I love the sea."],
+    ["La selva amazónica es enorme.", "The Amazon rainforest is huge."],
+    ["Caminamos por el bosque.", "We walked through the forest."],
+    ["El desierto de Atacama es muy seco.", "The Atacama Desert is very dry."],
+    ["Las islas Galápagos tienen tortugas gigantes.", "The Galápagos Islands have giant turtles."],
+    ["Desde aquí se ve el volcán.", "You can see the volcano from here."],
+    ["En la selva hay muchos monos y pájaros.", "In the jungle there are lots of monkeys and birds."],
+    ["Mi tío tiene caballos y vacas.", "My uncle has horses and cows."],
+    ["La ciudad es más ruidosa que el campo.", "The city is noisier than the countryside."],
+    ["En el campo hay menos contaminación.", "There's less pollution in the countryside."],
+    ["Hay que cuidar el medio ambiente.", "We have to take care of the environment."],
+    ["Reciclo el papel y el plástico.", "I recycle paper and plastic."],
+    ["Tenemos que ahorrar agua.", "We have to save water."],
+    ["El cambio climático es un problema grave.", "Climate change is a serious problem."],
+    ["Subimos al cerro para ver la ciudad.", "We climbed the hill to see the city."],
+    ["La vida en el campo es más tranquila.", "Life in the countryside is calmer."],
+    ["Vimos una ballena desde el barco.", "We saw a whale from the boat."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Mis abuelos viven en el ___.", "answers": ["campo"], "hint": "My grandparents live in the countryside."},
+    {"type": "fill", "prompt": "Nadamos en el ___.", "answers": ["lago", "río", "mar"], "hint": "We swam in the lake."},
+    {"type": "fill", "prompt": "Caminamos por el ___.", "answers": ["bosque"], "hint": "We walked through the forest."},
+    {"type": "fill", "prompt": "En la ___ hay muchos monos.", "answers": ["selva"], "hint": "In the jungle there are lots of monkeys."},
+    {"type": "fill", "prompt": "Hay que cuidar el medio ___.", "answers": ["ambiente"], "hint": "We have to take care of the environment."},
+    {"type": "fill", "prompt": "___ el papel y el plástico. (reciclar, yo)", "answers": ["reciclo"], "hint": "I recycle paper and plastic."},
+    {"type": "fill", "prompt": "Tenemos que ___ agua.", "answers": ["ahorrar"], "hint": "We have to save water."},
+    {"type": "fill", "prompt": "La ciudad es más ___ que el campo.", "answers": ["ruidosa"], "hint": "The city is noisier than the countryside."},
+    {"type": "fill", "prompt": "En el campo hay menos ___.", "answers": ["contaminación"], "hint": "There's less pollution in the countryside."},
+    {"type": "fill", "prompt": "Desde aquí se ve el ___.", "answers": ["volcán"], "hint": "You can see the volcano from here."},
+    {"type": "mc", "prompt": "*la selva* is…", "options": ["the jungle / rainforest", "the forest in general", "the desert", "the salt"], "answer": 0},
+    {"type": "mc", "prompt": "Which animal is *el caballo*?", "options": ["horse", "cow", "pig", "bird"], "answer": 0},
+    {"type": "mc", "prompt": "The Galápagos Islands are famous for giant…", "options": ["tortugas", "vacas", "monos", "caballos"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*el medio ambiente* means…", "options": ["the environment", "the middle", "the atmosphere at a party", "the weather"], "answer": 0},
+    {"type": "mc", "prompt": "In Latin America, a hill is very often called…", "options": ["el cerro", "el mar", "el lago", "la isla"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Which is correct for \"The city is noisier than the countryside\"?", "options": ["La ciudad es más ruidosa que el campo.", "La ciudad es más ruidoso que el campo.", "La ciudad es ruidosa más que campo."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "I love the sea.", "answers": ["Me encanta el mar."]},
+    {"type": "translate", "prompt": "We have to take care of the environment.", "answers": ["Hay que cuidar el medio ambiente.", "Tenemos que cuidar el medio ambiente."]},
+    {"type": "translate", "prompt": "I recycle paper.", "answers": ["Reciclo el papel.", "Reciclo papel."]},
+    {"type": "translate", "prompt": "Life in the countryside is calmer.", "answers": ["La vida en el campo es más tranquila."]},
+    {"type": "translate", "prompt": "We saw a whale.", "answers": ["Vimos una ballena."]},
+    {"type": "build", "prompt": "Put the words in order: \"My uncle has horses and cows.\"", "answer": "Mi tío tiene caballos y vacas."},
+    {"type": "build", "prompt": "Put the words in order: \"Climate change is a serious problem.\"", "answer": "El cambio climático es un problema grave."},
+    {"type": "build", "prompt": "Put the words in order: \"The river runs through the town.\"", "answer": "El río pasa por el pueblo."}
+  ]
+}
