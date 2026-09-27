@@ -372,6 +372,74 @@ async function scenarioExportImportAndUpdate() {
   await ctx.close();
 }
 
+async function scenarioSessionControls() {
+  const ctx = await freshContext();
+  const page = await newPage(ctx);
+  await page.goto(BASE);
+  const c = await course(page);
+  const first = availableLessons(c)[0];
+  await page.goto(BASE + "#/practice/lesson/" + first.id);
+  const counter = () => page.textContent("[data-role=counter]");
+  const itemOf = async () => {
+    const id = await page.locator(".question").getAttribute("data-item-id");
+    return page.evaluate((iid) => window.COURSE.levels.flatMap((l) => l.lessons).flatMap((l) => l.items || []).find((x) => x.id === iid), id);
+  };
+  let enterShows = null, enterAdvances = null, reviewOk = null, returnOk = null;
+  for (let n = 0; n < 12; n++) {
+    const q = page.locator(".question");
+    if ((await q.count()) === 0) break;
+    const item = await itemOf();
+    const typed = ["fill", "translate", "listen"].includes(item.type);
+    if (typed && enterShows === null) {
+      const before = await counter();
+      await q.locator("input").fill(item.answers[0]);
+      await q.locator("input").press("Enter");
+      await page.waitForTimeout(150);
+      enterShows = (await q.locator(".feedback").count()) === 1 && (await counter()) === before;
+      await page.keyboard.press("Enter");
+      await page.waitForTimeout(150);
+      enterAdvances = (await counter()) !== before;
+      continue;
+    }
+    if (n === 1 && reviewOk === null) {
+      const curId = await q.getAttribute("data-item-id");
+      await page.click("[data-action=prev]");
+      const rc = await counter();
+      reviewOk = /Reviewing question 1/.test(rc) && (await page.locator(".question .feedback").count()) === 1 && (await page.locator(".question").getAttribute("data-item-id")) !== curId;
+      await page.click("[data-action=forward]");
+      returnOk = /^Question 2/.test(await counter()) && (await page.locator(".question").getAttribute("data-item-id")) === curId;
+    }
+    if (item.type === "mc") await q.locator(`[data-option="${item.answer}"]`).click();
+    else if (item.type === "build") {
+      for (const w of item.answer.split(/\s+/)) await q.locator(".tiles.pool button").filter({ hasText: exact(w) }).first().click();
+      await q.locator("[data-action=check]").click();
+    } else {
+      await q.locator("input").fill(item.answers[0]);
+      await q.locator("[data-action=check]").click();
+    }
+    await q.locator(".feedback").waitFor();
+    await q.locator("[data-action=next]").click();
+  }
+  check("Enter on a typed answer shows the result instead of skipping it", enterShows === true, `enterShows=${enterShows}`);
+  check("Enter again moves on to the next question", enterAdvances === true, `enterAdvances=${enterAdvances}`);
+  check("Previous shows the earlier question with its result", reviewOk === true, `reviewOk=${reviewOk}`);
+  check("returning from review goes back to the current question", returnOk === true, `returnOk=${returnOk}`);
+  // Practise again restarts the session (its link points at the page already open)
+  await page.locator("a.btn:has-text(\"Practise again\")").waitFor();
+  await page.click("a.btn:has-text(\"Practise again\")");
+  await page.locator(".question").waitFor({ timeout: 3000 }).catch(() => {});
+  const again = (await page.locator(".question").count()) === 1 && /^Question 1 of/.test(await counter());
+  check("Practise again starts a new practice session", again, await page.textContent("#app").then((t) => t.slice(0, 80)));
+  // Try again on a failed quiz restarts the quiz
+  await page.goto(BASE + "#/quiz/" + first.id);
+  await answerAll(page, () => false);
+  await page.click("a.btn:has-text(\"Try again\")");
+  await page.locator(".question").waitFor({ timeout: 3000 }).catch(() => {});
+  const retry = (await page.locator(".question").count()) === 1 && /^Question 1 of/.test(await counter());
+  check("Try again after a quiz starts the quiz over", retry, "");
+  await ctx.close();
+}
+
 async function scenarioLauncherFile() {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), "spanish-progress-"));
   const dataFile = path.join(dir, "my-progress.json");
@@ -433,7 +501,7 @@ async function scenarioLauncherFile() {
 }
 
 // ---------------------------------------------------------------- run
-const scenarios = [scenarioFileUrl, scenarioPracticeAndQuizBasics, scenarioPassScoreSetting, scenarioCumulativeQuiz, scenarioLevelTest, scenarioExportImportAndUpdate, scenarioLauncherFile];
+const scenarios = [scenarioFileUrl, scenarioPracticeAndQuizBasics, scenarioPassScoreSetting, scenarioCumulativeQuiz, scenarioLevelTest, scenarioExportImportAndUpdate, scenarioSessionControls, scenarioLauncherFile];
 for (const s of scenarios) {
   try {
     await s();

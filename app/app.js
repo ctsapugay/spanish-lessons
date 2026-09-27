@@ -368,7 +368,8 @@
       next.appendChild(cont);
       fb.appendChild(next);
       wrap.appendChild(fb);
-      cont.focus();
+      wrap.dataset.answered = "true";
+      cont.focus(); // so Enter (or Space) now moves on
     };
 
     const promptHtml = `<div class="prompt">${inline(item.prompt || "")} ${item.say ? speakBtn(item.say) : ""}</div>`;
@@ -436,7 +437,11 @@
         finish(res.correct, { accentNote: res.accentNote, typed: true, given: input.value });
       };
       wrap.querySelector("[data-action=check]").onclick = check;
-      input.addEventListener("keydown", (e) => { if (e.key === "Enter") check(); });
+      input.addEventListener("keydown", (e) => {
+        if (e.key !== "Enter") return;
+        e.preventDefault(); // otherwise the same key press also clicks "Continue", skipping the result
+        check();
+      });
       setTimeout(() => input.focus(), 0);
       if (item.type === "listen") setTimeout(() => speak(item.audio), 250);
     }
@@ -447,25 +452,72 @@
 
   // ------------------------------------------------------------------ session runner
   function runSession({ title, subtitle, items, mode, onFinish }) {
-    let i = 0;
+    let i = 0;                 // the question being answered
+    let viewing = null;        // index of an earlier question being reviewed, or null
     const results = [];
-    const draw = () => {
-      $app.innerHTML = "";
+    const done = [];           // answered questions, kept so they can be looked at again
+    let current = null;        // the current question's element (kept while reviewing)
+    const quitHref = mode === "quiz" ? "#/quizzes" : "#/practice";
+    const quitText = mode === "quiz" ? "Quit quiz (no score recorded)" : "Quit practice";
+
+    $app.innerHTML = "";
+    $app.appendChild(h(`
+      <div class="row"><div><h1>${esc(title)}</h1><div class="muted">${esc(subtitle || "")}</div></div>
+      <div class="spacer"></div><div class="muted small" data-role="counter"></div></div>
+      <div class="progress" style="margin:12px 0 4px"><span data-role="bar"></span></div>
+      <div class="card" id="qhost"></div>
+      <div class="row session-nav"><button class="btn secondary small" type="button" data-action="prev">← Previous</button>
+      <button class="btn secondary small" type="button" data-action="forward"></button>
+      <span class="spacer"></span><a href="${quitHref}" class="small">${quitText}</a></div>`));
+    const host = document.getElementById("qhost");
+    const counter = $app.querySelector("[data-role=counter]");
+    const bar = $app.querySelector("[data-role=bar]");
+    const prevBtn = $app.querySelector("[data-action=prev]");
+    const fwdBtn = $app.querySelector("[data-action=forward]");
+
+    const show = (el) => { host.innerHTML = ""; host.appendChild(el); };
+    const refreshNav = () => {
+      bar.style.width = pct(i, items.length) + "%";
+      const at = viewing === null ? i : viewing;
+      counter.textContent = viewing === null ? `Question ${i + 1} of ${items.length}` : `Reviewing question ${viewing + 1} of ${items.length}`;
+      prevBtn.hidden = at === 0;
+      fwdBtn.hidden = viewing === null;
+      fwdBtn.textContent = viewing !== null && viewing + 1 < done.length ? "Next →" : "Back to current question →";
+    };
+    const next = () => {
+      viewing = null;
       if (i >= items.length) return onFinish(results);
       const it = items[i];
-      $app.appendChild(h(`
-        <div class="row"><div><h1>${esc(title)}</h1><div class="muted">${esc(subtitle || "")}</div></div>
-        <div class="spacer"></div><div class="muted small" data-role="counter">Question ${i + 1} of ${items.length}</div></div>
-        <div class="progress" style="margin:12px 0 4px"><span style="width:${pct(i, items.length)}%"></span></div>
-        <div class="card" id="qhost"></div>
-        <div class="row"><a href="${mode === "quiz" ? "#/quizzes" : "#/practice"}" class="small">Quit ${mode === "quiz" ? "quiz (no score recorded)" : "practice"}</a></div>`));
-      renderQuestion(document.getElementById("qhost"), it, (correct) => {
+      host.innerHTML = "";
+      renderQuestion(host, it, (correct) => {
         results.push({ id: it.id, correct, lesson: it._lesson || it.id.split(":")[0] });
+        current.classList.add("reviewed"); // hides its Continue / "I was right" buttons
+        done.push(current);
         i++;
-        draw();
+        next();
       });
+      current = host.querySelector(".question");
+      refreshNav();
     };
-    draw();
+    prevBtn.onclick = () => {
+      viewing = viewing === null ? done.length - 1 : viewing - 1;
+      if (viewing < 0) { viewing = null; return; }
+      show(done[viewing]);
+      refreshNav();
+    };
+    fwdBtn.onclick = () => {
+      if (viewing !== null && viewing + 1 < done.length) {
+        viewing++;
+        show(done[viewing]);
+      } else {
+        viewing = null;
+        show(current);
+        const focusable = current.dataset.answered ? current.querySelector("[data-action=next]") : current.querySelector("input");
+        if (focusable) focusable.focus();
+      }
+      refreshNav();
+    };
+    next();
   }
 
   // ------------------------------------------------------------------ views
@@ -781,6 +833,15 @@
     notFound();
   }
   window.addEventListener("hashchange", route);
+  // A link to the page already open ("Practise again", "Try again") changes nothing in the URL,
+  // so no hashchange fires; start that page over instead.
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest && e.target.closest('a[href^="#"]');
+    if (a && a.getAttribute("href") === location.hash && !e.defaultPrevented) {
+      e.preventDefault();
+      route();
+    }
+  });
   window.addEventListener("storage", (e) => { if (e.key === STORE_KEY) { state = loadState(); } });
   syncFromFile().then(route);
 })();

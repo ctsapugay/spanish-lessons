@@ -129,3 +129,9 @@ input[type=number] { width: 7em; }
   font-size: 0.9rem;
   text-align: center;
 }
+
+.question.reviewed [data-action=next],
+.question.reviewed [data-action=override] { display: none; }
+.session-nav { margin-top: 4px; }
+
+[hidden] { display: none !important; }

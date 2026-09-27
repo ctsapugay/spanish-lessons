@@ -111,3 +111,9 @@ reader: state, not narrative.
 
 ## 2026-09-27 — Push approved by Clara
 - Clara said "push it"; pushed the launcher commit and this log entry to ctsapugay/spanish-lessons.
+
+## 2026-09-27 — Practice fixes from Clara's feedback
+- Clara reported: Enter skipped the result on typed answers; no way to go back to see a previous result; "Practise again" did nothing.
+- Causes/fixes (app/app.js): Enter checked the answer and the same key press then clicked the newly focused Continue button → Enter now only checks (preventDefault); a second Enter continues. Sessions (practice, quizzes, tests) now have "← Previous" / "Next →" / "Back to current question" to review answered questions read-only (answers can't be changed; scores unaffected). "Practise again" / "Try again" linked to the page already open, so no hashchange fired → a link to the current page now restarts it.
+- CHK-003 strengthened: +6 scenarios (Enter shows result, Enter advances, Previous shows earlier result, return to current, Practise again, Try again). Confirmed they FAIL on the previous app code (5 failing) and pass on the new: "app ok: 35 checks passed". Registry entry unchanged; no baseline drift.
+- Committed locally only; not pushed.
