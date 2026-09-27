@@ -98,3 +98,6 @@ reader: state, not narrative.
 
 ## 2026-09-26 — Push approved by Clara
 - Clara said "push it"; pushed c381533..f72a581 (C-LOCAL change recording + README rewrite) to ctsapugay/spanish-lessons.
+
+## 2026-09-27 — README trimmed; push approved by Clara
+- Removed the Checks section from README.md (kept "How it was built"; its registry line now says what the checks do). Clara said "then push".

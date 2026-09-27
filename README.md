@@ -61,18 +61,6 @@ bash checks/content.sh
 minimum sizes, valid answer keys, English only in hints, and no exercise that uses Spanish
 not yet taught.
 
-## Checks
-
-| Check | What it verifies | Run |
-|---|---|---|
-| CHK-001 | curriculum covers every researched item for every level, with sources and a review record per level | `bash checks/curriculum.sh` |
-| CHK-002 | every lesson is complete and answerable, and only tests what has been taught | `bash checks/content.sh` |
-| CHK-003 | the app works in a real browser: practice, quizzes, pass mark, unlocking, level tests, persistence, export/import, offline | `bash checks/app.sh` |
-| CHK-004 | the project's own tooling tests | `python3 tools/test_tools.py` |
-
-`python3 tools/verify.py` runs all of them. CHK-003 needs Node and Playwright
-(`npm install && npx playwright install chromium`); everything else is plain Python 3.
-
 ## How it was built
 
 The project was built by an AI agent (Claude) working in long unattended runs. To keep it
@@ -82,7 +70,8 @@ on task it used a small governance framework, [constraint-base](https://github.c
   no forward references, answerable exercises, checks never weakened, …)
 - `goals/` — the outcomes, the goal condition and the measurable criteria (G1–G6), each
   marked met with the evidence that was observed
-- `checks/registry.md` — the registered checks above
+- `checks/registry.md` — the automated checks that verify the curriculum, every lesson and
+  the app itself (`python3 tools/verify.py` runs them all)
 - `progress/` — the session log and current-state checkpoint
 - `CLAUDE.md` — the agent's entry point; `docs/` explains the framework;
   `tools/` holds its stdlib-only Python tooling (`brief.py`, `validate.py`, `verify.py`, …)
