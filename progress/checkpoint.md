@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-09-26
-**Now:** A1, A2, B1, B2 complete (132 lessons) and reviewed (curriculum/reviews/B2.md written).
-**Next:** Write c1-01 … c1-30 (outline in content/course.json), then the C1 review (curriculum/reviews/C1.md), then final verification (tools/verify.py green, G2/G3 hand checks, criteria evidence).
-**Watch:** Dialogue dashes. Unique prompts & vocab glosses per lesson. English only in hints (no "(a woman)", "(conditional)" etc. in prompts), and never a prompt label that gives the answer away. Conjugated forms used in answers must appear in examples/tables. LatAm usage (estar por, mesero, carro, celular, computadora, linda, pasarla bien; avoid coger, camarero, guapa as default). Rebuild after edits.
+**Now:** DONE. All 162 lessons (A1–C1) written and reviewed (curriculum/reviews/A1…C1.md). Criteria G1–G6 met with evidence in goals/criteria.md; `python3 tools/verify.py` green (4/4).
+**Next:** Nothing required — the finish line is reached. Out-of-scope ideas are not to be started without Clara.
+**Watch:** Any future content edit: rebuild (scripts/build.py) and re-run tools/verify.py; keep LatAm usage, dialogue dashes, English only in hints.

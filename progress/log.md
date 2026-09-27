@@ -82,3 +82,10 @@ reader: state, not narrative.
 - Wrote b2-16 … b2-34 (nominalisation through regional variation); CHK-002 green for all 34 B2 lessons.
 - B2 accuracy review done: curriculum/reviews/B2.md (Spain-isms camarero/guapa/"lo pasamos"/"está negro" replaced, dialogue dashes in b2-05, an answer key widened in b2-13, a give-away prompt in b2-29, a duplicate table entry and the queísmo label in b2-19).
 - No check was changed. Next: C1 lessons c1-01 … c1-30, then C1 review, then final verification.
+
+## 2026-09-26 — C1 finished; finish line reached
+- Wrote c1-01 … c1-30; CHK-002 green for all 162 lessons ("content ok: 162 lessons complete, answerable and in teaching order").
+- C1 accuracy review: curriculum/reviews/C1.md (cleft-tense item in c1-12, dialogue dashes in c1-29, participle note in c1-08, unsuitable slang removed from c1-15, a non-working pun removed from c1-28, prompt/option fixes).
+- `python3 tools/verify.py`: GREEN, 4/4 (CHK-001 "5 levels, 162 lessons, 214 inventory items covered, 12 sources, all levels reviewed"; CHK-002 as above; CHK-003 "app ok: 24 checks passed"; CHK-004 "Ran 33 tests … OK").
+- Hand checks in the browser pane (local server, test progress seeded in the pane then cleared): dashboard shows all five levels in order; a1-03, b1-03, c1-01 (random, different levels) render fully and speak Spanish with an es-MX voice; practice on c1-01 gave wrong-answer feedback with the correct answer and "Correct!" with translation, and stored progress was identical before/after.
+- goals/criteria.md: G1–G6 marked met with this evidence. No check or constraint was changed. Stopping at the finish line.
