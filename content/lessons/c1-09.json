@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "heading": "Sudden starts",
+      "body": "- *echarse a* + infinitive — to suddenly start (laughing, crying, running, trembling): *Se echó a reír.* *Echó a correr.*\n- *romper a* + infinitive — to burst out (mainly *llorar, reír, hablar, llover*): *Rompió a llorar.* *Rompió a llover.* (It started pouring.)\n- *ponerse a* + infinitive — to start (neutral, everyday): *Me puse a estudiar.*\n- *soltarse a* + infinitive — to start (letting go): *El bebé se soltó a caminar.* (the baby started walking — Mexico)"
+    },
+    {
+      "heading": "Endings and outcomes",
+      "body": "- *acabar por* + infinitive = *acabar* + gerund — to end up: *Acabó por aceptar.* = *Acabó aceptando.*\n- *terminar de* + infinitive — to finish: *No termino de entenderlo.* (I just don't quite get it.)\n- *llegar a* + infinitive — to go so far as: *Llegó a amenazarme.* (He even threatened me.)\n- *venir* + gerund — to have been doing (over time, with insistence): *Vengo diciéndotelo desde hace meses.* (I've been telling you for months.)\n- *quedar en* + infinitive — to agree to: *Quedamos en vernos el lunes.*\n- *dar por* + participle — to consider: *Lo dieron por muerto.* (They gave him up for dead.) *Dar por hecho / sentado* (to take for granted): *No lo des por sentado.*\n- *dar con* — to find, hit upon: *Por fin di con la solución.*"
+    }
+  ],
+  "vocab": [
+    ["echarse a reír", "to burst out laughing"],
+    ["romper a llorar", "to burst into tears"],
+    ["ponerse a", "to start (doing)"],
+    ["acabar por", "to end up (doing)"],
+    ["no terminar de", "to not quite (manage to)"],
+    ["llegar a", "to go so far as"],
+    ["amenazar", "to threaten"],
+    ["venir + gerundio", "to have been (doing)"],
+    ["quedar en", "to agree to"],
+    ["dar por sentado", "to take for granted"],
+    ["dar por muerto", "to give up for dead"],
+    ["dar con", "to find / hit upon"],
+    ["temblar", "to tremble"]
+  ],
+  "examples": [
+    ["Se echó a reír.", "He burst out laughing."],
+    ["Echó a correr cuando vio al perro.", "He started running when he saw the dog."],
+    ["Rompió a llorar.", "She burst into tears."],
+    ["De repente rompió a llover.", "Suddenly it started pouring."],
+    ["Me puse a estudiar después de cenar.", "I started studying after dinner."],
+    ["Acabó por aceptar la oferta.", "He ended up accepting the offer."],
+    ["No termino de entenderlo.", "I just don't quite get it."],
+    ["Llegó a amenazarme.", "He even went so far as to threaten me."],
+    ["Vengo diciéndotelo desde hace meses.", "I've been telling you for months."],
+    ["Quedamos en vernos el lunes.", "We agreed to meet on Monday."],
+    ["Lo dieron por muerto.", "They gave him up for dead."],
+    ["No lo des por sentado.", "Don't take it for granted."],
+    ["Por fin di con la solución.", "I finally found the solution."],
+    ["Se echó a temblar de miedo.", "He started trembling with fear."],
+    ["Doy por hecho que vendrás.", "I take it for granted that you'll come."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Se echó a ___. (reír)", "answers": ["reír"], "hint": "He burst out laughing."},
+    {"type": "fill", "prompt": "Rompió ___ llorar.", "answers": ["a"], "hint": "She burst into tears."},
+    {"type": "fill", "prompt": "Me ___ a estudiar después de cenar. (ponerse)", "answers": ["puse"], "hint": "I started studying after dinner."},
+    {"type": "fill", "prompt": "Acabó ___ aceptar la oferta.", "answers": ["por"], "hint": "He ended up accepting the offer."},
+    {"type": "fill", "prompt": "No termino ___ entenderlo.", "answers": ["de"], "hint": "I just don't quite get it."},
+    {"type": "fill", "prompt": "Llegó ___ amenazarme.", "answers": ["a"], "hint": "He even went so far as to threaten me."},
+    {"type": "fill", "prompt": "Vengo ___ desde hace meses. (decir + te + lo)", "answers": ["diciéndotelo"], "hint": "I've been telling you for months."},
+    {"type": "fill", "prompt": "Quedamos ___ vernos el lunes.", "answers": ["en"], "hint": "We agreed to meet on Monday."},
+    {"type": "fill", "prompt": "No lo des por ___.", "answers": ["sentado", "hecho"], "hint": "Don't take it for granted."},
+    {"type": "fill", "prompt": "Por fin di ___ la solución.", "answers": ["con"], "hint": "I finally found the solution."},
+    {"type": "fill", "prompt": "Lo dieron por ___.", "answers": ["muerto"], "hint": "They gave him up for dead."},
+    {"type": "mc", "prompt": "*De repente rompió a llover* means…", "options": ["Suddenly it started pouring.", "Suddenly the rain broke.", "Suddenly it stopped raining.", "The rain broke something."], "answer": 0},
+    {"type": "mc", "prompt": "*No termino de entenderlo* means…", "options": ["I just don't quite get it.", "I've finished understanding it.", "I'll never finish it.", "I don't end it."], "answer": 0},
+    {"type": "mc", "prompt": "*Acabó por aceptar* = …", "options": ["Acabó aceptando.", "Acababa de aceptar.", "Aceptó acabar.", "Acabó de aceptar."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Quedamos en vernos el lunes* means…", "options": ["We agreed to meet on Monday.", "We stayed to see each other on Monday.", "We're staying in on Monday.", "We were left on Monday."], "answer": 0},
+    {"type": "mc", "prompt": "*dar con* means…", "options": ["to find / hit upon", "to give with", "to hit someone", "to agree with"], "answer": 0},
+    {"type": "translate", "prompt": "She burst into tears.", "answers": ["Rompió a llorar.", "Se echó a llorar."]},
+    {"type": "translate", "prompt": "He burst out laughing.", "answers": ["Se echó a reír.", "Rompió a reír."]},
+    {"type": "translate", "prompt": "We agreed to meet on Monday.", "answers": ["Quedamos en vernos el lunes."]},
+    {"type": "translate", "prompt": "Don't take it for granted. (tú)", "answers": ["No lo des por sentado.", "No lo des por hecho."]},
+    {"type": "build", "prompt": "Put the words in order: \"He started trembling with fear.\"", "answer": "Se echó a temblar de miedo."},
+    {"type": "build", "prompt": "Put the words in order: \"I take it for granted that you'll come.\"", "answer": "Doy por hecho que vendrás."},
+    {"type": "build", "prompt": "Put the words in order: \"He started running when he saw the dog.\"", "answer": "Echó a correr cuando vio al perro."}
+  ]
+}

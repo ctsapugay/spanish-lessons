@@ -1,0 +1,327 @@
+{
+  "sections": [
+    {
+      "heading": "Intensive consequence",
+      "body": "- *tan* + adjective/adverb + *que*: *Hablaba tan rápido que nadie lo entendía.*\n- *tanto/a/os/as* + noun + *que*: *Tenía tantas deudas que vendió la casa.*\n- *tal* / *tales* + noun + *que* (such a … that): *Hubo tal escándalo que tuvieron que llamar a la policía.* *Se llevó tal susto que no podía hablar.* (He got such a fright that he couldn't speak.)\n- *un / una* + noun + *que* (colloquial, with emphasis): *Tengo un hambre que me muero.* (I'm so hungry I could die.) *Hacía un frío que pelaba.* (It was freezing cold.)\n- *de tal modo / de tal manera / de tal forma que*: *Lo explicó de tal manera que todos lo entendimos.*"
+    },
+    {
+      "heading": "Consequence connectors",
+      "body": "- *de ahí que* + **subjunctive** (hence, that's why): *No invirtieron en marketing; de ahí que las ventas hayan bajado.* This one surprises learners: the consequence is presented as known, so it takes the subjunctive.\n- *por lo tanto / por consiguiente / en consecuencia* + indicative (therefore / consequently): *El proyecto no es viable; por consiguiente, lo cancelamos.*\n- *así (es) que* (so — colloquial): *Ya es tarde, así que me voy.*\n- *con lo cual* (as a result of which): *Perdió el pasaporte, con lo cual no pudo viajar.*\n- *luego* (therefore — formal / philosophical): *Pienso, luego existo.*"
+    }
+  ],
+  "vocab": [
+    [
+      "tal … que",
+      "such a … that"
+    ],
+    [
+      "de tal modo que",
+      "in such a way that"
+    ],
+    [
+      "de ahí que",
+      "hence / that's why"
+    ],
+    [
+      "en consecuencia",
+      "consequently"
+    ],
+    [
+      "con lo cual",
+      "as a result of which"
+    ],
+    [
+      "luego",
+      "therefore (formal)"
+    ],
+    [
+      "el escándalo",
+      "the scandal / uproar"
+    ],
+    [
+      "el susto",
+      "the fright / scare"
+    ],
+    [
+      "que pelaba",
+      "freezing (cold)"
+    ],
+    [
+      "la deuda",
+      "the debt"
+    ],
+    [
+      "viable",
+      "viable / feasible"
+    ],
+    [
+      "el pasaporte",
+      "the passport"
+    ],
+    [
+      "desbordarse",
+      "to overflow"
+    ]
+  ],
+  "examples": [
+    [
+      "Hablaba tan rápido que nadie lo entendía.",
+      "He spoke so fast that nobody understood him."
+    ],
+    [
+      "Tenía tantas deudas que vendió la casa.",
+      "He had so many debts that he sold the house."
+    ],
+    [
+      "Hubo tal escándalo que tuvieron que llamar a la policía.",
+      "There was such an uproar that they had to call the police."
+    ],
+    [
+      "Se llevó tal susto que no podía hablar.",
+      "He got such a fright that he couldn't speak."
+    ],
+    [
+      "Tengo un hambre que me muero.",
+      "I'm so hungry I could die."
+    ],
+    [
+      "Hacía un frío que pelaba.",
+      "It was freezing cold."
+    ],
+    [
+      "Lo explicó de tal manera que todos lo entendimos.",
+      "She explained it in such a way that we all understood."
+    ],
+    [
+      "No invirtieron en marketing; de ahí que las ventas hayan bajado.",
+      "They didn't invest in marketing; hence sales have fallen."
+    ],
+    [
+      "Llovió toda la semana, de ahí que el río se desbordara.",
+      "It rained all week; that's why the river overflowed."
+    ],
+    [
+      "El proyecto no es viable; por consiguiente, lo cancelamos.",
+      "The project isn't viable; consequently, we're canceling it."
+    ],
+    [
+      "No cumplió las normas; en consecuencia, fue sancionado.",
+      "He didn't follow the rules; consequently, he was penalized."
+    ],
+    [
+      "Ya es tarde, así que me voy.",
+      "It's late now, so I'm leaving."
+    ],
+    [
+      "Perdió el pasaporte, con lo cual no pudo viajar.",
+      "He lost his passport, as a result of which he couldn't travel."
+    ],
+    [
+      "Pienso, luego existo.",
+      "I think, therefore I am."
+    ],
+    [
+      "Estaba tan nerviosa que se le olvidó todo.",
+      "She was so nervous that she forgot everything."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Hablaba ___ rápido que nadie lo entendía.",
+      "answers": [
+        "tan"
+      ],
+      "hint": "He spoke so fast that nobody understood him."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tenía ___ deudas que vendió la casa.",
+      "answers": [
+        "tantas"
+      ],
+      "hint": "He had so many debts that he sold the house."
+    },
+    {
+      "type": "fill",
+      "prompt": "Hubo ___ escándalo que tuvieron que llamar a la policía.",
+      "answers": [
+        "tal",
+        "tanto",
+        "un"
+      ],
+      "hint": "There was such an uproar that they had to call the police."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se llevó ___ susto que no podía hablar.",
+      "answers": [
+        "tal",
+        "tremendo",
+        "un"
+      ],
+      "hint": "He got such a fright that he couldn't speak."
+    },
+    {
+      "type": "fill",
+      "prompt": "Hacía un frío que ___.",
+      "answers": [
+        "pelaba"
+      ],
+      "hint": "It was freezing cold."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo explicó de tal ___ que todos lo entendimos.",
+      "answers": [
+        "manera",
+        "modo",
+        "forma"
+      ],
+      "hint": "She explained it in such a way that we all understood."
+    },
+    {
+      "type": "fill",
+      "prompt": "No invirtieron en marketing; de ahí que las ventas ___ bajado.",
+      "answers": [
+        "hayan"
+      ],
+      "hint": "They didn't invest in marketing; hence sales have fallen."
+    },
+    {
+      "type": "fill",
+      "prompt": "Llovió toda la semana, de ahí que el río se ___. (desbordarse)",
+      "answers": [
+        "desbordara",
+        "desbordase"
+      ],
+      "hint": "It rained all week; that's why the river overflowed."
+    },
+    {
+      "type": "fill",
+      "prompt": "No cumplió las normas; en ___, fue sancionado.",
+      "answers": [
+        "consecuencia"
+      ],
+      "hint": "He didn't follow the rules; consequently, he was penalized."
+    },
+    {
+      "type": "fill",
+      "prompt": "Perdió el pasaporte, con lo ___ no pudo viajar.",
+      "answers": [
+        "cual"
+      ],
+      "hint": "He lost his passport, as a result of which he couldn't travel."
+    },
+    {
+      "type": "fill",
+      "prompt": "Pienso, ___ existo.",
+      "answers": [
+        "luego"
+      ],
+      "hint": "I think, therefore I am."
+    },
+    {
+      "type": "mc",
+      "prompt": "*De ahí que* is followed by…",
+      "options": [
+        "the subjunctive",
+        "the indicative",
+        "the infinitive",
+        "the conditional"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Hubo ___ escándalo que llamaron a la policía.",
+      "options": [
+        "tal",
+        "tan",
+        "tanta",
+        "tales"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Tengo un hambre que me muero* means…",
+      "options": [
+        "I'm so hungry I could die.",
+        "I'm hungry and dying.",
+        "I have a hunger that kills.",
+        "I'm dying of something I ate."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Luego* in *Pienso, luego existo* means…",
+      "options": [
+        "therefore",
+        "later",
+        "then (in time)",
+        "soon"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: El proyecto no es viable; ___, lo cancelamos.",
+      "options": [
+        "por consiguiente",
+        "de ahí que",
+        "tal que",
+        "aunque"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "It's late now, so I'm leaving.",
+      "answers": [
+        "Ya es tarde, así que me voy.",
+        "Ya es tarde, así es que me voy."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "She was so nervous that she forgot everything.",
+      "answers": [
+        "Estaba tan nerviosa que se le olvidó todo.",
+        "Estaba tan nerviosa que olvidó todo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It was freezing cold. (colloquial)",
+      "answers": [
+        "Hacía un frío que pelaba."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I think, therefore I am.",
+      "answers": [
+        "Pienso, luego existo."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He had so many debts that he sold the house.\"",
+      "answer": "Tenía tantas deudas que vendió la casa."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"She explained it in such a way that we all understood.\"",
+      "answer": "Lo explicó de tal manera que todos lo entendimos."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He lost his passport, as a result of which he couldn't travel.\"",
+      "answer": "Perdió el pasaporte, con lo cual no pudo viajar."
+    }
+  ]
+}

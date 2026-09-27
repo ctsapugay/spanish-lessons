@@ -1,0 +1,324 @@
+{
+  "sections": [
+    {
+      "heading": "Progressive parallel: a medida que, conforme, según",
+      "body": "*A medida que*, *conforme* and *según* all mean \"as\" when two things develop together:\n\n*A medida que avanzaba el día, hacía más calor.* (As the day went on, it got hotter.)\n*Conforme pasan los años, lo entiendo mejor.*\n*Según vayan llegando, pasen a la sala.* (As you arrive, go into the room.)\n\nIndicative for real/habitual events; **subjunctive** when they refer to the future: *A medida que vayas practicando, te será más fácil.*"
+    },
+    {
+      "heading": "Before and after, formally",
+      "body": "- *tras* (after — formal, very common in the news): *Tras la reunión, se firmó el acuerdo.* *Tras perder las elecciones, renunció.*\n- *una vez* + participle (once): *Una vez terminado el informe, lo enviaremos.*\n- *al* + infinitive (on / upon / when): *Al llegar, me di cuenta de que había olvidado las llaves.* (When I arrived…)\n- *nada más* + infinitive (right after): *Nada más salir del trabajo, me llamó.*\n- *en cuanto / apenas* (as soon as) and *antes de (que) / después de (que)* — review from B2.\n- *hasta que no* (until — with a redundant *no*, colloquial): *No me voy hasta que no me pagues.* = *hasta que me pagues*."
+    },
+    {
+      "heading": "Mientras, mientras que and mientras tanto",
+      "body": "*Mientras* (while — same time): *Mientras cocino, escucho la radio.* *Mientras que* (whereas — contrast): *Él es muy tranquilo, mientras que su hermano es nervioso.* *Mientras tanto* (meanwhile): *Voy al banco. Mientras tanto, prepara la cena.*"
+    }
+  ],
+  "vocab": [
+    [
+      "a medida que",
+      "as (progressively)"
+    ],
+    [
+      "conforme",
+      "as (in step with)"
+    ],
+    [
+      "según",
+      "as / according to"
+    ],
+    [
+      "tras",
+      "after (formal)"
+    ],
+    [
+      "una vez terminado",
+      "once finished"
+    ],
+    [
+      "al llegar",
+      "on arriving"
+    ],
+    [
+      "nada más salir",
+      "right after leaving"
+    ],
+    [
+      "mientras que",
+      "whereas"
+    ],
+    [
+      "mientras tanto",
+      "meanwhile"
+    ],
+    [
+      "avanzar",
+      "to advance / go on"
+    ],
+    [
+      "el acuerdo",
+      "the agreement"
+    ],
+    [
+      "la sala",
+      "the room / hall"
+    ]
+  ],
+  "examples": [
+    [
+      "A medida que avanzaba el día, hacía más calor.",
+      "As the day went on, it got hotter."
+    ],
+    [
+      "Conforme pasan los años, lo entiendo mejor.",
+      "As the years go by, I understand it better."
+    ],
+    [
+      "Según vayan llegando, pasen a la sala.",
+      "As you arrive, go into the room."
+    ],
+    [
+      "A medida que vayas practicando, te será más fácil.",
+      "As you practice, it'll get easier for you."
+    ],
+    [
+      "Tras la reunión, se firmó el acuerdo.",
+      "After the meeting, the agreement was signed."
+    ],
+    [
+      "Tras perder las elecciones, renunció.",
+      "After losing the elections, he resigned."
+    ],
+    [
+      "Una vez terminado el informe, lo enviaremos.",
+      "Once the report is finished, we'll send it."
+    ],
+    [
+      "Al llegar, me di cuenta de que había olvidado las llaves.",
+      "When I arrived, I realized I had forgotten my keys."
+    ],
+    [
+      "Nada más salir del trabajo, me llamó.",
+      "Right after leaving work, she called me."
+    ],
+    [
+      "No me voy hasta que no me pagues.",
+      "I'm not leaving until you pay me."
+    ],
+    [
+      "Mientras cocino, escucho la radio.",
+      "While I cook, I listen to the radio."
+    ],
+    [
+      "Él es muy tranquilo, mientras que su hermano es nervioso.",
+      "He's very calm, whereas his brother is nervous."
+    ],
+    [
+      "Voy al banco. Mientras tanto, prepara la cena.",
+      "I'm going to the bank. Meanwhile, make dinner."
+    ],
+    [
+      "Al abrir la puerta, vi que llovía.",
+      "On opening the door, I saw it was raining."
+    ],
+    [
+      "Conforme crece la ciudad, aumenta el tráfico.",
+      "As the city grows, traffic increases."
+    ],
+    [
+      "A medida que practiques, te será más fácil.",
+      "As you practice, it'll become easier for you."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "A ___ que avanzaba el día, hacía más calor.",
+      "answers": [
+        "medida"
+      ],
+      "hint": "As the day went on, it got hotter."
+    },
+    {
+      "type": "fill",
+      "prompt": "Conforme ___ los años, lo entiendo mejor. (pasar)",
+      "answers": [
+        "pasan"
+      ],
+      "hint": "As the years go by, I understand it better."
+    },
+    {
+      "type": "fill",
+      "prompt": "A medida que ___ practicando, te será más fácil. (ir, tú)",
+      "answers": [
+        "vayas"
+      ],
+      "hint": "As you practice, it'll get easier for you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Según ___ llegando, pasen a la sala. (ir, ustedes)",
+      "answers": [
+        "vayan"
+      ],
+      "hint": "As you arrive, go into the room."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ la reunión, se firmó el acuerdo.",
+      "answers": [
+        "tras",
+        "después de"
+      ],
+      "hint": "After the meeting, the agreement was signed."
+    },
+    {
+      "type": "fill",
+      "prompt": "Una vez ___ el informe, lo enviaremos. (terminar)",
+      "answers": [
+        "terminado"
+      ],
+      "hint": "Once the report is finished, we'll send it."
+    },
+    {
+      "type": "fill",
+      "prompt": "Al ___, me di cuenta de que había olvidado las llaves. (llegar)",
+      "answers": [
+        "llegar"
+      ],
+      "hint": "When I arrived, I realized I had forgotten my keys."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nada más ___ del trabajo, me llamó. (salir)",
+      "answers": [
+        "salir"
+      ],
+      "hint": "Right after leaving work, she called me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Él es muy tranquilo, mientras ___ su hermano es nervioso.",
+      "answers": [
+        "que"
+      ],
+      "hint": "He's very calm, whereas his brother is nervous."
+    },
+    {
+      "type": "fill",
+      "prompt": "Voy al banco. Mientras ___, prepara la cena.",
+      "answers": [
+        "tanto"
+      ],
+      "hint": "I'm going to the bank. Meanwhile, make dinner."
+    },
+    {
+      "type": "fill",
+      "prompt": "Conforme ___ la ciudad, aumenta el tráfico. (crecer)",
+      "answers": [
+        "crece"
+      ],
+      "hint": "As the city grows, traffic increases."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Tras perder las elecciones, renunció* means…",
+      "options": [
+        "After losing the elections, he resigned.",
+        "Behind the election loss, he resigned.",
+        "Before losing the elections, he resigned.",
+        "Despite losing, he stayed."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Mientras que* expresses…",
+      "options": [
+        "contrast (whereas)",
+        "time (while)",
+        "cause",
+        "condition"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose (future): A medida que ___, te será más fácil.",
+      "options": [
+        "practiques",
+        "practicas",
+        "practicarás"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*No me voy hasta que no me pagues* means…",
+      "options": [
+        "I'm not leaving until you pay me.",
+        "I'm leaving without you paying me.",
+        "I won't leave if you don't pay me later.",
+        "I left before you paid."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Al abrir la puerta* means…",
+      "options": [
+        "On opening the door",
+        "To open the door",
+        "At the open door",
+        "The door opened"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "Once the report is finished, we'll send it.",
+      "answers": [
+        "Una vez terminado el informe, lo enviaremos.",
+        "Una vez que terminemos el informe, lo enviaremos."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "While I cook, I listen to the radio.",
+      "answers": [
+        "Mientras cocino, escucho la radio."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "After the meeting, the agreement was signed. (use tras)",
+      "answers": [
+        "Tras la reunión, se firmó el acuerdo.",
+        "Tras la reunión, el acuerdo fue firmado."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "As the city grows, traffic increases. (use conforme)",
+      "answers": [
+        "Conforme crece la ciudad, aumenta el tráfico.",
+        "Conforme la ciudad crece, el tráfico aumenta."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"On opening the door, I saw it was raining.\"",
+      "answer": "Al abrir la puerta, vi que llovía."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"After losing the elections, he resigned.\"",
+      "answer": "Tras perder las elecciones, renunció."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"As the day went on, it got hotter.\"",
+      "answer": "A medida que avanzaba el día, hacía más calor."
+    }
+  ]
+}

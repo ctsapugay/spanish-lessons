@@ -1,0 +1,73 @@
+{
+  "sections": [
+    {
+      "heading": "The gerund as a clause",
+      "body": "A gerund at the start of a sentence can stand for a whole clause. Context tells you the meaning:\n\n- **Manner / means**: *Estudiando mucho, aprobó.* (By studying a lot…)\n- **Cause**: *Siendo tan tarde, decidimos quedarnos.* (Since it was so late…)\n- **Condition**: *Saliendo ahora, llegamos a tiempo.* (If we leave now…)\n- **Concession** (with *aun*): *Aun teniendo dinero, vive con muy poco.* (Even though he has money…)\n- **Time**: *Caminando por el parque, vi a Marta.* (While walking…)\n\nThe gerund should be simultaneous with or before the main verb. \"Gerund of consequence\" or of a later event is considered an error in formal writing: ✗ *Chocó, muriendo al instante* — prefer *Chocó y murió al instante.*"
+    },
+    {
+      "heading": "Absolute participle clauses",
+      "body": "A participle with its own subject, placed first, expresses something completed before the main action. It agrees with its noun:\n\n*Terminada la cena, salimos a caminar.* (Once dinner was over, we went for a walk.)\n*Dicho esto, se fue.* (Having said this, he left.)\n*Firmado el contrato, empezaron las obras.* (Once the contract was signed, work began.)\n*Resueltos los problemas, todo fue más fácil.*\n\nThey're formal but also common in speech: *Dicho y hecho.* (No sooner said than done.)"
+    },
+    {
+      "heading": "Participle vs. adjective",
+      "body": "A few verbs have a regular participle (for perfect tenses) and a short adjective form: *despertado / despierto* (*He despertado a Juan* vs. *Juan está despierto*), *soltado / suelto* (loose), *imprimido / impreso* (both acceptable as participles in LatAm: *He impreso / he imprimido el documento*), *freído / frito*."
+    }
+  ],
+  "vocab": [
+    ["siendo tan tarde", "since it was so late"],
+    ["aun teniendo", "even though (he) has"],
+    ["terminada la cena", "once dinner was over"],
+    ["dicho esto", "having said this"],
+    ["dicho y hecho", "no sooner said than done"],
+    ["resuelto / resuelta", "resolved"],
+    ["las obras", "the construction work"],
+    ["chocar", "to crash"],
+    ["al instante", "instantly"],
+    ["despierto / despierta", "awake"],
+    ["suelto / suelta", "loose"],
+    ["impreso / impresa", "printed"],
+    ["frito / frita", "fried"]
+  ],
+  "examples": [
+    ["Estudiando mucho, aprobó el examen.", "By studying a lot, she passed the exam."],
+    ["Siendo tan tarde, decidimos quedarnos.", "Since it was so late, we decided to stay."],
+    ["Saliendo ahora, llegamos a tiempo.", "If we leave now, we'll arrive on time."],
+    ["Aun teniendo dinero, vive con muy poco.", "Even though he has money, he lives on very little."],
+    ["Caminando por el parque, vi a Marta.", "While walking through the park, I saw Marta."],
+    ["Chocó y murió al instante.", "He crashed and died instantly."],
+    ["Terminada la cena, salimos a caminar.", "Once dinner was over, we went for a walk."],
+    ["Dicho esto, se fue.", "Having said this, he left."],
+    ["Firmado el contrato, empezaron las obras.", "Once the contract was signed, the work began."],
+    ["Resueltos los problemas, todo fue más fácil.", "With the problems solved, everything was easier."],
+    ["Dicho y hecho.", "No sooner said than done."],
+    ["Juan ya está despierto.", "Juan is already awake."],
+    ["El perro anda suelto.", "The dog is on the loose."],
+    ["¿Ya tienes impreso el documento?", "Do you already have the document printed?"],
+    ["Me encanta el pescado frito.", "I love fried fish."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "___ mucho, aprobó el examen. (estudiar)", "answers": ["estudiando"], "hint": "By studying a lot, she passed the exam."},
+    {"type": "fill", "prompt": "___ tan tarde, decidimos quedarnos. (ser)", "answers": ["siendo"], "hint": "Since it was so late, we decided to stay."},
+    {"type": "fill", "prompt": "___ ahora, llegamos a tiempo. (salir)", "answers": ["saliendo"], "hint": "If we leave now, we'll arrive on time."},
+    {"type": "fill", "prompt": "Aun ___ dinero, vive con muy poco. (tener)", "answers": ["teniendo"], "hint": "Even though he has money, he lives on very little."},
+    {"type": "fill", "prompt": "___ la cena, salimos a caminar. (terminar)", "answers": ["terminada"], "hint": "Once dinner was over, we went for a walk."},
+    {"type": "fill", "prompt": "___ esto, se fue. (decir)", "answers": ["dicho"], "hint": "Having said this, he left."},
+    {"type": "fill", "prompt": "___ el contrato, empezaron las obras. (firmar)", "answers": ["firmado"], "hint": "Once the contract was signed, the work began."},
+    {"type": "fill", "prompt": "___ los problemas, todo fue más fácil. (resolver)", "answers": ["resueltos"], "hint": "With the problems solved, everything was easier."},
+    {"type": "fill", "prompt": "Juan ya está ___. (despertar)", "answers": ["despierto"], "hint": "Juan is already awake."},
+    {"type": "fill", "prompt": "Me encanta el pescado ___. (freír)", "answers": ["frito"], "hint": "I love fried fish."},
+    {"type": "fill", "prompt": "Dicho y ___.", "answers": ["hecho"], "hint": "No sooner said than done."},
+    {"type": "mc", "prompt": "*Saliendo ahora, llegamos a tiempo* — the gerund expresses…", "options": ["condition", "cause", "concession", "consequence"], "answer": 0},
+    {"type": "mc", "prompt": "*Siendo tan tarde, decidimos quedarnos* — the gerund expresses…", "options": ["cause", "condition", "concession", "purpose"], "answer": 0},
+    {"type": "mc", "prompt": "Which is better formal style?", "options": ["Chocó y murió al instante.", "Chocó, muriendo al instante."], "answer": 0, "lang": "es", "explain": "A gerund for a later event is considered incorrect in formal writing."},
+    {"type": "mc", "prompt": "Choose: ___ los problemas, todo fue más fácil.", "options": ["Resueltos", "Resuelto", "Resolviendo", "Resueltas"], "answer": 0, "lang": "es", "explain": "The participle agrees with *los problemas*."},
+    {"type": "mc", "prompt": "\"Juan is awake\" →", "options": ["Juan está despierto.", "Juan está despertado.", "Juan es despierto.", "Juan despierta está."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Having said this, he left.", "answers": ["Dicho esto, se fue.", "Dicho esto, se marchó."]},
+    {"type": "translate", "prompt": "Once dinner was over, we went for a walk. (use a participle)", "answers": ["Terminada la cena, salimos a caminar.", "Terminada la cena, salimos a pasear."]},
+    {"type": "translate", "prompt": "Since it was so late, we decided to stay. (use a gerund)", "answers": ["Siendo tan tarde, decidimos quedarnos."]},
+    {"type": "translate", "prompt": "I love fried fish.", "answers": ["Me encanta el pescado frito."]},
+    {"type": "build", "prompt": "Put the words in order: \"While walking through the park, I saw Marta.\"", "answer": "Caminando por el parque, vi a Marta."},
+    {"type": "build", "prompt": "Put the words in order: \"Once the contract was signed, the work began.\"", "answer": "Firmado el contrato, empezaron las obras."},
+    {"type": "build", "prompt": "Put the words in order: \"Even though he has money, he lives on very little.\"", "answer": "Aun teniendo dinero, vive con muy poco."}
+  ]
+}

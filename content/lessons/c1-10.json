@@ -1,0 +1,314 @@
+{
+  "sections": [
+    {
+      "heading": "Tenses beyond time",
+      "body": "At C1 you'll meet tenses used for style or attitude rather than time:\n\n- **Historical present** — the present for past events, to make a story vivid (history books, anecdotes): *Colón llega a América en 1492.* *Ayer voy por la calle y de repente me encuentro a Pedro.* (Yesterday I'm walking down the street and suddenly I run into Pedro.)\n- **Imperfect of politeness** — the imperfect to soften a request or question: *Quería pedirle un favor.* (I wanted to ask you a favor.) *¿Qué deseaba?* (What would you like? — in shops)\n- **Imperfect in children's play / dreams**: *Yo era el policía y tú eras el ladrón.* (I'll be the cop and you be the robber.) *Soñé que volaba.*"
+    },
+    {
+      "heading": "The conditional of rumour",
+      "body": "In journalism, the conditional presents unconfirmed information — \"reportedly\": *Según fuentes oficiales, el presidente habría renunciado.* (According to official sources, the president has reportedly resigned.) *El sospechoso estaría escondido en el norte del país.* (The suspect is believed to be hiding in the north.) Style guides dislike it, but it's everywhere in the news."
+    },
+    {
+      "heading": "The future of concession and surprise",
+      "body": "The future can concede a point before a *pero*: *Será muy inteligente, pero no sabe trabajar en equipo.* (He may be very smart, but he can't work in a team.) *Tendrá mucho dinero, pero no es feliz.*\n\nIt can also express surprise or indignation in exclamations and questions: *¡Será posible!* (Can you believe it!) *¿Serás capaz de irte sin despedirte?* (Would you really leave without saying goodbye?)"
+    }
+  ],
+  "vocab": [
+    [
+      "el presente histórico",
+      "the historical present"
+    ],
+    [
+      "quería pedirle",
+      "I wanted to ask you (polite)"
+    ],
+    [
+      "¿qué deseaba?",
+      "what would you like? (shop)"
+    ],
+    [
+      "la fuente",
+      "the source"
+    ],
+    [
+      "habría renunciado",
+      "has reportedly resigned"
+    ],
+    [
+      "el sospechoso / la sospechosa",
+      "the suspect"
+    ],
+    [
+      "esconderse",
+      "to hide"
+    ],
+    [
+      "será…, pero",
+      "he may be…, but"
+    ],
+    [
+      "¡será posible!",
+      "can you believe it!"
+    ],
+    [
+      "capaz",
+      "capable"
+    ],
+    [
+      "despedirse",
+      "to say goodbye"
+    ],
+    [
+      "trabajar en equipo",
+      "to work in a team"
+    ],
+    [
+      "volar",
+      "to fly"
+    ]
+  ],
+  "examples": [
+    [
+      "Colón llega a América en 1492.",
+      "Columbus reaches America in 1492."
+    ],
+    [
+      "Ayer voy por la calle y de repente me encuentro a Pedro.",
+      "Yesterday I'm walking down the street and suddenly I run into Pedro."
+    ],
+    [
+      "Quería pedirle un favor.",
+      "I wanted to ask you a favor."
+    ],
+    [
+      "¿Qué deseaba?",
+      "What would you like?"
+    ],
+    [
+      "Venía a preguntar por el departamento.",
+      "I've come to ask about the apartment."
+    ],
+    [
+      "Yo era el policía y tú eras el ladrón.",
+      "I'll be the cop and you be the robber."
+    ],
+    [
+      "Soñé que volaba.",
+      "I dreamed I was flying."
+    ],
+    [
+      "Según fuentes oficiales, el presidente habría renunciado.",
+      "According to official sources, the president has reportedly resigned."
+    ],
+    [
+      "El sospechoso estaría escondido en el norte del país.",
+      "The suspect is believed to be hiding in the north of the country."
+    ],
+    [
+      "El incendio habría sido provocado.",
+      "The fire was allegedly started deliberately."
+    ],
+    [
+      "Será muy inteligente, pero no sabe trabajar en equipo.",
+      "He may be very smart, but he can't work in a team."
+    ],
+    [
+      "Tendrá mucho dinero, pero no es feliz.",
+      "He may have a lot of money, but he's not happy."
+    ],
+    [
+      "¡Será posible!",
+      "Can you believe it!"
+    ],
+    [
+      "¿Serás capaz de irte sin despedirte?",
+      "Would you really leave without saying goodbye?"
+    ],
+    [
+      "Habrá estudiado mucho, pero reprobó.",
+      "He may well have studied a lot, but he failed."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "*Colón llega a América en 1492* uses…",
+      "options": [
+        "the historical present",
+        "a future plan",
+        "a habit",
+        "an error"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Quería pedirle un favor* is…",
+      "options": [
+        "a polite request",
+        "a past wish that's over",
+        "a habit in the past",
+        "a rumour"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "In the news, *el presidente habría renunciado* means…",
+      "options": [
+        "the president has reportedly resigned",
+        "the president would have resigned if…",
+        "the president will resign",
+        "the president should resign"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Será muy inteligente, pero no sabe trabajar en equipo* — *será* means…",
+      "options": [
+        "he may be (I grant that)",
+        "he will be",
+        "he was",
+        "he would be"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*¡Será posible!* expresses…",
+      "options": [
+        "indignation / disbelief",
+        "a prediction",
+        "a polite request",
+        "agreement"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Ayer ___ por la calle y de repente me encuentro a Pedro. (ir, yo)",
+      "answers": [
+        "voy"
+      ],
+      "hint": "Yesterday I'm walking down the street and suddenly I run into Pedro."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ pedirle un favor. (querer, yo)",
+      "answers": [
+        "quería"
+      ],
+      "hint": "I wanted to ask you a favor."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué ___? (desear, usted)",
+      "answers": [
+        "deseaba"
+      ],
+      "hint": "What would you like?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Yo ___ el policía y tú eras el ladrón. (ser)",
+      "answers": [
+        "era"
+      ],
+      "hint": "I'll be the cop and you be the robber."
+    },
+    {
+      "type": "fill",
+      "prompt": "Según fuentes oficiales, el presidente ___ renunciado.",
+      "answers": [
+        "habría"
+      ],
+      "hint": "According to official sources, the president has reportedly resigned."
+    },
+    {
+      "type": "fill",
+      "prompt": "El sospechoso ___ escondido en el norte del país. (estar)",
+      "answers": [
+        "estaría"
+      ],
+      "hint": "The suspect is believed to be hiding in the north of the country."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ mucho dinero, pero no es feliz. (tener)",
+      "answers": [
+        "tendrá"
+      ],
+      "hint": "He may have a lot of money, but he's not happy."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿___ capaz de irte sin despedirte? (ser, tú)",
+      "answers": [
+        "serás"
+      ],
+      "hint": "Would you really leave without saying goodbye?"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ estudiado mucho, pero reprobó.",
+      "answers": [
+        "habrá"
+      ],
+      "hint": "He may well have studied a lot, but he failed."
+    },
+    {
+      "type": "fill",
+      "prompt": "Soñé que ___. (volar)",
+      "answers": [
+        "volaba"
+      ],
+      "hint": "I dreamed I was flying."
+    },
+    {
+      "type": "translate",
+      "prompt": "I wanted to ask you a favor. (usted, polite)",
+      "answers": [
+        "Quería pedirle un favor.",
+        "Quisiera pedirle un favor."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He may be very smart, but he can't work in a team. (use the future)",
+      "answers": [
+        "Será muy inteligente, pero no sabe trabajar en equipo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Can you believe it! (use the future of ser)",
+      "answers": [
+        "¡Será posible!"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I dreamed I was flying.",
+      "answers": [
+        "Soñé que volaba.",
+        "Soñé que estaba volando."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The fire was allegedly started deliberately.\"",
+      "answer": "El incendio habría sido provocado."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I've come to ask about the apartment.\"",
+      "answer": "Venía a preguntar por el departamento."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Columbus reaches America in 1492.\"",
+      "answer": "Colón llega a América en 1492."
+    }
+  ]
+}
