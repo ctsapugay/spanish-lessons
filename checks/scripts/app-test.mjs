@@ -2,7 +2,8 @@
 //
 // Covers G3 (practice never changes progress), G4 (cumulative quizzes, pass threshold,
 // configurable passing score, persistence), G5 (level tests), C-PRIVATE (no outside network)
-// and C-PROGRESS-SAFE (reload, export/import, course update).
+// and C-PROGRESS-SAFE (reload, export/import, course update, and — via the launcher's
+// scripts/serve.py — progress kept in a file that survives wiping the browser's data).
 //
 // The app is served from a throwaway local HTTP server and also opened straight from disk
 // (file://), which is how Clara normally uses it. Any request to a host other than the local
@@ -16,6 +17,8 @@ import http from "node:http";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { spawn } from "node:child_process";
+import os from "node:os";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
 const APP = path.join(ROOT, "app");
@@ -53,13 +56,14 @@ try {
   browser = await chromium.launch({ headless: !headed });
 }
 const outsideRequests = [];
+const extraBases = []; // the launcher's own local server, when running
 
 async function newPage(context) {
   const page = await context.newPage();
   page.on("pageerror", (err) => results.push({ name: "no page errors", ok: false, detail: String(err) }));
   await page.route("**/*", (route) => {
     const u = route.request().url();
-    if (u.startsWith(BASE) || u.startsWith("file://") || u.startsWith("data:") || u.startsWith("blob:")) return route.continue();
+    if (u.startsWith(BASE) || extraBases.some((b) => u.startsWith(b)) || u.startsWith("file://") || u.startsWith("data:") || u.startsWith("blob:")) return route.continue();
     outsideRequests.push(u);
     return route.abort();
   });
@@ -368,8 +372,68 @@ async function scenarioExportImportAndUpdate() {
   await ctx.close();
 }
 
+async function scenarioLauncherFile() {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), "spanish-progress-"));
+  const dataFile = path.join(dir, "my-progress.json");
+  const proc = spawn("python3", [path.join(ROOT, "scripts/serve.py"), "--port", "0", "--no-browser", "--data", dataFile], { stdio: ["ignore", "pipe", "pipe"] });
+  try {
+    const LBASE = await new Promise((resolve, reject) => {
+      let out = "";
+      const t = setTimeout(() => reject(new Error("launcher did not start: " + out)), 10000);
+      proc.stdout.on("data", (d) => {
+        out += d;
+        const m = out.match(/running at (http:\/\/127\.0\.0\.1:\d+\/)/);
+        if (m) { clearTimeout(t); resolve(m[1]); }
+      });
+      proc.on("exit", (code) => reject(new Error("launcher exited " + code + ": " + out)));
+    });
+    extraBases.push(LBASE);
+    const readFile = () => { try { return JSON.parse(fs.readFileSync(dataFile, "utf8")); } catch { return null; } };
+    const waitFor = async (pred) => { for (let i = 0; i < 50; i++) { if (pred()) return true; await new Promise((r) => setTimeout(r, 100)); } return false; };
+
+    // Pass the first quiz in one browser profile…
+    let ctx = await freshContext();
+    let page = await newPage(ctx);
+    await page.goto(LBASE);
+    const c = await course(page);
+    const first = availableLessons(c)[0];
+    await page.goto(LBASE + "#/quiz/" + first.id);
+    await answerAll(page, () => true);
+    const saved = await waitFor(() => { const d = readFile(); return d && d.lessons && d.lessons[first.id] && d.lessons[first.id].passed; });
+    check("launcher saves progress to a file on this computer", saved, dataFile);
+    await page.goto(LBASE + "#/settings");
+    const note = await page.textContent("#app");
+    check("settings says progress is saved to the file", note.includes("my-progress.json"), note.slice(0, 80));
+    await ctx.close();
+
+    // …then a brand-new profile (browser data wiped) still has it.
+    ctx = await freshContext();
+    page = await newPage(ctx);
+    await page.goto(LBASE);
+    await page.waitForSelector(`[data-lesson="${first.id}"]`);
+    const status = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
+    check("progress survives wiping the browser's data (read back from the file)", status === "passed", `status=${status}`);
+
+    // A later change is saved too, and the previous version is kept as a backup.
+    await page.goto(LBASE + "#/settings");
+    await page.fill("#passScore", "85");
+    await page.click("#saveSettings");
+    const updated = await waitFor(() => { const d = readFile(); return d && d.settings && d.settings.passScore === 85; });
+    const backup = path.join(dir, "my-progress.backup.json");
+    check("each save updates the file and keeps the previous version as a backup", updated && fs.existsSync(backup), `updated=${updated} backup=${fs.existsSync(backup)}`);
+    await ctx.close();
+
+    // Other websites open in the browser cannot write the file.
+    const before = fs.readFileSync(dataFile, "utf8");
+    const res = await fetch(LBASE + "api/progress", { method: "PUT", headers: { "Content-Type": "application/json", Origin: "http://evil.example" }, body: JSON.stringify({ lessons: {} }) });
+    check("the progress file rejects writes from other websites", res.status === 403 && fs.readFileSync(dataFile, "utf8") === before, `status=${res.status}`);
+  } finally {
+    proc.kill();
+  }
+}
+
 // ---------------------------------------------------------------- run
-const scenarios = [scenarioFileUrl, scenarioPracticeAndQuizBasics, scenarioPassScoreSetting, scenarioCumulativeQuiz, scenarioLevelTest, scenarioExportImportAndUpdate];
+const scenarios = [scenarioFileUrl, scenarioPracticeAndQuizBasics, scenarioPassScoreSetting, scenarioCumulativeQuiz, scenarioLevelTest, scenarioExportImportAndUpdate, scenarioLauncherFile];
 for (const s of scenarios) {
   try {
     await s();

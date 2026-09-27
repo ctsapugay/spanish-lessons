@@ -28,3 +28,8 @@ checks/board-url.txt
 .claude/settings.local.json
 
 node_modules/
+
+# Clara's own progress (written by scripts/serve.py) — never commit or push it
+my-progress.json
+my-progress.backup.json
+my-progress.json.tmp

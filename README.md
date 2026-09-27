@@ -22,12 +22,22 @@ your own machine: no account, no server, no tracking, and it works offline.
   from lesson N, the rest from earlier lessons, favouring items you got wrong before.
   Passing (80% by default, adjustable in Settings) unlocks the next lesson. Each level ends
   with a cumulative level test.
-- **Your data** — progress is saved in your browser. Settings lets you export it to a file,
-  import it again, or reset it.
+- **Your data** — started with the launcher, progress is saved automatically to
+  `my-progress.json` in the course folder (previous version kept as
+  `my-progress.backup.json`), so clearing browser data can't lose it. Settings can also
+  export a copy, import one, or reset. Your progress files are never committed to git.
 
 ## Using it
 
-Open `app/index.html` in a browser. That's all — it works straight from the file.
+Double-click **`Start Spanish.command`** in the course folder. A small Terminal window
+opens and the course opens in your browser. Keep that window open while you study; close
+it when you're done. Your progress is saved to `my-progress.json` as you go.
+
+(The first time, macOS may ask to confirm opening it — choose Open. Needs Python 3, which
+comes with Apple's command-line developer tools.)
+
+You can also just open `app/index.html` directly; it works the same, but progress is then
+stored only in that browser.
 
 If your browser's speech voices are limited, install a Spanish voice in your operating
 system's speech settings for better audio.
@@ -35,6 +45,7 @@ system's speech settings for better audio.
 ## Project layout
 
 ```
+Start Spanish.command double-click launcher
 app/                  the app: index.html, app.js, styles.css, course-data.js (generated)
 content/
   course.json         the outline: levels → lessons (title, objective, items covered) and tests
@@ -45,6 +56,7 @@ curriculum/
   inventory.json      the grammar / function / vocabulary items each level must cover
   reviews/<LEVEL>.md  the accuracy review for each level: what was checked and fixed
 scripts/build.py      bundles content/ into app/course-data.js
+scripts/serve.py      the launcher's local server: serves the app, saves progress to a file
 checks/               the automated checks (see below)
 ```
 

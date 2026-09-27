@@ -2,7 +2,9 @@
  *
  * Everything runs in the browser. Course content comes from course-data.js (built from
  * content/ by scripts/build.py). Progress lives in localStorage and can be exported to a
- * file and imported back. Nothing is ever sent anywhere.
+ * file and imported back. When the app is started with the launcher (scripts/serve.py),
+ * progress is also saved to my-progress.json on this computer, and that file wins on
+ * startup. Nothing is ever sent off this machine.
  */
 (function () {
   "use strict";
@@ -58,8 +60,54 @@
     try {
       localStorage.setItem(STORE_KEY, JSON.stringify(state));
     } catch (e) {
-      alert("Your progress could not be saved in this browser. Use Settings → Export to keep a copy.");
+      if (!fileMode) alert("Your progress could not be saved in this browser. Use Settings → Export to keep a copy.");
     }
+    saveToFile();
+  }
+
+  // ------------------------------------------------------------------ progress file (launcher)
+  // Only when served by scripts/serve.py: the file is the source of truth, localStorage a copy.
+  let fileMode = false;
+  let fileName = "my-progress.json";
+  let fileSaving = false;
+  let fileDirty = false;
+  async function syncFromFile() {
+    if (!/^https?:$/.test(location.protocol)) return;
+    try {
+      const r = await fetch("api/progress", { cache: "no-store" });
+      if (!r.ok) return;
+      const body = await r.json();
+      fileMode = true;
+      if (body.file) fileName = body.file;
+      if (body.progress && typeof body.progress === "object") {
+        localStorage.setItem(STORE_KEY, JSON.stringify(upgrade(body.progress)));
+      } else if (localStorage.getItem(STORE_KEY)) {
+        saveToFile(); // first launch: move what this browser already has into the file
+      }
+    } catch (e) {
+      /* no launcher: browser storage only */
+    }
+  }
+  function saveToFile() {
+    if (!fileMode) return;
+    fileDirty = true;
+    if (fileSaving) return;
+    fileSaving = true;
+    fileDirty = false;
+    fetch("api/progress", { method: "PUT", headers: { "Content-Type": "application/json" }, body: JSON.stringify(state) })
+      .then((r) => { if (!r.ok) throw new Error(r.status); showFileWarning(false); })
+      .catch(() => showFileWarning(true))
+      .finally(() => { fileSaving = false; if (fileDirty) saveToFile(); });
+  }
+  function showFileWarning(on) {
+    let el = document.getElementById("fileWarn");
+    if (!on) { if (el) el.remove(); return; }
+    if (el) return;
+    el = document.createElement("div");
+    el.id = "fileWarn";
+    el.className = "file-warn";
+    el.textContent = "Couldn't save to your progress file — is the Start Spanish window still open? Your progress is still kept in this browser for now.";
+    document.body.prepend(el);
   }
 
   // ------------------------------------------------------------------ unlock rules
@@ -650,7 +698,9 @@
         <h3>Quiz length</h3><div class="row"><input type="number" id="quizLength" min="10" max="40" step="5" value="${esc(s.quizLength)}"> questions per lesson quiz</div>
         <h3>Speech speed</h3><div class="row"><input type="number" id="speechRate" min="0.5" max="1.2" step="0.1" value="${esc(s.speechRate)}"> ${canSpeak() ? `<button class="btn secondary small" type="button" data-say="Hola, ¿cómo estás? Me llamo Sofía.">Test voice</button>` : '<span class="small muted">No Spanish voice installed.</span>'}</div>
         <div class="row" style="margin-top:14px"><button class="btn" id="saveSettings" type="button">Save settings</button><span id="saved" class="muted small"></span></div></div>
-      <div class="card"><h3>Back up your progress</h3><p class="muted small">Progress is stored in this browser. Export a copy now and then; import it to restore.</p>
+      <div class="card"><h3>Back up your progress</h3><p class="muted small">${fileMode
+          ? `Progress is saved automatically to <strong>${esc(fileName)}</strong> in the course folder (the previous version is kept as a backup). Export makes an extra copy you can keep anywhere.`
+          : "Progress is stored in this browser. Start the course with the <strong>Start Spanish</strong> launcher to save it to a file instead. Export a copy now and then; import it to restore."}</p>
         <div class="row"><button class="btn secondary" id="export" type="button">Export progress</button>
         <label class="btn secondary">Import progress<input type="file" id="import" accept="application/json,.json" hidden></label>
         <button class="btn secondary" id="reset" type="button">Reset all progress</button></div><div id="ioMsg" class="small" style="margin-top:8px"></div></div>
@@ -692,7 +742,7 @@
       });
     };
     document.getElementById("reset").onclick = () => {
-      if (confirm("Erase all progress in this browser? Export a backup first if you might want it back.")) {
+      if (confirm("Erase all progress? Export a backup first if you might want it back.")) {
         const keep = state.settings;
         state = freshState();
         state.settings = keep;
@@ -732,5 +782,5 @@
   }
   window.addEventListener("hashchange", route);
   window.addEventListener("storage", (e) => { if (e.key === STORE_KEY) { state = loadState(); } });
-  route();
+  syncFromFile().then(route);
 })();

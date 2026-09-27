@@ -101,3 +101,10 @@ reader: state, not narrative.
 
 ## 2026-09-27 — README trimmed; push approved by Clara
 - Removed the Checks section from README.md (kept "How it was built"; its registry line now says what the checks do). Clara said "then push".
+
+## 2026-09-27 — Launcher: progress saved to a file
+- Clara: "yes, build the launcher" (after being told it would add a test and change how progress is stored).
+- Added `Start Spanish.command` (double-click) → `scripts/serve.py`: serves app/ on 127.0.0.1 only, saves progress to my-progress.json (atomic write, previous version kept as my-progress.backup.json), refuses other hosts/origins. Both files gitignored so personal progress is never pushed.
+- app.js: when served by the launcher, the file is the source of truth on startup and every save also goes to the file; opening index.html directly still uses browser storage only. Settings says which mode is active; a banner appears if a file save fails.
+- CHK-003 strengthened (not weakened): +5 scenarios run the real launcher — progress saved to file, survives a brand-new browser profile, backup kept, foreign-origin write refused. `bash checks/app.sh`: "app ok: 29 checks passed". No baseline drift (registry entry unchanged). README "Using it" updated.
+- Committed locally only; not pushed (repo is public — push needs Clara's go-ahead).
