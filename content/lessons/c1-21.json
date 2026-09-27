@@ -1,0 +1,322 @@
+{
+  "sections": [
+    {
+      "heading": "Superlatives and el único que",
+      "body": "After a superlative or *el único / el primero / el último que*, both moods are possible:\n\n- **Indicative** — you state a fact about a known set: *Es la mejor película que he visto.* (It's the best film I've seen — I've seen them.) *Es el único que me entiende.*\n- **Subjunctive** — you generalise or leave the set open, often more emphatic or subjective: *Es la mejor película que haya visto nunca.* (…that I've ever seen.) *Eres la única persona que me entienda de verdad.*\n\nWith *nunca / jamás* the subjunctive is especially common: *Es lo más bonito que me hayan dicho jamás.*"
+    },
+    {
+      "heading": "Free relatives: indicative or subjunctive",
+      "body": "Relatives without an antecedent follow the known / unknown rule:\n\n*Haz lo que quieras.* (whatever you want — not known) vs. *Haz lo que quieres.* (do what you want — I know what it is)\n*Los que lleguen tarde no podrán entrar.* (whoever arrives late — future, unknown) vs. *Los que llegaron tarde no pudieron entrar.*\n*Donde tú digas.* (Wherever you say.) vs. *Nos vemos donde dijiste.*"
+    },
+    {
+      "heading": "Other tricky contexts",
+      "body": "- *el que* + subjunctive as a subject clause (the fact that): *El que no hayas llamado me molestó.* (The fact that you didn't call bothered me.)\n- *de ahí que, no porque, sin que, antes de que* → always subjunctive\n- *es que* / *lo que pasa es que* → indicative (explanation)\n- *quizás / tal vez* → either mood; *a lo mejor* → indicative\n- *ojalá* → subjunctive (present = possible, imperfect = unlikely, pluperfect = past regret)\n- *decir que* → indicative (report) or subjunctive (order) — see C1.1\n- *Que* + subjunctive alone = wish or command: *Que tengas suerte.* *¡Que pase el siguiente!* (Next, please!)"
+    }
+  ],
+  "vocab": [
+    [
+      "el único que",
+      "the only one who"
+    ],
+    [
+      "el primero que",
+      "the first one who"
+    ],
+    [
+      "jamás",
+      "ever / never"
+    ],
+    [
+      "que haya visto nunca",
+      "that I've ever seen"
+    ],
+    [
+      "el que + subjuntivo",
+      "the fact that"
+    ],
+    [
+      "lo que pasa es que",
+      "the thing is that"
+    ],
+    [
+      "¡que pase el siguiente!",
+      "next, please!"
+    ],
+    [
+      "la suerte",
+      "luck"
+    ],
+    [
+      "de verdad",
+      "really / truly"
+    ],
+    [
+      "bonito / bonita",
+      "pretty / lovely"
+    ],
+    [
+      "molestar",
+      "to bother"
+    ]
+  ],
+  "examples": [
+    [
+      "Es la mejor película que he visto.",
+      "It's the best film I've seen."
+    ],
+    [
+      "Es la mejor película que haya visto nunca.",
+      "It's the best film I've ever seen."
+    ],
+    [
+      "Es el único que me entiende.",
+      "He's the only one who understands me."
+    ],
+    [
+      "Eres la única persona que me entienda de verdad.",
+      "You're the only person who truly understands me."
+    ],
+    [
+      "Es lo más bonito que me hayan dicho jamás.",
+      "It's the nicest thing anyone has ever said to me."
+    ],
+    [
+      "Fue el primero que llegó.",
+      "He was the first to arrive."
+    ],
+    [
+      "Haz lo que quieras.",
+      "Do whatever you want."
+    ],
+    [
+      "Haz lo que quieres.",
+      "Do what you want (I know what it is)."
+    ],
+    [
+      "Los que lleguen tarde no podrán entrar.",
+      "Whoever arrives late won't be able to get in."
+    ],
+    [
+      "Los que llegaron tarde no pudieron entrar.",
+      "Those who arrived late couldn't get in."
+    ],
+    [
+      "Nos vemos donde tú digas.",
+      "We'll meet wherever you say."
+    ],
+    [
+      "El que no hayas llamado me molestó.",
+      "The fact that you didn't call bothered me."
+    ],
+    [
+      "Lo que pasa es que no tengo tiempo.",
+      "The thing is I don't have time."
+    ],
+    [
+      "Que tengas suerte.",
+      "Good luck."
+    ],
+    [
+      "¡Que pase el siguiente!",
+      "Next, please!"
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose (general, emphatic): Es la mejor película que ___ nunca.",
+      "options": [
+        "haya visto",
+        "he visto ya",
+        "vea",
+        "vi"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose (future, unknown): Los que ___ tarde no podrán entrar.",
+      "options": [
+        "lleguen",
+        "llegan",
+        "llegaron"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose (past fact): Los que ___ tarde no pudieron entrar.",
+      "options": [
+        "llegaron",
+        "lleguen",
+        "llegaran"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*El que no hayas llamado me molestó* — *el que* means…",
+      "options": [
+        "the fact that",
+        "the one who",
+        "whoever",
+        "which"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*¡Que pase el siguiente!* means…",
+      "options": [
+        "Next, please!",
+        "Let the next one pass by!",
+        "Whatever happens next!",
+        "The next one passed!"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: A lo mejor ___ mañana.",
+      "options": [
+        "viene",
+        "venga",
+        "viniera"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "fill",
+      "prompt": "Es la mejor película que ___ visto.",
+      "answers": [
+        "he",
+        "haya"
+      ],
+      "hint": "It's the best film I've seen."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es el único que me ___. (entender)",
+      "answers": [
+        "entiende",
+        "entienda"
+      ],
+      "hint": "He's the only one who understands me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es lo más bonito que me ___ dicho jamás.",
+      "answers": [
+        "hayan",
+        "han"
+      ],
+      "hint": "It's the nicest thing anyone has ever said to me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Haz lo que ___. (querer, tú)",
+      "answers": [
+        "quieras"
+      ],
+      "hint": "Do whatever you want."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nos vemos donde tú ___. (decir)",
+      "answers": [
+        "digas"
+      ],
+      "hint": "We'll meet wherever you say."
+    },
+    {
+      "type": "fill",
+      "prompt": "El que no ___ llamado me molestó. (tú)",
+      "answers": [
+        "hayas"
+      ],
+      "hint": "The fact that you didn't call bothered me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo que pasa es que no ___ tiempo. (tener, yo)",
+      "answers": [
+        "tengo"
+      ],
+      "hint": "The thing is I don't have time."
+    },
+    {
+      "type": "fill",
+      "prompt": "Que ___ suerte. (tener, tú)",
+      "answers": [
+        "tengas"
+      ],
+      "hint": "Good luck."
+    },
+    {
+      "type": "fill",
+      "prompt": "Fue el primero que ___. (llegar)",
+      "answers": [
+        "llegó"
+      ],
+      "hint": "He was the first to arrive."
+    },
+    {
+      "type": "fill",
+      "prompt": "Eres la única persona que me ___ de verdad. (entender)",
+      "answers": [
+        "entienda",
+        "entiende"
+      ],
+      "hint": "You're the only person who truly understands me."
+    },
+    {
+      "type": "translate",
+      "prompt": "Do whatever you want. (tú)",
+      "answers": [
+        "Haz lo que quieras."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Whoever arrives late won't be able to get in. (use los que)",
+      "answers": [
+        "Los que lleguen tarde no podrán entrar.",
+        "Los que lleguen tarde no van a poder entrar."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The thing is I don't have time. (use lo que pasa es que)",
+      "answers": [
+        "Lo que pasa es que no tengo tiempo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He's the only one who understands me.",
+      "answers": [
+        "Es el único que me entiende.",
+        "Es el único que me entienda."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's the best film I've ever seen.\"",
+      "answer": "Es la mejor película que haya visto nunca."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The fact that you didn't call bothered me.\"",
+      "answer": "El que no hayas llamado me molestó."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Those who arrived late couldn't get in.\"",
+      "answer": "Los que llegaron tarde no pudieron entrar."
+    }
+  ]
+}

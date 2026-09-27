@@ -1,0 +1,341 @@
+{
+  "sections": [
+    {
+      "heading": "Running and joining a meeting",
+      "body": "**Opening:** *Buenos días a todos. Si les parece, empezamos.* (If you agree, let's begin.) *El orden del día es el siguiente…* (The agenda is as follows…) *El objetivo de esta reunión es…*\n**Taking the floor:** *Si me permiten…* (If I may…), *Quisiera añadir algo.* (I'd like to add something.), *Con su permiso…*\n**Giving the floor:** *Tiene la palabra la señora Díaz.* (Ms. Díaz has the floor.) *¿Alguien quiere comentar algo?*\n**Keeping on track:** *Volviendo al punto…*, *Eso lo podemos ver más adelante.* (We can look at that later.)\n**Closing:** *Para resumir, hemos acordado…* (To sum up, we've agreed…) *Si no hay más preguntas, damos por terminada la reunión.*"
+    },
+    {
+      "heading": "Negotiating",
+      "body": "- **Proposing**: *Proponemos que…* + subjunctive. *¿Qué les parecería si…* + imperfect subjunctive? (How would you feel if…?)\n- **Conditions**: *Estaríamos dispuestos a…, siempre y cuando…* (We'd be willing to…, provided that…)\n- **Pushing back politely**: *Entiendo su postura, pero…* (I understand your position, but…) *Eso nos resulta difícil de aceptar.* *Me temo que no podemos bajar más el precio.*\n- **Reaching agreement**: *Creo que podemos llegar a un acuerdo.* *Nos parece razonable.* *Trato hecho.* (Deal.)\n- **Follow-up**: *Les haré llegar la propuesta por escrito.* (I'll send you the proposal in writing.)"
+    }
+  ],
+  "vocab": [
+    [
+      "el orden del día",
+      "the agenda"
+    ],
+    [
+      "tener la palabra",
+      "to have the floor"
+    ],
+    [
+      "añadir",
+      "to add"
+    ],
+    [
+      "más adelante",
+      "later on"
+    ],
+    [
+      "acordar",
+      "to agree on"
+    ],
+    [
+      "proponer",
+      "to propose"
+    ],
+    [
+      "estar dispuesto a",
+      "to be willing to"
+    ],
+    [
+      "la postura",
+      "the position / stance"
+    ],
+    [
+      "razonable",
+      "reasonable"
+    ],
+    [
+      "llegar a un acuerdo",
+      "to reach an agreement"
+    ],
+    [
+      "trato hecho",
+      "deal"
+    ],
+    [
+      "hacer llegar",
+      "to send / get to someone"
+    ],
+    [
+      "por escrito",
+      "in writing"
+    ],
+    [
+      "el plazo",
+      "the deadline / term"
+    ],
+    [
+      "el descuento",
+      "the discount"
+    ],
+    [
+      "ampliar",
+      "to extend / expand"
+    ]
+  ],
+  "examples": [
+    [
+      "Buenos días a todos. Si les parece, empezamos.",
+      "Good morning, everyone. If you agree, let's begin."
+    ],
+    [
+      "El orden del día es el siguiente.",
+      "The agenda is as follows."
+    ],
+    [
+      "Si me permiten, quisiera añadir algo.",
+      "If I may, I'd like to add something."
+    ],
+    [
+      "Tiene la palabra la señora Díaz.",
+      "Ms. Díaz has the floor."
+    ],
+    [
+      "Eso lo podemos ver más adelante.",
+      "We can look at that later on."
+    ],
+    [
+      "Para resumir, hemos acordado tres puntos.",
+      "To sum up, we've agreed on three points."
+    ],
+    [
+      "Proponemos que el plazo sea de seis meses.",
+      "We propose that the term be six months."
+    ],
+    [
+      "¿Qué les parecería si ampliáramos el plazo?",
+      "How would you feel if we extended the deadline?"
+    ],
+    [
+      "Estaríamos dispuestos a ofrecer un descuento, siempre y cuando el pedido sea grande.",
+      "We'd be willing to offer a discount, provided the order is large."
+    ],
+    [
+      "Entiendo su postura, pero no podemos aceptarla.",
+      "I understand your position, but we can't accept it."
+    ],
+    [
+      "Me temo que no podemos bajar más el precio.",
+      "I'm afraid we can't lower the price any further."
+    ],
+    [
+      "Creo que podemos llegar a un acuerdo.",
+      "I think we can reach an agreement."
+    ],
+    [
+      "Nos parece razonable.",
+      "It seems reasonable to us."
+    ],
+    [
+      "Trato hecho.",
+      "Deal."
+    ],
+    [
+      "Les haré llegar la propuesta por escrito.",
+      "I'll send you the proposal in writing."
+    ],
+    [
+      "Si no hay más preguntas, damos por terminada la reunión.",
+      "If there are no more questions, we'll bring the meeting to a close."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Buenos días a todos. Si les ___, empezamos.",
+      "answers": [
+        "parece"
+      ],
+      "hint": "Good morning, everyone. If you agree, let's begin."
+    },
+    {
+      "type": "fill",
+      "prompt": "El orden del ___ es el siguiente.",
+      "answers": [
+        "día"
+      ],
+      "hint": "The agenda is as follows."
+    },
+    {
+      "type": "fill",
+      "prompt": "Si me permiten, quisiera ___ algo.",
+      "answers": [
+        "añadir",
+        "agregar"
+      ],
+      "hint": "If I may, I'd like to add something."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tiene la ___ la señora Díaz.",
+      "answers": [
+        "palabra"
+      ],
+      "hint": "Ms. Díaz has the floor."
+    },
+    {
+      "type": "fill",
+      "prompt": "Proponemos que el plazo ___ de seis meses. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "We propose that the term be six months."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué les parecería si ___ el plazo? (ampliar, nosotros)",
+      "answers": [
+        "ampliáramos",
+        "ampliásemos"
+      ],
+      "hint": "How would you feel if we extended the deadline?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Estaríamos ___ a ofrecer un descuento.",
+      "answers": [
+        "dispuestos"
+      ],
+      "hint": "We'd be willing to offer a discount."
+    },
+    {
+      "type": "fill",
+      "prompt": "Entiendo su ___, pero no podemos aceptarla.",
+      "answers": [
+        "postura",
+        "posición"
+      ],
+      "hint": "I understand your position, but we can't accept it."
+    },
+    {
+      "type": "fill",
+      "prompt": "Creo que podemos llegar a un ___.",
+      "answers": [
+        "acuerdo"
+      ],
+      "hint": "I think we can reach an agreement."
+    },
+    {
+      "type": "fill",
+      "prompt": "Trato ___.",
+      "answers": [
+        "hecho"
+      ],
+      "hint": "Deal."
+    },
+    {
+      "type": "fill",
+      "prompt": "Les haré llegar la propuesta por ___.",
+      "answers": [
+        "escrito"
+      ],
+      "hint": "I'll send you the proposal in writing."
+    },
+    {
+      "type": "mc",
+      "prompt": "*el orden del día* is…",
+      "options": [
+        "the agenda",
+        "the order of the day's meals",
+        "the daily order form",
+        "the day's command"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Politest way to push back:",
+      "options": [
+        "Entiendo su postura, pero no podemos aceptarla.",
+        "No, eso es ridículo.",
+        "Ni loco.",
+        "Olvídenlo."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ¿Qué les parecería si ___ el plazo?",
+      "options": [
+        "ampliáramos",
+        "ampliamos",
+        "ampliemos",
+        "ampliaremos"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Eso lo podemos ver más adelante* means…",
+      "options": [
+        "We can look at that later on.",
+        "We can see that ahead of us.",
+        "We saw that before.",
+        "We can't see that."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Trato hecho* means…",
+      "options": [
+        "Deal.",
+        "Done treatment.",
+        "It's been tried.",
+        "Treat yourself."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I think we can reach an agreement.",
+      "answers": [
+        "Creo que podemos llegar a un acuerdo."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm afraid we can't lower the price any further.",
+      "answers": [
+        "Me temo que no podemos bajar más el precio.",
+        "Me temo que no podemos bajar el precio más."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It seems reasonable to us.",
+      "answers": [
+        "Nos parece razonable."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "If I may, I'd like to add something. (ustedes)",
+      "answers": [
+        "Si me permiten, quisiera añadir algo.",
+        "Si me permiten, quisiera agregar algo.",
+        "Si me permiten, me gustaría añadir algo.",
+        "Si me permiten, me gustaría agregar algo."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"To sum up, we've agreed on three points.\"",
+      "answer": "Para resumir, hemos acordado tres puntos."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"We can look at that later on.\"",
+      "answer": "Eso lo podemos ver más adelante."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"We propose that the term be six months.\"",
+      "answer": "Proponemos que el plazo sea de seis meses."
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "sections": [
+    {
+      "heading": "The state and its institutions",
+      "body": "*El Estado* (the state — capital E), *los poderes del Estado*: *el poder ejecutivo* (the presidency and government), *el poder legislativo* (Congress / Parliament), *el poder judicial* (the courts). *La Constitución* (the constitution), *el tribunal* (the court), *la Corte Suprema* (Supreme Court — LatAm), *el juez / la jueza* (judge), *la fiscalía* (public prosecutor's office), *el fiscal / la fiscal* (prosecutor), *la defensoría del pueblo* (ombudsman)."
+    },
+    {
+      "heading": "Law and justice",
+      "body": "*La ley, el decreto* (decree), *el reglamento* (regulation), *entrar en vigor* (to come into force), *derogar una ley* (to repeal), *promulgar* (to enact). *El delito* (crime), *el acusado / la acusada* (defendant), *la víctima* (always feminine), *el / la abogado/a defensor/a*, *el juicio* (trial), *la sentencia* (ruling), *condenar* (to sentence / convict) vs. *absolver* (to acquit), *la condena* (the sentence), *apelar* (to appeal), *la pena de prisión* (prison sentence), *la presunción de inocencia*, *el Estado de derecho* (rule of law)."
+    },
+    {
+      "heading": "Rights",
+      "body": "*Tener derecho a* + noun / infinitive (to have the right to): *Todos tenemos derecho a la educación.* *Tiene derecho a guardar silencio.* (You have the right to remain silent.) *Los derechos humanos, la libertad de expresión, el derecho al voto, la igualdad ante la ley*. *Vulnerar / violar un derecho* (to violate a right), *garantizar* (to guarantee), *reivindicar* (to claim, demand)."
+    }
+  ],
+  "vocab": [
+    [
+      "el poder judicial",
+      "the judiciary"
+    ],
+    [
+      "el poder legislativo",
+      "the legislature"
+    ],
+    [
+      "el tribunal",
+      "the court"
+    ],
+    [
+      "el juez / la jueza",
+      "the judge"
+    ],
+    [
+      "el fiscal / la fiscal",
+      "the prosecutor"
+    ],
+    [
+      "entrar en vigor",
+      "to come into force"
+    ],
+    [
+      "derogar",
+      "to repeal"
+    ],
+    [
+      "el juicio",
+      "the trial"
+    ],
+    [
+      "la sentencia",
+      "the ruling / verdict"
+    ],
+    [
+      "condenar",
+      "to sentence / convict"
+    ],
+    [
+      "absolver",
+      "to acquit"
+    ],
+    [
+      "apelar",
+      "to appeal"
+    ],
+    [
+      "tener derecho a",
+      "to have the right to"
+    ],
+    [
+      "vulnerar",
+      "to violate (a right)"
+    ],
+    [
+      "garantizar",
+      "to guarantee"
+    ],
+    [
+      "el Estado de derecho",
+      "the rule of law"
+    ]
+  ],
+  "examples": [
+    [
+      "El poder judicial debe ser independiente.",
+      "The judiciary must be independent."
+    ],
+    [
+      "El caso llegó a la Corte Suprema.",
+      "The case reached the Supreme Court."
+    ],
+    [
+      "La jueza escuchó a los testigos.",
+      "The judge heard the witnesses."
+    ],
+    [
+      "La fiscal pidió diez años de prisión.",
+      "The prosecutor asked for ten years in prison."
+    ],
+    [
+      "La nueva ley entra en vigor el lunes.",
+      "The new law comes into force on Monday."
+    ],
+    [
+      "El Congreso derogó el decreto.",
+      "Congress repealed the decree."
+    ],
+    [
+      "El juicio duró tres semanas.",
+      "The trial lasted three weeks."
+    ],
+    [
+      "La sentencia se conocerá mañana.",
+      "The verdict will be announced tomorrow."
+    ],
+    [
+      "Lo condenaron a cinco años de prisión.",
+      "He was sentenced to five years in prison."
+    ],
+    [
+      "Fue absuelta por falta de pruebas.",
+      "She was acquitted for lack of evidence."
+    ],
+    [
+      "La defensa va a apelar.",
+      "The defense is going to appeal."
+    ],
+    [
+      "Todos tenemos derecho a la educación.",
+      "We all have the right to education."
+    ],
+    [
+      "Tiene derecho a guardar silencio.",
+      "You have the right to remain silent."
+    ],
+    [
+      "La medida vulnera la libertad de expresión.",
+      "The measure violates freedom of expression."
+    ],
+    [
+      "La Constitución garantiza la igualdad ante la ley.",
+      "The constitution guarantees equality before the law."
+    ],
+    [
+      "Sin Estado de derecho no hay democracia.",
+      "Without the rule of law there is no democracy."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "El poder ___ debe ser independiente.",
+      "answers": [
+        "judicial"
+      ],
+      "hint": "The judiciary must be independent."
+    },
+    {
+      "type": "fill",
+      "prompt": "La ___ escuchó a los testigos.",
+      "answers": [
+        "jueza",
+        "juez"
+      ],
+      "hint": "The judge (a woman) heard the witnesses."
+    },
+    {
+      "type": "fill",
+      "prompt": "La nueva ley entra en ___ el lunes.",
+      "answers": [
+        "vigor"
+      ],
+      "hint": "The new law comes into force on Monday."
+    },
+    {
+      "type": "fill",
+      "prompt": "El Congreso ___ el decreto. (derogar)",
+      "answers": [
+        "derogó"
+      ],
+      "hint": "Congress repealed the decree."
+    },
+    {
+      "type": "fill",
+      "prompt": "El ___ duró tres semanas.",
+      "answers": [
+        "juicio"
+      ],
+      "hint": "The trial lasted three weeks."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo ___ a cinco años de prisión. (condenar, ellos)",
+      "answers": [
+        "condenaron"
+      ],
+      "hint": "He was sentenced to five years in prison."
+    },
+    {
+      "type": "fill",
+      "prompt": "Fue ___ por falta de pruebas. (absolver)",
+      "answers": [
+        "absuelta"
+      ],
+      "hint": "She was acquitted for lack of evidence."
+    },
+    {
+      "type": "fill",
+      "prompt": "La defensa va a ___.",
+      "answers": [
+        "apelar"
+      ],
+      "hint": "The defense is going to appeal."
+    },
+    {
+      "type": "fill",
+      "prompt": "Todos tenemos ___ a la educación.",
+      "answers": [
+        "derecho"
+      ],
+      "hint": "We all have the right to education."
+    },
+    {
+      "type": "fill",
+      "prompt": "La medida ___ la libertad de expresión. (vulnerar)",
+      "answers": [
+        "vulnera",
+        "viola"
+      ],
+      "hint": "The measure violates freedom of expression."
+    },
+    {
+      "type": "fill",
+      "prompt": "La Constitución ___ la igualdad ante la ley. (garantizar)",
+      "answers": [
+        "garantiza"
+      ],
+      "hint": "The constitution guarantees equality before the law."
+    },
+    {
+      "type": "mc",
+      "prompt": "*absolver* means…",
+      "options": [
+        "to acquit",
+        "to absorb",
+        "to solve",
+        "to convict"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*derogar una ley* means…",
+      "options": [
+        "to repeal a law",
+        "to pass a law",
+        "to break a law",
+        "to interpret a law"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*la sentencia* in a trial is…",
+      "options": [
+        "the ruling / verdict",
+        "a sentence of words",
+        "the jury",
+        "the evidence"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*el Estado de derecho* means…",
+      "options": [
+        "the rule of law",
+        "the right-wing state",
+        "state law only",
+        "the state of the right"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "A man who is a victim is…",
+      "options": [
+        "la víctima",
+        "el víctimo",
+        "el víctima",
+        "la víctimo"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*víctima* is always feminine, whoever it refers to."
+    },
+    {
+      "type": "translate",
+      "prompt": "You have the right to remain silent. (usted)",
+      "answers": [
+        "Tiene derecho a guardar silencio.",
+        "Usted tiene derecho a guardar silencio."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The new law comes into force on Monday.",
+      "answers": [
+        "La nueva ley entra en vigor el lunes."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The trial lasted three weeks.",
+      "answers": [
+        "El juicio duró tres semanas."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Without the rule of law there is no democracy.",
+      "answers": [
+        "Sin Estado de derecho no hay democracia."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The prosecutor asked for ten years in prison.\"",
+      "answer": "La fiscal pidió diez años de prisión."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The case reached the Supreme Court.\"",
+      "answer": "El caso llegó a la Corte Suprema."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The verdict will be announced tomorrow.\"",
+      "answer": "La sentencia se conocerá mañana."
+    }
+  ]
+}

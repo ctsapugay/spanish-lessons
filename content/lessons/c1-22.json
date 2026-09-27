@@ -1,0 +1,70 @@
+{
+  "sections": [
+    {
+      "heading": "Verbs that interpret what was said",
+      "body": "At C1, reporting verbs don't just transmit — they show your reading of the speaker's intention:\n\n- *alegar* (to claim, plead — often an excuse): *Alegó que no había recibido el aviso.*\n- *insinuar* (to hint, insinuate): *Insinuó que yo había mentido.*\n- *sostener / mantener* (to maintain): *Sostiene que el informe es falso.*\n- *argumentar* (to argue a point): *Argumentó que el costo era excesivo.*\n- *matizar* (to qualify, add nuance): *Luego matizó sus palabras.*\n- *recalcar / subrayar* (to stress, underline): *Recalcó que la decisión era definitiva.*\n- *desmentir* (to deny a report publicly): *El ministro desmintió los rumores.*\n- *reconocer / admitir* (to acknowledge): *Reconoció haberse equivocado.*\n- *reprochar* (to reproach): *Le reprochó que no la hubiera apoyado.*\n- *sugerir* — with indicative = to imply; with subjunctive = to suggest: *Los datos sugieren que hay un problema.* vs. *Sugirió que esperáramos.*"
+    },
+    {
+      "heading": "Summarising a text or talk",
+      "body": "*El autor plantea que…* (The author raises / proposes that…), *Según el artículo…*, *El texto aborda el tema de…* (The text deals with…), *En líneas generales, sostiene que…* (Broadly speaking…), *La conferencia giró en torno a…* (The talk revolved around…), *En síntesis…* (In summary…). Use the present tense for what a text says: *El autor afirma…*"
+    }
+  ],
+  "vocab": [
+    ["alegar", "to claim / plead"],
+    ["insinuar", "to hint / insinuate"],
+    ["sostener", "to maintain / hold"],
+    ["argumentar", "to argue (a point)"],
+    ["matizar", "to qualify / add nuance"],
+    ["recalcar", "to stress"],
+    ["desmentir", "to deny (publicly)"],
+    ["reprochar", "to reproach"],
+    ["plantear", "to raise / propose"],
+    ["abordar", "to deal with / tackle"],
+    ["girar en torno a", "to revolve around"],
+    ["en síntesis", "in summary"],
+    ["el rumor", "the rumor"],
+    ["el aviso", "the notice / warning"]
+  ],
+  "examples": [
+    ["Alegó que no había recibido el aviso.", "He claimed he hadn't received the notice."],
+    ["Insinuó que yo había mentido.", "She hinted that I had lied."],
+    ["Sostiene que el informe es falso.", "He maintains that the report is false."],
+    ["Argumentó que el costo era excesivo.", "She argued that the cost was excessive."],
+    ["Luego matizó sus palabras.", "Later he qualified his words."],
+    ["Recalcó que la decisión era definitiva.", "She stressed that the decision was final."],
+    ["El ministro desmintió los rumores.", "The minister denied the rumors."],
+    ["Reconoció haberse equivocado.", "He acknowledged he had been wrong."],
+    ["Le reprochó que no la hubiera apoyado.", "She reproached him for not having supported her."],
+    ["Los datos sugieren que hay un problema.", "The data suggest there's a problem."],
+    ["Sugirió que esperáramos.", "He suggested we wait."],
+    ["El autor plantea que la educación es la clave.", "The author proposes that education is the key."],
+    ["El texto aborda el tema de la desigualdad.", "The text deals with the subject of inequality."],
+    ["La conferencia giró en torno a la inteligencia artificial.", "The talk revolved around artificial intelligence."],
+    ["En síntesis, el autor defiende una reforma profunda.", "In summary, the author defends a deep reform."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "___ que no había recibido el aviso. (alegar, él)", "answers": ["alegó"], "hint": "He claimed he hadn't received the notice."},
+    {"type": "fill", "prompt": "___ que yo había mentido. (insinuar, ella)", "answers": ["insinuó"], "hint": "She hinted that I had lied."},
+    {"type": "fill", "prompt": "___ que el informe es falso. (sostener, él)", "answers": ["sostiene", "mantiene"], "hint": "He maintains that the report is false."},
+    {"type": "fill", "prompt": "Luego ___ sus palabras. (matizar)", "answers": ["matizó"], "hint": "Later he qualified his words."},
+    {"type": "fill", "prompt": "___ que la decisión era definitiva. (recalcar, ella)", "answers": ["recalcó", "subrayó"], "hint": "She stressed that the decision was final."},
+    {"type": "fill", "prompt": "El ministro ___ los rumores. (desmentir)", "answers": ["desmintió"], "hint": "The minister denied the rumors."},
+    {"type": "fill", "prompt": "Le reprochó que no la ___ apoyado.", "answers": ["hubiera", "hubiese"], "hint": "She reproached him for not having supported her."},
+    {"type": "fill", "prompt": "Los datos sugieren que ___ un problema. (haber)", "answers": ["hay"], "hint": "The data suggest there's a problem."},
+    {"type": "fill", "prompt": "Sugirió que ___. (esperar, nosotros)", "answers": ["esperáramos", "esperásemos"], "hint": "He suggested we wait."},
+    {"type": "fill", "prompt": "El texto ___ el tema de la desigualdad. (abordar)", "answers": ["aborda"], "hint": "The text deals with the subject of inequality."},
+    {"type": "fill", "prompt": "La conferencia giró en ___ a la inteligencia artificial.", "answers": ["torno"], "hint": "The talk revolved around artificial intelligence."},
+    {"type": "mc", "prompt": "*desmentir* means…", "options": ["to deny (a report) publicly", "to lie", "to mention again", "to confirm"], "answer": 0},
+    {"type": "mc", "prompt": "*Los datos sugieren que hay un problema* — *sugerir* + indicative means…", "options": ["to imply / indicate", "to recommend", "to order", "to doubt"], "answer": 0},
+    {"type": "mc", "prompt": "*Alegó que no había recibido el aviso* suggests the speaker thinks it's…", "options": ["possibly an excuse", "a proven fact", "a joke", "a question"], "answer": 0},
+    {"type": "mc", "prompt": "*matizar* means…", "options": ["to qualify / add nuance", "to kill", "to paint", "to match"], "answer": 0},
+    {"type": "mc", "prompt": "When summarising what a text says, use…", "options": ["the present: El autor afirma…", "the future: El autor afirmará…", "the conditional: El autor afirmaría…"], "answer": 0},
+    {"type": "translate", "prompt": "The minister denied the rumors.", "answers": ["El ministro desmintió los rumores."]},
+    {"type": "translate", "prompt": "He acknowledged he had been wrong. (use an infinitive)", "answers": ["Reconoció haberse equivocado.", "Reconoció que se había equivocado."]},
+    {"type": "translate", "prompt": "He suggested we wait.", "answers": ["Sugirió que esperáramos.", "Sugirió que esperásemos."]},
+    {"type": "translate", "prompt": "The text deals with the subject of inequality.", "answers": ["El texto aborda el tema de la desigualdad."]},
+    {"type": "build", "prompt": "Put the words in order: \"She argued that the cost was excessive.\"", "answer": "Argumentó que el costo era excesivo."},
+    {"type": "build", "prompt": "Put the words in order: \"The author proposes that education is the key.\"", "answer": "El autor plantea que la educación es la clave."},
+    {"type": "build", "prompt": "Put the words in order: \"In summary, the author defends a deep reform.\"", "answer": "En síntesis, el autor defiende una reforma profunda."}
+  ]
+}

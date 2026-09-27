@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "heading": "Rhetorical questions",
+      "body": "A rhetorical question expects no answer — it makes the listener agree: *¿Quién no ha soñado con viajar?* (Who hasn't dreamed of traveling?) *¿Acaso no merecemos un salario digno?* (Don't we deserve a decent wage? — *acaso* signals a rhetorical question) *¿De qué sirve quejarse?* (What's the point of complaining?) *¿No es hora de actuar?*"
+    },
+    {
+      "heading": "Emphasis and repetition",
+      "body": "- **Triads** (groups of three): *Necesitamos más empleo, más educación y más salud.*\n- **Anaphora** (repeating the start): *Queremos un país justo. Queremos un país seguro. Queremos un país para todos.*\n- **Contrast**: *No se trata de gastar más, sino de gastar mejor.* (It's not about spending more, but about spending better.)\n- **Concession then attack**: *Es cierto que la economía creció. Pero ¿a quién benefició ese crecimiento?*\n- **Appeal to shared values**: *Todos queremos lo mejor para nuestros hijos.*"
+    },
+    {
+      "heading": "Irony",
+      "body": "Irony says the opposite of what's meant, and tone does the work: *¡Qué puntual!* (to someone an hour late). *¡Genial! Otra reunión.* *Sí, claro, y yo soy el Papa.* (Yeah, right, and I'm the Pope.) *¡Menos mal que no iba a llover!* (Good thing it wasn't going to rain!) In writing, *supuestamente* (supposedly) and quotation marks signal distance: *la \"solución\" del gobierno*."
+    }
+  ],
+  "vocab": [
+    ["acaso", "perhaps (in rhetorical questions)"],
+    ["¿de qué sirve…?", "what's the point of…?"],
+    ["merecer", "to deserve"],
+    ["digno / digna", "decent / worthy"],
+    ["no se trata de…, sino de…", "it's not about…, but about…"],
+    ["actuar", "to act"],
+    ["la ironía", "irony"],
+    ["puntual", "punctual"],
+    ["genial", "great"],
+    ["menos mal que", "good thing that"],
+    ["supuestamente", "supposedly"],
+    ["beneficiar", "to benefit"]
+  ],
+  "examples": [
+    ["¿Quién no ha soñado con viajar?", "Who hasn't dreamed of traveling?"],
+    ["¿Acaso no merecemos un salario digno?", "Don't we deserve a decent wage?"],
+    ["¿De qué sirve quejarse?", "What's the point of complaining?"],
+    ["¿No es hora de actuar?", "Isn't it time to act?"],
+    ["Necesitamos más empleo, más educación y más salud.", "We need more jobs, more education and more health care."],
+    ["Queremos un país justo. Queremos un país seguro. Queremos un país para todos.", "We want a fair country. We want a safe country. We want a country for everyone."],
+    ["No se trata de gastar más, sino de gastar mejor.", "It's not about spending more, but about spending better."],
+    ["Es cierto que la economía creció. Pero ¿a quién benefició ese crecimiento?", "It's true the economy grew. But who benefited from that growth?"],
+    ["Todos queremos lo mejor para nuestros hijos.", "We all want the best for our children."],
+    ["¡Qué puntual!", "How punctual! (ironic)"],
+    ["¡Genial! Otra reunión.", "Great! Another meeting. (ironic)"],
+    ["Sí, claro, y yo soy el Papa.", "Yeah, right, and I'm the Pope."],
+    ["¡Menos mal que no iba a llover!", "Good thing it wasn't going to rain! (ironic)"],
+    ["Supuestamente, el problema ya está resuelto.", "Supposedly, the problem is already solved."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "¿___ no merecemos un salario digno?", "answers": ["acaso"], "hint": "Don't we deserve a decent wage?"},
+    {"type": "fill", "prompt": "¿De qué ___ quejarse?", "answers": ["sirve"], "hint": "What's the point of complaining?"},
+    {"type": "fill", "prompt": "¿No es ___ de actuar?", "answers": ["hora"], "hint": "Isn't it time to act?"},
+    {"type": "fill", "prompt": "No se trata de gastar más, ___ de gastar mejor.", "answers": ["sino"], "hint": "It's not about spending more, but about spending better."},
+    {"type": "fill", "prompt": "No se ___ de gastar más, sino de gastar mejor.", "answers": ["trata"], "hint": "It's not about spending more, but about spending better."},
+    {"type": "fill", "prompt": "¿Quién no ha ___ con viajar? (soñar)", "answers": ["soñado"], "hint": "Who hasn't dreamed of traveling?"},
+    {"type": "fill", "prompt": "Pero ¿a quién ___ ese crecimiento? (beneficiar)", "answers": ["benefició"], "hint": "But who benefited from that growth?"},
+    {"type": "fill", "prompt": "¡Menos ___ que no iba a llover!", "answers": ["mal"], "hint": "Good thing it wasn't going to rain! (ironic)"},
+    {"type": "fill", "prompt": "___, el problema ya está resuelto.", "answers": ["supuestamente"], "hint": "Supposedly, the problem is already solved."},
+    {"type": "fill", "prompt": "Todos queremos lo ___ para nuestros hijos.", "answers": ["mejor"], "hint": "We all want the best for our children."},
+    {"type": "fill", "prompt": "Sí, claro, y yo soy el ___.", "answers": ["Papa"], "hint": "Yeah, right, and I'm the Pope."},
+    {"type": "mc", "prompt": "*¡Qué puntual!* said to someone an hour late is…", "options": ["ironic", "a compliment", "a question", "a complaint about yourself"], "answer": 0},
+    {"type": "mc", "prompt": "*Acaso* in a question signals…", "options": ["a rhetorical question", "a real request for information", "a polite request", "a future plan"], "answer": 0},
+    {"type": "mc", "prompt": "*Necesitamos más empleo, más educación y más salud* uses…", "options": ["a triad with repetition", "irony", "a rhetorical question", "hedging"], "answer": 0},
+    {"type": "mc", "prompt": "*Sí, claro, y yo soy el Papa* means…", "options": ["Yeah, right (I don't believe you).", "Yes, of course, I agree.", "I'm very religious.", "I'm the boss here."], "answer": 0},
+    {"type": "mc", "prompt": "Quotation marks in *la \"solución\" del gobierno* show…", "options": ["irony / distance", "a direct quote only", "emphasis of agreement", "a title"], "answer": 0},
+    {"type": "translate", "prompt": "What's the point of complaining?", "answers": ["¿De qué sirve quejarse?"]},
+    {"type": "translate", "prompt": "Isn't it time to act?", "answers": ["¿No es hora de actuar?", "¿No es momento de actuar?"]},
+    {"type": "translate", "prompt": "It's not about spending more, but about spending better.", "answers": ["No se trata de gastar más, sino de gastar mejor."]},
+    {"type": "translate", "prompt": "We all want the best for our children.", "answers": ["Todos queremos lo mejor para nuestros hijos."]},
+    {"type": "build", "prompt": "Put the words in order: \"Who hasn't dreamed of traveling?\"", "answer": "¿Quién no ha soñado con viajar?"},
+    {"type": "build", "prompt": "Put the words in order: \"Great! Another meeting.\"", "answer": "¡Genial! Otra reunión."},
+    {"type": "build", "prompt": "Put the words in order: \"Don't we deserve a decent wage?\"", "answer": "¿Acaso no merecemos un salario digno?"}
+  ]
+}
