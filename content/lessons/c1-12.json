@@ -2,7 +2,7 @@
   "sections": [
     {
       "heading": "Cleft sentences",
-      "body": "To put the spotlight on one element, Spanish uses *ser* + element + relative:\n\n- **Who**: *Fue Juan quien lo dijo.* / *Fue Juan el que lo dijo.* (It was Juan who said it.)\n- **What**: *Lo que necesito es descansar.* (What I need is to rest.) *Es paciencia lo que te falta.*\n- **Where**: *Es aquí donde vivía Frida.* (It's here that Frida lived.)\n- **When**: *Fue en 2010 cuando nos conocimos.*\n- **How**: *Así es como se hace.* (That's how it's done.)\n- **Why**: *Por eso es por lo que no vine.* / colloquially *Por eso fue que no vine.*\n\nThe verb *ser* agrees in tense with the main verb: *Fue Juan quien lo dijo* / *Es Juan quien lo dice.* In Latin America, *fue que* / *es que* (*Fue en 2010 que nos conocimos*) is common in speech; the forms with *cuando, donde, como* are the standard."
+      "body": "To put the spotlight on one element, Spanish uses *ser* + element + relative:\n\n- **Who**: *Fue Juan quien lo dijo.* / *Fue Juan el que lo dijo.* (It was Juan who said it.)\n- **What**: *Lo que necesito es descansar.* (What I need is to rest.) *Es paciencia lo que te falta.*\n- **Where**: *Es aquí donde vivía Frida.* (It's here that Frida lived.)\n- **When**: *Fue en 2010 cuando nos conocimos.*\n- **How**: *Así es como se hace.* (That's how it's done.)\n- **Why**: *Por eso es por lo que no vine.* / colloquially *Por eso fue que no vine.*\n\nThe verb *ser* usually matches the tense of the main verb: *Fue Juan quien lo dijo* / *Es Juan quien lo dice* (though *Es Juan quien lo dijo* is also heard). In Latin America, *fue que* / *es que* (*Fue en 2010 que nos conocimos*) is common in speech; the forms with *cuando, donde, como* are the standard."
     },
     {
       "heading": "Topicalisation",
@@ -14,60 +14,317 @@
     }
   ],
   "vocab": [
-    ["fue … quien", "it was … who"],
-    ["lo que necesito es", "what I need is"],
-    ["es aquí donde", "it's here that"],
-    ["así es como", "that's how"],
-    ["sí que", "really / indeed"],
-    ["lo que se dice", "truly / what you'd call"],
-    ["ni siquiera", "not even"],
-    ["ahora mismo", "right now"],
-    ["el invitado / la invitada", "the guest"],
-    ["la paciencia", "patience"],
-    ["el experto / la experta", "the expert"],
-    ["saludar", "to greet / say hello to"]
+    [
+      "fue … quien",
+      "it was … who"
+    ],
+    [
+      "lo que necesito es",
+      "what I need is"
+    ],
+    [
+      "es aquí donde",
+      "it's here that"
+    ],
+    [
+      "así es como",
+      "that's how"
+    ],
+    [
+      "sí que",
+      "really / indeed"
+    ],
+    [
+      "lo que se dice",
+      "truly / what you'd call"
+    ],
+    [
+      "ni siquiera",
+      "not even"
+    ],
+    [
+      "ahora mismo",
+      "right now"
+    ],
+    [
+      "el invitado / la invitada",
+      "the guest"
+    ],
+    [
+      "la paciencia",
+      "patience"
+    ],
+    [
+      "el experto / la experta",
+      "the expert"
+    ],
+    [
+      "saludar",
+      "to greet / say hello to"
+    ]
   ],
   "examples": [
-    ["Fue Juan quien lo dijo.", "It was Juan who said it."],
-    ["Fue Juan el que lo dijo.", "It was Juan that said it."],
-    ["Lo que necesito es descansar.", "What I need is to rest."],
-    ["Es paciencia lo que te falta.", "It's patience that you're lacking."],
-    ["Es aquí donde vivía Frida.", "It's here that Frida lived."],
-    ["Fue en 2010 cuando nos conocimos.", "It was in 2010 that we met."],
-    ["Así es como se hace.", "That's how it's done."],
-    ["Por eso fue que no vine.", "That's why I didn't come."],
-    ["El carro lo compró Juan.", "It was Juan who bought the car."],
-    ["Ya llegaron los invitados.", "The guests have arrived."],
-    ["A mí no me gusta.", "Me, I don't like it."],
-    ["Esto sí que es un problema.", "Now this really is a problem."],
-    ["No es lo que se dice un experto.", "He's not what you'd call an expert."],
-    ["Ni siquiera me saludó.", "He didn't even say hello to me."],
-    ["Yo mismo lo hice.", "I did it myself."],
-    ["Está bien rico.", "It's really tasty."]
+    [
+      "Fue Juan quien lo dijo.",
+      "It was Juan who said it."
+    ],
+    [
+      "Fue Juan el que lo dijo.",
+      "It was Juan that said it."
+    ],
+    [
+      "Lo que necesito es descansar.",
+      "What I need is to rest."
+    ],
+    [
+      "Es paciencia lo que te falta.",
+      "It's patience that you're lacking."
+    ],
+    [
+      "Es aquí donde vivía Frida.",
+      "It's here that Frida lived."
+    ],
+    [
+      "Fue en 2010 cuando nos conocimos.",
+      "It was in 2010 that we met."
+    ],
+    [
+      "Así es como se hace.",
+      "That's how it's done."
+    ],
+    [
+      "Por eso fue que no vine.",
+      "That's why I didn't come."
+    ],
+    [
+      "El carro lo compró Juan.",
+      "It was Juan who bought the car."
+    ],
+    [
+      "Ya llegaron los invitados.",
+      "The guests have arrived."
+    ],
+    [
+      "A mí no me gusta.",
+      "Me, I don't like it."
+    ],
+    [
+      "Esto sí que es un problema.",
+      "Now this really is a problem."
+    ],
+    [
+      "No es lo que se dice un experto.",
+      "He's not what you'd call an expert."
+    ],
+    [
+      "Ni siquiera me saludó.",
+      "He didn't even say hello to me."
+    ],
+    [
+      "Yo mismo lo hice.",
+      "I did it myself."
+    ],
+    [
+      "Está bien rico.",
+      "It's really tasty."
+    ]
   ],
   "exercises": [
-    {"type": "fill", "prompt": "Fue Juan ___ lo dijo.", "answers": ["quien", "el que"], "hint": "It was Juan who said it."},
-    {"type": "fill", "prompt": "Lo ___ necesito es descansar.", "answers": ["que"], "hint": "What I need is to rest."},
-    {"type": "fill", "prompt": "Es aquí ___ vivía Frida.", "answers": ["donde"], "hint": "It's here that Frida lived."},
-    {"type": "fill", "prompt": "Fue en 2010 ___ nos conocimos.", "answers": ["cuando", "que"], "hint": "It was in 2010 that we met."},
-    {"type": "fill", "prompt": "Así es ___ se hace.", "answers": ["como"], "hint": "That's how it's done."},
-    {"type": "fill", "prompt": "El carro ___ compró Juan.", "answers": ["lo"], "hint": "It was Juan who bought the car."},
-    {"type": "fill", "prompt": "Esto sí ___ es un problema.", "answers": ["que"], "hint": "Now this really is a problem."},
-    {"type": "fill", "prompt": "No es lo que se ___ un experto.", "answers": ["dice"], "hint": "He's not what you'd call an expert."},
-    {"type": "fill", "prompt": "Ni ___ me saludó.", "answers": ["siquiera"], "hint": "He didn't even say hello to me."},
-    {"type": "fill", "prompt": "Yo ___ lo hice.", "answers": ["mismo", "misma"], "hint": "I did it myself."},
-    {"type": "fill", "prompt": "Es paciencia lo que te ___. (faltar)", "answers": ["falta"], "hint": "It's patience that you're lacking."},
-    {"type": "mc", "prompt": "Choose: ___ Juan quien lo dijo ayer.", "options": ["Fue", "Es", "Era", "Será"], "answer": 0, "lang": "es", "explain": "*ser* matches the tense of *dijo*."},
-    {"type": "mc", "prompt": "*El carro lo compró Juan* emphasizes…", "options": ["that it was Juan (new information at the end)", "the car's price", "that Juan sold it", "that the car is new"], "answer": 0},
-    {"type": "mc", "prompt": "Most natural neutral order:", "options": ["Ya llegaron los invitados.", "Los invitados ya llegaron ellos.", "Llegaron ya invitados los."], "answer": 0, "lang": "es"},
-    {"type": "mc", "prompt": "*Ni siquiera me saludó* means…", "options": ["He didn't even say hello to me.", "He barely greeted me.", "He greeted me, too.", "He never greets anyone."], "answer": 0},
-    {"type": "mc", "prompt": "Standard cleft for \"It was in 2010 that we met\":", "options": ["Fue en 2010 cuando nos conocimos.", "Fue en 2010 donde nos conocimos.", "Era en 2010 como nos conocimos."], "answer": 0, "lang": "es"},
-    {"type": "translate", "prompt": "What I need is to rest.", "answers": ["Lo que necesito es descansar."]},
-    {"type": "translate", "prompt": "That's how it's done.", "answers": ["Así es como se hace.", "Así se hace."]},
-    {"type": "translate", "prompt": "He didn't even say hello to me.", "answers": ["Ni siquiera me saludó.", "No me saludó ni siquiera."]},
-    {"type": "translate", "prompt": "It's here that Frida lived.", "answers": ["Es aquí donde vivía Frida.", "Es aquí donde vivió Frida.", "Aquí es donde vivía Frida.", "Aquí es donde vivió Frida."]},
-    {"type": "build", "prompt": "Put the words in order: \"It's patience that you're lacking.\"", "answer": "Es paciencia lo que te falta."},
-    {"type": "build", "prompt": "Put the words in order: \"Now this really is a problem.\"", "answer": "Esto sí que es un problema."},
-    {"type": "build", "prompt": "Put the words in order: \"He's not what you'd call an expert.\"", "answer": "No es lo que se dice un experto."}
+    {
+      "type": "fill",
+      "prompt": "Fue Juan ___ lo dijo.",
+      "answers": [
+        "quien",
+        "el que"
+      ],
+      "hint": "It was Juan who said it."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo ___ necesito es descansar.",
+      "answers": [
+        "que"
+      ],
+      "hint": "What I need is to rest."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es aquí ___ vivía Frida.",
+      "answers": [
+        "donde"
+      ],
+      "hint": "It's here that Frida lived."
+    },
+    {
+      "type": "fill",
+      "prompt": "Fue en 2010 ___ nos conocimos.",
+      "answers": [
+        "cuando",
+        "que"
+      ],
+      "hint": "It was in 2010 that we met."
+    },
+    {
+      "type": "fill",
+      "prompt": "Así es ___ se hace.",
+      "answers": [
+        "como"
+      ],
+      "hint": "That's how it's done."
+    },
+    {
+      "type": "fill",
+      "prompt": "El carro ___ compró Juan.",
+      "answers": [
+        "lo"
+      ],
+      "hint": "It was Juan who bought the car."
+    },
+    {
+      "type": "fill",
+      "prompt": "Esto sí ___ es un problema.",
+      "answers": [
+        "que"
+      ],
+      "hint": "Now this really is a problem."
+    },
+    {
+      "type": "fill",
+      "prompt": "No es lo que se ___ un experto.",
+      "answers": [
+        "dice"
+      ],
+      "hint": "He's not what you'd call an expert."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ni ___ me saludó.",
+      "answers": [
+        "siquiera"
+      ],
+      "hint": "He didn't even say hello to me."
+    },
+    {
+      "type": "fill",
+      "prompt": "Yo ___ lo hice.",
+      "answers": [
+        "mismo",
+        "misma"
+      ],
+      "hint": "I did it myself."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es paciencia lo que te ___. (faltar)",
+      "answers": [
+        "falta"
+      ],
+      "hint": "It's patience that you're lacking."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: ___ Juan quien lo dijo ayer.",
+      "options": [
+        "Fue",
+        "Será",
+        "Fuera",
+        "Sea"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*ser* usually matches the tense of *dijo*; *Es* would also be heard, but *Será, Fuera, Sea* don't work here."
+    },
+    {
+      "type": "mc",
+      "prompt": "*El carro lo compró Juan* emphasizes…",
+      "options": [
+        "that it was Juan (new information at the end)",
+        "the car's price",
+        "that Juan sold it",
+        "that the car is new"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Most natural neutral order:",
+      "options": [
+        "Ya llegaron los invitados.",
+        "Los invitados ya llegaron ellos.",
+        "Llegaron ya invitados los."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Ni siquiera me saludó* means…",
+      "options": [
+        "He didn't even say hello to me.",
+        "He barely greeted me.",
+        "He greeted me, too.",
+        "He never greets anyone."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Standard cleft for \"It was in 2010 that we met\":",
+      "options": [
+        "Fue en 2010 cuando nos conocimos.",
+        "Fue en 2010 donde nos conocimos.",
+        "Era en 2010 como nos conocimos."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "What I need is to rest.",
+      "answers": [
+        "Lo que necesito es descansar."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "That's how it's done.",
+      "answers": [
+        "Así es como se hace.",
+        "Así se hace."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He didn't even say hello to me.",
+      "answers": [
+        "Ni siquiera me saludó.",
+        "No me saludó ni siquiera."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's here that Frida lived.",
+      "answers": [
+        "Es aquí donde vivía Frida.",
+        "Es aquí donde vivió Frida.",
+        "Aquí es donde vivía Frida.",
+        "Aquí es donde vivió Frida."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It's patience that you're lacking.\"",
+      "answer": "Es paciencia lo que te falta."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Now this really is a problem.\"",
+      "answer": "Esto sí que es un problema."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"He's not what you'd call an expert.\"",
+      "answer": "No es lo que se dice un experto."
+    }
   ]
 }

@@ -125,8 +125,8 @@
       "If you don't come, I'll get angry."
     ],
     [
-      "¿Por qué no viniste? Porque estaba enfermo.",
-      "Why didn't you come? Because I was sick."
+      "—¿Por qué no viniste? —Porque estaba enfermo.",
+      "—Why didn't you come? —Because I was sick."
     ],
     [
       "Cantas tan bien que también podrías ser profesional.",
@@ -244,11 +244,11 @@
     },
     {
       "type": "fill",
-      "prompt": "¿___ no viniste? Porque estaba enfermo.",
+      "prompt": "—¿___ no viniste? —Porque estaba enfermo.",
       "answers": [
         "por qué"
       ],
-      "hint": "Why didn't you come? Because I was sick."
+      "hint": "—Why didn't you come? —Because I was sick."
     },
     {
       "type": "fill",
