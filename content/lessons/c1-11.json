@@ -1,0 +1,327 @@
+{
+  "sections": [
+    {
+      "heading": "Ello",
+      "body": "*Ello* is a neuter pronoun meaning \"it / this / that\" referring to a whole idea. It's used after prepositions, mainly in formal writing: *Hubo problemas técnicos y, por ello, se suspendió el evento.* (…and for that reason…) *No quiero hablar de ello.* (I don't want to talk about it.) *Para ello, es necesario…* (To do this, it's necessary…). In speech, *eso* is more common: *No quiero hablar de eso.*"
+    },
+    {
+      "heading": "Clitic doubling",
+      "body": "Spanish often repeats an object with a pronoun:\n\n- **Indirect objects** are almost always doubled: *Le di el libro a Ana.* *Les dije a mis padres la verdad.*\n- **Direct objects placed before the verb** must be doubled: *El libro lo compré ayer.* (The book, I bought it yesterday.) *A María la vi en la fiesta.* *Eso ya lo sé.*\n- **Pronoun objects** (*a mí, a ti, a él*) need the clitic: *Me llamó a mí, no a ti.* (never *Llamó a mí*).\n\nIn parts of Latin America (Río de la Plata, Andes) doubling of direct objects after the verb is also common: *Lo vi a Juan.*"
+    },
+    {
+      "heading": "Leísmo, laísmo, loísmo",
+      "body": "Standard Spanish (and nearly all of Latin America) uses *lo/la* for direct objects and *le* for indirect ones. In central and northern Spain you'll hear:\n\n- **leísmo**: *le* as a direct object for a male person — *Le vi ayer* (= *Lo vi ayer*). Accepted by the RAE for masculine singular people.\n- **laísmo**: *la* as an indirect object for a woman — *La dije la verdad* (= *Le dije la verdad*). Considered incorrect.\n- **loísmo**: *lo* as an indirect object — *Lo dije que viniera* (= *Le dije…*). Considered incorrect.\n\nUse the Latin American system: *lo/la/los/las* (direct), *le/les* (indirect)."
+    },
+    {
+      "heading": "Se lo in Latin America",
+      "body": "When *se lo* has a plural indirect object, many Latin Americans move the plural onto the *lo*: *Se los dije* (= I told them it) instead of *Se lo dije* (standard). Recognize it; the standard form is always correct."
+    }
+  ],
+  "vocab": [
+    [
+      "ello",
+      "it / this (neuter, formal)"
+    ],
+    [
+      "por ello",
+      "for that reason"
+    ],
+    [
+      "para ello",
+      "to do this"
+    ],
+    [
+      "suspender",
+      "to call off / suspend"
+    ],
+    [
+      "el evento",
+      "the event"
+    ],
+    [
+      "técnico / técnica",
+      "technical"
+    ],
+    [
+      "el objeto directo",
+      "the direct object"
+    ],
+    [
+      "el objeto indirecto",
+      "the indirect object"
+    ],
+    [
+      "el leísmo",
+      "using le as a direct object"
+    ],
+    [
+      "la duplicación",
+      "doubling"
+    ],
+    [
+      "correcto / correcta",
+      "correct"
+    ],
+    [
+      "incorrecto / incorrecta",
+      "incorrect"
+    ]
+  ],
+  "examples": [
+    [
+      "Hubo problemas técnicos y, por ello, se suspendió el evento.",
+      "There were technical problems and, for that reason, the event was called off."
+    ],
+    [
+      "No quiero hablar de ello.",
+      "I don't want to talk about it."
+    ],
+    [
+      "Para ello, es necesario un buen plan.",
+      "To do this, a good plan is necessary."
+    ],
+    [
+      "Le di el libro a Ana.",
+      "I gave the book to Ana."
+    ],
+    [
+      "Les dije a mis padres la verdad.",
+      "I told my parents the truth."
+    ],
+    [
+      "El libro lo compré ayer.",
+      "The book, I bought it yesterday."
+    ],
+    [
+      "A María la vi en la fiesta.",
+      "María, I saw her at the party."
+    ],
+    [
+      "Eso ya lo sé.",
+      "I already know that."
+    ],
+    [
+      "Me llamó a mí, no a ti.",
+      "She called me, not you."
+    ],
+    [
+      "Lo vi a Juan en el centro.",
+      "I saw Juan downtown."
+    ],
+    [
+      "Lo vi ayer.",
+      "I saw him yesterday."
+    ],
+    [
+      "Le dije la verdad.",
+      "I told her the truth."
+    ],
+    [
+      "Se lo dije a ellos.",
+      "I told them (it)."
+    ],
+    [
+      "Se los dije.",
+      "I told them (it). (LatAm colloquial)"
+    ],
+    [
+      "Las flores se las regalé a mi abuela.",
+      "The flowers, I gave them to my grandmother."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Hubo problemas técnicos y, por ___, se suspendió el evento.",
+      "answers": [
+        "ello",
+        "eso",
+        "lo tanto"
+      ],
+      "hint": "There were technical problems and, for that reason, the event was called off."
+    },
+    {
+      "type": "fill",
+      "prompt": "No quiero hablar de ___.",
+      "answers": [
+        "ello",
+        "eso"
+      ],
+      "hint": "I don't want to talk about it."
+    },
+    {
+      "type": "fill",
+      "prompt": "Para ___, es necesario un buen plan.",
+      "answers": [
+        "ello",
+        "eso"
+      ],
+      "hint": "To do this, a good plan is necessary."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ di el libro a Ana.",
+      "answers": [
+        "le"
+      ],
+      "hint": "I gave the book to Ana."
+    },
+    {
+      "type": "fill",
+      "prompt": "El libro ___ compré ayer.",
+      "answers": [
+        "lo"
+      ],
+      "hint": "The book, I bought it yesterday."
+    },
+    {
+      "type": "fill",
+      "prompt": "A María ___ vi en la fiesta.",
+      "answers": [
+        "la"
+      ],
+      "hint": "María, I saw her at the party."
+    },
+    {
+      "type": "fill",
+      "prompt": "Eso ya ___ sé.",
+      "answers": [
+        "lo"
+      ],
+      "hint": "I already know that."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ llamó a mí, no a ti.",
+      "answers": [
+        "me"
+      ],
+      "hint": "She called me, not you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Le dije la ___.",
+      "answers": [
+        "verdad"
+      ],
+      "hint": "I told her the truth."
+    },
+    {
+      "type": "fill",
+      "prompt": "Las flores se ___ regalé a mi abuela.",
+      "answers": [
+        "las"
+      ],
+      "hint": "The flowers, I gave them to my grandmother."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ dije a mis padres la verdad.",
+      "answers": [
+        "les"
+      ],
+      "hint": "I told my parents the truth."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct? (object before the verb)",
+      "options": [
+        "El libro lo compré ayer.",
+        "El libro compré ayer.",
+        "El libro le compré ayer."
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "A direct object placed before the verb must be doubled."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is correct? (a stressed pronoun object)",
+      "options": [
+        "Me llamó a mí.",
+        "Llamó a mí.",
+        "Llamó me a mí."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*La dije la verdad* (Spain) is an example of…",
+      "options": [
+        "laísmo — incorrect",
+        "leísmo — accepted",
+        "loísmo — correct",
+        "standard usage"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Latin American standard for \"I saw him yesterday\":",
+      "options": [
+        "Lo vi ayer.",
+        "Le vi ayer.",
+        "La vi ayer."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*ello* is used mainly…",
+      "options": [
+        "after prepositions, in formal writing",
+        "as a subject in speech",
+        "for people only",
+        "in questions"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I already know that. (put \"that\" first)",
+      "answers": [
+        "Eso ya lo sé."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I told my parents the truth.",
+      "answers": [
+        "Les dije a mis padres la verdad.",
+        "Les dije la verdad a mis padres."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "She called me, not you. (tú)",
+      "answers": [
+        "Me llamó a mí, no a ti."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I gave the book to Ana.",
+      "answers": [
+        "Le di el libro a Ana.",
+        "Le di a Ana el libro."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"To do this, a good plan is necessary.\"",
+      "answer": "Para ello, es necesario un buen plan."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"María, I saw her at the party.\"",
+      "answer": "A María la vi en la fiesta."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I saw Juan downtown.\" (Río de la Plata style)",
+      "answer": "Lo vi a Juan en el centro."
+    }
+  ]
+}

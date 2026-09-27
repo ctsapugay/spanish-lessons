@@ -1,0 +1,331 @@
+{
+  "sections": [
+    {
+      "heading": "Mexico",
+      "body": "*¿Qué onda?* (What's up?), *güey / wey* (dude — very informal), *chido* (cool), *padre* (great), *neta* (truth: *¿Neta?* — Really?), *chamba* (job), *lana* (money), *¡Aguas!* (Watch out!), *¡No manches!* (No way! — polite form of a ruder phrase), *ahorita* (in a bit / right now), *fresa* (posh, snobby), *chela* (beer)."
+    },
+    {
+      "heading": "Caribbean, Colombia and Venezuela",
+      "body": "*Chévere* (great), *pana* (buddy — Venezuela, Ecuador), *parce / parcero* (buddy — Colombia), *¿Qué más?* (How's it going? — Colombia), *bacano* (cool — Colombia), *¡Qué vaina!* (What a pain! — Venezuela, Colombia; *vaina* = thing), *guagua* (bus — Cuba, Puerto Rico, Canary Islands; but in Chile *guagua* = baby!), *jevo / jeva* (boyfriend / girlfriend — Puerto Rico, Dominican Republic), *tíguere* (streetwise guy — Dominican Republic)."
+    },
+    {
+      "heading": "Southern Cone and Andes",
+      "body": "**Argentina/Uruguay:** *che* (hey), *boludo* (dude / idiot — depends on tone!), *laburo* (job), *mina* (woman — colloquial), *re* (very: *re lindo*), *¡Qué quilombo!* (What a mess!), *bárbaro* (great).\n**Chile:** *po* (tag after *sí, no, ya*: *Sí, po*), *¿cachai?* (you get it?), *fome* (boring), *pololo / polola* (boyfriend / girlfriend), *pega* (job), *luca* (1,000 pesos).\n**Peru:** *pata* (friend), *chamba* (job), *jato* (house), *bacán* (cool), *causa* (buddy)."
+    },
+    {
+      "heading": "Using slang wisely",
+      "body": "Understand it first; use it only with people you know, in the right country. Many words shift meaning across borders — *coger, pisto, concha* and others can be innocent in one country and vulgar in another. When in doubt, stay neutral."
+    }
+  ],
+  "vocab": [
+    [
+      "¿qué onda?",
+      "what's up? (Mexico)"
+    ],
+    [
+      "chido / chida",
+      "cool (Mexico)"
+    ],
+    [
+      "¿neta?",
+      "really? (Mexico)"
+    ],
+    [
+      "la chamba",
+      "the job (Mexico, Peru)"
+    ],
+    [
+      "¡aguas!",
+      "watch out! (Mexico)"
+    ],
+    [
+      "el parcero / la parcera",
+      "buddy (Colombia)"
+    ],
+    [
+      "bacano / bacana",
+      "cool (Colombia)"
+    ],
+    [
+      "la vaina",
+      "the thing (Venezuela, Colombia)"
+    ],
+    [
+      "la guagua",
+      "the bus (Cuba, PR) / baby (Chile)"
+    ],
+    [
+      "che",
+      "hey (Argentina)"
+    ],
+    [
+      "el laburo",
+      "the job (Argentina)"
+    ],
+    [
+      "re",
+      "very (Argentina)"
+    ],
+    [
+      "fome",
+      "boring (Chile)"
+    ],
+    [
+      "el pololo / la polola",
+      "boyfriend / girlfriend (Chile)"
+    ],
+    [
+      "el pata",
+      "friend (Peru)"
+    ]
+  ],
+  "examples": [
+    [
+      "¿Qué onda? ¿Cómo estás?",
+      "What's up? How are you?"
+    ],
+    [
+      "¡Qué chido tu carro!",
+      "Your car is so cool!"
+    ],
+    [
+      "—Me gané la lotería. —¿Neta?",
+      "—I won the lottery. —Really?"
+    ],
+    [
+      "Encontré una chamba nueva.",
+      "I found a new job."
+    ],
+    [
+      "¡Aguas con el perro!",
+      "Watch out for the dog!"
+    ],
+    [
+      "¿Qué más, parce?",
+      "How's it going, buddy?"
+    ],
+    [
+      "La fiesta estuvo bacana.",
+      "The party was cool."
+    ],
+    [
+      "¡Qué vaina! Se me olvidaron las llaves.",
+      "What a pain! I forgot my keys."
+    ],
+    [
+      "Tomamos la guagua para ir a la playa.",
+      "We took the bus to go to the beach. (Cuba)"
+    ],
+    [
+      "Che, ¿venís esta noche?",
+      "Hey, are you coming tonight? (Argentina)"
+    ],
+    [
+      "Mañana tengo que ir al laburo temprano.",
+      "Tomorrow I have to go to work early. (Argentina)"
+    ],
+    [
+      "La película es re buena.",
+      "The movie is really good. (Argentina)"
+    ],
+    [
+      "La clase estuvo muy fome.",
+      "The class was really boring. (Chile)"
+    ],
+    [
+      "Mi polola es de Valparaíso.",
+      "My girlfriend is from Valparaíso. (Chile)"
+    ],
+    [
+      "Mi pata me prestó su carro.",
+      "My friend lent me his car. (Peru)"
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "*¿Qué onda?* (Mexico) means…",
+      "options": [
+        "What's up?",
+        "What wave?",
+        "What's wrong?",
+        "What time is it?"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*¡Aguas!* (Mexico) means…",
+      "options": [
+        "Watch out!",
+        "Water, please!",
+        "It's raining!",
+        "Cheers!"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "In Chile, *guagua* means…",
+      "options": [
+        "baby",
+        "bus",
+        "dog",
+        "water"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*fome* (Chile) means…",
+      "options": [
+        "boring",
+        "hungry",
+        "famous",
+        "funny"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*laburo* (Argentina) means…",
+      "options": [
+        "job / work",
+        "laboratory",
+        "neighborhood",
+        "party"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*parce* is typical of…",
+      "options": [
+        "Colombia",
+        "Mexico",
+        "Spain",
+        "Argentina"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "¡Qué ___ tu carro!",
+      "answers": [
+        "chido",
+        "padre"
+      ],
+      "hint": "Your car is so cool! (Mexico)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Encontré una ___ nueva.",
+      "answers": [
+        "chamba"
+      ],
+      "hint": "I found a new job. (Mexico)"
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Qué más, ___?",
+      "answers": [
+        "parce",
+        "parcero"
+      ],
+      "hint": "How's it going, buddy? (Colombia)"
+    },
+    {
+      "type": "fill",
+      "prompt": "La fiesta estuvo ___.",
+      "answers": [
+        "bacana"
+      ],
+      "hint": "The party was cool. (Colombia)"
+    },
+    {
+      "type": "fill",
+      "prompt": "¡Qué ___! Se me olvidaron las llaves.",
+      "answers": [
+        "vaina"
+      ],
+      "hint": "What a pain! I forgot my keys. (Venezuela)"
+    },
+    {
+      "type": "fill",
+      "prompt": "___, ¿venís esta noche?",
+      "answers": [
+        "che"
+      ],
+      "hint": "Hey, are you coming tonight? (Argentina)"
+    },
+    {
+      "type": "fill",
+      "prompt": "La película es ___ buena.",
+      "answers": [
+        "re"
+      ],
+      "hint": "The movie is really good. (Argentina)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi ___ es de Valparaíso.",
+      "answers": [
+        "polola"
+      ],
+      "hint": "My girlfriend is from Valparaíso. (Chile)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi ___ me prestó su carro.",
+      "answers": [
+        "pata"
+      ],
+      "hint": "My friend lent me his car. (Peru)"
+    },
+    {
+      "type": "translate",
+      "prompt": "What's up? How are you? (Mexico)",
+      "answers": [
+        "¿Qué onda? ¿Cómo estás?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Watch out for the dog! (Mexico)",
+      "answers": [
+        "¡Aguas con el perro!"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The class was really boring. (Chile)",
+      "answers": [
+        "La clase estuvo muy fome.",
+        "La clase fue muy fome."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Tomorrow I have to go to work early. (Argentina)",
+      "answers": [
+        "Mañana tengo que ir al laburo temprano.",
+        "Mañana tengo que ir temprano al laburo."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"We took the bus to go to the beach.\" (Cuba)",
+      "answer": "Tomamos la guagua para ir a la playa."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"—I won the lottery. —Really?\" (Mexico)",
+      "answer": "—Me gané la lotería. —¿Neta?"
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"What a pain! I forgot my keys.\"",
+      "answer": "¡Qué vaina! Se me olvidaron las llaves."
+    }
+  ]
+}

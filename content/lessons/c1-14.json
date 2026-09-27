@@ -1,0 +1,333 @@
+{
+  "sections": [
+    {
+      "heading": "Impersonal structures",
+      "body": "Academic Spanish avoids *yo* and prefers impersonal forms:\n\n- passive *se*: *Se analizaron 200 casos.* *Se observa una tendencia al alza.*\n- impersonal *se*: *Se considera que…* (It is considered that…)\n- the \"author's we\" (*plural de modestia*): *En este artículo analizamos…* (In this article we analyze…)\n- impersonal expressions: *Cabe señalar que…* (It should be noted that…), *Conviene destacar que…*, *Es preciso tener en cuenta…* (It is necessary to bear in mind…), *Resulta evidente que…*"
+    },
+    {
+      "heading": "Hedging",
+      "body": "Academic writing avoids absolute claims:\n\n*Los resultados parecen indicar que…* (The results seem to indicate that…)\n*Cabe la posibilidad de que* + subjunctive (It is possible that…)\n*Podría afirmarse que…* (It could be said that…)\n*En cierta medida* (to some extent), *en gran medida* (to a great extent)\n*Todo parece indicar que…* (Everything seems to indicate that…)\n*No se descarta que* + subjunctive (It cannot be ruled out that…)"
+    },
+    {
+      "heading": "Structuring an academic text",
+      "body": "*El presente trabajo tiene como objetivo…* (The aim of this paper is…) *En primer lugar, se expone… A continuación, se analiza…* (Next…) *Por último, se presentan las conclusiones.* *Como se ha señalado anteriormente…* (As noted above…) *De acuerdo con García (2019)…* / *Según los autores…* Nominalisation is typical: *la implementación de, el análisis de, la mejora de*."
+    }
+  ],
+  "vocab": [
+    [
+      "cabe señalar que",
+      "it should be noted that"
+    ],
+    [
+      "conviene destacar que",
+      "it is worth highlighting that"
+    ],
+    [
+      "es preciso",
+      "it is necessary"
+    ],
+    [
+      "resulta evidente que",
+      "it is evident that"
+    ],
+    [
+      "parecen indicar",
+      "(they) seem to indicate"
+    ],
+    [
+      "cabe la posibilidad de que",
+      "it is possible that"
+    ],
+    [
+      "en cierta medida",
+      "to some extent"
+    ],
+    [
+      "en gran medida",
+      "to a great extent"
+    ],
+    [
+      "no se descarta que",
+      "it cannot be ruled out that"
+    ],
+    [
+      "a continuación",
+      "next / below"
+    ],
+    [
+      "anteriormente",
+      "previously / above"
+    ],
+    [
+      "la tendencia al alza",
+      "the upward trend"
+    ],
+    [
+      "el artículo",
+      "the article / paper"
+    ],
+    [
+      "la implementación",
+      "the implementation"
+    ]
+  ],
+  "examples": [
+    [
+      "Se analizaron doscientos casos.",
+      "Two hundred cases were analyzed."
+    ],
+    [
+      "Se observa una tendencia al alza.",
+      "An upward trend can be observed."
+    ],
+    [
+      "Se considera que el método es fiable.",
+      "The method is considered reliable."
+    ],
+    [
+      "En este artículo analizamos el impacto de la migración.",
+      "In this article we analyze the impact of migration."
+    ],
+    [
+      "Cabe señalar que la muestra es pequeña.",
+      "It should be noted that the sample is small."
+    ],
+    [
+      "Conviene destacar que los datos son de 2020.",
+      "It is worth highlighting that the data are from 2020."
+    ],
+    [
+      "Es preciso tener en cuenta el contexto.",
+      "It is necessary to bear the context in mind."
+    ],
+    [
+      "Los resultados parecen indicar que el tratamiento funciona.",
+      "The results seem to indicate that the treatment works."
+    ],
+    [
+      "Cabe la posibilidad de que haya otros factores.",
+      "It is possible that there are other factors."
+    ],
+    [
+      "En cierta medida, la hipótesis se confirma.",
+      "To some extent, the hypothesis is confirmed."
+    ],
+    [
+      "No se descarta que el error sea humano.",
+      "It cannot be ruled out that the error is human."
+    ],
+    [
+      "El presente trabajo tiene como objetivo describir el problema.",
+      "The aim of this paper is to describe the problem."
+    ],
+    [
+      "A continuación, se presentan los resultados.",
+      "The results are presented below."
+    ],
+    [
+      "Como se ha señalado anteriormente, la muestra es limitada.",
+      "As noted above, the sample is limited."
+    ],
+    [
+      "La implementación del programa mejoró en gran medida la calidad.",
+      "The implementation of the program greatly improved quality."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Se ___ doscientos casos. (analizar)",
+      "answers": [
+        "analizaron"
+      ],
+      "hint": "Two hundred cases were analyzed."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se observa una tendencia al ___.",
+      "answers": [
+        "alza"
+      ],
+      "hint": "An upward trend can be observed."
+    },
+    {
+      "type": "fill",
+      "prompt": "Cabe ___ que la muestra es pequeña.",
+      "answers": [
+        "señalar",
+        "destacar"
+      ],
+      "hint": "It should be noted that the sample is small."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es ___ tener en cuenta el contexto.",
+      "answers": [
+        "preciso",
+        "necesario"
+      ],
+      "hint": "It is necessary to bear the context in mind."
+    },
+    {
+      "type": "fill",
+      "prompt": "Los resultados parecen ___ que el tratamiento funciona.",
+      "answers": [
+        "indicar"
+      ],
+      "hint": "The results seem to indicate that the treatment works."
+    },
+    {
+      "type": "fill",
+      "prompt": "Cabe la posibilidad de que ___ otros factores. (haber)",
+      "answers": [
+        "haya"
+      ],
+      "hint": "It is possible that there are other factors."
+    },
+    {
+      "type": "fill",
+      "prompt": "En cierta ___, la hipótesis se confirma.",
+      "answers": [
+        "medida"
+      ],
+      "hint": "To some extent, the hypothesis is confirmed."
+    },
+    {
+      "type": "fill",
+      "prompt": "No se descarta que el error ___ humano. (ser)",
+      "answers": [
+        "sea"
+      ],
+      "hint": "It cannot be ruled out that the error is human."
+    },
+    {
+      "type": "fill",
+      "prompt": "A ___, se presentan los resultados.",
+      "answers": [
+        "continuación"
+      ],
+      "hint": "The results are presented below."
+    },
+    {
+      "type": "fill",
+      "prompt": "Como se ha señalado ___, la muestra es limitada.",
+      "answers": [
+        "anteriormente"
+      ],
+      "hint": "As noted above, the sample is limited."
+    },
+    {
+      "type": "fill",
+      "prompt": "El presente trabajo tiene como ___ describir el problema.",
+      "answers": [
+        "objetivo",
+        "fin",
+        "propósito"
+      ],
+      "hint": "The aim of this paper is to describe the problem."
+    },
+    {
+      "type": "mc",
+      "prompt": "Most appropriate for an academic paper:",
+      "options": [
+        "Cabe señalar que la muestra es pequeña.",
+        "Ojo, que la muestra es chiquita.",
+        "Yo creo que la muestra es pequeña, ¿no?",
+        "La muestra es pequeña, punto."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*No se descarta que* is followed by…",
+      "options": [
+        "the subjunctive",
+        "the indicative",
+        "an infinitive only",
+        "a noun only"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*En este artículo analizamos* uses…",
+      "options": [
+        "the author's \"we\"",
+        "a group of researchers only",
+        "the imperative",
+        "the passive"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which expression hedges a claim?",
+      "options": [
+        "Todo parece indicar que…",
+        "Está clarísimo que…",
+        "Es obvio que…",
+        "Sin duda alguna…"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*en gran medida* means…",
+      "options": [
+        "to a great extent",
+        "in a large size",
+        "by a big margin of error",
+        "greatly measured"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "Two hundred cases were analyzed. (passive se)",
+      "answers": [
+        "Se analizaron doscientos casos.",
+        "Se analizaron 200 casos."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The method is considered reliable. (impersonal se)",
+      "answers": [
+        "Se considera que el método es fiable.",
+        "Se considera fiable el método.",
+        "El método se considera fiable."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It is necessary to bear the context in mind. (use es preciso)",
+      "answers": [
+        "Es preciso tener en cuenta el contexto."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The results are presented below. (use a continuación)",
+      "answers": [
+        "A continuación, se presentan los resultados."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"It is worth highlighting that the data are from 2020.\"",
+      "answer": "Conviene destacar que los datos son de 2020."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"In this article we analyze the impact of migration.\"",
+      "answer": "En este artículo analizamos el impacto de la migración."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The implementation of the program greatly improved quality.\"",
+      "answer": "La implementación del programa mejoró en gran medida la calidad."
+    }
+  ]
+}

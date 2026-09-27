@@ -1,0 +1,325 @@
+{
+  "sections": [
+    {
+      "heading": "Counter-argument and restriction",
+      "body": "- *ahora bien* (however, that said — introduces an important objection): *El plan es ambicioso. Ahora bien, ¿quién lo va a pagar?*\n- *con todo / aun así / así y todo* (even so, all the same): *Hubo errores; con todo, el resultado fue positivo.*\n- *eso sí* (mind you — adds a condition or reservation): *Puedes usar mi carro; eso sí, devuélvemelo con gasolina.*\n- *en todo caso* (in any case / at any rate): *No sé si podré ir; en todo caso, te aviso.*\n- *de todas maneras* (anyway)"
+    },
+    {
+      "heading": "Asides, reformulation and conclusion",
+      "body": "- *dicho sea de paso* (incidentally, by the way — formal aside): *El director, dicho sea de paso, no asistió.*\n- *por cierto* (by the way — everyday)\n- *mejor dicho / o más bien* (or rather)\n- *en otras palabras / dicho de otro modo* (in other words)\n- *a fin de cuentas / al fin y al cabo* (when all is said and done)\n- *en definitiva / en suma* (in short, ultimately)\n- *en resumidas cuentas* (to cut a long story short)"
+    },
+    {
+      "heading": "Ordering and emphasising",
+      "body": "- *en primer lugar… en segundo lugar… por último*\n- *por un lado… por otro (lado)* (on the one hand… on the other)\n- *de hecho / en efecto* (in fact / indeed — *en efecto* confirms what was just said)\n- *sobre todo / ante todo* (above all)\n- *es más* (what's more): *No me gusta; es más, me parece peligroso.*"
+    }
+  ],
+  "vocab": [
+    [
+      "ahora bien",
+      "however / that said"
+    ],
+    [
+      "con todo",
+      "even so / all the same"
+    ],
+    [
+      "eso sí",
+      "mind you"
+    ],
+    [
+      "en todo caso",
+      "in any case"
+    ],
+    [
+      "dicho sea de paso",
+      "incidentally"
+    ],
+    [
+      "o más bien",
+      "or rather"
+    ],
+    [
+      "dicho de otro modo",
+      "in other words"
+    ],
+    [
+      "a fin de cuentas",
+      "when all is said and done"
+    ],
+    [
+      "en suma",
+      "in short"
+    ],
+    [
+      "en resumidas cuentas",
+      "to cut a long story short"
+    ],
+    [
+      "en efecto",
+      "indeed"
+    ],
+    [
+      "ante todo",
+      "above all"
+    ],
+    [
+      "es más",
+      "what's more"
+    ],
+    [
+      "asistir",
+      "to attend"
+    ],
+    [
+      "ambicioso / ambiciosa",
+      "ambitious"
+    ]
+  ],
+  "examples": [
+    [
+      "El plan es ambicioso. Ahora bien, ¿quién lo va a pagar?",
+      "The plan is ambitious. That said, who's going to pay for it?"
+    ],
+    [
+      "Hubo errores; con todo, el resultado fue positivo.",
+      "There were mistakes; even so, the result was positive."
+    ],
+    [
+      "Puedes usar mi carro; eso sí, devuélvemelo con gasolina.",
+      "You can use my car; mind you, give it back with gas in it."
+    ],
+    [
+      "No sé si podré ir; en todo caso, te aviso.",
+      "I don't know if I'll be able to go; in any case, I'll let you know."
+    ],
+    [
+      "El director, dicho sea de paso, no asistió.",
+      "The director, incidentally, didn't attend."
+    ],
+    [
+      "Es tímido, o más bien reservado.",
+      "He's shy, or rather reserved."
+    ],
+    [
+      "Dicho de otro modo, no hay dinero.",
+      "In other words, there's no money."
+    ],
+    [
+      "A fin de cuentas, lo importante es la salud.",
+      "When all is said and done, what matters is health."
+    ],
+    [
+      "En suma, fue un año difícil.",
+      "In short, it was a difficult year."
+    ],
+    [
+      "En resumidas cuentas, nos quedamos sin vacaciones.",
+      "To cut a long story short, we ended up without a vacation."
+    ],
+    [
+      "—¿Es verdad que renunció? —En efecto.",
+      "—Is it true he resigned? —Indeed."
+    ],
+    [
+      "Ante todo, gracias por venir.",
+      "First of all, thank you for coming."
+    ],
+    [
+      "No me gusta; es más, me parece peligroso.",
+      "I don't like it; what's more, I think it's dangerous."
+    ],
+    [
+      "Por un lado es barato; por otro, es lento.",
+      "On the one hand it's cheap; on the other, it's slow."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "El plan es ambicioso. Ahora ___, ¿quién lo va a pagar?",
+      "answers": [
+        "bien"
+      ],
+      "hint": "The plan is ambitious. That said, who's going to pay for it?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Hubo errores; con ___, el resultado fue positivo.",
+      "answers": [
+        "todo"
+      ],
+      "hint": "There were mistakes; even so, the result was positive."
+    },
+    {
+      "type": "fill",
+      "prompt": "Puedes usar mi carro; eso ___, devuélvemelo con gasolina.",
+      "answers": [
+        "sí"
+      ],
+      "hint": "You can use my car; mind you, give it back with gas in it."
+    },
+    {
+      "type": "fill",
+      "prompt": "No sé si podré ir; en todo ___, te aviso.",
+      "answers": [
+        "caso"
+      ],
+      "hint": "I don't know if I'll be able to go; in any case, I'll let you know."
+    },
+    {
+      "type": "fill",
+      "prompt": "El director, dicho sea de ___, no asistió.",
+      "answers": [
+        "paso"
+      ],
+      "hint": "The director, incidentally, didn't attend."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es tímido, o más ___ reservado.",
+      "answers": [
+        "bien"
+      ],
+      "hint": "He's shy, or rather reserved."
+    },
+    {
+      "type": "fill",
+      "prompt": "Dicho de otro ___, no hay dinero.",
+      "answers": [
+        "modo"
+      ],
+      "hint": "In other words, there's no money."
+    },
+    {
+      "type": "fill",
+      "prompt": "A fin de ___, lo importante es la salud.",
+      "answers": [
+        "cuentas"
+      ],
+      "hint": "When all is said and done, what matters is health."
+    },
+    {
+      "type": "fill",
+      "prompt": "En resumidas ___, nos quedamos sin vacaciones.",
+      "answers": [
+        "cuentas"
+      ],
+      "hint": "To cut a long story short, we ended up without a vacation."
+    },
+    {
+      "type": "fill",
+      "prompt": "No me gusta; es ___, me parece peligroso.",
+      "answers": [
+        "más"
+      ],
+      "hint": "I don't like it; what's more, I think it's dangerous."
+    },
+    {
+      "type": "fill",
+      "prompt": "Por un lado es barato; por ___, es lento.",
+      "answers": [
+        "otro"
+      ],
+      "hint": "On the one hand it's cheap; on the other, it's slow."
+    },
+    {
+      "type": "mc",
+      "prompt": "*Ahora bien* introduces…",
+      "options": [
+        "an important objection or qualification",
+        "a time reference (right now)",
+        "an example",
+        "a greeting"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Eso sí* in *Puedes usar mi carro; eso sí, devuélvemelo con gasolina* means…",
+      "options": [
+        "mind you",
+        "yes, that one",
+        "that's right",
+        "of course"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*—¿Es verdad que renunció? —En efecto.* The reply means…",
+      "options": [
+        "Indeed.",
+        "In effect, maybe.",
+        "Actually, no.",
+        "It had an effect."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Dicho sea de paso* is…",
+      "options": [
+        "a formal aside (incidentally)",
+        "a conclusion",
+        "a contradiction",
+        "a request"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which one concludes?",
+      "options": [
+        "en suma",
+        "es más",
+        "ahora bien",
+        "eso sí"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "In short, it was a difficult year. (use en suma)",
+      "answers": [
+        "En suma, fue un año difícil."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "First of all, thank you for coming. (use ante todo)",
+      "answers": [
+        "Ante todo, gracias por venir."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "In other words, there's no money. (use dicho de otro modo)",
+      "answers": [
+        "Dicho de otro modo, no hay dinero."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "There were mistakes; even so, the result was positive. (use con todo)",
+      "answers": [
+        "Hubo errores; con todo, el resultado fue positivo."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The director, incidentally, didn't attend.\"",
+      "answer": "El director, dicho sea de paso, no asistió."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"When all is said and done, what matters is health.\"",
+      "answer": "A fin de cuentas, lo importante es la salud."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I don't like it; what's more, I think it's dangerous.\"",
+      "answer": "No me gusta; es más, me parece peligroso."
+    }
+  ]
+}
