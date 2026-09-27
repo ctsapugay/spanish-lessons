@@ -1,0 +1,76 @@
+{
+  "sections": [
+    {
+      "heading": "Openings and closings",
+      "body": "Formal letters and emails use *usted* throughout.\n\n**Openings:** *Estimado señor / Estimada señora:* (note the colon), *Estimados señores:*, *A quien corresponda:* (To whom it may concern — very common in Latin America).\n\n**First line:** *Me dirijo a usted para…* (I am writing to you in order to…), *Por medio de la presente…* (By means of this letter…), *En relación con su correo del 5 de mayo…*\n\n**Closings:** *Quedo a la espera de su respuesta.* (I look forward to your reply.) *Agradezco de antemano su atención.* (Thank you in advance for your attention.) *Sin otro particular, lo/la saluda atentamente,* then *Atentamente,* / *Cordialmente,* + name."
+    },
+    {
+      "heading": "Complaints and requests",
+      "body": "**Complaint:** *Quisiera presentar una queja / un reclamo* (reclamo is the usual LatAm word) *por…* *Lamento informarle que…* (I regret to inform you that…) *No he recibido respuesta.* *Exijo que me devuelvan el dinero.* (I demand a refund.) *De no recibir una solución, me veré obligado/a a…* (Should I not receive a solution, I will be forced to…).\n\n**Request:** *Le agradecería que me enviara…* (I would be grateful if you would send me… — conditional + imperfect subjunctive). *¿Sería tan amable de…?* (Would you be so kind as to…?) *Adjunto le envío…* (Attached please find…)."
+    },
+    {
+      "heading": "Reports",
+      "body": "A report is impersonal: *se* constructions and the passive. *El presente informe tiene como objetivo…* (The aim of this report is…) *Se observó que…* *Se recomienda…* *Cabe destacar que…* (It is worth highlighting that…) *En conclusión, se propone…*"
+    }
+  ],
+  "vocab": [
+    ["estimado / estimada", "dear (formal)"],
+    ["a quien corresponda", "to whom it may concern"],
+    ["dirigirse a", "to address / write to"],
+    ["la presente", "this letter"],
+    ["quedo a la espera", "I look forward to"],
+    ["de antemano", "in advance"],
+    ["atentamente", "sincerely / yours faithfully"],
+    ["el reclamo", "the complaint / claim"],
+    ["la queja", "the complaint"],
+    ["lamentar", "to regret"],
+    ["exigir", "to demand"],
+    ["adjuntar", "to attach"],
+    ["el informe", "the report"],
+    ["cabe destacar", "it is worth highlighting"]
+  ],
+  "examples": [
+    ["Estimada señora López:", "Dear Mrs. López,"],
+    ["A quien corresponda:", "To whom it may concern:"],
+    ["Me dirijo a usted para solicitar información.", "I am writing to you to request information."],
+    ["Por medio de la presente, le informo que renuncio a mi cargo.", "By means of this letter, I inform you that I resign from my position."],
+    ["Quedo a la espera de su respuesta.", "I look forward to your reply."],
+    ["Agradezco de antemano su atención.", "Thank you in advance for your attention."],
+    ["Atentamente, Ana Ruiz", "Sincerely, Ana Ruiz"],
+    ["Quisiera presentar un reclamo por un cobro indebido.", "I would like to file a complaint about an improper charge."],
+    ["Lamento informarle que el producto llegó dañado.", "I regret to inform you that the product arrived damaged."],
+    ["Exijo que me devuelvan el dinero.", "I demand that you refund my money."],
+    ["De no recibir una solución, me veré obligado a acudir a las autoridades.", "Should I not receive a solution, I will be forced to go to the authorities."],
+    ["Le agradecería que me enviara la factura.", "I would be grateful if you would send me the invoice."],
+    ["¿Sería tan amable de llamarme?", "Would you be so kind as to call me?"],
+    ["Adjunto le envío mi currículum.", "Attached please find my résumé."],
+    ["El presente informe tiene como objetivo analizar las ventas.", "The aim of this report is to analyze sales."],
+    ["Cabe destacar que los costos aumentaron.", "It is worth highlighting that costs increased."],
+    ["Se recomienda revisar el presupuesto.", "It is recommended to review the budget."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "___ señora López:", "answers": ["estimada"], "hint": "Dear Mrs. López,"},
+    {"type": "fill", "prompt": "A quien ___:", "answers": ["corresponda"], "hint": "To whom it may concern:"},
+    {"type": "fill", "prompt": "Me ___ a usted para solicitar información.", "answers": ["dirijo"], "hint": "I am writing to you to request information."},
+    {"type": "fill", "prompt": "Quedo a la ___ de su respuesta.", "answers": ["espera"], "hint": "I look forward to your reply."},
+    {"type": "fill", "prompt": "Agradezco de ___ su atención.", "answers": ["antemano"], "hint": "Thank you in advance for your attention."},
+    {"type": "fill", "prompt": "Quisiera presentar un ___ por un cobro indebido.", "answers": ["reclamo"], "hint": "I would like to file a complaint about an improper charge."},
+    {"type": "fill", "prompt": "___ informarle que el producto llegó dañado. (lamentar, yo)", "answers": ["lamento"], "hint": "I regret to inform you that the product arrived damaged."},
+    {"type": "fill", "prompt": "Exijo que me ___ el dinero. (devolver, ustedes)", "answers": ["devuelvan"], "hint": "I demand that you refund my money."},
+    {"type": "fill", "prompt": "Le agradecería que me ___ la factura. (enviar)", "answers": ["enviara", "enviase"], "hint": "I would be grateful if you would send me the invoice."},
+    {"type": "fill", "prompt": "___ le envío mi currículum.", "answers": ["adjunto"], "hint": "Attached please find my résumé."},
+    {"type": "fill", "prompt": "Cabe ___ que los costos aumentaron.", "answers": ["destacar"], "hint": "It is worth highlighting that costs increased."},
+    {"type": "mc", "prompt": "Which is the right register for a formal letter?", "options": ["¿Sería tan amable de llamarme?", "¿Me llamas, porfa?", "Llámame, ¿sí?", "Oye, llámame."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "What punctuation follows *Estimado señor* in Spanish?", "options": ["a colon", "a comma", "an exclamation mark", "nothing"], "answer": 0},
+    {"type": "mc", "prompt": "*Atentamente* is used…", "options": ["to close a formal letter", "to open a formal letter", "to show attention in class", "in text messages"], "answer": 0},
+    {"type": "mc", "prompt": "*El informe* is…", "options": ["the report", "the uniform", "the information desk", "the informer"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: Le agradecería que me ___ la factura.", "options": ["enviara", "envía", "enviará", "envíe"], "answer": 0, "lang": "es", "explain": "Conditional in the main clause → imperfect subjunctive."},
+    {"type": "translate", "prompt": "I look forward to your reply. (formal letter)", "answers": ["Quedo a la espera de su respuesta."]},
+    {"type": "translate", "prompt": "Thank you in advance for your attention. (formal)", "answers": ["Agradezco de antemano su atención.", "Le agradezco de antemano su atención."]},
+    {"type": "translate", "prompt": "It is recommended to review the budget.", "answers": ["Se recomienda revisar el presupuesto."]},
+    {"type": "translate", "prompt": "Would you be so kind as to call me? (usted)", "answers": ["¿Sería tan amable de llamarme?"]},
+    {"type": "build", "prompt": "Put the words in order: \"The aim of this report is to analyze sales.\"", "answer": "El presente informe tiene como objetivo analizar las ventas."},
+    {"type": "build", "prompt": "Put the words in order: \"I regret to inform you that the product arrived damaged.\"", "answer": "Lamento informarle que el producto llegó dañado."},
+    {"type": "build", "prompt": "Put the words in order: \"I am writing to you to request information.\"", "answer": "Me dirijo a usted para solicitar información."}
+  ]
+}

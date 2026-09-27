@@ -1,0 +1,79 @@
+{
+  "sections": [
+    {
+      "heading": "The economy",
+      "body": "Key vocabulary for the news: *la economía crece / se estanca / entra en recesión* (grows / stagnates / goes into recession). *La inflación* (inflation) *sube* and prices rise: *el costo de vida* (cost of living). *El desempleo* (unemployment) — also *la desocupación* in Argentina. *El PIB* (producto interno bruto — GDP). *Los impuestos* (taxes), *la deuda* (debt), *el tipo de cambio* (exchange rate), *la devaluación del peso*."
+    },
+    {
+      "heading": "Business",
+      "body": "*La empresa* (company), *la pyme* (small or medium-sized business), *el emprendedor / la emprendedora* (entrepreneur) and *emprender* (to start a business). *Las ganancias* (profits) vs. *las pérdidas* (losses). *Invertir* (to invest), *la inversión*. *Los clientes, los proveedores* (suppliers), *la competencia* (competition / the competitors). *Negociar un contrato.*"
+    },
+    {
+      "heading": "Working conditions",
+      "body": "*El sueldo / el salario* (salary), *el salario mínimo*, *un aumento* (a raise). *La jornada laboral* (the working day), *tiempo completo / medio tiempo* (full-time / part-time). *Un contrato fijo / temporal* (permanent / temporary). *Despedir* (to fire / lay off) → *el despido*. *Renunciar* (to resign). *El sindicato* (the union), *una huelga* (a strike) — in some countries *un paro*. *Trabajar en negro / en la informalidad* (to work off the books)."
+    }
+  ],
+  "vocab": [
+    ["la inflación", "inflation"],
+    ["el desempleo", "unemployment"],
+    ["los impuestos", "taxes"],
+    ["la deuda", "debt"],
+    ["el tipo de cambio", "the exchange rate"],
+    ["la empresa", "the company"],
+    ["el emprendedor / la emprendedora", "the entrepreneur"],
+    ["las ganancias", "profits"],
+    ["las pérdidas", "losses"],
+    ["invertir", "to invest"],
+    ["el proveedor", "the supplier"],
+    ["el sueldo", "the salary"],
+    ["un aumento", "a raise"],
+    ["despedir", "to fire / lay off"],
+    ["renunciar", "to resign"],
+    ["la huelga", "the strike"],
+    ["el sindicato", "the union"]
+  ],
+  "examples": [
+    ["La inflación subió un cinco por ciento este año.", "Inflation rose five percent this year."],
+    ["El costo de vida está por las nubes.", "The cost of living is sky-high."],
+    ["El desempleo bajó en el último trimestre.", "Unemployment fell in the last quarter."],
+    ["La economía entró en recesión.", "The economy went into recession."],
+    ["Pagamos demasiados impuestos.", "We pay too many taxes."],
+    ["El país tiene una deuda enorme.", "The country has an enormous debt."],
+    ["¿A cuánto está el tipo de cambio?", "What's the exchange rate?"],
+    ["Mi hermana trabaja en una empresa de tecnología.", "My sister works at a tech company."],
+    ["Es una emprendedora con mucho éxito.", "She's a very successful entrepreneur."],
+    ["Este año tuvimos ganancias, no pérdidas.", "This year we had profits, not losses."],
+    ["Quieren invertir en energía solar.", "They want to invest in solar energy."],
+    ["Cambiamos de proveedor porque era muy caro.", "We changed suppliers because it was very expensive."],
+    ["Le pedí un aumento a mi jefa.", "I asked my boss for a raise."],
+    ["Trabajo medio tiempo.", "I work part-time."],
+    ["Despidieron a cincuenta empleados.", "They laid off fifty employees."],
+    ["Renunció porque el sueldo era muy bajo.", "He resigned because the salary was very low."],
+    ["El sindicato convocó una huelga.", "The union called a strike."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "La ___ subió un cinco por ciento este año.", "answers": ["inflación"], "hint": "Inflation rose five percent this year."},
+    {"type": "fill", "prompt": "El ___ bajó en el último trimestre.", "answers": ["desempleo"], "hint": "Unemployment fell in the last quarter."},
+    {"type": "fill", "prompt": "Pagamos demasiados ___.", "answers": ["impuestos"], "hint": "We pay too many taxes."},
+    {"type": "fill", "prompt": "El país tiene una ___ enorme.", "answers": ["deuda"], "hint": "The country has an enormous debt."},
+    {"type": "fill", "prompt": "¿A cuánto está el tipo de ___?", "answers": ["cambio"], "hint": "What's the exchange rate?"},
+    {"type": "fill", "prompt": "Este año tuvimos ___, no pérdidas.", "answers": ["ganancias"], "hint": "This year we had profits, not losses."},
+    {"type": "fill", "prompt": "Quieren ___ en energía solar.", "answers": ["invertir"], "hint": "They want to invest in solar energy."},
+    {"type": "fill", "prompt": "Le pedí un ___ a mi jefa.", "answers": ["aumento"], "hint": "I asked my boss for a raise."},
+    {"type": "fill", "prompt": "___ a cincuenta empleados. (despedir, ellos)", "answers": ["despidieron"], "hint": "They laid off fifty employees."},
+    {"type": "fill", "prompt": "El sindicato convocó una ___.", "answers": ["huelga"], "hint": "The union called a strike."},
+    {"type": "fill", "prompt": "Trabajo medio ___.", "answers": ["tiempo"], "hint": "I work part-time."},
+    {"type": "mc", "prompt": "*renunciar* means…", "options": ["to resign", "to renounce a prize", "to announce", "to renew"], "answer": 0},
+    {"type": "mc", "prompt": "*el proveedor* is…", "options": ["the supplier", "the provider of care", "the customer", "the boss"], "answer": 0},
+    {"type": "mc", "prompt": "*El costo de vida está por las nubes* means…", "options": ["The cost of living is sky-high.", "Life is expensive in the clouds.", "The cost of living is falling.", "Living costs are uncertain."], "answer": 0},
+    {"type": "mc", "prompt": "*La economía entró en recesión* means…", "options": ["The economy went into recession.", "The economy entered a new market.", "The economy recovered.", "The economy grew."], "answer": 0},
+    {"type": "mc", "prompt": "\"She's a successful entrepreneur\" →", "options": ["Es una emprendedora con mucho éxito.", "Es una empresaria de salida.", "Es una empresa exitosa.", "Es emprender con éxito."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "He resigned because the salary was very low.", "answers": ["Renunció porque el sueldo era muy bajo.", "Renunció porque el salario era muy bajo."]},
+    {"type": "translate", "prompt": "My sister works at a tech company.", "answers": ["Mi hermana trabaja en una empresa de tecnología."]},
+    {"type": "translate", "prompt": "We changed suppliers because it was very expensive.", "answers": ["Cambiamos de proveedor porque era muy caro."]},
+    {"type": "translate", "prompt": "The economy went into recession.", "answers": ["La economía entró en recesión."]},
+    {"type": "build", "prompt": "Put the words in order: \"The cost of living is sky-high.\"", "answer": "El costo de vida está por las nubes."},
+    {"type": "build", "prompt": "Put the words in order: \"The union called a strike.\"", "answer": "El sindicato convocó una huelga."},
+    {"type": "build", "prompt": "Put the words in order: \"They want to invest in solar energy.\"", "answer": "Quieren invertir en energía solar."}
+  ]
+}

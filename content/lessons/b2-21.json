@@ -1,0 +1,90 @@
+{
+  "sections": [
+    {
+      "heading": "Prefixes",
+      "body": "Prefixes change meaning in predictable ways:",
+      "table": {
+        "head": ["Prefix", "Meaning", "Examples"],
+        "rows": [
+          ["*des-*", "undo / opposite", "*hacer → deshacer* (to undo), *conocido → desconocido* (unknown), *ordenado → desordenado*"],
+          ["*in- / im- / i-*", "not", "*útil → inútil* (useless), *posible → imposible*, *legal → ilegal*"],
+          ["*re-*", "again", "*leer → releer, hacer → rehacer, utilizar → reutilizar*"],
+          ["*pre-*", "before", "*historia → prehistoria, ver → prever* (to foresee)"],
+          ["*sobre- / super-*", "over / too much", "*sobrevivir* (to survive), *superpoblado* (overpopulated)"],
+          ["*anti- / contra-*", "against", "*antivirus, contradecir* (to contradict)"],
+          ["*co- / con-*", "together", "*compañero, coautor, convivir* (to live together)"]
+        ]
+      }
+    },
+    {
+      "heading": "Suffixes that make nouns and adjectives",
+      "body": "- *-ción / -sión* (action → noun): *organizar → la organización, decidir → la decisión*\n- *-dad / -tad* (quality): *feliz → la felicidad, libre → la libertad*\n- *-miento* (process): *crecer → el crecimiento* (growth)\n- *-ero / -era* (job, container): *el zapatero* (shoemaker), *la panadería → el panadero*, *la azucarera* (sugar bowl)\n- *-able / -ible* (can be done): *comer → comestible* (edible), *lavar → lavable* (washable)\n- *-oso / -osa* (full of): *peligro → peligroso* (dangerous), *ruido → ruidoso* (noisy)\n- *-mente* (adverb): *fácil → fácilmente*"
+    },
+    {
+      "heading": "Diminutives and augmentatives",
+      "body": "Diminutives in *-ito / -ita* (and *-cito* after *-e, -n, -r*) express smallness, affection or politeness. In Latin America they are everywhere: *un cafecito, ahorita* (right now, in a moment — Mexico), *un momentito, cerquita* (very close), *despacito* (nice and slow). Other diminutives: *-illo* (*un poquillo*), *-ico* (Colombia, Costa Rica, Cuba: *chiquitico*).\n\nAugmentatives in *-ón / -ona, -ote / -ota, -azo* make things bigger or stronger, often pejorative: *una casona* (big house), *un grandote* (big guy), *un golpazo* (a huge blow). *-azo* can also mean \"a blow with\": *un portazo* (a door slam), *un codazo* (an elbow jab)."
+    }
+  ],
+  "vocab": [
+    ["deshacer", "to undo / unpack"],
+    ["desconocido / desconocida", "unknown / stranger"],
+    ["inútil", "useless"],
+    ["reutilizar", "to reuse"],
+    ["prever", "to foresee"],
+    ["sobrevivir", "to survive"],
+    ["contradecir", "to contradict"],
+    ["convivir", "to live together"],
+    ["el crecimiento", "growth"],
+    ["peligroso / peligrosa", "dangerous"],
+    ["ruidoso / ruidosa", "noisy"],
+    ["lavable", "washable"],
+    ["ahorita", "right now / in a moment"],
+    ["un portazo", "a door slam"],
+    ["la libertad", "freedom"]
+  ],
+  "examples": [
+    ["Todavía no deshice la maleta.", "I still haven't unpacked my suitcase."],
+    ["Me llamó un número desconocido.", "An unknown number called me."],
+    ["Este aparato es inútil.", "This gadget is useless."],
+    ["Hay que reutilizar las bolsas.", "We need to reuse the bags."],
+    ["Nadie pudo prever la crisis.", "Nobody could foresee the crisis."],
+    ["Sobrevivieron al accidente.", "They survived the accident."],
+    ["No me contradigas.", "Don't contradict me."],
+    ["Convivimos cinco años antes de casarnos.", "We lived together for five years before getting married."],
+    ["El crecimiento de la ciudad fue muy rápido.", "The city's growth was very fast."],
+    ["Es un barrio ruidoso pero no peligroso.", "It's a noisy but not dangerous neighborhood."],
+    ["Esta chaqueta es lavable.", "This jacket is washable."],
+    ["Ahorita vengo.", "I'll be right back."],
+    ["¿Nos tomamos un cafecito?", "Shall we have a little coffee?"],
+    ["La tienda está cerquita.", "The store is very close."],
+    ["Se fue dando un portazo.", "He left, slamming the door."],
+    ["Vivían en una casona antigua.", "They lived in a big old house."],
+    ["La libertad de prensa es fundamental.", "Freedom of the press is fundamental."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Todavía no ___ la maleta. (deshacer, yo)", "answers": ["deshice"], "hint": "I still haven't unpacked my suitcase."},
+    {"type": "fill", "prompt": "Me llamó un número ___.", "answers": ["desconocido"], "hint": "An unknown number called me."},
+    {"type": "fill", "prompt": "Este aparato es ___.", "answers": ["inútil"], "hint": "This gadget is useless."},
+    {"type": "fill", "prompt": "Hay que ___ las bolsas.", "answers": ["reutilizar"], "hint": "We need to reuse the bags."},
+    {"type": "fill", "prompt": "Nadie pudo ___ la crisis.", "answers": ["prever"], "hint": "Nobody could foresee the crisis."},
+    {"type": "fill", "prompt": "___ al accidente. (sobrevivir, ellos)", "answers": ["sobrevivieron"], "hint": "They survived the accident."},
+    {"type": "fill", "prompt": "El ___ de la ciudad fue muy rápido.", "answers": ["crecimiento"], "hint": "The city's growth was very fast."},
+    {"type": "fill", "prompt": "Es un barrio ___ pero no peligroso.", "answers": ["ruidoso"], "hint": "It's a noisy but not dangerous neighborhood."},
+    {"type": "fill", "prompt": "___ vengo.", "answers": ["ahorita"], "hint": "I'll be right back."},
+    {"type": "fill", "prompt": "La tienda está ___. (cerca)", "answers": ["cerquita"], "hint": "The store is very close (use a diminutive)."},
+    {"type": "fill", "prompt": "La ___ de prensa es fundamental.", "answers": ["libertad"], "hint": "Freedom of the press is fundamental."},
+    {"type": "mc", "prompt": "*peligro* (danger) → adjective:", "options": ["peligroso", "peligrable", "peligrador", "peligrería"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*posible* → opposite:", "options": ["imposible", "desposible", "inposible", "antiposible"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*feliz* → noun:", "options": ["la felicidad", "la felización", "el felizmiento", "la feliztad"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*un portazo* is…", "options": ["a door slam", "a big door", "a doorman", "a small door"], "answer": 0},
+    {"type": "mc", "prompt": "*una casona* is…", "options": ["a big house", "a little house", "a house party", "a housewife"], "answer": 0},
+    {"type": "mc", "prompt": "The prefix *re-* in *releer* means…", "options": ["again", "not", "before", "against"], "answer": 0},
+    {"type": "translate", "prompt": "Shall we have a little coffee? (use a diminutive)", "answers": ["¿Nos tomamos un cafecito?", "¿Tomamos un cafecito?"]},
+    {"type": "translate", "prompt": "This jacket is washable.", "answers": ["Esta chaqueta es lavable."]},
+    {"type": "translate", "prompt": "Don't contradict me. (tú)", "answers": ["No me contradigas."]},
+    {"type": "translate", "prompt": "They survived the accident.", "answers": ["Sobrevivieron al accidente."]},
+    {"type": "build", "prompt": "Put the words in order: \"We lived together for five years before getting married.\"", "answer": "Convivimos cinco años antes de casarnos."},
+    {"type": "build", "prompt": "Put the words in order: \"He left, slamming the door.\"", "answer": "Se fue dando un portazo."},
+    {"type": "build", "prompt": "Put the words in order: \"They lived in a big old house.\"", "answer": "Vivían en una casona antigua."}
+  ]
+}

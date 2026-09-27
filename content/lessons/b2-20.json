@@ -6,7 +6,7 @@
     },
     {
       "heading": "Estar de…",
-      "body": "*Estar de* + noun describes a temporary role or situation: *estar de vacaciones* (on vacation), *estar de viaje* (traveling), *estar de pie* (standing), *estar de rodillas* (kneeling), *estar de acuerdo*, *estar de buen / mal humor* (in a good / bad mood), *estar de moda* (in fashion), *estar de luto* (in mourning). And *estar de* + job for a temporary position: *Está de camarero este verano.* (He's working as a waiter this summer.)"
+      "body": "*Estar de* + noun describes a temporary role or situation: *estar de vacaciones* (on vacation), *estar de viaje* (traveling), *estar de pie* (standing), *estar de rodillas* (kneeling), *estar de acuerdo*, *estar de buen / mal humor* (in a good / bad mood), *estar de moda* (in fashion), *estar de luto* (in mourning). And *estar de* + job for a temporary position: *Está de mesero este verano.* (He's working as a waiter this summer.)"
     },
     {
       "heading": "More meaning changes",
@@ -60,7 +60,7 @@
     ["¡Qué alta estás!", "How tall you've gotten!"],
     ["La sopa está salada.", "The soup is salty."],
     ["Estás muy guapa hoy.", "You look very pretty today."],
-    ["Está de camarero este verano.", "He's working as a waiter this summer."]
+    ["Está de mesero este verano.", "He's working as a waiter this summer."]
   ],
   "exercises": [
     {"type": "mc", "prompt": "Choose: La fiesta ___ en mi casa.", "options": ["es", "está"], "answer": 0, "lang": "es", "explain": "Location of an event → *ser*."},

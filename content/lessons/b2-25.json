@@ -1,0 +1,76 @@
+{
+  "sections": [
+    {
+      "heading": "Expressing probability",
+      "body": "Expressions of possibility take the **subjunctive**:\n\n*Es posible / probable que…* — *Es probable que llueva.*\n*Puede (ser) que…* — *Puede que tengan razón.*\n*Quizás / tal vez…* — subjunctive for more doubt, indicative for more certainty: *Quizás venga* (maybe, not sure) / *Quizás viene* (probably).\n\nWith **a lo mejor** (maybe — very common) always use the **indicative**: *A lo mejor llueve mañana.*\n\n*Seguramente* (probably, most likely) + indicative: *Seguramente lo sabe.*"
+    },
+    {
+      "heading": "Hypotheses about the past",
+      "body": "Use the past subjunctive after *es posible que* etc. in the past: *Era posible que hubiera vida en Marte.* For guesses about completed events: *Puede que se haya perdido.* (He may have got lost.) *Habrá salido* (future perfect — he must have gone out)."
+    },
+    {
+      "heading": "Science and technology vocabulary",
+      "body": "*La investigación* (research), *el investigador / la investigadora*, *el experimento, la hipótesis* (same in plural: *las hipótesis*), *comprobar* (to verify), *el descubrimiento* (discovery), *descubrir*, *la inteligencia artificial*, *los datos* (data), *el avance* (advance), *la vacuna* (vaccine), *el cambio climático*, *la energía renovable*, *el laboratorio*."
+    }
+  ],
+  "vocab": [
+    ["es probable que", "it's likely that"],
+    ["puede que", "it may be that"],
+    ["a lo mejor", "maybe"],
+    ["seguramente", "most likely"],
+    ["la investigación", "research"],
+    ["el investigador / la investigadora", "the researcher"],
+    ["la hipótesis", "the hypothesis"],
+    ["comprobar", "to verify / check"],
+    ["el descubrimiento", "the discovery"],
+    ["la inteligencia artificial", "artificial intelligence"],
+    ["los datos", "data"],
+    ["la vacuna", "the vaccine"],
+    ["el cambio climático", "climate change"],
+    ["el laboratorio", "the laboratory"]
+  ],
+  "examples": [
+    ["Es probable que llueva esta tarde.", "It's likely to rain this afternoon."],
+    ["Puede que tengan razón.", "They may be right."],
+    ["Quizás venga mañana.", "Maybe she'll come tomorrow."],
+    ["A lo mejor llueve mañana.", "Maybe it'll rain tomorrow."],
+    ["Seguramente lo sabe.", "He most likely knows."],
+    ["Es posible que la hipótesis sea falsa.", "It's possible the hypothesis is false."],
+    ["Era posible que hubiera vida en Marte.", "It was possible that there was life on Mars."],
+    ["Puede que se haya perdido.", "He may have gotten lost."],
+    ["Habrá salido.", "He must have gone out."],
+    ["La investigación duró diez años.", "The research lasted ten years."],
+    ["Los investigadores comprobaron los resultados.", "The researchers verified the results."],
+    ["Fue un descubrimiento muy importante.", "It was a very important discovery."],
+    ["La inteligencia artificial está cambiando el trabajo.", "Artificial intelligence is changing work."],
+    ["Necesitamos más datos.", "We need more data."],
+    ["La vacuna se desarrolló en un laboratorio de Cuba.", "The vaccine was developed in a lab in Cuba."],
+    ["El cambio climático es un problema global.", "Climate change is a global problem."],
+    ["Es probable que la IA reemplace algunos trabajos.", "AI will likely replace some jobs."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Es probable que ___ esta tarde. (llover)", "answers": ["llueva"], "hint": "It's likely to rain this afternoon."},
+    {"type": "fill", "prompt": "Puede que ___ razón. (tener, ellos)", "answers": ["tengan"], "hint": "They may be right."},
+    {"type": "fill", "prompt": "A lo mejor ___ mañana. (llover)", "answers": ["llueve"], "hint": "Maybe it'll rain tomorrow."},
+    {"type": "fill", "prompt": "Seguramente lo ___. (saber, él)", "answers": ["sabe"], "hint": "He most likely knows."},
+    {"type": "fill", "prompt": "Es posible que la hipótesis ___ falsa. (ser)", "answers": ["sea"], "hint": "It's possible the hypothesis is false."},
+    {"type": "fill", "prompt": "Puede que se ___ perdido.", "answers": ["haya"], "hint": "He may have gotten lost."},
+    {"type": "fill", "prompt": "Era posible que ___ vida en Marte. (haber)", "answers": ["hubiera", "hubiese"], "hint": "It was possible that there was life on Mars."},
+    {"type": "fill", "prompt": "Los investigadores ___ los resultados. (comprobar)", "answers": ["comprobaron"], "hint": "The researchers verified the results."},
+    {"type": "fill", "prompt": "Fue un ___ muy importante.", "answers": ["descubrimiento"], "hint": "It was a very important discovery."},
+    {"type": "fill", "prompt": "Necesitamos más ___.", "answers": ["datos"], "hint": "We need more data."},
+    {"type": "fill", "prompt": "El cambio ___ es un problema global.", "answers": ["climático"], "hint": "Climate change is a global problem."},
+    {"type": "mc", "prompt": "Choose: A lo mejor ___ mañana.", "options": ["llueve", "llueva", "lloviera", "llover"], "answer": 0, "lang": "es", "explain": "*A lo mejor* takes the indicative."},
+    {"type": "mc", "prompt": "Choose: Es probable que ___ esta tarde.", "options": ["llueva", "llueve", "lloverá", "llover"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Habrá salido* expresses…", "options": ["a guess about the past", "a future plan", "an order", "a wish"], "answer": 0},
+    {"type": "mc", "prompt": "The plural of *la hipótesis* is…", "options": ["las hipótesis", "las hipótesises", "las hipótesos", "los hipótesis"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*comprobar* means…", "options": ["to verify", "to buy again", "to prove wrong", "to compare"], "answer": 0},
+    {"type": "translate", "prompt": "They may be right. (use puede que)", "answers": ["Puede que tengan razón."]},
+    {"type": "translate", "prompt": "Artificial intelligence is changing work.", "answers": ["La inteligencia artificial está cambiando el trabajo."]},
+    {"type": "translate", "prompt": "He must have gone out. (future perfect)", "answers": ["Habrá salido."]},
+    {"type": "translate", "prompt": "The research lasted ten years.", "answers": ["La investigación duró diez años."]},
+    {"type": "build", "prompt": "Put the words in order: \"The vaccine was developed in a lab in Cuba.\"", "answer": "La vacuna se desarrolló en un laboratorio de Cuba."},
+    {"type": "build", "prompt": "Put the words in order: \"AI will likely replace some jobs.\"", "answer": "Es probable que la IA reemplace algunos trabajos."},
+    {"type": "build", "prompt": "Put the words in order: \"Maybe she'll come tomorrow.\"", "answer": "Quizás venga mañana."}
+  ]
+}

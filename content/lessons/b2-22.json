@@ -1,0 +1,77 @@
+{
+  "sections": [
+    {
+      "heading": "Presenting and supporting a position",
+      "body": "*Desde mi punto de vista…* (From my point of view…), *Estoy convencido/a de que…* (I'm convinced that…), *Lo que está claro es que…* (What's clear is that…), *Hay que tener en cuenta que…* (We must bear in mind that…), *Los datos demuestran que…* (The data show that…). To support: *Por ejemplo…, Prueba de ello es que…* (Proof of this is that…)."
+    },
+    {
+      "heading": "Conceding and counter-arguing",
+      "body": "Concede first, then counter — this sounds reasonable and persuasive:\n\n*Es verdad que…, pero…* (It's true that…, but…)\n*Tienes razón en que…; sin embargo…* (You're right that…; however…) — note: *tener razón en que* + indicative.\n*Si bien es cierto que…, también…* (While it's true that…, it's also…)\n*Puede que tengas razón, pero…* (You may be right, but…)\n*Admito que…, aunque…*\n\nTo reject firmly: *No estoy nada de acuerdo.* *Eso no tiene nada que ver.* (That has nothing to do with it.) *Al contrario.* *Me parece un argumento muy débil.*"
+    },
+    {
+      "heading": "Hedging and managing the debate",
+      "body": "Hedge to sound less absolute: *en cierto modo* (in a way), *hasta cierto punto* (up to a point), *tal vez me equivoque, pero…* (I may be wrong, but…).\n\nManage turns: *¿Me dejas terminar?* (Will you let me finish?), *Perdona que te interrumpa, pero…* (Sorry to interrupt, but…), *Volviendo al tema…* (Getting back to the topic…), *¿Adónde quieres llegar?* (What are you getting at?)"
+    }
+  ],
+  "vocab": [
+    ["desde mi punto de vista", "from my point of view"],
+    ["estar convencido de que", "to be convinced that"],
+    ["tener en cuenta", "to bear in mind"],
+    ["demostrar", "to show / prove"],
+    ["la prueba", "the proof"],
+    ["si bien", "while / although"],
+    ["admitir", "to admit"],
+    ["débil", "weak"],
+    ["el argumento", "the argument / point"],
+    ["hasta cierto punto", "up to a point"],
+    ["en cierto modo", "in a way"],
+    ["equivocarse", "to be wrong"],
+    ["interrumpir", "to interrupt"],
+    ["el tema", "the topic"]
+  ],
+  "examples": [
+    ["Desde mi punto de vista, el proyecto es necesario.", "From my point of view, the project is necessary."],
+    ["Estoy convencida de que funcionará.", "I'm convinced it will work."],
+    ["Hay que tener en cuenta el costo.", "We have to bear the cost in mind."],
+    ["Los datos demuestran que el consumo bajó.", "The data show that consumption fell."],
+    ["Prueba de ello es que las ventas subieron.", "Proof of this is that sales went up."],
+    ["Es verdad que es caro, pero vale la pena.", "It's true it's expensive, but it's worth it."],
+    ["Tienes razón en que es arriesgado; sin embargo, no hay otra opción.", "You're right that it's risky; however, there's no other option."],
+    ["Si bien es cierto que hay problemas, también hay avances.", "While it's true there are problems, there's also progress."],
+    ["Puede que tengas razón, pero no me convence.", "You may be right, but I'm not convinced."],
+    ["Admito que me equivoqué.", "I admit I was wrong."],
+    ["Eso no tiene nada que ver.", "That has nothing to do with it."],
+    ["Me parece un argumento muy débil.", "It seems like a very weak argument to me."],
+    ["Hasta cierto punto, estoy de acuerdo.", "Up to a point, I agree."],
+    ["Tal vez me equivoque, pero creo que no es buena idea.", "I may be wrong, but I don't think it's a good idea."],
+    ["¿Me dejas terminar?", "Will you let me finish?"],
+    ["Perdona que te interrumpa, pero eso no es así.", "Sorry to interrupt, but that's not how it is."],
+    ["Volviendo al tema, ¿qué proponen ustedes?", "Getting back to the topic, what do you propose?"],
+    ["En cierto modo, los dos tienen razón.", "In a way, you're both right."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Desde mi punto de ___, el proyecto es necesario.", "answers": ["vista"], "hint": "From my point of view, the project is necessary."},
+    {"type": "fill", "prompt": "Estoy ___ de que funcionará.", "answers": ["convencida", "convencido"], "hint": "I'm convinced it will work."},
+    {"type": "fill", "prompt": "Hay que tener en ___ el costo.", "answers": ["cuenta"], "hint": "We have to bear the cost in mind."},
+    {"type": "fill", "prompt": "Los datos ___ que el consumo bajó.", "answers": ["demuestran"], "hint": "The data show that consumption fell."},
+    {"type": "fill", "prompt": "Es verdad que es caro, ___ vale la pena.", "answers": ["pero"], "hint": "It's true it's expensive, but it's worth it."},
+    {"type": "fill", "prompt": "Si ___ es cierto que hay problemas, también hay avances.", "answers": ["bien"], "hint": "While it's true there are problems, there's also progress."},
+    {"type": "fill", "prompt": "Puede que ___ razón, pero no me convence. (tener, tú)", "answers": ["tengas"], "hint": "You may be right, but I'm not convinced."},
+    {"type": "fill", "prompt": "Eso no tiene nada que ___.", "answers": ["ver"], "hint": "That has nothing to do with it."},
+    {"type": "fill", "prompt": "Hasta cierto ___, estoy de acuerdo.", "answers": ["punto"], "hint": "Up to a point, I agree."},
+    {"type": "fill", "prompt": "Perdona que te ___, pero eso no es así. (interrumpir)", "answers": ["interrumpa"], "hint": "Sorry to interrupt, but that's not how it is."},
+    {"type": "fill", "prompt": "Tal vez me ___, pero creo que no es buena idea. (equivocarse)", "answers": ["equivoque"], "hint": "I may be wrong, but I don't think it's a good idea."},
+    {"type": "mc", "prompt": "Best way to concede, then counter:", "options": ["Es verdad que es caro, pero vale la pena.", "Es caro. Punto.", "No es verdad que es caro.", "Es caro, entonces vale la pena."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Hasta cierto punto* means…", "options": ["up to a point", "to a certain place", "at a certain time", "exactly"], "answer": 0},
+    {"type": "mc", "prompt": "*¿Me dejas terminar?* means…", "options": ["Will you let me finish?", "Will you leave me at the end?", "Can I end this?", "Are you finishing?"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: Puede que ___ razón.", "options": ["tengas", "tienes", "tener", "tendrás"], "answer": 0, "lang": "es", "explain": "*Puede que* always takes the subjunctive."},
+    {"type": "mc", "prompt": "*Eso no tiene nada que ver* means…", "options": ["That has nothing to do with it.", "There's nothing to see.", "That doesn't look like anything.", "Nobody has seen that."], "answer": 0},
+    {"type": "translate", "prompt": "I admit I was wrong.", "answers": ["Admito que me equivoqué.", "Admito que estaba equivocado.", "Admito que estaba equivocada."]},
+    {"type": "translate", "prompt": "From my point of view, the project is necessary.", "answers": ["Desde mi punto de vista, el proyecto es necesario."]},
+    {"type": "translate", "prompt": "It seems like a very weak argument to me.", "answers": ["Me parece un argumento muy débil."]},
+    {"type": "translate", "prompt": "In a way, you're both right.", "answers": ["En cierto modo, los dos tienen razón.", "En cierto modo, ustedes dos tienen razón."]},
+    {"type": "build", "prompt": "Put the words in order: \"Will you let me finish?\"", "answer": "¿Me dejas terminar?"},
+    {"type": "build", "prompt": "Put the words in order: \"Getting back to the topic, what do you propose?\"", "answer": "Volviendo al tema, ¿qué proponen ustedes?"},
+    {"type": "build", "prompt": "Put the words in order: \"Proof of this is that sales went up.\"", "answer": "Prueba de ello es que las ventas subieron."}
+  ]
+}
