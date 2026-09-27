@@ -1,0 +1,87 @@
+{
+  "sections": [
+    {
+      "heading": "Why collocations matter",
+      "body": "Collocations are the verb + noun pairs natives always use together. Translating the English verb word by word is one of the most common errors at advanced level: you don't *hacer una decisión*, you *tomas una decisión*.",
+      "table": {
+        "head": ["Verb", "Collocations"],
+        "rows": [
+          ["*tomar*", "*una decisión, medidas* (measures), *en cuenta* (to take into account), *el pelo* (to tease), *apuntes* (notes), *conciencia* (to become aware)"],
+          ["*dar*", "*un paseo* (a walk), *una vuelta* (a stroll / a spin), *las gracias, un consejo, un examen* (LatAm: to take an exam), *miedo, pena* (to cause fear / pity), *a luz* (to give birth), *importancia*"],
+          ["*hacer*", "*una pregunta, caso* (to pay attention), *cola / fila* (to stand in line), *falta* (to be needed), *daño* (to hurt), *una visita, trampa* (to cheat), *un esfuerzo*"],
+          ["*echar*", "*de menos* (to miss), *una mano, la culpa* (to blame), *un vistazo* (to take a look), *una siesta* (LatAm also *tomar una siesta*)"],
+          ["*llevar a cabo*", "to carry out: *llevar a cabo un proyecto / una investigación*"],
+          ["*cometer*", "*un error, un delito* (a crime)"],
+          ["*prestar*", "*atención, ayuda*"],
+          ["*sacar*", "*una foto, una nota* (a grade), *conclusiones, provecho* (to benefit)"],
+          ["*correr*", "*un riesgo* (to run a risk), *prisa* (to be urgent)"]
+        ]
+      }
+    },
+    {
+      "heading": "Adjective and noun pairs",
+      "body": "Some nouns have their own typical adjectives: *una lluvia torrencial* (heavy rain), *un fuerte dolor* (a severe pain), *un grave error* (a serious mistake), *un profundo agradecimiento* (deep gratitude), *una amplia mayoría* (a large majority), *un rotundo éxito* (a resounding success), *una estrecha relación* (a close relationship)."
+    }
+  ],
+  "vocab": [
+    ["tomar medidas", "to take measures"],
+    ["tomar conciencia", "to become aware"],
+    ["dar una vuelta", "to go for a stroll / spin"],
+    ["dar a luz", "to give birth"],
+    ["hacer caso", "to pay attention / listen"],
+    ["hacer falta", "to be needed"],
+    ["echar de menos", "to miss"],
+    ["echar un vistazo", "to take a look"],
+    ["llevar a cabo", "to carry out"],
+    ["cometer un delito", "to commit a crime"],
+    ["sacar provecho", "to benefit / make the most of"],
+    ["correr un riesgo", "to run a risk"],
+    ["torrencial", "torrential"],
+    ["rotundo / rotunda", "resounding / flat"],
+    ["estrecho / estrecha", "close / narrow"]
+  ],
+  "examples": [
+    ["El gobierno tomó medidas para reducir la inflación.", "The government took measures to reduce inflation."],
+    ["Hay que tomar conciencia del problema.", "We need to become aware of the problem."],
+    ["¿Damos una vuelta por el centro?", "Shall we go for a stroll downtown?"],
+    ["Mi prima dio a luz a gemelos.", "My cousin gave birth to twins."],
+    ["Nunca me haces caso.", "You never listen to me."],
+    ["Hace falta más tiempo.", "More time is needed."],
+    ["Te echo de menos.", "I miss you."],
+    ["¿Puedes echarle un vistazo a mi informe?", "Can you take a look at my report?"],
+    ["Llevaron a cabo una investigación completa.", "They carried out a thorough investigation."],
+    ["Cometió un grave error.", "He made a serious mistake."],
+    ["Presta atención, por favor.", "Please pay attention."],
+    ["Saqué una buena nota en el examen.", "I got a good grade on the exam."],
+    ["Hay que sacar provecho de la experiencia.", "We have to make the most of the experience."],
+    ["No quiero correr ese riesgo.", "I don't want to run that risk."],
+    ["Cayó una lluvia torrencial.", "There was torrential rain."],
+    ["La obra fue un rotundo éxito.", "The play was a resounding success."],
+    ["Tienen una relación muy estrecha.", "They have a very close relationship."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "\"to make a decision\" →", "options": ["tomar una decisión", "hacer una decisión", "dar una decisión", "echar una decisión"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"to ask a question\" →", "options": ["hacer una pregunta", "preguntar una pregunta", "tomar una pregunta", "dar una pregunta"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"to make a mistake\" (formal) →", "options": ["cometer un error", "hacer un error", "tomar un error", "dar un error"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Nunca me haces caso* means…", "options": ["You never listen to me.", "You never make my case.", "You never do my things.", "You never marry me."], "answer": 0},
+    {"type": "mc", "prompt": "\"a resounding success\" →", "options": ["un rotundo éxito", "un sonante éxito", "un fuerte éxito", "un grave éxito"], "answer": 0, "lang": "es"},
+    {"type": "fill", "prompt": "El gobierno ___ medidas para reducir la inflación. (tomar)", "answers": ["tomó"], "hint": "The government took measures to reduce inflation."},
+    {"type": "fill", "prompt": "¿Damos una ___ por el centro?", "answers": ["vuelta"], "hint": "Shall we go for a stroll downtown?"},
+    {"type": "fill", "prompt": "Mi prima dio a ___ a gemelos.", "answers": ["luz"], "hint": "My cousin gave birth to twins."},
+    {"type": "fill", "prompt": "Hace ___ más tiempo.", "answers": ["falta"], "hint": "More time is needed."},
+    {"type": "fill", "prompt": "Te echo de ___.", "answers": ["menos"], "hint": "I miss you."},
+    {"type": "fill", "prompt": "¿Puedes echarle un ___ a mi informe?", "answers": ["vistazo"], "hint": "Can you take a look at my report?"},
+    {"type": "fill", "prompt": "Llevaron a ___ una investigación completa.", "answers": ["cabo"], "hint": "They carried out a thorough investigation."},
+    {"type": "fill", "prompt": "___ atención, por favor. (prestar, tú)", "answers": ["presta"], "hint": "Please pay attention."},
+    {"type": "fill", "prompt": "___ una buena nota en el examen. (sacar, yo)", "answers": ["saqué"], "hint": "I got a good grade on the exam."},
+    {"type": "fill", "prompt": "No quiero ___ ese riesgo.", "answers": ["correr"], "hint": "I don't want to run that risk."},
+    {"type": "fill", "prompt": "Tienen una relación muy ___.", "answers": ["estrecha", "cercana"], "hint": "They have a very close relationship."},
+    {"type": "translate", "prompt": "I miss you. (tú)", "answers": ["Te echo de menos.", "Te extraño."]},
+    {"type": "translate", "prompt": "He made a serious mistake.", "answers": ["Cometió un grave error.", "Cometió un error grave."]},
+    {"type": "translate", "prompt": "We need to become aware of the problem. (use hay que)", "answers": ["Hay que tomar conciencia del problema."]},
+    {"type": "translate", "prompt": "You never listen to me. (tú, use hacer caso)", "answers": ["Nunca me haces caso.", "No me haces caso nunca."]},
+    {"type": "build", "prompt": "Put the words in order: \"We have to make the most of the experience.\"", "answer": "Hay que sacar provecho de la experiencia."},
+    {"type": "build", "prompt": "Put the words in order: \"The play was a resounding success.\"", "answer": "La obra fue un rotundo éxito."},
+    {"type": "build", "prompt": "Put the words in order: \"There was torrential rain.\"", "answer": "Cayó una lluvia torrencial."}
+  ]
+}

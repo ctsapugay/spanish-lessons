@@ -1,0 +1,68 @@
+{
+  "sections": [
+    {
+      "heading": "Idioms with body parts",
+      "body": "- *no tener ni pies ni cabeza* — to make no sense at all\n- *hablar por los codos* — to talk nonstop\n- *tener mala leche* — to be mean / have bad luck (varies by country; in Mexico *mala leche* = bad luck or bad intentions)\n- *echar(le) el ojo a algo* — to have your eye on something\n- *con el corazón en la mano* — sincerely, openly\n- *poner el grito en el cielo* — to hit the roof, protest loudly\n- *estar con el agua al cuello* — to be up to your neck (in trouble / debt)\n- *costar sangre, sudor y lágrimas* — to take blood, sweat and tears"
+    },
+    {
+      "heading": "Proverbs (refranes)",
+      "body": "Proverbs are used a lot in everyday conversation, often just the first half:\n\n- *Más vale tarde que nunca.* — Better late than never.\n- *En boca cerrada no entran moscas.* — Silence is golden (lit. flies don't enter a closed mouth).\n- *Camarón que se duerme se lo lleva la corriente.* — You snooze, you lose (lit. the shrimp that falls asleep is carried off by the current). Very Latin American.\n- *Dime con quién andas y te diré quién eres.* — A man is known by the company he keeps.\n- *No hay mal que por bien no venga.* — Every cloud has a silver lining.\n- *Más vale pájaro en mano que cien volando.* — A bird in the hand is worth two in the bush.\n- *A caballo regalado no se le mira el diente.* — Don't look a gift horse in the mouth.\n- *Del dicho al hecho hay mucho trecho.* — Easier said than done."
+    }
+  ],
+  "vocab": [
+    ["no tener ni pies ni cabeza", "to make no sense at all"],
+    ["hablar por los codos", "to talk nonstop"],
+    ["echar el ojo", "to have your eye on"],
+    ["poner el grito en el cielo", "to hit the roof"],
+    ["estar con el agua al cuello", "to be up to your neck"],
+    ["el refrán", "the proverb"],
+    ["más vale", "it's better"],
+    ["la mosca", "the fly"],
+    ["el camarón", "the shrimp"],
+    ["la corriente", "the current"],
+    ["el trecho", "the distance / stretch"],
+    ["regalado / regalada", "given as a gift"],
+    ["el sudor", "sweat"]
+  ],
+  "examples": [
+    ["Ese plan no tiene ni pies ni cabeza.", "That plan makes no sense at all."],
+    ["Mi tía habla por los codos.", "My aunt talks nonstop."],
+    ["Le eché el ojo a esa chaqueta.", "I've got my eye on that jacket."],
+    ["Cuando vio la cuenta, puso el grito en el cielo.", "When he saw the bill, he hit the roof."],
+    ["Con tantas deudas, estamos con el agua al cuello.", "With so many debts, we're up to our necks."],
+    ["Terminar la tesis me costó sangre, sudor y lágrimas.", "Finishing my thesis took blood, sweat and tears."],
+    ["Llegaste, por fin. Más vale tarde que nunca.", "You made it, at last. Better late than never."],
+    ["No digas nada: en boca cerrada no entran moscas.", "Don't say anything: silence is golden."],
+    ["Apúrate, que camarón que se duerme se lo lleva la corriente.", "Hurry up — you snooze, you lose."],
+    ["Dime con quién andas y te diré quién eres.", "Tell me who your friends are and I'll tell you who you are."],
+    ["Perdí el trabajo, pero no hay mal que por bien no venga.", "I lost my job, but every cloud has a silver lining."],
+    ["Acepta la oferta: más vale pájaro en mano que cien volando.", "Take the offer: a bird in the hand is worth two in the bush."],
+    ["A caballo regalado no se le mira el diente.", "Don't look a gift horse in the mouth."],
+    ["Del dicho al hecho hay mucho trecho.", "Easier said than done."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Ese plan no tiene ni pies ni ___.", "answers": ["cabeza"], "hint": "That plan makes no sense at all."},
+    {"type": "fill", "prompt": "Mi tía habla por los ___.", "answers": ["codos"], "hint": "My aunt talks nonstop."},
+    {"type": "fill", "prompt": "Le eché el ___ a esa chaqueta.", "answers": ["ojo"], "hint": "I've got my eye on that jacket."},
+    {"type": "fill", "prompt": "Cuando vio la cuenta, puso el grito en el ___.", "answers": ["cielo"], "hint": "When he saw the bill, he hit the roof."},
+    {"type": "fill", "prompt": "Con tantas deudas, estamos con el agua al ___.", "answers": ["cuello"], "hint": "With so many debts, we're up to our necks."},
+    {"type": "fill", "prompt": "Más vale tarde que ___.", "answers": ["nunca"], "hint": "Better late than never."},
+    {"type": "fill", "prompt": "En boca cerrada no entran ___.", "answers": ["moscas"], "hint": "Silence is golden."},
+    {"type": "fill", "prompt": "Camarón que se duerme se lo lleva la ___.", "answers": ["corriente"], "hint": "You snooze, you lose."},
+    {"type": "fill", "prompt": "No hay mal que por ___ no venga.", "answers": ["bien"], "hint": "Every cloud has a silver lining."},
+    {"type": "fill", "prompt": "Más vale pájaro en mano que cien ___.", "answers": ["volando"], "hint": "A bird in the hand is worth two in the bush."},
+    {"type": "fill", "prompt": "Del dicho al hecho hay mucho ___.", "answers": ["trecho"], "hint": "Easier said than done."},
+    {"type": "mc", "prompt": "*Hablar por los codos* means…", "options": ["to talk nonstop", "to talk with your hands", "to whisper", "to lie"], "answer": 0},
+    {"type": "mc", "prompt": "*Poner el grito en el cielo* means…", "options": ["to hit the roof", "to pray loudly", "to sing", "to call for help"], "answer": 0},
+    {"type": "mc", "prompt": "*Camarón que se duerme se lo lleva la corriente* means…", "options": ["You snooze, you lose.", "Sleep is important.", "Shrimp are lazy.", "Go with the flow."], "answer": 0},
+    {"type": "mc", "prompt": "\"Easier said than done\" →", "options": ["Del dicho al hecho hay mucho trecho.", "Más vale tarde que nunca.", "Dicho y hecho.", "En boca cerrada no entran moscas."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*No tener ni pies ni cabeza* means…", "options": ["to make no sense at all", "to be disabled", "to be lost", "to have no boss"], "answer": 0},
+    {"type": "translate", "prompt": "Better late than never.", "answers": ["Más vale tarde que nunca."]},
+    {"type": "translate", "prompt": "Don't look a gift horse in the mouth.", "answers": ["A caballo regalado no se le mira el diente.", "A caballo regalado no le mires el diente."]},
+    {"type": "translate", "prompt": "Finishing my thesis took blood, sweat and tears.", "answers": ["Terminar la tesis me costó sangre, sudor y lágrimas.", "Terminar mi tesis me costó sangre, sudor y lágrimas."]},
+    {"type": "translate", "prompt": "My aunt talks nonstop. (idiom)", "answers": ["Mi tía habla por los codos."]},
+    {"type": "build", "prompt": "Put the words in order: \"Tell me who your friends are and I'll tell you who you are.\"", "answer": "Dime con quién andas y te diré quién eres."},
+    {"type": "build", "prompt": "Put the words in order: \"I lost my job, but every cloud has a silver lining.\"", "answer": "Perdí el trabajo, pero no hay mal que por bien no venga."},
+    {"type": "build", "prompt": "Put the words in order: \"With so many debts, we're up to our necks.\"", "answer": "Con tantas deudas, estamos con el agua al cuello."}
+  ]
+}

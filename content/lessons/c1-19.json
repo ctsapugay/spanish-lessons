@@ -1,0 +1,94 @@
+{
+  "sections": [
+    {
+      "heading": "Classic false friends",
+      "body": "",
+      "table": {
+        "head": ["Spanish", "Means", "Not…", "For that, say"],
+        "rows": [
+          ["*embarazada*", "pregnant", "embarrassed", "*avergonzado/a, apenado/a* (LatAm)"],
+          ["*realizar*", "to carry out", "to realize", "*darse cuenta*"],
+          ["*actualmente*", "currently", "actually", "*en realidad*"],
+          ["*asistir*", "to attend", "to assist", "*ayudar*"],
+          ["*librería*", "bookstore", "library", "*biblioteca*"],
+          ["*carpeta*", "folder", "carpet", "*alfombra*"],
+          ["*constipado/a*", "having a cold (Spain)", "constipated", "*estreñido/a*"],
+          ["*molestar*", "to bother", "to molest", "*abusar de*"],
+          ["*sensible*", "sensitive", "sensible", "*sensato/a*"],
+          ["*éxito*", "success", "exit", "*salida*"],
+          ["*recordar*", "to remember / remind", "to record", "*grabar*"],
+          ["*soportar*", "to put up with / bear", "to support", "*apoyar*"],
+          ["*introducir*", "to insert / bring in", "to introduce (a person)", "*presentar*"],
+          ["*pretender*", "to intend / try to", "to pretend", "*fingir*"]
+        ]
+      }
+    },
+    {
+      "heading": "Anglicisms to avoid in careful Spanish",
+      "body": "Some calques from English are common in the US and online, but are best avoided in formal Spanish:\n\n- *aplicar para un trabajo* → *solicitar un trabajo / postularse*\n- *llamar para atrás* → *devolver la llamada*\n- *hacer sentido* → *tener sentido*\n- *tomar lugar* → *tener lugar* (to take place)\n- *en base a* → *con base en / basándose en* (accepted but disliked by style guides)\n- *es por eso que* → *por eso* (fine in LatAm speech, less so in formal writing)\n- overuse of the passive with *ser* (*fue dicho que*) → *se dijo que*"
+    }
+  ],
+  "vocab": [
+    ["avergonzado / avergonzada", "embarrassed / ashamed"],
+    ["apenado / apenada", "embarrassed (LatAm)"],
+    ["la librería", "the bookstore"],
+    ["la biblioteca", "the library"],
+    ["la carpeta", "the folder"],
+    ["la alfombra", "the carpet / rug"],
+    ["sensible", "sensitive"],
+    ["sensato / sensata", "sensible"],
+    ["grabar", "to record"],
+    ["soportar", "to put up with"],
+    ["apoyar", "to support"],
+    ["pretender", "to intend / try to"],
+    ["fingir", "to pretend"],
+    ["postularse", "to apply (for a job / post)"],
+    ["tener lugar", "to take place"]
+  ],
+  "examples": [
+    ["Estoy embarazada de tres meses.", "I'm three months pregnant."],
+    ["Me sentí muy apenada por el error.", "I felt very embarrassed about the mistake."],
+    ["Realizaron una encuesta a mil personas.", "They carried out a survey of a thousand people."],
+    ["Asistí a una conferencia sobre economía.", "I attended a lecture on economics."],
+    ["Compré el libro en una librería del centro.", "I bought the book at a bookstore downtown."],
+    ["Estudio en la biblioteca todas las tardes.", "I study at the library every afternoon."],
+    ["Guardé los documentos en una carpeta.", "I saved the documents in a folder."],
+    ["Es un niño muy sensible.", "He's a very sensitive child."],
+    ["Fue una decisión sensata.", "It was a sensible decision."],
+    ["Recuérdame que llame a mi madre.", "Remind me to call my mother."],
+    ["Grabamos la entrevista.", "We recorded the interview."],
+    ["No soporto el ruido.", "I can't stand the noise."],
+    ["Mis padres siempre me apoyaron.", "My parents always supported me."],
+    ["¿Qué pretendes hacer con eso?", "What do you intend to do with that?"],
+    ["Fingió estar enfermo.", "He pretended to be sick."],
+    ["Me postulé para el puesto.", "I applied for the position."],
+    ["La reunión tendrá lugar el lunes.", "The meeting will take place on Monday."],
+    ["Eso no tiene sentido.", "That doesn't make sense."],
+    ["Te devuelvo la llamada en cinco minutos.", "I'll call you back in five minutes."]
+  ],
+  "exercises": [
+    {"type": "mc", "prompt": "\"I was very embarrassed\" →", "options": ["Estaba muy avergonzada.", "Estaba muy embarazada.", "Estaba muy realizada.", "Estaba muy sensible."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*librería* means…", "options": ["bookstore", "library", "bookshelf", "liberty"], "answer": 0},
+    {"type": "mc", "prompt": "\"That doesn't make sense\" (standard) →", "options": ["Eso no tiene sentido.", "Eso no hace sentido.", "Eso no da sentido.", "Eso no toma sentido."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"He pretended to be sick\" →", "options": ["Fingió estar enfermo.", "Pretendió estar enfermo.", "Realizó estar enfermo.", "Soportó estar enfermo."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*No soporto el ruido* means…", "options": ["I can't stand the noise.", "I don't support the noise.", "I don't make noise.", "I don't hear the noise."], "answer": 0},
+    {"type": "mc", "prompt": "*sensato* means…", "options": ["sensible", "sensitive", "sensual", "sensational"], "answer": 0},
+    {"type": "fill", "prompt": "Me sentí muy ___ por el error.", "answers": ["apenada", "avergonzada", "apenado", "avergonzado"], "hint": "I felt very embarrassed about the mistake."},
+    {"type": "fill", "prompt": "___ una encuesta a mil personas. (realizar, ellos)", "answers": ["realizaron"], "hint": "They carried out a survey of a thousand people."},
+    {"type": "fill", "prompt": "___ a una conferencia sobre economía. (asistir, yo)", "answers": ["asistí"], "hint": "I attended a lecture on economics."},
+    {"type": "fill", "prompt": "Estudio en la ___ todas las tardes.", "answers": ["biblioteca"], "hint": "I study at the library every afternoon."},
+    {"type": "fill", "prompt": "Guardé los documentos en una ___.", "answers": ["carpeta"], "hint": "I saved the documents in a folder."},
+    {"type": "fill", "prompt": "Fue una decisión ___.", "answers": ["sensata"], "hint": "It was a sensible decision."},
+    {"type": "fill", "prompt": "___ la entrevista. (grabar, nosotros)", "answers": ["grabamos"], "hint": "We recorded the interview."},
+    {"type": "fill", "prompt": "Mis padres siempre me ___. (apoyar)", "answers": ["apoyaron"], "hint": "My parents always supported me."},
+    {"type": "fill", "prompt": "Me ___ para el puesto. (postularse)", "answers": ["postulé"], "hint": "I applied for the position."},
+    {"type": "fill", "prompt": "La reunión tendrá ___ el lunes.", "answers": ["lugar"], "hint": "The meeting will take place on Monday."},
+    {"type": "translate", "prompt": "I'll call you back in five minutes. (tú)", "answers": ["Te devuelvo la llamada en cinco minutos.", "Te llamo en cinco minutos."]},
+    {"type": "translate", "prompt": "I'm three months pregnant.", "answers": ["Estoy embarazada de tres meses."]},
+    {"type": "translate", "prompt": "He's a very sensitive child.", "answers": ["Es un niño muy sensible."]},
+    {"type": "translate", "prompt": "Remind me to call my mother. (tú)", "answers": ["Recuérdame que llame a mi madre.", "Recuérdame llamar a mi madre.", "Recuérdame que llame a mi mamá.", "Recuérdame llamar a mi mamá."]},
+    {"type": "build", "prompt": "Put the words in order: \"I bought the book at a bookstore downtown.\"", "answer": "Compré el libro en una librería del centro."},
+    {"type": "build", "prompt": "Put the words in order: \"What do you intend to do with that?\"", "answer": "¿Qué pretendes hacer con eso?"},
+    {"type": "build", "prompt": "Put the words in order: \"I can't stand the noise.\"", "answer": "No soporto el ruido."}
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "sections": [
+    {
+      "heading": "Pairs that trip up advanced learners",
+      "body": "",
+      "table": {
+        "head": ["Words", "Difference"],
+        "rows": [
+          ["*ver / mirar / observar*", "*ver* = to see (perceive); *mirar* = to look at (intentionally); *observar* = to observe closely: *Miré por la ventana pero no vi nada.*"],
+          ["*oír / escuchar*", "*oír* = to hear; *escuchar* = to listen: *Te oigo, pero no te escucho.*"],
+          ["*pedir / preguntar*", "*pedir* = to ask for something / someone to do; *preguntar* = to ask a question: *Le pregunté la hora y le pedí un favor.*"],
+          ["*saber / conocer*", "*saber* = know facts / how to; *conocer* = be familiar with, meet: *Sé dónde vive, pero no lo conozco.*"],
+          ["*llevar / traer*", "*llevar* = take (away from speaker); *traer* = bring (toward speaker): *Tráeme agua y llévate esto.*"],
+          ["*quedar / quedarse*", "*quedar* = to be left / to arrange to meet / to fit; *quedarse* = to stay: *Quedan dos. Quedamos a las cinco. Me quedo aquí.*"],
+          ["*tardar / llevar*", "*tardar* = to take (time — the subject is the person or thing); *llevar* = to have been (duration so far): *Tardé una hora. Llevo una hora aquí.*"],
+          ["*realizar / darse cuenta*", "*realizar* = to carry out; \"to realize\" is *darse cuenta*"],
+          ["*éxito / salida*", "*éxito* = success; \"exit\" is *salida*"],
+          ["*lograr / conseguir / alcanzar*", "all \"achieve\": *lograr* + infinitive (manage to), *conseguir* (obtain / manage), *alcanzar* (reach a goal / level)"]
+        ]
+      }
+    },
+    {
+      "heading": "Register differences",
+      "body": "Often one word is neutral and another formal: *empezar / comenzar / iniciar*, *terminar / finalizar / concluir*, *usar / utilizar / emplear*, *decir / afirmar / señalar*, *pedir / solicitar*, *ayudar / asistir* (in formal meaning), *buscar / indagar* (to investigate). Use the formal one in writing; in speech it may sound stiff."
+    }
+  ],
+  "vocab": [
+    ["observar", "to observe"],
+    ["oír", "to hear"],
+    ["escuchar", "to listen"],
+    ["traer", "to bring"],
+    ["tardar", "to take (time)"],
+    ["realizar", "to carry out"],
+    ["alcanzar", "to reach / attain"],
+    ["iniciar", "to initiate / start (formal)"],
+    ["finalizar", "to finish (formal)"],
+    ["emplear", "to use / employ (formal)"],
+    ["señalar", "to point out"],
+    ["indagar", "to investigate / inquire"]
+  ],
+  "examples": [
+    ["Miré por la ventana pero no vi nada.", "I looked out the window but didn't see anything."],
+    ["Los científicos observan el comportamiento de las aves.", "The scientists observe the birds' behavior."],
+    ["Te oigo, pero no te escucho.", "I hear you, but I'm not listening to you."],
+    ["Le pregunté la hora y le pedí un favor.", "I asked him the time and asked him for a favor."],
+    ["Sé dónde vive, pero no lo conozco.", "I know where he lives, but I don't know him."],
+    ["Tráeme agua y llévate esto.", "Bring me some water and take this away."],
+    ["Quedan dos boletos.", "There are two tickets left."],
+    ["Quedamos a las cinco en el café.", "We arranged to meet at five at the café."],
+    ["Esa camisa te queda muy bien.", "That shirt looks really good on you."],
+    ["Tardé una hora en llegar.", "It took me an hour to get there."],
+    ["Llevo una hora aquí.", "I've been here for an hour."],
+    ["Realizaron un estudio sobre el tema.", "They carried out a study on the subject."],
+    ["Por fin alcanzó su meta.", "She finally reached her goal."],
+    ["La sesión se inició a las nueve.", "The session began at nine."],
+    ["El informe señala varios problemas.", "The report points out several problems."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Miré por la ventana pero no ___ nada. (ver)", "answers": ["vi"], "hint": "I looked out the window but didn't see anything."},
+    {"type": "fill", "prompt": "Te oigo, pero no te ___.", "answers": ["escucho"], "hint": "I hear you, but I'm not listening to you."},
+    {"type": "fill", "prompt": "Le ___ la hora y le pedí un favor. (preguntar)", "answers": ["pregunté"], "hint": "I asked him the time and asked him for a favor."},
+    {"type": "fill", "prompt": "Sé dónde vive, pero no lo ___.", "answers": ["conozco"], "hint": "I know where he lives, but I don't know him."},
+    {"type": "fill", "prompt": "___ agua y llévate esto. (traer + me)", "answers": ["tráeme"], "hint": "Bring me some water and take this away."},
+    {"type": "fill", "prompt": "___ dos boletos. (quedar)", "answers": ["quedan"], "hint": "There are two tickets left."},
+    {"type": "fill", "prompt": "Esa camisa te ___ muy bien.", "answers": ["queda"], "hint": "That shirt looks really good on you."},
+    {"type": "fill", "prompt": "___ una hora en llegar. (tardar, yo)", "answers": ["tardé"], "hint": "It took me an hour to get there."},
+    {"type": "fill", "prompt": "___ una hora aquí. (llevar, yo)", "answers": ["llevo"], "hint": "I've been here for an hour."},
+    {"type": "fill", "prompt": "Por fin ___ su meta. (alcanzar)", "answers": ["alcanzó", "logró"], "hint": "She finally reached her goal."},
+    {"type": "fill", "prompt": "El informe ___ varios problemas.", "answers": ["señala"], "hint": "The report points out several problems."},
+    {"type": "mc", "prompt": "\"I realized it was late\" →", "options": ["Me di cuenta de que era tarde.", "Realicé que era tarde.", "Realizé que era tarde.", "Me realicé de que era tarde."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"She asked me for help\" →", "options": ["Me pidió ayuda.", "Me preguntó ayuda.", "Me preguntó por ayuda.", "Me pidió por ayuda."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"Bring me the book\" →", "options": ["Tráeme el libro.", "Llévame el libro.", "Tráigame el libro tú.", "Llévate el libro."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "The formal equivalent of *usar* is…", "options": ["emplear", "echar", "pedir", "iniciar"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*éxito* means…", "options": ["success", "exit", "excitement", "exam"], "answer": 0},
+    {"type": "translate", "prompt": "It took me an hour to get there.", "answers": ["Tardé una hora en llegar.", "Me tardé una hora en llegar."]},
+    {"type": "translate", "prompt": "I've been here for an hour. (use llevar)", "answers": ["Llevo una hora aquí.", "Llevo aquí una hora."]},
+    {"type": "translate", "prompt": "I know where he lives, but I don't know him.", "answers": ["Sé dónde vive, pero no lo conozco."]},
+    {"type": "translate", "prompt": "That shirt looks really good on you. (tú)", "answers": ["Esa camisa te queda muy bien."]},
+    {"type": "build", "prompt": "Put the words in order: \"The scientists observe the birds' behavior.\"", "answer": "Los científicos observan el comportamiento de las aves."},
+    {"type": "build", "prompt": "Put the words in order: \"They carried out a study on the subject.\"", "answer": "Realizaron un estudio sobre el tema."},
+    {"type": "build", "prompt": "Put the words in order: \"We arranged to meet at five at the café.\"", "answer": "Quedamos a las cinco en el café."}
+  ]
+}

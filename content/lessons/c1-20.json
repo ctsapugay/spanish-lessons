@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "heading": "Advanced verbs with fixed prepositions",
+      "body": "At B2 you learned the common ones. These are typical of C1 texts:",
+      "table": {
+        "head": ["Verb", "Meaning", "Example"],
+        "rows": [
+          ["*carecer de*", "to lack", "*El proyecto carece de financiación.*"],
+          ["*empeñarse en*", "to insist on / be set on", "*Se empeña en hacerlo solo.*"],
+          ["*abstenerse de*", "to refrain from", "*Absténgase de fumar.*"],
+          ["*prescindir de*", "to do without", "*No podemos prescindir de él.*"],
+          ["*incurrir en*", "to incur / fall into", "*incurrir en un error, en gastos*"],
+          ["*rebelarse contra*", "to rebel against", "*Se rebelaron contra el régimen.*"],
+          ["*aferrarse a*", "to cling to", "*Se aferra al pasado.*"],
+          ["*dignarse (a)*", "to deign to", "*Ni se dignó a contestar.*"],
+          ["*jactarse de*", "to boast about", "*Se jacta de saberlo todo.*"],
+          ["*desentenderse de*", "to wash your hands of", "*Se desentendió del asunto.*"],
+          ["*percatarse de*", "to notice (formal)", "*No se percató del error.*"],
+          ["*redundar en*", "to result in", "*Redundará en beneficio de todos.*"],
+          ["*abogar por*", "to advocate for", "*Aboga por los derechos de los migrantes.*"],
+          ["*hacer hincapié en*", "to stress / emphasize", "*Hizo hincapié en la seguridad.*"]
+        ]
+      }
+    },
+    {
+      "heading": "Same verb, different preposition, different meaning",
+      "body": "*Acabar con* (to put an end to) vs. *acabar de* (to have just). *Dar con* (to find) vs. *dar a* (to face: *La ventana da al jardín*). *Contar con* (to count on) vs. *contar* (to tell). *Quedar con* (to meet someone) vs. *quedar en* (to agree on). *Hablar de* (to talk about) vs. *hablar con* (to talk to). *Pensar en* vs. *pensar de* (see B2)."
+    }
+  ],
+  "vocab": [
+    ["carecer de", "to lack"],
+    ["empeñarse en", "to insist on / be set on"],
+    ["abstenerse de", "to refrain from"],
+    ["prescindir de", "to do without"],
+    ["incurrir en", "to incur"],
+    ["aferrarse a", "to cling to"],
+    ["jactarse de", "to boast about"],
+    ["desentenderse de", "to wash your hands of"],
+    ["percatarse de", "to notice (formal)"],
+    ["abogar por", "to advocate for"],
+    ["hacer hincapié en", "to emphasize"],
+    ["acabar con", "to put an end to"],
+    ["dar a", "to face / look onto"],
+    ["la financiación", "funding"],
+    ["el régimen", "the regime"]
+  ],
+  "examples": [
+    ["El proyecto carece de financiación.", "The project lacks funding."],
+    ["Se empeña en hacerlo solo.", "He's set on doing it alone."],
+    ["Absténgase de fumar.", "Please refrain from smoking."],
+    ["No podemos prescindir de él.", "We can't do without him."],
+    ["La empresa incurrió en gastos innecesarios.", "The company incurred unnecessary expenses."],
+    ["Se rebelaron contra el régimen.", "They rebelled against the regime."],
+    ["Se aferra al pasado.", "She clings to the past."],
+    ["Ni se dignó a contestar.", "He didn't even deign to answer."],
+    ["Se jacta de saberlo todo.", "He boasts about knowing everything."],
+    ["Se desentendió del asunto.", "He washed his hands of the matter."],
+    ["No se percató del error.", "She didn't notice the mistake."],
+    ["Redundará en beneficio de todos.", "It will be to everyone's benefit."],
+    ["Aboga por los derechos de los migrantes.", "She advocates for migrants' rights."],
+    ["Hizo hincapié en la seguridad.", "He emphasized safety."],
+    ["Hay que acabar con la corrupción.", "We must put an end to corruption."],
+    ["La ventana da al jardín.", "The window looks onto the garden."],
+    ["Quedé con Laura para almorzar.", "I arranged to meet Laura for lunch."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "El proyecto carece ___ financiación.", "answers": ["de"], "hint": "The project lacks funding."},
+    {"type": "fill", "prompt": "Se empeña ___ hacerlo solo.", "answers": ["en"], "hint": "He's set on doing it alone."},
+    {"type": "fill", "prompt": "Absténgase ___ fumar.", "answers": ["de"], "hint": "Please refrain from smoking."},
+    {"type": "fill", "prompt": "No podemos prescindir ___ él.", "answers": ["de"], "hint": "We can't do without him."},
+    {"type": "fill", "prompt": "Se rebelaron ___ el régimen.", "answers": ["contra"], "hint": "They rebelled against the regime."},
+    {"type": "fill", "prompt": "Se aferra ___ pasado.", "answers": ["al"], "hint": "She clings to the past."},
+    {"type": "fill", "prompt": "Se jacta ___ saberlo todo.", "answers": ["de"], "hint": "He boasts about knowing everything."},
+    {"type": "fill", "prompt": "No se percató ___ error.", "answers": ["del"], "hint": "She didn't notice the mistake."},
+    {"type": "fill", "prompt": "Aboga ___ los derechos de los migrantes.", "answers": ["por"], "hint": "She advocates for migrants' rights."},
+    {"type": "fill", "prompt": "Hizo hincapié ___ la seguridad.", "answers": ["en"], "hint": "He emphasized safety."},
+    {"type": "fill", "prompt": "Hay que acabar ___ la corrupción.", "answers": ["con"], "hint": "We must put an end to corruption."},
+    {"type": "fill", "prompt": "La ventana da ___ jardín.", "answers": ["al"], "hint": "The window looks onto the garden."},
+    {"type": "mc", "prompt": "*prescindir de* means…", "options": ["to do without", "to preside over", "to predict", "to prescribe"], "answer": 0},
+    {"type": "mc", "prompt": "*Se desentendió del asunto* means…", "options": ["He washed his hands of the matter.", "He didn't understand the matter.", "He misunderstood the matter.", "He explained the matter."], "answer": 0},
+    {"type": "mc", "prompt": "*acabar con* vs. *acabar de*: \"We must put an end to corruption\" →", "options": ["Hay que acabar con la corrupción.", "Hay que acabar de la corrupción.", "Hay que acabar la corrupción de.", "Acabamos de corrupción."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*hacer hincapié en* means…", "options": ["to emphasize", "to kick", "to stand up for", "to trip over"], "answer": 0},
+    {"type": "mc", "prompt": "*Redundará en beneficio de todos* means…", "options": ["It will be to everyone's benefit.", "It will be redundant for everyone.", "It will return the benefits.", "It will cost everyone."], "answer": 0},
+    {"type": "translate", "prompt": "The project lacks funding.", "answers": ["El proyecto carece de financiación.", "El proyecto carece de financiamiento."]},
+    {"type": "translate", "prompt": "We can't do without him.", "answers": ["No podemos prescindir de él."]},
+    {"type": "translate", "prompt": "He boasts about knowing everything.", "answers": ["Se jacta de saberlo todo.", "Se jacta de saber todo."]},
+    {"type": "translate", "prompt": "The window looks onto the garden.", "answers": ["La ventana da al jardín."]},
+    {"type": "build", "prompt": "Put the words in order: \"He didn't even deign to answer.\"", "answer": "Ni se dignó a contestar."},
+    {"type": "build", "prompt": "Put the words in order: \"The company incurred unnecessary expenses.\"", "answer": "La empresa incurrió en gastos innecesarios."},
+    {"type": "build", "prompt": "Put the words in order: \"I arranged to meet Laura for lunch.\"", "answer": "Quedé con Laura para almorzar."}
+  ]
+}
