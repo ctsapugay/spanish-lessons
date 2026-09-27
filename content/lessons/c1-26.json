@@ -1,0 +1,75 @@
+{
+  "sections": [
+    {
+      "heading": "Talking about ideas",
+      "body": "*El concepto* (concept), *la noción, el planteamiento* (approach, framing), *el enfoque* (focus, approach), *el supuesto* (assumption), *la premisa*, *la paradoja*, *el dilema*, *la ética*, *la conciencia* (consciousness / conscience), *el libre albedrío* (free will), *la verdad, la realidad, la percepción, lo subjetivo / lo objetivo*.\n\nUseful verbs: *plantear un problema* (to pose), *cuestionar* (to question), *refutar* (to refute), *postular* (to postulate), *deducir, inferir*, *partir de la base de que…* (to start from the premise that…)."
+    },
+    {
+      "heading": "Science",
+      "body": "*El método científico*: *formular una hipótesis, diseñar un experimento, recopilar datos* (collect data), *comprobar / verificar, los resultados, las conclusiones*. *Una teoría* can be *demostrada, refutada* or *respaldada por la evidencia* (supported by evidence — *evidencia* in this sense is widely used in LatAm; *pruebas* is the traditional word). *El universo, la galaxia, la evolución, el ADN* (DNA), *la célula* (cell), *la física cuántica*, *el cambio climático*."
+    },
+    {
+      "heading": "Abstract nouns and the neuter lo",
+      "body": "Abstract discussion relies on nouns and *lo* + adjective: *lo esencial* (what's essential), *lo absurdo de la situación* (the absurdity of the situation), *lo cotidiano* (everyday life). Many abstract nouns end in *-dad, -ción, -ismo, -encia*: *la libertad, la percepción, el individualismo, la conciencia*."
+    }
+  ],
+  "vocab": [
+    ["el planteamiento", "the approach / framing"],
+    ["el enfoque", "the approach / focus"],
+    ["el supuesto", "the assumption"],
+    ["la paradoja", "the paradox"],
+    ["el dilema", "the dilemma"],
+    ["la conciencia", "consciousness / conscience"],
+    ["el libre albedrío", "free will"],
+    ["cuestionar", "to question"],
+    ["refutar", "to refute"],
+    ["partir de la base de que", "to start from the premise that"],
+    ["recopilar", "to collect / compile"],
+    ["respaldar", "to support / back"],
+    ["la célula", "the cell"],
+    ["lo cotidiano", "everyday life"],
+    ["esencial", "essential"]
+  ],
+  "examples": [
+    ["El planteamiento del problema es incorrecto.", "The framing of the problem is wrong."],
+    ["Necesitamos un enfoque diferente.", "We need a different approach."],
+    ["Ese supuesto no tiene base.", "That assumption has no basis."],
+    ["Es una paradoja: cuanto más sabemos, menos entendemos.", "It's a paradox: the more we know, the less we understand."],
+    ["Nos enfrentamos a un dilema ético.", "We're facing an ethical dilemma."],
+    ["¿Existe realmente el libre albedrío?", "Does free will really exist?"],
+    ["Hay que cuestionar lo que parece obvio.", "We must question what seems obvious."],
+    ["Nadie ha podido refutar su teoría.", "Nobody has been able to refute his theory."],
+    ["Partimos de la base de que todos somos iguales.", "We start from the premise that we are all equal."],
+    ["Los investigadores recopilaron datos durante años.", "The researchers collected data for years."],
+    ["La teoría está respaldada por la evidencia.", "The theory is supported by the evidence."],
+    ["Cada célula contiene ADN.", "Every cell contains DNA."],
+    ["Lo esencial es invisible a los ojos.", "What is essential is invisible to the eye."],
+    ["Me sorprendió lo absurdo de la situación.", "The absurdity of the situation surprised me."],
+    ["La poesía de Neruda celebra lo cotidiano.", "Neruda's poetry celebrates everyday life."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "El ___ del problema es incorrecto.", "answers": ["planteamiento"], "hint": "The framing of the problem is wrong."},
+    {"type": "fill", "prompt": "Necesitamos un ___ diferente.", "answers": ["enfoque"], "hint": "We need a different approach."},
+    {"type": "fill", "prompt": "Nos enfrentamos a un ___ ético.", "answers": ["dilema"], "hint": "We're facing an ethical dilemma."},
+    {"type": "fill", "prompt": "¿Existe realmente el libre ___?", "answers": ["albedrío"], "hint": "Does free will really exist?"},
+    {"type": "fill", "prompt": "Hay que ___ lo que parece obvio.", "answers": ["cuestionar"], "hint": "We must question what seems obvious."},
+    {"type": "fill", "prompt": "Nadie ha podido ___ su teoría.", "answers": ["refutar"], "hint": "Nobody has been able to refute his theory."},
+    {"type": "fill", "prompt": "Partimos de la ___ de que todos somos iguales.", "answers": ["base"], "hint": "We start from the premise that we are all equal."},
+    {"type": "fill", "prompt": "Los investigadores ___ datos durante años. (recopilar)", "answers": ["recopilaron"], "hint": "The researchers collected data for years."},
+    {"type": "fill", "prompt": "La teoría está ___ por la evidencia.", "answers": ["respaldada"], "hint": "The theory is supported by the evidence."},
+    {"type": "fill", "prompt": "Lo ___ es invisible a los ojos.", "answers": ["esencial"], "hint": "What is essential is invisible to the eye."},
+    {"type": "fill", "prompt": "La poesía de Neruda celebra lo ___.", "answers": ["cotidiano"], "hint": "Neruda's poetry celebrates everyday life."},
+    {"type": "mc", "prompt": "*la conciencia* can mean…", "options": ["both consciousness and conscience", "only science", "only knowledge", "only awareness of danger"], "answer": 0},
+    {"type": "mc", "prompt": "*lo absurdo de la situación* means…", "options": ["the absurdity of the situation", "the absurd situation itself", "an absurd person", "absurdly situated"], "answer": 0},
+    {"type": "mc", "prompt": "*refutar* means…", "options": ["to refute / disprove", "to refuse", "to repeat", "to reflect"], "answer": 0},
+    {"type": "mc", "prompt": "*el supuesto* means…", "options": ["the assumption", "the supposed person", "the support", "the supplement"], "answer": 0},
+    {"type": "mc", "prompt": "\"We need a different approach\" →", "options": ["Necesitamos un enfoque diferente.", "Necesitamos una aproximación diferente de.", "Necesitamos un acercamiento diferente a nada.", "Necesitamos un enfocado diferente."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Does free will really exist?", "answers": ["¿Existe realmente el libre albedrío?", "¿Realmente existe el libre albedrío?"]},
+    {"type": "translate", "prompt": "The theory is supported by the evidence.", "answers": ["La teoría está respaldada por la evidencia.", "La teoría está respaldada por las pruebas."]},
+    {"type": "translate", "prompt": "Every cell contains DNA.", "answers": ["Cada célula contiene ADN."]},
+    {"type": "translate", "prompt": "We must question what seems obvious. (use hay que)", "answers": ["Hay que cuestionar lo que parece obvio."]},
+    {"type": "build", "prompt": "Put the words in order: \"It's a paradox: the more we know, the less we understand.\"", "answer": "Es una paradoja: cuanto más sabemos, menos entendemos."},
+    {"type": "build", "prompt": "Put the words in order: \"That assumption has no basis.\"", "answer": "Ese supuesto no tiene base."},
+    {"type": "build", "prompt": "Put the words in order: \"The absurdity of the situation surprised me.\"", "answer": "Me sorprendió lo absurdo de la situación."}
+  ]
+}

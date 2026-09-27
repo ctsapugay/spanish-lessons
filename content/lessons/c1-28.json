@@ -1,0 +1,318 @@
+{
+  "sections": [
+    {
+      "heading": "Double meanings",
+      "body": "Much Spanish humour comes from words with two meanings (*el doble sentido*):\n\n- *—¿Qué le dijo un techo a otro? —Techo de menos.* (\"Te echo de menos\" = I miss you.)\n- *—¿Cuál es el café más peligroso del mundo? —El ex-preso.* (espresso / ex-prisoner)\n- *—¿Qué hace una abeja en el gimnasio? —¡Zum-ba!* (the buzz + Zumba)\n\nHomophones help: *vaca / baca, hola / ola, hecho / echo, tubo / tuvo, vello / bello*."
+    },
+    {
+      "heading": "Types of jokes",
+      "body": "- *los chistes de \"¿Qué le dijo…?\"* (What did X say to Y?): *¿Qué le dijo el 0 al 8? —¡Qué bonito cinturón!* (Nice belt!)\n- *los chistes de \"Van dos y…\"* (Two guys walk into…): *Van dos y se cae el del medio.* (Two guys walk… and the one in the middle falls — absurd)\n- *los chistes de Jaimito* (Little Johnny jokes)\n- **Mexican albures** — rapid, cheeky double meanings, a game of wit. Recognise them; don't try them until you're very confident.\n- **Sarcasm and understatement** (*No está nada mal* = It's really good)"
+    },
+    {
+      "heading": "Wordplay vocabulary",
+      "body": "*El chiste* (joke), *contar un chiste*, *tener gracia* (to be funny), *hacer gracia* (to amuse someone: *No me hace gracia.* — I don't find it funny), *el juego de palabras* (pun), *el doble sentido*, *el humor negro* (dark humour), *burlarse de* (to make fun of), *tomar el pelo* (to pull someone's leg), *reírse a carcajadas* (to laugh out loud), *partirse de risa* (to crack up)."
+    }
+  ],
+  "vocab": [
+    [
+      "el doble sentido",
+      "the double meaning"
+    ],
+    [
+      "el juego de palabras",
+      "the pun / wordplay"
+    ],
+    [
+      "el chiste",
+      "the joke"
+    ],
+    [
+      "contar un chiste",
+      "to tell a joke"
+    ],
+    [
+      "tener gracia",
+      "to be funny"
+    ],
+    [
+      "hacer gracia",
+      "to amuse"
+    ],
+    [
+      "el humor negro",
+      "dark humor"
+    ],
+    [
+      "reírse a carcajadas",
+      "to laugh out loud"
+    ],
+    [
+      "partirse de risa",
+      "to crack up"
+    ],
+    [
+      "el albur",
+      "the Mexican double-entendre game"
+    ],
+    [
+      "el techo",
+      "the roof / ceiling"
+    ],
+    [
+      "el cinturón",
+      "the belt"
+    ],
+    [
+      "la abeja",
+      "the bee"
+    ]
+  ],
+  "examples": [
+    [
+      "—¿Qué le dijo un techo a otro? —Techo de menos.",
+      "—What did one roof say to the other? —I miss you. (pun)"
+    ],
+    [
+      "—¿Cuál es el café más peligroso del mundo? —El ex-preso.",
+      "—What's the most dangerous coffee in the world? —The ex-prisoner. (espresso)"
+    ],
+    [
+      "—¿Qué le dijo el cero al ocho? —¡Qué bonito cinturón!",
+      "—What did zero say to eight? —Nice belt!"
+    ],
+    [
+      "Van dos y se cae el del medio.",
+      "Two guys are walking and the one in the middle falls."
+    ],
+    [
+      "Mi abuelo cuenta chistes muy buenos.",
+      "My grandfather tells really good jokes."
+    ],
+    [
+      "Ese chiste no tiene gracia.",
+      "That joke isn't funny."
+    ],
+    [
+      "No me hace gracia.",
+      "I don't find it funny."
+    ],
+    [
+      "Es un juego de palabras.",
+      "It's a pun."
+    ],
+    [
+      "Esa frase tiene doble sentido.",
+      "That phrase has a double meaning."
+    ],
+    [
+      "Le gusta el humor negro.",
+      "He likes dark humor."
+    ],
+    [
+      "Nos reímos a carcajadas.",
+      "We laughed out loud."
+    ],
+    [
+      "Me partí de risa con la película.",
+      "I cracked up at the movie."
+    ],
+    [
+      "No está nada mal.",
+      "It's really not bad at all."
+    ],
+    [
+      "Los albures son típicos de México.",
+      "Albures are typical of Mexico."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Mi abuelo ___ chistes muy buenos. (contar)",
+      "answers": [
+        "cuenta"
+      ],
+      "hint": "My grandfather tells really good jokes."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ese chiste no tiene ___.",
+      "answers": [
+        "gracia"
+      ],
+      "hint": "That joke isn't funny."
+    },
+    {
+      "type": "fill",
+      "prompt": "No me ___ gracia.",
+      "answers": [
+        "hace"
+      ],
+      "hint": "I don't find it funny."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es un juego de ___.",
+      "answers": [
+        "palabras"
+      ],
+      "hint": "It's a pun."
+    },
+    {
+      "type": "fill",
+      "prompt": "Esa frase tiene doble ___.",
+      "answers": [
+        "sentido"
+      ],
+      "hint": "That phrase has a double meaning."
+    },
+    {
+      "type": "fill",
+      "prompt": "Le gusta el humor ___.",
+      "answers": [
+        "negro"
+      ],
+      "hint": "He likes dark humor."
+    },
+    {
+      "type": "fill",
+      "prompt": "Nos reímos a ___.",
+      "answers": [
+        "carcajadas"
+      ],
+      "hint": "We laughed out loud."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me ___ de risa con la película. (partirse)",
+      "answers": [
+        "partí"
+      ],
+      "hint": "I cracked up at the movie."
+    },
+    {
+      "type": "fill",
+      "prompt": "No está ___ mal.",
+      "answers": [
+        "nada"
+      ],
+      "hint": "It's really not bad at all."
+    },
+    {
+      "type": "fill",
+      "prompt": "—¿Qué le dijo el cero al ocho? —¡Qué bonito ___!",
+      "answers": [
+        "cinturón"
+      ],
+      "hint": "—What did zero say to eight? —Nice belt!"
+    },
+    {
+      "type": "fill",
+      "prompt": "Van dos y se cae el del ___.",
+      "answers": [
+        "medio"
+      ],
+      "hint": "Two guys are walking and the one in the middle falls."
+    },
+    {
+      "type": "mc",
+      "prompt": "The joke *Techo de menos* works because it sounds like…",
+      "options": [
+        "Te echo de menos (I miss you)",
+        "Techo de más",
+        "Te hecho menos",
+        "Echo de techo"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*No me hace gracia* means…",
+      "options": [
+        "I don't find it funny.",
+        "It doesn't thank me.",
+        "It doesn't make me graceful.",
+        "I'm not grateful."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*No está nada mal* usually means…",
+      "options": [
+        "It's really good (understatement).",
+        "It's terrible.",
+        "It's nothing.",
+        "It's not there."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Mexican *albures* are…",
+      "options": [
+        "quick-witted double-meaning wordplay",
+        "a type of dance",
+        "a kind of food",
+        "formal speeches"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Which pair are homophones (sound the same)?",
+      "options": [
+        "hola / ola",
+        "casa / cosa",
+        "peso / beso",
+        "pero / perro"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "That joke isn't funny.",
+      "answers": [
+        "Ese chiste no tiene gracia.",
+        "Ese chiste no es gracioso."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "We laughed out loud.",
+      "answers": [
+        "Nos reímos a carcajadas."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's a pun.",
+      "answers": [
+        "Es un juego de palabras."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I don't find it funny. (use hacer gracia)",
+      "answers": [
+        "No me hace gracia."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"That phrase has a double meaning.\"",
+      "answer": "Esa frase tiene doble sentido."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I cracked up at the movie.\"",
+      "answer": "Me partí de risa con la película."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Albures are typical of Mexico.\"",
+      "answer": "Los albures son típicos de México."
+    }
+  ]
+}

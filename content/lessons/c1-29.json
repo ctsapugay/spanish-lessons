@@ -1,0 +1,331 @@
+{
+  "sections": [
+    {
+      "heading": "Recognising accents by sound",
+      "body": "- **Seseo** — *s, z* and *ce/ci* all sound like /s/. Standard in all of Latin America and the Canary Islands: *casa* and *caza* sound the same.\n- **Distinción** — central/northern Spain pronounces *z, ce, ci* like English \"th\".\n- **Yeísmo** — *ll* and *y* sound the same (nearly everywhere). In the Río de la Plata they sound like \"sh\" or \"zh\" (*sheísmo / zheísmo*): *calle* → \"cashe\".\n- **Aspiration of s** — at the end of a syllable, *s* becomes a breathy /h/ or disappears: Caribbean, coastal Colombia and Venezuela, Chile, Argentina, Andalusia: *los amigos* → \"loh amigo\".\n- **Weak final d**: *cansado* → \"cansao\" (Spain, Caribbean, informal).\n- **l/r swap** in the Caribbean: *puerta* → \"puelta\" (Puerto Rico).\n- **Strong, clear consonants and rich vowels** — highland Mexico, Bogotá, Andean Peru and Bolivia."
+    },
+    {
+      "heading": "Current spelling norms (RAE 2010)",
+      "body": "- *solo* (only) no longer needs an accent, even when it's an adverb: *Solo quiero agua.* Demonstratives *este, ese, aquel* also go without accent.\n- *guion, truhan, fie, lie* (one syllable) — no accent.\n- *o* between numbers no longer takes an accent: *3 o 4*.\n- *Ex-* is written together with one word: *exnovio, expresidente*; separately with more: *ex primer ministro*.\n- Letters: *ye* (not \"i griega\"), *be* and *uve* (LatAm often *be larga / be corta*).\n- Capitals: days, months, languages, nationalities are lowercase: *el lunes, en marzo, el español, los mexicanos*."
+    },
+    {
+      "heading": "Common spelling traps",
+      "body": "*haber / a ver* (*Va a haber una fiesta.* / *A ver, ¿qué pasa?*), *hay / ahí / ay*, *echo / hecho* (*Te echo de menos. / Lo he hecho.*), *porque / por qué / porqué / por que*, *sino / si no* (*No es rojo, sino azul. / Si no vienes, me enojo.*), *también / tan bien*, *adonde / a donde / adónde*."
+    }
+  ],
+  "vocab": [
+    [
+      "el seseo",
+      "pronouncing z/ce/ci as s"
+    ],
+    [
+      "la distinción",
+      "distinguishing s and z (Spain)"
+    ],
+    [
+      "el yeísmo",
+      "ll and y sounding the same"
+    ],
+    [
+      "aspirar",
+      "to aspirate / breathe out"
+    ],
+    [
+      "la ortografía",
+      "spelling"
+    ],
+    [
+      "la tilde",
+      "the written accent"
+    ],
+    [
+      "la mayúscula",
+      "the capital letter"
+    ],
+    [
+      "la minúscula",
+      "the lowercase letter"
+    ],
+    [
+      "a ver",
+      "let's see"
+    ],
+    [
+      "haber",
+      "to be (there will be) / to have (aux.)"
+    ],
+    [
+      "sino",
+      "but rather"
+    ],
+    [
+      "si no",
+      "if not"
+    ],
+    [
+      "tan bien",
+      "so well"
+    ]
+  ],
+  "examples": [
+    [
+      "En Latinoamérica, casa y caza suenan igual.",
+      "In Latin America, casa and caza sound the same."
+    ],
+    [
+      "En Buenos Aires, calle suena como cashe.",
+      "In Buenos Aires, calle sounds like 'cashe'."
+    ],
+    [
+      "En el Caribe se aspira la s final.",
+      "In the Caribbean the final s is aspirated."
+    ],
+    [
+      "Solo quiero agua.",
+      "I only want water."
+    ],
+    [
+      "¿Vienen 3 o 4 personas?",
+      "Are 3 or 4 people coming?"
+    ],
+    [
+      "Mi exnovio vive en Lima.",
+      "My ex-boyfriend lives in Lima."
+    ],
+    [
+      "El lunes empiezan las clases de español.",
+      "Spanish classes start on Monday."
+    ],
+    [
+      "Va a haber una fiesta.",
+      "There's going to be a party."
+    ],
+    [
+      "A ver, ¿qué pasa?",
+      "Let's see, what's going on?"
+    ],
+    [
+      "¡Ay! ¿Hay alguien ahí?",
+      "Oh! Is someone there?"
+    ],
+    [
+      "Te echo de menos.",
+      "I miss you."
+    ],
+    [
+      "Ya lo he hecho.",
+      "I've already done it."
+    ],
+    [
+      "No es rojo, sino azul.",
+      "It's not red, but blue."
+    ],
+    [
+      "Si no vienes, me enojo.",
+      "If you don't come, I'll get angry."
+    ],
+    [
+      "¿Por qué no viniste? Porque estaba enfermo.",
+      "Why didn't you come? Because I was sick."
+    ],
+    [
+      "Cantas tan bien que también podrías ser profesional.",
+      "You sing so well that you could also be a professional."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "In Latin America, *casa* and *caza* …",
+      "options": [
+        "sound the same (seseo)",
+        "sound different",
+        "are spelled the same",
+        "mean the same"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "In Buenos Aires, *ll* in *calle* sounds like…",
+      "options": [
+        "\"sh\"",
+        "\"l\"",
+        "\"y\" as in \"yes\"",
+        "\"j\""
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Current RAE spelling:",
+      "options": [
+        "Solo quiero agua.",
+        "Sólo quiero agua.",
+        "Soló quiero agua."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: No es rojo, ___ azul.",
+      "options": [
+        "sino",
+        "si no",
+        "sinó",
+        "si nó"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Va a ___ una fiesta.",
+      "options": [
+        "haber",
+        "a ver",
+        "aver",
+        "haver"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "In Spanish, which of these are written in lowercase?",
+      "options": [
+        "days, months, languages and nationalities",
+        "only days of the week",
+        "only languages",
+        "none of them"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "___, ¿qué pasa?",
+      "answers": [
+        "a ver"
+      ],
+      "hint": "Let's see, what's going on?"
+    },
+    {
+      "type": "fill",
+      "prompt": "¡Ay! ¿___ alguien ahí?",
+      "answers": [
+        "hay"
+      ],
+      "hint": "Oh! Is someone there?"
+    },
+    {
+      "type": "fill",
+      "prompt": "Te ___ de menos.",
+      "answers": [
+        "echo"
+      ],
+      "hint": "I miss you."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ya lo he ___.",
+      "answers": [
+        "hecho"
+      ],
+      "hint": "I've already done it."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ vienes, me enojo.",
+      "answers": [
+        "si no"
+      ],
+      "hint": "If you don't come, I'll get angry."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿___ no viniste? Porque estaba enfermo.",
+      "answers": [
+        "por qué"
+      ],
+      "hint": "Why didn't you come? Because I was sick."
+    },
+    {
+      "type": "fill",
+      "prompt": "Cantas tan bien que ___ podrías ser profesional.",
+      "answers": [
+        "también"
+      ],
+      "hint": "You sing so well that you could also be a professional."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi ___ vive en Lima.",
+      "answers": [
+        "exnovio"
+      ],
+      "hint": "My ex-boyfriend lives in Lima (one word)."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Vienen 3 ___ 4 personas?",
+      "answers": [
+        "o"
+      ],
+      "hint": "Are 3 or 4 people coming?"
+    },
+    {
+      "type": "fill",
+      "prompt": "En el Caribe se ___ la s final. (aspirar)",
+      "answers": [
+        "aspira"
+      ],
+      "hint": "In the Caribbean the final s is aspirated."
+    },
+    {
+      "type": "translate",
+      "prompt": "There's going to be a party.",
+      "answers": [
+        "Va a haber una fiesta."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "It's not red, but blue.",
+      "answers": [
+        "No es rojo, sino azul."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I only want water.",
+      "answers": [
+        "Solo quiero agua.",
+        "Sólo quiero agua."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I've already done it.",
+      "answers": [
+        "Ya lo he hecho.",
+        "Ya lo hice."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"In Latin America, casa and caza sound the same.\"",
+      "answer": "En Latinoamérica, casa y caza suenan igual."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"If you don't come, I'll get angry.\"",
+      "answer": "Si no vienes, me enojo."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Spanish classes start on Monday.\"",
+      "answer": "El lunes empiezan las clases de español."
+    }
+  ]
+}

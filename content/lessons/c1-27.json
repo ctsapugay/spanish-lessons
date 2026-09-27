@@ -1,0 +1,322 @@
+{
+  "sections": [
+    {
+      "heading": "Features of literary Spanish",
+      "body": "Literary texts use things you rarely hear in conversation:\n\n- **The -ra form as pluperfect indicative** (from Latin): *el hombre que conociera en su juventud* = *que había conocido* (the man she had met in her youth). Common in journalism too.\n- **Enclitic pronouns on conjugated verbs** (old-fashioned / literary): *Díjole que se fuera* = *Le dijo…* *Érase una vez…* (Once upon a time…)\n- **Word order inversion**: *Grande fue su sorpresa.* (Great was his surprise.)\n- **The preterite anterior** (*hube + participle*, after *apenas, cuando, en cuanto*): *Apenas hubo terminado, salió.* (No sooner had he finished than he left.)\n- **Rich imagery and figurative language**: *metáfora, símil (como…), personificación, hipérbole*."
+    },
+    {
+      "heading": "The future subjunctive",
+      "body": "The future subjunctive (*-re*: *hablare, comiere, fuere, hubiere*) disappeared from speech centuries ago but survives in **legal texts** and **set phrases**:\n\n- Law: *El que infringiere esta norma será sancionado.* (Whoever infringes this rule shall be penalized.) *Si no hubiere acuerdo…* (Should there be no agreement…)\n- Proverbs and phrases: *Adonde fueres, haz lo que vieres.* (When in Rome, do as the Romans do.) *Sea lo que fuere* (whatever it may be), *venga lo que viniere*.\n\nYou only need to **recognise** it: form it from the *ellos* preterite (*hablaron → hablare*), like the imperfect subjunctive but with *-re*."
+    },
+    {
+      "heading": "Great names to read",
+      "body": "Short and accessible first: Julio Cortázar's short stories (*Casa tomada*), Jorge Luis Borges (*Ficciones*), Juan Rulfo (*Pedro Páramo*), Gabriel García Márquez (*Crónica de una muerte anunciada*), Isabel Allende, Laura Esquivel (*Como agua para chocolate*), Mario Benedetti's poems, Pablo Neruda (*Veinte poemas de amor*), Gabriela Mistral, Samanta Schweblin and Mariana Enríquez for contemporary fiction."
+    }
+  ],
+  "vocab": [
+    [
+      "érase una vez",
+      "once upon a time"
+    ],
+    [
+      "la juventud",
+      "youth"
+    ],
+    [
+      "la metáfora",
+      "the metaphor"
+    ],
+    [
+      "el símil",
+      "the simile"
+    ],
+    [
+      "la hipérbole",
+      "the hyperbole"
+    ],
+    [
+      "el cuento",
+      "the short story"
+    ],
+    [
+      "el narrador / la narradora",
+      "the narrator"
+    ],
+    [
+      "infringir",
+      "to infringe / break (a rule)"
+    ],
+    [
+      "sancionar",
+      "to penalize"
+    ],
+    [
+      "adonde fueres, haz lo que vieres",
+      "when in Rome, do as the Romans do"
+    ],
+    [
+      "sea lo que fuere",
+      "whatever it may be"
+    ],
+    [
+      "la norma",
+      "the rule / norm"
+    ],
+    [
+      "la sorpresa",
+      "the surprise"
+    ]
+  ],
+  "examples": [
+    [
+      "Érase una vez un rey muy triste.",
+      "Once upon a time there was a very sad king."
+    ],
+    [
+      "Volvió a ver al hombre que conociera en su juventud.",
+      "She saw again the man she had met in her youth."
+    ],
+    [
+      "Grande fue su sorpresa al abrir la puerta.",
+      "Great was his surprise on opening the door."
+    ],
+    [
+      "Apenas hubo terminado, salió de la sala.",
+      "No sooner had he finished than he left the room."
+    ],
+    [
+      "Sus ojos eran dos luceros.",
+      "Her eyes were two bright stars."
+    ],
+    [
+      "Era fuerte como un roble.",
+      "He was as strong as an oak."
+    ],
+    [
+      "Te lo he dicho un millón de veces.",
+      "I've told you a million times."
+    ],
+    [
+      "El narrador cuenta la historia desde el futuro.",
+      "The narrator tells the story from the future."
+    ],
+    [
+      "El que infringiere esta norma será sancionado.",
+      "Whoever infringes this rule shall be penalized."
+    ],
+    [
+      "Si no hubiere acuerdo, decidirá el juez.",
+      "Should there be no agreement, the judge will decide."
+    ],
+    [
+      "Adonde fueres, haz lo que vieres.",
+      "When in Rome, do as the Romans do."
+    ],
+    [
+      "Sea lo que fuere, hay que seguir adelante.",
+      "Whatever it may be, we have to carry on."
+    ],
+    [
+      "Pedro Páramo es una novela de Juan Rulfo.",
+      "Pedro Páramo is a novel by Juan Rulfo."
+    ],
+    [
+      "Casa tomada es un cuento de Cortázar.",
+      "House Taken Over is a short story by Cortázar."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "___ una vez un rey muy triste.",
+      "answers": [
+        "érase"
+      ],
+      "hint": "Once upon a time there was a very sad king."
+    },
+    {
+      "type": "fill",
+      "prompt": "Grande fue su ___ al abrir la puerta.",
+      "answers": [
+        "sorpresa"
+      ],
+      "hint": "Great was his surprise on opening the door."
+    },
+    {
+      "type": "fill",
+      "prompt": "Apenas ___ terminado, salió de la sala.",
+      "answers": [
+        "hubo"
+      ],
+      "hint": "No sooner had he finished than he left the room."
+    },
+    {
+      "type": "fill",
+      "prompt": "Era fuerte como un ___.",
+      "answers": [
+        "roble"
+      ],
+      "hint": "He was as strong as an oak."
+    },
+    {
+      "type": "fill",
+      "prompt": "Te lo he dicho un ___ de veces.",
+      "answers": [
+        "millón"
+      ],
+      "hint": "I've told you a million times."
+    },
+    {
+      "type": "fill",
+      "prompt": "El ___ cuenta la historia desde el futuro.",
+      "answers": [
+        "narrador"
+      ],
+      "hint": "The narrator tells the story from the future."
+    },
+    {
+      "type": "fill",
+      "prompt": "El que infringiere esta norma será ___. (sancionar)",
+      "answers": [
+        "sancionado"
+      ],
+      "hint": "Whoever infringes this rule shall be penalized."
+    },
+    {
+      "type": "fill",
+      "prompt": "Adonde fueres, haz lo que ___.",
+      "answers": [
+        "vieres"
+      ],
+      "hint": "When in Rome, do as the Romans do."
+    },
+    {
+      "type": "fill",
+      "prompt": "Sea lo que ___, hay que seguir adelante.",
+      "answers": [
+        "fuere",
+        "sea"
+      ],
+      "hint": "Whatever it may be, we have to carry on."
+    },
+    {
+      "type": "fill",
+      "prompt": "Volvió a ver al hombre que ___ en su juventud. (conocer)",
+      "answers": [
+        "conociera",
+        "había conocido"
+      ],
+      "hint": "She saw again the man she had met in her youth (literary -ra form or pluperfect)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Pedro Páramo es una novela de Juan ___.",
+      "answers": [
+        "Rulfo"
+      ],
+      "hint": "Pedro Páramo is a novel by Juan Rulfo."
+    },
+    {
+      "type": "mc",
+      "prompt": "*el hombre que conociera en su juventud* (literary) = …",
+      "options": [
+        "el hombre que había conocido",
+        "el hombre que conocería",
+        "el hombre que conozca",
+        "el hombre que conoce"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*infringiere* is…",
+      "options": [
+        "future subjunctive (legal style)",
+        "a typo",
+        "the conditional",
+        "the imperfect indicative"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Sus ojos eran dos luceros* is…",
+      "options": [
+        "a metaphor",
+        "a simile",
+        "a hyperbole",
+        "a legal phrase"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Te lo he dicho un millón de veces* is…",
+      "options": [
+        "a hyperbole",
+        "a metaphor",
+        "a simile",
+        "an irony"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "You need to ___ the future subjunctive.",
+      "options": [
+        "recognise",
+        "use daily in speech",
+        "use in text messages",
+        "use for future plans"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "Once upon a time there was a very sad king.",
+      "answers": [
+        "Érase una vez un rey muy triste.",
+        "Había una vez un rey muy triste."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "When in Rome, do as the Romans do. (proverb)",
+      "answers": [
+        "Adonde fueres, haz lo que vieres.",
+        "Donde fueres, haz lo que vieres."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He was as strong as an oak.",
+      "answers": [
+        "Era fuerte como un roble.",
+        "Era tan fuerte como un roble."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The narrator tells the story from the future.",
+      "answers": [
+        "El narrador cuenta la historia desde el futuro."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Should there be no agreement, the judge will decide.\"",
+      "answer": "Si no hubiere acuerdo, decidirá el juez."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"No sooner had he finished than he left the room.\"",
+      "answer": "Apenas hubo terminado, salió de la sala."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Great was his surprise on opening the door.\"",
+      "answer": "Grande fue su sorpresa al abrir la puerta."
+    }
+  ]
+}

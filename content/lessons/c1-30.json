@@ -1,0 +1,329 @@
+{
+  "sections": [
+    {
+      "heading": "Softening requests",
+      "body": "The more you soften, the more polite — and in much of Latin America, politeness is highly valued:\n\n*Pásame la sal.* → *¿Me pasas la sal?* → *¿Me pasarías la sal?* → *¿Serías tan amable de pasarme la sal?*\n*Quiero hablar con usted.* → *Quería hablar con usted.* → *Quisiera hablar con usted.* (-ra form of *querer* = very polite)\n\nOther softeners: *¿Te importaría…?* (Would you mind…?), *¿Habría alguna posibilidad de…?* (Would there be any chance of…?), *un favorcito*, *¿me regala…?* (Colombia, in shops: may I have…?), *si fuera posible*, *cuando puedas*."
+    },
+    {
+      "heading": "Softening criticism and bad news",
+      "body": "- Start positive: *Me gusta mucho la idea; quizá podríamos mejorar un poco la presentación.*\n- Use the conditional and *quizá(s) / tal vez*: *Yo tal vez cambiaría el título.*\n- Use impersonal forms to avoid blame: *Se cometió un error* (instead of *Cometiste un error*).\n- Minimise: *un poquito, algo, un tanto*: *El informe está un tanto incompleto.*\n- Bad news: *Lamento decirte que…* (I'm sorry to tell you that…), *Me temo que…*, *Siento mucho tener que decirte que…*"
+    },
+    {
+      "heading": "Delicate situations",
+      "body": "**Condolences:** *Te acompaño en el sentimiento.* / *Mi más sentido pésame.* (My deepest condolences.) *Lo siento muchísimo.*\n**Declining:** *Te lo agradezco mucho, pero no voy a poder.* *Me encantaría, pero ya tengo un compromiso.* (I'd love to, but I already have a commitment.)\n**Apologising formally:** *Le pido disculpas por las molestias.* (I apologise for the inconvenience.) *Disculpe la demora.*\n**Disagreeing gently:** *No sé si estoy del todo de acuerdo.* (I'm not sure I entirely agree.) *Lo veo de otra manera.*"
+    }
+  ],
+  "vocab": [
+    [
+      "¿serías tan amable de…?",
+      "would you be so kind as to…?"
+    ],
+    [
+      "quisiera",
+      "I would like (very polite)"
+    ],
+    [
+      "¿te importaría…?",
+      "would you mind…?"
+    ],
+    [
+      "¿me regala…?",
+      "may I have…? (Colombia)"
+    ],
+    [
+      "un tanto",
+      "somewhat"
+    ],
+    [
+      "lamentar",
+      "to regret / be sorry"
+    ],
+    [
+      "mi más sentido pésame",
+      "my deepest condolences"
+    ],
+    [
+      "te acompaño en el sentimiento",
+      "I'm with you in your grief"
+    ],
+    [
+      "el compromiso",
+      "the commitment / engagement"
+    ],
+    [
+      "pedir disculpas",
+      "to apologize"
+    ],
+    [
+      "las molestias",
+      "the inconvenience"
+    ],
+    [
+      "la demora",
+      "the delay"
+    ],
+    [
+      "del todo",
+      "entirely / completely"
+    ]
+  ],
+  "examples": [
+    [
+      "¿Serías tan amable de pasarme la sal?",
+      "Would you be so kind as to pass me the salt?"
+    ],
+    [
+      "Quisiera hablar con usted un momento.",
+      "I'd like to speak with you for a moment."
+    ],
+    [
+      "¿Te importaría cerrar la ventana?",
+      "Would you mind closing the window?"
+    ],
+    [
+      "¿Habría alguna posibilidad de cambiar la fecha?",
+      "Would there be any chance of changing the date?"
+    ],
+    [
+      "¿Me regala un café, por favor?",
+      "May I have a coffee, please? (Colombia)"
+    ],
+    [
+      "Me gusta mucho la idea; quizás podríamos mejorar un poco la presentación.",
+      "I really like the idea; perhaps we could improve the presentation a little."
+    ],
+    [
+      "Yo tal vez cambiaría el título.",
+      "I might change the title."
+    ],
+    [
+      "Se cometió un error en la factura.",
+      "A mistake was made on the invoice."
+    ],
+    [
+      "El informe está un tanto incompleto.",
+      "The report is somewhat incomplete."
+    ],
+    [
+      "Lamento decirte que no te seleccionaron.",
+      "I'm sorry to tell you that you weren't selected."
+    ],
+    [
+      "Mi más sentido pésame.",
+      "My deepest condolences."
+    ],
+    [
+      "Te acompaño en el sentimiento.",
+      "I'm so sorry for your loss."
+    ],
+    [
+      "Me encantaría, pero ya tengo un compromiso.",
+      "I'd love to, but I already have a commitment."
+    ],
+    [
+      "Le pido disculpas por las molestias.",
+      "I apologize for the inconvenience."
+    ],
+    [
+      "Disculpe la demora.",
+      "Sorry for the delay."
+    ],
+    [
+      "No sé si estoy del todo de acuerdo.",
+      "I'm not sure I entirely agree."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "¿Serías tan ___ de pasarme la sal?",
+      "answers": [
+        "amable"
+      ],
+      "hint": "Would you be so kind as to pass me the salt?"
+    },
+    {
+      "type": "fill",
+      "prompt": "___ hablar con usted un momento. (querer)",
+      "answers": [
+        "quisiera"
+      ],
+      "hint": "I'd like to speak with you for a moment (most polite form)."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Te ___ cerrar la ventana? (importar)",
+      "answers": [
+        "importaría"
+      ],
+      "hint": "Would you mind closing the window?"
+    },
+    {
+      "type": "fill",
+      "prompt": "¿___ alguna posibilidad de cambiar la fecha? (haber)",
+      "answers": [
+        "habría"
+      ],
+      "hint": "Would there be any chance of changing the date?"
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Me ___ un café, por favor? (regalar, usted)",
+      "answers": [
+        "regala"
+      ],
+      "hint": "May I have a coffee, please? (Colombia)"
+    },
+    {
+      "type": "fill",
+      "prompt": "Se ___ un error en la factura. (cometer)",
+      "answers": [
+        "cometió"
+      ],
+      "hint": "A mistake was made on the invoice."
+    },
+    {
+      "type": "fill",
+      "prompt": "El informe está un ___ incompleto.",
+      "answers": [
+        "tanto",
+        "poco"
+      ],
+      "hint": "The report is somewhat incomplete."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi más sentido ___.",
+      "answers": [
+        "pésame"
+      ],
+      "hint": "My deepest condolences."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me encantaría, pero ya tengo un ___.",
+      "answers": [
+        "compromiso"
+      ],
+      "hint": "I'd love to, but I already have a commitment."
+    },
+    {
+      "type": "fill",
+      "prompt": "Le pido ___ por las molestias.",
+      "answers": [
+        "disculpas",
+        "perdón"
+      ],
+      "hint": "I apologize for the inconvenience."
+    },
+    {
+      "type": "fill",
+      "prompt": "Disculpe la ___.",
+      "answers": [
+        "demora",
+        "tardanza"
+      ],
+      "hint": "Sorry for the delay."
+    },
+    {
+      "type": "fill",
+      "prompt": "No sé si estoy del ___ de acuerdo.",
+      "answers": [
+        "todo"
+      ],
+      "hint": "I'm not sure I entirely agree."
+    },
+    {
+      "type": "mc",
+      "prompt": "Most polite:",
+      "options": [
+        "¿Serías tan amable de pasarme la sal?",
+        "Pásame la sal.",
+        "¿Me pasas la sal?",
+        "La sal."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "What do you say at a funeral?",
+      "options": [
+        "Mi más sentido pésame.",
+        "¡Felicidades!",
+        "¡Qué padre!",
+        "Trato hecho."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Se cometió un error* instead of *Cometiste un error* is used to…",
+      "options": [
+        "avoid blaming the person",
+        "blame the person more",
+        "ask a question",
+        "express surprise"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*¿Me regala un café?* in a Colombian shop means…",
+      "options": [
+        "May I have a coffee? (I'll pay)",
+        "Give me a free coffee.",
+        "Can I give you a coffee?",
+        "Do you sell gifts?"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I'd love to, but I already have a commitment.",
+      "answers": [
+        "Me encantaría, pero ya tengo un compromiso."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I apologize for the inconvenience. (usted)",
+      "answers": [
+        "Le pido disculpas por las molestias.",
+        "Disculpe las molestias."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Would you mind closing the window? (tú)",
+      "answers": [
+        "¿Te importaría cerrar la ventana?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm not sure I entirely agree.",
+      "answers": [
+        "No sé si estoy del todo de acuerdo.",
+        "No estoy seguro de estar del todo de acuerdo.",
+        "No estoy segura de estar del todo de acuerdo."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I really like the idea; perhaps we could improve the presentation a little.\"",
+      "answer": "Me gusta mucho la idea; quizás podríamos mejorar un poco la presentación."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'm sorry to tell you that you weren't selected.\"",
+      "answer": "Lamento decirte que no te seleccionaron."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Would there be any chance of changing the date?\"",
+      "answer": "¿Habría alguna posibilidad de cambiar la fecha?"
+    }
+  ]
+}
