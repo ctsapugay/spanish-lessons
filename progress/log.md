@@ -108,3 +108,6 @@ reader: state, not narrative.
 - app.js: when served by the launcher, the file is the source of truth on startup and every save also goes to the file; opening index.html directly still uses browser storage only. Settings says which mode is active; a banner appears if a file save fails.
 - CHK-003 strengthened (not weakened): +5 scenarios run the real launcher — progress saved to file, survives a brand-new browser profile, backup kept, foreign-origin write refused. `bash checks/app.sh`: "app ok: 29 checks passed". No baseline drift (registry entry unchanged). README "Using it" updated.
 - Committed locally only; not pushed (repo is public — push needs Clara's go-ahead).
+
+## 2026-09-27 — Push approved by Clara
+- Clara said "push it"; pushed the launcher commit and this log entry to ctsapugay/spanish-lessons.
