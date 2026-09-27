@@ -117,3 +117,9 @@ reader: state, not narrative.
 - Causes/fixes (app/app.js): Enter checked the answer and the same key press then clicked the newly focused Continue button → Enter now only checks (preventDefault); a second Enter continues. Sessions (practice, quizzes, tests) now have "← Previous" / "Next →" / "Back to current question" to review answered questions read-only (answers can't be changed; scores unaffected). "Practise again" / "Try again" linked to the page already open, so no hashchange fired → a link to the current page now restarts it.
 - CHK-003 strengthened: +6 scenarios (Enter shows result, Enter advances, Previous shows earlier result, return to current, Practise again, Try again). Confirmed they FAIL on the previous app code (5 failing) and pass on the new: "app ok: 35 checks passed". Registry entry unchanged; no baseline drift.
 - Committed locally only; not pushed.
+
+## 2026-09-27 — Appearance: light/dark mode and accent colour
+- Clara: doesn't like the orange; wants a choosable accent colour including pink, and both light and dark mode.
+- Settings → Appearance: theme (Match my computer / Light / Dark) and accent (Pink default, Purple, Blue, Teal, Orange), applied instantly and saved with progress (so also in my-progress.json). Each accent has a darker shade for light mode and a lighter one for dark mode. No green/red accents, to keep right/wrong feedback distinct.
+- CHK-003 strengthened: +4 scenarios (pink offered, both modes work, every accent×mode has contrast ≥ 4.5 for text and button labels, choices survive reload). Also made the review-navigation scenario independent of question shuffle order (it was skipping its check when a typed question came second). "app ok: 39 checks passed" three runs in a row. README mentions Appearance.
+- Committed locally only; not pushed.

@@ -22,6 +22,8 @@ your own machine: no account, no server, no tracking, and it works offline.
   from lesson N, the rest from earlier lessons, favouring items you got wrong before.
   Passing (80% by default, adjustable in Settings) unlocks the next lesson. Each level ends
   with a cumulative level test.
+- **Appearance** — light, dark or match-your-computer mode, and a choice of accent colour
+  (pink, purple, blue, teal or orange), in Settings.
 - **Your data** — started with the launcher, progress is saved automatically to
   `my-progress.json` in the course folder (previous version kept as
   `my-progress.backup.json`), so clearing browser data can't lose it. Settings can also

@@ -11,7 +11,9 @@
 
   const COURSE = window.COURSE || { levels: [] };
   const STORE_KEY = "spanish-lessons.progress";
-  const DEFAULT_SETTINGS = { passScore: 80, quizLength: 20, speechRate: 0.9 };
+  const DEFAULT_SETTINGS = { passScore: 80, quizLength: 20, speechRate: 0.9, theme: "system", accent: "pink" };
+  const THEMES = [["system", "Match my computer"], ["light", "Light"], ["dark", "Dark"]];
+  const ACCENTS = [["pink", "Pink", "#db2777"], ["purple", "Purple", "#9333ea"], ["blue", "Blue", "#2563eb"], ["teal", "Teal", "#0d9488"], ["orange", "Orange", "#ea580c"]];
   const QUIZ_CURRENT_SHARE = 0.6;   // share of a lesson quiz drawn from the lesson itself
   const PRACTICE_LENGTH = 12;
 
@@ -56,6 +58,13 @@
     };
   }
   let state = loadState();
+  function applyAppearance() {
+    const root = document.documentElement;
+    const t = state.settings.theme;
+    if (t === "light" || t === "dark") root.dataset.theme = t; else delete root.dataset.theme;
+    root.dataset.accent = ACCENTS.some(([id]) => id === state.settings.accent) ? state.settings.accent : "pink";
+  }
+  applyAppearance();
   function save() {
     try {
       localStorage.setItem(STORE_KEY, JSON.stringify(state));
@@ -745,6 +754,12 @@
   function viewSettings() {
     const s = state.settings;
     $app.innerHTML = `<h1>Settings</h1>
+      <div class="card"><h3>Appearance</h3>
+        <p class="muted small">Light or dark mode, and the accent colour. Changes apply straight away.</p>
+        <div class="choices" role="group" aria-label="Theme">${THEMES.map(([id, label]) =>
+          `<button class="choice" type="button" data-theme-choice="${id}" aria-pressed="${s.theme === id}">${label}</button>`).join("")}</div>
+        <div class="choices" role="group" aria-label="Accent colour" style="margin-top:10px">${ACCENTS.map(([id, label, sw]) =>
+          `<button class="choice" type="button" data-accent-choice="${id}" aria-pressed="${s.accent === id}"><span class="swatch" style="background:${sw}"></span>${label}</button>`).join("")}</div></div>
       <div class="card"><h3>Passing score</h3><p class="muted small">The score you need on a quiz or level test to pass it.</p>
         <div class="row"><input type="number" id="passScore" min="50" max="100" step="5" value="${esc(s.passScore)}"> %</div>
         <h3>Quiz length</h3><div class="row"><input type="number" id="quizLength" min="10" max="40" step="5" value="${esc(s.quizLength)}"> questions per lesson quiz</div>
@@ -758,6 +773,12 @@
         <button class="btn secondary" id="reset" type="button">Reset all progress</button></div><div id="ioMsg" class="small" style="margin-top:8px"></div></div>
       <div class="card"><h3>Flagged answers</h3><p class="muted small">Answers you marked “I was right”. They help find answer keys that need fixing.</p>
         ${state.flagged.length ? `<ul class="pairs">${state.flagged.map((f) => `<li><span class="muted small">${esc(f.id)}</span><span>${esc(f.prompt || "")} → <strong>${esc(f.given || "")}</strong></span></li>`).join("")}</ul><button class="btn secondary small" id="clearFlags" type="button">Clear list</button>` : '<p class="small muted">None.</p>'}</div>`;
+    $app.querySelectorAll("[data-theme-choice]").forEach((b) => (b.onclick = () => {
+      s.theme = b.dataset.themeChoice; save(); applyAppearance(); viewSettings();
+    }));
+    $app.querySelectorAll("[data-accent-choice]").forEach((b) => (b.onclick = () => {
+      s.accent = b.dataset.accentChoice; save(); applyAppearance(); viewSettings();
+    }));
     document.getElementById("saveSettings").onclick = () => {
       const clamp = (v, lo, hi, d) => (isFinite(v) ? Math.min(hi, Math.max(lo, v)) : d);
       s.passScore = Math.round(clamp(Number(document.getElementById("passScore").value), 50, 100, 80));
@@ -788,6 +809,7 @@
           return;
         }
         state = upgrade(data);
+        applyAppearance();
         save();
         viewSettings();
         document.getElementById("ioMsg").textContent = "Progress imported.";
@@ -814,6 +836,7 @@
   function route() {
     if ("speechSynthesis" in window) speechSynthesis.cancel();
     state = loadState(); // progress may have changed in another tab (every change is saved at once)
+    applyAppearance();
     const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
     const [a, b, c] = parts;
     document.querySelectorAll("[data-nav]").forEach((n) => n.classList.remove("active"));

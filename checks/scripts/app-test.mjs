@@ -389,6 +389,14 @@ async function scenarioSessionControls() {
     const q = page.locator(".question");
     if ((await q.count()) === 0) break;
     const item = await itemOf();
+    if (n >= 1 && reviewOk === null) { // any question after the first: look back, then return
+      const curId = await q.getAttribute("data-item-id");
+      await page.click("[data-action=prev]");
+      const rc = await counter();
+      reviewOk = new RegExp(`Reviewing question ${n} of`).test(rc) && (await page.locator(".question .feedback").count()) === 1 && (await page.locator(".question").getAttribute("data-item-id")) !== curId;
+      await page.click("[data-action=forward]");
+      returnOk = new RegExp(`^Question ${n + 1} of`).test(await counter()) && (await page.locator(".question").getAttribute("data-item-id")) === curId;
+    }
     const typed = ["fill", "translate", "listen"].includes(item.type);
     if (typed && enterShows === null) {
       const before = await counter();
@@ -400,14 +408,6 @@ async function scenarioSessionControls() {
       await page.waitForTimeout(150);
       enterAdvances = (await counter()) !== before;
       continue;
-    }
-    if (n === 1 && reviewOk === null) {
-      const curId = await q.getAttribute("data-item-id");
-      await page.click("[data-action=prev]");
-      const rc = await counter();
-      reviewOk = /Reviewing question 1/.test(rc) && (await page.locator(".question .feedback").count()) === 1 && (await page.locator(".question").getAttribute("data-item-id")) !== curId;
-      await page.click("[data-action=forward]");
-      returnOk = /^Question 2/.test(await counter()) && (await page.locator(".question").getAttribute("data-item-id")) === curId;
     }
     if (item.type === "mc") await q.locator(`[data-option="${item.answer}"]`).click();
     else if (item.type === "build") {
@@ -437,6 +437,42 @@ async function scenarioSessionControls() {
   await page.locator(".question").waitFor({ timeout: 3000 }).catch(() => {});
   const retry = (await page.locator(".question").count()) === 1 && /^Question 1 of/.test(await counter());
   check("Try again after a quiz starts the quiz over", retry, "");
+  await ctx.close();
+}
+
+async function scenarioAppearance() {
+  const ctx = await freshContext();
+  const page = await newPage(ctx);
+  await page.goto(BASE + "#/settings");
+  const accents = await page.$$eval("[data-accent-choice]", (bs) => bs.map((b) => b.dataset.accentChoice));
+  check("accent colour can be chosen, pink included", accents.length >= 3 && accents.includes("pink"), accents.join(", "));
+  const colours = () => page.evaluate(() => {
+    const probe = (prop) => { const d = document.createElement("div"); d.style.color = `var(${prop})`; document.body.appendChild(d); const c = getComputedStyle(d).color; d.remove(); return c.match(/\d+(\.\d+)?/g).slice(0, 3).map(Number); };
+    return { bg: probe("--bg"), accent: probe("--accent"), ink: probe("--accent-ink"), panel: probe("--panel") };
+  });
+  const lum = ([r, g, b]) => { const f = (v) => { v /= 255; return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4; }; return 0.2126 * f(r) + 0.7152 * f(g) + 0.0722 * f(b); };
+  const contrast = (a, b) => { const [x, y] = [lum(a), lum(b)].sort((p, q) => q - p); return (x + 0.05) / (y + 0.05); };
+  const bad = [];
+  let modesOk = true;
+  for (const theme of ["light", "dark"]) {
+    await page.click(`[data-theme-choice="${theme}"]`);
+    for (const a of accents) {
+      await page.click(`[data-accent-choice="${a}"]`);
+      const c = await colours();
+      if ((theme === "dark") !== (lum(c.bg) < 0.1)) modesOk = false;
+      const text = Math.min(contrast(c.accent, c.bg), contrast(c.accent, c.panel));
+      const button = contrast(c.ink, c.accent);
+      if (text < 4.5 || button < 4.5) bad.push(`${theme}/${a}: text ${text.toFixed(2)} button ${button.toFixed(2)}`);
+    }
+  }
+  check("light and dark mode can be chosen", modesOk, "");
+  check("every accent colour is readable in light and dark mode (contrast ≥ 4.5)", bad.length === 0, bad.join("; "));
+  await page.click(`[data-theme-choice="dark"]`);
+  await page.click(`[data-accent-choice="pink"]`);
+  await page.reload();
+  await page.goto(BASE + "#/");
+  const kept = await page.evaluate(() => [document.documentElement.dataset.theme, document.documentElement.dataset.accent]);
+  check("appearance choices are remembered after a reload", kept[0] === "dark" && kept[1] === "pink", kept.join("/"));
   await ctx.close();
 }
 
@@ -501,7 +537,7 @@ async function scenarioLauncherFile() {
 }
 
 // ---------------------------------------------------------------- run
-const scenarios = [scenarioFileUrl, scenarioPracticeAndQuizBasics, scenarioPassScoreSetting, scenarioCumulativeQuiz, scenarioLevelTest, scenarioExportImportAndUpdate, scenarioSessionControls, scenarioLauncherFile];
+const scenarios = [scenarioFileUrl, scenarioPracticeAndQuizBasics, scenarioPassScoreSetting, scenarioCumulativeQuiz, scenarioLevelTest, scenarioExportImportAndUpdate, scenarioSessionControls, scenarioAppearance, scenarioLauncherFile];
 for (const s of scenarios) {
   try {
     await s();

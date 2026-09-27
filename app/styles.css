@@ -4,8 +4,6 @@
   --ink: #1f2328;
   --muted: #5f6670;
   --line: #e2ddd3;
-  --accent: #c2410c;
-  --accent-ink: #ffffff;
   --good: #15803d;
   --good-bg: #e8f6ec;
   --bad: #b91c1c;
@@ -13,13 +11,31 @@
   --warn-bg: #fff6e0;
   --locked: #a8a29e;
   --radius: 10px;
+  /* accent colour, chosen in Settings: a darker shade for light mode, a lighter one for dark */
+  --accent-light: #be185d; --accent-dark: #f472b6;          /* pink (default) */
+  --accent: var(--accent-light);
+  --accent-ink: #ffffff;
+  color-scheme: light;
 }
+:root[data-accent="purple"] { --accent-light: #7e22ce; --accent-dark: #c084fc; }
+:root[data-accent="blue"]   { --accent-light: #1d4ed8; --accent-dark: #60a5fa; }
+:root[data-accent="teal"]   { --accent-light: #0f766e; --accent-dark: #2dd4bf; }
+:root[data-accent="orange"] { --accent-light: #c2410c; --accent-dark: #fb923c; }
+
+/* Dark mode: follows the computer's setting, unless Settings picks Light or Dark */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --bg: #17181b; --panel: #212226; --ink: #ececec; --muted: #a3a3a3; --line: #34363b;
-    --accent: #f97316; --accent-ink: #17181b; --good: #4ade80; --good-bg: #16301f;
+    --accent: var(--accent-dark); --accent-ink: #17181b; --good: #4ade80; --good-bg: #16301f;
     --bad: #f87171; --bad-bg: #3a1c1c; --warn-bg: #3a3018; --locked: #6b6b6b;
+    color-scheme: dark;
   }
+}
+:root[data-theme="dark"] {
+  --bg: #17181b; --panel: #212226; --ink: #ececec; --muted: #a3a3a3; --line: #34363b;
+  --accent: var(--accent-dark); --accent-ink: #17181b; --good: #4ade80; --good-bg: #16301f;
+  --bad: #f87171; --bad-bg: #3a1c1c; --warn-bg: #3a3018; --locked: #6b6b6b;
+  color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body {
@@ -135,3 +151,13 @@ input[type=number] { width: 7em; }
 .session-nav { margin-top: 4px; }
 
 [hidden] { display: none !important; }
+
+/* Settings → Appearance */
+.choices { display: flex; flex-wrap: wrap; gap: 8px; }
+.choice {
+  display: inline-flex; align-items: center; gap: 8px; cursor: pointer;
+  padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line);
+  background: var(--panel); color: var(--ink); font: inherit;
+}
+.choice[aria-pressed="true"] { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
+.swatch { width: 16px; height: 16px; border-radius: 50%; display: inline-block; }
