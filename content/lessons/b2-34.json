@@ -1,0 +1,86 @@
+{
+  "sections": [
+    {
+      "heading": "Voseo",
+      "body": "In Argentina, Uruguay and Paraguay, and widely in Central America, *vos* replaces *tú*. The present tense stresses the ending and drops the stem change: *vos hablás, comés, vivís, tenés, querés, podés, sos* (you are). Commands: *hablá, comé, viví, vení, decí, tené*. The subjunctive is often the *tú* form: *que vos tengas*. Pronouns stay *te* and *tu*: *Vos te llamás Ana, ¿no?* You don't need to use *vos*, but you should understand it — and *tú* is always accepted."
+    },
+    {
+      "heading": "Same thing, different word",
+      "body": "",
+      "table": {
+        "head": ["English", "Mexico", "Argentina", "Colombia / others", "Spain"],
+        "rows": [
+          ["car", "*carro, coche*", "*auto*", "*carro*", "*coche*"],
+          ["bus", "*camión* (city bus)", "*colectivo*", "*bus, buseta*", "*autobús*"],
+          ["cell phone", "*celular*", "*celular*", "*celular*", "*móvil*"],
+          ["computer", "*computadora*", "*computadora*", "*computador*", "*ordenador*"],
+          ["cool!", "*¡qué padre!*", "*¡qué copado!*", "*¡qué chévere!*", "*¡qué guay!*"],
+          ["money (slang)", "*lana*", "*guita, plata*", "*plata*", "*pasta*"],
+          ["kid", "*chavo, niño*", "*pibe, nene*", "*pelado, niño*", "*chaval, crío*"],
+          ["avocado", "*aguacate*", "*palta*", "*aguacate*", "*aguacate*"],
+          ["straw", "*popote*", "*pajita, sorbete*", "*pitillo*", "*pajita*"]
+        ]
+      }
+    },
+    {
+      "heading": "Accents of Spanish",
+      "body": "Major accent zones: Mexican (clear, often a model for learners), Caribbean (Cuba, Puerto Rico, Dominican Republic: final *-s* often aspirated or dropped — *¿Cómo estás?* sounds like *¿Cómo ehtá?*), Andean (careful, clear consonants), Rioplatense (Buenos Aires, Montevideo: *ll* and *y* sound like English \"sh\" — *yo* → \"sho\"; Italian-like intonation), Chilean (fast, dropped *-s*, lots of *po* and *cachai?*), and Spain (*vosotros*, and *z / ce / ci* pronounced like English \"th\"). All are equally correct."
+    }
+  ],
+  "vocab": [
+    ["vos", "you (Argentina, Uruguay, Central America)"],
+    ["sos", "you are (vos)"],
+    ["el colectivo", "the bus (Argentina)"],
+    ["el camión", "the bus (Mexico) / truck"],
+    ["el auto", "the car (Southern Cone)"],
+    ["la plata", "money (colloquial)"],
+    ["la palta", "avocado (Southern Cone, Peru)"],
+    ["el popote", "the straw (Mexico)"],
+    ["el pibe", "the kid (Argentina)"],
+    ["¡qué copado!", "how cool! (Argentina)"],
+    ["el acento", "the accent"],
+    ["la variante", "the variety / variant"]
+  ],
+  "examples": [
+    ["¿Vos sos de Buenos Aires?", "Are you from Buenos Aires?"],
+    ["¿Qué querés tomar?", "What do you want to drink? (vos)"],
+    ["Vení acá, decime la verdad.", "Come here, tell me the truth. (vos)"],
+    ["Vos te llamás Ana, ¿no?", "Your name is Ana, right? (vos)"],
+    ["¿Tenés hora?", "Do you have the time? (vos)"],
+    ["Tomé el colectivo para ir al centro.", "I took the bus downtown. (Argentina)"],
+    ["En la Ciudad de México tomé un camión.", "In Mexico City I took a bus."],
+    ["Dejé el auto en el estacionamiento.", "I left the car in the parking lot. (Southern Cone)"],
+    ["No tengo plata.", "I don't have any money."],
+    ["Me encanta la palta con pan.", "I love avocado on bread. (Southern Cone)"],
+    ["Una limonada sin popote, por favor.", "A lemonade without a straw, please. (Mexico)"],
+    ["Ese pibe juega muy bien al fútbol.", "That kid plays soccer really well. (Argentina)"],
+    ["¡Qué copado tu departamento!", "Your apartment is so cool! (Argentina)"],
+    ["Tiene acento colombiano.", "She has a Colombian accent."],
+    ["Todas las variantes del español son correctas.", "All varieties of Spanish are correct."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "¿Vos ___ de Buenos Aires? (ser)", "answers": ["sos"], "hint": "Are you from Buenos Aires?"},
+    {"type": "fill", "prompt": "¿Qué ___ tomar? (querer, vos)", "answers": ["querés"], "hint": "What do you want to drink?"},
+    {"type": "fill", "prompt": "___ acá, decime la verdad. (venir, vos)", "answers": ["vení"], "hint": "Come here, tell me the truth."},
+    {"type": "fill", "prompt": "Vos te ___ Ana, ¿no? (llamarse)", "answers": ["llamás"], "hint": "Your name is Ana, right?"},
+    {"type": "fill", "prompt": "¿___ hora? (tener, vos)", "answers": ["tenés"], "hint": "Do you have the time?"},
+    {"type": "fill", "prompt": "Tomé el ___ para ir al centro.", "answers": ["colectivo"], "hint": "I took the bus downtown (Argentina)."},
+    {"type": "fill", "prompt": "No tengo ___.", "answers": ["plata"], "hint": "I don't have any money (colloquial)."},
+    {"type": "fill", "prompt": "Una limonada sin ___, por favor.", "answers": ["popote"], "hint": "A lemonade without a straw, please (Mexico)."},
+    {"type": "fill", "prompt": "Dejé el ___ en el estacionamiento.", "answers": ["auto"], "hint": "I left the car in the parking lot (Southern Cone)."},
+    {"type": "fill", "prompt": "Me encanta la ___ con pan.", "answers": ["palta"], "hint": "I love avocado on bread (Southern Cone)."},
+    {"type": "fill", "prompt": "Todas las ___ del español son correctas.", "answers": ["variantes"], "hint": "All varieties of Spanish are correct."},
+    {"type": "mc", "prompt": "*vos comés* = *tú* …", "options": ["comes", "comas", "comiste", "come"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Tomé un camión* in Mexico City means…", "options": ["I took a bus.", "I took a truck ride.", "I drove a car.", "I took a taxi."], "answer": 0},
+    {"type": "mc", "prompt": "In Spain, a cell phone is…", "options": ["un móvil", "un celular", "un teléfono de bolsillo", "una computadora"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "In Rioplatense Spanish, *yo* sounds like…", "options": ["\"sho\"", "\"yo\" with a hard y", "\"jo\"", "\"lo\""], "answer": 0},
+    {"type": "mc", "prompt": "*¡Qué copado!* is said in…", "options": ["Argentina", "Mexico", "Spain", "Cuba"], "answer": 0},
+    {"type": "translate", "prompt": "I don't have any money. (colloquial LatAm)", "answers": ["No tengo plata.", "No tengo dinero."]},
+    {"type": "translate", "prompt": "She has a Colombian accent.", "answers": ["Tiene acento colombiano.", "Ella tiene acento colombiano."]},
+    {"type": "translate", "prompt": "Are you from Buenos Aires? (vos)", "answers": ["¿Vos sos de Buenos Aires?", "¿Sos de Buenos Aires?"]},
+    {"type": "translate", "prompt": "Do you have the time? (vos)", "answers": ["¿Tenés hora?"]},
+    {"type": "build", "prompt": "Put the words in order: \"That kid plays soccer really well.\"", "answer": "Ese pibe juega muy bien al fútbol."},
+    {"type": "build", "prompt": "Put the words in order: \"Your name is Ana, right?\" (vos)", "answer": "Vos te llamás Ana, ¿no?"},
+    {"type": "build", "prompt": "Put the words in order: \"In Mexico City I took a bus.\"", "answer": "En la Ciudad de México tomé un camión."}
+  ]
+}

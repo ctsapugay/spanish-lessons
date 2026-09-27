@@ -1,0 +1,77 @@
+{
+  "sections": [
+    {
+      "heading": "Cualquier / cualquiera",
+      "body": "*Cualquier* (any, whichever) goes **before** a noun, masculine or feminine: *cualquier día, cualquier persona*. *Cualquiera* stands **alone** or after the noun: *Elige cualquiera.* (Choose any one.) *Un día cualquiera* (just an ordinary day). *Cualquiera puede hacerlo.* (Anyone can do it.) Plural (rare): *cualesquiera*."
+    },
+    {
+      "heading": "Cada, varios, ambos, los demás",
+      "body": "*Cada* (each / every) never changes: *cada día, cada semana, cada uno / cada una* (each one). *Cada vez más* (more and more): *Hay cada vez más tráfico.*\n*Varios / varias* (several): *Tengo varias preguntas.*\n*Ambos / ambas* (both) = *los dos / las dos*: *Ambas opciones son buenas.*\n*Los demás / las demás* (the others / the rest): *Los demás ya se fueron.* *Lo demás* (everything else): *Lo demás no importa.*\n*Sendos / sendas* (one each — formal): *Llevaban sendas maletas.*"
+    },
+    {
+      "heading": "Fractions, percentages and multiples",
+      "body": "*La mitad* (half), *un tercio* (a third), *un cuarto* (a quarter), *dos tercios*, *tres cuartos*. From 1/5: *un quinto, un sexto… un décimo*, then *un onceavo…* or *la onceava parte*. *La mitad de los estudiantes votó / votaron.* Percentages take *el / un*: *el 30 % (treinta por ciento) de la población*. Multiples: *el doble* (double, twice as much), *el triple*, *el cuádruple*: *Gana el doble que yo.* *Cuesta tres veces más.*"
+    }
+  ],
+  "vocab": [
+    ["cualquier", "any (before a noun)"],
+    ["cualquiera", "anyone / any one"],
+    ["cada", "each / every"],
+    ["cada vez más", "more and more"],
+    ["varios / varias", "several"],
+    ["ambos / ambas", "both"],
+    ["los demás", "the others / the rest"],
+    ["lo demás", "everything else"],
+    ["la mitad", "half"],
+    ["un tercio", "a third"],
+    ["un cuarto", "a quarter"],
+    ["el doble", "double / twice as much"],
+    ["el triple", "triple / three times as much"],
+    ["por ciento", "percent"]
+  ],
+  "examples": [
+    ["Llámame a cualquier hora.", "Call me at any time."],
+    ["Elige cualquiera.", "Choose any one."],
+    ["Cualquiera puede hacerlo.", "Anyone can do it."],
+    ["Fue un día cualquiera.", "It was just an ordinary day."],
+    ["Cada uno paga lo suyo.", "Each one pays for their own."],
+    ["Voy al gimnasio cada dos días.", "I go to the gym every other day."],
+    ["Hay cada vez más tráfico.", "There's more and more traffic."],
+    ["Tengo varias preguntas.", "I have several questions."],
+    ["Ambas opciones son buenas.", "Both options are good."],
+    ["Los demás ya se fueron.", "The others already left."],
+    ["Lo demás no importa.", "Everything else doesn't matter."],
+    ["La mitad de los estudiantes aprobó.", "Half of the students passed."],
+    ["Un tercio del presupuesto es para salud.", "A third of the budget is for health."],
+    ["Tres cuartos de la población vive en ciudades.", "Three quarters of the population lives in cities."],
+    ["El treinta por ciento de la gente no votó.", "Thirty percent of people didn't vote."],
+    ["Gana el doble que yo.", "She earns twice as much as I do."],
+    ["Este cuesta tres veces más.", "This one costs three times as much."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Llámame a ___ hora.", "answers": ["cualquier"], "hint": "Call me at any time."},
+    {"type": "fill", "prompt": "Elige ___.", "answers": ["cualquiera"], "hint": "Choose any one."},
+    {"type": "fill", "prompt": "Fue un día ___.", "answers": ["cualquiera"], "hint": "It was just an ordinary day."},
+    {"type": "fill", "prompt": "___ uno paga lo suyo.", "answers": ["cada"], "hint": "Each one pays for their own."},
+    {"type": "fill", "prompt": "Hay cada vez ___ tráfico.", "answers": ["más"], "hint": "There's more and more traffic."},
+    {"type": "fill", "prompt": "Tengo ___ preguntas.", "answers": ["varias"], "hint": "I have several questions."},
+    {"type": "fill", "prompt": "___ opciones son buenas.", "answers": ["ambas"], "hint": "Both options are good."},
+    {"type": "fill", "prompt": "Los ___ ya se fueron.", "answers": ["demás"], "hint": "The others already left."},
+    {"type": "fill", "prompt": "La ___ de los estudiantes aprobó.", "answers": ["mitad"], "hint": "Half of the students passed."},
+    {"type": "fill", "prompt": "Un ___ del presupuesto es para salud.", "answers": ["tercio"], "hint": "A third of the budget is for health."},
+    {"type": "fill", "prompt": "Gana el ___ que yo.", "answers": ["doble"], "hint": "She earns twice as much as I do."},
+    {"type": "fill", "prompt": "El treinta por ___ de la gente no votó.", "answers": ["ciento"], "hint": "Thirty percent of people didn't vote."},
+    {"type": "mc", "prompt": "Choose: ___ persona puede entrar.", "options": ["Cualquier", "Cualquiera", "Cada una", "Ambas"], "answer": 0, "lang": "es", "explain": "Before a noun → *cualquier*."},
+    {"type": "mc", "prompt": "Choose: ___ puede hacerlo.", "options": ["Cualquiera", "Cualquier", "Cada", "Varios"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Lo demás no importa* means…", "options": ["Everything else doesn't matter.", "The others don't matter.", "More doesn't matter.", "It doesn't matter anymore."], "answer": 0},
+    {"type": "mc", "prompt": "*Voy al gimnasio cada dos días* means…", "options": ["I go to the gym every other day.", "I go to the gym twice a day.", "I go to the gym for two days.", "I go to the gym two days a week."], "answer": 0},
+    {"type": "mc", "prompt": "\"Three quarters\" →", "options": ["tres cuartos", "tres cuartas", "tres cuarteros", "tres de cuatro"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Anyone can do it.", "answers": ["Cualquiera puede hacerlo.", "Cualquiera lo puede hacer."]},
+    {"type": "translate", "prompt": "There's more and more traffic.", "answers": ["Hay cada vez más tráfico."]},
+    {"type": "translate", "prompt": "Both options are good. (use ambas)", "answers": ["Ambas opciones son buenas."]},
+    {"type": "translate", "prompt": "This one costs three times as much.", "answers": ["Este cuesta tres veces más."]},
+    {"type": "build", "prompt": "Put the words in order: \"Three quarters of the population lives in cities.\"", "answer": "Tres cuartos de la población vive en ciudades."},
+    {"type": "build", "prompt": "Put the words in order: \"I go to the gym every other day.\"", "answer": "Voy al gimnasio cada dos días."},
+    {"type": "build", "prompt": "Put the words in order: \"Half of the students passed.\"", "answer": "La mitad de los estudiantes aprobó."}
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "sections": [
+    {
+      "heading": "Softening a command",
+      "body": "A bare imperative can sound abrupt. Soften it with:\n\n- *por favor* and a diminutive: *Espérame un momentito, por favor.*\n- a question: *¿Me pasas la sal?* (present) / *¿Me pasarías la sal?* (conditional — politer) / *¿Podrías cerrar la ventana?*\n- *¿Te importa si…?* / *¿Le molestaría…?* (Would you mind…?)\n- *si no es mucha molestia* (if it's not too much trouble)\n\nIn much of Latin America, requests with the plain imperative are softened by tone and *¿sí?*: *Pásame la sal, ¿sí?*"
+    },
+    {
+      "heading": "Strengthening a command",
+      "body": "*¡Que te calles!* (I said be quiet!) — *que* + subjunctive repeats or insists on an order. *¡Te dije que vinieras!* *¡Ni se te ocurra!* (Don't even think about it!) *¡Ya!* (Now! / Enough!) *¡Fuera de aquí!* (Get out of here!)"
+    },
+    {
+      "heading": "Que + subjunctive wishes",
+      "body": "*Que* + subjunctive expresses wishes to someone: *¡Que te vaya bien!* (Hope it goes well!) *¡Que tengas buen viaje!* *¡Que te mejores!* (Get well soon!) *¡Que lo pases bien!* (Have fun!) *¡Que descanses!* (Rest well!) *¡Que cumplas muchos más!* (Many happy returns!)"
+    },
+    {
+      "heading": "Imperatives as set phrases",
+      "body": "Some imperatives have become interjections: *¡Anda!* (Wow! / Go on!), *¡Vamos!* (Come on!), *¡Dale!* (OK! / Go for it! — Southern Cone, Caribbean, very common), *¡Órale!* (Mexico — OK / come on / wow), *¡Mira!* (Look! / Well…), *¡Oye!* (Hey!), *¡Fíjate!* (Imagine that! / Look at this!), *¡Dime!* (Tell me / Yes? — answering). *Venga* is mainly Spain."
+    }
+  ],
+  "vocab": [
+    ["¿te importa si…?", "do you mind if…?"],
+    ["¿le molestaría…?", "would you mind…? (usted)"],
+    ["la molestia", "the trouble / bother"],
+    ["¡ni se te ocurra!", "don't even think about it!"],
+    ["¡que te vaya bien!", "hope it goes well!"],
+    ["¡que te mejores!", "get well soon!"],
+    ["¡que descanses!", "rest well!"],
+    ["¡dale!", "OK! / go for it!"],
+    ["¡órale!", "OK! / come on! (Mexico)"],
+    ["¡fíjate!", "imagine that! / look!"],
+    ["callarse", "to be quiet"],
+    ["¡fuera!", "out! / get out!"]
+  ],
+  "examples": [
+    ["Espérame un momentito, por favor.", "Wait for me a moment, please."],
+    ["¿Me pasas la sal?", "Can you pass me the salt?"],
+    ["¿Me pasarías la sal?", "Would you pass me the salt?"],
+    ["¿Podrías cerrar la ventana?", "Could you close the window?"],
+    ["¿Te importa si abro la ventana?", "Do you mind if I open the window?"],
+    ["¿Le molestaría esperar afuera?", "Would you mind waiting outside?"],
+    ["Si no es mucha molestia, ¿me ayuda con esto?", "If it's not too much trouble, could you help me with this?"],
+    ["Pásame la sal, ¿sí?", "Pass me the salt, will you?"],
+    ["¡Que te calles!", "I said be quiet!"],
+    ["¡Ni se te ocurra!", "Don't even think about it!"],
+    ["¡Que te vaya bien!", "Hope it goes well!"],
+    ["¡Que te mejores!", "Get well soon!"],
+    ["¡Que lo pases bien!", "Have fun!"],
+    ["¡Que descanses!", "Rest well!"],
+    ["¿Vamos al cine? — ¡Dale!", "Shall we go to the movies? — OK!"],
+    ["¡Órale, vámonos!", "Come on, let's go!"],
+    ["¡Fíjate! Ganó la lotería.", "Imagine that! She won the lottery."],
+    ["¡Fuera de aquí!", "Get out of here!"]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "¿Me ___ la sal? (pasar, tú)", "answers": ["pasarías"], "hint": "Would you pass me the salt?"},
+    {"type": "fill", "prompt": "¿___ cerrar la ventana? (poder, tú)", "answers": ["podrías"], "hint": "Could you close the window?"},
+    {"type": "fill", "prompt": "¿Te ___ si abro la ventana?", "answers": ["importa"], "hint": "Do you mind if I open the window?"},
+    {"type": "fill", "prompt": "Si no es mucha ___, ¿me ayuda con esto?", "answers": ["molestia"], "hint": "If it's not too much trouble, could you help me with this?"},
+    {"type": "fill", "prompt": "¡Que te ___! (callarse)", "answers": ["calles"], "hint": "I said be quiet!"},
+    {"type": "fill", "prompt": "¡Ni se te ___!", "answers": ["ocurra"], "hint": "Don't even think about it!"},
+    {"type": "fill", "prompt": "¡Que te ___ bien! (ir)", "answers": ["vaya"], "hint": "Hope it goes well!"},
+    {"type": "fill", "prompt": "¡Que te ___! (mejorar)", "answers": ["mejores"], "hint": "Get well soon!"},
+    {"type": "fill", "prompt": "¡Que lo ___ bien! (pasar, tú)", "answers": ["pases"], "hint": "Have fun!"},
+    {"type": "fill", "prompt": "¡Que ___! (descansar, tú)", "answers": ["descanses"], "hint": "Rest well!"},
+    {"type": "fill", "prompt": "¡___ de aquí!", "answers": ["fuera"], "hint": "Get out of here!"},
+    {"type": "mc", "prompt": "The politest request:", "options": ["¿Me pasarías la sal?", "Pásame la sal.", "¡Que me pases la sal!", "La sal."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*¡Que te mejores!* is said to someone who…", "options": ["is ill", "is getting married", "is going on a trip", "is taking an exam"], "answer": 0},
+    {"type": "mc", "prompt": "*¿Vamos al cine? — ¡Dale!* The reply means…", "options": ["OK!", "Hit it!", "Give it to me!", "No way!"], "answer": 0},
+    {"type": "mc", "prompt": "*¡Órale!* is typical of…", "options": ["Mexico", "Argentina", "Spain", "Chile"], "answer": 0},
+    {"type": "mc", "prompt": "*¡Que te calles!* is…", "options": ["an insistent order", "a polite request", "a wish", "a question"], "answer": 0},
+    {"type": "translate", "prompt": "Do you mind if I open the window? (tú)", "answers": ["¿Te importa si abro la ventana?"]},
+    {"type": "translate", "prompt": "Would you mind waiting outside? (usted)", "answers": ["¿Le molestaría esperar afuera?", "¿Le molestaría esperar fuera?"]},
+    {"type": "translate", "prompt": "Don't even think about it! (tú)", "answers": ["¡Ni se te ocurra!"]},
+    {"type": "translate", "prompt": "Hope it goes well! (tú)", "answers": ["¡Que te vaya bien!"]},
+    {"type": "build", "prompt": "Put the words in order: \"Wait for me a moment, please.\"", "answer": "Espérame un momentito, por favor."},
+    {"type": "build", "prompt": "Put the words in order: \"Imagine that! She won the lottery.\"", "answer": "¡Fíjate! Ganó la lotería."},
+    {"type": "build", "prompt": "Put the words in order: \"Could you close the window?\"", "answer": "¿Podrías cerrar la ventana?"}
+  ]
+}

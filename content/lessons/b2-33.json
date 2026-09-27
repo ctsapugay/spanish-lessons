@@ -1,0 +1,76 @@
+{
+  "sections": [
+    {
+      "heading": "Describing change",
+      "body": "Going up: *aumentar, subir, crecer* → *un aumento, una subida, un crecimiento*. Going down: *disminuir, bajar, caer, descender* → *una disminución, una bajada, una caída, un descenso*. Staying: *mantenerse estable, estancarse* (to stagnate).\n\nHow much: *ligeramente* (slightly), *levemente*, *considerablemente, notablemente, drásticamente, de forma sostenida* (steadily), *bruscamente* (sharply). *Alcanzar un máximo / mínimo* (to reach a peak / low). *Duplicarse* (to double), *triplicarse*."
+    },
+    {
+      "heading": "Numbers in context",
+      "body": "*Aumentó un 15 %* or *aumentó en un 15 %* (by 15%). *Pasó de 200 a 300* (It went from 200 to 300). *Un millón de personas* (note *de* after *millón*), *mil millones* = a billion (US), *un billón* = a trillion (US)! Decimals: most of Latin America (Mexico, Central America, Caribbean) writes 3.5 with a point; the Southern Cone and Colombia write 3,5 with a comma. Say *tres coma cinco* or *tres punto cinco* accordingly."
+    },
+    {
+      "heading": "Describing a graph",
+      "body": "*El gráfico muestra…* (The graph shows…), *Según los datos…* (According to the data…), *En el eje horizontal…* (On the horizontal axis…), *La mayoría de…* (Most…), *Una minoría…*, *Destaca que…* (What stands out is that…), *En comparación con el año anterior…*, *La tendencia es…* (The trend is…)."
+    }
+  ],
+  "vocab": [
+    ["aumentar", "to increase"],
+    ["disminuir", "to decrease"],
+    ["la caída", "the fall / drop"],
+    ["mantenerse estable", "to remain stable"],
+    ["ligeramente", "slightly"],
+    ["considerablemente", "considerably"],
+    ["bruscamente", "sharply"],
+    ["alcanzar", "to reach"],
+    ["duplicarse", "to double"],
+    ["el gráfico", "the graph / chart"],
+    ["según", "according to"],
+    ["la tendencia", "the trend"],
+    ["la mayoría", "the majority / most"],
+    ["mil millones", "a billion"],
+    ["el eje", "the axis"]
+  ],
+  "examples": [
+    ["Las ventas aumentaron un quince por ciento.", "Sales increased by fifteen percent."],
+    ["El desempleo disminuyó ligeramente.", "Unemployment decreased slightly."],
+    ["Hubo una caída brusca en marzo.", "There was a sharp drop in March."],
+    ["Los precios se mantuvieron estables.", "Prices remained stable."],
+    ["La producción creció considerablemente.", "Production grew considerably."],
+    ["El dólar subió bruscamente.", "The dollar rose sharply."],
+    ["La temperatura alcanzó un máximo de cuarenta grados.", "The temperature reached a peak of forty degrees."],
+    ["La población se duplicó en veinte años.", "The population doubled in twenty years."],
+    ["Pasó de doscientos a trescientos usuarios.", "It went from two hundred to three hundred users."],
+    ["La ciudad tiene un millón de habitantes.", "The city has a million inhabitants."],
+    ["La empresa vale mil millones de dólares.", "The company is worth a billion dollars."],
+    ["El gráfico muestra la evolución de las ventas.", "The graph shows the evolution of sales."],
+    ["Según los datos, la mayoría prefiere trabajar desde casa.", "According to the data, most prefer to work from home."],
+    ["En el eje horizontal están los años.", "The years are on the horizontal axis."],
+    ["La tendencia es claramente positiva.", "The trend is clearly positive."],
+    ["Destaca que el consumo bajó en comparación con el año anterior.", "What stands out is that consumption fell compared with the previous year."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Las ventas ___ un quince por ciento. (aumentar)", "answers": ["aumentaron", "subieron", "crecieron"], "hint": "Sales increased by fifteen percent."},
+    {"type": "fill", "prompt": "El desempleo disminuyó ___.", "answers": ["ligeramente", "levemente"], "hint": "Unemployment decreased slightly."},
+    {"type": "fill", "prompt": "Hubo una ___ brusca en marzo.", "answers": ["caída", "bajada"], "hint": "There was a sharp drop in March."},
+    {"type": "fill", "prompt": "Los precios se ___ estables. (mantenerse)", "answers": ["mantuvieron"], "hint": "Prices remained stable."},
+    {"type": "fill", "prompt": "La temperatura ___ un máximo de cuarenta grados. (alcanzar)", "answers": ["alcanzó"], "hint": "The temperature reached a peak of forty degrees."},
+    {"type": "fill", "prompt": "La población se ___ en veinte años. (duplicarse)", "answers": ["duplicó"], "hint": "The population doubled in twenty years."},
+    {"type": "fill", "prompt": "Pasó ___ doscientos a trescientos usuarios.", "answers": ["de"], "hint": "It went from two hundred to three hundred users."},
+    {"type": "fill", "prompt": "La ciudad tiene un millón ___ habitantes.", "answers": ["de"], "hint": "The city has a million inhabitants."},
+    {"type": "fill", "prompt": "El ___ muestra la evolución de las ventas.", "answers": ["gráfico"], "hint": "The graph shows the evolution of sales."},
+    {"type": "fill", "prompt": "___ los datos, la mayoría prefiere trabajar desde casa.", "answers": ["según"], "hint": "According to the data, most prefer to work from home."},
+    {"type": "fill", "prompt": "La ___ es claramente positiva.", "answers": ["tendencia"], "hint": "The trend is clearly positive."},
+    {"type": "mc", "prompt": "*un billón* in Spanish equals…", "options": ["a trillion (US)", "a billion (US)", "a million", "a thousand"], "answer": 0},
+    {"type": "mc", "prompt": "\"A billion dollars\" →", "options": ["mil millones de dólares", "un billón de dólares", "un millar de dólares", "mil billones de dólares"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*disminuir* means…", "options": ["to decrease", "to diminish in importance only", "to distribute", "to increase"], "answer": 0},
+    {"type": "mc", "prompt": "*bruscamente* means…", "options": ["sharply", "slightly", "steadily", "rudely only"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: La ciudad tiene un millón ___ habitantes.", "options": ["de", "—", "en", "a"], "answer": 0, "lang": "es", "explain": "*millón* is a noun, so it needs *de* before another noun."},
+    {"type": "translate", "prompt": "Prices remained stable.", "answers": ["Los precios se mantuvieron estables."]},
+    {"type": "translate", "prompt": "The population doubled in twenty years.", "answers": ["La población se duplicó en veinte años."]},
+    {"type": "translate", "prompt": "The trend is clearly positive.", "answers": ["La tendencia es claramente positiva."]},
+    {"type": "translate", "prompt": "The dollar rose sharply.", "answers": ["El dólar subió bruscamente.", "El dólar aumentó bruscamente."]},
+    {"type": "build", "prompt": "Put the words in order: \"The years are on the horizontal axis.\"", "answer": "En el eje horizontal están los años."},
+    {"type": "build", "prompt": "Put the words in order: \"Production grew considerably.\"", "answer": "La producción creció considerablemente."},
+    {"type": "build", "prompt": "Put the words in order: \"The company is worth a billion dollars.\"", "answer": "La empresa vale mil millones de dólares."}
+  ]
+}
