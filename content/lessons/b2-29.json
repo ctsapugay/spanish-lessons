@@ -289,7 +289,7 @@
     },
     {
       "type": "mc",
-      "prompt": "Choose: No sé si ___ quiere. (él)",
+      "prompt": "Choose: No sé si ___ quiere venir.",
       "options": [
         "él",
         "el"

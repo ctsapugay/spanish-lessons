@@ -77,3 +77,8 @@ reader: state, not narrative.
 ## 2026-09-26 — Check tightened again (C-CHECKS-NOT-WEAKENED record)
 
 - **decisions:** CHK-002 made stricter: **bold** text in explanations is English emphasis and no longer counts as taught Spanish (previously English words like "hypothetical" inside bold slipped through as "known"). Only *italic* spans teach. Fallout: one nested-bold span in b1-02 rewritten; all 103 lessons pass.
+
+## 2026-09-26 — B2 finished and reviewed
+- Wrote b2-16 … b2-34 (nominalisation through regional variation); CHK-002 green for all 34 B2 lessons.
+- B2 accuracy review done: curriculum/reviews/B2.md (Spain-isms camarero/guapa/"lo pasamos"/"está negro" replaced, dialogue dashes in b2-05, an answer key widened in b2-13, a give-away prompt in b2-29, a duplicate table entry and the queísmo label in b2-19).
+- No check was changed. Next: C1 lessons c1-01 … c1-30, then C1 review, then final verification.

@@ -2,7 +2,7 @@
   "sections": [
     {
       "heading": "Negated opinions and perception",
-      "body": "Verbs of thinking, believing, saying and perceiving take the indicative when affirmative and the **subjunctive when negated**, because the speaker is no longer asserting:\n\n- *Creo que tiene razón.* → *No creo que tenga razón.*\n- *Me parece que es buena idea.* → *No me parece que sea buena idea.*\n- *Veo que estás cansado.* → *No veo que estés cansado.*\n- *Recuerdo que lo dijo.* → *No recuerdo que lo dijera.*\n- *Está demostrado que funciona.* → *No está demostrado que funcione.*\n\nIn **negative questions** or when the speaker actually believes it, the indicative can stay: *¿No crees que es tarde?* (Don't you think it's late? — I think it is.)"
+      "body": "Verbs of thinking, believing, saying and perceiving take the indicative when affirmative and the **subjunctive when negated**, because the speaker is no longer asserting:\n\n- *Creo que tiene razón.* → *No creo que tenga razón.*\n- *Me parece que es buena idea.* → *No me parece que sea buena idea.*\n- *Veo que estás cansado.* → *No veo que estés cansado.*\n- *Recuerdo que lo dijo.* → *No recuerdo que lo dijera.*\n- *Está demostrado que funciona.* → *No está demostrado que funcione.*\n\nIn **negative questions** or when the speaker actually believes it, the indicative can stay: *¿No crees que es tarde?* (Don't you think it's late? — I think it is.)\n\n*No dudar que* is the reverse case: not doubting = asserting, so the indicative is normal (*No dudo que es verdad*), though the subjunctive is also heard."
     },
     {
       "heading": "No es que…: it's not that…",
@@ -257,7 +257,8 @@
       "type": "fill",
       "prompt": "No dudo que ___ verdad. (ser)",
       "answers": [
-        "es"
+        "es",
+        "sea"
       ],
       "hint": "I don't doubt it's true."
     },

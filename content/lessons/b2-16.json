@@ -2,7 +2,7 @@
   "sections": [
     {
       "heading": "Lo + adjective + que: how …",
-      "body": "*Lo* + adjective / adverb + *que* expresses intensity — \"how (very)…\" — and the adjective agrees with the noun:\n\n*No sabes lo difícil que es.* (You don't know how hard it is.)\n*Me sorprendió lo rápido que habla.* (I was surprised at how fast he talks.)\n*Mira lo guapa que está tu hija.* (Look how pretty your daughter looks.)\n*Es increíble lo caras que son las casas.* (It's incredible how expensive the houses are.)"
+      "body": "*Lo* + adjective / adverb + *que* expresses intensity — \"how (very)…\" — and the adjective agrees with the noun:\n\n*No sabes lo difícil que es.* (You don't know how hard it is.)\n*Me sorprendió lo rápido que habla.* (I was surprised at how fast he talks.)\n*Mira lo linda que está tu hija.* (Look how pretty your daughter looks.)\n*Es increíble lo caras que son las casas.* (It's incredible how expensive the houses are.)"
     },
     {
       "heading": "Lo + adjective as a noun",
@@ -18,60 +18,323 @@
     }
   ],
   "vocab": [
-    ["lo difícil que", "how difficult"],
-    ["lo curioso", "the curious thing"],
-    ["lo extraño", "the strange thing"],
-    ["lo de", "the matter of / what happened with"],
-    ["el hecho de que", "the fact that"],
-    ["significar", "to mean"],
-    ["sorprender", "to surprise"],
-    ["enterarse de", "to hear about / find out about"],
-    ["extraño / extraña", "strange"],
-    ["curioso / curiosa", "curious / odd"],
-    ["la salud", "health"],
-    ["ocupar", "to occupy / take up"]
+    [
+      "lo difícil que",
+      "how difficult"
+    ],
+    [
+      "lo curioso",
+      "the curious thing"
+    ],
+    [
+      "lo extraño",
+      "the strange thing"
+    ],
+    [
+      "lo de",
+      "the matter of / what happened with"
+    ],
+    [
+      "el hecho de que",
+      "the fact that"
+    ],
+    [
+      "significar",
+      "to mean"
+    ],
+    [
+      "sorprender",
+      "to surprise"
+    ],
+    [
+      "enterarse de",
+      "to hear about / find out about"
+    ],
+    [
+      "extraño / extraña",
+      "strange"
+    ],
+    [
+      "curioso / curiosa",
+      "curious / odd"
+    ],
+    [
+      "la salud",
+      "health"
+    ],
+    [
+      "ocupar",
+      "to occupy / take up"
+    ],
+    [
+      "lindo / linda",
+      "pretty / lovely"
+    ]
   ],
   "examples": [
-    ["No sabes lo difícil que es.", "You don't know how hard it is."],
-    ["Me sorprendió lo rápido que habla.", "I was surprised at how fast he talks."],
-    ["Mira lo guapa que está tu hija.", "Look how pretty your daughter looks."],
-    ["Es increíble lo caras que son las casas.", "It's incredible how expensive the houses are."],
-    ["No te imaginas lo cansada que estoy.", "You can't imagine how tired I am."],
-    ["Lo curioso es que nadie se dio cuenta.", "The curious thing is that nobody noticed."],
-    ["¿Te enteraste de lo de Juan?", "Did you hear about what happened with Juan?"],
-    ["Lo de ayer fue increíble.", "What happened yesterday was incredible."],
-    ["El hecho de que no haya llamado me preocupa.", "The fact that he hasn't called worries me."],
-    ["El hecho de que seas joven no significa que no tengas razón.", "The fact that you're young doesn't mean you're not right."],
-    ["Fumar es malo para la salud.", "Smoking is bad for your health."],
-    ["Me encanta cocinar.", "I love cooking."],
-    ["El saber no ocupa lugar.", "Knowledge takes up no space."],
-    ["Lo extraño es que la puerta estaba abierta.", "The strange thing is that the door was open."],
-    ["Ya verás lo bien que lo pasamos.", "You'll see how much fun we'll have."]
+    [
+      "No sabes lo difícil que es.",
+      "You don't know how hard it is."
+    ],
+    [
+      "Me sorprendió lo rápido que habla.",
+      "I was surprised at how fast he talks."
+    ],
+    [
+      "Mira lo linda que está tu hija.",
+      "Look how pretty your daughter looks."
+    ],
+    [
+      "Es increíble lo caras que son las casas.",
+      "It's incredible how expensive the houses are."
+    ],
+    [
+      "No te imaginas lo cansada que estoy.",
+      "You can't imagine how tired I am."
+    ],
+    [
+      "Lo curioso es que nadie se dio cuenta.",
+      "The curious thing is that nobody noticed."
+    ],
+    [
+      "¿Te enteraste de lo de Juan?",
+      "Did you hear about what happened with Juan?"
+    ],
+    [
+      "Lo de ayer fue increíble.",
+      "What happened yesterday was incredible."
+    ],
+    [
+      "El hecho de que no haya llamado me preocupa.",
+      "The fact that he hasn't called worries me."
+    ],
+    [
+      "El hecho de que seas joven no significa que no tengas razón.",
+      "The fact that you're young doesn't mean you're not right."
+    ],
+    [
+      "Fumar es malo para la salud.",
+      "Smoking is bad for your health."
+    ],
+    [
+      "Me encanta cocinar.",
+      "I love cooking."
+    ],
+    [
+      "El saber no ocupa lugar.",
+      "Knowledge takes up no space."
+    ],
+    [
+      "Lo extraño es que la puerta estaba abierta.",
+      "The strange thing is that the door was open."
+    ],
+    [
+      "Ya verás lo bien que la vamos a pasar.",
+      "You'll see how much fun we'll have."
+    ]
   ],
   "exercises": [
-    {"type": "fill", "prompt": "No sabes lo ___ que es. (difícil)", "answers": ["difícil"], "hint": "You don't know how hard it is."},
-    {"type": "fill", "prompt": "Me sorprendió lo ___ que habla. (rápido)", "answers": ["rápido"], "hint": "I was surprised at how fast he talks."},
-    {"type": "fill", "prompt": "Mira lo ___ que está tu hija. (guapo)", "answers": ["guapa"], "hint": "Look how pretty your daughter looks."},
-    {"type": "fill", "prompt": "Es increíble lo ___ que son las casas. (caro)", "answers": ["caras"], "hint": "It's incredible how expensive the houses are."},
-    {"type": "fill", "prompt": "No te imaginas lo ___ que estoy. (cansado)", "answers": ["cansada", "cansado"], "hint": "You can't imagine how tired I am."},
-    {"type": "fill", "prompt": "Lo ___ es que nadie se dio cuenta.", "answers": ["curioso", "extraño", "raro"], "hint": "The curious thing is that nobody noticed."},
-    {"type": "fill", "prompt": "¿Te enteraste de lo ___ Juan?", "answers": ["de"], "hint": "Did you hear about what happened with Juan?"},
-    {"type": "fill", "prompt": "El hecho de que no ___ llamado me preocupa.", "answers": ["haya"], "hint": "The fact that he hasn't called worries me."},
-    {"type": "fill", "prompt": "El hecho de que ___ joven no significa que no tengas razón. (ser, tú)", "answers": ["seas"], "hint": "The fact that you're young doesn't mean you're not right."},
-    {"type": "fill", "prompt": "___ es malo para la salud.", "answers": ["fumar"], "hint": "Smoking is bad for your health."},
-    {"type": "fill", "prompt": "Ya verás lo ___ que lo pasamos.", "answers": ["bien"], "hint": "You'll see how much fun we'll have."},
-    {"type": "mc", "prompt": "*No sabes lo difícil que es* means…", "options": ["You don't know how hard it is.", "You don't know what's difficult.", "You don't know the difficult thing.", "It's hard not to know."], "answer": 0},
-    {"type": "mc", "prompt": "Choose: Es increíble lo ___ que son las casas.", "options": ["caras", "caro", "cara", "caros"], "answer": 0, "lang": "es", "explain": "The adjective agrees with *las casas*."},
-    {"type": "mc", "prompt": "*¿Te enteraste de lo de Juan?* asks…", "options": ["Did you hear about what happened with Juan?", "Did you find out Juan's things?", "Did you understand Juan?", "Did you meet Juan's family?"], "answer": 0},
-    {"type": "mc", "prompt": "*El hecho de que* is usually followed by…", "options": ["the subjunctive", "the infinitive", "the future", "nothing"], "answer": 0},
-    {"type": "mc", "prompt": "\"Smoking is bad\" →", "options": ["Fumar es malo.", "Fumando es malo.", "El fumando es malo.", "Fumo es malo."], "answer": 0, "lang": "es"},
-    {"type": "translate", "prompt": "You don't know how hard it is. (tú)", "answers": ["No sabes lo difícil que es."]},
-    {"type": "translate", "prompt": "You can't imagine how tired I am. (tú, a woman speaking)", "answers": ["No te imaginas lo cansada que estoy.", "No te puedes imaginar lo cansada que estoy."]},
-    {"type": "translate", "prompt": "The fact that he hasn't called worries me.", "answers": ["El hecho de que no haya llamado me preocupa.", "Me preocupa el hecho de que no haya llamado."]},
-    {"type": "translate", "prompt": "What happened yesterday was incredible. (use lo de)", "answers": ["Lo de ayer fue increíble."]},
-    {"type": "translate", "prompt": "Smoking is bad for your health.", "answers": ["Fumar es malo para la salud.", "El fumar es malo para la salud."]},
-    {"type": "build", "prompt": "Put the words in order: \"The strange thing is that the door was open.\"", "answer": "Lo extraño es que la puerta estaba abierta."},
-    {"type": "build", "prompt": "Put the words in order: \"I was surprised at how fast he talks.\"", "answer": "Me sorprendió lo rápido que habla."},
-    {"type": "build", "prompt": "Put the words in order: \"Look how pretty your daughter looks.\"", "answer": "Mira lo guapa que está tu hija."}
+    {
+      "type": "fill",
+      "prompt": "No sabes lo ___ que es. (difícil)",
+      "answers": [
+        "difícil"
+      ],
+      "hint": "You don't know how hard it is."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me sorprendió lo ___ que habla. (rápido)",
+      "answers": [
+        "rápido"
+      ],
+      "hint": "I was surprised at how fast he talks."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mira lo ___ que está tu hija. (lindo)",
+      "answers": [
+        "linda"
+      ],
+      "hint": "Look how pretty your daughter looks."
+    },
+    {
+      "type": "fill",
+      "prompt": "Es increíble lo ___ que son las casas. (caro)",
+      "answers": [
+        "caras"
+      ],
+      "hint": "It's incredible how expensive the houses are."
+    },
+    {
+      "type": "fill",
+      "prompt": "No te imaginas lo ___ que estoy. (cansado)",
+      "answers": [
+        "cansada",
+        "cansado"
+      ],
+      "hint": "You can't imagine how tired I am."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo ___ es que nadie se dio cuenta.",
+      "answers": [
+        "curioso",
+        "extraño",
+        "raro"
+      ],
+      "hint": "The curious thing is that nobody noticed."
+    },
+    {
+      "type": "fill",
+      "prompt": "¿Te enteraste de lo ___ Juan?",
+      "answers": [
+        "de"
+      ],
+      "hint": "Did you hear about what happened with Juan?"
+    },
+    {
+      "type": "fill",
+      "prompt": "El hecho de que no ___ llamado me preocupa.",
+      "answers": [
+        "haya"
+      ],
+      "hint": "The fact that he hasn't called worries me."
+    },
+    {
+      "type": "fill",
+      "prompt": "El hecho de que ___ joven no significa que no tengas razón. (ser, tú)",
+      "answers": [
+        "seas"
+      ],
+      "hint": "The fact that you're young doesn't mean you're not right."
+    },
+    {
+      "type": "fill",
+      "prompt": "___ es malo para la salud.",
+      "answers": [
+        "fumar"
+      ],
+      "hint": "Smoking is bad for your health."
+    },
+    {
+      "type": "fill",
+      "prompt": "Ya verás lo ___ que la vamos a pasar.",
+      "answers": [
+        "bien"
+      ],
+      "hint": "You'll see how much fun we'll have."
+    },
+    {
+      "type": "mc",
+      "prompt": "*No sabes lo difícil que es* means…",
+      "options": [
+        "You don't know how hard it is.",
+        "You don't know what's difficult.",
+        "You don't know the difficult thing.",
+        "It's hard not to know."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Es increíble lo ___ que son las casas.",
+      "options": [
+        "caras",
+        "caro",
+        "cara",
+        "caros"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "The adjective agrees with *las casas*."
+    },
+    {
+      "type": "mc",
+      "prompt": "*¿Te enteraste de lo de Juan?* asks…",
+      "options": [
+        "Did you hear about what happened with Juan?",
+        "Did you find out Juan's things?",
+        "Did you understand Juan?",
+        "Did you meet Juan's family?"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*El hecho de que* is usually followed by…",
+      "options": [
+        "the subjunctive",
+        "the infinitive",
+        "the future",
+        "nothing"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "\"Smoking is bad\" →",
+      "options": [
+        "Fumar es malo.",
+        "Fumando es malo.",
+        "El fumando es malo.",
+        "Fumo es malo."
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "translate",
+      "prompt": "You don't know how hard it is. (tú)",
+      "answers": [
+        "No sabes lo difícil que es."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "You can't imagine how tired I am. (tú, a woman speaking)",
+      "answers": [
+        "No te imaginas lo cansada que estoy.",
+        "No te puedes imaginar lo cansada que estoy."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The fact that he hasn't called worries me.",
+      "answers": [
+        "El hecho de que no haya llamado me preocupa.",
+        "Me preocupa el hecho de que no haya llamado."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "What happened yesterday was incredible. (use lo de)",
+      "answers": [
+        "Lo de ayer fue increíble."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Smoking is bad for your health.",
+      "answers": [
+        "Fumar es malo para la salud.",
+        "El fumar es malo para la salud."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The strange thing is that the door was open.\"",
+      "answer": "Lo extraño es que la puerta estaba abierta."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I was surprised at how fast he talks.\"",
+      "answer": "Me sorprendió lo rápido que habla."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"Look how pretty your daughter looks.\"",
+      "answer": "Mira lo linda que está tu hija."
+    }
   ]
 }

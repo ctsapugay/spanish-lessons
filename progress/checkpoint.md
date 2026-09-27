@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-09-26
-**Now:** A1, A2, B1 complete (98 lessons) and reviewed. B2 lessons b2-01…b2-20 written and passing CHK-002.
-**Next:** Write b2-21 … b2-34 (outline in content/course.json), then the B2 review (curriculum/reviews/B2.md), then C1 (30), C1 review, final verification.
-**Watch:** Dialogue dashes. Unique prompts & vocab glosses per lesson. English only in hints (no "(pret.)", "(a woman)" etc. in prompts). Conjugated forms used in answers must appear in examples/tables. LatAm usage (estar por, mesero, carro, celular, computadora; avoid coger, camarero). Rebuild after edits.
+**Now:** A1, A2, B1, B2 complete (132 lessons) and reviewed (curriculum/reviews/B2.md written).
+**Next:** Write c1-01 … c1-30 (outline in content/course.json), then the C1 review (curriculum/reviews/C1.md), then final verification (tools/verify.py green, G2/G3 hand checks, criteria evidence).
+**Watch:** Dialogue dashes. Unique prompts & vocab glosses per lesson. English only in hints (no "(a woman)", "(conditional)" etc. in prompts), and never a prompt label that gives the answer away. Conjugated forms used in answers must appear in examples/tables. LatAm usage (estar por, mesero, carro, celular, computadora, linda, pasarla bien; avoid coger, camarero, guapa as default). Rebuild after edits.
