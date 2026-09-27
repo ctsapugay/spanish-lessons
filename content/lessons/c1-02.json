@@ -1,0 +1,70 @@
+{
+  "sections": [
+    {
+      "heading": "Beyond aunque",
+      "body": "At B2 you used *aunque, a pesar de que, por mucho que*. At C1 you add finer tools:\n\n- *por más / mucho que* + subjunctive (however much — hypothetical or irrelevant) or indicative (real, repeated): *Por más que insistas, no voy a cambiar de opinión.*\n- *por* + adjective/adverb + *que* + subjunctive (however…): *Por difícil que parezca, es posible.* (However hard it may seem…)\n- *si bien* + indicative (although — formal): *Si bien el informe es completo, le faltan conclusiones.*\n- *aun* + gerund (even though / even if): *Aun sabiendo la verdad, no dijo nada.* (Even knowing the truth, he said nothing.) Note: *aun* (= even) has no accent; *aún* (= still, yet) does.\n- *aun cuando* (even when / even if): *Aun cuando llueva, iremos.*"
+    },
+    {
+      "heading": "Colloquial concessives",
+      "body": "- *y eso que* + indicative (and that's even though — adds a surprising fact afterwards): *Reprobó, y eso que estudió mucho.* (He failed — even though he studied a lot.)\n- *así* + subjunctive (even if — colloquial in LatAm, esp. Colombia, Mexico): *No lo hago así me paguen.* (I won't do it even if they pay me.)\n- *con lo que* + indicative (considering how much): *¡Con lo que trabaja y no le suben el sueldo!* (Considering how much she works, and they don't give her a raise!)\n- subjunctive reduplication: *Digas lo que digas, no te creo.* (Whatever you say, I don't believe you.) *Pase lo que pase* (whatever happens), *sea como sea* (be that as it may / one way or another), *quieras o no* (whether you like it or not)."
+    }
+  ],
+  "vocab": [
+    ["por difícil que sea", "however hard it is"],
+    ["si bien", "although (formal)"],
+    ["aun sabiendo", "even knowing"],
+    ["aun cuando", "even when / even if"],
+    ["y eso que", "even though (adds a fact)"],
+    ["así me paguen", "even if they pay me"],
+    ["con lo que", "considering how much"],
+    ["digas lo que digas", "whatever you say"],
+    ["pase lo que pase", "whatever happens"],
+    ["sea como sea", "be that as it may"],
+    ["quieras o no", "whether you like it or not"],
+    ["reprobar", "to fail (an exam)"],
+    ["cambiar de opinión", "to change your mind"]
+  ],
+  "examples": [
+    ["Por más que insistas, no voy a cambiar de opinión.", "However much you insist, I'm not going to change my mind."],
+    ["Por difícil que parezca, es posible.", "However hard it may seem, it's possible."],
+    ["Si bien el informe es completo, le faltan conclusiones.", "Although the report is thorough, it lacks conclusions."],
+    ["Aun sabiendo la verdad, no dijo nada.", "Even knowing the truth, he said nothing."],
+    ["Aun cuando llueva, iremos.", "Even if it rains, we'll go."],
+    ["Reprobó, y eso que estudió mucho.", "He failed, even though he studied a lot."],
+    ["No lo hago así me paguen.", "I won't do it even if they pay me."],
+    ["¡Con lo que trabaja y no le suben el sueldo!", "Considering how much she works, and they don't give her a raise!"],
+    ["Digas lo que digas, no te creo.", "Whatever you say, I don't believe you."],
+    ["Pase lo que pase, te apoyo.", "Whatever happens, I support you."],
+    ["Sea como sea, hay que terminarlo hoy.", "One way or another, it has to be finished today."],
+    ["Quieras o no, tienes que ir.", "Whether you like it or not, you have to go."],
+    ["Aún no ha llegado.", "He still hasn't arrived."],
+    ["Por mucho que corras, no vas a llegar a tiempo.", "However fast you run, you won't make it on time."],
+    ["Hagas lo que hagas, hazlo bien.", "Whatever you do, do it well."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Por más que ___, no voy a cambiar de opinión. (insistir, tú)", "answers": ["insistas"], "hint": "However much you insist, I'm not going to change my mind."},
+    {"type": "fill", "prompt": "Por difícil que ___, es posible. (parecer)", "answers": ["parezca"], "hint": "However hard it may seem, it's possible."},
+    {"type": "fill", "prompt": "Si ___ el informe es completo, le faltan conclusiones.", "answers": ["bien"], "hint": "Although the report is thorough, it lacks conclusions."},
+    {"type": "fill", "prompt": "Aun ___ la verdad, no dijo nada. (saber)", "answers": ["sabiendo"], "hint": "Even knowing the truth, he said nothing."},
+    {"type": "fill", "prompt": "Aun cuando ___, iremos. (llover)", "answers": ["llueva"], "hint": "Even if it rains, we'll go."},
+    {"type": "fill", "prompt": "Reprobó, y eso ___ estudió mucho.", "answers": ["que"], "hint": "He failed, even though he studied a lot."},
+    {"type": "fill", "prompt": "No lo hago así me ___. (pagar, ellos)", "answers": ["paguen"], "hint": "I won't do it even if they pay me."},
+    {"type": "fill", "prompt": "Digas lo que ___, no te creo.", "answers": ["digas"], "hint": "Whatever you say, I don't believe you."},
+    {"type": "fill", "prompt": "Pase lo que ___, te apoyo.", "answers": ["pase"], "hint": "Whatever happens, I support you."},
+    {"type": "fill", "prompt": "Sea como ___, hay que terminarlo hoy.", "answers": ["sea"], "hint": "One way or another, it has to be finished today."},
+    {"type": "fill", "prompt": "___ o no, tienes que ir. (querer, tú)", "answers": ["quieras"], "hint": "Whether you like it or not, you have to go."},
+    {"type": "fill", "prompt": "Hagas lo que ___, hazlo bien.", "answers": ["hagas"], "hint": "Whatever you do, do it well."},
+    {"type": "mc", "prompt": "*Reprobó, y eso que estudió mucho* means…", "options": ["He failed, even though he studied a lot.", "He failed, and that's why he studied.", "He failed because he studied too much.", "He studied a lot so he passed."], "answer": 0},
+    {"type": "mc", "prompt": "Which one means \"still / yet\"?", "options": ["aún", "aun"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Quieras o no* means…", "options": ["whether you like it or not", "if you want or not to go", "you don't want to", "you do want to"], "answer": 0},
+    {"type": "mc", "prompt": "*No lo hago así me paguen* means…", "options": ["I won't do it even if they pay me.", "I'll do it if they pay me like this.", "I don't do it this way.", "They paid me so I didn't do it."], "answer": 0},
+    {"type": "mc", "prompt": "Choose: Por difícil que ___, es posible.", "options": ["parezca", "parece", "parecerá", "parecer"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Whatever happens, I support you. (tú)", "answers": ["Pase lo que pase, te apoyo.", "Te apoyo pase lo que pase."]},
+    {"type": "translate", "prompt": "Whatever you say, I don't believe you. (tú)", "answers": ["Digas lo que digas, no te creo.", "No te creo, digas lo que digas."]},
+    {"type": "translate", "prompt": "Whether you like it or not, you have to go. (tú)", "answers": ["Quieras o no, tienes que ir.", "Quieras o no, tienes que irte."]},
+    {"type": "translate", "prompt": "He still hasn't arrived.", "answers": ["Aún no ha llegado.", "Todavía no ha llegado.", "Aún no llega.", "Todavía no llega."]},
+    {"type": "build", "prompt": "Put the words in order: \"Even knowing the truth, he said nothing.\"", "answer": "Aun sabiendo la verdad, no dijo nada."},
+    {"type": "build", "prompt": "Put the words in order: \"However fast you run, you won't make it on time.\"", "answer": "Por mucho que corras, no vas a llegar a tiempo."},
+    {"type": "build", "prompt": "Put the words in order: \"Although the report is thorough, it lacks conclusions.\"", "answer": "Si bien el informe es completo, le faltan conclusiones."}
+  ]
+}

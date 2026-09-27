@@ -1,0 +1,324 @@
+{
+  "sections": [
+    {
+      "heading": "Formal purpose",
+      "body": "*Para (que)* is the everyday choice. In formal speech and writing, use:\n\n- *a fin de (que)* (in order to / so that): *Le escribo a fin de solicitar información.* *Se modificó la ley a fin de que todos tengan acceso.*\n- *con el fin de (que) / con el objeto de (que) / con el propósito de (que)*: *Se creó el fondo con el objeto de apoyar a las pymes.*\n- *de cara a* (with a view to / ahead of): *de cara a las elecciones*\n\nAs with *para*: same subject → infinitive; different subject → *que* + subjunctive."
+    },
+    {
+      "heading": "Negative purpose: so as not to",
+      "body": "- *para no* / *para que no*: *Hablé bajito para no despertarlo.*\n- *no sea que / no vaya a ser que* + subjunctive (just in case / lest): *Lleva paraguas, no sea que llueva.* (Take an umbrella in case it rains.) *Anótalo, no vaya a ser que se te olvide.* (Write it down so you don't forget.) Very common in speech.\n- *por si (acaso)* + indicative (in case): *Te dejo mi número por si lo necesitas.* Note: *por si* takes the **indicative** — present, or imperfect in a past context (*por si llovía*). *Por si* + imperfect subjunctive (*por si lloviera*) is also possible, for a less likely case."
+    },
+    {
+      "heading": "Por vs. para for purpose and motive",
+      "body": "*Para* looks forward to a goal; *por* looks back to a motive: *Lo hice para ayudarte.* (my aim) vs. *Lo hice por ti / por amor.* (my motive). *Vine por verte* is also heard (motive = wanting to see you)."
+    }
+  ],
+  "vocab": [
+    [
+      "a fin de que",
+      "so that (formal)"
+    ],
+    [
+      "con el objeto de",
+      "with the aim of"
+    ],
+    [
+      "con el propósito de",
+      "with the purpose of"
+    ],
+    [
+      "de cara a",
+      "with a view to / ahead of"
+    ],
+    [
+      "no sea que",
+      "in case / lest"
+    ],
+    [
+      "no vaya a ser que",
+      "so that … not / in case"
+    ],
+    [
+      "por si acaso",
+      "just in case"
+    ],
+    [
+      "solicitar",
+      "to request / apply for"
+    ],
+    [
+      "modificar",
+      "to modify"
+    ],
+    [
+      "el fondo",
+      "the fund"
+    ],
+    [
+      "anotar",
+      "to write down"
+    ],
+    [
+      "bajito",
+      "quietly / softly"
+    ],
+    [
+      "despertar",
+      "to wake (someone) up"
+    ]
+  ],
+  "examples": [
+    [
+      "Le escribo a fin de solicitar información.",
+      "I'm writing to you in order to request information."
+    ],
+    [
+      "Se modificó la ley a fin de que todos tengan acceso.",
+      "The law was modified so that everyone has access."
+    ],
+    [
+      "Se creó el fondo con el objeto de apoyar a las pymes.",
+      "The fund was created with the aim of supporting small businesses."
+    ],
+    [
+      "Lo hicieron con el propósito de reducir costos.",
+      "They did it with the purpose of reducing costs."
+    ],
+    [
+      "El partido prepara su estrategia de cara a las elecciones.",
+      "The party is preparing its strategy ahead of the elections."
+    ],
+    [
+      "Hablé bajito para no despertarlo.",
+      "I spoke quietly so as not to wake him."
+    ],
+    [
+      "Lleva paraguas, no sea que llueva.",
+      "Take an umbrella in case it rains."
+    ],
+    [
+      "Anótalo, no vaya a ser que se te olvide.",
+      "Write it down so you don't forget."
+    ],
+    [
+      "Te dejo mi número por si lo necesitas.",
+      "I'll leave you my number in case you need it."
+    ],
+    [
+      "Llevé comida por si acaso.",
+      "I brought food just in case."
+    ],
+    [
+      "Lo hice para ayudarte.",
+      "I did it to help you."
+    ],
+    [
+      "Lo hice por ti.",
+      "I did it for you (for your sake)."
+    ],
+    [
+      "Les explico el plan para que no haya malentendidos.",
+      "I'll explain the plan to you so that there are no misunderstandings."
+    ],
+    [
+      "Cerramos las ventanas por si llovía.",
+      "We closed the windows in case it rained."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "Le escribo a ___ de solicitar información.",
+      "answers": [
+        "fin"
+      ],
+      "hint": "I'm writing to you in order to request information."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se modificó la ley a fin de que todos ___ acceso. (tener)",
+      "answers": [
+        "tengan"
+      ],
+      "hint": "The law was modified so that everyone has access."
+    },
+    {
+      "type": "fill",
+      "prompt": "Se creó el fondo con el ___ de apoyar a las pymes.",
+      "answers": [
+        "objeto",
+        "fin",
+        "propósito",
+        "objetivo"
+      ],
+      "hint": "The fund was created with the aim of supporting small businesses."
+    },
+    {
+      "type": "fill",
+      "prompt": "El partido prepara su estrategia de ___ a las elecciones.",
+      "answers": [
+        "cara"
+      ],
+      "hint": "The party is preparing its strategy ahead of the elections."
+    },
+    {
+      "type": "fill",
+      "prompt": "Hablé bajito para no ___. (despertar + lo)",
+      "answers": [
+        "despertarlo"
+      ],
+      "hint": "I spoke quietly so as not to wake him."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lleva paraguas, no sea que ___. (llover)",
+      "answers": [
+        "llueva"
+      ],
+      "hint": "Take an umbrella in case it rains."
+    },
+    {
+      "type": "fill",
+      "prompt": "Anótalo, no vaya a ser que se te ___. (olvidar)",
+      "answers": [
+        "olvide"
+      ],
+      "hint": "Write it down so you don't forget."
+    },
+    {
+      "type": "fill",
+      "prompt": "Te dejo mi número por si lo ___. (necesitar, tú)",
+      "answers": [
+        "necesitas"
+      ],
+      "hint": "I'll leave you my number in case you need it."
+    },
+    {
+      "type": "fill",
+      "prompt": "Llevé comida por si ___.",
+      "answers": [
+        "acaso"
+      ],
+      "hint": "I brought food just in case."
+    },
+    {
+      "type": "fill",
+      "prompt": "Les explico el plan para que no ___ malentendidos. (haber)",
+      "answers": [
+        "haya"
+      ],
+      "hint": "I'll explain the plan to you so that there are no misunderstandings."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo hice ___ ti.",
+      "answers": [
+        "por"
+      ],
+      "hint": "I did it for you (for your sake)."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Te dejo mi número por si lo ___.",
+      "options": [
+        "necesitas",
+        "necesites",
+        "necesitarás"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*Por si* takes the indicative."
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: Lleva paraguas, no sea que ___.",
+      "options": [
+        "llueva",
+        "llueve",
+        "lloverá"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*de cara a las elecciones* means…",
+      "options": [
+        "ahead of the elections",
+        "facing the voters",
+        "after the elections",
+        "against the elections"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Most formal way to say \"in order to\":",
+      "options": [
+        "a fin de",
+        "para",
+        "pa'",
+        "por"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Lo hice por ti* expresses…",
+      "options": [
+        "a motive (for your sake)",
+        "a purpose (so that you…)",
+        "an exchange (instead of you)",
+        "a deadline"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "translate",
+      "prompt": "I brought food just in case.",
+      "answers": [
+        "Llevé comida por si acaso.",
+        "Traje comida por si acaso."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I did it to help you. (tú)",
+      "answers": [
+        "Lo hice para ayudarte."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Take an umbrella in case it rains. (tú, use no sea que)",
+      "answers": [
+        "Lleva paraguas, no sea que llueva.",
+        "Llévate un paraguas, no sea que llueva.",
+        "Lleva un paraguas, no sea que llueva."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'll leave you my number in case you need it. (tú)",
+      "answers": [
+        "Te dejo mi número por si lo necesitas."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"They did it with the purpose of reducing costs.\"",
+      "answer": "Lo hicieron con el propósito de reducir costos."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"We closed the windows in case it rained.\"",
+      "answer": "Cerramos las ventanas por si llovía."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I spoke quietly so as not to wake him.\"",
+      "answer": "Hablé bajito para no despertarlo."
+    }
+  ]
+}

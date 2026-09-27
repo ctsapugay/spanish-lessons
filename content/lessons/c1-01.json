@@ -1,0 +1,380 @@
+{
+  "sections": [
+    {
+      "heading": "One verb, two meanings",
+      "body": "Some verbs have two meanings, and the mood of the clause after them tells you which one is meant:",
+      "table": {
+        "head": [
+          "Verb",
+          "+ indicative (information)",
+          "+ subjunctive (influence / reaction)"
+        ],
+        "rows": [
+          [
+            "*decir*",
+            "to say, report: *Dice que viene.* (He says he's coming.)",
+            "to tell someone to: *Dice que vengas.* (He says you should come.)"
+          ],
+          [
+            "*escribir*",
+            "to write that: *Escribió que estaba bien.*",
+            "to write telling someone to: *Escribió que lo llamáramos.*"
+          ],
+          [
+            "*insistir en*",
+            "to insist that (something is true): *Insiste en que es inocente.*",
+            "to insist that (someone do): *Insiste en que nos quedemos.*"
+          ],
+          [
+            "*sentir*",
+            "to perceive, feel: *Siento que alguien me mira.* (I sense someone is watching me.)",
+            "to regret, be sorry: *Siento que no puedas venir.* (I'm sorry you can't come.)"
+          ],
+          [
+            "*comprender / entender*",
+            "to realize, understand a fact: *Comprendí que era tarde.*",
+            "to understand, sympathize with: *Comprendo que estés enojado.* (I understand why you're angry.)"
+          ],
+          [
+            "*temer*",
+            "to suspect, fear it's so: *Me temo que no hay entradas.* (I'm afraid there are no tickets.)",
+            "to be afraid that (it might happen): *Temo que se enoje.* (I'm afraid he'll get angry.)"
+          ],
+          [
+            "*suponer*",
+            "to assume: *Supongo que lo sabes.*",
+            "to entail: *Eso supone que tengamos que empezar de nuevo.* (That means we'd have to start again.)"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Why it works",
+      "body": "The logic is the one you learned at B2: the indicative **asserts** (reports information, states a perception or conclusion); the subjunctive **does not assert** (gives an order, expresses an emotional reaction to something taken as known). So *Siento que me miran* reports a perception, while *Siento que te vayas* reacts emotionally to your leaving."
+    },
+    {
+      "heading": "Watch the negative",
+      "body": "In the negative, the reporting meaning often takes the subjunctive too: *No digo que sea fácil.* (I'm not saying it's easy.) *No siento que haya cambiado nada.* (I don't feel that anything has changed.) Context tells you which meaning is meant."
+    }
+  ],
+  "vocab": [
+    [
+      "sentir que + indicativo",
+      "to sense / feel that"
+    ],
+    [
+      "sentir que + subjuntivo",
+      "to be sorry that"
+    ],
+    [
+      "comprender que + subjuntivo",
+      "to understand why / sympathize"
+    ],
+    [
+      "temer",
+      "to fear"
+    ],
+    [
+      "me temo que",
+      "I'm afraid that (it's so)"
+    ],
+    [
+      "suponer",
+      "to assume / to entail"
+    ],
+    [
+      "insistir en que",
+      "to insist that"
+    ],
+    [
+      "enojarse",
+      "to get angry"
+    ],
+    [
+      "enojado / enojada",
+      "angry"
+    ],
+    [
+      "de nuevo",
+      "again"
+    ],
+    [
+      "inocente",
+      "innocent"
+    ],
+    [
+      "la entrada",
+      "the ticket (event)"
+    ]
+  ],
+  "examples": [
+    [
+      "Dice que viene.",
+      "He says he's coming."
+    ],
+    [
+      "Dice que vengas.",
+      "He says you should come."
+    ],
+    [
+      "Escribió que estaba bien.",
+      "She wrote that she was fine."
+    ],
+    [
+      "Escribió que lo llamáramos.",
+      "He wrote asking us to call him."
+    ],
+    [
+      "Insiste en que es inocente.",
+      "He insists that he's innocent."
+    ],
+    [
+      "Insiste en que nos quedemos.",
+      "She insists that we stay."
+    ],
+    [
+      "Siento que alguien me mira.",
+      "I sense someone is watching me."
+    ],
+    [
+      "Siento que no puedas venir.",
+      "I'm sorry you can't come."
+    ],
+    [
+      "Comprendí que era tarde.",
+      "I realized it was late."
+    ],
+    [
+      "Comprendo que estés enojado.",
+      "I understand why you're angry."
+    ],
+    [
+      "Me temo que no hay entradas.",
+      "I'm afraid there are no tickets."
+    ],
+    [
+      "Temo que se enoje.",
+      "I'm afraid he'll get angry."
+    ],
+    [
+      "Supongo que lo sabes.",
+      "I assume you know."
+    ],
+    [
+      "Eso supone que tengamos que empezar de nuevo.",
+      "That means we'd have to start again."
+    ],
+    [
+      "No digo que sea fácil.",
+      "I'm not saying it's easy."
+    ],
+    [
+      "Sentimos mucho que te vayas.",
+      "We're very sorry you're leaving."
+    ],
+    [
+      "Entiendo que no quieras hablar de eso.",
+      "I understand that you don't want to talk about it."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "prompt": "Choose (he reports he's coming): Dice que ___.",
+      "options": [
+        "viene",
+        "venga"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose (he tells you to come): Dice que ___.",
+      "options": [
+        "vengas",
+        "vienes"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Siento que no puedas venir* means…",
+      "options": [
+        "I'm sorry you can't come.",
+        "I feel you can't come.",
+        "I sense you're not coming.",
+        "I regret not coming."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Siento que alguien me mira* means…",
+      "options": [
+        "I sense someone is watching me.",
+        "I'm sorry someone is watching me.",
+        "I want someone to watch me.",
+        "I feel sorry for whoever watches me."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Comprendo que estés enojado* means…",
+      "options": [
+        "I understand why you're angry.",
+        "I realize you are angry (news to me).",
+        "I want you to be angry.",
+        "I don't understand your anger."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "*Me temo que no hay entradas* expresses…",
+      "options": [
+        "a polite way to give bad news",
+        "fear of a future event",
+        "an order",
+        "a wish"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "fill",
+      "prompt": "Escribió que ___ bien. (estar, ella)",
+      "answers": [
+        "estaba"
+      ],
+      "hint": "She wrote that she was fine."
+    },
+    {
+      "type": "fill",
+      "prompt": "Escribió que lo ___. (llamar, nosotros)",
+      "answers": [
+        "llamáramos",
+        "llamásemos"
+      ],
+      "hint": "He wrote asking us to call him."
+    },
+    {
+      "type": "fill",
+      "prompt": "Insiste en que ___ inocente. (ser)",
+      "answers": [
+        "es"
+      ],
+      "hint": "He insists that he's innocent."
+    },
+    {
+      "type": "fill",
+      "prompt": "Insiste en que nos ___. (quedar)",
+      "answers": [
+        "quedemos"
+      ],
+      "hint": "She insists that we stay."
+    },
+    {
+      "type": "fill",
+      "prompt": "Comprendí que ___ tarde. (ser)",
+      "answers": [
+        "era"
+      ],
+      "hint": "I realized it was late."
+    },
+    {
+      "type": "fill",
+      "prompt": "Temo que se ___. (enojarse)",
+      "answers": [
+        "enoje"
+      ],
+      "hint": "I'm afraid he'll get angry."
+    },
+    {
+      "type": "fill",
+      "prompt": "Supongo que lo ___. (saber, tú)",
+      "answers": [
+        "sabes"
+      ],
+      "hint": "I assume you know."
+    },
+    {
+      "type": "fill",
+      "prompt": "Eso supone que ___ que empezar de nuevo. (tener, nosotros)",
+      "answers": [
+        "tengamos"
+      ],
+      "hint": "That means we'd have to start again."
+    },
+    {
+      "type": "fill",
+      "prompt": "Sentimos mucho que te ___. (ir)",
+      "answers": [
+        "vayas"
+      ],
+      "hint": "We're very sorry you're leaving."
+    },
+    {
+      "type": "fill",
+      "prompt": "Entiendo que no ___ hablar de eso. (querer, tú)",
+      "answers": [
+        "quieras"
+      ],
+      "hint": "I understand that you don't want to talk about it."
+    },
+    {
+      "type": "translate",
+      "prompt": "He says you should come. (tú)",
+      "answers": [
+        "Dice que vengas."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm sorry you can't come. (tú)",
+      "answers": [
+        "Siento que no puedas venir.",
+        "Siento mucho que no puedas venir."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I'm afraid there are no tickets.",
+      "answers": [
+        "Me temo que no hay entradas.",
+        "Me temo que no hay boletos."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "I understand why you're angry. (tú, to a man)",
+      "answers": [
+        "Comprendo que estés enojado.",
+        "Entiendo que estés enojado."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "He insists that he's innocent.",
+      "answers": [
+        "Insiste en que es inocente."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I sense someone is watching me.\"",
+      "answer": "Siento que alguien me mira."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"She insists that we stay.\"",
+      "answer": "Insiste en que nos quedemos."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I'm not saying it's easy.\"",
+      "answer": "No digo que sea fácil."
+    }
+  ]
+}

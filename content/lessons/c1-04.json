@@ -1,0 +1,76 @@
+{
+  "sections": [
+    {
+      "heading": "Cuyo in full",
+      "body": "*Cuyo / cuya / cuyos / cuyas* (whose, of which) agrees with the noun that follows it — the thing possessed. It can follow prepositions: *la empresa en cuyas oficinas trabajo* (the company in whose offices I work), *el escritor de cuya obra hablamos* (the writer whose work we discussed). It's formal; in speech people often say *que su*, which is considered incorrect in careful Spanish (*el chico que su padre es médico* → *el chico cuyo padre es médico*)."
+    },
+    {
+      "heading": "El cual vs. el que, lo cual vs. lo que",
+      "body": "After **long or compound prepositions** (*a través de, gracias a, debajo de, frente a, según*…) *el cual* is preferred: *la ventana a través de la cual entró el ladrón*. After a comma, to refer to a whole clause, both *lo cual* and *lo que* work: *No respondió, lo cual me pareció raro.* But only *lo que* can start a free relative: *Lo que me molesta es su actitud.* (never *lo cual* here)."
+    },
+    {
+      "heading": "Free relatives and -quiera",
+      "body": "Free relatives have no antecedent: *Quien lo sepa, que lo diga.* (Whoever knows, speak up.) *Donde vayas, iré.* *Cuando quieras.*\n\nThe *-quiera* words mean \"-ever\" and take the subjunctive: *quienquiera que* (whoever), *dondequiera que* (wherever), *cualquiera que* (whichever / whoever), *comoquiera que* (however — formal): *Quienquiera que haya sido, lo va a pagar.* (Whoever it was is going to pay for it.) *Dondequiera que estés, te encontraré.*"
+    },
+    {
+      "heading": "Relatives with an unknown antecedent",
+      "body": "Remember: indefinite or non-existent antecedent → subjunctive, also in formal writing: *Se buscan personas que hablen inglés.* *No existe ningún método que funcione siempre.*"
+    }
+  ],
+  "vocab": [
+    ["cuyo / cuya", "whose / of which"],
+    ["a través de la cual", "through which"],
+    ["frente a", "in front of / facing"],
+    ["lo cual", "which (whole idea)"],
+    ["quienquiera que", "whoever"],
+    ["dondequiera que", "wherever"],
+    ["comoquiera que", "however (formal)"],
+    ["la actitud", "the attitude"],
+    ["la obra", "the work (of art / writing)"],
+    ["el ladrón / la ladrona", "the thief"],
+    ["el método", "the method"],
+    ["existir", "to exist"]
+  ],
+  "examples": [
+    ["Es la empresa en cuyas oficinas trabajo.", "It's the company in whose offices I work."],
+    ["Es el escritor de cuya obra hablamos.", "He's the writer whose work we talked about."],
+    ["Es el chico cuyo padre es médico.", "He's the boy whose father is a doctor."],
+    ["Esa es la ventana a través de la cual entró el ladrón.", "That's the window the thief came in through."],
+    ["Es el parque frente al cual vivía.", "It's the park I used to live across from."],
+    ["No respondió, lo cual me pareció raro.", "He didn't answer, which seemed strange to me."],
+    ["Lo que me molesta es su actitud.", "What bothers me is his attitude."],
+    ["Quien lo sepa, que lo diga.", "Whoever knows, speak up."],
+    ["Donde tú vayas, iré yo.", "Wherever you go, I'll go."],
+    ["Quienquiera que haya sido, lo va a pagar.", "Whoever it was is going to pay for it."],
+    ["Dondequiera que estés, te encontraré.", "Wherever you are, I'll find you."],
+    ["Cualquiera que sea la respuesta, la aceptaré.", "Whatever the answer is, I'll accept it."],
+    ["Se buscan personas que hablen inglés.", "People who speak English wanted."],
+    ["No existe ningún método que funcione siempre.", "There's no method that always works."],
+    ["Los datos según los cuales se tomó la decisión eran falsos.", "The data on which the decision was based were false."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Es la empresa en ___ oficinas trabajo.", "answers": ["cuyas"], "hint": "It's the company in whose offices I work."},
+    {"type": "fill", "prompt": "Es el escritor de ___ obra hablamos.", "answers": ["cuya"], "hint": "He's the writer whose work we talked about."},
+    {"type": "fill", "prompt": "Es el chico ___ padre es médico.", "answers": ["cuyo"], "hint": "He's the boy whose father is a doctor."},
+    {"type": "fill", "prompt": "Esa es la ventana a través de la ___ entró el ladrón.", "answers": ["cual"], "hint": "That's the window the thief came in through."},
+    {"type": "fill", "prompt": "No respondió, lo ___ me pareció raro.", "answers": ["cual", "que"], "hint": "He didn't answer, which seemed strange to me."},
+    {"type": "fill", "prompt": "Lo ___ me molesta es su actitud.", "answers": ["que"], "hint": "What bothers me is his attitude."},
+    {"type": "fill", "prompt": "Quien lo ___, que lo diga. (saber)", "answers": ["sepa"], "hint": "Whoever knows, speak up."},
+    {"type": "fill", "prompt": "Quienquiera que ___ sido, lo va a pagar.", "answers": ["haya"], "hint": "Whoever it was is going to pay for it."},
+    {"type": "fill", "prompt": "Dondequiera que ___, te encontraré. (estar, tú)", "answers": ["estés"], "hint": "Wherever you are, I'll find you."},
+    {"type": "fill", "prompt": "Se buscan personas que ___ inglés. (hablar)", "answers": ["hablen"], "hint": "People who speak English wanted."},
+    {"type": "fill", "prompt": "No existe ningún método que ___ siempre. (funcionar)", "answers": ["funcione"], "hint": "There's no method that always works."},
+    {"type": "mc", "prompt": "In careful Spanish, \"the boy whose father is a doctor\" is…", "options": ["el chico cuyo padre es médico", "el chico que su padre es médico", "el chico cuyo su padre es médico", "el chico del que padre es médico"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: ___ me molesta es su actitud.", "options": ["Lo que", "Lo cual", "El cual", "Cuyo"], "answer": 0, "lang": "es", "explain": "Only *lo que* can begin a free relative."},
+    {"type": "mc", "prompt": "*Quienquiera que haya sido* means…", "options": ["whoever it was", "whoever wanted it", "whoever they may love", "someone who has been"], "answer": 0},
+    {"type": "mc", "prompt": "Choose: el escritor de ___ obra hablamos", "options": ["cuya", "cuyo", "cuyas", "que su"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "After *a través de*, which relative is preferred?", "options": ["la cual", "que", "quien", "cuyo"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "What bothers me is his attitude.", "answers": ["Lo que me molesta es su actitud."]},
+    {"type": "translate", "prompt": "Wherever you are, I'll find you. (tú)", "answers": ["Dondequiera que estés, te encontraré.", "Donde sea que estés, te encontraré.", "Estés donde estés, te encontraré."]},
+    {"type": "translate", "prompt": "He didn't answer, which seemed strange to me.", "answers": ["No respondió, lo cual me pareció raro.", "No respondió, lo que me pareció raro.", "No contestó, lo cual me pareció raro.", "No contestó, lo que me pareció raro."]},
+    {"type": "translate", "prompt": "There's no method that always works.", "answers": ["No existe ningún método que funcione siempre.", "No hay ningún método que funcione siempre."]},
+    {"type": "build", "prompt": "Put the words in order: \"Whatever the answer is, I'll accept it.\"", "answer": "Cualquiera que sea la respuesta, la aceptaré."},
+    {"type": "build", "prompt": "Put the words in order: \"It's the park I used to live across from.\"", "answer": "Es el parque frente al cual vivía."},
+    {"type": "build", "prompt": "Put the words in order: \"The data on which the decision was based were false.\"", "answer": "Los datos según los cuales se tomó la decisión eran falsos."}
+  ]
+}

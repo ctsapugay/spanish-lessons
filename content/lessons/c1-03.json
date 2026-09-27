@@ -1,0 +1,74 @@
+{
+  "sections": [
+    {
+      "heading": "Conditions without si: a review with nuance",
+      "body": "- *siempre y cuando / siempre que* (provided that — strict condition): *Puedes usar el carro siempre y cuando lo cuides.*\n- *a no ser que / salvo que / a menos que* (unless): *Saldremos a las seis, salvo que haya cambios.*\n- *en caso de que* (in the event that): *En caso de que surja algún problema, llámeme.*\n- *con tal de que* (as long as — often \"just so\"): *Hace cualquier cosa con tal de que lo dejen en paz.*\n- *como* + subjunctive — a **warning or threat** (if…): *Como no me pagues mañana, te denuncio.* (If you don't pay me tomorrow, I'll report you.) Compare *como* + indicative = since: *Como no me pagaste, te denuncié.*"
+    },
+    {
+      "heading": "De + infinitive, simple and compound",
+      "body": "*De* + infinitive replaces a *si* clause, in speech and writing:\n\n- **Present / hypothetical**: *De tener dinero, viajaría más.* (= Si tuviera dinero…)\n- **Past (compound infinitive)**: *De haberlo sabido, habría venido antes.* (= Si lo hubiera sabido…)\n- **Negative**: *De no ser por ti, no lo habría logrado.* (If it weren't / hadn't been for you, I wouldn't have made it.)\n\nOther reduced conditions: gerund (*Estudiando así, aprobarás.* — Studying like that, you'll pass), participle (*Bien hecho, el trabajo tomará un mes.*) and *con* + infinitive (*Con llamarlo basta.* — Just calling him is enough)."
+    },
+    {
+      "heading": "Mixed and implicit conditions",
+      "body": "Real speech often mixes times: *Si no hubieras gastado tanto, ahora tendrías dinero.* (past condition, present result) *Si fuera más paciente, no habría discutido con él.* (present condition, past result). Some conditions are implicit: *Yo que tú, no lo haría.* (If I were you, I wouldn't.) *En tu lugar, aceptaría.*"
+    }
+  ],
+  "vocab": [
+    ["siempre y cuando", "provided that"],
+    ["salvo que", "unless"],
+    ["en caso de que", "in the event that"],
+    ["con tal de que", "as long as / just so"],
+    ["como + subjuntivo", "if (warning / threat)"],
+    ["de no ser por", "if it weren't for"],
+    ["surgir", "to arise / come up"],
+    ["denunciar", "to report (to police)"],
+    ["lograr", "to achieve / manage"],
+    ["dejar en paz", "to leave alone"],
+    ["yo que tú", "if I were you"],
+    ["en tu lugar", "in your place / if I were you"],
+    ["discutir", "to argue"]
+  ],
+  "examples": [
+    ["Puedes usar el carro siempre y cuando lo cuides.", "You can use the car provided you look after it."],
+    ["Saldremos a las seis, salvo que haya cambios.", "We'll leave at six unless there are changes."],
+    ["En caso de que surja algún problema, llámeme.", "In the event that a problem arises, call me."],
+    ["Hace cualquier cosa con tal de que lo dejen en paz.", "He does anything just so they leave him alone."],
+    ["Como no me pagues mañana, te denuncio.", "If you don't pay me tomorrow, I'll report you."],
+    ["Como no me pagaste, te denuncié.", "Since you didn't pay me, I reported you."],
+    ["De tener dinero, viajaría más.", "If I had money, I'd travel more."],
+    ["De haberlo sabido, habría venido antes.", "Had I known, I would have come earlier."],
+    ["De no ser por ti, no lo habría logrado.", "If it hadn't been for you, I wouldn't have made it."],
+    ["Estudiando así, aprobarás.", "Studying like that, you'll pass."],
+    ["Con llamarlo basta.", "Just calling him is enough."],
+    ["Si no hubieras gastado tanto, ahora tendrías dinero.", "If you hadn't spent so much, you'd have money now."],
+    ["Si fuera más paciente, no habría discutido con él.", "If I were more patient, I wouldn't have argued with him."],
+    ["Yo que tú, no lo haría.", "If I were you, I wouldn't do it."],
+    ["En tu lugar, aceptaría la oferta.", "If I were you, I'd accept the offer."],
+    ["Como sigas así, te vas a enfermar.", "If you carry on like this, you're going to get sick."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Puedes usar el carro siempre y cuando lo ___. (cuidar, tú)", "answers": ["cuides"], "hint": "You can use the car provided you look after it."},
+    {"type": "fill", "prompt": "Saldremos a las seis, salvo que ___ cambios. (haber)", "answers": ["haya"], "hint": "We'll leave at six unless there are changes."},
+    {"type": "fill", "prompt": "En caso de que ___ algún problema, llámeme. (surgir)", "answers": ["surja"], "hint": "In the event that a problem arises, call me."},
+    {"type": "fill", "prompt": "Como no me ___ mañana, te denuncio. (pagar, tú)", "answers": ["pagues"], "hint": "If you don't pay me tomorrow, I'll report you."},
+    {"type": "fill", "prompt": "Como no me ___, te denuncié. (pagar, tú)", "answers": ["pagaste"], "hint": "Since you didn't pay me, I reported you."},
+    {"type": "fill", "prompt": "De ___ dinero, viajaría más. (tener)", "answers": ["tener"], "hint": "If I had money, I'd travel more."},
+    {"type": "fill", "prompt": "De ___ sabido, habría venido antes. (haber + lo)", "answers": ["haberlo"], "hint": "Had I known, I would have come earlier."},
+    {"type": "fill", "prompt": "De no ___ por ti, no lo habría logrado.", "answers": ["ser"], "hint": "If it hadn't been for you, I wouldn't have made it."},
+    {"type": "fill", "prompt": "Si no hubieras gastado tanto, ahora ___ dinero. (tener)", "answers": ["tendrías"], "hint": "If you hadn't spent so much, you'd have money now."},
+    {"type": "fill", "prompt": "Yo que ___, no lo haría.", "answers": ["tú"], "hint": "If I were you, I wouldn't do it."},
+    {"type": "fill", "prompt": "Como ___ así, te vas a enfermar. (seguir, tú)", "answers": ["sigas"], "hint": "If you carry on like this, you're going to get sick."},
+    {"type": "mc", "prompt": "*Como no me pagues, te denuncio* is…", "options": ["a warning (if you don't…)", "a reason (since you didn't…)", "a comparison", "a wish"], "answer": 0},
+    {"type": "mc", "prompt": "*De no ser por ti* means…", "options": ["If it weren't for you", "It's not for you", "Not being for you", "Because of you"], "answer": 0},
+    {"type": "mc", "prompt": "*Yo que tú, no lo haría* means…", "options": ["If I were you, I wouldn't do it.", "Me and you won't do it.", "I, not you, would do it.", "You and I wouldn't do it."], "answer": 0},
+    {"type": "mc", "prompt": "Choose: De ___ sabido, habría venido antes.", "options": ["haberlo", "saberlo", "lo haber", "haberse"], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*Si fuera más paciente, no habría discutido* mixes…", "options": ["a present condition with a past result", "two past events", "two future events", "a past condition with a present result"], "answer": 0},
+    {"type": "translate", "prompt": "If I were you, I'd accept the offer. (use en tu lugar)", "answers": ["En tu lugar, aceptaría la oferta.", "En tu lugar, yo aceptaría la oferta."]},
+    {"type": "translate", "prompt": "Just calling him is enough. (use con + infinitive)", "answers": ["Con llamarlo basta.", "Basta con llamarlo."]},
+    {"type": "translate", "prompt": "If you hadn't spent so much, you'd have money now. (tú)", "answers": ["Si no hubieras gastado tanto, ahora tendrías dinero.", "Si no hubieras gastado tanto, tendrías dinero ahora."]},
+    {"type": "translate", "prompt": "If I had money, I'd travel more. (use de + infinitive)", "answers": ["De tener dinero, viajaría más."]},
+    {"type": "build", "prompt": "Put the words in order: \"He does anything just so they leave him alone.\"", "answer": "Hace cualquier cosa con tal de que lo dejen en paz."},
+    {"type": "build", "prompt": "Put the words in order: \"Studying like that, you'll pass.\"", "answer": "Estudiando así, aprobarás."},
+    {"type": "build", "prompt": "Put the words in order: \"If I were more patient, I wouldn't have argued with him.\"", "answer": "Si fuera más paciente, no habría discutido con él."}
+  ]
+}
