@@ -123,3 +123,6 @@ reader: state, not narrative.
 - Settings → Appearance: theme (Match my computer / Light / Dark) and accent (Pink default, Purple, Blue, Teal, Orange), applied instantly and saved with progress (so also in my-progress.json). Each accent has a darker shade for light mode and a lighter one for dark mode. No green/red accents, to keep right/wrong feedback distinct.
 - CHK-003 strengthened: +4 scenarios (pink offered, both modes work, every accent×mode has contrast ≥ 4.5 for text and button labels, choices survive reload). Also made the review-navigation scenario independent of question shuffle order (it was skipping its check when a typed question came second). "app ok: 39 checks passed" three runs in a row. README mentions Appearance.
 - Committed locally only; not pushed.
+
+## 2026-09-27 — Push approved by Clara
+- Clara said "push it"; pushed the practice fixes, the appearance settings and this log entry to ctsapugay/spanish-lessons.
