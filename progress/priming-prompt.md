@@ -32,8 +32,9 @@ You are resuming work on this project as the WORKER. Do this first, in order:
 
 Project: Spanish lessons — a local browser app with a full A1→C1 Latin American Spanish
 curriculum, dashboard, lessons, practice center, and cumulative quizzes that drive progress.
-Clara approves things in chat only; see "How Clara approves" in `CLAUDE.md`. Commit and push
-to the private GitHub repo `ctsapugay/spanish-lessons` at natural breaks. Also read
+Clara approves things in chat only; see "How Clara approves" in `CLAUDE.md`. Commit locally at
+natural breaks; the GitHub repo `ctsapugay/spanish-lessons` is public, so never push without
+Clara's explicit go-ahead. Also read
 "Project notes" at the bottom of `CLAUDE.md`.
 
 ## To boot an observer
@@ -57,6 +58,7 @@ otherwise stay quiet. Report what you see; do not act.
 
 Project: Spanish lessons — a local browser app with a full A1→C1 Latin American Spanish
 curriculum, dashboard, lessons, practice center, and cumulative quizzes that drive progress.
-Clara approves things in chat only; see "How Clara approves" in `CLAUDE.md`. Commit and push
-to the private GitHub repo `ctsapugay/spanish-lessons` at natural breaks. Also read
+Clara approves things in chat only; see "How Clara approves" in `CLAUDE.md`. Commit locally at
+natural breaks; the GitHub repo `ctsapugay/spanish-lessons` is public, so never push without
+Clara's explicit go-ahead. Also read
 "Project notes" at the bottom of `CLAUDE.md`.
