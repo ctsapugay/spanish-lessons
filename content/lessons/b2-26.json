@@ -1,0 +1,79 @@
+{
+  "sections": [
+    {
+      "heading": "Politics",
+      "body": "*El gobierno* (government), *el presidente / la presidenta*, *el Congreso* (in many countries: *la Cámara de Diputados* and *el Senado*), *el partido* (party), *las elecciones* (elections), *votar* (to vote), *el voto*, *la campaña electoral*, *el candidato / la candidata*, *ganar / perder las elecciones*, *la oposición*, *la ley* (law) — *aprobar una ley* (to pass a law), *la corrupción*, *la democracia*, *la dictadura* (dictatorship), *los derechos humanos* (human rights)."
+    },
+    {
+      "heading": "Social issues",
+      "body": "*La desigualdad* (inequality), *la pobreza* (poverty), *la violencia*, *la inseguridad* (crime / lack of safety — very common in LatAm news), *la migración* and *los migrantes*, *la discriminación*, *la igualdad de género* (gender equality), *la educación pública*, *la vivienda* (housing), *una manifestación / una marcha* (a demonstration / march), *protestar*, *reivindicar* (to demand, claim a right)."
+    },
+    {
+      "heading": "Talking about it",
+      "body": "Useful structures: *Es fundamental que el gobierno invierta en educación.* *Habría que* (one ought to) *combatir la corrupción.* *Lo que hace falta es…* (What's needed is…). *Estoy a favor de / en contra de…* (I'm for / against…). *La medida afecta sobre todo a…* (The measure affects above all…)."
+    }
+  ],
+  "vocab": [
+    ["el gobierno", "the government"],
+    ["las elecciones", "the elections"],
+    ["votar", "to vote"],
+    ["el partido", "the party (political)"],
+    ["la campaña", "the campaign"],
+    ["la ley", "the law"],
+    ["la corrupción", "corruption"],
+    ["los derechos humanos", "human rights"],
+    ["la desigualdad", "inequality"],
+    ["la pobreza", "poverty"],
+    ["la inseguridad", "crime / lack of safety"],
+    ["la vivienda", "housing"],
+    ["la marcha", "the march / demonstration"],
+    ["a favor de", "in favor of"],
+    ["en contra de", "against"],
+    ["habría que", "one ought to"]
+  ],
+  "examples": [
+    ["El gobierno anunció nuevas medidas.", "The government announced new measures."],
+    ["Las elecciones son en octubre.", "The elections are in October."],
+    ["¿Por quién vas a votar?", "Who are you going to vote for?"],
+    ["Su partido ganó las elecciones.", "Her party won the elections."],
+    ["La campaña electoral empezó ayer.", "The election campaign started yesterday."],
+    ["El Congreso aprobó una nueva ley.", "Congress passed a new law."],
+    ["La corrupción es un problema grave.", "Corruption is a serious problem."],
+    ["Hay que defender los derechos humanos.", "Human rights must be defended."],
+    ["La desigualdad sigue creciendo.", "Inequality keeps growing."],
+    ["Millones de personas viven en la pobreza.", "Millions of people live in poverty."],
+    ["La inseguridad preocupa a los vecinos.", "Crime worries the residents."],
+    ["El precio de la vivienda es muy alto.", "The price of housing is very high."],
+    ["Miles de personas participaron en la marcha.", "Thousands of people took part in the march."],
+    ["Estoy a favor de la educación pública.", "I'm in favor of public education."],
+    ["Muchos están en contra de la reforma.", "Many are against the reform."],
+    ["Habría que combatir la corrupción.", "One ought to fight corruption."],
+    ["Es fundamental que el gobierno invierta en educación.", "It's essential for the government to invest in education."],
+    ["Lo que hace falta es más transparencia.", "What's needed is more transparency."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "El ___ anunció nuevas medidas.", "answers": ["gobierno"], "hint": "The government announced new measures."},
+    {"type": "fill", "prompt": "Las ___ son en octubre.", "answers": ["elecciones"], "hint": "The elections are in October."},
+    {"type": "fill", "prompt": "¿Por quién vas a ___?", "answers": ["votar"], "hint": "Who are you going to vote for?"},
+    {"type": "fill", "prompt": "El Congreso aprobó una nueva ___.", "answers": ["ley"], "hint": "Congress passed a new law."},
+    {"type": "fill", "prompt": "La ___ es un problema grave.", "answers": ["corrupción"], "hint": "Corruption is a serious problem."},
+    {"type": "fill", "prompt": "Millones de personas viven en la ___.", "answers": ["pobreza"], "hint": "Millions of people live in poverty."},
+    {"type": "fill", "prompt": "La ___ preocupa a los vecinos.", "answers": ["inseguridad"], "hint": "Crime worries the residents."},
+    {"type": "fill", "prompt": "El precio de la ___ es muy alto.", "answers": ["vivienda"], "hint": "The price of housing is very high."},
+    {"type": "fill", "prompt": "Estoy a ___ de la educación pública.", "answers": ["favor"], "hint": "I'm in favor of public education."},
+    {"type": "fill", "prompt": "Es fundamental que el gobierno ___ en educación. (invertir)", "answers": ["invierta"], "hint": "It's essential for the government to invest in education."},
+    {"type": "fill", "prompt": "___ que combatir la corrupción.", "answers": ["habría"], "hint": "One ought to fight corruption."},
+    {"type": "mc", "prompt": "*la inseguridad* in LatAm news usually means…", "options": ["crime / lack of safety", "shyness", "job insecurity", "uncertainty"], "answer": 0},
+    {"type": "mc", "prompt": "*aprobar una ley* means…", "options": ["to pass a law", "to approve of a lawyer", "to test a law", "to break a law"], "answer": 0},
+    {"type": "mc", "prompt": "*la desigualdad* means…", "options": ["inequality", "disagreement", "difference of opinion", "unemployment"], "answer": 0},
+    {"type": "mc", "prompt": "\"Many are against the reform\" →", "options": ["Muchos están en contra de la reforma.", "Muchos son contra la reforma.", "Muchos están a favor de la reforma.", "Muchos contra están la reforma."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "Choose: Es fundamental que el gobierno ___ en educación.", "options": ["invierta", "invierte", "invertir", "invertirá"], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Her party won the elections.", "answers": ["Su partido ganó las elecciones."]},
+    {"type": "translate", "prompt": "Human rights must be defended. (use hay que)", "answers": ["Hay que defender los derechos humanos."]},
+    {"type": "translate", "prompt": "Inequality keeps growing.", "answers": ["La desigualdad sigue creciendo."]},
+    {"type": "translate", "prompt": "What's needed is more transparency.", "answers": ["Lo que hace falta es más transparencia."]},
+    {"type": "build", "prompt": "Put the words in order: \"Thousands of people took part in the march.\"", "answer": "Miles de personas participaron en la marcha."},
+    {"type": "build", "prompt": "Put the words in order: \"The election campaign started yesterday.\"", "answer": "La campaña electoral empezó ayer."},
+    {"type": "build", "prompt": "Put the words in order: \"The government announced new measures.\"", "answer": "El gobierno anunció nuevas medidas."}
+  ]
+}

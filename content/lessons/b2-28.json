@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "heading": "Regret: ojalá + pluperfect subjunctive",
+      "body": "To regret the past, use *ojalá* + **pluperfect subjunctive** (*hubiera* + participle): *Ojalá hubiera estudiado más.* (I wish I had studied more.) *Ojalá no te hubiera dicho nada.* (I wish I hadn't told you anything.)\n\nOther ways: *Me arrepiento de…* (I regret…) + infinitive or noun: *Me arrepiento de no haber viajado más.* *¡Qué lástima que no hubieras venido!* (What a shame you hadn't come!) *Si lo hubiera sabido…* (If I had known…)."
+    },
+    {
+      "heading": "Reproach: deberías haber…",
+      "body": "To reproach someone (or yourself) about the past, use the conditional of *deber* + *haber* + participle: *Deberías haber llamado.* (You should have called.) *No deberías haberle dicho eso.* (You shouldn't have told him that.) *Debí haberlo pensado antes.* (I should have thought of it before — preterite of *deber* is also common in LatAm.)\n\nOther reproaches: *¿Por qué no me avisaste?* (Why didn't you let me know?) *¡Me lo hubieras dicho!* (You could have told me!) *¡Mira que te lo dije!* (I told you so!) *Tendrías que haber pedido permiso.* (You should have asked permission.)"
+    }
+  ],
+  "vocab": [
+    ["ojalá hubiera", "I wish I had"],
+    ["arrepentirse de", "to regret"],
+    ["deberías haber", "you should have"],
+    ["tendrías que haber", "you should have (stronger)"],
+    ["avisar", "to let know / warn"],
+    ["el permiso", "permission"],
+    ["qué lástima", "what a shame"],
+    ["la oportunidad", "the opportunity"],
+    ["aprovechar", "to take advantage of"],
+    ["perderse algo", "to miss something"],
+    ["culpar", "to blame"],
+    ["la culpa", "the blame / fault"]
+  ],
+  "examples": [
+    ["Ojalá hubiera estudiado más.", "I wish I had studied more."],
+    ["Ojalá no te hubiera dicho nada.", "I wish I hadn't told you anything."],
+    ["Me arrepiento de no haber viajado más.", "I regret not having traveled more."],
+    ["¡Qué lástima que no hubieras venido!", "What a shame you hadn't come!"],
+    ["Si lo hubiera sabido, no habría ido.", "If I had known, I wouldn't have gone."],
+    ["Deberías haber llamado.", "You should have called."],
+    ["No deberías haberle dicho eso.", "You shouldn't have told him that."],
+    ["Debí haberlo pensado antes.", "I should have thought of it before."],
+    ["¿Por qué no me avisaste?", "Why didn't you let me know?"],
+    ["¡Me lo hubieras dicho!", "You could have told me!"],
+    ["¡Mira que te lo dije!", "I told you so!"],
+    ["Tendrías que haber pedido permiso.", "You should have asked permission."],
+    ["No aproveché la oportunidad.", "I didn't take advantage of the opportunity."],
+    ["Te perdiste una fiesta increíble.", "You missed an incredible party."],
+    ["No me culpes a mí.", "Don't blame me."],
+    ["Fue culpa mía.", "It was my fault."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Ojalá ___ estudiado más.", "answers": ["hubiera", "hubiese"], "hint": "I wish I had studied more."},
+    {"type": "fill", "prompt": "Ojalá no te hubiera ___ nada. (decir)", "answers": ["dicho"], "hint": "I wish I hadn't told you anything."},
+    {"type": "fill", "prompt": "Me ___ de no haber viajado más. (arrepentirse)", "answers": ["arrepiento"], "hint": "I regret not having traveled more."},
+    {"type": "fill", "prompt": "¡Qué ___ que no hubieras venido!", "answers": ["lástima", "pena"], "hint": "What a shame you hadn't come!"},
+    {"type": "fill", "prompt": "Si lo hubiera sabido, no ___ ido.", "answers": ["habría", "hubiera"], "hint": "If I had known, I wouldn't have gone."},
+    {"type": "fill", "prompt": "___ haber llamado. (deber, tú)", "answers": ["deberías"], "hint": "You should have called."},
+    {"type": "fill", "prompt": "¿Por qué no me ___? (avisar, tú)", "answers": ["avisaste"], "hint": "Why didn't you let me know?"},
+    {"type": "fill", "prompt": "Tendrías que haber pedido ___.", "answers": ["permiso"], "hint": "You should have asked permission."},
+    {"type": "fill", "prompt": "No ___ la oportunidad. (aprovechar, yo)", "answers": ["aproveché"], "hint": "I didn't take advantage of the opportunity."},
+    {"type": "fill", "prompt": "Te ___ una fiesta increíble. (perderse)", "answers": ["perdiste"], "hint": "You missed an incredible party."},
+    {"type": "fill", "prompt": "Fue ___ mía.", "answers": ["culpa"], "hint": "It was my fault."},
+    {"type": "mc", "prompt": "\"I wish I had studied more\" →", "options": ["Ojalá hubiera estudiado más.", "Ojalá estudiara más.", "Ojalá estudio más.", "Ojalá he estudiado más."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "\"You should have called\" →", "options": ["Deberías haber llamado.", "Deberías llamar.", "Debes llamado.", "Habrías debido llamar ya."], "answer": 0, "lang": "es"},
+    {"type": "mc", "prompt": "*¡Mira que te lo dije!* means…", "options": ["I told you so!", "Look what I said!", "Look, I'm telling you!", "Watch what you say!"], "answer": 0},
+    {"type": "mc", "prompt": "*¡Me lo hubieras dicho!* expresses…", "options": ["a reproach", "a wish for the future", "a polite request", "a promise"], "answer": 0},
+    {"type": "mc", "prompt": "*Me arrepiento de…* means…", "options": ["I regret…", "I repeat…", "I apologize to…", "I report…"], "answer": 0},
+    {"type": "translate", "prompt": "You shouldn't have told him that. (tú)", "answers": ["No deberías haberle dicho eso.", "No le deberías haber dicho eso.", "No tendrías que haberle dicho eso."]},
+    {"type": "translate", "prompt": "If I had known, I wouldn't have gone.", "answers": ["Si lo hubiera sabido, no habría ido.", "Si lo hubiera sabido, no hubiera ido."]},
+    {"type": "translate", "prompt": "Don't blame me. (tú)", "answers": ["No me culpes a mí.", "No me culpes."]},
+    {"type": "translate", "prompt": "I regret not having traveled more.", "answers": ["Me arrepiento de no haber viajado más."]},
+    {"type": "build", "prompt": "Put the words in order: \"I should have thought of it before.\"", "answer": "Debí haberlo pensado antes."},
+    {"type": "build", "prompt": "Put the words in order: \"I wish I hadn't told you anything.\"", "answer": "Ojalá no te hubiera dicho nada."},
+    {"type": "build", "prompt": "Put the words in order: \"You should have asked permission.\"", "answer": "Tendrías que haber pedido permiso."}
+  ]
+}

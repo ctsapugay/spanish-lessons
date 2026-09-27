@@ -1,0 +1,77 @@
+{
+  "sections": [
+    {
+      "heading": "Books and films",
+      "body": "*La novela, el cuento* (short story), *el ensayo* (essay), *la poesía*, *el/la autor/a*, *el personaje* (character), *el/la protagonista*, *la trama* (plot), *el argumento* (storyline), *el desenlace* (ending), *se desarrolla en…* (it takes place in…), *trata de…* (it's about…). For films: *la película, el director / la directora, el reparto* (cast), *el guion* (script), *la banda sonora* (soundtrack), *los efectos especiales, los subtítulos*, *estrenar* (to release) → *el estreno* (premiere)."
+    },
+    {
+      "heading": "Art",
+      "body": "*El cuadro* (painting), *el/la pintor/a*, *el mural* (Mexican muralism: Rivera, Orozco, Siqueiros), *la escultura, la exposición* (exhibition), *el museo, la obra de arte* (work of art), *la obra de teatro* (play), *el estilo, la técnica, el retrato* (portrait), *el paisaje* (landscape)."
+    },
+    {
+      "heading": "Reviewing",
+      "body": "Positive: *Me atrapó desde la primera página.* (It hooked me from the first page.) *Es una obra maestra.* (It's a masterpiece.) *Te la recomiendo.* *Vale la pena verla.*\nNegative: *Me pareció aburrida / predecible.* (I found it boring / predictable.) *El final me decepcionó.* (The ending disappointed me.) *Es demasiado larga.*\nBalanced: *Aunque la trama es algo lenta, los personajes están muy bien construidos.*"
+    }
+  ],
+  "vocab": [
+    ["el cuento", "the short story"],
+    ["el personaje", "the character"],
+    ["la trama", "the plot"],
+    ["el desenlace", "the ending"],
+    ["tratar de", "to be about"],
+    ["el reparto", "the cast"],
+    ["el guion", "the script"],
+    ["la banda sonora", "the soundtrack"],
+    ["el estreno", "the premiere / release"],
+    ["el cuadro", "the painting"],
+    ["la exposición", "the exhibition"],
+    ["la obra maestra", "the masterpiece"],
+    ["el retrato", "the portrait"],
+    ["decepcionar", "to disappoint"],
+    ["predecible", "predictable"]
+  ],
+  "examples": [
+    ["Cien años de soledad es una novela de García Márquez.", "One Hundred Years of Solitude is a novel by García Márquez."],
+    ["Borges escribió cuentos muy famosos.", "Borges wrote very famous short stories."],
+    ["El personaje principal es una mujer de ochenta años.", "The main character is an eighty-year-old woman."],
+    ["La trama se desarrolla en Buenos Aires.", "The plot takes place in Buenos Aires."],
+    ["¿De qué trata la película?", "What's the movie about?"],
+    ["El desenlace me sorprendió.", "The ending surprised me."],
+    ["El reparto es excelente.", "The cast is excellent."],
+    ["La banda sonora es preciosa.", "The soundtrack is beautiful."],
+    ["El estreno es el viernes.", "The premiere is on Friday."],
+    ["Frida Kahlo pintó muchos autorretratos.", "Frida Kahlo painted many self-portraits."],
+    ["Vimos los murales de Diego Rivera.", "We saw Diego Rivera's murals."],
+    ["La exposición termina en marzo.", "The exhibition ends in March."],
+    ["Me atrapó desde la primera página.", "It hooked me from the first page."],
+    ["Es una obra maestra.", "It's a masterpiece."],
+    ["Me pareció aburrida y predecible.", "I found it boring and predictable."],
+    ["El final me decepcionó.", "The ending disappointed me."],
+    ["Aunque la trama es algo lenta, los personajes están muy bien construidos.", "Although the plot is somewhat slow, the characters are very well developed."]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Borges escribió ___ muy famosos.", "answers": ["cuentos"], "hint": "Borges wrote very famous short stories."},
+    {"type": "fill", "prompt": "El ___ principal es una mujer de ochenta años.", "answers": ["personaje"], "hint": "The main character is an eighty-year-old woman."},
+    {"type": "fill", "prompt": "La ___ se desarrolla en Buenos Aires.", "answers": ["trama"], "hint": "The plot takes place in Buenos Aires."},
+    {"type": "fill", "prompt": "¿De qué ___ la película?", "answers": ["trata"], "hint": "What's the movie about?"},
+    {"type": "fill", "prompt": "El ___ me sorprendió.", "answers": ["desenlace", "final"], "hint": "The ending surprised me."},
+    {"type": "fill", "prompt": "El ___ es excelente.", "answers": ["reparto"], "hint": "The cast is excellent."},
+    {"type": "fill", "prompt": "La banda ___ es preciosa.", "answers": ["sonora"], "hint": "The soundtrack is beautiful."},
+    {"type": "fill", "prompt": "El ___ es el viernes.", "answers": ["estreno"], "hint": "The premiere is on Friday."},
+    {"type": "fill", "prompt": "La ___ termina en marzo.", "answers": ["exposición"], "hint": "The exhibition ends in March."},
+    {"type": "fill", "prompt": "Es una obra ___.", "answers": ["maestra"], "hint": "It's a masterpiece."},
+    {"type": "fill", "prompt": "El final me ___. (decepcionar)", "answers": ["decepcionó"], "hint": "The ending disappointed me."},
+    {"type": "mc", "prompt": "*el cuento* is…", "options": ["the short story", "the account (bank)", "the count", "the story of your life"], "answer": 0},
+    {"type": "mc", "prompt": "*la trama* is…", "options": ["the plot", "the trap", "the tram", "the drama"], "answer": 0},
+    {"type": "mc", "prompt": "*Me atrapó desde la primera página* means…", "options": ["It hooked me from the first page.", "It trapped me on page one.", "I stopped at the first page.", "It bored me from the first page."], "answer": 0},
+    {"type": "mc", "prompt": "*predecible* means…", "options": ["predictable", "preachy", "precious", "premature"], "answer": 0},
+    {"type": "mc", "prompt": "A balanced review:", "options": ["Aunque la trama es algo lenta, los personajes están muy bien construidos.", "Es una obra maestra.", "Me pareció aburrida y predecible.", "Te la recomiendo."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "What's the movie about?", "answers": ["¿De qué trata la película?", "¿De qué se trata la película?"]},
+    {"type": "translate", "prompt": "It's a masterpiece.", "answers": ["Es una obra maestra."]},
+    {"type": "translate", "prompt": "I found it boring and predictable. (a movie)", "answers": ["Me pareció aburrida y predecible."]},
+    {"type": "translate", "prompt": "The ending disappointed me.", "answers": ["El final me decepcionó.", "El desenlace me decepcionó."]},
+    {"type": "build", "prompt": "Put the words in order: \"We saw Diego Rivera's murals.\"", "answer": "Vimos los murales de Diego Rivera."},
+    {"type": "build", "prompt": "Put the words in order: \"Frida Kahlo painted many self-portraits.\"", "answer": "Frida Kahlo pintó muchos autorretratos."},
+    {"type": "build", "prompt": "Put the words in order: \"It hooked me from the first page.\"", "answer": "Me atrapó desde la primera página."}
+  ]
+}

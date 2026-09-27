@@ -1,0 +1,346 @@
+{
+  "sections": [
+    {
+      "heading": "At the doctor's — beyond the basics",
+      "body": "*El diagnóstico* (diagnosis), *el tratamiento* (treatment), *la receta* (prescription) — *recetar* (to prescribe), *los síntomas*, *una infección*, *la presión arterial* (blood pressure), *los análisis* (tests) — *hacerse unos análisis de sangre* (to get blood tests), *una radiografía* (an X-ray), *operar* (to operate) and *la operación / la cirugía*, *el/la especialista*, *la sala de emergencias* (the ER — *urgencias* in Spain and some countries), *el seguro médico* (health insurance), *los efectos secundarios* (side effects), *estar embarazada* (to be pregnant — not \"embarrassed\"!)."
+    },
+    {
+      "heading": "Written accents: the rules",
+      "body": "Every word has one stressed syllable. The written accent shows it when the rules alone wouldn't:\n\n1. Words ending in a **vowel, -n or -s** are naturally stressed on the second-to-last syllable: *casa, hablan, martes*. If the stress falls elsewhere, write it: *café, canción, inglés*.\n2. Words ending in **any other consonant** are naturally stressed on the last syllable: *hablar, ciudad, reloj*. If not, write it: *árbol, fácil, lápiz*.\n3. Stress three or more syllables from the end **always** has an accent: *médico, rápido, teléfono, dígamelo*.\n4. A stressed *i* or *u* next to *a, e, o* gets an accent to break the diphthong: *día, país, frío, Raúl*.\n5. **Diacritic accents** separate homophones: *tú/tu, él/el, mí/mi, sí/si, sé/se, té/te, más/mas*, and question words *qué, cómo, dónde, cuándo, quién*."
+    },
+    {
+      "heading": "Plurals and accents",
+      "body": "Adding a syllable can add or remove an accent: *canción → canciones* (no accent needed), *joven → jóvenes* (accent needed), *examen → exámenes*."
+    }
+  ],
+  "vocab": [
+    [
+      "el diagnóstico",
+      "the diagnosis"
+    ],
+    [
+      "el tratamiento",
+      "the treatment"
+    ],
+    [
+      "recetar",
+      "to prescribe"
+    ],
+    [
+      "los análisis",
+      "tests (medical)"
+    ],
+    [
+      "la radiografía",
+      "the X-ray"
+    ],
+    [
+      "la cirugía",
+      "surgery"
+    ],
+    [
+      "la presión arterial",
+      "blood pressure"
+    ],
+    [
+      "la sala de emergencias",
+      "the emergency room"
+    ],
+    [
+      "el seguro médico",
+      "health insurance"
+    ],
+    [
+      "los efectos secundarios",
+      "side effects"
+    ],
+    [
+      "estar embarazada",
+      "to be pregnant"
+    ],
+    [
+      "la tilde",
+      "the written accent mark"
+    ],
+    [
+      "la sílaba",
+      "the syllable"
+    ]
+  ],
+  "examples": [
+    [
+      "El diagnóstico fue una infección.",
+      "The diagnosis was an infection."
+    ],
+    [
+      "El tratamiento dura dos semanas.",
+      "The treatment lasts two weeks."
+    ],
+    [
+      "El médico me recetó un antibiótico.",
+      "The doctor prescribed me an antibiotic."
+    ],
+    [
+      "Tengo que hacerme unos análisis de sangre.",
+      "I have to get some blood tests."
+    ],
+    [
+      "Me hicieron una radiografía de la rodilla.",
+      "They did an X-ray of my knee."
+    ],
+    [
+      "La cirugía salió bien.",
+      "The surgery went well."
+    ],
+    [
+      "Tiene la presión arterial alta.",
+      "She has high blood pressure."
+    ],
+    [
+      "Lo llevaron a la sala de emergencias.",
+      "They took him to the ER."
+    ],
+    [
+      "¿Su seguro médico cubre esto?",
+      "Does your health insurance cover this?"
+    ],
+    [
+      "Este medicamento tiene pocos efectos secundarios.",
+      "This medicine has few side effects."
+    ],
+    [
+      "Mi hermana está embarazada.",
+      "My sister is pregnant."
+    ],
+    [
+      "\"Canción\" lleva tilde, pero \"canciones\" no.",
+      "\"Canción\" has an accent, but \"canciones\" doesn't."
+    ],
+    [
+      "\"Joven\" no lleva tilde, pero \"jóvenes\" sí.",
+      "\"Joven\" has no accent, but \"jóvenes\" does."
+    ],
+    [
+      "Sí, sé que es para mí.",
+      "Yes, I know it's for me."
+    ],
+    [
+      "El país tiene un clima frío.",
+      "The country has a cold climate."
+    ],
+    [
+      "La palabra \"teléfono\" tiene cuatro sílabas.",
+      "The word \"teléfono\" has four syllables."
+    ],
+    [
+      "Los jóvenes de hoy usan mucho el celular.",
+      "Young people today use their cell phones a lot."
+    ]
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt": "El ___ fue una infección.",
+      "answers": [
+        "diagnóstico"
+      ],
+      "hint": "The diagnosis was an infection."
+    },
+    {
+      "type": "fill",
+      "prompt": "El médico me ___ un antibiótico. (recetar)",
+      "answers": [
+        "recetó"
+      ],
+      "hint": "The doctor prescribed me an antibiotic."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tengo que hacerme unos ___ de sangre.",
+      "answers": [
+        "análisis"
+      ],
+      "hint": "I have to get some blood tests."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me hicieron una ___ de la rodilla.",
+      "answers": [
+        "radiografía"
+      ],
+      "hint": "They did an X-ray of my knee."
+    },
+    {
+      "type": "fill",
+      "prompt": "Tiene la ___ arterial alta.",
+      "answers": [
+        "presión"
+      ],
+      "hint": "She has high blood pressure."
+    },
+    {
+      "type": "fill",
+      "prompt": "Lo llevaron a la sala de ___.",
+      "answers": [
+        "emergencias"
+      ],
+      "hint": "They took him to the ER."
+    },
+    {
+      "type": "fill",
+      "prompt": "Mi hermana está ___.",
+      "answers": [
+        "embarazada"
+      ],
+      "hint": "My sister is pregnant."
+    },
+    {
+      "type": "fill",
+      "prompt": "Este medicamento tiene pocos efectos ___.",
+      "answers": [
+        "secundarios"
+      ],
+      "hint": "This medicine has few side effects."
+    },
+    {
+      "type": "fill",
+      "prompt": "Los ___ de hoy usan mucho el celular. (joven)",
+      "answers": [
+        "jóvenes"
+      ],
+      "hint": "Young people today use their cell phones a lot (plural — mind the accent)."
+    },
+    {
+      "type": "fill",
+      "prompt": "Me encantan sus ___. (canción)",
+      "answers": [
+        "canciones"
+      ],
+      "hint": "I love her songs (plural)."
+    },
+    {
+      "type": "fill",
+      "prompt": "___, sé que es para mí.",
+      "answers": [
+        "sí"
+      ],
+      "hint": "Yes, I know it's for me."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the correct spelling of the word for \"tree\"?",
+      "options": [
+        "árbol",
+        "arbol",
+        "arból",
+        "árból"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Ends in -l (not vowel/n/s) but stressed on the second-to-last syllable → accent."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the correct spelling of the word for \"city\"?",
+      "options": [
+        "ciudad",
+        "ciudád",
+        "cíudad",
+        "ciúdad"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "Ends in -d and stressed on the last syllable → no accent needed."
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the correct spelling of the word for \"telephone\"?",
+      "options": [
+        "teléfono",
+        "telefono",
+        "telefóno",
+        "teléfóno"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "Which is the correct spelling of the word for \"country\"?",
+      "options": [
+        "país",
+        "pais",
+        "páis",
+        "paìs"
+      ],
+      "answer": 0,
+      "lang": "es"
+    },
+    {
+      "type": "mc",
+      "prompt": "*Estar embarazada* means…",
+      "options": [
+        "to be pregnant",
+        "to be embarrassed",
+        "to be engaged",
+        "to be on board"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "mc",
+      "prompt": "Choose: No sé si ___ quiere. (él)",
+      "options": [
+        "él",
+        "el"
+      ],
+      "answer": 0,
+      "lang": "es",
+      "explain": "*él* = he; *el* = the."
+    },
+    {
+      "type": "translate",
+      "prompt": "The surgery went well.",
+      "answers": [
+        "La cirugía salió bien.",
+        "La operación salió bien."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "The treatment lasts two weeks.",
+      "answers": [
+        "El tratamiento dura dos semanas."
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "Does your health insurance cover this? (usted)",
+      "answers": [
+        "¿Su seguro médico cubre esto?"
+      ]
+    },
+    {
+      "type": "translate",
+      "prompt": "My sister is pregnant.",
+      "answers": [
+        "Mi hermana está embarazada."
+      ]
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"The country has a cold climate.\"",
+      "answer": "El país tiene un clima frío."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"They did an X-ray of my knee.\"",
+      "answer": "Me hicieron una radiografía de la rodilla."
+    },
+    {
+      "type": "build",
+      "prompt": "Put the words in order: \"I have to get some blood tests.\"",
+      "answer": "Tengo que hacerme unos análisis de sangre."
+    }
+  ]
+}

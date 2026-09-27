@@ -1,0 +1,87 @@
+{
+  "sections": [
+    {
+      "heading": "Idioms understood everywhere",
+      "body": "These idioms are understood across the Spanish-speaking world:",
+      "table": {
+        "head": ["Idiom", "Literally", "Meaning"],
+        "rows": [
+          ["*estar en las nubes*", "to be in the clouds", "to be daydreaming"],
+          ["*costar un ojo de la cara*", "to cost an eye of the face", "to cost an arm and a leg"],
+          ["*meter la pata*", "to put in the paw", "to put your foot in it"],
+          ["*tomarle el pelo a alguien*", "to take someone's hair", "to pull someone's leg"],
+          ["*no tener pelos en la lengua*", "to have no hairs on the tongue", "to speak your mind"],
+          ["*ser pan comido*", "to be eaten bread", "to be a piece of cake"],
+          ["*llover a cántaros*", "to rain in jugs", "to pour down"],
+          ["*dar en el clavo*", "to hit the nail", "to hit the nail on the head"],
+          ["*echar una mano*", "to throw a hand", "to lend a hand"],
+          ["*estar hasta la coronilla*", "to be up to the crown of the head", "to be fed up"],
+          ["*ponerse las pilas*", "to put your batteries in", "to get your act together"],
+          ["*de mal en peor*", "from bad to worse", "from bad to worse"]
+        ]
+      }
+    },
+    {
+      "heading": "Regional favourites",
+      "body": "Some colourful regional ones: *¡Qué padre!* (Mexico — how cool!), *¡Qué chévere!* (Caribbean, Colombia, Venezuela — great!), *¡Qué bacán!* (Chile, Peru — cool!), *estar pato* (Chile — to be broke), *ser buena onda* (Mexico, and widely — to be a nice person), *echar la mala onda* (to spoil the mood). Use the neutral ones until you know where you are."
+    }
+  ],
+  "vocab": [
+    ["estar en las nubes", "to be daydreaming"],
+    ["costar un ojo de la cara", "to cost an arm and a leg"],
+    ["meter la pata", "to put your foot in it"],
+    ["tomarle el pelo a alguien", "to pull someone's leg"],
+    ["no tener pelos en la lengua", "to speak your mind"],
+    ["ser pan comido", "to be a piece of cake"],
+    ["llover a cántaros", "to pour down"],
+    ["dar en el clavo", "to hit the nail on the head"],
+    ["echar una mano", "to lend a hand"],
+    ["estar hasta la coronilla", "to be fed up"],
+    ["ponerse las pilas", "to get your act together"],
+    ["ser buena onda", "to be a nice person"],
+    ["¡qué padre!", "how cool! (Mexico)"],
+    ["¡qué chévere!", "great! (Caribbean, Colombia)"]
+  ],
+  "examples": [
+    ["Perdón, estaba en las nubes.", "Sorry, I was daydreaming."],
+    ["Ese carro cuesta un ojo de la cara.", "That car costs an arm and a leg."],
+    ["Metí la pata con mi suegra.", "I put my foot in it with my mother-in-law."],
+    ["¿Me estás tomando el pelo?", "Are you pulling my leg?"],
+    ["Mi abuela no tiene pelos en la lengua.", "My grandmother speaks her mind."],
+    ["El examen fue pan comido.", "The exam was a piece of cake."],
+    ["Está lloviendo a cántaros.", "It's pouring down."],
+    ["¡Diste en el clavo!", "You hit the nail on the head!"],
+    ["¿Me echas una mano con la mudanza?", "Can you give me a hand with the move?"],
+    ["Estoy hasta la coronilla de este ruido.", "I'm fed up with this noise."],
+    ["Si quieres aprobar, ponte las pilas.", "If you want to pass, get your act together."],
+    ["Las cosas van de mal en peor.", "Things are going from bad to worse."],
+    ["Tu novio es muy buena onda.", "Your boyfriend is really nice."],
+    ["¡Qué padre tu casa!", "Your house is so cool!"],
+    ["¡Qué chévere la fiesta!", "The party is great!"]
+  ],
+  "exercises": [
+    {"type": "fill", "prompt": "Perdón, estaba en las ___.", "answers": ["nubes"], "hint": "Sorry, I was daydreaming."},
+    {"type": "fill", "prompt": "Ese carro cuesta un ojo de la ___.", "answers": ["cara"], "hint": "That car costs an arm and a leg."},
+    {"type": "fill", "prompt": "___ la pata con mi suegra. (meter, yo)", "answers": ["metí"], "hint": "I put my foot in it with my mother-in-law."},
+    {"type": "fill", "prompt": "¿Me estás tomando el ___?", "answers": ["pelo"], "hint": "Are you pulling my leg?"},
+    {"type": "fill", "prompt": "El examen fue pan ___.", "answers": ["comido"], "hint": "The exam was a piece of cake."},
+    {"type": "fill", "prompt": "Está lloviendo a ___.", "answers": ["cántaros"], "hint": "It's pouring down."},
+    {"type": "fill", "prompt": "¡Diste en el ___!", "answers": ["clavo"], "hint": "You hit the nail on the head!"},
+    {"type": "fill", "prompt": "¿Me echas una ___ con la mudanza?", "answers": ["mano"], "hint": "Can you give me a hand with the move?"},
+    {"type": "fill", "prompt": "Estoy hasta la ___ de este ruido.", "answers": ["coronilla"], "hint": "I'm fed up with this noise."},
+    {"type": "fill", "prompt": "Si quieres aprobar, ponte las ___.", "answers": ["pilas"], "hint": "If you want to pass, get your act together."},
+    {"type": "fill", "prompt": "Las cosas van de mal en ___.", "answers": ["peor"], "hint": "Things are going from bad to worse."},
+    {"type": "mc", "prompt": "*meter la pata* means…", "options": ["to put your foot in it", "to kick something", "to walk away", "to step in"], "answer": 0},
+    {"type": "mc", "prompt": "*no tener pelos en la lengua* means…", "options": ["to speak your mind", "to be bald", "to be unable to speak", "to lie"], "answer": 0},
+    {"type": "mc", "prompt": "*¡Qué padre!* (Mexico) means…", "options": ["How cool!", "My father!", "How strict!", "How old!"], "answer": 0},
+    {"type": "mc", "prompt": "*ser buena onda* means…", "options": ["to be a nice person", "to be a good surfer", "to be on the right wavelength of a radio", "to be in a good mood today"], "answer": 0},
+    {"type": "mc", "prompt": "\"It costs an arm and a leg\" →", "options": ["Cuesta un ojo de la cara.", "Cuesta un brazo y una pierna.", "Cuesta la mano.", "Cuesta pan comido."], "answer": 0, "lang": "es"},
+    {"type": "translate", "prompt": "Are you pulling my leg? (tú)", "answers": ["¿Me estás tomando el pelo?", "¿Me tomas el pelo?"]},
+    {"type": "translate", "prompt": "The exam was a piece of cake.", "answers": ["El examen fue pan comido."]},
+    {"type": "translate", "prompt": "It's pouring down.", "answers": ["Está lloviendo a cántaros.", "Llueve a cántaros."]},
+    {"type": "translate", "prompt": "Things are going from bad to worse.", "answers": ["Las cosas van de mal en peor."]},
+    {"type": "build", "prompt": "Put the words in order: \"My grandmother speaks her mind.\"", "answer": "Mi abuela no tiene pelos en la lengua."},
+    {"type": "build", "prompt": "Put the words in order: \"I'm fed up with this noise.\"", "answer": "Estoy hasta la coronilla de este ruido."},
+    {"type": "build", "prompt": "Put the words in order: \"Can you give me a hand with the move?\"", "answer": "¿Me echas una mano con la mudanza?"}
+  ]
+}
