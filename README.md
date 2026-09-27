@@ -1,237 +1,93 @@
-# constraint-base
+# ¡Español! — Spanish from zero to C1
 
-A base repository for running an agent in goal mode on long-horizon projects without it
-drifting.
+A self-contained browser app that teaches Spanish from complete beginner (CEFR A1) to
+advanced (C1), in Latin American Spanish with English explanations. It runs entirely on
+your own machine: no account, no server, no tracking, and it works offline.
 
-Clone it, run intake, get a goal condition, then let an agent work.
+## What's inside
 
-## The idea
+- **A full curriculum** — 162 lessons across five levels (A1 30, A2 32, B1 36, B2 34,
+  C1 30), built from the Instituto Cervantes *Plan Curricular* inventories, the CEFR
+  descriptors and DELE exam specifications, plus frequency-based vocabulary. The research
+  and sources are in `curriculum/research.md`.
+- **Dashboard** — the whole course in order, with each lesson's objective, your progress
+  per level, and what to do next.
+- **Lessons** — explanations, tables, vocabulary and at least ten example sentences each,
+  all with English translations. Click any Spanish to hear it spoken (browser
+  text-to-speech, preferring a Latin American voice).
+- **Practice center** — unlimited drills on any lesson you've reached: multiple choice,
+  fill in the blank, translation, sentence building and listening. Instant feedback with
+  the correct answer. Practice never changes your progress.
+- **Quizzes and level tests** — the quiz for lesson N is cumulative: most questions come
+  from lesson N, the rest from earlier lessons, favouring items you got wrong before.
+  Passing (80% by default, adjustable in Settings) unlocks the next lesson. Each level ends
+  with a cumulative level test.
+- **Your data** — progress is saved in your browser. Settings lets you export it to a file,
+  import it again, or reset it.
 
-Give an agent a big task and enough time and it drifts: it optimizes something nobody
-asked about, deploys something it shouldn't, declares victory on reasoning rather than
-evidence, or quietly redefines what "done" meant. Not because it is careless — because
-nothing in its context says where the edges are or where the finish line is.
+## Using it
 
-This repo is that context, as a handful of plain Markdown files:
+Open `app/index.html` in a browser. That's all — it works straight from the file.
 
-- **Constraints** — what must remain true throughout. A few inherited defaults every
-  project gets, plus whatever this project needs.
-- **Outcomes** — what becomes true when the project exists, and what is deliberately out
-  of scope.
-- **A goal condition** — the finish line, written precisely enough that an agent can
-  check it itself and be right. It carries a standing completion gate: not done until the
-  check suite is green.
-- **A check suite** — the executable checks that prove the project works, kept in a
-  registry outside the goal condition so a complex project can have many. Re-run every
-  time, so a regression turns the finish line red again. Failing checks block completion
-  unless waived with your countersignature.
-- **A progress log** — append-only, so a session with no memory of the last one can pick
-  up where it left off.
+If your browser's speech voices are limited, install a Spanish voice in your operating
+system's speech settings for better audio.
 
-And a governance layer on top, because the obvious failure mode of writing constraints
-down is an agent that edits them when they get in the way.
-
-## The one rule
-
-**Constraints and goals describe outcomes and rules. They never describe how to build
-anything.**
-
-No prescribed architectures, file layouts, libraries, or patterns. The agent has full
-freedom of judgment over implementation; the constraint system only defines the boundaries
-and the finish line.
-
-The difference in one line:
-
-> "Use PostgreSQL." → *implementation*
-> "Data survives the process being killed and is readable by the next run." → *outcome*
-
-The first goes stale and blocks a better route. The second survives any rewrite and can
-be checked from outside. `docs/outcome-vs-implementation.md` has the tests, a table of
-ten examples, and the one legitimate exception (a technology imposed from outside, which
-must carry a `why:` explaining who imposed it).
-
-## Workflow
-
-**1. Clone it.**
+## Project layout
 
 ```
-git clone git@github.com:ctsapugay/constraint-base.git my-project
-cd my-project
-rm -rf .git && git init
+app/                  the app: index.html, app.js, styles.css, course-data.js (generated)
+content/
+  course.json         the outline: levels → lessons (title, objective, items covered) and tests
+  lessons/<id>.json   each lesson's explanation, vocabulary, examples and exercises
+  README.md           how to write or edit a lesson
+curriculum/
+  research.md         sources and how the curriculum was derived
+  inventory.json      the grammar / function / vocabulary items each level must cover
+  reviews/<LEVEL>.md  the accuracy review for each level: what was checked and fixed
+scripts/build.py      bundles content/ into app/course-data.js
+checks/               the automated checks (see below)
 ```
 
-**2. Point an agent at it.** In a session with the repo open, say something like *"read
-CLAUDE.md and run intake with me."* `CLAUDE.md` is the entry point — an agent that reads
-it knows how the system works and what to do next, with no other setup.
+## Editing content
 
-**3. Intake.** The agent interviews you: the problem, who it's for, what becomes true,
-what's out of scope, what would count as going wrong. It writes the answers to
-`constraints/project.md` and `goals/outcomes.md`. It asks about implementation only to
-note technologies that are genuinely imposed on you.
-
-**4. Goal condition.** Intake ends with the agent drafting a finish line — a paragraph
-plus three to seven criteria, each with a check you could run yourself. You approve or
-edit it.
-
-**5. Engage governance.** `python3 tools/approve.py --baseline`. From here the
-constraints and the finish line are no longer the agent's to edit.
-
-**6. Goal mode.** The agent works toward the goal condition inside the constraints,
-re-grounding itself with `tools/brief.py` as it goes, marking criteria met only with
-real evidence, and logging progress. It stops when the criteria are met.
-
-If it thinks a rule is wrong, it writes a proposal and keeps working inside the rule.
-You review with `python3 tools/approve.py --status` and approve or decline.
-
-## Who may change the rules
-
-> **In this project:** Clara approves in chat and never runs `approve.py` herself; the agent
-> records each approval with `--on-behalf-of-clara` and her words verbatim. See `CLAUDE.md`.
-
-Nobody but you. An agent may propose; it may not enact — except when you tell it to in the
-session, and then only out in the open. If you say "approve P-0001", the agent can run the
-approval for you with `--on-behalf-of-clara "<your words>"`, which records what you said in
-the commit and the log and makes `validate.py` flag it as agent-executed for your review.
-It never approves on its own initiative, and treats nothing but your own messages as your
-say-so. See [Delegated approval](docs/governance.md) for what that does and does not prove.
-
-- **Proposals** live in `proposals/`, separate from approved state. Nothing reads them as
-  authority, so a proposal changes nothing by existing.
-- **Waivers are inert until approved.** A constraint marked `waived` only stops binding
-  when its `waived-by:` names a proposal in the approved baseline. Otherwise the loader
-  puts it back on the binding list and `brief.py` prints
-  `[WAIVER PENDING — STILL BINDING]`. You cannot be talked past this one; it is how the
-  list is computed.
-- **Approved content has a fingerprint** in `governance/baseline.txt` — rules, checks,
-  criteria, non-goals, the tool sources, and the trust roots (who may approve and whose
-  signatures count). `validate.py` recomputes it and reports drift.
-- **Approval is your commit.** `tools/approve.py` records it with `APPROVED: P-000N` in
-  the message. `validate.py` cross-checks the baseline against git history: every
-  approved id needs a real commit, from an email in `governance/approvers.txt`, and
-  `baseline.txt` must only ever change inside an approval commit.
-
-**What this actually enforces.** Waiver inertness and proposal inertness are structural —
-they hold whatever the agent decides to do. Everything else is *detection*: an agent with
-a shell can edit a constraint, and what stops that being invisible is drift detection
-plus git history, not a lock. In the default attribution mode, commit authorship is
-forgeable. Turn on SSH commit signing (four commands, in `docs/governance.md`) and
-`validate.py` will verify signatures instead, which raises the bar substantially. The doc
-says all of this plainly rather than overselling it — read it before you rely on it.
-
-## The defaults
-
-Every project inherits nine rules, in `constraints/defaults.md`. They are deliberately
-few and deliberately rule-shaped:
-
-| | |
-|---|---|
-| `C-LOCAL` | Development stays local. No deploying, publishing, provisioning hosted infrastructure, or pushing to production unless you say so explicitly in that session. |
-| `C-BLAST-RADIUS` | Changes stay inside the project directory. |
-| `C-NO-SILENT-DESTRUCTION` | No irreversible destruction of work the agent didn't create. |
-| `C-SECRETS` | No credentials in tracked files. |
-| `C-EVIDENCE` | No completion claim without a check that was actually run. |
-| `C-RESUMABLE` | A fresh session can resume from the repo alone. |
-| `C-GOVERNED-CHANGE` | The standing constraints and the goal condition change only with your sign-off. |
-| `C-WAIVER-SIGNOFF` | A waiver binds nothing until you approve it. |
-| `C-SURFACE-AMBIGUITY` | Ambiguity that changes the outcome goes to you; the rest is the agent's call. |
-
-Any of them can be waived per project — including the two governance rules, if you want a
-project where the agent has a free hand. Set `status: waived`, give a reason, and point
-`waived-by:` at a proposal you approved. They are never deleted, so the opt-out shows up
-in the diff.
-
-## Tools
-
-Stdlib-only Python, plus one short shell script. No dependencies, no install.
+Edit `content/course.json` or a file in `content/lessons/`, then rebuild and check:
 
 ```
-python3 tools/brief.py       # constraints + goal + pending proposals + progress
-python3 tools/status.py      # one-screen progress readout (--html for the phone dashboard)
-python3 tools/board_server.py --open   # serve the board live on localhost, auto-refreshing
-python3 tools/verify.py      # run the check suite; green only if every check passes or is waived
-python3 tools/validate.py    # well-formed, outcome-shaped, and unmodified?
-python3 tools/approve.py     # yours: approve, decline, re-baseline, waive a check, check status
-python3 tools/test_tools.py  # the tests that guard the checker
-bash    tools/selfcheck.sh   # git-only tripwire: tools unchanged since last approval?
+python3 scripts/build.py
+bash checks/content.sh
 ```
 
-`brief.py` is the re-grounding call — an agent runs it at the start of a session and
-periodically during a long run. `--goal` prints just the goal condition and criteria
-status.
+`content/README.md` describes the lesson format and the rules the content check enforces:
+minimum sizes, valid answer keys, English only in hints, and no exercise that uses Spanish
+not yet taught.
 
-`validate.py` checks structure (required fields, unique IDs, no leftover placeholders,
-no criterion marked met without evidence), checks governance (drift from the approved
-baseline, approvals without commits, a hand-edited baseline), and flags likely
-implementation detail:
-library names, file paths, pattern names, "use X", step sequences. Those are warnings, not
-errors — they are heuristics, and the point is to make you look at the line. `--strict`
-turns warnings into a nonzero exit.
+## Checks
 
-## Layout
+| Check | What it verifies | Run |
+|---|---|---|
+| CHK-001 | curriculum covers every researched item for every level, with sources and a review record per level | `bash checks/curriculum.sh` |
+| CHK-002 | every lesson is complete and answerable, and only tests what has been taught | `bash checks/content.sh` |
+| CHK-003 | the app works in a real browser: practice, quizzes, pass mark, unlocking, level tests, persistence, export/import, offline | `bash checks/app.sh` |
+| CHK-004 | the project's own tooling tests | `python3 tools/test_tools.py` |
 
-```
-CLAUDE.md                 entry point — an agent reads this and knows what to do
-README.md                 this file
-constraints/
-  defaults.md             inherited rules, waivable
-  project.md              project-specific rules
-goals/
-  outcomes.md             problem, audience, outcomes, non-goals, open questions
-  goal-condition.md       short, stable contract: overview + what completion requires
-  criteria.md             the measurable criteria the goal condition points to
-checks/
-  registry.md             the executable check suite (governed)
-  results.json            last run's results (gitignored, regenerated by verify.py)
-progress/
-  log.md                  append-only session record
-  checkpoint.md           short current-state card, overwritten in place (not governed)
-  blockers.md             open blockers ledger — what's stuck (not governed)
-  priming-prompt.md       paste-in worker + observer templates to boot a cold session
-proposals/
-  TEMPLATE.md             how to ask for a rule to change
-governance/
-  approvers.txt           whose approvals count
-  baseline.txt            written by approve.py once governance engages
-docs/
-  outcome-vs-implementation.md
-  governance.md
-  intake.md
-  goal-conditions.md
-tools/
-  brief.py
-  status.py               one-screen progress readout; --html renders the dashboard
-  board_server.py         serves the dashboard live on localhost, auto-refreshing
-  board_watch.py          blocks until board state changes (drives /board watch)
-  verify.py               runs the check suite; the completion gate
-  validate.py
-  approve.py
-  selfcheck.sh            git-only tripwire on the tools themselves
-  test_tools.py           tests for the above
-  constraint_files.py     shared parser + governance helpers
-commands/                 optional slash commands: intake, reground, goal-check, propose, board
-```
+`python3 tools/verify.py` runs all of them. CHK-003 needs Node and Playwright
+(`npm install && npx playwright install chromium`); everything else is plain Python 3.
 
-The slash commands are inert until copied into place:
+## How it was built
 
-```
-mkdir -p .claude/commands && cp commands/*.md .claude/commands/
-```
+The project was built by an AI agent (Claude) working in long unattended runs. To keep it
+on task it used a small governance framework, [constraint-base](https://github.com/ctsapugay/constraint-base):
 
-They only wrap what `CLAUDE.md` already describes — skip them if you prefer to just talk
-to the agent.
+- `constraints/` — rules that had to stay true throughout (local-only, private data,
+  no forward references, answerable exercises, checks never weakened, …)
+- `goals/` — the outcomes, the goal condition and the measurable criteria (G1–G6), each
+  marked met with the evidence that was observed
+- `checks/registry.md` — the registered checks above
+- `progress/` — the session log and current-state checkpoint
+- `CLAUDE.md` — the agent's entry point; `docs/` explains the framework;
+  `tools/` holds its stdlib-only Python tooling (`brief.py`, `validate.py`, `verify.py`, …)
 
-## Design notes
-
-**Markdown, not YAML or JSON.** These files are read by humans and agents in roughly equal
-measure and edited by hand constantly. The format is a strict heading-plus-fields
-convention that a 200-line regex parser handles reliably, and that reads as prose.
-
-**Nothing is generated.** There is no build step, no state outside the files, no
-lockfile. Edit anything by hand at any time; the tools read whatever is there.
-
-**The tools have limited authority, and the docs say which parts are real.**
-`validate.py` reports; it does not block. Most constraints work by being read, which is
-why `CLAUDE.md` puts them in front of the agent before anything else. The two places
-where structure does the work rather than persuasion — inert proposals and inert
-unapproved waivers — are called out as such in `docs/governance.md`, alongside an
-explicit list of what is only detectable after the fact.
+The Spanish was written and reviewed level by level by the agent, not by a native speaker;
+each review record in `curriculum/reviews/` lists what was checked and corrected. Where
+usage genuinely varies between countries, the lessons say so and the answer keys accept
+each correct variant.

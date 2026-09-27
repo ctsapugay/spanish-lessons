@@ -307,13 +307,14 @@ are guidance, and guidance is not binding. Only `constraints/` binds.
   is `goals/outcomes.md`; the finish line is `goals/criteria.md` + `checks/registry.md`.
 - **Spanish variant:** Latin American (ustedes, no vosotros in exercises), with short notes
   where Spain differs. Instruction language is English.
-- **Git:** commit at every natural break with a clear message, and push to the private
-  GitHub repo `ctsapugay/spanish-lessons` (C-LOCAL standing exception). Never change the
-  repo's visibility or settings, and never put the app online.
+- **Git:** commit locally at every natural break with a clear message. The GitHub repo
+  `ctsapugay/spanish-lessons` is **public** (since 2026-09-26): never push without Clara's
+  explicit go-ahead for that push (C-LOCAL). Never change the repo's visibility or
+  settings, and never put the app online.
 - **Suggested order (your call, but it limits damage if a run stops early):** research and
   record the curriculum outline and its sources first → make the whole app work end to end
   with A1 fully written → then A2, B1, B2, C1, one level at a time, each finished (content
-  check green, accuracy review recorded, committed and pushed) before the next starts.
+  check green, accuracy review recorded, committed) before the next starts.
 - **Staying on track over a very long run:** the content is the bulk of the work. Keep
   `progress/checkpoint.md` precise about which level/lesson is next, so a fresh session
   never rewrites or duplicates finished lessons. Re-run `python3 tools/brief.py` at least
