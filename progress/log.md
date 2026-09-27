@@ -95,3 +95,6 @@ reader: state, not narrative.
 - APPROVED: BASELINE
 - Clara's stated authority, verbatim: "Ok I made the repo public so from now on do not push without my explicit go ahead."
 - Attribution mode makes this an audit record, not proof the authority was real. Enable signing (docs/governance.md) for approval the agent cannot forge.
+
+## 2026-09-26 — Push approved by Clara
+- Clara said "push it"; pushed c381533..f72a581 (C-LOCAL change recording + README rewrite) to ctsapugay/spanish-lessons.
