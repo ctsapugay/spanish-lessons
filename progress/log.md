@@ -146,3 +146,8 @@ reader: state, not narrative.
 - CHK-003 rewritten per language: all 29 Spanish scenarios kept ([es] prefix), all pass ("app ok: 30 checks passed" with --lang es, twice). Test-plumbing fixes (not loosening): wait for rows to be attached rather than visible (collapsed level sections), wait for the rendered view's language (same lesson ids in both languages).
 - CHK-008: "fresh clone ok". CHK-005/006/007 and French CHK-003 scenarios fail until French content exists — correct.
 - Assumption (reversible): the localStorage key stays "spanish-lessons.progress" so existing browser progress is kept.
+
+## 2026-10-03 — Fix: multiple-choice answers were always the first option
+- Found while preparing French content: all 961 authored Spanish multiple-choice items have the correct answer at index 0, and the app showed options in authored order — so the right answer was always the first button (generated vocab items were already shuffled at build time).
+- Fix (app/app.js renderQuestion): options shown in a fresh random order each time; data-option keeps the original index. No Spanish content changed (C-SPANISH-INTACT).
+- CHK-003 strengthened: "the right multiple-choice answer is not always in the same position" (authored items). Confirmed it FAILS on the previous app code (positions 0,0,0,0,0,0,0,0,0,0) and passes with the fix; "app ok: 31 checks passed" (--lang es). To mention to Clara.

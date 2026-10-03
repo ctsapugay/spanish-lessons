@@ -240,6 +240,29 @@ async function scenarioPracticeAndQuizBasics(lang) {
     await q.locator("[data-action=next]").click();
   }
   checkL("practice shows right/wrong feedback with the correct answer", sawWrongFeedback && sawRightFeedback, `wrong=${sawWrongFeedback} right=${sawRightFeedback}`);
+
+  // Multiple choice: the right answer is not always in the same place on screen.
+  const positions = [];
+  for (let round = 0; round < 10 && positions.length < 8; round++) {
+    await page.goto(BASE + "#/");
+    await page.goto(BASE + "#/practice/lesson/" + first.id);
+    for (let i = 0; i < 12 && (await page.locator(".question").count()); i++) {
+      const q = page.locator(".question");
+      if ((await q.getAttribute("data-type")) === "mc") {
+        const id = await q.getAttribute("data-item-id");
+        const item = await page.evaluate((iid) => window.COURSE.levels.flatMap((l) => l.lessons).flatMap((l) => l.items || []).find((x) => x.id === iid), id);
+        const shown = await q.locator("[data-option]").evaluateAll((bs) => bs.map((b) => Number(b.dataset.option)));
+        if (shown.length > 2 && !item.gen) positions.push(shown.indexOf(item.answer)); // authored items
+        await q.locator(`[data-option="${item.answer}"]`).click();
+      } else {
+        await q.locator("input").fill("x").catch(() => {});
+        await q.locator("[data-action=check]").click().catch(() => {});
+      }
+      await q.locator(".feedback").waitFor();
+      await q.locator("[data-action=next]").click();
+    }
+  }
+  checkL("the right multiple-choice answer is not always in the same position", positions.length >= 4 && new Set(positions).size >= 2, `positions seen: ${positions.join(",")}`);
   const after = await progress(page);
   checkL("practice leaves stored progress unchanged", before === after, `before=${before} after=${after}`);
 

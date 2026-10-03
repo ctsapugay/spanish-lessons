@@ -427,15 +427,16 @@
     if (item.type === "mc") {
       wrap.appendChild(h(promptHtml + '<div class="options"></div>'));
       const box = wrap.querySelector(".options");
-      item.options.forEach((opt, i) => {
+      // Shown in a fresh random order each time, so where the right answer sits gives nothing away.
+      shuffle(item.options.map((_, i) => i)).forEach((i) => {
         const b = document.createElement("button");
         b.type = "button";
         b.dataset.option = String(i);
-        b.textContent = opt;
+        b.textContent = item.options[i];
         b.onclick = () => {
           const ok = i === item.answer;
           b.classList.add(ok ? "chosen-right" : "chosen-wrong");
-          if (!ok) box.children[item.answer].classList.add("reveal");
+          if (!ok) box.querySelector(`[data-option="${item.answer}"]`).classList.add("reveal");
           finish(ok);
         };
         box.appendChild(b);
