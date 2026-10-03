@@ -1,0 +1,399 @@
+{
+ "sections": [
+  {
+   "heading": "Exclamations",
+   "body": "- *Quel / Quelle / Quels / Quelles* + noun: *Quel beau temps !* (What lovely weather!) *Quelle bonne idée !* *Quelle chance !* (How lucky!) *Quelle horreur !* (How awful!)\n- *Que* / *Comme* + sentence: *Que c'est beau !* / *Comme c'est beau !* (How beautiful it is!) *Comme tu as grandi !* (How you've grown!) *Qu'il fait chaud !*\n- Short reactions: *C'est génial !* (That's great!) *C'est super !* *Super !* *Bravo !* *Génial !* *Oh là là !* (Oh dear! / Wow!) *Mince !* (Darn!) *Zut !* (Oops! Bother!)"
+  },
+  {
+   "heading": "Congratulating and wishing",
+   "body": "- *Félicitations !* (Congratulations!) — for a success, a wedding, a birth: *Félicitations pour ton diplôme !*\n- *Bravo !* (Well done!)\n- *Bon anniversaire !* / *Joyeux anniversaire !* (Happy birthday!)\n- *Joyeux Noël !* (Merry Christmas!) *Bonne année !* (Happy New Year!) *Meilleurs vœux !* (Best wishes — for the new year)\n- *Bonne chance !* (Good luck!) *Bon courage !* (Hang in there! — before something hard)\n- *Bon voyage !* *Bonnes vacances !* *Bon week-end !* *Bonne soirée !*\n- *Bon appétit !* (Enjoy your meal!) *Santé !* / *À la vôtre !* (Cheers!)\n- *Bonne santé !* (Good health!) *Bon rétablissement !* (Get well soon!)"
+  },
+  {
+   "heading": "Paying compliments",
+   "body": "*Tu es très élégante aujourd'hui !* *Ta robe est magnifique !* *Ton appartement est très joli.* *Ce repas était délicieux !* (This meal was delicious!) *Tu parles très bien français !* — A modest answer: *C'est gentil !* (That's kind!) or *Merci, tu es gentil(le).*"
+  }
+ ],
+ "vocab": [
+  [
+   "quel / quelle",
+   "what (a)… !",
+   "kɛl / kɛl"
+  ],
+  [
+   "comme",
+   "how… !",
+   "kɔm"
+  ],
+  [
+   "la chance",
+   "luck",
+   "la ʃɑ̃s"
+  ],
+  [
+   "l'horreur",
+   "horror",
+   "lɔ.ʁœʁ",
+   "f"
+  ],
+  [
+   "félicitations",
+   "congratulations",
+   "fe.li.si.ta.sjɔ̃"
+  ],
+  [
+   "joyeux / joyeuse",
+   "happy, merry",
+   "ʒwa.jø / ʒwa.jøz"
+  ],
+  [
+   "l'anniversaire",
+   "the birthday",
+   "la.ni.vɛʁ.sɛʁ",
+   "m"
+  ],
+  [
+   "Noël",
+   "Christmas",
+   "nɔ.ɛl"
+  ],
+  [
+   "les vœux",
+   "wishes",
+   "le vø",
+   "m"
+  ],
+  [
+   "le courage",
+   "courage",
+   "lə ku.ʁaʒ"
+  ],
+  [
+   "la santé",
+   "health",
+   "la sɑ̃.te"
+  ],
+  [
+   "le rétablissement",
+   "recovery",
+   "lə ʁe.ta.blis.mɑ̃"
+  ],
+  [
+   "élégant / élégante",
+   "elegant, smart",
+   "e.le.ɡɑ̃ / e.le.ɡɑ̃t"
+  ],
+  [
+   "magnifique",
+   "magnificent, gorgeous",
+   "ma.ɲi.fik"
+  ],
+  [
+   "délicieux / délicieuse",
+   "delicious",
+   "de.li.sjø / de.li.sjøz"
+  ]
+ ],
+ "examples": [
+  [
+   "Quel beau temps !",
+   "What lovely weather!"
+  ],
+  [
+   "Quelle bonne idée !",
+   "What a good idea!"
+  ],
+  [
+   "Comme c'est beau !",
+   "How beautiful it is!"
+  ],
+  [
+   "Comme tu as grandi !",
+   "How you've grown!"
+  ],
+  [
+   "Félicitations pour ton diplôme !",
+   "Congratulations on your degree!"
+  ],
+  [
+   "Joyeux anniversaire, Léa !",
+   "Happy birthday, Léa!"
+  ],
+  [
+   "Joyeux Noël et bonne année !",
+   "Merry Christmas and Happy New Year!"
+  ],
+  [
+   "Bonne chance pour ton examen !",
+   "Good luck with your exam!"
+  ],
+  [
+   "Bon courage pour demain !",
+   "Hang in there for tomorrow!"
+  ],
+  [
+   "Bon appétit !",
+   "Enjoy your meal!"
+  ],
+  [
+   "Santé !",
+   "Cheers!"
+  ],
+  [
+   "Ta robe est magnifique ! — C'est gentil, merci.",
+   "Your dress is gorgeous! — That's kind, thank you."
+  ],
+  [
+   "Ce repas était délicieux !",
+   "This meal was delicious!"
+  ],
+  [
+   "Bon rétablissement !",
+   "Get well soon!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Your friend has passed an exam. You say…",
+   "options": [
+    "Félicitations !",
+    "Bon courage !",
+    "Bon appétit !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Your friend has an exam tomorrow. You say…",
+   "options": [
+    "Bonne chance !",
+    "Félicitations !",
+    "Santé !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Someone is starting a long, hard task. You say…",
+   "options": [
+    "Bon courage !",
+    "Bon anniversaire !",
+    "Bonne année !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Before eating with others, you say…",
+   "options": [
+    "Bon appétit !",
+    "Santé !",
+    "Bon voyage !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "When you raise your glass, you say…",
+   "options": [
+    "Santé !",
+    "Bon appétit !",
+    "Bonne chance !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "A colleague is ill. You write…",
+   "options": [
+    "Bon rétablissement !",
+    "Bonnes vacances !",
+    "Bravo !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ beau temps !",
+   "options": [
+    "Quel",
+    "Quelle",
+    "Que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ bonne idée !",
+   "options": [
+    "Quelle",
+    "Quel",
+    "Comme"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ c'est beau !",
+   "options": [
+    "Comme",
+    "Quel",
+    "Quelle"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Someone pays you a compliment. A modest answer is…",
+   "options": [
+    "C'est gentil !",
+    "De rien !",
+    "Bonne chance !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Zut !* means…",
+   "options": [
+    "Oops! / Bother!",
+    "Cheers!",
+    "Congratulations!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "___ beau temps !",
+   "answers": [
+    "Quel"
+   ],
+   "hint": "What lovely weather!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Quelle bonne ___ !",
+   "answers": [
+    "idée"
+   ],
+   "hint": "What a good idea!"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ tu as grandi !",
+   "answers": [
+    "Comme"
+   ],
+   "hint": "How you've grown!"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ pour ton diplôme !",
+   "answers": [
+    "Félicitations"
+   ],
+   "hint": "Congratulations on your degree!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Joyeux ___, Léa !",
+   "answers": [
+    "anniversaire"
+   ],
+   "hint": "Happy birthday, Léa!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Bonne ___ pour ton examen !",
+   "answers": [
+    "chance"
+   ],
+   "hint": "Good luck with your exam!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Bon ___ !",
+   "answers": [
+    "appétit"
+   ],
+   "hint": "Enjoy your meal!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce repas était ___ !",
+   "answers": [
+    "délicieux"
+   ],
+   "hint": "This meal was delicious!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ta robe est ___ !",
+   "answers": [
+    "magnifique"
+   ],
+   "hint": "Your dress is gorgeous!"
+  },
+  {
+   "type": "translate",
+   "prompt": "Happy birthday!",
+   "answers": [
+    "Bon anniversaire !",
+    "Joyeux anniversaire !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Congratulations!",
+   "answers": [
+    "Félicitations !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Good luck!",
+   "answers": [
+    "Bonne chance !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What a good idea!",
+   "answers": [
+    "Quelle bonne idée !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Merry Christmas!",
+   "answers": [
+    "Joyeux Noël !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Congratulations on your degree!\"",
+   "answer": "Félicitations pour ton diplôme !"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Merry Christmas and Happy New Year!\"",
+   "answer": "Joyeux Noël et bonne année !"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"How you've grown!\"",
+   "answer": "Comme tu as grandi !"
+  }
+ ]
+}

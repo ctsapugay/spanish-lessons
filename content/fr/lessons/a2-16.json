@@ -1,0 +1,410 @@
+{
+ "sections": [
+  {
+   "heading": "Tout, toute, tous, toutes",
+   "body": "*Tout* means \"all, every, the whole\" and agrees with the noun:\n\n- *tout le monde* — everybody (singular verb: *Tout le monde est là.*)\n- *tous les deux* / *toutes les deux* — both\n- *tout* alone = everything: *Tout va bien.* (Everything's fine.) *J'ai tout compris.*\n- *tous* as a pronoun (\"all of them\") is pronounced /tus/: *Ils sont tous venus.* But *tous les jours* is /tu le ʒuʁ/.",
+   "table": {
+    "head": [
+     "",
+     "Singular",
+     "Plural"
+    ],
+    "rows": [
+     [
+      "Masculine",
+      "*tout le temps* (all the time)",
+      "*tous les jours* (every day)"
+     ],
+     [
+      "Feminine",
+      "*toute la journée* (all day)",
+      "*toutes les semaines* (every week)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "How often?",
+   "body": "From most to least often: *toujours* (always) — *tout le temps* — *souvent* (often) — *d'habitude* / *en général* (usually) — *parfois* / *quelquefois* (sometimes) — *de temps en temps* (from time to time) — *rarement* (rarely) — *ne… jamais* (never).\n\nAlso: *une fois par semaine* (once a week), *deux fois par jour* (twice a day), *tous les matins*, *chaque jour* (each day).\n\nShort adverbs usually go **after the verb**: *Je vais souvent au cinéma.* In the passé composé, between *avoir / être* and the participle: *J'ai souvent pensé à toi.* Longer time expressions go at the start or end: *De temps en temps, on dîne au restaurant.*"
+  },
+  {
+   "heading": "How much?",
+   "body": "*trop* (too much) — *beaucoup* (a lot) — *assez* (enough; also \"quite\") — *un peu* (a little) — *peu* (not much, little) — *pas du tout* (not at all).\n\nWith a noun, add *de*: *assez d'argent* (enough money), *peu de temps* (little time), *trop de travail*. With an adjective: *Il est assez grand.* (He's quite tall.) Note the difference: *un peu de temps* (a little time — positive) vs *peu de temps* (not much time — negative)."
+  }
+ ],
+ "vocab": [
+  [
+   "tout / toute",
+   "all, the whole",
+   "tu / tut"
+  ],
+  [
+   "tous / toutes",
+   "all, every",
+   "tu / tut"
+  ],
+  [
+   "tout le temps",
+   "all the time",
+   "tu lə tɑ̃"
+  ],
+  [
+   "parfois / quelquefois",
+   "sometimes",
+   "paʁ.fwa / kɛl.kə.fwa"
+  ],
+  [
+   "de temps en temps",
+   "from time to time",
+   "də tɑ̃.z‿ɑ̃ tɑ̃"
+  ],
+  [
+   "rarement",
+   "rarely",
+   "ʁaʁ.mɑ̃"
+  ],
+  [
+   "en général",
+   "usually, generally",
+   "ɑ̃ ʒe.ne.ʁal"
+  ],
+  [
+   "chaque",
+   "each, every",
+   "ʃak"
+  ],
+  [
+   "la fois",
+   "the time (occasion)",
+   "la fwa"
+  ],
+  [
+   "assez",
+   "enough; quite",
+   "a.se"
+  ],
+  [
+   "peu",
+   "little, not much",
+   "pø"
+  ],
+  [
+   "pas du tout",
+   "not at all",
+   "pa dy tu"
+  ],
+  [
+   "l'argent",
+   "money",
+   "laʁ.ʒɑ̃",
+   "m"
+  ]
+ ],
+ "examples": [
+  [
+   "Il pleut tout le temps !",
+   "It rains all the time!"
+  ],
+  [
+   "J'ai travaillé toute la journée.",
+   "I worked all day."
+  ],
+  [
+   "Je fais du sport tous les jours.",
+   "I do sport every day."
+  ],
+  [
+   "Tout le monde est là ?",
+   "Is everybody here?"
+  ],
+  [
+   "Ils sont tous venus.",
+   "They all came."
+  ],
+  [
+   "Tout va bien, merci.",
+   "Everything's fine, thanks."
+  ],
+  [
+   "Je vais souvent au cinéma.",
+   "I often go to the cinema."
+  ],
+  [
+   "De temps en temps, on dîne au restaurant.",
+   "From time to time we eat out."
+  ],
+  [
+   "Je prends le train une fois par semaine.",
+   "I take the train once a week."
+  ],
+  [
+   "Il est rarement en retard.",
+   "He's rarely late."
+  ],
+  [
+   "Je n'ai pas assez d'argent.",
+   "I don't have enough money."
+  ],
+  [
+   "J'ai peu de temps aujourd'hui.",
+   "I don't have much time today."
+  ],
+  [
+   "Tu aimes le jazz ? — Pas du tout !",
+   "Do you like jazz? — Not at all!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Il pleut ___ le temps.",
+   "options": [
+    "tout",
+    "toute",
+    "tous"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai travaillé ___ la journée.",
+   "options": [
+    "toute",
+    "tout",
+    "toutes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je fais du sport ___ les jours.",
+   "options": [
+    "tous",
+    "tout",
+    "toutes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ les semaines, je vais au marché.",
+   "options": [
+    "Toutes",
+    "Tous",
+    "Tout"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Tout le monde ___ là.",
+   "options": [
+    "est",
+    "sont",
+    "êtes"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*tout le monde* takes a singular verb."
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is the most frequent?",
+   "options": [
+    "souvent",
+    "parfois",
+    "rarement"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which means \"from time to time\"?",
+   "options": [
+    "de temps en temps",
+    "tout le temps",
+    "une fois"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Where does *souvent* go in *J'ai pensé à toi*?",
+   "options": [
+    "J'ai souvent pensé à toi.",
+    "Souvent j'ai pensé à toi only",
+    "J'ai pensé souvent à toi only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'ai peu de temps* means…",
+   "options": [
+    "I don't have much time",
+    "I have a little time",
+    "I have enough time"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une fois par semaine* means…",
+   "options": [
+    "once a week",
+    "one week",
+    "every week"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ils sont tous venus* — how is *tous* pronounced here?",
+   "options": [
+    "/tus/",
+    "/tu/",
+    "/tut/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Pas du tout !* means…",
+   "options": [
+    "Not at all!",
+    "Not everything!",
+    "All of it!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il pleut ___ le temps !",
+   "answers": [
+    "tout"
+   ],
+   "hint": "It rains all the time!"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai travaillé ___ la journée.",
+   "answers": [
+    "toute"
+   ],
+   "hint": "I worked all day."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ le monde est là ?",
+   "answers": [
+    "Tout"
+   ],
+   "hint": "Is everybody here?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils sont ___ venus.",
+   "answers": [
+    "tous"
+   ],
+   "hint": "They all came."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vais ___ au cinéma.",
+   "answers": [
+    "souvent"
+   ],
+   "hint": "I often go to the cinema."
+  },
+  {
+   "type": "fill",
+   "prompt": "De ___ en temps, on dîne au restaurant.",
+   "answers": [
+    "temps"
+   ],
+   "hint": "From time to time we eat out."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je prends le train une ___ par semaine.",
+   "answers": [
+    "fois"
+   ],
+   "hint": "I take the train once a week."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'ai pas ___ d'argent.",
+   "answers": [
+    "assez"
+   ],
+   "hint": "I don't have enough money."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est ___ en retard.",
+   "answers": [
+    "rarement"
+   ],
+   "hint": "He's rarely late."
+  },
+  {
+   "type": "translate",
+   "prompt": "Everybody is here.",
+   "answers": [
+    "Tout le monde est là.",
+    "Tout le monde est ici."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I go to the cinema often.",
+   "answers": [
+    "Je vais souvent au cinéma."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Everything is fine.",
+   "answers": [
+    "Tout va bien."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Not at all!",
+   "answers": [
+    "Pas du tout !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I worked all day.",
+   "answers": [
+    "J'ai travaillé toute la journée."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"From time to time we eat out.\"",
+   "answer": "De temps en temps, on dîne au restaurant."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I take the train once a week.\"",
+   "answer": "Je prends le train une fois par semaine."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I don't have enough money.\"",
+   "answer": "Je n'ai pas assez d'argent."
+  }
+ ]
+}

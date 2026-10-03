@@ -1,0 +1,390 @@
+{
+ "sections": [
+  {
+   "heading": "Giving your opinion",
+   "body": "- *À mon avis*, … — In my opinion, …\n- *Je pense que* / *Je crois que* / *Je trouve que* + sentence — I think that…: *Je trouve que ce film est trop long.*\n- *Pour moi*, … — For me, …\n- *Selon moi*, … — In my view, …\n- Asking: *Qu'est-ce que tu en penses ?* (What do you think about it?) *Tu trouves ?* (Do you think so?) *À ton avis ?*"
+  },
+  {
+   "heading": "Agreeing and disagreeing",
+   "body": "- Agreeing: *Je suis d'accord (avec toi).* — *Tu as raison.* (You're right.) — *Exactement !* — *C'est vrai.* (That's true.) — *Moi aussi.* / *Moi non plus.*\n- Partly: *Oui, peut-être.* — *Ça dépend.* (It depends.) — *Oui, mais…*\n- Disagreeing: *Je ne suis pas d'accord.* — *Tu as tort.* (You're wrong — blunt.) — *Ce n'est pas vrai !* — *Pas du tout !* — politely: *Je ne pense pas.* / *Je ne crois pas.* / *Je ne suis pas sûr(e).*\n\nNote: *avoir raison* / *avoir tort* use **avoir**: *Tu as raison*, not ~~*Tu es raison*~~."
+  },
+  {
+   "heading": "Saying what you liked",
+   "body": "- *Ça m'a plu.* (I liked it.) — *Ça ne m'a pas plu.* — *J'ai adoré !* — *J'ai bien aimé.* — *Je n'ai pas aimé du tout.*\n- *C'était super / génial / intéressant / pas mal* (not bad) */ ennuyeux* (boring) */ nul* (rubbish — casual).\n- Interest and indifference: *Ça m'intéresse.* (I'm interested.) — *Ça ne m'intéresse pas.* — *Ça m'est égal.* (I don't mind. / I don't care.) — *Bof…* (Meh…)\n- Giving a reason: *parce que…*: *J'ai bien aimé ce livre parce que l'histoire est originale.*"
+  }
+ ],
+ "vocab": [
+  [
+   "à mon avis",
+   "in my opinion",
+   "a mɔ̃.n‿a.vi"
+  ],
+  [
+   "penser",
+   "to think",
+   "pɑ̃.se"
+  ],
+  [
+   "croire",
+   "to believe, to think",
+   "kʁwaʁ"
+  ],
+  [
+   "trouver que",
+   "to think, to find that",
+   "tʁu.ve kə"
+  ],
+  [
+   "selon",
+   "according to",
+   "sə.lɔ̃"
+  ],
+  [
+   "avoir raison",
+   "to be right",
+   "a.vwaʁ ʁɛ.zɔ̃"
+  ],
+  [
+   "avoir tort",
+   "to be wrong",
+   "a.vwaʁ tɔʁ"
+  ],
+  [
+   "vrai / vraie",
+   "true",
+   "vʁɛ / vʁɛ"
+  ],
+  [
+   "dépendre",
+   "to depend",
+   "de.pɑ̃dʁ"
+  ],
+  [
+   "sûr / sûre",
+   "sure",
+   "syʁ / syʁ"
+  ],
+  [
+   "ennuyeux / ennuyeuse",
+   "boring",
+   "ɑ̃.nɥi.jø / ɑ̃.nɥi.jøz"
+  ],
+  [
+   "nul / nulle",
+   "rubbish (casual)",
+   "nyl / nyl"
+  ],
+  [
+   "intéresser",
+   "to interest",
+   "ɛ̃.te.ʁe.se"
+  ],
+  [
+   "égal / égale",
+   "equal; all the same",
+   "e.ɡal / e.ɡal"
+  ],
+  [
+   "original / originale",
+   "original",
+   "ɔ.ʁi.ʒi.nal / ɔ.ʁi.ʒi.nal"
+  ]
+ ],
+ "examples": [
+  [
+   "À mon avis, ce film est trop long.",
+   "In my opinion, this film is too long."
+  ],
+  [
+   "Je trouve que tu as raison.",
+   "I think you're right."
+  ],
+  [
+   "Qu'est-ce que tu en penses ?",
+   "What do you think about it?"
+  ],
+  [
+   "Je suis d'accord avec toi.",
+   "I agree with you."
+  ],
+  [
+   "Je ne suis pas d'accord.",
+   "I don't agree."
+  ],
+  [
+   "Tu as tort, ce n'est pas vrai !",
+   "You're wrong, that's not true!"
+  ],
+  [
+   "Ça dépend.",
+   "It depends."
+  ],
+  [
+   "Je ne crois pas.",
+   "I don't think so."
+  ],
+  [
+   "Le film t'a plu ? — Oui, j'ai adoré !",
+   "Did you like the film? — Yes, I loved it!"
+  ],
+  [
+   "C'était pas mal, mais un peu ennuyeux.",
+   "It wasn't bad, but a bit boring."
+  ],
+  [
+   "Ça ne m'intéresse pas du tout.",
+   "It doesn't interest me at all."
+  ],
+  [
+   "On va au cinéma ou au théâtre ? — Ça m'est égal.",
+   "Shall we go to the cinema or the theatre? — I don't mind."
+  ],
+  [
+   "J'ai bien aimé ce livre parce que l'histoire est originale.",
+   "I liked this book because the story is original."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"You're right\"",
+   "options": [
+    "Tu as raison.",
+    "Tu es raison.",
+    "Tu as droit."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I agree with you\"",
+   "options": [
+    "Je suis d'accord avec toi.",
+    "J'ai d'accord avec toi.",
+    "Je suis accord avec toi."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The most polite way to disagree is…",
+   "options": [
+    "Je ne pense pas.",
+    "Tu as tort !",
+    "C'est nul !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"What do you think about it?\"",
+   "options": [
+    "Qu'est-ce que tu en penses ?",
+    "Qu'est-ce que tu penses ?",
+    "Tu penses quoi de ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça m'est égal* means…",
+   "options": [
+    "I don't mind",
+    "It's the same",
+    "I'm equal"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça dépend* means…",
+   "options": [
+    "It depends",
+    "It's hanging",
+    "It's expensive"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'était pas mal* means…",
+   "options": [
+    "It wasn't bad",
+    "It was bad",
+    "It was terrible"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*ennuyeux* means…",
+   "options": [
+    "boring",
+    "annoying",
+    "angry",
+    "tired"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I liked it\" (the film)",
+   "options": [
+    "Ça m'a plu.",
+    "Je l'ai plu.",
+    "Ça me plaisait une fois."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je trouve ___ tu as raison.",
+   "options": [
+    "que",
+    "de",
+    "à"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ne ___ pas.",
+   "options": [
+    "crois",
+    "croire",
+    "crus"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "À mon ___, ce film est trop long.",
+   "answers": [
+    "avis"
+   ],
+   "hint": "In my opinion, this film is too long."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je trouve que tu as ___.",
+   "answers": [
+    "raison"
+   ],
+   "hint": "I think you're right."
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'est-ce que tu en ___ ?",
+   "answers": [
+    "penses"
+   ],
+   "hint": "What do you think about it?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne suis pas d'___.",
+   "answers": [
+    "accord"
+   ],
+   "hint": "I don't agree."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu as ___, ce n'est pas vrai !",
+   "answers": [
+    "tort"
+   ],
+   "hint": "You're wrong, that's not true!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça ___.",
+   "answers": [
+    "dépend"
+   ],
+   "hint": "It depends."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'était pas mal, mais un peu ___.",
+   "answers": [
+    "ennuyeux"
+   ],
+   "hint": "It wasn't bad, but a bit boring."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça ne m'___ pas du tout.",
+   "answers": [
+    "intéresse"
+   ],
+   "hint": "It doesn't interest me at all."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça m'est ___.",
+   "answers": [
+    "égal"
+   ],
+   "hint": "I don't mind."
+  },
+  {
+   "type": "translate",
+   "prompt": "I agree.",
+   "answers": [
+    "Je suis d'accord."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "You're right. (to a friend)",
+   "answers": [
+    "Tu as raison."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "In my opinion, it's too long.",
+   "answers": [
+    "À mon avis, c'est trop long."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't think so.",
+   "answers": [
+    "Je ne pense pas.",
+    "Je ne crois pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I loved it!",
+   "answers": [
+    "J'ai adoré !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I liked this book because the story is original.\"",
+   "answer": "J'ai bien aimé ce livre parce que l'histoire est originale."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I don't agree with you.\"",
+   "answer": "Je ne suis pas d'accord avec toi."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It wasn't bad, but a bit boring.\"",
+   "answer": "C'était pas mal, mais un peu ennuyeux."
+  }
+ ]
+}
