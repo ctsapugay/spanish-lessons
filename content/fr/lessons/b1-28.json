@@ -1,0 +1,371 @@
+{
+ "sections": [
+  {
+   "heading": "Structure: say what you'll say",
+   "body": "A clear presentation (*un exposé*, *une présentation*) announces its plan, follows it, and concludes.\n\n**Introducing the topic**: *Je vais vous parler de…* — *Aujourd'hui, je voudrais vous présenter…* — *Le sujet de mon exposé, c'est…*\n\n**Announcing the plan**: *Dans un premier temps, je parlerai de… Dans un deuxième temps, … Enfin, …* — *Mon exposé comporte trois parties.* (My talk has three parts.)\n\n**Moving through it** — connectors:\n- order: *d'abord / tout d'abord*, *premièrement*, *ensuite*, *puis*, *après*, *deuxièmement*, *enfin*\n- adding: *également* (also), *aussi*, *de plus*, *en outre*\n- examples: *par exemple*, *comme*, *notamment* (in particular)\n- referring back: *comme je l'ai dit*, *le premier point*, *le dernier*, *le point précédent*, *le point suivant*\n- moving on: *Passons maintenant à…* (Let's move on to…)\n\n**Concluding**: *Pour terminer*, *Pour conclure*, *En conclusion*, *Finalement*, *À la fin*: *Pour conclure, je dirais que…* — *Merci de votre attention.* — *Avez-vous des questions ?*"
+  },
+  {
+   "heading": "In meetings",
+   "body": "At work, a presentation often opens a meeting (*une réunion*): *L'ordre du jour* (the agenda) *comporte trois points.* — *Je laisse la parole à…* (I'll hand over to…) — *Je vais être bref / brève.* — *Si vous avez des questions, n'hésitez pas à m'interrompre.*"
+  },
+  {
+   "heading": "Pronunciation: optional liaison in careful speech",
+   "body": "Besides required and forbidden liaisons (A2), many are **optional**. In a formal presentation, speakers make **more** of them, which sounds more careful: *Nous avons un objectif* (nous‿avons‿un‿objectif) — *C'est un projet important* (c'est‿un) — *des projets intéressants* (projets‿intéressants) — *Je suis heureux de vous présenter…* (suis‿heureux) — *Ils sont arrivés* (sont‿arrivés). In casual conversation, people make fewer: *C'est un projet*, said without linking (c'est | un projet). Both are correct; choose by the situation."
+  }
+ ],
+ "vocab": [
+  [
+   "l'exposé",
+   "the talk, the presentation",
+   "lɛk.spo.ze",
+   "m"
+  ],
+  [
+   "présenter",
+   "to present",
+   "pʁe.zɑ̃.te"
+  ],
+  [
+   "le sujet",
+   "the topic, the subject",
+   "lə sy.ʒɛ"
+  ],
+  [
+   "le plan",
+   "the plan, the outline",
+   "lə plɑ̃"
+  ],
+  [
+   "dans un premier temps",
+   "first of all",
+   "dɑ̃.z‿œ̃ pʁə.mje tɑ̃"
+  ],
+  [
+   "la partie",
+   "the part",
+   "la paʁ.ti"
+  ],
+  [
+   "également",
+   "also, equally",
+   "e.ɡal.mɑ̃"
+  ],
+  [
+   "notamment",
+   "in particular, notably",
+   "nɔ.ta.mɑ̃"
+  ],
+  [
+   "précédent / précédente",
+   "previous",
+   "pʁe.se.dɑ̃ / pʁe.se.dɑ̃t"
+  ],
+  [
+   "pour conclure",
+   "to conclude",
+   "puʁ kɔ̃.klyʁ"
+  ],
+  [
+   "l'attention",
+   "attention",
+   "la.tɑ̃.sjɔ̃",
+   "f"
+  ],
+  [
+   "l'ordre du jour",
+   "the agenda",
+   "lɔʁdʁ dy ʒuʁ",
+   "m"
+  ],
+  [
+   "la parole",
+   "the floor, speech",
+   "la pa.ʁɔl"
+  ],
+  [
+   "bref / brève",
+   "brief",
+   "bʁɛf / bʁɛv"
+  ]
+ ],
+ "examples": [
+  [
+   "Aujourd'hui, je voudrais vous présenter notre nouveau projet.",
+   "Today I'd like to present our new project."
+  ],
+  [
+   "Le sujet de mon exposé, c'est le télétravail.",
+   "The topic of my talk is working from home."
+  ],
+  [
+   "Mon exposé comporte trois parties.",
+   "My talk has three parts."
+  ],
+  [
+   "Dans un premier temps, je parlerai des avantages.",
+   "First, I'll talk about the advantages."
+  ],
+  [
+   "Passons maintenant au deuxième point.",
+   "Let's now move on to the second point."
+  ],
+  [
+   "Ce projet concerne également nos clients en Belgique.",
+   "This project also concerns our customers in Belgium."
+  ],
+  [
+   "Plusieurs pays, notamment l'Italie, ont adopté cette loi.",
+   "Several countries, in particular Italy, have adopted this law."
+  ],
+  [
+   "Comme je l'ai dit dans la partie précédente, …",
+   "As I said in the previous part, …"
+  ],
+  [
+   "Pour conclure, je dirais que les résultats sont positifs.",
+   "To conclude, I'd say the results are positive."
+  ],
+  [
+   "Merci de votre attention. Avez-vous des questions ?",
+   "Thank you for your attention. Do you have any questions?"
+  ],
+  [
+   "L'ordre du jour comporte trois points.",
+   "The agenda has three items."
+  ],
+  [
+   "Je laisse la parole à ma collègue.",
+   "I'll hand over to my colleague."
+  ],
+  [
+   "Nous avons un objectif très clair.",
+   "We have a very clear objective."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "To introduce your topic you say…",
+   "options": [
+    "Je vais vous parler de…",
+    "Pour conclure…",
+    "Passons à…"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "To move on to the next point you say…",
+   "options": [
+    "Passons maintenant à…",
+    "Dans l'attente de…",
+    "Merci de votre attention."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "To end a presentation you say…",
+   "options": [
+    "Pour conclure, …",
+    "Dans un premier temps, …",
+    "Tout d'abord, …"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*notamment* means…",
+   "options": [
+    "in particular",
+    "notably famous",
+    "not at all"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*également* means…",
+   "options": [
+    "also, as well",
+    "equally sized",
+    "especially"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'ordre du jour* is…",
+   "options": [
+    "the agenda",
+    "the day's order of food",
+    "today's date"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je laisse la parole à…* means…",
+   "options": [
+    "I'll hand over to…",
+    "I leave the speech to… only in writing",
+    "I let my word to…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In a formal presentation, speakers make…",
+   "options": [
+    "more optional liaisons",
+    "no liaisons at all",
+    "fewer liaisons than in conversation"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Mon exposé comporte trois parties* means…",
+   "options": [
+    "My talk has three parts",
+    "My talk behaves in three parts",
+    "My talk carries three parties"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Dans un premier temps* means…",
+   "options": [
+    "First of all",
+    "In the first weather",
+    "At the first time ever"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Aujourd'hui, je voudrais vous ___ notre nouveau projet.",
+   "answers": [
+    "présenter"
+   ],
+   "hint": "Today I'd like to present our new project."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ de mon exposé, c'est le télétravail.",
+   "answers": [
+    "sujet"
+   ],
+   "hint": "The topic of my talk is…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon exposé comporte trois ___.",
+   "answers": [
+    "parties"
+   ],
+   "hint": "My talk has three parts."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ maintenant au deuxième point.",
+   "answers": [
+    "Passons"
+   ],
+   "hint": "Let's now move on to the second point."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce projet concerne ___ nos clients en Belgique.",
+   "answers": [
+    "également",
+    "aussi"
+   ],
+   "hint": "This project also concerns…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Plusieurs pays, ___ l'Italie, ont adopté cette loi.",
+   "answers": [
+    "notamment"
+   ],
+   "hint": "in particular Italy…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Pour ___, je dirais que les résultats sont positifs.",
+   "answers": [
+    "conclure"
+   ],
+   "hint": "To conclude…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Merci de votre ___.",
+   "answers": [
+    "attention"
+   ],
+   "hint": "Thank you for your attention."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je laisse la ___ à ma collègue.",
+   "answers": [
+    "parole"
+   ],
+   "hint": "I'll hand over to my colleague."
+  },
+  {
+   "type": "translate",
+   "prompt": "Thank you for your attention.",
+   "answers": [
+    "Merci de votre attention.",
+    "Merci pour votre attention."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "To conclude, …",
+   "answers": [
+    "Pour conclure, …",
+    "En conclusion, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Let's move on to the second point.",
+   "answers": [
+    "Passons maintenant au deuxième point.",
+    "Passons au deuxième point."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Do you have any questions?",
+   "answers": [
+    "Avez-vous des questions ?",
+    "Vous avez des questions ?",
+    "Est-ce que vous avez des questions ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"First, I'll talk about the advantages.\"",
+   "answer": "Dans un premier temps, je parlerai des avantages."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"As I said in the previous part, …\"",
+   "answer": "Comme je l'ai dit dans la partie précédente, …"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The agenda has three items.\"",
+   "answer": "L'ordre du jour comporte trois points."
+  }
+ ]
+}

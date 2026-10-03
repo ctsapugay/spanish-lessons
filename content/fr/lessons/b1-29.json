@@ -1,0 +1,365 @@
+{
+ "sections": [
+  {
+   "heading": "Starting and ending a discussion",
+   "body": "- Starting: *On pourrait commencer par…* — *Je propose qu'on parle d'abord de…* — *Le sujet d'aujourd'hui, c'est…*\n- Introducing a new topic: *À propos de…* (Speaking of…) — *Au fait, …* (By the way…) — *Ça me fait penser à…* (That reminds me of…)\n- Ending: *Bon, je crois qu'on a fait le tour de la question.* (I think we've covered everything.) — *Pour résumer, …* — *On en reparlera.* (We'll talk about it again.)"
+  },
+  {
+   "heading": "Taking and keeping the floor",
+   "body": "- Asking to speak: *Je peux dire quelque chose ?* — *Si je peux me permettre, …* (If I may…) — *Excusez-moi, j'aimerais ajouter que…*\n- Holding on: *Laissez-moi finir, s'il vous plaît.* (Let me finish.) — *J'y arrive.* (I'm coming to that.)\n- Giving the floor: *Qu'en pensez-vous ?* — *Et toi, tu en penses quoi ?* — *Vas-y, je t'écoute.*"
+  },
+  {
+   "heading": "Checking understanding",
+   "body": "- Checking you understood: *Si je comprends bien, tu veux dire que… ?* — *Tu veux dire que… ?* — *Vous voulez dire quoi exactement ?*\n- Checking they understood: *Vous me suivez ?* (Are you with me?) — *C'est clair ?* — *Je ne sais pas si je suis clair(e)…*\n- Repeating to be sure: *Donc, si je résume, vous proposez de… ?*"
+  },
+  {
+   "heading": "Rephrasing: to explain or generalise",
+   "body": "- *C'est-à-dire* — that is to say, I mean: *Je suis flexible, c'est-à-dire que je peux travailler le soir.*\n- *Autrement dit* — in other words: *Le projet est reporté ; autrement dit, on ne le fera pas cette année.*\n- *En d'autres termes* — in other words (more formal)\n- *Je veux dire…* / *Enfin, je veux dire…* — I mean… (correcting yourself)\n- Generalising: *En général*, *D'une manière générale* (generally speaking), *Dans l'ensemble* (on the whole)"
+  }
+ ],
+ "vocab": [
+  [
+   "à propos de",
+   "speaking of, about",
+   "a pʁɔ.po də"
+  ],
+  [
+   "au fait",
+   "by the way",
+   "o fɛt"
+  ],
+  [
+   "faire le tour de la question",
+   "to cover everything",
+   "fɛʁ lə tuʁ də la kɛs.tjɔ̃"
+  ],
+  [
+   "résumer",
+   "to sum up",
+   "ʁe.zy.me"
+  ],
+  [
+   "se permettre",
+   "to allow oneself, to venture",
+   "sə pɛʁ.mɛtʁ"
+  ],
+  [
+   "suivre",
+   "to follow",
+   "sɥivʁ"
+  ],
+  [
+   "c'est-à-dire",
+   "that is to say, I mean",
+   "sɛ.t‿a.diʁ"
+  ],
+  [
+   "autrement dit",
+   "in other words",
+   "o.tʁə.mɑ̃ di"
+  ],
+  [
+   "en d'autres termes",
+   "in other words (formal)",
+   "ɑ̃ do.tʁə tɛʁm"
+  ],
+  [
+   "dans l'ensemble",
+   "on the whole",
+   "dɑ̃ lɑ̃.sɑ̃bl"
+  ],
+  [
+   "reparler",
+   "to talk again",
+   "ʁə.paʁ.le"
+  ],
+  [
+   "flexible",
+   "flexible",
+   "flɛk.sibl"
+  ]
+ ],
+ "examples": [
+  [
+   "On pourrait commencer par le budget.",
+   "We could start with the budget."
+  ],
+  [
+   "À propos de vacances, tu pars où cet été ?",
+   "Speaking of holidays, where are you going this summer?"
+  ],
+  [
+   "Au fait, tu as reçu mon message ?",
+   "By the way, did you get my message?"
+  ],
+  [
+   "Ça me fait penser à une histoire.",
+   "That reminds me of a story."
+  ],
+  [
+   "Si je peux me permettre, j'aimerais ajouter quelque chose.",
+   "If I may, I'd like to add something."
+  ],
+  [
+   "Laissez-moi finir, s'il vous plaît.",
+   "Let me finish, please."
+  ],
+  [
+   "Si je comprends bien, tu veux dire que le projet est annulé ?",
+   "If I understand correctly, you mean the project is cancelled?"
+  ],
+  [
+   "Vous me suivez ?",
+   "Are you with me?"
+  ],
+  [
+   "Je suis flexible, c'est-à-dire que je peux travailler le soir.",
+   "I'm flexible, that is, I can work in the evenings."
+  ],
+  [
+   "Le projet est reporté ; autrement dit, on ne le fera pas cette année.",
+   "The project is postponed; in other words, we won't do it this year."
+  ],
+  [
+   "Dans l'ensemble, la réunion s'est bien passée.",
+   "On the whole, the meeting went well."
+  ],
+  [
+   "Bon, je crois qu'on a fait le tour de la question.",
+   "Right, I think we've covered everything."
+  ],
+  [
+   "On en reparlera demain.",
+   "We'll talk about it again tomorrow."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "To ask for the floor politely you say…",
+   "options": [
+    "Si je peux me permettre, …",
+    "Laissez-moi finir.",
+    "Au fait, …"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "To check you've understood you say…",
+   "options": [
+    "Si je comprends bien, …",
+    "Pour conclure, …",
+    "Vous me suivez ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "To check others are following you say…",
+   "options": [
+    "Vous me suivez ?",
+    "Si je comprends bien ?",
+    "Au fait ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Au fait* means…",
+   "options": [
+    "By the way",
+    "In fact",
+    "At the top"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*autrement dit* means…",
+   "options": [
+    "in other words",
+    "said otherwise later",
+    "differently spoken"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*c'est-à-dire* means…",
+   "options": [
+    "that is to say",
+    "it's to say something",
+    "it means to speak"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*On a fait le tour de la question* means…",
+   "options": [
+    "We've covered everything",
+    "We went round the question",
+    "We asked the question again"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Dans l'ensemble* means…",
+   "options": [
+    "On the whole",
+    "Together",
+    "In the group"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça me fait penser à…* means…",
+   "options": [
+    "That reminds me of…",
+    "That makes me think hard",
+    "It forces me to…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*On en reparlera* means…",
+   "options": [
+    "We'll talk about it again",
+    "We talked about it",
+    "Let's not talk about it"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "On pourrait ___ par le budget.",
+   "answers": [
+    "commencer"
+   ],
+   "hint": "We could start with the budget."
+  },
+  {
+   "type": "fill",
+   "prompt": "À ___ de vacances, tu pars où cet été ?",
+   "answers": [
+    "propos"
+   ],
+   "hint": "Speaking of holidays…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Au ___, tu as reçu mon message ?",
+   "answers": [
+    "fait"
+   ],
+   "hint": "By the way, did you get my message?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Si je peux me ___, j'aimerais ajouter quelque chose.",
+   "answers": [
+    "permettre"
+   ],
+   "hint": "If I may…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Laissez-moi ___, s'il vous plaît.",
+   "answers": [
+    "finir"
+   ],
+   "hint": "Let me finish, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "Si je ___ bien, tu veux dire que le projet est annulé ?",
+   "answers": [
+    "comprends"
+   ],
+   "hint": "If I understand correctly…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous me ___ ?",
+   "answers": [
+    "suivez"
+   ],
+   "hint": "Are you with me?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis flexible, c'est-à-___ que je peux travailler le soir.",
+   "answers": [
+    "dire"
+   ],
+   "hint": "I'm flexible, that is…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le projet est reporté ; ___ dit, on ne le fera pas cette année.",
+   "answers": [
+    "autrement"
+   ],
+   "hint": "in other words…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans l'___, la réunion s'est bien passée.",
+   "answers": [
+    "ensemble"
+   ],
+   "hint": "On the whole, the meeting went well."
+  },
+  {
+   "type": "translate",
+   "prompt": "By the way, …",
+   "answers": [
+    "Au fait, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "In other words, …",
+   "answers": [
+    "Autrement dit, …",
+    "En d'autres termes, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Let me finish! (polite)",
+   "answers": [
+    "Laissez-moi finir !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Are you with me? (polite)",
+   "answers": [
+    "Vous me suivez ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"If I understand correctly, you mean the project is cancelled?\"",
+   "answer": "Si je comprends bien, tu veux dire que le projet est annulé ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Right, I think we've covered everything.\"",
+   "answer": "Bon, je crois qu'on a fait le tour de la question."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"That reminds me of a story.\"",
+   "answer": "Ça me fait penser à une histoire."
+  }
+ ]
+}

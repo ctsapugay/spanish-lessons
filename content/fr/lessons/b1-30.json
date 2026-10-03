@@ -1,0 +1,381 @@
+{
+ "sections": [
+  {
+   "heading": "Culture vocabulary",
+   "body": "- Cinema: *le film*, *le réalisateur / la réalisatrice* (director), *l'acteur / l'actrice*, *le scénario* (script), *la bande-annonce* (trailer), *une comédie*, *un drame*, *un film d'action*, *un dessin animé* (cartoon), *un documentaire*, *en version originale* (VO — in the original language, subtitled).\n- Books: *le roman* (novel), *l'écrivain(e)* / *l'auteur(e)*, *le personnage* (character), *l'intrigue* (plot), *la bande dessinée* (BD — comic book, a big tradition in France and Belgium).\n- Shows and art: *le spectacle*, *la pièce de théâtre* (play), *le concert*, *l'exposition* (exhibition), *le tableau* (painting), *le / la peintre*, *la musique classique*, *le chanteur / la chanteuse*."
+  },
+  {
+   "heading": "Describing a work",
+   "body": "- *Ça raconte l'histoire de…* (It tells the story of…) — *Ça se passe à Paris dans les années 60.* (It's set in…) — *Le personnage principal est…*\n- *C'est une adaptation du roman de…* — *C'est inspiré d'une histoire vraie.*"
+  },
+  {
+   "heading": "Giving your opinion",
+   "body": "- Positive: *C'est un chef-d'œuvre !* (a masterpiece) — *J'ai été très ému(e).* (moved) — *Les acteurs jouent très bien.* — *La fin est surprenante.* — *Je le recommande vivement.* (I highly recommend it.) — *Ça vaut le coup.* (It's worth it.)\n- Negative: *Je me suis ennuyé(e).* (I was bored.) — *C'est trop long.* — *L'histoire n'est pas crédible.* — *Je suis déçu(e).* — *Ça ne vaut pas le coup.*\n- Mixed: *C'est pas mal, mais…* — *Les images sont belles, mais le scénario est faible.* (weak)"
+  },
+  {
+   "heading": "Recommending",
+   "body": "*Je te conseille d'aller le voir.* — *Il faut absolument que tu lises ce livre !* (subjunctive!) — *Si tu aimes les films d'action, tu vas adorer.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le réalisateur / la réalisatrice",
+   "the (film) director",
+   "lə ʁe.a.li.za.tœʁ / la ʁe.a.li.za.tʁis"
+  ],
+  [
+   "le scénario",
+   "the script, the screenplay",
+   "lə se.na.ʁjo"
+  ],
+  [
+   "la bande-annonce",
+   "the trailer",
+   "la bɑ̃d.a.nɔ̃s"
+  ],
+  [
+   "le dessin animé",
+   "the cartoon",
+   "lə de.sɛ̃ a.ni.me"
+  ],
+  [
+   "le personnage",
+   "the character",
+   "lə pɛʁ.sɔ.naʒ"
+  ],
+  [
+   "l'intrigue",
+   "the plot",
+   "lɛ̃.tʁiɡ",
+   "f"
+  ],
+  [
+   "la bande dessinée",
+   "the comic book",
+   "la bɑ̃d de.si.ne"
+  ],
+  [
+   "la pièce de théâtre",
+   "the play",
+   "la pjɛs də te.ɑtʁ"
+  ],
+  [
+   "l'exposition",
+   "the exhibition",
+   "lɛk.spo.zi.sjɔ̃",
+   "f"
+  ],
+  [
+   "le chef-d'œuvre",
+   "the masterpiece",
+   "lə ʃɛ.dœvʁ"
+  ],
+  [
+   "ému / émue",
+   "moved (emotionally)",
+   "e.my / e.my"
+  ],
+  [
+   "surprenant / surprenante",
+   "surprising",
+   "syʁ.pʁə.nɑ̃ / syʁ.pʁə.nɑ̃t"
+  ],
+  [
+   "vivement",
+   "strongly, highly",
+   "viv.mɑ̃"
+  ],
+  [
+   "ça vaut le coup",
+   "it's worth it",
+   "sa vo lə ku"
+  ],
+  [
+   "crédible",
+   "believable",
+   "kʁe.dibl"
+  ],
+  [
+   "faible",
+   "weak",
+   "fɛbl"
+  ]
+ ],
+ "examples": [
+  [
+   "Ça raconte l'histoire d'une famille pendant la guerre.",
+   "It tells the story of a family during the war."
+  ],
+  [
+   "Ça se passe à Paris dans les années soixante.",
+   "It's set in Paris in the sixties."
+  ],
+  [
+   "Le personnage principal est un vieux professeur.",
+   "The main character is an old teacher."
+  ],
+  [
+   "C'est inspiré d'une histoire vraie.",
+   "It's inspired by a true story."
+  ],
+  [
+   "Je l'ai vu en version originale.",
+   "I saw it in the original language."
+  ],
+  [
+   "C'est un vrai chef-d'œuvre !",
+   "It's a real masterpiece!"
+  ],
+  [
+   "J'ai été très émue par la fin.",
+   "I was very moved by the ending."
+  ],
+  [
+   "Les acteurs jouent très bien.",
+   "The actors are very good."
+  ],
+  [
+   "Je le recommande vivement.",
+   "I highly recommend it."
+  ],
+  [
+   "Je me suis ennuyé du début à la fin.",
+   "I was bored from start to finish."
+  ],
+  [
+   "Les images sont belles, mais le scénario est faible.",
+   "The images are beautiful, but the script is weak."
+  ],
+  [
+   "Il faut absolument que tu lises cette bande dessinée !",
+   "You absolutely must read this comic book!"
+  ],
+  [
+   "L'exposition vaut vraiment le coup.",
+   "The exhibition is really worth it."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*le réalisateur* is…",
+   "options": [
+    "the film director",
+    "the producer of reality TV",
+    "the actor"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la bande-annonce* is…",
+   "options": [
+    "the trailer",
+    "the soundtrack",
+    "the advert break"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*en version originale* means…",
+   "options": [
+    "in the original language (subtitled)",
+    "the first version",
+    "the director's cut"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un chef-d'œuvre* is…",
+   "options": [
+    "a masterpiece",
+    "a chef's dish",
+    "a work of fiction"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça vaut le coup* means…",
+   "options": [
+    "It's worth it",
+    "It's a blow",
+    "It costs a lot"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'ai été très ému* means…",
+   "options": [
+    "I was very moved",
+    "I was very amused",
+    "I was very annoyed"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça se passe à Paris* means…",
+   "options": [
+    "It's set in Paris",
+    "It passes through Paris",
+    "It happens to pass Paris"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il faut absolument que tu ___ ce livre !",
+   "options": [
+    "lises",
+    "lis",
+    "liras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*une bande dessinée* is…",
+   "options": [
+    "a comic book",
+    "a drawn band",
+    "a cartoon film"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*L'histoire n'est pas crédible* means…",
+   "options": [
+    "The story isn't believable",
+    "The story isn't for sale",
+    "The story isn't credited"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça ___ l'histoire d'une famille pendant la guerre.",
+   "answers": [
+    "raconte"
+   ],
+   "hint": "It tells the story of a family."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça se ___ à Paris dans les années soixante.",
+   "answers": [
+    "passe"
+   ],
+   "hint": "It's set in Paris in the sixties."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ principal est un vieux professeur.",
+   "answers": [
+    "personnage"
+   ],
+   "hint": "The main character is an old teacher."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est ___ d'une histoire vraie.",
+   "answers": [
+    "inspiré"
+   ],
+   "hint": "It's inspired by a true story."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un vrai ___ !",
+   "answers": [
+    "chef-d'œuvre"
+   ],
+   "hint": "It's a real masterpiece!"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai été très ___ par la fin.",
+   "answers": [
+    "émue",
+    "ému"
+   ],
+   "hint": "I was very moved by the ending."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je le recommande ___.",
+   "answers": [
+    "vivement"
+   ],
+   "hint": "I highly recommend it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les images sont belles, mais le scénario est ___.",
+   "answers": [
+    "faible"
+   ],
+   "hint": "the script is weak."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'exposition vaut vraiment le ___.",
+   "answers": [
+    "coup"
+   ],
+   "hint": "The exhibition is really worth it."
+  },
+  {
+   "type": "translate",
+   "prompt": "I highly recommend it.",
+   "answers": [
+    "Je le recommande vivement.",
+    "Je la recommande vivement."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's worth it.",
+   "answers": [
+    "Ça vaut le coup.",
+    "Ça en vaut la peine."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's set in Paris.",
+   "answers": [
+    "Ça se passe à Paris.",
+    "L'histoire se passe à Paris."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I was bored.",
+   "answers": [
+    "Je me suis ennuyé.",
+    "Je me suis ennuyée."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The images are beautiful, but the script is weak.\"",
+   "answer": "Les images sont belles, mais le scénario est faible."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"You absolutely must read this comic book!\"",
+   "answer": "Il faut absolument que tu lises cette bande dessinée !"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's set in Paris in the sixties.\"",
+   "answer": "Ça se passe à Paris dans les années soixante."
+  }
+ ]
+}
