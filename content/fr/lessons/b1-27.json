@@ -1,0 +1,375 @@
+{
+ "sections": [
+  {
+   "heading": "The job interview",
+   "body": "*l'entretien d'embauche*: the recruiter (*le recruteur / la recruteuse*) asks, the candidate (*le candidat / la candidate*) answers. Typical questions:\n\n- *Pouvez-vous vous présenter ?* — Can you introduce yourself?\n- *Parlez-moi de votre parcours.* — Tell me about your background (education and career).\n- *Pourquoi avez-vous postulé chez nous ?* — Why did you apply to us? (*postuler* — to apply)\n- *Quelles sont vos qualités et vos défauts ?* — What are your strengths and weaknesses?\n- *Où vous voyez-vous dans cinq ans ?* — Where do you see yourself in five years?\n- *Quelles sont vos prétentions salariales ?* — What are your salary expectations?\n- *Avez-vous des questions ?* — Do you have any questions?"
+  },
+  {
+   "heading": "Talking about your experience",
+   "body": "- *J'ai cinq ans d'expérience dans le marketing.*\n- *J'ai travaillé pendant trois ans chez Air France, où j'étais chargé(e) de la communication.* (where I was in charge of communication)\n- *Actuellement, je suis responsable d'une équipe de dix personnes.* (Currently…)\n- *J'ai acquis des compétences en gestion de projet.* (I acquired skills in project management.)\n- *Je maîtrise l'anglais et l'espagnol.* (I'm fluent in…) *Je suis à l'aise avec les outils informatiques.* (comfortable with)\n- Qualities: *motivé(e)*, *dynamique*, *rigoureux / rigoureuse* (thorough), *autonome* (independent), *organisé(e)*, *avoir l'esprit d'équipe* (to be a team player)."
+  },
+  {
+   "heading": "Conducting an interview",
+   "body": "As interviewer, use *vous* and open questions: *Qu'est-ce qui vous a amené à… ?* (What led you to…?) *Comment avez-vous vécu… ?* *Pouvez-vous me donner un exemple ?* Reformulate to check: *Si je vous comprends bien, …*"
+  }
+ ],
+ "vocab": [
+  [
+   "l'entretien d'embauche",
+   "the job interview",
+   "lɑ̃.tʁə.tjɛ̃ dɑ̃.boʃ",
+   "m"
+  ],
+  [
+   "le candidat / la candidate",
+   "the candidate",
+   "lə kɑ̃.di.da / la kɑ̃.di.dat"
+  ],
+  [
+   "le parcours",
+   "the background, the career path",
+   "lə paʁ.kuʁ"
+  ],
+  [
+   "postuler",
+   "to apply (for a job)",
+   "pɔs.ty.le"
+  ],
+  [
+   "la qualité",
+   "the quality, the strength",
+   "la ka.li.te"
+  ],
+  [
+   "le défaut",
+   "the fault, the weakness",
+   "lə de.fo"
+  ],
+  [
+   "chargé de / chargée de",
+   "in charge of",
+   "ʃaʁ.ʒe də / ʃaʁ.ʒe də"
+  ],
+  [
+   "actuellement",
+   "currently",
+   "ak.tɥɛl.mɑ̃"
+  ],
+  [
+   "les compétences",
+   "skills",
+   "le kɔ̃.pe.tɑ̃s",
+   "f"
+  ],
+  [
+   "la gestion",
+   "management",
+   "la ʒɛs.tjɔ̃"
+  ],
+  [
+   "maîtriser",
+   "to master, to be fluent in",
+   "mɛ.tʁi.ze"
+  ],
+  [
+   "à l'aise",
+   "comfortable, at ease",
+   "a lɛz"
+  ],
+  [
+   "motivé / motivée",
+   "motivated",
+   "mɔ.ti.ve / mɔ.ti.ve"
+  ],
+  [
+   "rigoureux / rigoureuse",
+   "thorough, rigorous",
+   "ʁi.ɡu.ʁø / ʁi.ɡu.ʁøz"
+  ],
+  [
+   "autonome",
+   "independent",
+   "o.tɔ.nɔm"
+  ],
+  [
+   "l'esprit d'équipe",
+   "team spirit",
+   "lɛs.pʁi de.kip",
+   "m"
+  ]
+ ],
+ "examples": [
+  [
+   "Pouvez-vous vous présenter en quelques mots ?",
+   "Can you introduce yourself in a few words?"
+  ],
+  [
+   "Parlez-moi de votre parcours.",
+   "Tell me about your background."
+  ],
+  [
+   "Pourquoi avez-vous postulé chez nous ?",
+   "Why did you apply to us?"
+  ],
+  [
+   "J'ai cinq ans d'expérience dans le marketing.",
+   "I have five years' experience in marketing."
+  ],
+  [
+   "J'étais chargée de la communication.",
+   "I was in charge of communication."
+  ],
+  [
+   "Actuellement, je suis responsable d'une équipe de dix personnes.",
+   "Currently I manage a team of ten people."
+  ],
+  [
+   "J'ai acquis des compétences en gestion de projet.",
+   "I've acquired project management skills."
+  ],
+  [
+   "Je maîtrise l'anglais et l'espagnol.",
+   "I'm fluent in English and Spanish."
+  ],
+  [
+   "Je suis à l'aise avec les outils informatiques.",
+   "I'm comfortable with computer tools."
+  ],
+  [
+   "Ma principale qualité, c'est que je suis très organisé.",
+   "My main strength is that I'm very organised."
+  ],
+  [
+   "Mon défaut ? Je suis parfois un peu trop perfectionniste.",
+   "My weakness? I'm sometimes a bit too much of a perfectionist."
+  ],
+  [
+   "J'ai l'esprit d'équipe, mais je sais aussi travailler de façon autonome.",
+   "I'm a team player, but I can also work independently."
+  ],
+  [
+   "Où vous voyez-vous dans cinq ans ?",
+   "Where do you see yourself in five years?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*postuler* means…",
+   "options": [
+    "to apply (for a job)",
+    "to post a letter",
+    "to postpone"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le parcours* (in an interview) is…",
+   "options": [
+    "your background, career path",
+    "a running track",
+    "a tour"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un défaut* (in an interview) is…",
+   "options": [
+    "a weakness",
+    "a default payment",
+    "a defeat"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*actuellement* means…",
+   "options": [
+    "currently",
+    "actually",
+    "eventually"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je maîtrise l'anglais* means…",
+   "options": [
+    "I'm fluent in English",
+    "I teach English",
+    "I'm learning English"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'étais chargée de la communication* means…",
+   "options": [
+    "I was in charge of communication",
+    "I was charged for communication",
+    "I was loaded with messages"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*avoir l'esprit d'équipe* means…",
+   "options": [
+    "to be a team player",
+    "to have a team ghost",
+    "to be the team captain"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*rigoureux* means…",
+   "options": [
+    "thorough, rigorous",
+    "rigid only",
+    "strict and unkind"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The recruiter asks *Avez-vous des questions ?* A good answer starts…",
+   "options": [
+    "Oui, j'aimerais savoir…",
+    "Non, rien du tout.",
+    "Je ne sais pas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*autonome* means…",
+   "options": [
+    "independent",
+    "automatic",
+    "autumnal"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Pouvez-vous vous ___ en quelques mots ?",
+   "answers": [
+    "présenter"
+   ],
+   "hint": "Can you introduce yourself?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Parlez-moi de votre ___.",
+   "answers": [
+    "parcours"
+   ],
+   "hint": "Tell me about your background."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pourquoi avez-vous ___ chez nous ?",
+   "answers": [
+    "postulé"
+   ],
+   "hint": "Why did you apply to us?"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai cinq ans d'___ dans le marketing.",
+   "answers": [
+    "expérience"
+   ],
+   "hint": "five years' experience."
+  },
+  {
+   "type": "fill",
+   "prompt": "___, je suis responsable d'une équipe.",
+   "answers": [
+    "Actuellement"
+   ],
+   "hint": "Currently I manage a team."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai acquis des ___ en gestion de projet.",
+   "answers": [
+    "compétences"
+   ],
+   "hint": "I've acquired skills…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ l'anglais et l'espagnol.",
+   "answers": [
+    "maîtrise"
+   ],
+   "hint": "I'm fluent in English and Spanish."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis à l'___ avec les outils informatiques.",
+   "answers": [
+    "aise"
+   ],
+   "hint": "I'm comfortable with computer tools."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai l'esprit d'___.",
+   "answers": [
+    "équipe"
+   ],
+   "hint": "I'm a team player."
+  },
+  {
+   "type": "translate",
+   "prompt": "Tell me about your background.",
+   "answers": [
+    "Parlez-moi de votre parcours."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have five years' experience.",
+   "answers": [
+    "J'ai cinq ans d'expérience."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Why did you apply?",
+   "answers": [
+    "Pourquoi avez-vous postulé ?",
+    "Pourquoi est-ce que vous avez postulé ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm fluent in English.",
+   "answers": [
+    "Je maîtrise l'anglais.",
+    "Je parle couramment anglais."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Currently I manage a team of ten people.\"",
+   "answer": "Actuellement, je suis responsable d'une équipe de dix personnes."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I've acquired project management skills.\"",
+   "answer": "J'ai acquis des compétences en gestion de projet."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Where do you see yourself in five years?\"",
+   "answer": "Où vous voyez-vous dans cinq ans ?"
+  }
+ ]
+}

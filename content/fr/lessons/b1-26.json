@@ -1,0 +1,364 @@
+{
+ "sections": [
+  {
+   "heading": "Formal letters: the conventions",
+   "body": "French formal letters and emails follow strict conventions — learning the formulas is half the work.\n\n**Opening** (*la formule d'appel*):\n- *Madame, Monsieur,* — when you don't know who will read it (the safe default)\n- *Madame,* / *Monsieur,* — to a known person; never just ~~*Cher Monsieur*~~ to a stranger\n- *Madame la Directrice,* / *Monsieur le Maire,* — with a title\n\n**First sentence**: state the purpose directly:\n- *Je vous écris au sujet de…* / *Je me permets de vous écrire concernant…* — I'm writing regarding…\n- *Suite à notre conversation téléphonique, …* — Following our phone call…\n- *En réponse à votre annonce parue le…* — In reply to your advertisement published on…\n\n**Requests**: *Je vous serais reconnaissant(e) de bien vouloir…* (I would be grateful if you would kindly…) — *Pourriez-vous m'indiquer… ?* — *Je vous prie de…* (I ask you to…)\n\n**Closing sentence**: *Dans l'attente de votre réponse, …* (Looking forward to your reply…) — *Je reste à votre disposition pour tout renseignement complémentaire.* (I remain at your disposal for any further information.)\n\n**Final formula** (*la formule de politesse*) — long and fixed in letters: *Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.* In emails, shorter: *Cordialement,* (Kind regards) — *Bien cordialement,* — *Bien à vous,*"
+  },
+  {
+   "heading": "A model email",
+   "body": "*Objet : demande de remboursement* (Subject: refund request)\n*Madame, Monsieur,*\n*Je vous écris au sujet de ma commande n° 4521 du 3 mars. Le produit reçu est défectueux : l'écran ne s'allume pas. Je vous serais reconnaissante de bien vouloir me rembourser ou de remplacer l'article.*\n*Dans l'attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.*\n*Camille Martin*"
+  }
+ ],
+ "vocab": [
+  [
+   "la formule d'appel",
+   "the opening (Dear…)",
+   "la fɔʁ.myl da.pɛl"
+  ],
+  [
+   "au sujet de",
+   "regarding, about",
+   "o sy.ʒɛ də"
+  ],
+  [
+   "concernant",
+   "concerning",
+   "kɔ̃.sɛʁ.nɑ̃"
+  ],
+  [
+   "suite à",
+   "following",
+   "sɥit a"
+  ],
+  [
+   "paru / parue",
+   "published",
+   "pa.ʁy / pa.ʁy"
+  ],
+  [
+   "reconnaissant / reconnaissante",
+   "grateful",
+   "ʁə.kɔ.nɛ.sɑ̃ / ʁə.kɔ.nɛ.sɑ̃t"
+  ],
+  [
+   "bien vouloir",
+   "to kindly (do)",
+   "bjɛ̃ vu.lwaʁ"
+  ],
+  [
+   "indiquer",
+   "to indicate, to tell",
+   "ɛ̃.di.ke"
+  ],
+  [
+   "l'attente",
+   "waiting, expectation",
+   "la.tɑ̃t",
+   "f"
+  ],
+  [
+   "à votre disposition",
+   "at your disposal",
+   "a vɔtʁ dis.po.zi.sjɔ̃"
+  ],
+  [
+   "agréer",
+   "to accept (formal)",
+   "a.ɡʁe.e"
+  ],
+  [
+   "les salutations",
+   "greetings, regards",
+   "le sa.ly.ta.sjɔ̃",
+   "f"
+  ],
+  [
+   "cordialement",
+   "kind regards",
+   "kɔʁ.djal.mɑ̃"
+  ],
+  [
+   "l'objet",
+   "the subject (of an email)",
+   "lɔb.ʒɛ",
+   "m"
+  ],
+  [
+   "la commande",
+   "the order",
+   "la kɔ.mɑ̃d"
+  ]
+ ],
+ "examples": [
+  [
+   "Madame, Monsieur,",
+   "Dear Sir or Madam,"
+  ],
+  [
+   "Je vous écris au sujet de ma commande du 3 mars.",
+   "I'm writing regarding my order of 3 March."
+  ],
+  [
+   "Suite à notre conversation téléphonique, je vous envoie mon dossier.",
+   "Following our phone call, I'm sending you my file."
+  ],
+  [
+   "En réponse à votre annonce parue le 10 mai, …",
+   "In reply to your advertisement published on 10 May, …"
+  ],
+  [
+   "Je vous serais reconnaissante de bien vouloir me rembourser.",
+   "I would be grateful if you would kindly refund me."
+  ],
+  [
+   "Pourriez-vous m'indiquer vos horaires d'ouverture ?",
+   "Could you tell me your opening hours?"
+  ],
+  [
+   "Dans l'attente de votre réponse, …",
+   "Looking forward to your reply, …"
+  ],
+  [
+   "Je reste à votre disposition pour tout renseignement complémentaire.",
+   "I remain at your disposal for any further information."
+  ],
+  [
+   "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+   "Yours faithfully."
+  ],
+  [
+   "Cordialement,",
+   "Kind regards,"
+  ],
+  [
+   "Objet : demande de remboursement",
+   "Subject: refund request"
+  ],
+  [
+   "Je me permets de vous écrire concernant votre offre d'emploi.",
+   "I'm writing concerning your job offer."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "You write to a company and don't know the reader's name. You start…",
+   "options": [
+    "Madame, Monsieur,",
+    "Cher Monsieur,",
+    "Salut,"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The usual short closing in a professional email is…",
+   "options": [
+    "Cordialement,",
+    "Bisous,",
+    "À plus !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je vous écris au sujet de…* means…",
+   "options": [
+    "I'm writing regarding…",
+    "I'm writing to the subject…",
+    "I'm writing about myself…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Suite à notre conversation* means…",
+   "options": [
+    "Following our conversation",
+    "After our conversation ends",
+    "Continuing our conversation"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je vous serais reconnaissant de…* means…",
+   "options": [
+    "I would be grateful if you…",
+    "I recognise you…",
+    "I would know you…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Dans l'attente de votre réponse* means…",
+   "options": [
+    "Looking forward to your reply",
+    "In your answer's waiting room",
+    "While you answer"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Objet :* at the top of an email means…",
+   "options": [
+    "Subject:",
+    "Object:",
+    "Purpose of the company:"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is a formal letter's closing formula?",
+   "options": [
+    "Je vous prie d'agréer l'expression de mes salutations distinguées.",
+    "Grosses bises.",
+    "Je t'embrasse."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je reste à votre disposition* means…",
+   "options": [
+    "I remain at your disposal",
+    "I stay at your place",
+    "I'm keeping your disposal"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une annonce parue le 10 mai* means…",
+   "options": [
+    "an ad published on 10 May",
+    "an ad that appeared to be on 10 May",
+    "an ad that expired on 10 May"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vous écris au ___ de ma commande.",
+   "answers": [
+    "sujet"
+   ],
+   "hint": "I'm writing regarding my order."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ à notre conversation téléphonique, je vous envoie mon dossier.",
+   "answers": [
+    "Suite"
+   ],
+   "hint": "Following our phone call…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vous serais ___ de bien vouloir me rembourser. (reconnaissant)",
+   "answers": [
+    "reconnaissante"
+   ],
+   "hint": "I would be grateful if… (a woman)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Pourriez-vous m'___ vos horaires d'ouverture ?",
+   "answers": [
+    "indiquer"
+   ],
+   "hint": "Could you tell me your opening hours?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans l'___ de votre réponse, …",
+   "answers": [
+    "attente"
+   ],
+   "hint": "Looking forward to your reply…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je reste à votre ___ pour tout renseignement complémentaire.",
+   "answers": [
+    "disposition"
+   ],
+   "hint": "I remain at your disposal."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vous prie d'agréer l'expression de mes salutations ___.",
+   "answers": [
+    "distinguées"
+   ],
+   "hint": "Yours faithfully."
+  },
+  {
+   "type": "fill",
+   "prompt": "___, Camille Martin",
+   "answers": [
+    "Cordialement"
+   ],
+   "hint": "Kind regards, Camille Martin (at the end of an email)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me permets de vous écrire ___ votre offre d'emploi.",
+   "answers": [
+    "concernant"
+   ],
+   "hint": "I'm writing concerning your job offer."
+  },
+  {
+   "type": "translate",
+   "prompt": "Dear Sir or Madam,",
+   "answers": [
+    "Madame, Monsieur,"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Kind regards,",
+   "answers": [
+    "Cordialement,",
+    "Bien cordialement,"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm writing regarding my order.",
+   "answers": [
+    "Je vous écris au sujet de ma commande.",
+    "Je vous écris concernant ma commande."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Looking forward to your reply.",
+   "answers": [
+    "Dans l'attente de votre réponse."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm writing regarding my order of 3 March.\"",
+   "answer": "Je vous écris au sujet de ma commande du 3 mars."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I remain at your disposal for any further information.\"",
+   "answer": "Je reste à votre disposition pour tout renseignement complémentaire."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Following our phone call, I'm sending you my file.\"",
+   "answer": "Suite à notre conversation téléphonique, je vous envoie mon dossier."
+  }
+ ]
+}

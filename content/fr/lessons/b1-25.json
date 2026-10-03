@@ -1,0 +1,378 @@
+{
+ "sections": [
+  {
+   "heading": "Stating a problem",
+   "body": "- *J'ai un problème avec…* — I have a problem with…\n- *Il y a un souci.* — There's a problem. (*un souci* — very common in France)\n- *Ça ne marche pas / ne fonctionne pas.* — It doesn't work.\n- *Le colis n'est jamais arrivé.* — The parcel never arrived.\n- *On m'a facturé deux fois.* — I've been charged twice.\n- *Ce n'est pas ce que j'ai commandé.* — It isn't what I ordered.\n- *Le produit est abîmé / défectueux.* — The product is damaged / faulty."
+  },
+  {
+   "heading": "Complaining politely but firmly",
+   "body": "- *Je voudrais faire une réclamation.* — I'd like to make a complaint.\n- *Je ne suis pas satisfait(e) du service.* — I'm not satisfied with the service.\n- *Je trouve ça inadmissible.* — I find that unacceptable.\n- *Ce n'est pas normal !* — That's not right!\n- *J'attends une réponse depuis deux semaines.* — I've been waiting for an answer for two weeks.\n- *Je souhaiterais être remboursé(e).* — I'd like a refund.\n- *Je vous demande de remplacer l'article.* — I'm asking you to replace the item.\n\nExpressing satisfaction: *Je suis très satisfait(e).* *Je suis ravi(e) de mon achat.* *Le service était impeccable.* (spotless, perfect)"
+  },
+  {
+   "heading": "Proposing solutions",
+   "body": "- *Je vous propose de…* — I suggest that…\n- *On pourrait…*, *Il faudrait…*, *Et si on essayait de… ?*\n- *La solution serait de…* — The solution would be to…\n- *Vous pouvez soit… soit…* — You can either… or…: *Vous pouvez soit être remboursé, soit échanger le produit.*\n\nResponding to a complaint: *Je suis vraiment désolé(e) pour ce problème.* — *Nous allons faire le nécessaire.* (We'll do what's needed.) — *Je comprends votre mécontentement.* (I understand your dissatisfaction.)"
+  }
+ ],
+ "vocab": [
+  [
+   "le souci",
+   "the problem, the worry",
+   "lə su.si"
+  ],
+  [
+   "fonctionner",
+   "to work, to function",
+   "fɔ̃k.sjɔ.ne"
+  ],
+  [
+   "le colis",
+   "the parcel",
+   "lə kɔ.li"
+  ],
+  [
+   "facturer",
+   "to charge, to bill",
+   "fak.ty.ʁe"
+  ],
+  [
+   "abîmé / abîmée",
+   "damaged",
+   "a.bi.me / a.bi.me"
+  ],
+  [
+   "défectueux / défectueuse",
+   "faulty",
+   "de.fɛk.tɥø / de.fɛk.tɥøz"
+  ],
+  [
+   "la réclamation",
+   "the complaint",
+   "la ʁe.kla.ma.sjɔ̃"
+  ],
+  [
+   "satisfait / satisfaite",
+   "satisfied",
+   "sa.tis.fɛ / sa.tis.fɛt"
+  ],
+  [
+   "inadmissible",
+   "unacceptable",
+   "i.nad.mi.sibl"
+  ],
+  [
+   "rembourser",
+   "to refund",
+   "ʁɑ̃.buʁ.se"
+  ],
+  [
+   "remplacer",
+   "to replace",
+   "ʁɑ̃.pla.se"
+  ],
+  [
+   "échanger",
+   "to exchange",
+   "e.ʃɑ̃.ʒe"
+  ],
+  [
+   "le mécontentement",
+   "dissatisfaction",
+   "lə me.kɔ̃.tɑ̃t.mɑ̃"
+  ],
+  [
+   "la solution",
+   "the solution",
+   "la sɔ.ly.sjɔ̃"
+  ],
+  [
+   "le produit",
+   "the product",
+   "lə pʁɔ.dɥi"
+  ]
+ ],
+ "examples": [
+  [
+   "Bonjour, j'ai un problème avec ma commande.",
+   "Hello, I have a problem with my order."
+  ],
+  [
+   "Il y a un souci avec la facture.",
+   "There's a problem with the bill."
+  ],
+  [
+   "Le colis n'est jamais arrivé.",
+   "The parcel never arrived."
+  ],
+  [
+   "On m'a facturé deux fois le même article.",
+   "I've been charged twice for the same item."
+  ],
+  [
+   "Le produit est arrivé abîmé.",
+   "The product arrived damaged."
+  ],
+  [
+   "Je voudrais faire une réclamation.",
+   "I'd like to make a complaint."
+  ],
+  [
+   "J'attends une réponse depuis deux semaines ; c'est inadmissible.",
+   "I've been waiting for an answer for two weeks; it's unacceptable."
+  ],
+  [
+   "Je souhaiterais être remboursée.",
+   "I'd like a refund."
+  ],
+  [
+   "Vous pouvez soit être remboursé, soit échanger le produit.",
+   "You can either get a refund or exchange the product."
+  ],
+  [
+   "Je suis vraiment désolé pour ce problème.",
+   "I'm really sorry about this problem."
+  ],
+  [
+   "Nous allons faire le nécessaire.",
+   "We'll do what's needed."
+  ],
+  [
+   "La solution serait de changer de fournisseur.",
+   "The solution would be to change supplier."
+  ],
+  [
+   "Je suis très satisfaite du service.",
+   "I'm very satisfied with the service."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*un souci* (in everyday French) means…",
+   "options": [
+    "a problem",
+    "a smile",
+    "an eyebrow"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le colis n'est jamais arrivé* means…",
+   "options": [
+    "The parcel never arrived",
+    "The parcel arrived late",
+    "The parcel is never on time"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*abîmé* means…",
+   "options": [
+    "damaged",
+    "abyss-like",
+    "expensive"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*faire une réclamation* means…",
+   "options": [
+    "to make a complaint",
+    "to make an advertisement",
+    "to reclaim luggage"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*rembourser* means…",
+   "options": [
+    "to refund",
+    "to reimburse a loan only",
+    "to repurchase"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*inadmissible* means…",
+   "options": [
+    "unacceptable",
+    "not admitted",
+    "invisible"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'd like a refund\" (a woman)",
+   "options": [
+    "Je souhaiterais être remboursée.",
+    "Je souhaiterais rembourser.",
+    "Je souhaite que remboursée."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"You can either get a refund or exchange it\"",
+   "options": [
+    "Vous pouvez soit être remboursé, soit l'échanger.",
+    "Vous pouvez ou être remboursé, ou soit l'échanger.",
+    "Vous pouvez soit être remboursé ni l'échanger."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "A polite answer to a complaint is…",
+   "options": [
+    "Je comprends votre mécontentement.",
+    "Ce n'est pas mon problème.",
+    "Débrouillez-vous."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Nous allons faire le nécessaire* means…",
+   "options": [
+    "We'll do what's needed",
+    "We'll make the necessary",
+    "We need to do it"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y a un ___ avec la facture.",
+   "answers": [
+    "souci",
+    "problème"
+   ],
+   "hint": "There's a problem with the bill."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ n'est jamais arrivé.",
+   "answers": [
+    "colis"
+   ],
+   "hint": "The parcel never arrived."
+  },
+  {
+   "type": "fill",
+   "prompt": "On m'a ___ deux fois le même article. (facturer)",
+   "answers": [
+    "facturé"
+   ],
+   "hint": "I've been charged twice."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le produit est arrivé ___.",
+   "answers": [
+    "abîmé"
+   ],
+   "hint": "The product arrived damaged."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je voudrais faire une ___.",
+   "answers": [
+    "réclamation"
+   ],
+   "hint": "I'd like to make a complaint."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'attends une réponse depuis deux semaines ; c'est ___.",
+   "answers": [
+    "inadmissible"
+   ],
+   "hint": "it's unacceptable."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous pouvez ___ être remboursé, soit échanger le produit.",
+   "answers": [
+    "soit"
+   ],
+   "hint": "You can either get a refund or…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous allons faire le ___.",
+   "answers": [
+    "nécessaire"
+   ],
+   "hint": "We'll do what's needed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis très ___ du service. (satisfait)",
+   "answers": [
+    "satisfaite"
+   ],
+   "hint": "I'm very satisfied with the service. (a woman)"
+  },
+  {
+   "type": "translate",
+   "prompt": "I'd like to make a complaint.",
+   "answers": [
+    "Je voudrais faire une réclamation.",
+    "J'aimerais faire une réclamation."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It doesn't work.",
+   "answers": [
+    "Ça ne marche pas.",
+    "Ça ne fonctionne pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The parcel never arrived.",
+   "answers": [
+    "Le colis n'est jamais arrivé."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm really sorry about this problem.",
+   "answers": [
+    "Je suis vraiment désolé pour ce problème.",
+    "Je suis vraiment désolée pour ce problème."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That's not right!",
+   "answers": [
+    "Ce n'est pas normal !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I've been charged twice for the same item.\"",
+   "answer": "On m'a facturé deux fois le même article."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"You can either get a refund or exchange the product.\"",
+   "answer": "Vous pouvez soit être remboursé, soit échanger le produit."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I've been waiting for an answer for two weeks.\"",
+   "answer": "J'attends une réponse depuis deux semaines."
+  }
+ ]
+}
