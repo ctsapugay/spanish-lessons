@@ -1,0 +1,367 @@
+{
+ "sections": [
+  {
+   "heading": "Y with verbs + à",
+   "body": "*Y* doesn't only mean \"there\". It replaces **à + a thing or an idea** after verbs built with *à*:\n\n- *penser à*: *Tu penses à ton examen ? — Oui, j'y pense tout le temps.*\n- *réfléchir à*: *Je vais y réfléchir.* (I'll think about it.)\n- *s'habituer à*: *Le froid ? Je ne m'y habitue pas.*\n- *s'intéresser à*: *La politique ? Je m'y intéresse beaucoup.*\n- *participer à*, *répondre à* (a letter, a question), *croire à*, *tenir à* (to be attached to, to insist on): *Ce bijou, j'y tiens beaucoup.*"
+  },
+  {
+   "heading": "En with verbs + de",
+   "body": "*En* replaces **de + a thing or an idea** after verbs and expressions built with *de*:\n\n- *parler de*: *Tu as parlé du projet ? — Oui, j'en ai parlé au directeur.*\n- *avoir besoin de*: *Ton ordinateur ? J'en ai besoin ce soir.*\n- *avoir envie de*, *avoir peur de*, *se souvenir de*, *s'occuper de*, *être content de*, *rêver de*: *Tes vacances ? Tu t'en souviens ?* *Ce voyage, j'en rêve depuis longtemps.*"
+  },
+  {
+   "heading": "But people take lui, leur — or a stressed pronoun",
+   "body": "For **people**, *y* and *en* aren't usually used:\n\n- verbs like *parler à*, *téléphoner à* take *lui / leur*: *Je lui parle.*\n- but *penser à*, *s'habituer à*, *s'intéresser à* + a person use *à* + stressed pronoun: *Je pense **à toi**.* (not ~~je t'y pense~~) *Elle s'intéresse **à lui**.*\n- *de* + a person → *de* + stressed pronoun: *Je parle **de lui**.* *Je me souviens **d'elle**.* *Tu as besoin **de moi** ?*"
+  },
+  {
+   "heading": "Fixed expressions",
+   "body": "*J'y suis !* (I've got it!) — *Ça y est !* (That's it! Done!) — *Je n'y peux rien.* (There's nothing I can do about it.) — *Je m'en vais.* (I'm off.) — *Je m'en fiche.* (I don't care — casual) — *Ne t'en fais pas.* — *J'en ai assez.* (I've had enough.)"
+  }
+ ],
+ "vocab": [
+  [
+   "s'intéresser à",
+   "to be interested in",
+   "sɛ̃.te.ʁe.se a"
+  ],
+  [
+   "participer à",
+   "to take part in",
+   "paʁ.ti.si.pe a"
+  ],
+  [
+   "tenir à",
+   "to be attached to, to insist on",
+   "tə.niʁ a"
+  ],
+  [
+   "croire à",
+   "to believe in",
+   "kʁwaʁ a"
+  ],
+  [
+   "se souvenir de",
+   "to remember",
+   "sə su.və.niʁ də"
+  ],
+  [
+   "avoir peur de",
+   "to be afraid of",
+   "a.vwaʁ pœʁ də"
+  ],
+  [
+   "le projet",
+   "the project",
+   "lə pʁɔ.ʒɛ"
+  ],
+  [
+   "le directeur / la directrice",
+   "the director, the manager",
+   "lə di.ʁɛk.tœʁ / la di.ʁɛk.tʁis"
+  ],
+  [
+   "le bijou",
+   "the piece of jewellery",
+   "lə bi.ʒu"
+  ],
+  [
+   "ça y est",
+   "that's it, done",
+   "sa.j‿ɛ"
+  ],
+  [
+   "s'en aller",
+   "to go away, to leave",
+   "sɑ̃.n‿a.le"
+  ],
+  [
+   "la politique",
+   "politics",
+   "la pɔ.li.tik"
+  ]
+ ],
+ "examples": [
+  [
+   "Tu penses à ton examen ? — Oui, j'y pense tout le temps.",
+   "Are you thinking about your exam? — Yes, I think about it all the time."
+  ],
+  [
+   "La politique ? Je m'y intéresse beaucoup.",
+   "Politics? I'm very interested in it."
+  ],
+  [
+   "Le froid ? Je ne m'y habitue pas.",
+   "The cold? I can't get used to it."
+  ],
+  [
+   "Ce bijou, j'y tiens beaucoup.",
+   "This piece of jewellery means a lot to me."
+  ],
+  [
+   "Tu as parlé du projet ? — Oui, j'en ai parlé au directeur.",
+   "Did you talk about the project? — Yes, I talked to the director about it."
+  ],
+  [
+   "Ton ordinateur ? J'en ai besoin ce soir.",
+   "Your computer? I need it tonight."
+  ],
+  [
+   "Tes vacances en Grèce ? Tu t'en souviens ?",
+   "Your holiday in Greece? Do you remember it?"
+  ],
+  [
+   "Ce voyage, j'en rêve depuis longtemps.",
+   "I've been dreaming of this trip for a long time."
+  ],
+  [
+   "Je pense à toi.",
+   "I'm thinking of you."
+  ],
+  [
+   "Je me souviens très bien d'elle.",
+   "I remember her very well."
+  ],
+  [
+   "Tu as besoin de moi ?",
+   "Do you need me?"
+  ],
+  [
+   "Ça y est, j'ai fini !",
+   "That's it, I've finished!"
+  ],
+  [
+   "Bon, je m'en vais. À demain !",
+   "Right, I'm off. See you tomorrow!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Tu penses à ton examen ?* — \"Yes, I'm thinking about it.\"",
+   "options": [
+    "Oui, j'y pense.",
+    "Oui, j'en pense.",
+    "Oui, je lui pense."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu as parlé du projet ?* — \"Yes, I talked about it.\"",
+   "options": [
+    "Oui, j'en ai parlé.",
+    "Oui, j'y ai parlé.",
+    "Oui, je l'ai parlé."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu as besoin de mon ordinateur ?* — \"Yes, I need it.\"",
+   "options": [
+    "Oui, j'en ai besoin.",
+    "Oui, j'y ai besoin.",
+    "Oui, je l'ai besoin."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm thinking of you\"",
+   "options": [
+    "Je pense à toi.",
+    "Je t'y pense.",
+    "Je te pense."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "With people, *penser à* + stressed pronoun."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I remember her\"",
+   "options": [
+    "Je me souviens d'elle.",
+    "Je m'en souviens d'elle.",
+    "Je lui souviens."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*La politique ? Je m'y intéresse.* — *y* replaces…",
+   "options": [
+    "à la politique",
+    "de la politique",
+    "la politique (direct object)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça y est !* means…",
+   "options": [
+    "That's it! / Done!",
+    "It's there!",
+    "That's yes!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je m'en vais* means…",
+   "options": [
+    "I'm off / I'm leaving",
+    "I'm going there",
+    "I'm getting some"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je n'y peux rien* means…",
+   "options": [
+    "There's nothing I can do about it",
+    "I can't go there",
+    "I don't have any"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*j'y tiens beaucoup* means…",
+   "options": [
+    "it means a lot to me / I insist",
+    "I hold it a lot",
+    "I'm holding on there"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu penses à ton examen ? — Oui, j'___ pense tout le temps.",
+   "answers": [
+    "y"
+   ],
+   "hint": "I think about it all the time."
+  },
+  {
+   "type": "fill",
+   "prompt": "La politique ? Je m'___ intéresse beaucoup.",
+   "answers": [
+    "y"
+   ],
+   "hint": "I'm very interested in it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Oui, j'___ ai parlé au directeur.",
+   "answers": [
+    "en"
+   ],
+   "hint": "Yes, I talked to the director about it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ton ordinateur ? J'en ai ___ ce soir.",
+   "answers": [
+    "besoin"
+   ],
+   "hint": "I need it tonight."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tes vacances ? Tu t'en ___ ?",
+   "answers": [
+    "souviens"
+   ],
+   "hint": "Do you remember them?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je pense à ___.",
+   "answers": [
+    "toi"
+   ],
+   "hint": "I'm thinking of you."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me souviens très bien d'___.",
+   "answers": [
+    "elle"
+   ],
+   "hint": "I remember her very well."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça y ___, j'ai fini !",
+   "answers": [
+    "est"
+   ],
+   "hint": "That's it, I've finished!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Bon, je m'en ___.",
+   "answers": [
+    "vais"
+   ],
+   "hint": "Right, I'm off."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm thinking about it.",
+   "answers": [
+    "J'y pense."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I need it.",
+   "answers": [
+    "J'en ai besoin."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm thinking of you. (to a friend)",
+   "answers": [
+    "Je pense à toi."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Do you remember it? (to a friend)",
+   "answers": [
+    "Tu t'en souviens ?",
+    "Est-ce que tu t'en souviens ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That's it!",
+   "answers": [
+    "Ça y est !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I've been dreaming of this trip for a long time.\"",
+   "answer": "Ce voyage, j'en rêve depuis longtemps."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The cold? I can't get used to it.\"",
+   "answer": "Le froid ? Je ne m'y habitue pas."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Yes, I talked to the director about it.\"",
+   "answer": "Oui, j'en ai parlé au directeur."
+  }
+ ]
+}

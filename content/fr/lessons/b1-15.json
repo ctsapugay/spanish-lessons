@@ -1,0 +1,361 @@
+{
+ "sections": [
+  {
+   "heading": "C'est… qui / C'est… que",
+   "body": "French doesn't stress a word with the voice as much as English (\"*I* did it\"). Instead it **moves** the word into a frame:\n\n- *C'est… qui* highlights the **subject**: *C'est **Léa qui** a gagné.* (It was Léa who won. / *Léa* won.) *C'est **moi qui** ai raison !* — note the verb agrees with the highlighted pronoun: *c'est moi qui **suis**, c'est toi qui **as**, c'est nous qui **avons**.*\n- *C'est… que* highlights **anything else** — an object, a time, a place: *C'est **ce livre que** je cherchais.* *C'est **demain qu'**on part, pas aujourd'hui.* *C'est **à Lyon que** j'ai fait mes études.*\n- Plural: *Ce sont mes parents qui m'ont aidé* (written) — *C'est mes parents qui…* (spoken)."
+  },
+  {
+   "heading": "Ce qui, ce que, ce dont… c'est",
+   "body": "To highlight a whole idea, start with *ce qui / ce que / ce dont* (\"what\") and finish with *c'est*:\n\n- *Ce qui me plaît, c'est le calme.* (What I like is the peace and quiet.) — *ce qui* = subject of *plaît*\n- *Ce que je veux, c'est partir.* (What I want is to leave.) — *ce que* = object of *veux*\n- *Ce dont j'ai besoin, c'est de repos.* (What I need is rest.) — *avoir besoin **de***\n- *Ce que je veux dire, c'est que…* (What I mean is that…)"
+  },
+  {
+   "heading": "Pronunciation: stress for emphasis",
+   "body": "In these structures, the highlighted element gets a slight emphasis and the voice rises on it, then falls: *C'est Léa qui a gagné.* (with the voice rising on Léa) ↗↘. In speech, French also uses an **emphatic stress on the first syllable** of a word: *C'est incroyable !* (said IN-croyable), *C'est absolument faux !* (AB-solument) This \"accent d'insistance\" comes on top of the normal stress on the last syllable."
+  }
+ ],
+ "vocab": [
+  [
+   "c'est… qui",
+   "it's … who (highlights the subject)",
+   "sɛ ki"
+  ],
+  [
+   "c'est… que",
+   "it's … that (highlights the rest)",
+   "sɛ kə"
+  ],
+  [
+   "ce qui",
+   "what (subject)",
+   "sə ki"
+  ],
+  [
+   "ce que",
+   "what (object)",
+   "sə kə"
+  ],
+  [
+   "ce dont",
+   "what (with de)",
+   "sə dɔ̃"
+  ],
+  [
+   "mettre en valeur",
+   "to highlight",
+   "mɛtʁ ɑ̃ va.lœʁ"
+  ],
+  [
+   "le calme",
+   "peace and quiet, calm",
+   "lə kalm"
+  ],
+  [
+   "le repos",
+   "rest",
+   "lə ʁə.po"
+  ],
+  [
+   "incroyable",
+   "incredible",
+   "ɛ̃.kʁwa.jabl"
+  ],
+  [
+   "absolument",
+   "absolutely",
+   "ap.sɔ.ly.mɑ̃"
+  ],
+  [
+   "faux / fausse",
+   "false, wrong",
+   "fo / fos"
+  ],
+  [
+   "gagner",
+   "to win",
+   "ɡa.ɲe"
+  ]
+ ],
+ "examples": [
+  [
+   "C'est Léa qui a gagné le concours.",
+   "It was Léa who won the competition."
+  ],
+  [
+   "C'est moi qui ai raison !",
+   "I'm the one who's right!"
+  ],
+  [
+   "C'est toi qui as fait ce gâteau ?",
+   "Did you make this cake?"
+  ],
+  [
+   "C'est ce livre que je cherchais.",
+   "That's the book I was looking for."
+  ],
+  [
+   "C'est demain qu'on part, pas aujourd'hui.",
+   "It's tomorrow we're leaving, not today."
+  ],
+  [
+   "C'est à Lyon que j'ai fait mes études.",
+   "It was in Lyon that I studied."
+  ],
+  [
+   "Ce qui me plaît ici, c'est le calme.",
+   "What I like here is the peace and quiet."
+  ],
+  [
+   "Ce que je veux, c'est partir en vacances.",
+   "What I want is to go on holiday."
+  ],
+  [
+   "Ce dont j'ai besoin, c'est de repos.",
+   "What I need is rest."
+  ],
+  [
+   "Ce que je veux dire, c'est que ce n'est pas juste.",
+   "What I mean is that it isn't fair."
+  ],
+  [
+   "C'est incroyable !",
+   "It's incredible!"
+  ],
+  [
+   "C'est absolument faux !",
+   "That's absolutely wrong!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est Léa ___ a gagné.",
+   "options": [
+    "qui",
+    "que",
+    "dont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est ce livre ___ je cherchais.",
+   "options": [
+    "que",
+    "qui",
+    "dont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est moi qui ___ raison.",
+   "options": [
+    "ai",
+    "a",
+    "as"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The verb agrees with *moi*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est demain ___'on part.",
+   "options": [
+    "qu",
+    "qui",
+    "dont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ me plaît, c'est le calme.",
+   "options": [
+    "Ce qui",
+    "Ce que",
+    "Ce dont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ je veux, c'est partir.",
+   "options": [
+    "Ce que",
+    "Ce qui",
+    "Ce dont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ j'ai besoin, c'est de repos.",
+   "options": [
+    "Ce dont",
+    "Ce que",
+    "Ce qui"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'est à Lyon que j'ai fait mes études* emphasises…",
+   "options": [
+    "where I studied",
+    "that I studied",
+    "when I studied"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ce que je veux dire, c'est que…* means…",
+   "options": [
+    "What I mean is that…",
+    "What I want to say later is…",
+    "I want to say what…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Said as IN-croyable, *C'est incroyable !* shows…",
+   "options": [
+    "an emphatic stress on the first syllable",
+    "a spelling mistake",
+    "a question"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est Léa ___ a gagné le concours.",
+   "answers": [
+    "qui"
+   ],
+   "hint": "It was Léa who won."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est moi qui ___ raison ! (avoir)",
+   "answers": [
+    "ai"
+   ],
+   "hint": "I'm the one who's right!"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est ce livre ___ je cherchais.",
+   "answers": [
+    "que"
+   ],
+   "hint": "That's the book I was looking for."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est à Lyon ___ j'ai fait mes études.",
+   "answers": [
+    "que"
+   ],
+   "hint": "It was in Lyon that I studied."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce ___ me plaît ici, c'est le calme.",
+   "answers": [
+    "qui"
+   ],
+   "hint": "What I like here is the peace and quiet."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce ___ je veux, c'est partir en vacances.",
+   "answers": [
+    "que"
+   ],
+   "hint": "What I want is to go on holiday."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce ___ j'ai besoin, c'est de repos.",
+   "answers": [
+    "dont"
+   ],
+   "hint": "What I need is rest."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce que je veux ___, c'est que ce n'est pas juste.",
+   "answers": [
+    "dire"
+   ],
+   "hint": "What I mean is that it isn't fair."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est absolument ___ !",
+   "answers": [
+    "faux"
+   ],
+   "hint": "That's absolutely wrong!"
+  },
+  {
+   "type": "translate",
+   "prompt": "It was Léa who won.",
+   "answers": [
+    "C'est Léa qui a gagné."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What I want is to leave.",
+   "answers": [
+    "Ce que je veux, c'est partir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What I need is rest.",
+   "answers": [
+    "Ce dont j'ai besoin, c'est de repos."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's tomorrow that we're leaving.",
+   "answers": [
+    "C'est demain qu'on part.",
+    "C'est demain que nous partons."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's incredible!",
+   "answers": [
+    "C'est incroyable !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What I like here is the peace and quiet.\"",
+   "answer": "Ce qui me plaît ici, c'est le calme."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It was in Lyon that I studied.\"",
+   "answer": "C'est à Lyon que j'ai fait mes études."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What I mean is that it isn't fair.\"",
+   "answer": "Ce que je veux dire, c'est que ce n'est pas juste."
+  }
+ ]
+}

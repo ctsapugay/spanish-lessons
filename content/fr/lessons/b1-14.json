@@ -1,0 +1,376 @@
+{
+ "sections": [
+  {
+   "heading": "Dont: whose, of which, about which",
+   "body": "*Dont* replaces **de + noun** in a relative clause. It covers several English words:\n\n- with verbs built with *de* — *parler de*, *avoir besoin de*, *se souvenir de*, *rêver de*: *C'est le livre **dont** je t'ai parlé.* (the book I told you about) *Voici l'outil **dont** j'ai besoin.* (the tool I need)\n- with adjectives + *de* — *fier de*, *content de*: *C'est un projet **dont** je suis fier.*\n- for possession — **whose**: *J'ai un ami **dont** le père est pilote.* (a friend whose father is a pilot) *C'est une ville **dont** les rues sont très étroites.*\n\nWord order after *dont* is subject + verb + rest: *l'homme dont **je connais** la fille* (the man whose daughter I know)."
+  },
+  {
+   "heading": "Lequel and its forms: after a preposition",
+   "body": "After a preposition (*avec, pour, sur, dans, sans, chez*…), for **things** use a form of *lequel*, which agrees with the noun:\n\n- *Voici l'ordinateur **avec lequel** je travaille.* (the computer I work with)\n- *C'est la raison **pour laquelle** je suis parti.* (the reason why I left)\n- *Les amis **chez lesquels** j'ai dormi…* (for people, *chez qui* is more usual: *les amis chez qui j'ai dormi*)\n\nWith *à* and *de*, *lequel* contracts: *à + lequel* → ***auquel***, *à + lesquels* → *auxquels*, *à + lesquelles* → *auxquelles* (*à laquelle* doesn't change): *Le concours **auquel** je participe…* (the competition I'm taking part in). *De + lequel* → *duquel*, *desquels*, *desquelles* — used after compound prepositions like *près de*, *à côté de*: *le parc **près duquel** j'habite*.\n\nFor **people**, after a preposition, *qui* is preferred: *la personne **avec qui** je travaille*.",
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "*lequel*",
+      "*laquelle*"
+     ],
+     [
+      "Plural",
+      "*lesquels*",
+      "*lesquelles*"
+     ]
+    ]
+   }
+  }
+ ],
+ "vocab": [
+  [
+   "dont",
+   "whose, of which, about which",
+   "dɔ̃"
+  ],
+  [
+   "lequel / laquelle",
+   "which (after a preposition)",
+   "lə.kɛl / la.kɛl"
+  ],
+  [
+   "lesquels / lesquelles",
+   "which (plural)",
+   "le.kɛl / le.kɛl"
+  ],
+  [
+   "auquel",
+   "to which",
+   "o.kɛl"
+  ],
+  [
+   "duquel",
+   "of which",
+   "dy.kɛl"
+  ],
+  [
+   "l'outil",
+   "the tool",
+   "lu.ti",
+   "m"
+  ],
+  [
+   "étroit / étroite",
+   "narrow",
+   "e.tʁwa / e.tʁwat"
+  ],
+  [
+   "le concours",
+   "the competition, the contest",
+   "lə kɔ̃.kuʁ"
+  ],
+  [
+   "la raison",
+   "the reason",
+   "la ʁɛ.zɔ̃"
+  ],
+  [
+   "le parc",
+   "the park",
+   "lə paʁk"
+  ],
+  [
+   "la personne",
+   "the person",
+   "la pɛʁ.sɔn"
+  ],
+  [
+   "l'entreprise",
+   "the company",
+   "lɑ̃.tʁə.pʁiz",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "C'est le livre dont je t'ai parlé.",
+   "It's the book I told you about."
+  ],
+  [
+   "Voici l'outil dont j'ai besoin.",
+   "Here's the tool I need."
+  ],
+  [
+   "C'est un projet dont je suis très fier.",
+   "It's a project I'm very proud of."
+  ],
+  [
+   "J'ai un ami dont le père est pilote.",
+   "I have a friend whose father is a pilot."
+  ],
+  [
+   "C'est une ville dont les rues sont très étroites.",
+   "It's a town whose streets are very narrow."
+  ],
+  [
+   "L'homme dont je connais la fille habite ici.",
+   "The man whose daughter I know lives here."
+  ],
+  [
+   "Voici l'ordinateur avec lequel je travaille.",
+   "Here's the computer I work with."
+  ],
+  [
+   "C'est la raison pour laquelle je suis parti.",
+   "That's the reason why I left."
+  ],
+  [
+   "Le concours auquel je participe est très difficile.",
+   "The competition I'm taking part in is very difficult."
+  ],
+  [
+   "Le parc près duquel j'habite est magnifique.",
+   "The park I live near is beautiful."
+  ],
+  [
+   "La personne avec qui je travaille est très sympa.",
+   "The person I work with is very nice."
+  ],
+  [
+   "C'est l'entreprise pour laquelle elle travaille.",
+   "It's the company she works for."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est le livre ___ je t'ai parlé.",
+   "options": [
+    "dont",
+    "que",
+    "qui"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*parler de* → *dont*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Voici l'outil ___ j'ai besoin.",
+   "options": [
+    "dont",
+    "que",
+    "lequel"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai un ami ___ le père est pilote.",
+   "options": [
+    "dont",
+    "qui",
+    "que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Voici l'ordinateur avec ___ je travaille.",
+   "options": [
+    "lequel",
+    "laquelle",
+    "qui"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est la raison pour ___ je suis parti.",
+   "options": [
+    "laquelle",
+    "lequel",
+    "dont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le concours ___ je participe est difficile.",
+   "options": [
+    "auquel",
+    "à lequel",
+    "dont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le parc près ___ j'habite est magnifique.",
+   "options": [
+    "duquel",
+    "dont",
+    "de lequel"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: La personne avec ___ je travaille est sympa.",
+   "options": [
+    "qui",
+    "que",
+    "dont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"A town whose streets are narrow\"",
+   "options": [
+    "une ville dont les rues sont étroites",
+    "une ville que les rues sont étroites",
+    "une ville qui ses rues sont étroites"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*à + lesquels* becomes…",
+   "options": [
+    "auxquels",
+    "à lesquels",
+    "desquels"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est le livre ___ je t'ai parlé.",
+   "answers": [
+    "dont"
+   ],
+   "hint": "It's the book I told you about."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un projet dont je suis très ___.",
+   "answers": [
+    "fier"
+   ],
+   "hint": "It's a project I'm very proud of."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai un ami ___ le père est pilote.",
+   "answers": [
+    "dont"
+   ],
+   "hint": "I have a friend whose father is a pilot."
+  },
+  {
+   "type": "fill",
+   "prompt": "Voici l'ordinateur avec ___ je travaille.",
+   "answers": [
+    "lequel"
+   ],
+   "hint": "Here's the computer I work with."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est la raison pour ___ je suis parti.",
+   "answers": [
+    "laquelle"
+   ],
+   "hint": "That's the reason why I left."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le concours ___ je participe est très difficile.",
+   "answers": [
+    "auquel"
+   ],
+   "hint": "The competition I'm taking part in…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le parc près ___ j'habite est magnifique.",
+   "answers": [
+    "duquel"
+   ],
+   "hint": "The park I live near is beautiful."
+  },
+  {
+   "type": "fill",
+   "prompt": "La personne avec ___ je travaille est très sympa.",
+   "answers": [
+    "qui"
+   ],
+   "hint": "The person I work with is very nice."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est une ville dont les rues sont très ___.",
+   "answers": [
+    "étroites"
+   ],
+   "hint": "a town whose streets are very narrow."
+  },
+  {
+   "type": "translate",
+   "prompt": "It's the book I need.",
+   "answers": [
+    "C'est le livre dont j'ai besoin."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have a friend whose mother is a doctor.",
+   "answers": [
+    "J'ai un ami dont la mère est médecin.",
+    "J'ai une amie dont la mère est médecin."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That's the reason why I left.",
+   "answers": [
+    "C'est la raison pour laquelle je suis parti.",
+    "C'est la raison pour laquelle je suis partie."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The person I work with is nice.",
+   "answers": [
+    "La personne avec qui je travaille est sympa.",
+    "La personne avec qui je travaille est gentille."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The man whose daughter I know lives here.\"",
+   "answer": "L'homme dont je connais la fille habite ici."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The competition I'm taking part in is very difficult.\"",
+   "answer": "Le concours auquel je participe est très difficile."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's the company she works for.\"",
+   "answer": "C'est l'entreprise pour laquelle elle travaille."
+  }
+ ]
+}
