@@ -1,0 +1,356 @@
+{
+ "sections": [
+  {
+   "heading": "Forming the gérondif",
+   "body": "The **gérondif** is *en* + the **present participle** (the -ant form). To form the participle, take the *nous* form of the present, remove **-ons**, add **-ant**:\n\n- *nous parlons* → *parlant* → ***en parlant***\n- *nous finissons* → *finissant* → *en finissant*\n- *nous faisons* → *faisant* → *en faisant*\n- *nous prenons* → *prenant* → *en prenant*\n\nThree irregular: *être* → *étant*, *avoir* → *ayant*, *savoir* → *sachant*. Spelling: *manger* → *en mangeant*, *commencer* → *en commençant*."
+  },
+  {
+   "heading": "What it expresses",
+   "body": "The gérondif always refers to the **subject of the main verb**, and can express:\n\n- **simultaneity** — two things at once: *Il chante **en prenant** sa douche.* (He sings while taking a shower.) *Ne parle pas **en mangeant !*** Add *tout* to stress a contrast: *Tout en travaillant beaucoup, elle trouve le temps de lire.* (While working a lot, she still finds time to read.)\n- **manner, means** — how: *Il est entré **en courant**.* (He ran in.) *J'ai appris le français **en regardant** des films.* (I learned French by watching films.)\n- **condition** — if: ***En partant** maintenant, tu arriveras à l'heure.* (If you leave now, you'll be on time.)\n- **time** — when: ***En arrivant** à la gare, j'ai vu Hugo.* (When I arrived at the station, I saw Hugo.)"
+  },
+  {
+   "heading": "Watch the subject",
+   "body": "The gérondif must have the same subject as the main verb: *J'ai vu Hugo en sortant du cinéma* means **I** was coming out of the cinema. If Hugo was, say *J'ai vu Hugo qui sortait du cinéma.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le gérondif",
+   "the gerund",
+   "lə ʒe.ʁɔ̃.dif"
+  ],
+  [
+   "en parlant",
+   "while speaking, by speaking",
+   "ɑ̃ paʁ.lɑ̃"
+  ],
+  [
+   "en faisant",
+   "while doing, by doing",
+   "ɑ̃ fə.zɑ̃"
+  ],
+  [
+   "étant",
+   "being",
+   "e.tɑ̃"
+  ],
+  [
+   "ayant",
+   "having",
+   "ɛ.jɑ̃"
+  ],
+  [
+   "sachant",
+   "knowing",
+   "sa.ʃɑ̃"
+  ],
+  [
+   "courir",
+   "to run",
+   "ku.ʁiʁ"
+  ],
+  [
+   "chanter",
+   "to sing",
+   "ʃɑ̃.te"
+  ],
+  [
+   "la douche",
+   "the shower",
+   "la duʃ"
+  ],
+  [
+   "tout en",
+   "while (at the same time)",
+   "tu.t‿ɑ̃"
+  ],
+  [
+   "sortir",
+   "to go out, to come out",
+   "sɔʁ.tiʁ"
+  ],
+  [
+   "apprendre",
+   "to learn",
+   "a.pʁɑ̃dʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Il chante en prenant sa douche.",
+   "He sings while taking a shower."
+  ],
+  [
+   "Ne parle pas en mangeant !",
+   "Don't talk while you're eating!"
+  ],
+  [
+   "Il est entré en courant.",
+   "He ran in."
+  ],
+  [
+   "J'ai appris le français en regardant des films.",
+   "I learned French by watching films."
+  ],
+  [
+   "En partant maintenant, tu arriveras à l'heure.",
+   "If you leave now, you'll be on time."
+  ],
+  [
+   "En arrivant à la gare, j'ai vu Hugo.",
+   "When I arrived at the station, I saw Hugo."
+  ],
+  [
+   "Tout en travaillant beaucoup, elle trouve le temps de lire.",
+   "While working a lot, she still finds time to read."
+  ],
+  [
+   "On apprend en faisant des erreurs.",
+   "You learn by making mistakes."
+  ],
+  [
+   "Elle écoute de la musique en travaillant.",
+   "She listens to music while she works."
+  ],
+  [
+   "En lisant cet article, j'ai compris le problème.",
+   "Reading this article, I understood the problem."
+  ],
+  [
+   "Il s'est blessé en faisant du ski.",
+   "He hurt himself skiing."
+  ],
+  [
+   "En étant patient, tu y arriveras.",
+   "By being patient, you'll get there."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "The present participle of *faire* is…",
+   "options": [
+    "faisant",
+    "faire",
+    "fait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The present participle of *avoir* is…",
+   "options": [
+    "ayant",
+    "avoir",
+    "eu"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai appris le français ___ des films.",
+   "options": [
+    "en regardant",
+    "en regarder",
+    "regardant en"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ maintenant, tu arriveras à l'heure.",
+   "options": [
+    "En partant",
+    "En partir",
+    "Partant en"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il est entré en courant* means…",
+   "options": [
+    "He ran in",
+    "He came in while running a business",
+    "He entered the race"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*En arrivant à la gare, j'ai vu Hugo* — who arrived at the station?",
+   "options": [
+    "I did",
+    "Hugo did",
+    "We both did"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tout en travaillant beaucoup, elle lit* stresses…",
+   "options": [
+    "a contrast: even though she works a lot",
+    "the cause of her reading",
+    "that she reads at work"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*On apprend en faisant des erreurs* means…",
+   "options": [
+    "You learn by making mistakes",
+    "You learn when others make mistakes",
+    "You learn to make mistakes"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The gérondif is formed with…",
+   "options": [
+    "en + present participle",
+    "à + infinitive",
+    "par + past participle"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il s'est blessé en faisant du ski* means…",
+   "options": [
+    "He hurt himself skiing",
+    "He blessed himself skiing",
+    "He was hurt by a skier"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il chante ___ prenant sa douche.",
+   "answers": [
+    "en"
+   ],
+   "hint": "He sings while taking a shower."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ne parle pas en ___ ! (manger)",
+   "answers": [
+    "mangeant"
+   ],
+   "hint": "Don't talk while you're eating!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est entré en ___. (courir)",
+   "answers": [
+    "courant"
+   ],
+   "hint": "He ran in."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai appris le français en ___ des films. (regarder)",
+   "answers": [
+    "regardant"
+   ],
+   "hint": "I learned French by watching films."
+  },
+  {
+   "type": "fill",
+   "prompt": "En ___ maintenant, tu arriveras à l'heure. (partir)",
+   "answers": [
+    "partant"
+   ],
+   "hint": "If you leave now, you'll be on time."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ en travaillant beaucoup, elle trouve le temps de lire.",
+   "answers": [
+    "Tout"
+   ],
+   "hint": "While working a lot…"
+  },
+  {
+   "type": "fill",
+   "prompt": "On apprend en ___ des erreurs. (faire)",
+   "answers": [
+    "faisant"
+   ],
+   "hint": "You learn by making mistakes."
+  },
+  {
+   "type": "fill",
+   "prompt": "En ___ cet article, j'ai compris le problème. (lire)",
+   "answers": [
+    "lisant"
+   ],
+   "hint": "Reading this article, I understood."
+  },
+  {
+   "type": "fill",
+   "prompt": "En ___ patient, tu y arriveras. (être)",
+   "answers": [
+    "étant"
+   ],
+   "hint": "By being patient, you'll get there."
+  },
+  {
+   "type": "translate",
+   "prompt": "Don't talk while eating! (to a friend)",
+   "answers": [
+    "Ne parle pas en mangeant !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I learned French by watching films.",
+   "answers": [
+    "J'ai appris le français en regardant des films."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He ran in.",
+   "answers": [
+    "Il est entré en courant."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She listens to music while working.",
+   "answers": [
+    "Elle écoute de la musique en travaillant."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "You learn by making mistakes.",
+   "answers": [
+    "On apprend en faisant des erreurs."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He hurt himself skiing.\"",
+   "answer": "Il s'est blessé en faisant du ski."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"When I arrived at the station, I saw Hugo.\"",
+   "answer": "En arrivant à la gare, j'ai vu Hugo."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"While working a lot, she still finds time to read.\"",
+   "answer": "Tout en travaillant beaucoup, elle trouve le temps de lire."
+  }
+ ]
+}

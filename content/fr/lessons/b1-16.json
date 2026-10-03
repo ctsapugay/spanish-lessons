@@ -1,0 +1,426 @@
+{
+ "sections": [
+  {
+   "heading": "Some, several, each",
+   "body": "Indefinite words come in two kinds: **determiners**, before a noun, and **pronouns**, which stand alone.\n\n- *J'ai quelques amis à Lyon. — J'en ai quelques-uns aussi.*\n- *Plusieurs personnes sont venues.* (Several people came.)\n- *Certains étudiants travaillent le soir ; certains préfèrent le matin.*\n- *Chaque jour est différent.* — *Chacun fait ce qu'il veut.* (Everyone does what they like.)\n- *La plupart des gens sont d'accord.* (Most people agree — note *des* and a plural verb.)\n- *Tu peux prendre n'importe quel livre.* (any book you like)",
+   "table": {
+    "head": [
+     "Determiner (+ noun)",
+     "Pronoun (alone)",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "*quelques*",
+      "*quelques-uns / quelques-unes*",
+      "a few, some"
+     ],
+     [
+      "*plusieurs*",
+      "*plusieurs*",
+      "several"
+     ],
+     [
+      "*certains / certaines*",
+      "*certains / certaines*",
+      "some, certain"
+     ],
+     [
+      "*chaque*",
+      "*chacun / chacune*",
+      "each, each one"
+     ],
+     [
+      "*aucun / aucune*",
+      "*aucun / aucune*",
+      "no, none"
+     ],
+     [
+      "*n'importe quel(le)*",
+      "*n'importe lequel / laquelle*",
+      "any (at all)"
+     ],
+     [
+      "*la plupart des*",
+      "*la plupart*",
+      "most"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Ne… que: only",
+   "body": "*Ne… que* means \"only\" — it isn't really negative. *Que* goes right before the thing restricted: *Je **n'**ai **qu'**un frère.* (I've only got one brother.) *Il **ne** mange **que** des légumes.* *Je **n'**ai dormi **que** trois heures.* It means the same as *seulement*: *J'ai seulement un frère.*"
+  },
+  {
+   "heading": "Ne… aucun(e): not a single, no",
+   "body": "*Aucun / aucune* agrees with the noun and is almost always singular: *Je **n'**ai **aucune** idée.* (I've no idea.) *Il **n'**y a **aucun** problème.* As a subject: ***Aucun** étudiant **n'**est venu.* As a pronoun: *Tu as des questions ? — Non, **aucune**.*"
+  },
+  {
+   "heading": "Ni… ni: neither… nor",
+   "body": "*Je **n'**aime **ni** le thé **ni** le café.* (I like neither tea nor coffee.) *Il **ne** parle **ni** anglais **ni** espagnol.* After *ni… ni*, the articles *un, une, des, du, de la* disappear: *Je n'ai ni frère ni sœur.* (I have neither brother nor sister.) Agreeing with a negative: *Moi non plus.*"
+  }
+ ],
+ "vocab": [
+  [
+   "quelques",
+   "a few, some",
+   "kɛl.kə"
+  ],
+  [
+   "plusieurs",
+   "several",
+   "ply.zjœʁ"
+  ],
+  [
+   "certains / certaines",
+   "some, certain (ones)",
+   "sɛʁ.tɛ̃ / sɛʁ.tɛn"
+  ],
+  [
+   "chacun / chacune",
+   "each one, everyone",
+   "ʃa.kœ̃ / ʃa.kyn"
+  ],
+  [
+   "aucun / aucune",
+   "no, not a single, none",
+   "o.kœ̃ / o.kyn"
+  ],
+  [
+   "la plupart",
+   "most",
+   "la ply.paʁ"
+  ],
+  [
+   "n'importe quel / n'importe quelle",
+   "any (at all)",
+   "nɛ̃.pɔʁt kɛl / nɛ̃.pɔʁt kɛl"
+  ],
+  [
+   "ne… que",
+   "only (ne + verb + que)",
+   "nə kə"
+  ],
+  [
+   "seulement",
+   "only (adverb)",
+   "sœl.mɑ̃"
+  ],
+  [
+   "ni… ni",
+   "neither… nor",
+   "ni ni"
+  ],
+  [
+   "les gens",
+   "people",
+   "le ʒɑ̃",
+   "m"
+  ],
+  [
+   "la question",
+   "the question",
+   "la kɛs.tjɔ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "J'ai quelques amis à Lyon.",
+   "I have a few friends in Lyon."
+  ],
+  [
+   "Plusieurs personnes sont venues à la réunion.",
+   "Several people came to the meeting."
+  ],
+  [
+   "Certains étudiants travaillent le soir.",
+   "Some students work in the evening."
+  ],
+  [
+   "Chaque jour est différent.",
+   "Every day is different."
+  ],
+  [
+   "Chacun fait ce qu'il veut.",
+   "Everyone does what they want."
+  ],
+  [
+   "La plupart des gens sont d'accord.",
+   "Most people agree."
+  ],
+  [
+   "Tu peux prendre n'importe quel livre.",
+   "You can take any book you like."
+  ],
+  [
+   "Je n'ai qu'un frère.",
+   "I only have one brother."
+  ],
+  [
+   "Je n'ai dormi que trois heures cette nuit.",
+   "I only slept three hours last night."
+  ],
+  [
+   "Je n'ai aucune idée.",
+   "I have no idea."
+  ],
+  [
+   "Il n'y a aucun problème.",
+   "There's no problem at all."
+  ],
+  [
+   "Je n'aime ni le thé ni le café.",
+   "I like neither tea nor coffee."
+  ],
+  [
+   "Je n'ai ni frère ni sœur.",
+   "I have neither brother nor sister."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I only have one brother\"",
+   "options": [
+    "Je n'ai qu'un frère.",
+    "Je n'ai pas qu'un frère.",
+    "Je n'ai un frère que."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I have no idea\"",
+   "options": [
+    "Je n'ai aucune idée.",
+    "Je n'ai aucun idée.",
+    "Je n'ai pas aucune idée."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*idée* is feminine: *aucune*."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I like neither tea nor coffee\"",
+   "options": [
+    "Je n'aime ni le thé ni le café.",
+    "Je n'aime pas ni le thé ni le café.",
+    "J'aime ni le thé ni le café pas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I have neither brother nor sister\"",
+   "options": [
+    "Je n'ai ni frère ni sœur.",
+    "Je n'ai ni un frère ni une sœur.",
+    "Je n'ai pas de frère ni de sœur ni."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Most people agree\"",
+   "options": [
+    "La plupart des gens sont d'accord.",
+    "La plupart de gens est d'accord.",
+    "La plupart les gens sont d'accord."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ jour est différent.",
+   "options": [
+    "Chaque",
+    "Chacun",
+    "Certains"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ fait ce qu'il veut.",
+   "options": [
+    "Chacun",
+    "Chaque",
+    "Quelques"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ personnes sont venues.",
+   "options": [
+    "Plusieurs",
+    "Chaque",
+    "Aucune"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*ne… que* means…",
+   "options": [
+    "only",
+    "nothing",
+    "not any more"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu as des questions ? — Non, aucune.* means…",
+   "options": [
+    "No, none.",
+    "No, a few.",
+    "No, each one."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*n'importe quel livre* means…",
+   "options": [
+    "any book (at all)",
+    "an important book",
+    "not that book"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ amis à Lyon.",
+   "answers": [
+    "quelques"
+   ],
+   "hint": "I have a few friends in Lyon."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ personnes sont venues à la réunion.",
+   "answers": [
+    "Plusieurs"
+   ],
+   "hint": "Several people came to the meeting."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ fait ce qu'il veut.",
+   "answers": [
+    "Chacun"
+   ],
+   "hint": "Everyone does what they want."
+  },
+  {
+   "type": "fill",
+   "prompt": "La ___ des gens sont d'accord.",
+   "answers": [
+    "plupart"
+   ],
+   "hint": "Most people agree."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'ai ___ un frère.",
+   "answers": [
+    "qu'"
+   ],
+   "hint": "I only have one brother."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'ai ___ idée.",
+   "answers": [
+    "aucune"
+   ],
+   "hint": "I have no idea."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il n'y a ___ problème.",
+   "answers": [
+    "aucun"
+   ],
+   "hint": "There's no problem at all."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'aime ___ le thé ni le café.",
+   "answers": [
+    "ni"
+   ],
+   "hint": "I like neither tea nor coffee."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu peux prendre n'___ quel livre.",
+   "answers": [
+    "importe"
+   ],
+   "hint": "You can take any book you like."
+  },
+  {
+   "type": "translate",
+   "prompt": "I have no idea.",
+   "answers": [
+    "Je n'ai aucune idée.",
+    "Aucune idée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I only have one sister.",
+   "answers": [
+    "Je n'ai qu'une sœur.",
+    "J'ai seulement une sœur."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Most people agree.",
+   "answers": [
+    "La plupart des gens sont d'accord."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Several people came.",
+   "answers": [
+    "Plusieurs personnes sont venues."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Every day is different.",
+   "answers": [
+    "Chaque jour est différent."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I only slept three hours last night.\"",
+   "answer": "Je n'ai dormi que trois heures cette nuit."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I like neither tea nor coffee.\"",
+   "answer": "Je n'aime ni le thé ni le café."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Some students work in the evening.\"",
+   "answer": "Certains étudiants travaillent le soir."
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{
+ "sections": [
+  {
+   "heading": "Forming the passive",
+   "body": "In the **passive**, the object of the action becomes the subject: *Le chat mange la souris* → *La souris **est mangée** par le chat.* (The mouse is eaten by the cat.)\n\nPassive = *être* (in the needed tense) + past participle, which **agrees** with the subject:\n\nThe agent (\"by…\") is introduced by *par*: *Ce tableau a été peint **par** Monet.* With verbs of feeling or description, *de* is common: *Elle est aimée **de** tous.* *La table est couverte **de** livres.*",
+   "table": {
+    "head": [
+     "Tense",
+     "Example"
+    ],
+    "rows": [
+     [
+      "présent",
+      "*La maison **est construite** en 2025.* — The house is being built…"
+     ],
+     [
+      "passé composé",
+      "*La maison **a été construite** en 1900.* — The house was built in 1900."
+     ],
+     [
+      "imparfait",
+      "*Le pont **était fermé**.* — The bridge was closed."
+     ],
+     [
+      "futur",
+      "*Les résultats **seront publiés** demain.* — The results will be published tomorrow."
+     ],
+     [
+      "plus-que-parfait",
+      "*La lettre **avait été envoyée**.* — The letter had been sent."
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "When to use it",
+   "body": "The passive is common in news, formal writing and descriptions, to focus on what happened rather than who did it: *Deux personnes ont été blessées.* (Two people were injured.) *Le musée a été rénové.* *La réunion est annulée.*"
+  },
+  {
+   "heading": "Avoiding the passive",
+   "body": "In everyday French, the passive is less used than in English. Two common alternatives:\n\n- ***on*** + active verb: *On a volé ma voiture.* (My car has been stolen.) *On parle français ici.* (French is spoken here.)\n- a **pronominal verb**: *Ce vin **se boit** frais.* (This wine is drunk cool.) *Ça **se dit** comment en français ?* (How is that said in French?) *Les billets **se vendent** en ligne.*\n\nOnly verbs with a direct object can become passive: ~~*Il a été téléphoné*~~ is impossible — say *On lui a téléphoné.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le passif",
+   "the passive",
+   "lə pa.sif"
+  ],
+  [
+   "construire",
+   "to build",
+   "kɔ̃s.tʁɥiʁ"
+  ],
+  [
+   "construit / construite",
+   "built",
+   "kɔ̃s.tʁɥi / kɔ̃s.tʁɥit"
+  ],
+  [
+   "publier",
+   "to publish",
+   "py.bli.je"
+  ],
+  [
+   "peindre",
+   "to paint",
+   "pɛ̃dʁ"
+  ],
+  [
+   "le tableau",
+   "the painting",
+   "lə ta.blo"
+  ],
+  [
+   "blessé / blessée",
+   "injured",
+   "ble.se / ble.se"
+  ],
+  [
+   "rénover",
+   "to renovate",
+   "ʁe.nɔ.ve"
+  ],
+  [
+   "couvert / couverte",
+   "covered",
+   "ku.vɛʁ / ku.vɛʁt"
+  ],
+  [
+   "le résultat",
+   "the result",
+   "lə ʁe.zyl.ta"
+  ],
+  [
+   "par",
+   "by",
+   "paʁ"
+  ],
+  [
+   "l'auteur",
+   "the author",
+   "lo.tœʁ",
+   "m"
+  ],
+  [
+   "découvrir",
+   "to discover",
+   "de.ku.vʁiʁ"
+  ],
+  [
+   "écrire",
+   "to write",
+   "e.kʁiʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "La maison a été construite en 1900.",
+   "The house was built in 1900."
+  ],
+  [
+   "Ce tableau a été peint par Monet.",
+   "This painting was painted by Monet."
+  ],
+  [
+   "Les résultats seront publiés demain.",
+   "The results will be published tomorrow."
+  ],
+  [
+   "Deux personnes ont été blessées dans l'accident.",
+   "Two people were injured in the accident."
+  ],
+  [
+   "Le musée a été rénové l'année dernière.",
+   "The museum was renovated last year."
+  ],
+  [
+   "La réunion est annulée.",
+   "The meeting is cancelled."
+  ],
+  [
+   "Ce livre a été écrit par une jeune autrice.",
+   "This book was written by a young author."
+  ],
+  [
+   "La table est couverte de papiers.",
+   "The table is covered with papers."
+  ],
+  [
+   "Elle est aimée de tous ses élèves.",
+   "She's loved by all her pupils."
+  ],
+  [
+   "On a volé ma voiture cette nuit.",
+   "My car was stolen last night."
+  ],
+  [
+   "On parle français et anglais ici.",
+   "French and English are spoken here."
+  ],
+  [
+   "Ça se dit comment en français ?",
+   "How do you say that in French?"
+  ],
+  [
+   "Ce vin se boit frais.",
+   "This wine is drunk cool."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Passive of *Monet a peint ce tableau*:",
+   "options": [
+    "Ce tableau a été peint par Monet.",
+    "Ce tableau a peint par Monet.",
+    "Ce tableau est été peint de Monet."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: La maison a été ___ en 1900.",
+   "options": [
+    "construite",
+    "construit",
+    "construits"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*maison* is feminine: the participle agrees."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Les résultats ___ publiés demain.",
+   "options": [
+    "seront",
+    "auront",
+    "sont été"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Deux personnes ont été ___.",
+   "options": [
+    "blessées",
+    "blessé",
+    "blessés"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"My car was stolen\" (everyday French)",
+   "options": [
+    "On a volé ma voiture.",
+    "Ma voiture a été volé.",
+    "On a été volé ma voiture."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"French is spoken here\"",
+   "options": [
+    "On parle français ici.",
+    "Le français est parlé par on ici.",
+    "On est parlé français ici."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça se dit comment en français ?* means…",
+   "options": [
+    "How do you say that in French?",
+    "How does it tell in French?",
+    "What does it say in French?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The passive is formed with…",
+   "options": [
+    "être + past participle",
+    "avoir + past participle",
+    "se + verb"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The agent in a passive is usually introduced by…",
+   "options": [
+    "par",
+    "pour",
+    "avec"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which verb can't be made passive?",
+   "options": [
+    "téléphoner à",
+    "construire",
+    "publier"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "La maison a été ___ en 1900. (construire)",
+   "answers": [
+    "construite"
+   ],
+   "hint": "The house was built in 1900."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce tableau a été peint ___ Monet.",
+   "answers": [
+    "par"
+   ],
+   "hint": "This painting was painted by Monet."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les résultats seront ___ demain. (publier)",
+   "answers": [
+    "publiés"
+   ],
+   "hint": "The results will be published tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "Deux personnes ont été ___ dans l'accident.",
+   "answers": [
+    "blessées"
+   ],
+   "hint": "Two people were injured."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le musée a ___ rénové l'année dernière.",
+   "answers": [
+    "été"
+   ],
+   "hint": "The museum was renovated last year."
+  },
+  {
+   "type": "fill",
+   "prompt": "La table est couverte ___ papiers.",
+   "answers": [
+    "de"
+   ],
+   "hint": "The table is covered with papers."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ a volé ma voiture cette nuit.",
+   "answers": [
+    "On"
+   ],
+   "hint": "My car was stolen last night."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça se ___ comment en français ?",
+   "answers": [
+    "dit"
+   ],
+   "hint": "How do you say that in French?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce vin se ___ frais. (boire)",
+   "answers": [
+    "boit"
+   ],
+   "hint": "This wine is drunk cool."
+  },
+  {
+   "type": "translate",
+   "prompt": "The house was built in 1900.",
+   "answers": [
+    "La maison a été construite en 1900."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The meeting is cancelled.",
+   "answers": [
+    "La réunion est annulée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My bike was stolen.",
+   "answers": [
+    "On a volé mon vélo.",
+    "Mon vélo a été volé."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "How do you say that in French?",
+   "answers": [
+    "Ça se dit comment en français ?",
+    "Comment ça se dit en français ?",
+    "Comment dit-on ça en français ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "French is spoken here.",
+   "answers": [
+    "On parle français ici.",
+    "Ici, on parle français."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"This book was written by a young author.\"",
+   "answer": "Ce livre a été écrit par une jeune autrice."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The results will be published tomorrow.\"",
+   "answer": "Les résultats seront publiés demain."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Two people were injured in the accident.\"",
+   "answer": "Deux personnes ont été blessées dans l'accident."
+  }
+ ]
+}
