@@ -1,0 +1,365 @@
+{
+ "sections": [
+  {
+   "heading": "Real possibilities: si + présent",
+   "body": "When the condition is realistic, use *si* + **présent**, and the **présent**, **futur** or **imperative** in the other half:\n\n- *S'il fait beau demain, on ira à la plage.* (If it's nice tomorrow, we'll go to the beach.)\n- *Si tu as faim, il y a du pain.* (If you're hungry, there's bread.)\n- *Si tu vois Léa, dis-lui bonjour.*\n\nNever the futur after *si* meaning \"if\": ~~*S'il fera beau*~~. (*Si* becomes *s'* only before *il* and *ils*: *s'il*, but *si elle*.)"
+  },
+  {
+   "heading": "Imaginary situations: si + imparfait → conditionnel",
+   "body": "When the condition is unlikely, imaginary or contrary to the present facts, use *si* + **imparfait** and the **conditionnel** in the other half:\n\n- *Si j'avais plus de temps, j'apprendrais le piano.* (If I had more time, I'd learn the piano.)\n- *Si j'étais riche, je ferais le tour du monde.*\n- *Qu'est-ce que tu ferais si tu gagnais au loto ?* (…if you won the lottery?)\n- *Si j'étais toi, je n'hésiterais pas.* (If I were you…)\n\nThe two halves can swap places: *Je ferais le tour du monde si j'étais riche.* But the **conditional never goes after si** (meaning \"if\")."
+  },
+  {
+   "heading": "Making hypotheses",
+   "body": "To guess or imagine: *Imaginons que…* (Let's imagine that…), *Et si… ?* (What if…?), *Supposons que…*, *Peut-être que…* (Perhaps…), *Il est possible que…* (you'll see this one with the subjunctive). *Et si le train était en retard ? — Dans ce cas, on prendrait un taxi.* (In that case…)"
+  }
+ ],
+ "vocab": [
+  [
+   "si",
+   "if",
+   "si"
+  ],
+  [
+   "riche",
+   "rich",
+   "ʁiʃ"
+  ],
+  [
+   "le tour du monde",
+   "a trip round the world",
+   "lə tuʁ dy mɔ̃d"
+  ],
+  [
+   "gagner au loto",
+   "to win the lottery",
+   "ɡa.ɲe o lo.to"
+  ],
+  [
+   "imaginer",
+   "to imagine",
+   "i.ma.ʒi.ne"
+  ],
+  [
+   "supposer",
+   "to suppose",
+   "sy.po.ze"
+  ],
+  [
+   "dans ce cas",
+   "in that case",
+   "dɑ̃ sə ka"
+  ],
+  [
+   "peut-être",
+   "perhaps, maybe",
+   "pø.tɛtʁ"
+  ],
+  [
+   "le temps libre",
+   "free time",
+   "lə tɑ̃ libʁ"
+  ],
+  [
+   "pouvoir",
+   "to be able to",
+   "pu.vwaʁ"
+  ],
+  [
+   "changer",
+   "to change",
+   "ʃɑ̃.ʒe"
+  ],
+  [
+   "le monde",
+   "the world",
+   "lə mɔ̃d"
+  ]
+ ],
+ "examples": [
+  [
+   "S'il fait beau demain, on ira à la plage.",
+   "If it's nice tomorrow, we'll go to the beach."
+  ],
+  [
+   "Si tu as faim, il y a du pain dans la cuisine.",
+   "If you're hungry, there's bread in the kitchen."
+  ],
+  [
+   "Si tu vois Léa, dis-lui bonjour.",
+   "If you see Léa, say hello to her."
+  ],
+  [
+   "Si j'avais plus de temps, j'apprendrais le piano.",
+   "If I had more time, I'd learn the piano."
+  ],
+  [
+   "Si j'étais riche, je ferais le tour du monde.",
+   "If I were rich, I'd travel round the world."
+  ],
+  [
+   "Qu'est-ce que tu ferais si tu gagnais au loto ?",
+   "What would you do if you won the lottery?"
+  ],
+  [
+   "Si j'étais toi, je n'hésiterais pas.",
+   "If I were you, I wouldn't hesitate."
+  ],
+  [
+   "Je viendrais avec plaisir si j'étais libre.",
+   "I'd come with pleasure if I were free."
+  ],
+  [
+   "Et si le train était en retard ? — Dans ce cas, on prendrait un taxi.",
+   "And if the train was late? — In that case, we'd take a taxi."
+  ],
+  [
+   "Imaginons que tu habites à Paris.",
+   "Let's imagine you live in Paris."
+  ],
+  [
+   "Si elle pouvait, elle changerait de travail.",
+   "If she could, she'd change jobs."
+  ],
+  [
+   "S'ils viennent, on mangera dans le jardin.",
+   "If they come, we'll eat in the garden."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: S'il ___ beau demain, on ira à la plage.",
+   "options": [
+    "fait",
+    "fera",
+    "ferait"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "After *si* (if), never the future."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Si j'avais plus de temps, j'___ le piano.",
+   "options": [
+    "apprendrais",
+    "apprendrai",
+    "apprends"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Si j'___ riche, je ferais le tour du monde.",
+   "options": [
+    "étais",
+    "serais",
+    "suis"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Qu'est-ce que tu ferais si tu ___ au loto ?",
+   "options": [
+    "gagnais",
+    "gagnerais",
+    "gagnes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: S'ils viennent, on ___ dans le jardin.",
+   "options": [
+    "mangera",
+    "mangerait",
+    "mangeait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which sentence is wrong?",
+   "options": [
+    "Si j'aurais le temps, je viendrais.",
+    "Si j'avais le temps, je viendrais.",
+    "Si j'ai le temps, je viendrai."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The conditional never goes after *si* meaning \"if\"."
+  },
+  {
+   "type": "mc",
+   "prompt": "*si* becomes *s'* before…",
+   "options": [
+    "il and ils",
+    "any vowel",
+    "elle and on"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Si j'étais toi* means…",
+   "options": [
+    "If I were you",
+    "If I was with you",
+    "If you were me"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*dans ce cas* means…",
+   "options": [
+    "in that case",
+    "in this box",
+    "in any case"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which describes an imaginary situation?",
+   "options": [
+    "Si j'étais riche, je voyagerais.",
+    "S'il pleut, je reste ici.",
+    "Si tu veux, viens."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "S'il ___ beau demain, on ira à la plage. (faire)",
+   "answers": [
+    "fait"
+   ],
+   "hint": "If it's nice tomorrow, we'll go to the beach."
+  },
+  {
+   "type": "fill",
+   "prompt": "Si tu vois Léa, ___-lui bonjour. (dire)",
+   "answers": [
+    "dis"
+   ],
+   "hint": "say hello to her."
+  },
+  {
+   "type": "fill",
+   "prompt": "Si j'avais plus de temps, j'___ le piano. (apprendre)",
+   "answers": [
+    "apprendrais"
+   ],
+   "hint": "I'd learn the piano."
+  },
+  {
+   "type": "fill",
+   "prompt": "Si j'___ riche, je ferais le tour du monde. (être)",
+   "answers": [
+    "étais"
+   ],
+   "hint": "If I were rich…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'est-ce que tu ferais si tu ___ au loto ? (gagner)",
+   "answers": [
+    "gagnais"
+   ],
+   "hint": "if you won the lottery?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Si j'étais toi, je n'___ pas. (hésiter)",
+   "answers": [
+    "hésiterais"
+   ],
+   "hint": "I wouldn't hesitate."
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans ce ___, on prendrait un taxi.",
+   "answers": [
+    "cas"
+   ],
+   "hint": "In that case, we'd take a taxi."
+  },
+  {
+   "type": "fill",
+   "prompt": "Si elle ___, elle changerait de travail. (pouvoir)",
+   "answers": [
+    "pouvait"
+   ],
+   "hint": "If she could, she'd change jobs."
+  },
+  {
+   "type": "fill",
+   "prompt": "S'ils viennent, on ___ dans le jardin. (manger)",
+   "answers": [
+    "mangera"
+   ],
+   "hint": "we'll eat in the garden."
+  },
+  {
+   "type": "translate",
+   "prompt": "If I were rich, I'd travel.",
+   "answers": [
+    "Si j'étais riche, je voyagerais."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "If it rains, I'll stay at home.",
+   "answers": [
+    "S'il pleut, je resterai à la maison.",
+    "S'il pleut, je reste à la maison."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "If I were you, I wouldn't hesitate.",
+   "answers": [
+    "Si j'étais toi, je n'hésiterais pas.",
+    "À ta place, je n'hésiterais pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What would you do? (to a friend)",
+   "answers": [
+    "Qu'est-ce que tu ferais ?",
+    "Tu ferais quoi ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "In that case, we'd take a taxi.",
+   "answers": [
+    "Dans ce cas, on prendrait un taxi.",
+    "Dans ce cas, nous prendrions un taxi."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"If I had more time, I'd learn the piano.\"",
+   "answer": "Si j'avais plus de temps, j'apprendrais le piano."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"If it's nice tomorrow, we'll go to the beach.\"",
+   "answer": "S'il fait beau demain, on ira à la plage."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What would you do if you won the lottery?\"",
+   "answer": "Qu'est-ce que tu ferais si tu gagnais au loto ?"
+  }
+ ]
+}

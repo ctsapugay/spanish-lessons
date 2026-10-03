@@ -1,0 +1,374 @@
+{
+ "sections": [
+  {
+   "heading": "Asking for advice",
+   "body": "- *Qu'est-ce que tu ferais à ma place ?* — What would you do in my place?\n- *Tu me conseilles quoi ?* / *Qu'est-ce que tu me conseilles ?*\n- *À ton avis, je devrais… ?* — Do you think I should…?\n- *J'hésite entre… et…* — I can't decide between… and…"
+  },
+  {
+   "heading": "Giving advice with the conditional",
+   "body": "- *Tu devrais* + infinitive — You should: *Tu devrais en parler à ton chef.*\n- *Tu pourrais* + infinitive — You could: *Tu pourrais lui écrire.*\n- *À ta place, je* + conditional — If I were you, I'd…: *À ta place, j'accepterais.*\n- *Moi, je* + conditional — Personally, I'd…: *Moi, je partirais.*\n- *Il vaudrait mieux* + infinitive — It would be better to: *Il vaudrait mieux attendre.*\n- *Ce serait bien de…* / *Ce serait mieux de…*\n\nSofter than the imperative (*Pars !*) or *il faut* (*Il faut partir*), these leave the decision to the other person."
+  },
+  {
+   "heading": "Suggesting with si + imparfait",
+   "body": "*Si* + **imparfait** as a question makes a friendly suggestion: *Et si on allait au cinéma ?* (How about going…?) *Si tu essayais encore une fois ?* (Why don't you try once more?) *Si on commandait une pizza ?*"
+  },
+  {
+   "heading": "Reacting to advice",
+   "body": "*C'est une bonne idée, merci.* — *Tu as raison, je vais le faire.* — *Je vais y réfléchir.* (I'll think about it.) — *Je ne suis pas sûr(e) que ce soit une bonne idée.* (I'm not sure it's a good idea — a subjunctive you'll meet soon.) — *Facile à dire !* (Easy to say!)"
+  }
+ ],
+ "vocab": [
+  [
+   "à ma place",
+   "in my place, if you were me",
+   "a ma plas"
+  ],
+  [
+   "conseiller",
+   "to advise",
+   "kɔ̃.se.je"
+  ],
+  [
+   "hésiter",
+   "to hesitate, to be unsure",
+   "e.zi.te"
+  ],
+  [
+   "tu devrais",
+   "you should",
+   "ty də.vʁɛ"
+  ],
+  [
+   "tu pourrais",
+   "you could",
+   "ty pu.ʁɛ"
+  ],
+  [
+   "il vaudrait mieux",
+   "it would be better",
+   "il vo.dʁɛ mjø"
+  ],
+  [
+   "accepter",
+   "to accept",
+   "ak.sɛp.te"
+  ],
+  [
+   "réfléchir",
+   "to think (carefully), to reflect",
+   "ʁe.fle.ʃiʁ"
+  ],
+  [
+   "commander",
+   "to order",
+   "kɔ.mɑ̃.de"
+  ],
+  [
+   "facile",
+   "easy",
+   "fa.sil"
+  ],
+  [
+   "difficile",
+   "difficult",
+   "di.fi.sil"
+  ],
+  [
+   "la décision",
+   "the decision",
+   "la de.si.zjɔ̃"
+  ],
+  [
+   "proposer",
+   "to offer, to suggest",
+   "pʁɔ.po.ze"
+  ]
+ ],
+ "examples": [
+  [
+   "Qu'est-ce que tu ferais à ma place ?",
+   "What would you do in my place?"
+  ],
+  [
+   "J'hésite entre deux offres d'emploi.",
+   "I can't decide between two job offers."
+  ],
+  [
+   "Tu devrais en parler à ton chef.",
+   "You should talk to your boss about it."
+  ],
+  [
+   "Tu pourrais lui écrire un message.",
+   "You could write him a message."
+  ],
+  [
+   "À ta place, j'accepterais tout de suite.",
+   "If I were you, I'd accept right away."
+  ],
+  [
+   "Moi, je partirais en vacances.",
+   "Personally, I'd go on holiday."
+  ],
+  [
+   "Il vaudrait mieux attendre demain.",
+   "It would be better to wait until tomorrow."
+  ],
+  [
+   "Et si on allait au cinéma ce soir ?",
+   "How about going to the cinema tonight?"
+  ],
+  [
+   "Si on commandait une pizza ?",
+   "Shall we order a pizza?"
+  ],
+  [
+   "Si tu essayais encore une fois ?",
+   "Why don't you try once more?"
+  ],
+  [
+   "Merci, je vais y réfléchir.",
+   "Thanks, I'll think about it."
+  ],
+  [
+   "C'est une décision difficile.",
+   "It's a difficult decision."
+  ],
+  [
+   "Facile à dire !",
+   "Easy to say!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"You should talk to your boss\"",
+   "options": [
+    "Tu devrais parler à ton chef.",
+    "Tu dois parler à ton chef demain.",
+    "Tu devras parler à ton chef."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"If I were you, I'd accept\"",
+   "options": [
+    "À ta place, j'accepterais.",
+    "À ta place, j'accepterai.",
+    "À ta place, j'accepte."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"It would be better to wait\"",
+   "options": [
+    "Il vaudrait mieux attendre.",
+    "Il vaut mieux attendait.",
+    "Il faudrait mieux attendre."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"How about going to the cinema?\"",
+   "options": [
+    "Et si on allait au cinéma ?",
+    "Et si on ira au cinéma ?",
+    "Et si on irait au cinéma ?"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "After *si*: imparfait, never conditional."
+  },
+  {
+   "type": "mc",
+   "prompt": "The advice that leaves the decision most to the other person is…",
+   "options": [
+    "Tu pourrais lui écrire.",
+    "Écris-lui !",
+    "Il faut lui écrire."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je vais y réfléchir* means…",
+   "options": [
+    "I'll think about it",
+    "I'll reflect it",
+    "I'll go back there"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'hésite entre deux offres* means…",
+   "options": [
+    "I can't decide between two offers",
+    "I hate two offers",
+    "I accept both offers"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Facile à dire !* means…",
+   "options": [
+    "Easy to say!",
+    "Easy to do!",
+    "Say it easily!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Qu'est-ce que tu ferais à ma place ?* means…",
+   "options": [
+    "What would you do in my place?",
+    "What are you doing at my place?",
+    "What did you do at my house?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Si on ___ une pizza ?",
+   "options": [
+    "commandait",
+    "commanderait",
+    "commandera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'est-ce que tu ___ à ma place ? (faire)",
+   "answers": [
+    "ferais"
+   ],
+   "hint": "What would you do in my place?"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'___ entre deux offres d'emploi. (hésiter)",
+   "answers": [
+    "hésite"
+   ],
+   "hint": "I can't decide between two job offers."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ en parler à ton chef. (devoir)",
+   "answers": [
+    "devrais"
+   ],
+   "hint": "You should talk to your boss about it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ lui écrire un message. (pouvoir)",
+   "answers": [
+    "pourrais"
+   ],
+   "hint": "You could write him a message."
+  },
+  {
+   "type": "fill",
+   "prompt": "À ta place, j'___ tout de suite. (accepter)",
+   "answers": [
+    "accepterais"
+   ],
+   "hint": "If I were you, I'd accept right away."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ mieux attendre demain.",
+   "answers": [
+    "vaudrait"
+   ],
+   "hint": "It would be better to wait until tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "Et si on ___ au cinéma ce soir ? (aller)",
+   "answers": [
+    "allait"
+   ],
+   "hint": "How about going to the cinema tonight?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Merci, je vais y ___.",
+   "answers": [
+    "réfléchir"
+   ],
+   "hint": "Thanks, I'll think about it."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est une ___ difficile.",
+   "answers": [
+    "décision"
+   ],
+   "hint": "It's a difficult decision."
+  },
+  {
+   "type": "translate",
+   "prompt": "You should rest. (to a friend)",
+   "answers": [
+    "Tu devrais te reposer."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "If I were you, I'd leave.",
+   "answers": [
+    "À ta place, je partirais.",
+    "À votre place, je partirais."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'll think about it.",
+   "answers": [
+    "Je vais y réfléchir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "How about ordering a pizza?",
+   "answers": [
+    "Et si on commandait une pizza ?",
+    "Si on commandait une pizza ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It would be better to wait.",
+   "answers": [
+    "Il vaudrait mieux attendre."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"If I were you, I'd accept right away.\"",
+   "answer": "À ta place, j'accepterais tout de suite."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It would be better to wait until tomorrow.\"",
+   "answer": "Il vaudrait mieux attendre demain."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What would you do in my place?\"",
+   "answer": "Qu'est-ce que tu ferais à ma place ?"
+  }
+ ]
+}

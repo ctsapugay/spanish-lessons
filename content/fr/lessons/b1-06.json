@@ -1,0 +1,425 @@
+{
+ "sections": [
+  {
+   "heading": "What is the subjunctive?",
+   "body": "The **subjunctive** is a verb form (\"mood\") used after certain expressions — of necessity, wishes, feelings, doubt — in a second clause introduced by *que*. It doesn't express a fact but how someone sees an action: needed, wanted, feared. The most common trigger is *il faut que* (it's necessary that, someone has to): *Il faut que je parte.* (I have to leave.)"
+  },
+  {
+   "heading": "Forming the present subjunctive",
+   "body": "For most verbs, take the **ils** form of the present, remove **-ent**, and add **-e, -es, -e, -ions, -iez, -ent**:\n\nFor -er verbs, the *je, tu, il, ils* forms look and sound like the present; *nous* and *vous* look like the imparfait.",
+   "table": {
+    "head": [
+     "",
+     "parler (ils parl-ent)",
+     "finir (ils finiss-ent)",
+     "partir (ils part-ent)"
+    ],
+    "rows": [
+     [
+      "*que je*",
+      "*parle*",
+      "*finisse*",
+      "*parte*"
+     ],
+     [
+      "*que tu*",
+      "*parles*",
+      "*finisses*",
+      "*partes*"
+     ],
+     [
+      "*qu'il / elle*",
+      "*parle*",
+      "*finisse*",
+      "*parte*"
+     ],
+     [
+      "*que nous*",
+      "*parlions*",
+      "*finissions*",
+      "*partions*"
+     ],
+     [
+      "*que vous*",
+      "*parliez*",
+      "*finissiez*",
+      "*partiez*"
+     ],
+     [
+      "*qu'ils / elles*",
+      "*parlent*",
+      "*finissent*",
+      "*partent*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "The key irregular verbs",
+   "body": "- *être*: *que je sois, tu sois, il soit, nous soyons, vous soyez, ils soient*\n- *avoir*: *que j'aie, tu aies, il ait, nous ayons, vous ayez, ils aient*\n- *aller*: *que j'aille, tu ailles, il aille, nous allions, vous alliez, ils aillent*\n- *faire*: *que je fasse, nous fassions* — *pouvoir*: *que je puisse* — *savoir*: *que je sache* — *vouloir*: *que je veuille, nous voulions*\n- two stems: *venir* → *que je vienne, nous venions*; *prendre* → *que je prenne, nous prenions*"
+  },
+  {
+   "heading": "Il faut que and obligation",
+   "body": "- *Il faut que tu viennes.* (You have to come.) *Il faut qu'on fasse les courses.* (We have to do the shopping.)\n- *Il ne faut pas que tu sois en retard.* (You mustn't be late.)\n- Compare *il faut* + infinitive (general — *Il faut réserver*) and *il faut que* + subjunctive (a particular person — *Il faut que je réserve*).\n- Other ways to express obligation: *devoir* (*Je dois partir*), *être obligé(e) de* (*Je suis obligé de travailler samedi* — I have to), *avoir à* (*J'ai à faire* — I have things to do)."
+  }
+ ],
+ "vocab": [
+  [
+   "le subjonctif",
+   "the subjunctive",
+   "lə syb.ʒɔ̃k.tif"
+  ],
+  [
+   "il faut que",
+   "it's necessary that, one has to",
+   "il fo kə"
+  ],
+  [
+   "que je sois",
+   "that I be",
+   "kə ʒə swa"
+  ],
+  [
+   "que j'aie",
+   "that I have",
+   "kə ʒɛ"
+  ],
+  [
+   "que j'aille",
+   "that I go",
+   "kə ʒaj"
+  ],
+  [
+   "que je fasse",
+   "that I do",
+   "kə ʒə fas"
+  ],
+  [
+   "que je puisse",
+   "that I can",
+   "kə ʒə pɥis"
+  ],
+  [
+   "que je vienne",
+   "that I come",
+   "kə ʒə vjɛn"
+  ],
+  [
+   "que je prenne",
+   "that I take",
+   "kə ʒə pʁɛn"
+  ],
+  [
+   "être obligé de",
+   "to have to, to be forced to",
+   "ɛtʁ ɔ.bli.ʒe də"
+  ],
+  [
+   "les courses",
+   "the shopping",
+   "le kuʁs",
+   "f"
+  ],
+  [
+   "à l'heure",
+   "on time",
+   "a lœʁ"
+  ],
+  [
+   "le formulaire",
+   "the form",
+   "lə fɔʁ.my.lɛʁ"
+  ],
+  [
+   "remplir",
+   "to fill in",
+   "ʁɑ̃.pliʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Il faut que je parte à six heures.",
+   "I have to leave at six."
+  ],
+  [
+   "Il faut que tu viennes à la réunion.",
+   "You have to come to the meeting."
+  ],
+  [
+   "Il faut qu'on fasse les courses avant ce soir.",
+   "We have to do the shopping before tonight."
+  ],
+  [
+   "Il ne faut pas que vous soyez en retard.",
+   "You mustn't be late."
+  ],
+  [
+   "Il faut que nous finissions ce travail aujourd'hui.",
+   "We have to finish this work today."
+  ],
+  [
+   "Il faut qu'elle aille chez le médecin.",
+   "She has to go to the doctor's."
+  ],
+  [
+   "Il faut que j'aie mon passeport pour le voyage.",
+   "I have to have my passport for the trip."
+  ],
+  [
+   "Il faut que vous remplissiez ce formulaire.",
+   "You need to fill in this form."
+  ],
+  [
+   "Il faut que tu prennes le train de huit heures.",
+   "You have to take the eight o'clock train."
+  ],
+  [
+   "Il faut qu'ils puissent venir.",
+   "They need to be able to come."
+  ],
+  [
+   "Je suis obligée de travailler samedi.",
+   "I have to work on Saturday."
+  ],
+  [
+   "Il faut arriver à l'heure.",
+   "You have to arrive on time."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Il faut que je ___ à six heures.",
+   "options": [
+    "parte",
+    "pars",
+    "partirai"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il faut que tu ___ à la réunion.",
+   "options": [
+    "viennes",
+    "viens",
+    "viendras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il faut qu'on ___ les courses.",
+   "options": [
+    "fasse",
+    "fait",
+    "fera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il ne faut pas que vous ___ en retard.",
+   "options": [
+    "soyez",
+    "êtes",
+    "serez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il faut qu'elle ___ chez le médecin.",
+   "options": [
+    "aille",
+    "va",
+    "ira"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il faut que j'___ mon passeport.",
+   "options": [
+    "aie",
+    "ai",
+    "aurai"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The subjunctive of most verbs is built on…",
+   "options": [
+    "the ils form of the present",
+    "the infinitive",
+    "the past participle"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il faut réserver* vs *Il faut que je réserve*: the second is about…",
+   "options": [
+    "a particular person (me)",
+    "people in general",
+    "the past"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je suis obligé de travailler* means…",
+   "options": [
+    "I have to work",
+    "I'm grateful to work",
+    "I'm allowed to work"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "For *parler*, which subjunctive forms sound like the present?",
+   "options": [
+    "je, tu, il, ils",
+    "nous, vous",
+    "none"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut que je ___ à six heures. (partir)",
+   "answers": [
+    "parte"
+   ],
+   "hint": "I have to leave at six."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut que tu ___ à la réunion. (venir)",
+   "answers": [
+    "viennes"
+   ],
+   "hint": "You have to come to the meeting."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut qu'on ___ les courses. (faire)",
+   "answers": [
+    "fasse"
+   ],
+   "hint": "We have to do the shopping."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ne faut pas que vous ___ en retard. (être)",
+   "answers": [
+    "soyez"
+   ],
+   "hint": "You mustn't be late."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut que nous ___ ce travail aujourd'hui. (finir)",
+   "answers": [
+    "finissions"
+   ],
+   "hint": "We have to finish this work today."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut qu'elle ___ chez le médecin. (aller)",
+   "answers": [
+    "aille"
+   ],
+   "hint": "She has to go to the doctor's."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut que vous ___ ce formulaire. (remplir)",
+   "answers": [
+    "remplissiez"
+   ],
+   "hint": "You need to fill in this form."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut que tu ___ le train de huit heures. (prendre)",
+   "answers": [
+    "prennes"
+   ],
+   "hint": "You have to take the eight o'clock train."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut qu'ils ___ venir. (pouvoir)",
+   "answers": [
+    "puissent"
+   ],
+   "hint": "They need to be able to come."
+  },
+  {
+   "type": "translate",
+   "prompt": "I have to leave.",
+   "answers": [
+    "Il faut que je parte.",
+    "Je dois partir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "You have to come. (to a friend)",
+   "answers": [
+    "Il faut que tu viennes.",
+    "Tu dois venir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "You mustn't be late. (polite)",
+   "answers": [
+    "Il ne faut pas que vous soyez en retard.",
+    "Vous ne devez pas être en retard."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We have to do the shopping.",
+   "answers": [
+    "Il faut qu'on fasse les courses.",
+    "Il faut que nous fassions les courses.",
+    "On doit faire les courses."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She has to go to the doctor's.",
+   "answers": [
+    "Il faut qu'elle aille chez le médecin.",
+    "Elle doit aller chez le médecin."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We have to do the shopping before tonight.\"",
+   "answer": "Il faut qu'on fasse les courses avant ce soir."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"You mustn't be late.\"",
+   "answer": "Il ne faut pas que vous soyez en retard."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"You need to fill in this form.\"",
+   "answer": "Il faut que vous remplissiez ce formulaire."
+  }
+ ]
+}
