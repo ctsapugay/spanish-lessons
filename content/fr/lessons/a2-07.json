@@ -1,0 +1,371 @@
+{
+ "sections": [
+  {
+   "heading": "Y: there",
+   "body": "*Y* replaces a **place** introduced by *à, en, dans, chez, sur*…: it means \"there\".\n\n- *Tu vas à Paris ? — Oui, j'y vais demain.* (Yes, I'm going there tomorrow.)\n- *Elle habite en France depuis dix ans ? — Oui, elle y habite depuis dix ans.*\n- *On va chez Léa ? — Oui, allons-y !* (Let's go!)\n\nIt goes in the same place as other object pronouns — before the verb: *J'y vais. Je n'y vais pas. J'y suis allé. Je vais y aller.* Two very common fixed expressions: *On y va !* (Let's go!) and *Il y a* (there is)."
+  },
+  {
+   "heading": "En: some, of it, of them",
+   "body": "*En* replaces a noun introduced by *du, de la, des, de* — that is, a **quantity** or an unspecified amount:\n\n- *Tu veux du café ? — Oui, j'en veux.* (Yes, I want some.)\n- *Il y a des pommes ? — Non, il n'y en a pas.* (No, there aren't any.)\n- *Tu as des enfants ? — Oui, j'en ai deux.* (Yes, I have two.)\n- *Combien de frères as-tu ? — J'en ai trois.*\n\nWith a number or a quantity word, keep the number at the end: *J'en ai **deux**. J'en veux **un kilo**. Il en mange **beaucoup**.*"
+  },
+  {
+   "heading": "Where they go",
+   "body": "Like other pronouns, *y* and *en* go before the verb, before *avoir* in the passé composé, and before an infinitive: *J'en ai acheté. Je vais en acheter.* Negative: *Je n'en veux pas. Je n'y vais pas.*\n\nLiaison: *on y va* /ɔ̃.n‿i va/, *ils en ont* /il.z‿ɑ̃.n‿ɔ̃/, *vous y allez* /vu.z‿i a.le/."
+  }
+ ],
+ "vocab": [
+  [
+   "y",
+   "there (replaces a place)",
+   "i"
+  ],
+  [
+   "en",
+   "some, of it, of them",
+   "ɑ̃"
+  ],
+  [
+   "on y va",
+   "let's go, off we go",
+   "ɔ̃.n‿i va"
+  ],
+  [
+   "allons-y",
+   "let's go (there)",
+   "a.lɔ̃.z‿i"
+  ],
+  [
+   "il y en a",
+   "there is some, there are some",
+   "i.li.ɑ̃.n‿a"
+  ],
+  [
+   "la pomme",
+   "the apple",
+   "la pɔm"
+  ],
+  [
+   "le gâteau",
+   "the cake",
+   "lə ɡa.to"
+  ],
+  [
+   "la boîte",
+   "the box, the tin",
+   "la bwat"
+  ],
+  [
+   "le paquet",
+   "the packet",
+   "lə pa.kɛ"
+  ],
+  [
+   "la douzaine",
+   "a dozen",
+   "la du.zɛn"
+  ],
+  [
+   "plusieurs",
+   "several",
+   "ply.zjœʁ"
+  ],
+  [
+   "aucun / aucune",
+   "none, not any",
+   "o.kœ̃ / o.kyn"
+  ]
+ ],
+ "examples": [
+  [
+   "Tu vas à Paris ? — Oui, j'y vais demain.",
+   "Are you going to Paris? — Yes, I'm going there tomorrow."
+  ],
+  [
+   "Elle habite en France ? — Oui, elle y habite depuis dix ans.",
+   "Does she live in France? — Yes, she's lived there for ten years."
+  ],
+  [
+   "On va chez Léa ? — Oui, allons-y !",
+   "Shall we go to Léa's? — Yes, let's go!"
+  ],
+  [
+   "Je n'y vais pas ce soir.",
+   "I'm not going there tonight."
+  ],
+  [
+   "Tu veux du café ? — Oui, j'en veux bien.",
+   "Do you want some coffee? — Yes, I'd love some."
+  ],
+  [
+   "Il y a des pommes ? — Non, il n'y en a pas.",
+   "Are there any apples? — No, there aren't any."
+  ],
+  [
+   "Tu as des enfants ? — Oui, j'en ai deux.",
+   "Do you have children? — Yes, I have two."
+  ],
+  [
+   "J'ai acheté des œufs. J'en ai acheté une douzaine.",
+   "I bought eggs. I bought a dozen."
+  ],
+  [
+   "Du gâteau ? Merci, j'en ai déjà mangé.",
+   "Some cake? No thanks, I've already had some."
+  ],
+  [
+   "Il en mange beaucoup.",
+   "He eats a lot of it."
+  ],
+  [
+   "On y va ?",
+   "Shall we go?"
+  ],
+  [
+   "Je vais en acheter demain.",
+   "I'm going to buy some tomorrow."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Tu vas à la plage ?* — \"Yes, I'm going there.\"",
+   "options": [
+    "Oui, j'y vais.",
+    "Oui, j'en vais.",
+    "Oui, je la vais."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu veux du café ?* — \"Yes, I want some.\"",
+   "options": [
+    "Oui, j'en veux.",
+    "Oui, j'y veux.",
+    "Oui, je le veux."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu as des frères ?* — \"Yes, I have two.\"",
+   "options": [
+    "Oui, j'en ai deux.",
+    "Oui, j'ai deux.",
+    "Oui, j'y ai deux."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il y a du lait ?* — \"No, there isn't any.\"",
+   "options": [
+    "Non, il n'y en a pas.",
+    "Non, il n'y a pas.",
+    "Non, il n'en y a pas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*y* usually replaces…",
+   "options": [
+    "a place",
+    "a quantity",
+    "a person"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*en* usually replaces…",
+   "options": [
+    "a quantity: du, de la, des + noun",
+    "a place",
+    "a person"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*On y va !* means…",
+   "options": [
+    "Let's go!",
+    "We're there!",
+    "We're going there tomorrow."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *J'y vais.*",
+   "options": [
+    "Je n'y vais pas.",
+    "J'y ne vais pas.",
+    "Je ne vais y pas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'en ai acheté une douzaine* means…",
+   "options": [
+    "I bought a dozen",
+    "I bought one",
+    "I bought them all"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je vais ___ acheter demain.",
+   "options": [
+    "en",
+    "y",
+    "le"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*acheter des pommes* → *en acheter*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle ___ habite depuis dix ans.",
+   "options": [
+    "y",
+    "en",
+    "la"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu vas à Paris ? — Oui, j'___ vais demain.",
+   "answers": [
+    "y"
+   ],
+   "hint": "Yes, I'm going there tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "On va chez Léa ? — Oui, allons-___ !",
+   "answers": [
+    "y"
+   ],
+   "hint": "Yes, let's go!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu veux du café ? — Oui, j'___ veux bien.",
+   "answers": [
+    "en"
+   ],
+   "hint": "Yes, I'd love some."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y a des pommes ? — Non, il n'y en a ___.",
+   "answers": [
+    "pas"
+   ],
+   "hint": "No, there aren't any."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu as des enfants ? — Oui, j'en ai ___.",
+   "answers": [
+    "deux"
+   ],
+   "hint": "Yes, I have two."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai acheté des œufs. J'en ai acheté une ___.",
+   "answers": [
+    "douzaine"
+   ],
+   "hint": "I bought a dozen."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il en mange ___.",
+   "answers": [
+    "beaucoup"
+   ],
+   "hint": "He eats a lot of it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'___ vais pas ce soir.",
+   "answers": [
+    "y"
+   ],
+   "hint": "I'm not going there tonight."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vais ___ acheter demain.",
+   "answers": [
+    "en"
+   ],
+   "hint": "I'm going to buy some tomorrow."
+  },
+  {
+   "type": "translate",
+   "prompt": "Let's go!",
+   "answers": [
+    "On y va !",
+    "Allons-y !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm going there tomorrow.",
+   "answers": [
+    "J'y vais demain."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have two. (children)",
+   "answers": [
+    "J'en ai deux."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "There aren't any.",
+   "answers": [
+    "Il n'y en a pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't want any.",
+   "answers": [
+    "Je n'en veux pas."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Do you want some coffee? — Yes, I'd love some.\"",
+   "answer": "Tu veux du café ? — Oui, j'en veux bien."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She's lived there for ten years.\"",
+   "answer": "Elle y habite depuis dix ans."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Some cake? No thanks, I've already had some.\"",
+   "answer": "Du gâteau ? Merci, j'en ai déjà mangé."
+  }
+ ]
+}

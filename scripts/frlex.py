@@ -198,6 +198,17 @@ def guide_matches(written: str, guide: str, extra: dict[str, str] | None = None)
             if not ps:
                 return False, f"no pronunciation for «{tok}» in the lexicon"
             ks = set().union(*(lexicon_keys(p) for p in ps))
+            if "-" in tok.strip("-"):  # allons-y, vont-ils: liaison may link the parts too
+                parts = [set().union(*(lexicon_keys(p) for p in pronunciations(x, extra)))
+                         for x in tok.split("-") if x]
+                if all(parts):
+                    combos = {""}
+                    for i, pk in enumerate(parts):
+                        tails = pk if i == len(parts) - 1 else pk | {k + c for k in pk for c in LIAISON}
+                        combos = {a + b for a in combos for b in tails}
+                        if len(combos) > 500:
+                            break
+                    ks |= combos
             options.append(ks | {k + c for k in ks for c in map(compare_key, LIAISON)})
         if not any(_segments(t, options) for t in guide_keys(g)):
             expected = " ".join("|".join(sorted(pronunciations(t, extra))) for t in words_of(w))

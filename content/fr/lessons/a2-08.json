@@ -1,0 +1,367 @@
+{
+ "sections": [
+  {
+   "heading": "Joining sentences: qui, que, où",
+   "body": "Relative pronouns join two sentences about the same thing or person:\n\n- *qui* — the **subject** of the next verb (who, which, that): *J'ai un ami. Il habite à Lyon.* → *J'ai un ami **qui** habite à Lyon.* (a friend who lives in Lyon)\n- *que* (*qu'* before a vowel) — the **object** of the next verb (whom, which, that): *C'est un film. J'aime beaucoup ce film.* → *C'est un film **que** j'aime beaucoup.*\n- *où* — a **place** or a **time** (where, when): *C'est la ville **où** je suis né.* *Le jour **où** je suis arrivé, il pleuvait.* (The day when I arrived…)\n\nA quick test: if a verb comes right after, it's usually *qui* (*qui habite*); if a subject comes right after, it's *que* (*que **j'**aime*). Unlike English, you can't leave the pronoun out: \"the film I like\" must be *le film que j'aime*.\n\n*Qui* never becomes *qu'*: *l'ami qui est venu*."
+  },
+  {
+   "heading": "Pronunciation: when to link (liaison)",
+   "body": "**Required** liaison — always make it:\n\n- after a determiner: *les amis*, *des enfants*, *un homme*, *mon ami*, *ces arbres*\n- between a pronoun and its verb: *nous avons*, *vous êtes*, *ils ont*, *on a*, *je les aime*\n- after a short adjective before the noun: *un petit ami*, *un grand homme*\n- after short words like *très*, *chez*, *dans*, *en*: *très important*, *chez eux*\n\n**Forbidden** liaison — never make it:\n\n- after *et*: *un garçon et | une fille*\n- after a singular noun: *un étudiant | anglais*\n- before an \"aspirated\" h: *les | héros*, *en | haut*\n- after *quand* in a question: *Quand | est-ce que… ?*\n\nEverything else is **optional**: more liaisons sound more formal."
+  }
+ ],
+ "vocab": [
+  [
+   "qui",
+   "who, which, that (subject)",
+   "ki"
+  ],
+  [
+   "que",
+   "whom, which, that (object)",
+   "kə"
+  ],
+  [
+   "où",
+   "where; when",
+   "u"
+  ],
+  [
+   "la ville",
+   "the town, the city",
+   "la vil"
+  ],
+  [
+   "né / née",
+   "born",
+   "ne / ne"
+  ],
+  [
+   "le jour",
+   "the day",
+   "lə ʒuʁ"
+  ],
+  [
+   "la liaison",
+   "linking (sounds)",
+   "la ljɛ.zɔ̃"
+  ],
+  [
+   "le héros",
+   "the hero",
+   "lə e.ʁo"
+  ],
+  [
+   "l'arbre",
+   "the tree",
+   "laʁbʁ",
+   "m"
+  ],
+  [
+   "l'endroit",
+   "the place, the spot",
+   "lɑ̃.dʁwa",
+   "m"
+  ],
+  [
+   "le collègue",
+   "the colleague",
+   "lə kɔ.lɛɡ"
+  ],
+  [
+   "le roman",
+   "the novel",
+   "lə ʁɔ.mɑ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "J'ai un ami qui habite à Lyon.",
+   "I have a friend who lives in Lyon."
+  ],
+  [
+   "C'est un film que j'aime beaucoup.",
+   "It's a film I really like."
+  ],
+  [
+   "C'est la ville où je suis né.",
+   "It's the town where I was born."
+  ],
+  [
+   "Le jour où je suis arrivé, il pleuvait.",
+   "The day I arrived, it was raining."
+  ],
+  [
+   "La femme qui parle avec Hugo est ma collègue.",
+   "The woman talking to Hugo is my colleague."
+  ],
+  [
+   "Le livre que tu m'as prêté est génial.",
+   "The book you lent me is great."
+  ],
+  [
+   "C'est un endroit où on mange très bien.",
+   "It's a place where you eat very well."
+  ],
+  [
+   "Voici le roman qu'elle a écrit.",
+   "Here's the novel she wrote."
+  ],
+  [
+   "Les amis qui sont venus hier sont italiens.",
+   "The friends who came yesterday are Italian."
+  ],
+  [
+   "C'est très important.",
+   "It's very important."
+  ],
+  [
+   "Un garçon et une fille.",
+   "A boy and a girl."
+  ],
+  [
+   "Les héros de mon enfance.",
+   "The heroes of my childhood."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai un ami ___ habite à Lyon.",
+   "options": [
+    "qui",
+    "que",
+    "où"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est un film ___ j'aime beaucoup.",
+   "options": [
+    "que",
+    "qui",
+    "où"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est la ville ___ je suis né.",
+   "options": [
+    "où",
+    "que",
+    "qui"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le livre ___ tu m'as prêté est génial.",
+   "options": [
+    "que",
+    "qui",
+    "où"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: La femme ___ parle avec Hugo est ma collègue.",
+   "options": [
+    "qui",
+    "que",
+    "qu'"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Voici le roman ___ elle a écrit.",
+   "options": [
+    "qu'",
+    "qui",
+    "où"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le jour ___ je suis arrivé, il pleuvait.",
+   "options": [
+    "où",
+    "que",
+    "qui"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*où* also works for time: *le jour où*."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"The film I like\" in French is…",
+   "options": [
+    "le film que j'aime",
+    "le film j'aime",
+    "le film qui j'aime"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The relative pronoun can't be left out."
+  },
+  {
+   "type": "mc",
+   "prompt": "Is there a liaison in *un garçon et une fille* after *et*?",
+   "options": [
+    "No — liaison after *et* is forbidden",
+    "Yes, a t sound",
+    "Yes, but it's optional"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Is there a liaison in *les héros*?",
+   "options": [
+    "No — h aspiré: no liaison",
+    "Yes: /le.z‿e.ʁo/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Is the liaison in *vous êtes* required?",
+   "options": [
+    "Yes",
+    "No, forbidden",
+    "It's optional"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Is the liaison in *les amis* required?",
+   "options": [
+    "Yes",
+    "No, forbidden",
+    "It's optional"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai un ami ___ habite à Lyon.",
+   "answers": [
+    "qui"
+   ],
+   "hint": "I have a friend who lives in Lyon."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un film ___ j'aime beaucoup.",
+   "answers": [
+    "que"
+   ],
+   "hint": "It's a film I really like."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est la ville ___ je suis né.",
+   "answers": [
+    "où"
+   ],
+   "hint": "It's the town where I was born."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le livre ___ tu m'as prêté est génial.",
+   "answers": [
+    "que"
+   ],
+   "hint": "The book you lent me is great."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les amis ___ sont venus hier sont italiens.",
+   "answers": [
+    "qui"
+   ],
+   "hint": "The friends who came yesterday are Italian."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un endroit ___ on mange très bien.",
+   "answers": [
+    "où"
+   ],
+   "hint": "It's a place where you eat very well."
+  },
+  {
+   "type": "fill",
+   "prompt": "Voici le roman ___ elle a écrit.",
+   "answers": [
+    "qu'"
+   ],
+   "hint": "Here's the novel she wrote."
+  },
+  {
+   "type": "fill",
+   "prompt": "La femme qui parle avec Hugo est ma ___.",
+   "answers": [
+    "collègue"
+   ],
+   "hint": "The woman talking to Hugo is my colleague."
+  },
+  {
+   "type": "translate",
+   "prompt": "It's the town where I was born.",
+   "answers": [
+    "C'est la ville où je suis né.",
+    "C'est la ville où je suis née."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have a friend who lives in Paris.",
+   "answers": [
+    "J'ai un ami qui habite à Paris.",
+    "J'ai une amie qui habite à Paris."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's a book I like.",
+   "answers": [
+    "C'est un livre que j'aime."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The day I arrived, it was raining.",
+   "answers": [
+    "Le jour où je suis arrivé, il pleuvait.",
+    "Le jour où je suis arrivée, il pleuvait."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's a film I really like.\"",
+   "answer": "C'est un film que j'aime beaucoup."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The woman talking to Hugo is my colleague.\"",
+   "answer": "La femme qui parle avec Hugo est ma collègue."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's a place where you eat very well.\"",
+   "answer": "C'est un endroit où on mange très bien."
+  }
+ ]
+}

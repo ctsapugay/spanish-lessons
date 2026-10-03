@@ -1,0 +1,392 @@
+{
+ "sections": [
+  {
+   "heading": "More, less, as: comparing with adjectives",
+   "body": "- *plus… que* — more … than: *Paris est **plus** grand **que** Lyon.*\n- *moins… que* — less … than: *Le train est **moins** cher **que** l'avion.*\n- *aussi… que* — as … as: *Léa est **aussi** grande **que** sa sœur.*\n\nThe adjective still agrees: *Ma sœur est plus petite que moi.* After *que*, use stressed pronouns: *plus grand que **moi**, que **toi**, que **lui**.*\n\nIrregular: *bon* → *meilleur* (better): *Ce gâteau est meilleur que l'autre.* (Not ~~plus bon~~.) *mauvais* → *pire* or *plus mauvais* (worse)."
+  },
+  {
+   "heading": "Comparing with adverbs, nouns and verbs",
+   "body": "- adverbs: *Il parle **plus** vite **que** moi.* (faster) — *bien* → *mieux* (better): *Elle chante **mieux** que moi.*\n- nouns: *plus de / moins de / autant de* + noun + *que*: *J'ai **plus de** temps **que** toi.* *Il y a **autant de** filles **que** de garçons.* (as many girls as boys)\n- verbs: *plus / moins / autant* after the verb: *Il travaille **plus que** moi.* *Je dors **autant que** toi.*"
+  },
+  {
+   "heading": "The superlative: the most, the least",
+   "body": "*le / la / les* + *plus* / *moins* + adjective (+ *de*): *C'est **la plus belle** ville **de** France.* *C'est **le** restaurant **le moins cher** du quartier.* *Elle est **la plus jeune de** la famille.*\n\nWhen the adjective normally goes after the noun, so does the superlative, with the article repeated: *le film **le plus** intéressant*. Irregular: *le meilleur* (the best), *le mieux* (the best — adverb), *le pire* (the worst)."
+  },
+  {
+   "heading": "Comparing places and media",
+   "body": "*Je préfère le train à l'avion : c'est plus confortable et moins polluant.* *Je lis plus de livres que de journaux.* *La radio est plus pratique que la télé en voiture.*"
+  }
+ ],
+ "vocab": [
+  [
+   "plus… que",
+   "more … than",
+   "ply kə"
+  ],
+  [
+   "moins… que",
+   "less … than",
+   "mwɛ̃ kə"
+  ],
+  [
+   "aussi… que",
+   "as … as",
+   "o.si kə"
+  ],
+  [
+   "meilleur / meilleure",
+   "better",
+   "mɛ.jœʁ / mɛ.jœʁ"
+  ],
+  [
+   "mieux",
+   "better (adverb)",
+   "mjø"
+  ],
+  [
+   "pire",
+   "worse",
+   "piʁ"
+  ],
+  [
+   "autant de",
+   "as much, as many",
+   "o.tɑ̃ də"
+  ],
+  [
+   "vite",
+   "fast, quickly",
+   "vit"
+  ],
+  [
+   "préférer",
+   "to prefer",
+   "pʁe.fe.ʁe"
+  ],
+  [
+   "confortable",
+   "comfortable",
+   "kɔ̃.fɔʁ.tabl"
+  ],
+  [
+   "pratique",
+   "practical, handy",
+   "pʁa.tik"
+  ],
+  [
+   "intéressant / intéressante",
+   "interesting",
+   "ɛ̃.te.ʁɛ.sɑ̃ / ɛ̃.te.ʁɛ.sɑ̃t"
+  ],
+  [
+   "le journal",
+   "the newspaper",
+   "lə ʒuʁ.nal"
+  ],
+  [
+   "l'avion",
+   "the plane",
+   "la.vjɔ̃",
+   "m"
+  ]
+ ],
+ "examples": [
+  [
+   "Paris est plus grand que Lyon.",
+   "Paris is bigger than Lyon."
+  ],
+  [
+   "Le train est moins cher que l'avion.",
+   "The train is cheaper than the plane."
+  ],
+  [
+   "Léa est aussi grande que sa sœur.",
+   "Léa is as tall as her sister."
+  ],
+  [
+   "Ma sœur est plus petite que moi.",
+   "My sister is shorter than me."
+  ],
+  [
+   "Ce gâteau est meilleur que l'autre.",
+   "This cake is better than the other one."
+  ],
+  [
+   "Elle chante mieux que moi.",
+   "She sings better than me."
+  ],
+  [
+   "J'ai plus de temps que toi.",
+   "I have more time than you."
+  ],
+  [
+   "Il y a autant de filles que de garçons.",
+   "There are as many girls as boys."
+  ],
+  [
+   "Il travaille plus que moi.",
+   "He works more than me."
+  ],
+  [
+   "C'est la plus belle ville de France.",
+   "It's the most beautiful city in France."
+  ],
+  [
+   "C'est le restaurant le moins cher du quartier.",
+   "It's the cheapest restaurant in the neighbourhood."
+  ],
+  [
+   "C'est le meilleur film de l'année.",
+   "It's the best film of the year."
+  ],
+  [
+   "Je préfère le train à l'avion : c'est plus confortable.",
+   "I prefer the train to the plane: it's more comfortable."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"Paris is bigger than Lyon\"",
+   "options": [
+    "Paris est plus grand que Lyon.",
+    "Paris est plus grand de Lyon.",
+    "Paris est grand que Lyon."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"This cake is better\"",
+   "options": [
+    "Ce gâteau est meilleur.",
+    "Ce gâteau est plus bon.",
+    "Ce gâteau est mieux bon."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"She sings better than me\"",
+   "options": [
+    "Elle chante mieux que moi.",
+    "Elle chante meilleur que moi.",
+    "Elle chante plus bien que moi."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "With a verb, \"better\" is the adverb *mieux*."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Léa is as tall as her sister\"",
+   "options": [
+    "Léa est aussi grande que sa sœur.",
+    "Léa est autant grande que sa sœur.",
+    "Léa est aussi grande comme sa sœur."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I have more time than you\"",
+   "options": [
+    "J'ai plus de temps que toi.",
+    "J'ai plus temps que toi.",
+    "J'ai plus du temps que toi."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"The most beautiful city in France\"",
+   "options": [
+    "la plus belle ville de France",
+    "la plus belle ville en France",
+    "la ville plus belle de France"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"The best film of the year\"",
+   "options": [
+    "le meilleur film de l'année",
+    "le plus bon film de l'année",
+    "le mieux film de l'année"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ma sœur est plus petite que ___.",
+   "options": [
+    "moi",
+    "je",
+    "me"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il y a ___ de filles que de garçons.",
+   "options": [
+    "autant",
+    "aussi",
+    "tant que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le train est moins cher que l'avion* means…",
+   "options": [
+    "The train is cheaper than the plane",
+    "The train is more expensive than the plane",
+    "The train is as expensive as the plane"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*pire* means…",
+   "options": [
+    "worse",
+    "better",
+    "more",
+    "less"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Paris est ___ grand que Lyon.",
+   "answers": [
+    "plus"
+   ],
+   "hint": "Paris is bigger than Lyon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le train est ___ cher que l'avion.",
+   "answers": [
+    "moins"
+   ],
+   "hint": "The train is cheaper than the plane."
+  },
+  {
+   "type": "fill",
+   "prompt": "Léa est ___ grande que sa sœur.",
+   "answers": [
+    "aussi"
+   ],
+   "hint": "Léa is as tall as her sister."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce gâteau est ___ que l'autre.",
+   "answers": [
+    "meilleur"
+   ],
+   "hint": "This cake is better than the other one."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle chante ___ que moi.",
+   "answers": [
+    "mieux"
+   ],
+   "hint": "She sings better than me."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai plus ___ temps que toi.",
+   "answers": [
+    "de"
+   ],
+   "hint": "I have more time than you."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est la plus belle ville ___ France.",
+   "answers": [
+    "de"
+   ],
+   "hint": "It's the most beautiful city in France."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ le train à l'avion. (préférer)",
+   "answers": [
+    "préfère"
+   ],
+   "hint": "I prefer the train to the plane."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est le ___ film de l'année.",
+   "answers": [
+    "meilleur"
+   ],
+   "hint": "It's the best film of the year."
+  },
+  {
+   "type": "translate",
+   "prompt": "My brother is taller than me.",
+   "answers": [
+    "Mon frère est plus grand que moi."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The train is cheaper than the plane.",
+   "answers": [
+    "Le train est moins cher que l'avion."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She sings better than me.",
+   "answers": [
+    "Elle chante mieux que moi."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's the best restaurant in town.",
+   "answers": [
+    "C'est le meilleur restaurant de la ville."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I prefer the train.",
+   "answers": [
+    "Je préfère le train."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's the cheapest restaurant in the neighbourhood.\"",
+   "answer": "C'est le restaurant le moins cher du quartier."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"There are as many girls as boys.\"",
+   "answer": "Il y a autant de filles que de garçons."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I prefer the train to the plane.\"",
+   "answer": "Je préfère le train à l'avion."
+  }
+ ]
+}
