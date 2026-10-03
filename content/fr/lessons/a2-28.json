@@ -1,0 +1,380 @@
+{
+ "sections": [
+  {
+   "heading": "Cooking verbs",
+   "body": "*faire la cuisine* (to cook), *préparer* (to prepare), *couper* (to cut), *éplucher* (to peel), *mélanger* (to mix), *ajouter* (to add), *verser* (to pour), *faire cuire* (to cook — *faire cuire les pâtes*), *faire bouillir* (to boil), *faire chauffer* (to heat), *battre* (to beat: *battre les œufs*), *mettre au four* (to put in the oven), *servir* (to serve), *goûter* (to taste)."
+  },
+  {
+   "heading": "Reading a recipe",
+   "body": "Recipes use either the *vous* imperative or the infinitive:\n\n*Crêpes (pour 4 personnes) : 250 g de farine, 4 œufs, un demi-litre de lait, une pincée de sel, 50 g de beurre fondu.*\n*Mettez la farine dans un saladier. Ajoutez les œufs et mélangez. Versez le lait petit à petit. Ajoutez le sel et le beurre. Laissez reposer une heure. Faites chauffer une poêle et versez une petite louche de pâte. Faites cuire une minute de chaque côté.*\n\n(*la farine* — flour; *une pincée* — a pinch; *fondu* — melted; *le saladier* — mixing bowl; *petit à petit* — little by little; *laisser reposer* — leave to rest; *la poêle* — frying pan; *la louche* — ladle; *la pâte* — batter, dough.)"
+  },
+  {
+   "heading": "En with quantities",
+   "body": "In the kitchen you constantly use *en* (you met it at A2.7):\n\n- *Il faut combien d'œufs ? — Il en faut quatre.* (You need four.)\n- *Tu as du beurre ? — Oui, j'en ai.* / *Non, je n'en ai plus.*\n- *Ajoutez-en un peu.* (Add a little.) *Prends-en !* (Have some!)\n- *J'en voudrais un kilo.* (I'd like a kilo of it.)"
+  },
+  {
+   "heading": "At the table",
+   "body": "*Le dîner est prêt ! À table !* (Dinner's ready! Come and eat!) *Tu peux me passer le sel ?* *Ressers-toi !* (Help yourself to more!) *Encore un peu ?* *Non merci, j'ai assez mangé.* *C'est délicieux, tu me donnes la recette ?*"
+  }
+ ],
+ "vocab": [
+  [
+   "faire la cuisine",
+   "to cook",
+   "fɛʁ la kɥi.zin"
+  ],
+  [
+   "couper",
+   "to cut",
+   "ku.pe"
+  ],
+  [
+   "éplucher",
+   "to peel",
+   "e.ply.ʃe"
+  ],
+  [
+   "mélanger",
+   "to mix",
+   "me.lɑ̃.ʒe"
+  ],
+  [
+   "ajouter",
+   "to add",
+   "a.ʒu.te"
+  ],
+  [
+   "verser",
+   "to pour",
+   "vɛʁ.se"
+  ],
+  [
+   "faire cuire",
+   "to cook (something)",
+   "fɛʁ kɥiʁ"
+  ],
+  [
+   "bouillir",
+   "to boil",
+   "bu.jiʁ"
+  ],
+  [
+   "le four",
+   "the oven",
+   "lə fuʁ"
+  ],
+  [
+   "la farine",
+   "flour",
+   "la fa.ʁin"
+  ],
+  [
+   "la poêle",
+   "the frying pan",
+   "la pwal"
+  ],
+  [
+   "la pâte",
+   "batter, dough",
+   "la pɑt"
+  ],
+  [
+   "la recette",
+   "the recipe",
+   "la ʁə.sɛt"
+  ],
+  [
+   "goûter",
+   "to taste",
+   "ɡu.te"
+  ],
+  [
+   "prêt / prête",
+   "ready",
+   "pʁɛ / pʁɛt"
+  ],
+  [
+   "le sel",
+   "salt",
+   "lə sɛl"
+  ]
+ ],
+ "examples": [
+  [
+   "Ce soir, c'est moi qui fais la cuisine.",
+   "Tonight, I'm doing the cooking."
+  ],
+  [
+   "Épluchez et coupez les pommes de terre.",
+   "Peel and cut the potatoes."
+  ],
+  [
+   "Mettez la farine dans un saladier et ajoutez les œufs.",
+   "Put the flour in a bowl and add the eggs."
+  ],
+  [
+   "Mélangez bien et versez le lait petit à petit.",
+   "Mix well and pour in the milk little by little."
+  ],
+  [
+   "Faites cuire les pâtes dix minutes dans l'eau bouillante.",
+   "Cook the pasta for ten minutes in boiling water."
+  ],
+  [
+   "Mettez le gâteau au four pendant trente minutes.",
+   "Put the cake in the oven for thirty minutes."
+  ],
+  [
+   "Il faut combien d'œufs ? — Il en faut quatre.",
+   "How many eggs do you need? — You need four."
+  ],
+  [
+   "Tu as du beurre ? — Non, je n'en ai plus.",
+   "Do you have any butter? — No, I don't have any more."
+  ],
+  [
+   "Goûte la sauce : il faut ajouter du sel ?",
+   "Taste the sauce: does it need salt?"
+  ],
+  [
+   "Le dîner est prêt ! À table !",
+   "Dinner's ready! Come and eat!"
+  ],
+  [
+   "Tu peux me passer le sel, s'il te plaît ?",
+   "Can you pass me the salt, please?"
+  ],
+  [
+   "C'est délicieux, tu me donnes la recette ?",
+   "It's delicious, will you give me the recipe?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*éplucher* means…",
+   "options": [
+    "to peel",
+    "to cut",
+    "to mix",
+    "to pour"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*verser* means…",
+   "options": [
+    "to pour",
+    "to pay",
+    "to add"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*mélanger* means…",
+   "options": [
+    "to mix",
+    "to eat",
+    "to melt"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la poêle* is…",
+   "options": [
+    "the frying pan",
+    "the oven",
+    "the bowl",
+    "the stove"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la recette* is…",
+   "options": [
+    "the recipe",
+    "the receipt only",
+    "the kitchen"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il faut combien d'œufs ?* — \"You need four.\"",
+   "options": [
+    "Il en faut quatre.",
+    "Il faut quatre en.",
+    "Il les faut quatre."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu as du beurre ?* — \"No, I don't have any more.\"",
+   "options": [
+    "Non, je n'en ai plus.",
+    "Non, je n'ai plus.",
+    "Non, je ne l'ai plus de."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Recipes often give instructions using…",
+   "options": [
+    "the vous imperative or the infinitive",
+    "the futur simple",
+    "the imparfait"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*À table !* means…",
+   "options": [
+    "Come and eat!",
+    "On the table!",
+    "Set the table!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*faire cuire les pâtes* means…",
+   "options": [
+    "to cook the pasta",
+    "to cut the pasta",
+    "to buy the pasta"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce soir, c'est moi qui fais la ___.",
+   "answers": [
+    "cuisine"
+   ],
+   "hint": "Tonight, I'm doing the cooking."
+  },
+  {
+   "type": "fill",
+   "prompt": "Épluchez et ___ les pommes de terre.",
+   "answers": [
+    "coupez"
+   ],
+   "hint": "Peel and cut the potatoes."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mettez la farine dans un saladier et ___ les œufs.",
+   "answers": [
+    "ajoutez"
+   ],
+   "hint": "and add the eggs."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mélangez bien et ___ le lait petit à petit.",
+   "answers": [
+    "versez"
+   ],
+   "hint": "and pour in the milk little by little."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mettez le gâteau au ___ pendant trente minutes.",
+   "answers": [
+    "four"
+   ],
+   "hint": "Put the cake in the oven for thirty minutes."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut combien d'œufs ? — Il ___ faut quatre.",
+   "answers": [
+    "en"
+   ],
+   "hint": "You need four."
+  },
+  {
+   "type": "fill",
+   "prompt": "Goûte la sauce : il faut ajouter du ___ ?",
+   "answers": [
+    "sel"
+   ],
+   "hint": "does it need salt?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le dîner est ___ ! À table !",
+   "answers": [
+    "prêt"
+   ],
+   "hint": "Dinner's ready!"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est délicieux, tu me donnes la ___ ?",
+   "answers": [
+    "recette"
+   ],
+   "hint": "will you give me the recipe?"
+  },
+  {
+   "type": "translate",
+   "prompt": "Dinner's ready!",
+   "answers": [
+    "Le dîner est prêt !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Can you pass me the salt? (to a friend)",
+   "answers": [
+    "Tu peux me passer le sel ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Add the eggs. (recipe, vous)",
+   "answers": [
+    "Ajoutez les œufs."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't have any more.",
+   "answers": [
+    "Je n'en ai plus."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's delicious!",
+   "answers": [
+    "C'est délicieux !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Mix well and pour in the milk little by little.\"",
+   "answer": "Mélangez bien et versez le lait petit à petit."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Put the cake in the oven for thirty minutes.\"",
+   "answer": "Mettez le gâteau au four pendant trente minutes."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Do you have any butter? — No, I don't have any more.\"",
+   "answer": "Tu as du beurre ? — Non, je n'en ai plus."
+  }
+ ]
+}

@@ -1,0 +1,438 @@
+{
+ "sections": [
+  {
+   "heading": "The French year",
+   "body": "- *le jour de l'An* (1 January) — people wish each other *Bonne année !* and send *les vœux* all January.\n- *la Chandeleur* (2 February) — everyone makes crêpes.\n- *Pâques* (Easter) — chocolate eggs and bells: in France, *les cloches* (the bells) bring the chocolate, not a rabbit.\n- *le premier mai* — Labour Day; people give each other *du muguet* (lily of the valley) for luck.\n- *la fête de la Musique* (21 June) — free concerts in every street.\n- *le 14 juillet* — *la fête nationale*: a military parade in Paris, *le bal* (a dance) and *le feu d'artifice* (fireworks) in the evening.\n- *la Toussaint* (1 November) — families put flowers on graves.\n- *Noël* (25 December) — *le réveillon* (the big dinner on Christmas Eve or New Year's Eve), *le sapin* (Christmas tree), *les cadeaux*, *la bûche de Noël* (Yule log cake)."
+  },
+  {
+   "heading": "Family events",
+   "body": "*l'anniversaire* (birthday), *le mariage* (wedding), *la naissance* (birth), *le baptême* (christening), *la crémaillère* (housewarming party — *pendre la crémaillère*), *les fiançailles* (engagement). *On fête l'anniversaire de ma mère dimanche.* (We're celebrating my mother's birthday.) — *fêter* / *célébrer*."
+  },
+  {
+   "heading": "Possessive pronouns: mine, yours…",
+   "body": "To avoid repeating a noun, replace *mon livre* with *le mien* (mine). The pronoun agrees with the **thing**:\n\n*Ce n'est pas ton cadeau, c'est le mien !* *Ma voiture est rouge ; la tienne est de quelle couleur ?* *Nos traditions sont différentes des vôtres.* (*de + les vôtres* → *des vôtres*). Simpler alternative with *être*: *C'est à moi.* (It's mine.) *C'est à qui ?* (Whose is it?)",
+   "table": {
+    "head": [
+     "",
+     "Masc. sing.",
+     "Fem. sing.",
+     "Masc. pl.",
+     "Fem. pl."
+    ],
+    "rows": [
+     [
+      "mine",
+      "*le mien*",
+      "*la mienne*",
+      "*les miens*",
+      "*les miennes*"
+     ],
+     [
+      "yours (tu)",
+      "*le tien*",
+      "*la tienne*",
+      "*les tiens*",
+      "*les tiennes*"
+     ],
+     [
+      "his / hers",
+      "*le sien*",
+      "*la sienne*",
+      "*les siens*",
+      "*les siennes*"
+     ],
+     [
+      "ours",
+      "*le nôtre*",
+      "*la nôtre*",
+      "*les nôtres*",
+      "*les nôtres*"
+     ],
+     [
+      "yours (vous)",
+      "*le vôtre*",
+      "*la vôtre*",
+      "*les vôtres*",
+      "*les vôtres*"
+     ],
+     [
+      "theirs",
+      "*le leur*",
+      "*la leur*",
+      "*les leurs*",
+      "*les leurs*"
+     ]
+    ]
+   }
+  }
+ ],
+ "vocab": [
+  [
+   "la fête",
+   "the party; the holiday; the festival",
+   "la fɛt"
+  ],
+  [
+   "fêter",
+   "to celebrate",
+   "fɛ.te"
+  ],
+  [
+   "la tradition",
+   "the tradition",
+   "la tʁa.di.sjɔ̃"
+  ],
+  [
+   "Pâques",
+   "Easter",
+   "pɑk"
+  ],
+  [
+   "la cloche",
+   "the bell",
+   "la klɔʃ"
+  ],
+  [
+   "le feu d'artifice",
+   "the fireworks",
+   "lə fø daʁ.ti.fis"
+  ],
+  [
+   "le bal",
+   "the dance (event)",
+   "lə bal"
+  ],
+  [
+   "le réveillon",
+   "Christmas Eve / New Year's Eve dinner",
+   "lə ʁe.vɛ.jɔ̃"
+  ],
+  [
+   "le sapin",
+   "the fir tree, the Christmas tree",
+   "lə sa.pɛ̃"
+  ],
+  [
+   "le mariage",
+   "the wedding",
+   "lə ma.ʁjaʒ"
+  ],
+  [
+   "la naissance",
+   "the birth",
+   "la nɛ.sɑ̃s"
+  ],
+  [
+   "le mien / la mienne",
+   "mine",
+   "lə mjɛ̃ / la mjɛn"
+  ],
+  [
+   "le tien / la tienne",
+   "yours",
+   "lə tjɛ̃ / la tjɛn"
+  ],
+  [
+   "le nôtre / la nôtre",
+   "ours",
+   "lə notʁ / la notʁ"
+  ],
+  [
+   "différent / différente",
+   "different",
+   "di.fe.ʁɑ̃ / di.fe.ʁɑ̃t"
+  ]
+ ],
+ "examples": [
+  [
+   "Le 14 juillet, il y a un feu d'artifice partout en France.",
+   "On 14 July there are fireworks all over France."
+  ],
+  [
+   "À la Chandeleur, on mange des crêpes.",
+   "At Candlemas, people eat crêpes."
+  ],
+  [
+   "À Pâques, les enfants cherchent les œufs en chocolat dans le jardin.",
+   "At Easter, children look for chocolate eggs in the garden."
+  ],
+  [
+   "Pour le réveillon, toute la famille dîne ensemble.",
+   "For the Christmas Eve dinner, the whole family eats together."
+  ],
+  [
+   "On fête l'anniversaire de ma mère dimanche.",
+   "We're celebrating my mother's birthday on Sunday."
+  ],
+  [
+   "Ils ont invité cent personnes à leur mariage.",
+   "They invited a hundred people to their wedding."
+  ],
+  [
+   "Ce n'est pas ton cadeau, c'est le mien !",
+   "It's not your present, it's mine!"
+  ],
+  [
+   "Ma voiture est rouge ; la tienne est de quelle couleur ?",
+   "My car is red; what colour is yours?"
+  ],
+  [
+   "Nos traditions sont différentes des vôtres.",
+   "Our traditions are different from yours."
+  ],
+  [
+   "C'est à qui, ce sac ? — C'est à moi.",
+   "Whose bag is this? — It's mine."
+  ],
+  [
+   "Ses enfants sont plus âgés que les nôtres.",
+   "His children are older than ours."
+  ],
+  [
+   "La fête de la Musique, c'est le 21 juin.",
+   "The Music Festival is on 21 June."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "On *la Chandeleur*, French people eat…",
+   "options": [
+    "crêpes",
+    "chocolate eggs",
+    "a Yule log"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "On 14 July, France celebrates…",
+   "options": [
+    "its national day",
+    "Labour Day",
+    "the Music Festival"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "At Easter in France, chocolate is brought by…",
+   "options": [
+    "the bells",
+    "a rabbit",
+    "Father Christmas"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le réveillon* is…",
+   "options": [
+    "the big dinner on Christmas Eve or New Year's Eve",
+    "the alarm clock",
+    "a winter festival in July"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le feu d'artifice* is…",
+   "options": [
+    "fireworks",
+    "a bonfire",
+    "a fire alarm"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ce n'est pas ton cadeau, c'est ___ !",
+   "options": [
+    "le mien",
+    "la mienne",
+    "les miens"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ma voiture est rouge ; ___ est de quelle couleur ?",
+   "options": [
+    "la tienne",
+    "le tien",
+    "les tiennes"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*voiture* is feminine: *la tienne*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ses enfants sont plus âgés que ___.",
+   "options": [
+    "les nôtres",
+    "le nôtre",
+    "la nôtre"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'est à qui ?* means…",
+   "options": [
+    "Whose is it?",
+    "Who is it?",
+    "Who's it for?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*fêter* means…",
+   "options": [
+    "to celebrate",
+    "to party only on Saturday",
+    "to feed"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"It's mine\" (simplest way)",
+   "options": [
+    "C'est à moi.",
+    "C'est de moi.",
+    "C'est mon."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le 14 juillet, il y a un ___ d'artifice partout en France.",
+   "answers": [
+    "feu"
+   ],
+   "hint": "On 14 July there are fireworks all over France."
+  },
+  {
+   "type": "fill",
+   "prompt": "À la Chandeleur, on mange des ___.",
+   "answers": [
+    "crêpes"
+   ],
+   "hint": "At Candlemas, people eat crêpes."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pour le ___, toute la famille dîne ensemble.",
+   "answers": [
+    "réveillon"
+   ],
+   "hint": "For the Christmas Eve dinner, the whole family eats together."
+  },
+  {
+   "type": "fill",
+   "prompt": "On ___ l'anniversaire de ma mère dimanche. (fêter)",
+   "answers": [
+    "fête"
+   ],
+   "hint": "We're celebrating my mother's birthday on Sunday."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils ont invité cent personnes à leur ___.",
+   "answers": [
+    "mariage"
+   ],
+   "hint": "They invited a hundred people to their wedding."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce n'est pas ton cadeau, c'est le ___ !",
+   "answers": [
+    "mien"
+   ],
+   "hint": "It's not your present, it's mine!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma voiture est rouge ; la ___ est de quelle couleur ?",
+   "answers": [
+    "tienne"
+   ],
+   "hint": "what colour is yours?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Nos traditions sont différentes des ___.",
+   "answers": [
+    "vôtres"
+   ],
+   "hint": "Our traditions are different from yours."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est à ___, ce sac ?",
+   "answers": [
+    "qui"
+   ],
+   "hint": "Whose bag is this?"
+  },
+  {
+   "type": "translate",
+   "prompt": "It's mine.",
+   "answers": [
+    "C'est à moi.",
+    "C'est le mien.",
+    "C'est la mienne."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Whose is it?",
+   "answers": [
+    "C'est à qui ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Happy New Year!",
+   "answers": [
+    "Bonne année !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We're celebrating my birthday on Sunday.",
+   "answers": [
+    "On fête mon anniversaire dimanche.",
+    "Nous fêtons mon anniversaire dimanche."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Our traditions are different.",
+   "answers": [
+    "Nos traditions sont différentes."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"On 14 July there are fireworks all over France.\"",
+   "answer": "Le 14 juillet, il y a un feu d'artifice partout en France."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My car is red; what colour is yours?\"",
+   "answer": "Ma voiture est rouge ; la tienne est de quelle couleur ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"His children are older than ours.\"",
+   "answer": "Ses enfants sont plus âgés que les nôtres."
+  }
+ ]
+}

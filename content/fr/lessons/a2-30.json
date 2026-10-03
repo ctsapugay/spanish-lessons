@@ -1,0 +1,377 @@
+{
+ "sections": [
+  {
+   "heading": "Opening and closing a friendly message",
+   "body": "- Openings: *Salut Léa,* — *Coucou !* (Hi there! — very casual) — *Cher Hugo,* / *Chère Camille,* (Dear…) — *Bonjour à tous,* (Hi everyone).\n- Closings, from casual to warmer: *À plus !* / *À bientôt !* — *Bises !* / *Bisous !* (kisses — friends and family) — *Grosses bises !* — *Je t'embrasse.* (Love, — literally \"I kiss you\") — *Amitiés,* (Best wishes — friendly but less close).\n- Before signing: *Réponds-moi vite !* (Write back soon!) *J'attends ta réponse.* *Donne-moi de tes nouvelles !* (Let me know how you are!)"
+  },
+  {
+   "heading": "What the message does",
+   "body": "- **Inviting**: *Je fais une petite fête samedi soir pour mon anniversaire. Tu es libre ? Ça me ferait très plaisir si tu venais !* (It would make me very happy if you came!) — *Dis-moi si tu peux venir.*\n- **Thanking**: *Merci beaucoup pour ton cadeau ! Il m'a beaucoup plu.* — *Merci pour cette super soirée !* — *C'était vraiment gentil de ta part.* (It was really kind of you.)\n- **Apologising**: *Je suis désolé(e), je ne pourrai pas venir samedi : je dois travailler.* — *Excuse-moi de répondre si tard.* (Sorry for answering so late.)\n- **Giving news**: *Tout va bien ici. Je viens de commencer un nouveau travail et je suis très contente. Le mois dernier, nous sommes partis en Espagne…*\n- **Congratulating**: *Félicitations pour ton nouveau poste !* (Congratulations on your new job!)"
+  },
+  {
+   "heading": "A model message",
+   "body": "*Salut Hugo,*\n*Merci pour ton message et désolée de répondre si tard ! Ici, tout va bien. J'ai trouvé un appartement dans le centre : il est petit mais très lumineux. Je fais une petite fête samedi prochain pour pendre la crémaillère. Tu es libre ? Ça me ferait très plaisir si tu venais avec ta copine. Dis-moi vite !*\n*Grosses bises,*\n*Camille*"
+  }
+ ],
+ "vocab": [
+  [
+   "coucou",
+   "hi there (very casual)",
+   "ku.ku"
+  ],
+  [
+   "les nouvelles",
+   "news",
+   "le nu.vɛl",
+   "f"
+  ],
+  [
+   "la réponse",
+   "the answer, the reply",
+   "la ʁe.pɔ̃s"
+  ],
+  [
+   "répondre",
+   "to answer, to reply",
+   "ʁe.pɔ̃dʁ"
+  ],
+  [
+   "les bises",
+   "kisses (to sign off)",
+   "le biz",
+   "f"
+  ],
+  [
+   "je t'embrasse",
+   "love (sign-off)",
+   "ʒə tɑ̃.bʁas"
+  ],
+  [
+   "amitiés",
+   "best wishes",
+   "a.mi.tje"
+  ],
+  [
+   "le plaisir",
+   "pleasure",
+   "lə ple.ziʁ"
+  ],
+  [
+   "vraiment",
+   "really",
+   "vʁɛ.mɑ̃"
+  ],
+  [
+   "de ta part",
+   "of you, from you",
+   "də ta paʁ"
+  ],
+  [
+   "si tard",
+   "so late",
+   "si taʁ"
+  ],
+  [
+   "le poste",
+   "the job, the position",
+   "lə pɔst"
+  ],
+  [
+   "la soirée",
+   "the evening; the party",
+   "la swa.ʁe"
+  ],
+  [
+   "le copain / la copine",
+   "the friend; boyfriend / girlfriend",
+   "lə kɔ.pɛ̃ / la kɔ.pin"
+  ]
+ ],
+ "examples": [
+  [
+   "Salut Léa, comment ça va ?",
+   "Hi Léa, how are you?"
+  ],
+  [
+   "Merci pour ton message et désolée de répondre si tard !",
+   "Thanks for your message and sorry for answering so late!"
+  ],
+  [
+   "Je fais une petite fête samedi pour mon anniversaire.",
+   "I'm having a little party on Saturday for my birthday."
+  ],
+  [
+   "Tu es libre ? Ça me ferait très plaisir si tu venais !",
+   "Are you free? It would make me very happy if you came!"
+  ],
+  [
+   "Merci beaucoup pour ton cadeau, il m'a beaucoup plu.",
+   "Thanks so much for your present, I really liked it."
+  ],
+  [
+   "C'était vraiment gentil de ta part.",
+   "It was really kind of you."
+  ],
+  [
+   "Je suis désolé, je ne pourrai pas venir : je dois travailler.",
+   "I'm sorry, I won't be able to come: I have to work."
+  ],
+  [
+   "Tout va bien ici. Je viens de commencer un nouveau travail.",
+   "All's well here. I've just started a new job."
+  ],
+  [
+   "Félicitations pour ton nouveau poste !",
+   "Congratulations on your new job!"
+  ],
+  [
+   "Donne-moi de tes nouvelles !",
+   "Let me know how you're doing!"
+  ],
+  [
+   "Réponds-moi vite !",
+   "Write back soon!"
+  ],
+  [
+   "Grosses bises, Camille",
+   "Lots of love, Camille"
+  ],
+  [
+   "Je t'embrasse.",
+   "Love,"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "You write to a close friend. A good closing is…",
+   "options": [
+    "Grosses bises !",
+    "Veuillez agréer mes salutations.",
+    "Bonne journée, monsieur."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Coucou !* is…",
+   "options": [
+    "a very casual \"hi there\"",
+    "a formal greeting",
+    "a goodbye"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Donne-moi de tes nouvelles !* means…",
+   "options": [
+    "Let me know how you're doing!",
+    "Give me your newspapers!",
+    "Tell me something new!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Excuse-moi de répondre si tard* means…",
+   "options": [
+    "Sorry for answering so late",
+    "Excuse me, I'll answer later",
+    "Sorry, I'm late"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça me ferait très plaisir si tu venais* means…",
+   "options": [
+    "It would make me very happy if you came",
+    "It made me happy that you came",
+    "You came with pleasure"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'était vraiment gentil de ta part* means…",
+   "options": [
+    "It was really kind of you",
+    "It was really kind of me",
+    "It was your part"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Félicitations pour ton nouveau poste !* is said when someone…",
+   "options": [
+    "has a new job",
+    "has moved house",
+    "has posted a letter"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Amitiés* (at the end of a message) is…",
+   "options": [
+    "friendly but less close than *bises*",
+    "very formal",
+    "only for family"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "You can't come to a party. You write…",
+   "options": [
+    "Je suis désolé, je ne pourrai pas venir.",
+    "Merci, je viens avec plaisir.",
+    "Félicitations !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je t'embrasse* at the end of a letter means…",
+   "options": [
+    "Love,",
+    "I'm kissing you right now",
+    "Goodbye forever"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Merci pour ton message et désolée de répondre si ___ !",
+   "answers": [
+    "tard"
+   ],
+   "hint": "sorry for answering so late!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je fais une petite ___ samedi pour mon anniversaire.",
+   "answers": [
+    "fête"
+   ],
+   "hint": "I'm having a little party on Saturday."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça me ferait très ___ si tu venais !",
+   "answers": [
+    "plaisir"
+   ],
+   "hint": "It would make me very happy if you came!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Merci beaucoup pour ton ___, il m'a beaucoup plu.",
+   "answers": [
+    "cadeau"
+   ],
+   "hint": "Thanks so much for your present."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'était vraiment gentil de ta ___.",
+   "answers": [
+    "part"
+   ],
+   "hint": "It was really kind of you."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis désolé, je ne ___ pas venir. (pouvoir)",
+   "answers": [
+    "pourrai"
+   ],
+   "hint": "I'm sorry, I won't be able to come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Félicitations pour ton nouveau ___ !",
+   "answers": [
+    "poste"
+   ],
+   "hint": "Congratulations on your new job!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Donne-moi de tes ___ !",
+   "answers": [
+    "nouvelles"
+   ],
+   "hint": "Let me know how you're doing!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Réponds-moi ___ !",
+   "answers": [
+    "vite"
+   ],
+   "hint": "Write back soon!"
+  },
+  {
+   "type": "translate",
+   "prompt": "Thanks for your present! (to a friend)",
+   "answers": [
+    "Merci pour ton cadeau !",
+    "Merci beaucoup pour ton cadeau !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm sorry, I can't come.",
+   "answers": [
+    "Je suis désolé, je ne peux pas venir.",
+    "Je suis désolée, je ne peux pas venir.",
+    "Désolé, je ne peux pas venir.",
+    "Désolée, je ne peux pas venir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Write back soon! (to a friend)",
+   "answers": [
+    "Réponds-moi vite !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Congratulations on your new job! (to a friend)",
+   "answers": [
+    "Félicitations pour ton nouveau poste !",
+    "Félicitations pour ton nouveau travail !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Lots of love (sign-off)",
+   "answers": [
+    "Grosses bises",
+    "Bisous",
+    "Je t'embrasse"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Thanks for your message and sorry for answering so late!\"",
+   "answer": "Merci pour ton message et désolée de répondre si tard !"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm having a little party on Saturday for my birthday.\"",
+   "answer": "Je fais une petite fête samedi pour mon anniversaire."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It was really kind of you.\"",
+   "answer": "C'était vraiment gentil de ta part."
+  }
+ ]
+}
