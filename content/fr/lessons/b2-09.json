@@ -1,0 +1,373 @@
+{
+ "sections": [
+  {
+   "heading": "The present participle on its own",
+   "body": "The present participle (*parlant*, *finissant*, *étant*, *ayant*) can be used **without** *en*. It's invariable, mostly written and formal, and replaces a relative or causal clause:\n\n- instead of *qui*: *Les personnes **désirant** s'inscrire doivent remplir ce formulaire.* (People wishing to enrol…) = *qui désirent*\n- cause: ***Étant** malade, il n'est pas venu.* (Being ill, he didn't come.) = *Comme il était malade…*\n- ***Ayant** fini son travail, elle est partie.* (Having finished her work…) — the **compound** participle *ayant fini*, *étant parti(e)* shows an earlier action."
+  },
+  {
+   "heading": "The verbal adjective",
+   "body": "Some -ant forms are **adjectives**: they describe, and they **agree**: *une histoire intéressante*, *des enfants obéissants* (obedient — from *obéir*, to obey). Compare:\n\n- participle (an action, invariable): *Des enfants **obéissant** à leurs parents.* (Children who obey their parents.)\n- adjective (a quality, agrees): *Des enfants **obéissants**.* (Obedient children.)\n\nSome verbal adjectives are **spelled differently** from the participle:\n\n*Ce travail est fatigant.* (adjective) — *En se fatiguant trop, il est tombé malade.* (participle in a gérondif)",
+   "table": {
+    "head": [
+     "Participle (invariable)",
+     "Adjective (agrees)"
+    ],
+    "rows": [
+     [
+      "*fatiguant*",
+      "*fatigant(e)* (tiring)"
+     ],
+     [
+      "*convainquant*",
+      "*convaincant(e)* (convincing)"
+     ],
+     [
+      "*différant*",
+      "*différent(e)* (different)"
+     ],
+     [
+      "*précédant*",
+      "*précédent(e)* (previous)"
+     ],
+     [
+      "*négligeant*",
+      "*négligent(e)* (careless)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Participle or gérondif?",
+   "body": "- *gérondif* (*en* + -ant): always about the **subject** of the main verb — how, when, while: *Il est parti **en courant**.*\n- participle alone: can describe **another** noun: *J'ai vu Léa **sortant** du cinéma.* (I saw Léa coming out of the cinema — Léa was coming out.) Compare *J'ai vu Léa **en sortant** du cinéma* — I was coming out."
+  }
+ ],
+ "vocab": [
+  [
+   "le participe présent",
+   "the present participle",
+   "lə paʁ.ti.sip pʁe.zɑ̃"
+  ],
+  [
+   "l'adjectif verbal",
+   "the verbal adjective",
+   "lad.ʒɛk.tif vɛʁ.bal",
+   "m"
+  ],
+  [
+   "désirer",
+   "to wish, to want (formal)",
+   "de.zi.ʁe"
+  ],
+  [
+   "s'inscrire",
+   "to enrol, to register",
+   "sɛ̃s.kʁiʁ"
+  ],
+  [
+   "obéissant / obéissante",
+   "obedient",
+   "ɔ.be.i.sɑ̃ / ɔ.be.i.sɑ̃t"
+  ],
+  [
+   "fatigant / fatigante",
+   "tiring",
+   "fa.ti.ɡɑ̃ / fa.ti.ɡɑ̃t"
+  ],
+  [
+   "convaincant / convaincante",
+   "convincing",
+   "kɔ̃.vɛ̃.kɑ̃ / kɔ̃.vɛ̃.kɑ̃t"
+  ],
+  [
+   "négligent / négligente",
+   "careless",
+   "ne.ɡli.ʒɑ̃ / ne.ɡli.ʒɑ̃t"
+  ],
+  [
+   "étant",
+   "being",
+   "e.tɑ̃"
+  ],
+  [
+   "ayant",
+   "having",
+   "ɛ.jɑ̃"
+  ],
+  [
+   "l'argument",
+   "the argument (point)",
+   "laʁ.ɡy.mɑ̃",
+   "m"
+  ],
+  [
+   "le règlement",
+   "the rules, the regulations",
+   "lə ʁɛ.ɡlə.mɑ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Les personnes désirant s'inscrire doivent remplir ce formulaire.",
+   "People wishing to enrol must fill in this form."
+  ],
+  [
+   "Étant malade, il n'est pas venu à la réunion.",
+   "Being ill, he didn't come to the meeting."
+  ],
+  [
+   "Ayant fini son travail, elle est partie.",
+   "Having finished her work, she left."
+  ],
+  [
+   "Étant arrivés en retard, nous avons raté le début.",
+   "Having arrived late, we missed the beginning."
+  ],
+  [
+   "C'est une journée fatigante.",
+   "It's a tiring day."
+  ],
+  [
+   "Ses arguments sont très convaincants.",
+   "His arguments are very convincing."
+  ],
+  [
+   "Ce sont des enfants obéissants.",
+   "They're obedient children."
+  ],
+  [
+   "J'ai vu Léa sortant du cinéma.",
+   "I saw Léa coming out of the cinema."
+  ],
+  [
+   "J'ai vu Léa en sortant du cinéma.",
+   "I saw Léa as I was coming out of the cinema."
+  ],
+  [
+   "Il est parti en courant.",
+   "He ran off."
+  ],
+  [
+   "Le règlement interdit aux élèves arrivant en retard d'entrer en classe.",
+   "The rules forbid pupils arriving late from entering the classroom."
+  ],
+  [
+   "La semaine précédente, tout allait bien.",
+   "The previous week, everything was fine."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est une journée ___. (tiring)",
+   "options": [
+    "fatigante",
+    "fatiguant",
+    "fatigue"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The adjective is spelled *fatigant(e)*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ses arguments sont très ___.",
+   "options": [
+    "convaincants",
+    "convainquant",
+    "convaincant"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ce sont des enfants ___. (obedient)",
+   "options": [
+    "obéissants",
+    "obéissant",
+    "obéissantes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Étant malade, il n'est pas venu* means…",
+   "options": [
+    "Being ill, he didn't come",
+    "While ill, he came",
+    "He came, though ill"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ayant fini son travail, elle est partie* means…",
+   "options": [
+    "Having finished her work, she left",
+    "While finishing her work, she left",
+    "She left her work unfinished"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'ai vu Léa sortant du cinéma* — who was coming out?",
+   "options": [
+    "Léa",
+    "I was",
+    "both of us"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'ai vu Léa en sortant du cinéma* — who was coming out?",
+   "options": [
+    "I was",
+    "Léa",
+    "both of us"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The present participle (used alone) is…",
+   "options": [
+    "invariable",
+    "always feminine",
+    "agrees like an adjective"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The verbal adjective…",
+   "options": [
+    "agrees with the noun",
+    "never changes",
+    "takes en before it"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Les personnes désirant s'inscrire* means…",
+   "options": [
+    "People wishing to enrol",
+    "People who desired enrolment",
+    "Desirable people enrolled"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Les personnes ___ s'inscrire doivent remplir ce formulaire. (désirer)",
+   "answers": [
+    "désirant"
+   ],
+   "hint": "People wishing to enrol…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ malade, il n'est pas venu. (être)",
+   "answers": [
+    "Étant"
+   ],
+   "hint": "Being ill, he didn't come."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ fini son travail, elle est partie. (avoir)",
+   "answers": [
+    "Ayant"
+   ],
+   "hint": "Having finished her work…"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est une journée ___.",
+   "answers": [
+    "fatigante"
+   ],
+   "hint": "It's a tiring day."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ses arguments sont très ___.",
+   "answers": [
+    "convaincants"
+   ],
+   "hint": "His arguments are very convincing."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce sont des enfants ___. (obéir)",
+   "answers": [
+    "obéissants"
+   ],
+   "hint": "They're obedient children."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est parti en ___. (courir)",
+   "answers": [
+    "courant"
+   ],
+   "hint": "He ran off."
+  },
+  {
+   "type": "fill",
+   "prompt": "La semaine ___, tout allait bien.",
+   "answers": [
+    "précédente"
+   ],
+   "hint": "The previous week…"
+  },
+  {
+   "type": "translate",
+   "prompt": "Being ill, he didn't come.",
+   "answers": [
+    "Étant malade, il n'est pas venu.",
+    "Comme il était malade, il n'est pas venu."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's a tiring day.",
+   "answers": [
+    "C'est une journée fatigante."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "His arguments are convincing.",
+   "answers": [
+    "Ses arguments sont convaincants."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Having finished, she left.",
+   "answers": [
+    "Ayant fini, elle est partie.",
+    "Après avoir fini, elle est partie."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"People wishing to enrol must fill in this form.\"",
+   "answer": "Les personnes désirant s'inscrire doivent remplir ce formulaire."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Having arrived late, we missed the beginning.\"",
+   "answer": "Étant arrivés en retard, nous avons raté le début."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I saw Léa as I was coming out of the cinema.\"",
+   "answer": "J'ai vu Léa en sortant du cinéma."
+  }
+ ]
+}

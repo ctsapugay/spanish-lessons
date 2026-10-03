@@ -1,0 +1,366 @@
+{
+ "sections": [
+  {
+   "heading": "Forming the past infinitive",
+   "body": "The **infinitif passé** is *avoir* or *être* (infinitive) + past participle: *avoir fini*, *avoir mangé*, *être parti(e)*, *s'être levé(e)*. With *être*, the participle agrees with the subject: *Elle est contente d'être arrivée.*"
+  },
+  {
+   "heading": "After après",
+   "body": "*Après* + infinitive must use the **past** infinitive, and the subject is the same in both parts:\n\n- *Après avoir mangé, nous sommes sortis.* (After eating / After we had eaten, we went out.)\n- *Après être rentrée, elle a pris une douche.* (After she got home…)\n- *Après s'être reposés, ils sont repartis.*\n\nEnglish often says \"after eating\" — French needs *après avoir mangé*, never ~~*après manger*~~ in careful French (*après manger* is heard colloquially)."
+  },
+  {
+   "heading": "Other uses",
+   "body": "- to show something is **completed before** the main verb: *Je suis content d'avoir réussi.* (I'm happy to have succeeded.) *Merci de m'avoir aidé.* (Thank you for helping me — the help is over.) *Je regrette de ne pas être venu.* (I'm sorry I didn't come.) Note the negative: *ne pas* comes **before** the auxiliary.\n- after verbs like *se souvenir de*, *regretter de*, *être fier de*, *s'excuser de*, *reprocher de*: *Il s'excuse d'être arrivé en retard.* *Je me souviens d'avoir lu ce livre.*\n- after *sans*: *Il est parti sans avoir dit au revoir.*\n- after *pour* to give a reason (formal): *Il a été puni pour avoir menti.* (He was punished for lying.)"
+  },
+  {
+   "heading": "Same subject, again",
+   "body": "Like *avant de*, *sans* and *pour*, *après* + infinitive requires the same subject in both clauses. If they differ, use *après que* + **indicative**: *Après que tu es parti, j'ai rangé.*"
+  }
+ ],
+ "vocab": [
+  [
+   "l'infinitif passé",
+   "the past infinitive",
+   "lɛ̃.fi.ni.tif pa.se",
+   "m"
+  ],
+  [
+   "après avoir",
+   "after having",
+   "a.pʁɛ.z‿a.vwaʁ"
+  ],
+  [
+   "après être",
+   "after having (être verbs)",
+   "a.pʁɛ.z‿ɛtʁ"
+  ],
+  [
+   "s'excuser",
+   "to apologise",
+   "sɛk.sky.ze"
+  ],
+  [
+   "reprocher",
+   "to blame, to reproach",
+   "ʁə.pʁɔ.ʃe"
+  ],
+  [
+   "punir",
+   "to punish",
+   "py.niʁ"
+  ],
+  [
+   "mentir",
+   "to lie",
+   "mɑ̃.tiʁ"
+  ],
+  [
+   "se reposer",
+   "to rest",
+   "sə ʁə.po.ze"
+  ],
+  [
+   "repartir",
+   "to set off again",
+   "ʁə.paʁ.tiʁ"
+  ],
+  [
+   "le repas",
+   "the meal",
+   "lə ʁə.pa"
+  ],
+  [
+   "fier de",
+   "proud of",
+   "fjɛʁ də"
+  ],
+  [
+   "se souvenir de",
+   "to remember",
+   "sə su.və.niʁ də"
+  ]
+ ],
+ "examples": [
+  [
+   "Après avoir mangé, nous sommes sortis.",
+   "After eating, we went out."
+  ],
+  [
+   "Après être rentrée, elle a pris une douche.",
+   "After getting home, she had a shower."
+  ],
+  [
+   "Après s'être douchée, elle s'est couchée.",
+   "After showering, she went to bed."
+  ],
+  [
+   "Après s'être reposés, ils sont repartis.",
+   "After resting, they set off again."
+  ],
+  [
+   "Je suis contente d'avoir réussi.",
+   "I'm happy to have succeeded."
+  ],
+  [
+   "Merci de m'avoir aidé !",
+   "Thank you for helping me!"
+  ],
+  [
+   "Je regrette de ne pas être venu.",
+   "I'm sorry I didn't come."
+  ],
+  [
+   "Il s'excuse d'être arrivé en retard.",
+   "He apologises for arriving late."
+  ],
+  [
+   "Je me souviens d'avoir lu ce livre.",
+   "I remember reading this book."
+  ],
+  [
+   "Il est parti sans avoir dit au revoir.",
+   "He left without having said goodbye."
+  ],
+  [
+   "Il a été puni pour avoir menti.",
+   "He was punished for lying."
+  ],
+  [
+   "Elle est fière d'avoir terminé le marathon.",
+   "She's proud to have finished the marathon."
+  ],
+  [
+   "Après que tu es parti, j'ai rangé la maison.",
+   "After you left, I tidied the house."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"After eating, we went out\"",
+   "options": [
+    "Après avoir mangé, nous sommes sortis.",
+    "Après manger, nous sommes sortis toujours.",
+    "Après mangé, nous sommes sortis."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"After getting home, she showered\"",
+   "options": [
+    "Après être rentrée, elle s'est douchée.",
+    "Après avoir rentrée, elle s'est douchée.",
+    "Après rentrer, elle s'est douchée."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Thank you for helping me\" (the help is over)",
+   "options": [
+    "Merci de m'avoir aidé.",
+    "Merci de m'aider hier.",
+    "Merci m'avoir aidé."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm sorry I didn't come\"",
+   "options": [
+    "Je regrette de ne pas être venu.",
+    "Je regrette de ne être pas venu.",
+    "Je regrette de être ne pas venu."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*ne pas* goes before the auxiliary."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"He left without saying goodbye\" (having said)",
+   "options": [
+    "Il est parti sans avoir dit au revoir.",
+    "Il est parti sans dire avoir au revoir.",
+    "Il est parti sans ait dit au revoir."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Après ___ reposés, ils sont repartis.",
+   "options": [
+    "s'être",
+    "avoir",
+    "se"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il s'excuse d'___ arrivé en retard.",
+   "options": [
+    "être",
+    "avoir",
+    "était"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je me souviens d'___ lu ce livre.",
+   "options": [
+    "avoir",
+    "être",
+    "avais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Two different subjects after \"after\": use…",
+   "options": [
+    "après que + indicative",
+    "après + past infinitive",
+    "après + subjunctive"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il a été puni pour avoir menti* means…",
+   "options": [
+    "He was punished for lying",
+    "He was punished in order to lie",
+    "He lied to be punished"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Après ___ mangé, nous sommes sortis.",
+   "answers": [
+    "avoir"
+   ],
+   "hint": "After eating, we went out."
+  },
+  {
+   "type": "fill",
+   "prompt": "Après être ___, elle a pris une douche. (rentrer)",
+   "answers": [
+    "rentrée"
+   ],
+   "hint": "After getting home, she had a shower."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis contente d'avoir ___. (réussir)",
+   "answers": [
+    "réussi"
+   ],
+   "hint": "I'm happy to have succeeded."
+  },
+  {
+   "type": "fill",
+   "prompt": "Merci de m'avoir ___ ! (aider)",
+   "answers": [
+    "aidé"
+   ],
+   "hint": "Thank you for helping me!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je regrette de ne pas ___ venu.",
+   "answers": [
+    "être"
+   ],
+   "hint": "I'm sorry I didn't come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il s'___ d'être arrivé en retard.",
+   "answers": [
+    "excuse"
+   ],
+   "hint": "He apologises for arriving late."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me souviens d'avoir ___ ce livre. (lire)",
+   "answers": [
+    "lu"
+   ],
+   "hint": "I remember reading this book."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a été puni pour avoir ___. (mentir)",
+   "answers": [
+    "menti"
+   ],
+   "hint": "He was punished for lying."
+  },
+  {
+   "type": "fill",
+   "prompt": "Après que tu ___ parti, j'ai rangé la maison. (être)",
+   "answers": [
+    "es"
+   ],
+   "hint": "After you left, I tidied the house."
+  },
+  {
+   "type": "translate",
+   "prompt": "After eating, we went out.",
+   "answers": [
+    "Après avoir mangé, nous sommes sortis.",
+    "Après avoir mangé, on est sortis."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Thank you for helping me! (to a friend)",
+   "answers": [
+    "Merci de m'avoir aidé !",
+    "Merci de m'avoir aidée !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm sorry I didn't come.",
+   "answers": [
+    "Je regrette de ne pas être venu.",
+    "Je regrette de ne pas être venue."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I remember reading this book.",
+   "answers": [
+    "Je me souviens d'avoir lu ce livre."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"After resting, they set off again.\"",
+   "answer": "Après s'être reposés, ils sont repartis."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She's proud to have finished the marathon.\"",
+   "answer": "Elle est fière d'avoir terminé le marathon."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He apologises for arriving late.\"",
+   "answer": "Il s'excuse d'être arrivé en retard."
+  }
+ ]
+}

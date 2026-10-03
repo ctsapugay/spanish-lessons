@@ -1,0 +1,388 @@
+{
+ "sections": [
+  {
+   "heading": "The past subjunctive",
+   "body": "The **subjonctif passé** is the auxiliary in the **present subjunctive** + past participle:",
+   "table": {
+    "head": [
+     "avoir verbs",
+     "être verbs"
+    ],
+    "rows": [
+     [
+      "*que j'aie fini*",
+      "*que je sois parti(e)*"
+     ],
+     [
+      "*que tu aies fini*",
+      "*que tu sois parti(e)*"
+     ],
+     [
+      "*qu'il / elle ait fini*",
+      "*qu'il soit parti / qu'elle soit partie*"
+     ],
+     [
+      "*que nous ayons fini*",
+      "*que nous soyons parti(e)s*"
+     ],
+     [
+      "*que vous ayez fini*",
+      "*que vous soyez parti(e)(s)*"
+     ],
+     [
+      "*qu'ils / elles aient fini*",
+      "*qu'ils soient partis / qu'elles soient parties*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "When to use it",
+   "body": "It's triggered by the same expressions as the present subjunctive, but the action is **completed** — before the main verb, or before a future point:\n\n- *Je suis content que tu sois venu.* (I'm glad you came.) — vs *que tu viennes* (that you're coming)\n- *Je regrette qu'elle soit partie si tôt.* (I'm sorry she left so early.)\n- *C'est dommage que vous n'ayez pas pu venir.* (It's a shame you couldn't come.)\n- *Je ne crois pas qu'il ait compris.* (I don't think he understood.)\n- *Bien qu'il ait beaucoup travaillé, il a échoué.* (Although he worked a lot, he failed.)\n- *Il faut que tu aies fini avant midi.* (You must have finished before noon.)"
+  },
+  {
+   "heading": "Present or past subjunctive?",
+   "body": "Choose by **when the action happens relative to the main verb**:\n\n- same time or later → present: *Je suis content que tu sois là.* (now)\n- earlier → past: *Je suis content que tu aies été là.* (you were there, before)\n\nWith *avant que* and *jusqu'à ce que*, the past subjunctive marks something completed before a future moment: *Partez avant qu'il ait fini de parler.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le subjonctif passé",
+   "the past subjunctive",
+   "lə syb.ʒɔ̃k.tif pa.se"
+  ],
+  [
+   "que j'aie fini",
+   "that I (have) finished",
+   "kə ʒɛ fi.ni"
+  ],
+  [
+   "que je sois parti",
+   "that I (have) left",
+   "kə ʒə swa paʁ.ti"
+  ],
+  [
+   "échouer",
+   "to fail",
+   "e.ʃwe"
+  ],
+  [
+   "regretter",
+   "to regret, to be sorry",
+   "ʁə.ɡʁɛ.te"
+  ],
+  [
+   "surpris / surprise",
+   "surprised",
+   "syʁ.pʁi / syʁ.pʁiz"
+  ],
+  [
+   "la réponse",
+   "the answer",
+   "la ʁe.pɔ̃s"
+  ],
+  [
+   "réussir",
+   "to succeed",
+   "ʁe.y.siʁ"
+  ],
+  [
+   "le concours",
+   "the competitive exam",
+   "lə kɔ̃.kuʁ"
+  ],
+  [
+   "fier / fière",
+   "proud",
+   "fjɛʁ / fjɛʁ"
+  ],
+  [
+   "la fête",
+   "the party",
+   "la fɛt"
+  ],
+  [
+   "prévenir",
+   "to warn, to let know",
+   "pʁev.niʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Je suis content que tu sois venu.",
+   "I'm glad you came."
+  ],
+  [
+   "Je regrette qu'elle soit partie si tôt.",
+   "I'm sorry she left so early."
+  ],
+  [
+   "C'est dommage que vous n'ayez pas pu venir à la fête.",
+   "It's a shame you couldn't come to the party."
+  ],
+  [
+   "Je ne crois pas qu'il ait compris la question.",
+   "I don't think he understood the question."
+  ],
+  [
+   "Bien qu'il ait beaucoup travaillé, il a échoué.",
+   "Although he worked a lot, he failed."
+  ],
+  [
+   "Il faut que tu aies fini avant midi.",
+   "You must have finished before noon."
+  ],
+  [
+   "Je suis surprise qu'ils ne m'aient pas prévenue.",
+   "I'm surprised they didn't let me know."
+  ],
+  [
+   "Nous sommes fiers que tu aies réussi le concours.",
+   "We're proud that you passed the exam."
+  ],
+  [
+   "Je doute qu'elle ait reçu ma réponse.",
+   "I doubt she's received my answer."
+  ],
+  [
+   "Il est possible qu'ils se soient trompés de route.",
+   "They may have taken the wrong road."
+  ],
+  [
+   "Je suis content que tu sois là.",
+   "I'm glad you're here."
+  ],
+  [
+   "Partez avant qu'il ait fini de parler.",
+   "Leave before he's finished speaking."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Je suis content que tu ___ venu hier.",
+   "options": [
+    "sois",
+    "sois été",
+    "es"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est dommage que vous n'___ pas pu venir.",
+   "options": [
+    "ayez",
+    "avez",
+    "aviez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ne crois pas qu'il ___ compris.",
+   "options": [
+    "ait",
+    "a",
+    "avait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Bien qu'il ___ beaucoup travaillé, il a échoué.",
+   "options": [
+    "ait",
+    "a",
+    "aura"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je regrette qu'elle ___ partie si tôt.",
+   "options": [
+    "soit",
+    "ait",
+    "est"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm glad you're here\" (now)",
+   "options": [
+    "Je suis content que tu sois là.",
+    "Je suis content que tu aies été là.",
+    "Je suis content que tu es là."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm glad you came\" (before)",
+   "options": [
+    "Je suis content que tu sois venu.",
+    "Je suis content que tu viennes.",
+    "Je suis content que tu es venu."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The past subjunctive is formed with…",
+   "options": [
+    "avoir / être in the present subjunctive + past participle",
+    "avoir / être in the imparfait + past participle",
+    "the subjunctive + -é"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il est possible qu'ils se soient trompés de route* means…",
+   "options": [
+    "They may have taken the wrong road",
+    "They are possibly lost forever",
+    "They tricked the road"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The past subjunctive shows that the action…",
+   "options": [
+    "happened before the main verb",
+    "happens at the same time",
+    "will happen later"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis content que tu ___ venu. (être)",
+   "answers": [
+    "sois"
+   ],
+   "hint": "I'm glad you came."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je regrette qu'elle soit ___ si tôt. (partir)",
+   "answers": [
+    "partie"
+   ],
+   "hint": "I'm sorry she left so early."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est dommage que vous n'___ pas pu venir. (avoir)",
+   "answers": [
+    "ayez"
+   ],
+   "hint": "It's a shame you couldn't come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne crois pas qu'il ___ compris la question. (avoir)",
+   "answers": [
+    "ait"
+   ],
+   "hint": "I don't think he understood."
+  },
+  {
+   "type": "fill",
+   "prompt": "Bien qu'il ait beaucoup ___, il a échoué. (travailler)",
+   "answers": [
+    "travaillé"
+   ],
+   "hint": "Although he worked a lot…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut que tu ___ fini avant midi. (avoir)",
+   "answers": [
+    "aies"
+   ],
+   "hint": "You must have finished before noon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous sommes fiers que tu ___ réussi le concours. (avoir)",
+   "answers": [
+    "aies"
+   ],
+   "hint": "We're proud that you passed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je doute qu'elle ___ reçu ma réponse. (avoir)",
+   "answers": [
+    "ait"
+   ],
+   "hint": "I doubt she's received my answer."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est possible qu'ils se ___ trompés de route. (être)",
+   "answers": [
+    "soient"
+   ],
+   "hint": "They may have taken the wrong road."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm glad you came. (to a friend)",
+   "answers": [
+    "Je suis content que tu sois venu.",
+    "Je suis contente que tu sois venu.",
+    "Je suis content que tu sois venue.",
+    "Je suis contente que tu sois venue."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't think he understood.",
+   "answers": [
+    "Je ne pense pas qu'il ait compris.",
+    "Je ne crois pas qu'il ait compris."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's a shame you couldn't come. (polite)",
+   "answers": [
+    "C'est dommage que vous n'ayez pas pu venir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Although he worked a lot, he failed.",
+   "answers": [
+    "Bien qu'il ait beaucoup travaillé, il a échoué."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm surprised they didn't let me know.\"",
+   "answer": "Je suis surprise qu'ils ne m'aient pas prévenue."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We're proud that you passed the exam.\"",
+   "answer": "Nous sommes fiers que tu aies réussi le concours."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"They may have taken the wrong road.\"",
+   "answer": "Il est possible qu'ils se soient trompés de route."
+  }
+ ]
+}
