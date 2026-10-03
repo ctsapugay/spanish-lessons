@@ -132,3 +132,8 @@ reader: state, not narrative.
 - APPROVED: BASELINE
 - Clara's stated authority, verbatim: "I approve, go ahead and write yourself a goal condition and seed yourself in goal mode to build it"
 - Attribution mode makes this an audit record, not proof the authority was real. Enable signing (docs/governance.md) for approval the agent cannot forge.
+
+## 2026-10-03 — Scope extended: Polyglotte (Spanish + French)
+- Clara asked to add French (standard metropolitan, A1–C1, from a French curriculum, not a translation of the Spanish one), with switching between languages and separate saved progress, usable by anyone who clones the repo. Name chosen by Clara: Polyglotte.
+- Drafted and shown to Clara in chat: outcomes 8–10; goal statement; G7–G13; C-PRIVATE/C-PROGRESS-SAFE/C-NO-FORWARD-REFERENCES/C-ANSWERABLE generalised; new C-SPANISH-INTACT and C-OPEN-SOURCES; CHK-003 extended, CHK-005..008 registered. Clara approved ("I approve, go ahead and write yourself a goal condition and seed yourself in goal mode to build it"); recorded as APPROVED: BASELINE (agent-executed).
+- Assumptions (reversible): one learner per copy (profiles out of scope); appearance and passing score are shared across languages; Windows/Linux launchers documented but only macOS verified automatically.

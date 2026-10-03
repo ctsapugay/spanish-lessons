@@ -14,7 +14,7 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
-**Updated:** 2026-09-26
-**Now:** DONE. All 162 lessons (A1–C1) written and reviewed (curriculum/reviews/A1…C1.md). Criteria G1–G6 met with evidence in goals/criteria.md; `python3 tools/verify.py` green (4/4).
-**Next:** Nothing required — the finish line is reached. Out-of-scope ideas are not to be started without Clara.
-**Watch:** Any future content edit: rebuild (scripts/build.py) and re-run tools/verify.py; keep LatAm usage, dialogue dashes, English only in hints.
+**Updated:** 2026-10-03
+**Now:** Goal mode, phase 2 (Polyglotte + French). Baseline re-approved 2026-10-03 with G7–G13, C-SPANISH-INTACT, C-OPEN-SOURCES, CHK-005..008. Spanish (G1–G6) is done and must stay green.
+**Next:** 1) French curriculum research → curriculum record + inventory; 2) multi-language app (switcher, per-language progress, v1→v2 progress migration, French voice) with French A1 written; 3) French A2, B1, B2, C1 one level at a time (content + accuracy checks green, review recorded, committed).
+**Watch:** Never push without Clara's go-ahead. Spanish checks must stay green at every commit. Third-party data only if openly licensed and credited.
