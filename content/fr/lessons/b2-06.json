@@ -1,0 +1,409 @@
+{
+ "sections": [
+  {
+   "heading": "Conjunctions that need the subjunctive",
+   "body": "Some conjunctions always take the subjunctive — they introduce something not (yet) real: a condition, a goal, a fear, something that hasn't happened:\n\n- *Je t'explique pour que tu comprennes.* — but *J'étudie pour comprendre.*\n- *Rentre avant qu'il fasse nuit.* (before it gets dark) — *Lave-toi les mains avant de manger.*\n- *Il est parti sans que je le sache.* (without my knowing) — *Il est parti sans dire au revoir.*\n- *Je viendrai à condition que tu m'invites.* — *Tu peux sortir à condition de rentrer avant minuit.*\n- *J'attendrai jusqu'à ce que tu reviennes.* (until you come back)\n- *Bien qu'il soit tard, je vais finir ce travail.*\n\nRule of thumb: if the subject is the **same** in both clauses, use the preposition + infinitive.",
+   "table": {
+    "head": [
+     "Meaning",
+     "Conjunction + subjunctive",
+     "Same subject: preposition + infinitive"
+    ],
+    "rows": [
+     [
+      "purpose",
+      "*pour que*, *afin que*",
+      "*pour*, *afin de*"
+     ],
+     [
+      "before",
+      "*avant que*",
+      "*avant de*"
+     ],
+     [
+      "without",
+      "*sans que*",
+      "*sans*"
+     ],
+     [
+      "condition",
+      "*à condition que*, *pourvu que*",
+      "*à condition de*"
+     ],
+     [
+      "unless",
+      "*à moins que*",
+      "*à moins de*"
+     ],
+     [
+      "fear",
+      "*de peur que*, *de crainte que*",
+      "*de peur de*, *de crainte de*"
+     ],
+     [
+      "concession",
+      "*bien que*, *quoique*",
+      "(none)"
+     ],
+     [
+      "until",
+      "*jusqu'à ce que*",
+      "(none)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Après que: the exception",
+   "body": "*Après que* takes the **indicative** in correct French, because what happens \"after\" is real: *Après qu'il est parti, j'ai rangé.* (Many speakers use the subjunctive here; it's widely heard but considered incorrect.) With the same subject: *après avoir* / *après être* + participle (B2.8)."
+  },
+  {
+   "heading": "Condition: à condition que, pourvu que, au cas où",
+   "body": "- *à condition que* + subjunctive — provided that: *Tu peux emprunter ma voiture à condition que tu fasses le plein.* (provided you fill the tank)\n- *pourvu que* + subjunctive — provided that; or, on its own, \"let's hope\": *Pourvu qu'il fasse beau demain !* (Let's hope it's nice tomorrow!)\n- *au cas où* + **conditional** — in case (B2.4)."
+  }
+ ],
+ "vocab": [
+  [
+   "avant que",
+   "before",
+   "a.vɑ̃ kə"
+  ],
+  [
+   "sans que",
+   "without",
+   "sɑ̃ kə"
+  ],
+  [
+   "à condition que",
+   "provided that",
+   "a kɔ̃.di.sjɔ̃ kə"
+  ],
+  [
+   "pourvu que",
+   "provided that; let's hope",
+   "puʁ.vy kə"
+  ],
+  [
+   "à moins que",
+   "unless",
+   "a mwɛ̃ kə"
+  ],
+  [
+   "de peur que",
+   "for fear that",
+   "də pœʁ kə"
+  ],
+  [
+   "jusqu'à ce que",
+   "until",
+   "ʒys.ka s(ə) kə"
+  ],
+  [
+   "quoique",
+   "although",
+   "kwa.kə"
+  ],
+  [
+   "après que",
+   "after",
+   "a.pʁɛ kə"
+  ],
+  [
+   "faire le plein",
+   "to fill the tank",
+   "fɛʁ lə plɛ̃"
+  ],
+  [
+   "la nuit",
+   "the night",
+   "la nɥi"
+  ],
+  [
+   "ranger",
+   "to tidy up",
+   "ʁɑ̃.ʒe"
+  ]
+ ],
+ "examples": [
+  [
+   "Je t'explique pour que tu comprennes.",
+   "I'm explaining so that you understand."
+  ],
+  [
+   "Rentre avant qu'il fasse nuit.",
+   "Come home before it gets dark."
+  ],
+  [
+   "Lave-toi les mains avant de manger.",
+   "Wash your hands before eating."
+  ],
+  [
+   "Il est parti sans que je le sache.",
+   "He left without my knowing."
+  ],
+  [
+   "Il est parti sans dire au revoir.",
+   "He left without saying goodbye."
+  ],
+  [
+   "Je viendrai à condition que tu m'invites.",
+   "I'll come provided you invite me."
+  ],
+  [
+   "Tu peux emprunter ma voiture à condition que tu fasses le plein.",
+   "You can borrow my car provided you fill the tank."
+  ],
+  [
+   "Nous irons à la plage, à moins qu'il pleuve.",
+   "We'll go to the beach, unless it rains."
+  ],
+  [
+   "J'attendrai jusqu'à ce que tu reviennes.",
+   "I'll wait until you come back."
+  ],
+  [
+   "Je parle doucement de peur que le bébé se réveille.",
+   "I'm speaking quietly for fear the baby wakes up."
+  ],
+  [
+   "Pourvu qu'il fasse beau demain !",
+   "Let's hope it's nice tomorrow!"
+  ],
+  [
+   "Quoiqu'il soit riche, il vit très simplement.",
+   "Although he's rich, he lives very simply."
+  ],
+  [
+   "Après qu'il est parti, j'ai rangé la maison.",
+   "After he left, I tidied the house."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Rentre avant qu'il ___ nuit.",
+   "options": [
+    "fasse",
+    "fait",
+    "fera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Lave-toi les mains avant ___ manger.",
+   "options": [
+    "de",
+    "que",
+    "qu'"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Same subject: *avant de* + infinitive."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est parti sans que je le ___.",
+   "options": [
+    "sache",
+    "sais",
+    "saurai"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'attendrai jusqu'à ce que tu ___.",
+   "options": [
+    "reviennes",
+    "reviens",
+    "reviendras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous irons à la plage, à moins qu'il ___.",
+   "options": [
+    "pleuve",
+    "pleut",
+    "pleuvra"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Après qu'il ___ parti, j'ai rangé. (correct French)",
+   "options": [
+    "est",
+    "soit",
+    "serait"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*après que* takes the indicative."
+  },
+  {
+   "type": "mc",
+   "prompt": "*Pourvu qu'il fasse beau !* (on its own) means…",
+   "options": [
+    "Let's hope it's nice!",
+    "Provided it's nice! only",
+    "It's nice enough!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which conjunction takes the indicative?",
+   "options": [
+    "après que",
+    "avant que",
+    "bien que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*à moins que* means…",
+   "options": [
+    "unless",
+    "at least",
+    "less than"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"He left without saying goodbye\"",
+   "options": [
+    "Il est parti sans dire au revoir.",
+    "Il est parti sans qu'il dise au revoir.",
+    "Il est parti sans que dire au revoir."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je t'explique pour que tu ___. (comprendre)",
+   "answers": [
+    "comprennes"
+   ],
+   "hint": "so that you understand."
+  },
+  {
+   "type": "fill",
+   "prompt": "Rentre avant qu'il ___ nuit. (faire)",
+   "answers": [
+    "fasse"
+   ],
+   "hint": "Come home before it gets dark."
+  },
+  {
+   "type": "fill",
+   "prompt": "Lave-toi les mains avant ___ manger.",
+   "answers": [
+    "de"
+   ],
+   "hint": "Wash your hands before eating."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est parti sans que je le ___. (savoir)",
+   "answers": [
+    "sache"
+   ],
+   "hint": "He left without my knowing."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je viendrai à condition que tu m'___. (inviter)",
+   "answers": [
+    "invites"
+   ],
+   "hint": "provided you invite me."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous irons à la plage, à moins qu'il ___. (pleuvoir)",
+   "answers": [
+    "pleuve"
+   ],
+   "hint": "unless it rains."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'attendrai jusqu'à ce que tu ___. (revenir)",
+   "answers": [
+    "reviennes"
+   ],
+   "hint": "I'll wait until you come back."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ qu'il fasse beau demain !",
+   "answers": [
+    "Pourvu"
+   ],
+   "hint": "Let's hope it's nice tomorrow!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu peux emprunter ma voiture à condition que tu fasses le ___.",
+   "answers": [
+    "plein"
+   ],
+   "hint": "provided you fill the tank."
+  },
+  {
+   "type": "translate",
+   "prompt": "Come home before it gets dark. (to a friend)",
+   "answers": [
+    "Rentre avant qu'il fasse nuit.",
+    "Rentre avant la nuit."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Let's hope it's nice tomorrow!",
+   "answers": [
+    "Pourvu qu'il fasse beau demain !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'll wait until you come back. (to a friend)",
+   "answers": [
+    "J'attendrai jusqu'à ce que tu reviennes."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He left without saying goodbye.",
+   "answers": [
+    "Il est parti sans dire au revoir."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"You can borrow my car provided you fill the tank.\"",
+   "answer": "Tu peux emprunter ma voiture à condition que tu fasses le plein."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm speaking quietly for fear the baby wakes up.\"",
+   "answer": "Je parle doucement de peur que le bébé se réveille."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Although he's rich, he lives very simply.\"",
+   "answer": "Quoiqu'il soit riche, il vit très simplement."
+  }
+ ]
+}

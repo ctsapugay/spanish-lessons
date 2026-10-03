@@ -1,0 +1,362 @@
+{
+ "sections": [
+  {
+   "heading": "Doubt and uncertainty",
+   "body": "Expressions that put a fact in doubt take the **subjunctive**:\n\n- *douter que*: *Je doute qu'il soit honnête.* (I doubt he's honest.)\n- *ne pas être sûr(e) / certain(e) que*: *Je ne suis pas certain qu'elle vienne.*\n- *ne pas penser / croire que*: *Je ne crois pas que ce soit possible.*\n- *Il n'est pas sûr / certain que…* (impersonal)\n\nBut *Je ne doute pas que…* (I have no doubt that…) is followed by the **indicative** in modern usage — or the subjunctive with *ne* in formal style: *Je ne doute pas qu'il viendra.*"
+  },
+  {
+   "heading": "Possibility and impossibility",
+   "body": "- *Il est possible / impossible que* + subjunctive: *Il est possible qu'il y ait des retards.*\n- *Il se peut que* + subjunctive: *Il se peut qu'elle ait oublié.* (She may have forgotten.)\n- *Il est peu probable / Il est improbable que* + subjunctive.\n- But *Il est probable que* + **indicative**: *Il est probable qu'il pleuvra.* — probability is treated as near-certainty."
+  },
+  {
+   "heading": "Judgement: il est + adjective + que",
+   "body": "Impersonal expressions of **judgement or evaluation** take the subjunctive:\n\n*Il est normal que…*, *Il est important que…*, *Il est essentiel que…*, *Il est nécessaire que…*, *Il est dommage que…*, *Il est étonnant que…* (surprising), *Il est inadmissible que…*, *Il vaut mieux que…*, *Il suffit que…* (it's enough that), *C'est bien que…*:\n\n*Il est normal que tu sois fatigué.* *Il est essentiel que chacun puisse s'exprimer.* *Il vaut mieux que vous partiez maintenant.* *C'est dommage qu'elle ne puisse pas venir.*\n\nWith no specific subject, use *de* + infinitive: *Il est important de dormir.* — *Il est important que tu dormes.*"
+  }
+ ],
+ "vocab": [
+  [
+   "douter",
+   "to doubt",
+   "du.te"
+  ],
+  [
+   "honnête",
+   "honest",
+   "ɔ.nɛt"
+  ],
+  [
+   "certain / certaine",
+   "certain",
+   "sɛʁ.tɛ̃ / sɛʁ.tɛn"
+  ],
+  [
+   "impossible",
+   "impossible",
+   "ɛ̃.pɔ.sibl"
+  ],
+  [
+   "improbable",
+   "unlikely",
+   "ɛ̃.pʁɔ.babl"
+  ],
+  [
+   "essentiel / essentielle",
+   "essential",
+   "e.sɑ̃.sjɛl / e.sɑ̃.sjɛl"
+  ],
+  [
+   "nécessaire",
+   "necessary",
+   "ne.se.sɛʁ"
+  ],
+  [
+   "étonnant / étonnante",
+   "surprising",
+   "e.tɔ.nɑ̃ / e.tɔ.nɑ̃t"
+  ],
+  [
+   "il suffit que",
+   "it's enough that",
+   "il sy.fi kə"
+  ],
+  [
+   "il vaut mieux que",
+   "it's better that",
+   "il vo mjø kə"
+  ],
+  [
+   "s'exprimer",
+   "to express oneself",
+   "sɛk.spʁi.me"
+  ],
+  [
+   "le retard",
+   "the delay",
+   "lə ʁə.taʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Je doute qu'il soit honnête.",
+   "I doubt he's honest."
+  ],
+  [
+   "Je ne suis pas certain qu'elle vienne.",
+   "I'm not certain she'll come."
+  ],
+  [
+   "Je ne crois pas que ce soit possible.",
+   "I don't think it's possible."
+  ],
+  [
+   "Il est possible qu'il y ait des retards.",
+   "There may be delays."
+  ],
+  [
+   "Il se peut qu'elle ait oublié.",
+   "She may have forgotten."
+  ],
+  [
+   "Il est peu probable qu'ils acceptent.",
+   "It's unlikely they'll accept."
+  ],
+  [
+   "Il est probable qu'il pleuvra demain.",
+   "It will probably rain tomorrow."
+  ],
+  [
+   "Il est normal que tu sois fatigué après un tel voyage.",
+   "It's normal that you're tired after such a journey."
+  ],
+  [
+   "Il est essentiel que chacun puisse s'exprimer.",
+   "It's essential that everyone can express themselves."
+  ],
+  [
+   "Il vaut mieux que vous partiez maintenant.",
+   "It's better if you leave now."
+  ],
+  [
+   "C'est dommage qu'elle ne puisse pas venir.",
+   "It's a shame she can't come."
+  ],
+  [
+   "Il suffit que tu signes ici.",
+   "You just need to sign here."
+  ],
+  [
+   "Il est important de dormir. — Il est important que tu dormes.",
+   "It's important to sleep. — It's important that you sleep."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Je doute qu'il ___ honnête.",
+   "options": [
+    "soit",
+    "est",
+    "sera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est probable qu'il ___ demain.",
+   "options": [
+    "pleuvra",
+    "pleuve",
+    "pleuvrait"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*il est probable que* + indicative."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est possible qu'il y ___ des retards.",
+   "options": [
+    "ait",
+    "a",
+    "aura"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il vaut mieux que vous ___ maintenant.",
+   "options": [
+    "partiez",
+    "partez",
+    "partirez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est normal que tu ___ fatigué.",
+   "options": [
+    "sois",
+    "es",
+    "seras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il suffit que tu ___ ici.",
+   "options": [
+    "signes",
+    "signeras",
+    "as signé"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"It's important to sleep\" (in general)",
+   "options": [
+    "Il est important de dormir.",
+    "Il est important que dormir.",
+    "Il est important dormir."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il se peut qu'elle ait oublié* means…",
+   "options": [
+    "She may have forgotten",
+    "She can forget",
+    "She must forget"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which takes the indicative?",
+   "options": [
+    "Il est probable que",
+    "Il est possible que",
+    "Il est peu probable que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il suffit que tu signes ici* means…",
+   "options": [
+    "You just need to sign here",
+    "It's enough, sign here",
+    "You sign enough here"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je doute qu'il ___ honnête. (être)",
+   "answers": [
+    "soit"
+   ],
+   "hint": "I doubt he's honest."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne suis pas certain qu'elle ___. (venir)",
+   "answers": [
+    "vienne"
+   ],
+   "hint": "I'm not certain she'll come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est possible qu'il y ___ des retards. (avoir)",
+   "answers": [
+    "ait"
+   ],
+   "hint": "There may be delays."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il se ___ qu'elle ait oublié.",
+   "answers": [
+    "peut"
+   ],
+   "hint": "She may have forgotten."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est peu probable qu'ils ___. (accepter)",
+   "answers": [
+    "acceptent"
+   ],
+   "hint": "It's unlikely they'll accept."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est essentiel que chacun ___ s'exprimer. (pouvoir)",
+   "answers": [
+    "puisse"
+   ],
+   "hint": "everyone can express themselves."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il vaut mieux que vous ___ maintenant. (partir)",
+   "answers": [
+    "partiez"
+   ],
+   "hint": "It's better if you leave now."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est dommage qu'elle ne ___ pas venir. (pouvoir)",
+   "answers": [
+    "puisse"
+   ],
+   "hint": "It's a shame she can't come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est important ___ dormir.",
+   "answers": [
+    "de"
+   ],
+   "hint": "It's important to sleep."
+  },
+  {
+   "type": "translate",
+   "prompt": "I doubt he's honest.",
+   "answers": [
+    "Je doute qu'il soit honnête."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's normal that you're tired. (to a friend)",
+   "answers": [
+    "Il est normal que tu sois fatigué.",
+    "Il est normal que tu sois fatiguée.",
+    "C'est normal que tu sois fatigué.",
+    "C'est normal que tu sois fatiguée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's better if you leave. (polite)",
+   "answers": [
+    "Il vaut mieux que vous partiez."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It will probably rain.",
+   "answers": [
+    "Il est probable qu'il pleuvra.",
+    "Il va probablement pleuvoir."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's essential that everyone can express themselves.\"",
+   "answer": "Il est essentiel que chacun puisse s'exprimer."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She may have forgotten.\"",
+   "answer": "Il se peut qu'elle ait oublié."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's a shame she can't come.\"",
+   "answer": "C'est dommage qu'elle ne puisse pas venir."
+  }
+ ]
+}

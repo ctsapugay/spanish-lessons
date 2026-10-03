@@ -1,0 +1,388 @@
+{
+ "sections": [
+  {
+   "heading": "Unreal past: si + plus-que-parfait",
+   "body": "To imagine a past that didn't happen, use *si* + **plus-que-parfait**, and the **conditionnel passé** in the other half:\n\n- *Si j'avais su, je serais venu.* (If I had known, I would have come.)\n- *Si tu m'avais appelé, je t'aurais aidé.* (If you had called me, I'd have helped you.)\n- *Si nous étions partis plus tôt, nous n'aurions pas raté le train.*"
+  },
+  {
+   "heading": "Mixed: past condition, present result",
+   "body": "If the condition is in the past but the result is **now**, use the **conditionnel présent** in the result:\n\n- *Si j'avais accepté ce travail, je serais riche aujourd'hui.* (If I had accepted that job, I'd be rich today.)\n- *Si tu avais dormi, tu ne serais pas fatigué maintenant.*\n\nAnd the reverse — a present condition, a past result: *Si j'étais toi, je l'aurais dit.* (If I were you, I would have said it.)"
+  },
+  {
+   "heading": "The three si patterns",
+   "body": "Remember: never a conditional or a future right after *si* (meaning \"if\").",
+   "table": {
+    "head": [
+     "Condition",
+     "Result",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "*si* + présent",
+      "présent / futur / impératif",
+      "real possibility"
+     ],
+     [
+      "*si* + imparfait",
+      "conditionnel présent",
+      "imaginary present / future"
+     ],
+     [
+      "*si* + plus-que-parfait",
+      "conditionnel passé (or présent)",
+      "unreal past"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Other ways to express a hypothesis",
+   "body": "- *avec* / *sans* + noun: *Avec un peu de chance, on aurait gagné.* (With a bit of luck, we'd have won.) *Sans ton aide, je n'y serais jamais arrivé.* (Without your help, I'd never have managed.)\n- *au cas où* + **conditionnel** — in case: *Prends un parapluie au cas où il pleuvrait.* (Take an umbrella in case it rains.)\n- *à condition de* / *à moins de* + infinitive (with the same subject — more at B2.6).\n- *En cas de* + noun — in case of: *En cas d'urgence, appelez le 112.*"
+  }
+ ],
+ "vocab": [
+  [
+   "si j'avais su",
+   "if I had known",
+   "si ʒa.vɛ sy"
+  ],
+  [
+   "au cas où",
+   "in case",
+   "o ka u"
+  ],
+  [
+   "en cas de",
+   "in case of",
+   "ɑ̃ ka də"
+  ],
+  [
+   "l'urgence",
+   "the emergency",
+   "lyʁ.ʒɑ̃s",
+   "f"
+  ],
+  [
+   "la chance",
+   "luck",
+   "la ʃɑ̃s"
+  ],
+  [
+   "l'aide",
+   "help",
+   "lɛd",
+   "f"
+  ],
+  [
+   "accepter",
+   "to accept",
+   "ak.sɛp.te"
+  ],
+  [
+   "rater",
+   "to miss",
+   "ʁa.te"
+  ],
+  [
+   "l'occasion",
+   "the opportunity",
+   "lɔ.ka.zjɔ̃",
+   "f"
+  ],
+  [
+   "prévoir",
+   "to foresee, to plan",
+   "pʁe.vwaʁ"
+  ],
+  [
+   "autrement",
+   "otherwise",
+   "o.tʁə.mɑ̃"
+  ],
+  [
+   "regretter",
+   "to regret",
+   "ʁə.ɡʁɛ.te"
+  ]
+ ],
+ "examples": [
+  [
+   "Si j'avais su, je serais venu.",
+   "If I had known, I would have come."
+  ],
+  [
+   "Si tu m'avais appelé, je t'aurais aidé.",
+   "If you had called me, I'd have helped you."
+  ],
+  [
+   "Si nous étions partis plus tôt, nous n'aurions pas raté le train.",
+   "If we had left earlier, we wouldn't have missed the train."
+  ],
+  [
+   "Si j'avais accepté ce travail, je serais riche aujourd'hui.",
+   "If I had accepted that job, I'd be rich today."
+  ],
+  [
+   "Si tu avais dormi, tu ne serais pas fatigué maintenant.",
+   "If you had slept, you wouldn't be tired now."
+  ],
+  [
+   "Si j'étais toi, je l'aurais dit tout de suite.",
+   "If I were you, I would have said it straight away."
+  ],
+  [
+   "Avec un peu de chance, on aurait gagné.",
+   "With a bit of luck, we'd have won."
+  ],
+  [
+   "Sans ton aide, je n'y serais jamais arrivée.",
+   "Without your help, I'd never have managed."
+  ],
+  [
+   "Prends un parapluie au cas où il pleuvrait.",
+   "Take an umbrella in case it rains."
+  ],
+  [
+   "En cas d'urgence, appelez le 112.",
+   "In an emergency, call 112."
+  ],
+  [
+   "Si elle avait saisi l'occasion, sa vie aurait été différente.",
+   "If she had seized the opportunity, her life would have been different."
+  ],
+  [
+   "Qu'est-ce que tu aurais fait à ma place ?",
+   "What would you have done in my place?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Si j'avais su, je ___ venu.",
+   "options": [
+    "serais",
+    "serai",
+    "suis"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Si tu m'___ appelé, je t'aurais aidé.",
+   "options": [
+    "avais",
+    "aurais",
+    "as"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "After *si*: plus-que-parfait, never conditional."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Si j'avais accepté ce travail, je ___ riche aujourd'hui.",
+   "options": [
+    "serais",
+    "serai",
+    "étais"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Past condition, present result: conditionnel présent."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Prends un parapluie au cas où il ___.",
+   "options": [
+    "pleuvrait",
+    "pleut",
+    "pleuve"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*au cas où* + conditional."
+  },
+  {
+   "type": "mc",
+   "prompt": "Which sentence is wrong?",
+   "options": [
+    "Si j'aurais su, je serais venu.",
+    "Si j'avais su, je serais venu.",
+    "Si je savais, je viendrais."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Sans ton aide, je n'y serais jamais arrivé* means…",
+   "options": [
+    "Without your help, I'd never have managed",
+    "Without your help, I never arrived",
+    "I arrived without your help"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*En cas d'urgence* means…",
+   "options": [
+    "In an emergency",
+    "In the urgent case",
+    "Urgently"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*si* + plus-que-parfait expresses…",
+   "options": [
+    "an unreal past",
+    "a real possibility",
+    "a habit"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Avec un peu de chance, on aurait gagné* means…",
+   "options": [
+    "With a bit of luck, we'd have won",
+    "With little chance, we won",
+    "We won with luck"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Qu'est-ce que tu ___ fait à ma place ?",
+   "options": [
+    "aurais",
+    "avais",
+    "auras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Si j'avais ___, je serais venu. (savoir)",
+   "answers": [
+    "su"
+   ],
+   "hint": "If I had known, I would have come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Si tu m'avais appelé, je t'___ aidé. (avoir)",
+   "answers": [
+    "aurais"
+   ],
+   "hint": "I'd have helped you."
+  },
+  {
+   "type": "fill",
+   "prompt": "Si nous ___ partis plus tôt, nous n'aurions pas raté le train. (être)",
+   "answers": [
+    "étions"
+   ],
+   "hint": "If we had left earlier…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Si j'avais accepté ce travail, je ___ riche aujourd'hui. (être)",
+   "answers": [
+    "serais"
+   ],
+   "hint": "I'd be rich today."
+  },
+  {
+   "type": "fill",
+   "prompt": "Prends un parapluie au ___ où il pleuvrait.",
+   "answers": [
+    "cas"
+   ],
+   "hint": "in case it rains."
+  },
+  {
+   "type": "fill",
+   "prompt": "En cas d'___, appelez le 112.",
+   "answers": [
+    "urgence"
+   ],
+   "hint": "In an emergency, call 112."
+  },
+  {
+   "type": "fill",
+   "prompt": "Sans ton ___, je n'y serais jamais arrivée.",
+   "answers": [
+    "aide"
+   ],
+   "hint": "Without your help…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Si elle avait saisi l'___, sa vie aurait été différente.",
+   "answers": [
+    "occasion"
+   ],
+   "hint": "If she had seized the opportunity…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Avec un peu de ___, on aurait gagné.",
+   "answers": [
+    "chance"
+   ],
+   "hint": "With a bit of luck, we'd have won."
+  },
+  {
+   "type": "translate",
+   "prompt": "If I had known, I would have come.",
+   "answers": [
+    "Si j'avais su, je serais venu.",
+    "Si j'avais su, je serais venue."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Without your help, I'd never have managed. (to a friend)",
+   "answers": [
+    "Sans ton aide, je n'y serais jamais arrivé.",
+    "Sans ton aide, je n'y serais jamais arrivée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "In case of emergency, call 112.",
+   "answers": [
+    "En cas d'urgence, appelez le 112."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What would you have done? (to a friend)",
+   "answers": [
+    "Qu'est-ce que tu aurais fait ?",
+    "Tu aurais fait quoi ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"If we had left earlier, we wouldn't have missed the train.\"",
+   "answer": "Si nous étions partis plus tôt, nous n'aurions pas raté le train."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Take an umbrella in case it rains.\"",
+   "answer": "Prends un parapluie au cas où il pleuvrait."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"If I had accepted that job, I'd be rich today.\"",
+   "answer": "Si j'avais accepté ce travail, je serais riche aujourd'hui."
+  }
+ ]
+}
