@@ -1,0 +1,415 @@
+{
+ "sections": [
+  {
+   "heading": "Forming the conditionnel présent",
+   "body": "The conditional (\"would\") combines the **future stem** with the **imparfait endings**:\n\nSo every irregular future stem gives an irregular conditional: *aller → j'irais*, *faire → je ferais*, *venir → je viendrais*, *pouvoir → je pourrais*, *vouloir → je voudrais*, *devoir → je devrais*, *voir → je verrais*, *savoir → je saurais*, *falloir → il faudrait*.",
+   "table": {
+    "head": [
+     "",
+     "parler",
+     "finir",
+     "être (ser-)",
+     "avoir (aur-)"
+    ],
+    "rows": [
+     [
+      "*je*",
+      "*parlerais*",
+      "*finirais*",
+      "*serais*",
+      "*aurais*"
+     ],
+     [
+      "*tu*",
+      "*parlerais*",
+      "*finirais*",
+      "*serais*",
+      "*aurais*"
+     ],
+     [
+      "*il / elle / on*",
+      "*parlerait*",
+      "*finirait*",
+      "*serait*",
+      "*aurait*"
+     ],
+     [
+      "*nous*",
+      "*parlerions*",
+      "*finirions*",
+      "*serions*",
+      "*aurions*"
+     ],
+     [
+      "*vous*",
+      "*parleriez*",
+      "*finiriez*",
+      "*seriez*",
+      "*auriez*"
+     ],
+     [
+      "*ils / elles*",
+      "*parleraient*",
+      "*finiraient*",
+      "*seraient*",
+      "*auraient*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "What it's for",
+   "body": "- **politeness**: *Je voudrais un renseignement.* *Pourriez-vous m'aider ?* *Ça vous dérangerait de… ?*\n- **wishes**: *J'aimerais vivre au bord de la mer.* *Ça serait génial !* *Je voudrais bien partir.*\n- **the imaginary**: *À ta place, je ne dirais rien.* (In your place I wouldn't say anything.) *Avec plus d'argent, je voyagerais.*\n- **advice**: *Tu devrais te reposer.* (You should rest.) *Il faudrait partir tôt.*\n- **unconfirmed news** (journalism): *Le président serait malade.* (The president is said to be ill.)"
+  },
+  {
+   "heading": "Pronunciation: future or conditional?",
+   "body": "*je parlerai* (future) ends in /e/; *je parlerais* (conditional) ends in /ɛ/. Many speakers merge them, but in careful French keep them apart: *j'irai* /ʒi.ʁe/ — *j'irais* /ʒi.ʁɛ/. With other persons there's no problem: *il parlera* / *il parlerait*, *nous parlerons* / *nous parlerions*."
+  }
+ ],
+ "vocab": [
+  [
+   "le conditionnel",
+   "the conditional",
+   "lə kɔ̃.di.sjɔ.nɛl"
+  ],
+  [
+   "je voudrais",
+   "I would like",
+   "ʒə vu.dʁɛ"
+  ],
+  [
+   "j'aimerais",
+   "I'd love to, I'd like to",
+   "ʒɛm.ʁɛ"
+  ],
+  [
+   "je pourrais",
+   "I could",
+   "ʒə pu.ʁɛ"
+  ],
+  [
+   "je devrais",
+   "I should",
+   "ʒə də.vʁɛ"
+  ],
+  [
+   "ce serait",
+   "it would be",
+   "sə sə.ʁɛ"
+  ],
+  [
+   "il faudrait",
+   "it would be necessary, we should",
+   "il fo.dʁɛ"
+  ],
+  [
+   "à ta place",
+   "if I were you, in your place",
+   "a ta plas"
+  ],
+  [
+   "le renseignement",
+   "the piece of information",
+   "lə ʁɑ̃.sɛɲ.mɑ̃"
+  ],
+  [
+   "vivre",
+   "to live",
+   "vivʁ"
+  ],
+  [
+   "le rêve",
+   "the dream",
+   "lə ʁɛv"
+  ],
+  [
+   "idéal / idéale",
+   "ideal",
+   "i.de.al / i.de.al"
+  ]
+ ],
+ "examples": [
+  [
+   "Je voudrais un renseignement, s'il vous plaît.",
+   "I'd like some information, please."
+  ],
+  [
+   "Pourriez-vous m'aider ?",
+   "Could you help me?"
+  ],
+  [
+   "J'aimerais vivre au bord de la mer.",
+   "I'd like to live by the sea."
+  ],
+  [
+   "Ce serait génial de partir ensemble !",
+   "It would be great to go away together!"
+  ],
+  [
+   "Avec plus d'argent, je voyagerais tout le temps.",
+   "With more money, I'd travel all the time."
+  ],
+  [
+   "À ta place, je ne dirais rien.",
+   "If I were you, I wouldn't say anything."
+  ],
+  [
+   "Tu devrais te reposer un peu.",
+   "You should rest a little."
+  ],
+  [
+   "Il faudrait partir avant huit heures.",
+   "We should leave before eight."
+  ],
+  [
+   "Le président serait malade.",
+   "The president is said to be ill."
+  ],
+  [
+   "Nous aimerions réserver une table pour quatre.",
+   "We'd like to book a table for four."
+  ],
+  [
+   "Dans un monde idéal, on travaillerait moins.",
+   "In an ideal world, we'd work less."
+  ],
+  [
+   "Demain, j'irai à Lyon. — J'irais bien avec toi !",
+   "Tomorrow I'll go to Lyon. — I'd happily go with you!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "The conditional is built from…",
+   "options": [
+    "the future stem + the imparfait endings",
+    "the infinitive + the present endings",
+    "the past participle + -ait"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___-vous m'aider ? (polite)",
+   "options": [
+    "Pourriez",
+    "Pourrez",
+    "Pouvez-vous"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: À ta place, je ne ___ rien.",
+   "options": [
+    "dirais",
+    "dirai",
+    "dis"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Tu ___ te reposer. (advice)",
+   "options": [
+    "devrais",
+    "devras",
+    "dois toujours"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Avec plus d'argent, je ___ tout le temps.",
+   "options": [
+    "voyagerais",
+    "voyagerai",
+    "voyageais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The conditional of *être* (je) is…",
+   "options": [
+    "serais",
+    "serai",
+    "étais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le président serait malade* (in the news) means…",
+   "options": [
+    "The president is said to be ill",
+    "The president would like to be ill",
+    "The president was ill"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*je parlerai* and *je parlerais*: in careful speech…",
+   "options": [
+    "the first ends in /e/, the second in /ɛ/",
+    "they sound identical always",
+    "the second has an extra syllable"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*À ta place* means…",
+   "options": [
+    "If I were you",
+    "At your seat",
+    "In your house"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is a polite request?",
+   "options": [
+    "Je voudrais un renseignement.",
+    "Je veux un renseignement.",
+    "Donne un renseignement."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ un renseignement, s'il vous plaît. (vouloir)",
+   "answers": [
+    "voudrais"
+   ],
+   "hint": "I'd like some information."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'___ vivre au bord de la mer. (aimer)",
+   "answers": [
+    "aimerais"
+   ],
+   "hint": "I'd like to live by the sea."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce ___ génial de partir ensemble ! (être)",
+   "answers": [
+    "serait"
+   ],
+   "hint": "It would be great to go away together!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Avec plus d'argent, je ___ tout le temps. (voyager)",
+   "answers": [
+    "voyagerais"
+   ],
+   "hint": "I'd travel all the time."
+  },
+  {
+   "type": "fill",
+   "prompt": "À ta ___, je ne dirais rien.",
+   "answers": [
+    "place"
+   ],
+   "hint": "If I were you, I wouldn't say anything."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ te reposer un peu. (devoir)",
+   "answers": [
+    "devrais"
+   ],
+   "hint": "You should rest a little."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ partir avant huit heures. (falloir)",
+   "answers": [
+    "faudrait"
+   ],
+   "hint": "We should leave before eight."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ réserver une table pour quatre. (aimer)",
+   "answers": [
+    "aimerions"
+   ],
+   "hint": "We'd like to book a table for four."
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans un monde ___, on travaillerait moins.",
+   "answers": [
+    "idéal"
+   ],
+   "hint": "In an ideal world, we'd work less."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'd like a coffee.",
+   "answers": [
+    "Je voudrais un café.",
+    "J'aimerais un café."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "You should rest. (to a friend)",
+   "answers": [
+    "Tu devrais te reposer."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It would be great!",
+   "answers": [
+    "Ce serait génial !",
+    "Ça serait génial !",
+    "Ce serait super !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "If I were you, I wouldn't say anything.",
+   "answers": [
+    "À ta place, je ne dirais rien."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Could you help me? (polite)",
+   "answers": [
+    "Pourriez-vous m'aider ?",
+    "Vous pourriez m'aider ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"With more money, I'd travel all the time.\"",
+   "answer": "Avec plus d'argent, je voyagerais tout le temps."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We should leave before eight.\"",
+   "answer": "Il faudrait partir avant huit heures."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"In an ideal world, we'd work less.\"",
+   "answer": "Dans un monde idéal, on travaillerait moins."
+  }
+ ]
+}

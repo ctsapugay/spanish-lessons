@@ -1,0 +1,422 @@
+{
+ "sections": [
+  {
+   "heading": "Three tenses in one story",
+   "body": "A good narrative in French weaves together:\n\n- the **imparfait** for the setting, descriptions, habits and actions in progress: *C'était un samedi de novembre. Il pleuvait et je m'ennuyais.*\n- the **passé composé** for the events that move the story on: *Soudain, quelqu'un a frappé à la porte. J'ai ouvert…*\n- the **présent** for comments from the present moment, or — in lively storytelling — to make the past vivid (\"narrative present\"): *Et là, qu'est-ce que je vois ? Mon frère, que je n'avais pas vu depuis dix ans !*\n\nChoosing the tense changes the meaning: *Quand il est arrivé, je préparais le dîner* (I was in the middle of cooking) vs *Quand il est arrivé, j'ai préparé le dîner* (he arrived, then I cooked)."
+  },
+  {
+   "heading": "Placing events in time",
+   "body": "Relative to the time of the story, not to today:\n\nOther time words for stories: *autrefois* (in the old days), *aussitôt* (immediately), *récemment* (recently), *à ce moment-là* (at that moment), *d'un coup* (all at once), *dès que* (as soon as), *vers* (around: *vers minuit*).",
+   "table": {
+    "head": [
+     "Relative to today",
+     "Relative to a moment in the story"
+    ],
+    "rows": [
+     [
+      "*hier*",
+      "*la veille* (the day before)"
+     ],
+     [
+      "*aujourd'hui*",
+      "*ce jour-là* (that day)"
+     ],
+     [
+      "*demain*",
+      "*le lendemain* (the next day)"
+     ],
+     [
+      "*la semaine dernière*",
+      "*la semaine précédente* (the week before)"
+     ],
+     [
+      "*la semaine prochaine*",
+      "*la semaine suivante* (the following week)"
+     ],
+     [
+      "*il y a deux jours*",
+      "*deux jours plus tôt* / *avant* (two days earlier)"
+     ],
+     [
+      "*dans deux jours*",
+      "*deux jours plus tard* / *après* (two days later)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Building a story",
+   "body": "*Ce jour-là, il faisait un temps magnifique. Nous étions arrivés la veille et nous ne connaissions personne. Vers midi, nous sommes descendus à la plage. Aussitôt, un homme est venu vers nous… Le lendemain, nous sommes repartis, mais je n'ai jamais oublié ce voyage.*"
+  }
+ ],
+ "vocab": [
+  [
+   "s'ennuyer",
+   "to be bored",
+   "sɑ̃.nɥi.je"
+  ],
+  [
+   "la veille",
+   "the day before",
+   "la vɛj"
+  ],
+  [
+   "le lendemain",
+   "the next day",
+   "lə lɑ̃d.mɛ̃"
+  ],
+  [
+   "ce jour-là",
+   "that day",
+   "sə ʒuʁ.la"
+  ],
+  [
+   "précédent / précédente",
+   "previous",
+   "pʁe.se.dɑ̃ / pʁe.se.dɑ̃t"
+  ],
+  [
+   "suivant / suivante",
+   "following",
+   "sɥi.vɑ̃ / sɥi.vɑ̃t"
+  ],
+  [
+   "plus tôt",
+   "earlier",
+   "ply to"
+  ],
+  [
+   "aussitôt",
+   "immediately, at once",
+   "o.si.to"
+  ],
+  [
+   "récemment",
+   "recently",
+   "ʁe.sa.mɑ̃"
+  ],
+  [
+   "à ce moment-là",
+   "at that moment",
+   "a sə mɔ.mɑ̃.la"
+  ],
+  [
+   "vers",
+   "around (a time); towards",
+   "vɛʁ"
+  ],
+  [
+   "dès que",
+   "as soon as",
+   "dɛ kə"
+  ],
+  [
+   "le récit",
+   "the story, the account",
+   "lə ʁe.si"
+  ],
+  [
+   "raconter",
+   "to tell (a story)",
+   "ʁa.kɔ̃.te"
+  ],
+  [
+   "repartir",
+   "to leave again",
+   "ʁə.paʁ.tiʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "C'était un samedi de novembre et il pleuvait.",
+   "It was a Saturday in November and it was raining."
+  ],
+  [
+   "Je m'ennuyais quand quelqu'un a frappé à la porte.",
+   "I was bored when someone knocked at the door."
+  ],
+  [
+   "Quand il est arrivé, je préparais le dîner.",
+   "When he arrived, I was making dinner."
+  ],
+  [
+   "Nous étions arrivés la veille.",
+   "We had arrived the day before."
+  ],
+  [
+   "Le lendemain, nous sommes repartis.",
+   "The next day we left again."
+  ],
+  [
+   "Ce jour-là, il faisait un temps magnifique.",
+   "That day the weather was magnificent."
+  ],
+  [
+   "Vers minuit, le téléphone a sonné.",
+   "Around midnight the phone rang."
+  ],
+  [
+   "Dès qu'elle m'a vu, elle a souri.",
+   "As soon as she saw me, she smiled."
+  ],
+  [
+   "Il est parti aussitôt.",
+   "He left immediately."
+  ],
+  [
+   "J'ai récemment lu un livre passionnant.",
+   "I recently read a fascinating book."
+  ],
+  [
+   "La semaine suivante, tout avait changé.",
+   "The following week, everything had changed."
+  ],
+  [
+   "Raconte-moi ce qui s'est passé !",
+   "Tell me what happened!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"The next day\" (in a story)",
+   "options": [
+    "le lendemain",
+    "demain",
+    "la veille"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"The day before\" (in a story)",
+   "options": [
+    "la veille",
+    "hier",
+    "le lendemain"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"That day\" (in a story)",
+   "options": [
+    "ce jour-là",
+    "aujourd'hui",
+    "ce jour-ci"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Quand il est arrivé, je ___ le dîner (I was in the middle of it).",
+   "options": [
+    "préparais",
+    "ai préparé",
+    "prépare"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Soudain, quelqu'un ___ à la porte.",
+   "options": [
+    "a frappé",
+    "frappait",
+    "frappe toujours"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ce jour-là, il ___ un temps magnifique.",
+   "options": [
+    "faisait",
+    "a fait",
+    "fera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*aussitôt* means…",
+   "options": [
+    "immediately",
+    "as well",
+    "afterwards"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*vers minuit* means…",
+   "options": [
+    "around midnight",
+    "towards the north at midnight",
+    "until midnight"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la semaine suivante* means…",
+   "options": [
+    "the following week",
+    "the previous week",
+    "next week (from today)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Raconte-moi ce qui s'est passé* means…",
+   "options": [
+    "Tell me what happened",
+    "Tell me what's happening",
+    "Tell me a story"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"As soon as she saw me…\"",
+   "options": [
+    "Dès qu'elle m'a vu…",
+    "Depuis qu'elle m'a vu…",
+    "Après qu'elle me voyait…"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'était un samedi de novembre et il ___. (pleuvoir)",
+   "answers": [
+    "pleuvait"
+   ],
+   "hint": "It was raining."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je m'___ quand quelqu'un a frappé à la porte. (ennuyer)",
+   "answers": [
+    "ennuyais"
+   ],
+   "hint": "I was bored when someone knocked."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___, nous sommes repartis.",
+   "answers": [
+    "lendemain"
+   ],
+   "hint": "The next day we left again."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce jour-___, il faisait un temps magnifique.",
+   "answers": [
+    "là"
+   ],
+   "hint": "That day the weather was magnificent."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ minuit, le téléphone a sonné.",
+   "answers": [
+    "Vers"
+   ],
+   "hint": "Around midnight the phone rang."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ qu'elle m'a vu, elle a souri.",
+   "answers": [
+    "Dès"
+   ],
+   "hint": "As soon as she saw me, she smiled."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est parti ___.",
+   "answers": [
+    "aussitôt"
+   ],
+   "hint": "He left immediately."
+  },
+  {
+   "type": "fill",
+   "prompt": "La semaine ___, tout avait changé.",
+   "answers": [
+    "suivante"
+   ],
+   "hint": "The following week, everything had changed."
+  },
+  {
+   "type": "fill",
+   "prompt": "___-moi ce qui s'est passé ! (raconter)",
+   "answers": [
+    "Raconte"
+   ],
+   "hint": "Tell me what happened!"
+  },
+  {
+   "type": "translate",
+   "prompt": "The next day, we left.",
+   "answers": [
+    "Le lendemain, nous sommes partis.",
+    "Le lendemain, on est partis."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Around midnight, the phone rang.",
+   "answers": [
+    "Vers minuit, le téléphone a sonné."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I was bored.",
+   "answers": [
+    "Je m'ennuyais."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He left immediately.",
+   "answers": [
+    "Il est parti aussitôt.",
+    "Il est parti tout de suite."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Tell me what happened! (to a friend)",
+   "answers": [
+    "Raconte-moi ce qui s'est passé !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I was bored when someone knocked at the door.\"",
+   "answer": "Je m'ennuyais quand quelqu'un a frappé à la porte."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"As soon as she saw me, she smiled.\"",
+   "answer": "Dès qu'elle m'a vu, elle a souri."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The next day we left again.\"",
+   "answer": "Le lendemain, nous sommes repartis."
+  }
+ ]
+}

@@ -1,0 +1,397 @@
+{
+ "sections": [
+  {
+   "heading": "The plus-que-parfait",
+   "body": "The **plus-que-parfait** (\"pluperfect\") says what **had** happened before another past moment. It's the passé composé with the auxiliary in the **imparfait**:\n\nThe same verbs take *être* as in the passé composé, with the same agreement; pronominal verbs too: *Je m'étais levé tôt.*",
+   "table": {
+    "head": [
+     "avoir verbs",
+     "être verbs"
+    ],
+    "rows": [
+     [
+      "*j'avais mangé*",
+      "*j'étais parti(e)*"
+     ],
+     [
+      "*tu avais mangé*",
+      "*tu étais parti(e)*"
+     ],
+     [
+      "*il / elle avait mangé*",
+      "*il était parti / elle était partie*"
+     ],
+     [
+      "*nous avions mangé*",
+      "*nous étions parti(e)s*"
+     ],
+     [
+      "*vous aviez mangé*",
+      "*vous étiez parti(e)(s)*"
+     ],
+     [
+      "*ils / elles avaient mangé*",
+      "*ils étaient partis / elles étaient parties*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "When to use it",
+   "body": "- An action **before** another past action: *Quand je suis arrivé à la gare, le train était déjà parti.* (When I got to the station, the train had already left.)\n- Explaining a past situation by something earlier: *Il était fatigué parce qu'il n'avait pas dormi.*\n- With *déjà* (already), *jamais* (never before), *pas encore* (not yet): *Je n'avais jamais vu la mer avant.*\n- Reporting a regret about the past: *Si seulement j'avais su !* (If only I had known!)\n\nEnglish often uses a simple past where French needs the plus-que-parfait: \"I realised I forgot my keys\" → *Je me suis rendu compte que j'avais oublié mes clés.*"
+  },
+  {
+   "heading": "Ordering events",
+   "body": "Compare:\n\n- *Quand il est arrivé, nous **avons dîné**.* — he arrived, **then** we ate.\n- *Quand il est arrivé, nous **dînions**.* — we were **in the middle of** eating.\n- *Quand il est arrivé, nous **avions dîné**.* — we had **already** eaten."
+  }
+ ],
+ "vocab": [
+  [
+   "le plus-que-parfait",
+   "the pluperfect",
+   "lə ply.kə.paʁ.fɛ"
+  ],
+  [
+   "j'avais mangé",
+   "I had eaten",
+   "ʒa.vɛ mɑ̃.ʒe"
+  ],
+  [
+   "j'étais parti",
+   "I had left",
+   "ʒe.tɛ paʁ.ti"
+  ],
+  [
+   "déjà",
+   "already",
+   "de.ʒa"
+  ],
+  [
+   "avant",
+   "before",
+   "a.vɑ̃"
+  ],
+  [
+   "se rendre compte",
+   "to realise",
+   "sə ʁɑ̃dʁ kɔ̃t"
+  ],
+  [
+   "si seulement",
+   "if only",
+   "si sœl.mɑ̃"
+  ],
+  [
+   "savoir",
+   "to know",
+   "sa.vwaʁ"
+  ],
+  [
+   "la gare",
+   "the station",
+   "la ɡaʁ"
+  ],
+  [
+   "prévenir",
+   "to tell in advance, to warn",
+   "pʁev.niʁ"
+  ],
+  [
+   "promis / promise",
+   "promised",
+   "pʁɔ.mi / pʁɔ.miz"
+  ],
+  [
+   "la valise",
+   "the suitcase",
+   "la va.liz"
+  ],
+  [
+   "faire sa valise",
+   "to pack",
+   "fɛʁ sa va.liz"
+  ]
+ ],
+ "examples": [
+  [
+   "Quand je suis arrivé à la gare, le train était déjà parti.",
+   "When I got to the station, the train had already left."
+  ],
+  [
+   "Il était fatigué parce qu'il n'avait pas dormi.",
+   "He was tired because he hadn't slept."
+  ],
+  [
+   "Je n'avais jamais vu la mer avant.",
+   "I had never seen the sea before."
+  ],
+  [
+   "Elle m'a dit qu'elle avait trouvé un travail.",
+   "She told me she had found a job."
+  ],
+  [
+   "Je me suis rendu compte que j'avais oublié mes clés.",
+   "I realised I had forgotten my keys."
+  ],
+  [
+   "Quand il est arrivé, nous avions déjà dîné.",
+   "When he arrived, we had already eaten."
+  ],
+  [
+   "Ils s'étaient rencontrés à l'université.",
+   "They had met at university."
+  ],
+  [
+   "Tu m'avais promis de venir !",
+   "You had promised me you'd come!"
+  ],
+  [
+   "Si seulement j'avais su !",
+   "If only I had known!"
+  ],
+  [
+   "Nous étions partis tôt, mais nous sommes arrivés en retard.",
+   "We had left early, but we arrived late."
+  ],
+  [
+   "J'avais fait ma valise la veille.",
+   "I had packed my suitcase the day before."
+  ],
+  [
+   "Il ne m'avait pas prévenu.",
+   "He hadn't told me in advance."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"The train had already left\"",
+   "options": [
+    "Le train était déjà parti.",
+    "Le train avait déjà parti.",
+    "Le train est déjà parti."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"He hadn't slept\"",
+   "options": [
+    "Il n'avait pas dormi.",
+    "Il n'était pas dormi.",
+    "Il ne dormait pas avant."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I had never seen the sea\"",
+   "options": [
+    "Je n'avais jamais vu la mer.",
+    "Je n'ai jamais vu la mer avant hier.",
+    "Je ne voyais jamais la mer."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The plus-que-parfait is formed with…",
+   "options": [
+    "avoir or être in the imparfait + past participle",
+    "avoir or être in the present + past participle",
+    "the infinitive + -ait"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Quand il est arrivé, nous avions dîné* means…",
+   "options": [
+    "We had already eaten when he arrived",
+    "We were eating when he arrived",
+    "We ate after he arrived"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Quand il est arrivé, nous dînions* means…",
+   "options": [
+    "We were in the middle of eating",
+    "We had already eaten",
+    "We ate after he arrived"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle m'a dit qu'elle ___ un travail.",
+   "options": [
+    "avait trouvé",
+    "a trouvé demain",
+    "trouvera hier"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils s'___ rencontrés à l'université.",
+   "options": [
+    "étaient",
+    "avaient",
+    "sont été"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Si seulement j'avais su !* means…",
+   "options": [
+    "If only I had known!",
+    "If only I knew it alone!",
+    "I knew it only!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*se rendre compte* means…",
+   "options": [
+    "to realise",
+    "to give back an account",
+    "to count"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Quand je suis arrivé, le train était déjà ___. (partir)",
+   "answers": [
+    "parti"
+   ],
+   "hint": "the train had already left."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il était fatigué parce qu'il n'___ pas dormi.",
+   "answers": [
+    "avait"
+   ],
+   "hint": "because he hadn't slept."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'avais ___ vu la mer avant.",
+   "answers": [
+    "jamais"
+   ],
+   "hint": "I had never seen the sea before."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me suis rendu compte que j'___ oublié mes clés.",
+   "answers": [
+    "avais"
+   ],
+   "hint": "I realised I had forgotten my keys."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quand il est arrivé, nous avions ___ dîné.",
+   "answers": [
+    "déjà"
+   ],
+   "hint": "we had already eaten."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu m'avais ___ de venir ! (promettre)",
+   "answers": [
+    "promis"
+   ],
+   "hint": "You had promised me you'd come!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Si seulement j'avais ___ ! (savoir)",
+   "answers": [
+    "su"
+   ],
+   "hint": "If only I had known!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ partis tôt, mais nous sommes arrivés en retard.",
+   "answers": [
+    "étions"
+   ],
+   "hint": "We had left early."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'avais fait ma ___ la veille.",
+   "answers": [
+    "valise"
+   ],
+   "hint": "I had packed my suitcase the day before."
+  },
+  {
+   "type": "translate",
+   "prompt": "The train had already left.",
+   "answers": [
+    "Le train était déjà parti."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I had never seen the sea.",
+   "answers": [
+    "Je n'avais jamais vu la mer."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "If only I had known!",
+   "answers": [
+    "Si seulement j'avais su !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She had found a job.",
+   "answers": [
+    "Elle avait trouvé un travail.",
+    "Elle avait trouvé un emploi."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We had already eaten.",
+   "answers": [
+    "Nous avions déjà mangé.",
+    "Nous avions déjà dîné.",
+    "On avait déjà mangé."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I realised I had forgotten my keys.\"",
+   "answer": "Je me suis rendu compte que j'avais oublié mes clés."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He was tired because he hadn't slept.\"",
+   "answer": "Il était fatigué parce qu'il n'avait pas dormi."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I had packed my suitcase the day before.\"",
+   "answer": "J'avais fait ma valise la veille."
+  }
+ ]
+}
