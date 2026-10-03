@@ -1,0 +1,1335 @@
+{
+ "levels": [
+  {
+   "id": "A1",
+   "title": "A1 · Beginner",
+   "test": {
+    "id": "a1-test",
+    "title": "A1 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   },
+   "lessons": [
+    {
+     "id": "a1-01",
+     "title": "Bonjour ! Greetings and politeness",
+     "objective": "Greet people, say goodbye, thank and apologise, and choose between tu and vous.",
+     "covers": [
+      "A1-f-greet",
+      "A1-s-tu-vous",
+      "A1-p-rhythm"
+     ]
+    },
+    {
+     "id": "a1-02",
+     "title": "The letters and sounds of French",
+     "objective": "Say the alphabet, spell words aloud, read accents, and know which final letters are silent.",
+     "covers": [
+      "A1-p-letters",
+      "A1-f-spell"
+     ]
+    },
+    {
+     "id": "a1-03",
+     "title": "Je m'appelle… Introducing yourself",
+     "objective": "Introduce yourself and others with s'appeler and être, using subject and stressed pronouns.",
+     "covers": [
+      "A1-f-introduce",
+      "A1-g-pronouns",
+      "A1-g-etre-avoir"
+     ]
+    },
+    {
+     "id": "a1-04",
+     "title": "Countries, nationalities and languages",
+     "objective": "Say where you are from, your nationality and the languages you speak.",
+     "covers": [
+      "A1-v-countries",
+      "A1-f-personal-info"
+     ]
+    },
+    {
+     "id": "a1-05",
+     "title": "Avoir, numbers 0–69 and your age",
+     "objective": "Use avoir, count to 69, and give your age and phone number.",
+     "covers": [
+      "A1-v-numbers"
+     ]
+    },
+    {
+     "id": "a1-06",
+     "title": "Jobs and workplaces",
+     "objective": "Say what you do and where you work; masculine and feminine job names.",
+     "covers": [
+      "A1-v-jobs"
+     ]
+    },
+    {
+     "id": "a1-07",
+     "title": "Articles and gender",
+     "objective": "Use un, une, des and le, la, l', les; ask Qu'est-ce que c'est ? and Qui est-ce ?",
+     "covers": [
+      "A1-g-articles",
+      "A1-g-presentatives"
+     ]
+    },
+    {
+     "id": "a1-08",
+     "title": "Everyday verbs in -er",
+     "objective": "Conjugate regular -er verbs in the present and say what you do every day.",
+     "covers": [
+      "A1-g-present-er",
+      "A1-v-daily"
+     ]
+    },
+    {
+     "id": "a1-09",
+     "title": "French vowels: u, ou, é, è, eu",
+     "objective": "Hear and say the vowel contrasts that change meaning: [i]/[y], [y]/[u], [e]/[ɛ], [ø]/[œ].",
+     "covers": [
+      "A1-p-vowels"
+     ]
+    },
+    {
+     "id": "a1-10",
+     "title": "Likes, dislikes and negation",
+     "objective": "Say what you like and don't like, and make sentences negative with ne… pas.",
+     "covers": [
+      "A1-f-tastes",
+      "A1-g-negation"
+     ]
+    },
+    {
+     "id": "a1-11",
+     "title": "Asking questions",
+     "objective": "Ask questions with intonation, est-ce que and question words.",
+     "covers": [
+      "A1-g-questions",
+      "A1-p-intonation"
+     ]
+    },
+    {
+     "id": "a1-12",
+     "title": "My family",
+     "objective": "Talk about your family with possessive adjectives.",
+     "covers": [
+      "A1-v-family",
+      "A1-g-possessives",
+      "A1-f-news"
+     ]
+    },
+    {
+     "id": "a1-13",
+     "title": "Describing people",
+     "objective": "Describe people with adjectives that agree, and with très and trop.",
+     "covers": [
+      "A1-g-adjectives",
+      "A1-g-intensity",
+      "A1-f-describe"
+     ]
+    },
+    {
+     "id": "a1-14",
+     "title": "Things and colours",
+     "objective": "Name everyday objects and colours, and point things out with ce, cet, cette, ces.",
+     "covers": [
+      "A1-v-objects",
+      "A1-g-demonstratives"
+     ]
+    },
+    {
+     "id": "a1-15",
+     "title": "Nasal vowels",
+     "objective": "Hear, say and spell the nasal vowels [ɛ̃], [ɑ̃] and [ɔ̃].",
+     "covers": [
+      "A1-p-nasals"
+     ]
+    },
+    {
+     "id": "a1-16",
+     "title": "Aller, faire, venir, prendre",
+     "objective": "Use four key irregular verbs and the contractions au, aux, du, des to talk about leisure and sport.",
+     "covers": [
+      "A1-g-present-irr",
+      "A1-v-leisure"
+     ]
+    },
+    {
+     "id": "a1-17",
+     "title": "Telling the time and daily routine",
+     "objective": "Tell the time and describe your day with pronominal verbs.",
+     "covers": [
+      "A1-f-time",
+      "A1-g-pronominal",
+      "A1-f-habits"
+     ]
+    },
+    {
+     "id": "a1-18",
+     "title": "Days, dates, seasons and weather",
+     "objective": "Say the date, name days, months and seasons, and talk about the weather.",
+     "covers": [
+      "A1-v-dates",
+      "A1-v-weather",
+      "A1-g-time"
+     ]
+    },
+    {
+     "id": "a1-19",
+     "title": "Around town",
+     "objective": "Name places in town and say where things are with il y a and prepositions of place.",
+     "covers": [
+      "A1-v-town",
+      "A1-g-place"
+     ]
+    },
+    {
+     "id": "a1-20",
+     "title": "Finding your way",
+     "objective": "Ask for and give directions using the imperative.",
+     "covers": [
+      "A1-f-directions",
+      "A1-g-imperative",
+      "A1-p-consonants"
+     ]
+    },
+    {
+     "id": "a1-21",
+     "title": "Food and quantities",
+     "objective": "Talk about food with du, de la, des and quantities like un kilo de.",
+     "covers": [
+      "A1-v-food",
+      "A1-g-partitive"
+     ]
+    },
+    {
+     "id": "a1-22",
+     "title": "Shopping and prices",
+     "objective": "Count to a thousand, ask prices and buy things in a shop.",
+     "covers": [
+      "A1-f-shopping"
+     ]
+    },
+    {
+     "id": "a1-23",
+     "title": "At the café and restaurant",
+     "objective": "Book a table and order politely with je voudrais.",
+     "covers": [
+      "A1-f-restaurant",
+      "A1-g-polite-conditional"
+     ]
+    },
+    {
+     "id": "a1-24",
+     "title": "Clothes and sizes",
+     "objective": "Talk about clothes, sizes and colours, and ask quel / quelle.",
+     "covers": [
+      "A1-v-clothes"
+     ]
+    },
+    {
+     "id": "a1-25",
+     "title": "Can, want, must; invitations",
+     "objective": "Use pouvoir, vouloir, devoir and il faut; invite, accept and refuse; make appointments.",
+     "covers": [
+      "A1-g-modals",
+      "A1-f-invite",
+      "A1-f-appointment"
+     ]
+    },
+    {
+     "id": "a1-26",
+     "title": "Home sweet home",
+     "objective": "Describe your home, its rooms and furniture.",
+     "covers": [
+      "A1-v-home"
+     ]
+    },
+    {
+     "id": "a1-27",
+     "title": "Transport and travel",
+     "objective": "Get around by train, bus and metro and buy a ticket.",
+     "covers": [
+      "A1-v-transport",
+      "A1-f-transport"
+     ]
+    },
+    {
+     "id": "a1-28",
+     "title": "Health and the body",
+     "objective": "Name parts of the body, say where it hurts, and explain why with parce que and pour.",
+     "covers": [
+      "A1-v-body",
+      "A1-f-health",
+      "A1-g-connectors"
+     ]
+    },
+    {
+     "id": "a1-29",
+     "title": "Plans: the near future",
+     "objective": "Talk about your plans with aller + infinitive and time expressions.",
+     "covers": [
+      "A1-g-futur-proche",
+      "A1-f-plans",
+      "A1-p-linking"
+     ]
+    },
+    {
+     "id": "a1-30",
+     "title": "What I did: the passé composé",
+     "objective": "Say what you did and have just done, with the passé composé and venir de; write a postcard.",
+     "covers": [
+      "A1-g-passe-compose",
+      "A1-g-recent-progressive",
+      "A1-s-writing"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "A2",
+   "title": "A2 · Elementary",
+   "test": {
+    "id": "a2-test",
+    "title": "A2 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   },
+   "lessons": [
+    {
+     "id": "a2-01",
+     "title": "Back to the past: the passé composé",
+     "objective": "Use the passé composé with être and pronominal verbs, with the right agreement.",
+     "covers": [
+      "A2-g-pc-agreement"
+     ]
+    },
+    {
+     "id": "a2-02",
+     "title": "When I was a child: the imparfait",
+     "objective": "Describe how things were and what you used to do with the imparfait.",
+     "covers": [
+      "A2-g-imparfait"
+     ]
+    },
+    {
+     "id": "a2-03",
+     "title": "Telling a story: passé composé or imparfait?",
+     "objective": "Choose between the passé composé and the imparfait, and hear j'ai parlé vs je parlais.",
+     "covers": [
+      "A2-g-pc-imparfait",
+      "A2-p-e-epsilon"
+     ]
+    },
+    {
+     "id": "a2-04",
+     "title": "Anecdotes and memories",
+     "objective": "Tell an anecdote in order with d'abord, puis, ensuite, enfin, pendant and depuis.",
+     "covers": [
+      "A2-f-narrate",
+      "A2-g-connectors",
+      "A2-g-place-time"
+     ]
+    },
+    {
+     "id": "a2-05",
+     "title": "Direct object pronouns",
+     "objective": "Replace things and people with le, la, l', les.",
+     "covers": [
+      "A2-g-object-pronouns",
+      "A2-v-objects"
+     ]
+    },
+    {
+     "id": "a2-06",
+     "title": "Indirect object pronouns",
+     "objective": "Use lui and leur with verbs like parler à, téléphoner à, donner à.",
+     "covers": [
+      "A2-g-object-pronouns"
+     ]
+    },
+    {
+     "id": "a2-07",
+     "title": "Y and en",
+     "objective": "Use y for places and en for quantities.",
+     "covers": [
+      "A2-g-y-en"
+     ]
+    },
+    {
+     "id": "a2-08",
+     "title": "Qui, que, où",
+     "objective": "Join sentences with the relative pronouns qui, que and où.",
+     "covers": [
+      "A2-g-relatives",
+      "A2-p-liaison"
+     ]
+    },
+    {
+     "id": "a2-09",
+     "title": "Comparing",
+     "objective": "Compare people, places and things with plus, moins, aussi and the superlative.",
+     "covers": [
+      "A2-g-comparison",
+      "A2-f-compare"
+     ]
+    },
+    {
+     "id": "a2-10",
+     "title": "Describing people in detail",
+     "objective": "Describe looks, clothes, character and relationships.",
+     "covers": [
+      "A2-f-people",
+      "A2-v-personality",
+      "A2-v-clothes"
+     ]
+    },
+    {
+     "id": "a2-11",
+     "title": "Life stories",
+     "objective": "Tell someone's life story and write a short portrait.",
+     "covers": [
+      "A2-f-biography"
+     ]
+    },
+    {
+     "id": "a2-12",
+     "title": "The future: futur simple",
+     "objective": "Make predictions and promises with the futur simple.",
+     "covers": [
+      "A2-g-futur-simple",
+      "A2-p-nasals"
+     ]
+    },
+    {
+     "id": "a2-13",
+     "title": "Not any more, nothing, nobody",
+     "objective": "Use ne… plus, ne… rien, ne… personne and ne… jamais.",
+     "covers": [
+      "A2-g-negation",
+      "A2-p-schwa"
+     ]
+    },
+    {
+     "id": "a2-14",
+     "title": "Instructions and advice",
+     "objective": "Give instructions, directions and advice, including the imperative with pronouns.",
+     "covers": [
+      "A2-g-imperative",
+      "A2-f-instructions",
+      "A2-f-advice"
+     ]
+    },
+    {
+     "id": "a2-15",
+     "title": "Verbs with à and de",
+     "objective": "Use verbs followed by à or de: commencer à, arrêter de, penser à, essayer de.",
+     "covers": [
+      "A2-g-prep-verbs"
+     ]
+    },
+    {
+     "id": "a2-16",
+     "title": "How often and how much",
+     "objective": "Say how often and how much with tout, souvent, parfois, assez and peu.",
+     "covers": [
+      "A2-g-tout",
+      "A2-g-adverbs"
+     ]
+    },
+    {
+     "id": "a2-17",
+     "title": "Congratulations and good wishes",
+     "objective": "Exclaim with quel, que, comme; congratulate, wish and compliment.",
+     "covers": [
+      "A2-g-exclamation",
+      "A2-f-wishes"
+     ]
+    },
+    {
+     "id": "a2-18",
+     "title": "Giving your opinion",
+     "objective": "Agree, disagree and give an opinion; say what you liked or didn't like.",
+     "covers": [
+      "A2-f-opinion",
+      "A2-f-likes"
+     ]
+    },
+    {
+     "id": "a2-19",
+     "title": "Why, so, in order to",
+     "objective": "Give causes, consequences and purposes.",
+     "covers": [
+      "A2-g-logic"
+     ]
+    },
+    {
+     "id": "a2-20",
+     "title": "Let's do something",
+     "objective": "Suggest, invite, accept, refuse and organise an outing; on and its meanings.",
+     "covers": [
+      "A2-f-suggest",
+      "A2-g-on",
+      "A2-g-polite-conditional"
+     ]
+    },
+    {
+     "id": "a2-21",
+     "title": "On the phone",
+     "objective": "Phone someone, leave a message, interrupt politely and check understanding.",
+     "covers": [
+      "A2-f-phone",
+      "A2-s-phone",
+      "A2-f-conversation",
+      "A2-p-r"
+     ]
+    },
+    {
+     "id": "a2-22",
+     "title": "Can I help?",
+     "objective": "Offer and ask for help, say what you'd like to do, and warn someone.",
+     "covers": [
+      "A2-f-help"
+     ]
+    },
+    {
+     "id": "a2-23",
+     "title": "At the doctor's",
+     "objective": "Describe symptoms and how you feel, and follow a doctor's advice.",
+     "covers": [
+      "A2-v-health"
+     ]
+    },
+    {
+     "id": "a2-24",
+     "title": "Work and jobs",
+     "objective": "Talk about your work experience, workplace and colleagues.",
+     "covers": [
+      "A2-f-work",
+      "A2-v-work"
+     ]
+    },
+    {
+     "id": "a2-25",
+     "title": "School and studies",
+     "objective": "Talk about the French school system, your studies and training.",
+     "covers": [
+      "A2-v-education"
+     ]
+    },
+    {
+     "id": "a2-26",
+     "title": "Travel and holidays",
+     "objective": "Book a hotel, describe a place you visited and solve problems while travelling.",
+     "covers": [
+      "A2-v-travel",
+      "A2-f-describe"
+     ]
+    },
+    {
+     "id": "a2-27",
+     "title": "Finding a flat",
+     "objective": "Rent a flat, describe it and report problems.",
+     "covers": [
+      "A2-v-housing",
+      "A2-f-information"
+     ]
+    },
+    {
+     "id": "a2-28",
+     "title": "In the kitchen",
+     "objective": "Follow and give a recipe, with en for quantities.",
+     "covers": [
+      "A2-v-cooking"
+     ]
+    },
+    {
+     "id": "a2-29",
+     "title": "Festivals and traditions",
+     "objective": "Talk about French festivals and customs; possessive pronouns.",
+     "covers": [
+      "A2-v-traditions",
+      "A2-g-possessive-pronouns"
+     ]
+    },
+    {
+     "id": "a2-30",
+     "title": "Writing to a friend",
+     "objective": "Write a friendly letter or email to invite, thank, apologise or give news.",
+     "covers": [
+      "A2-s-letters"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "B1",
+   "title": "B1 · Intermediate",
+   "test": {
+    "id": "b1-test",
+    "title": "B1 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   },
+   "lessons": [
+    {
+     "id": "b1-01",
+     "title": "Telling a story well",
+     "objective": "Combine the passé composé and the imparfait in a narrative with la veille, le lendemain and autrefois.",
+     "covers": [
+      "B1-g-narrative"
+     ]
+    },
+    {
+     "id": "b1-02",
+     "title": "Before that: the plus-que-parfait",
+     "objective": "Say what had already happened with the plus-que-parfait.",
+     "covers": [
+      "B1-g-pqp"
+     ]
+    },
+    {
+     "id": "b1-03",
+     "title": "I would like…: the conditional",
+     "objective": "Form the conditionnel présent and use it for wishes and politeness; tell parlerai from parlerais.",
+     "covers": [
+      "B1-g-conditional",
+      "B1-p-future-conditional"
+     ]
+    },
+    {
+     "id": "b1-04",
+     "title": "If you were me…",
+     "objective": "Give advice and make suggestions with the conditional: tu devrais, à ta place, et si on… ?",
+     "covers": [
+      "B1-f-advice"
+     ]
+    },
+    {
+     "id": "b1-05",
+     "title": "If…: hypotheses",
+     "objective": "Make hypotheses about the real and the imaginary with si.",
+     "covers": [
+      "B1-g-hypothesis",
+      "B1-f-hypothetical"
+     ]
+    },
+    {
+     "id": "b1-06",
+     "title": "Il faut que: the subjunctive begins",
+     "objective": "Form the present subjunctive and use it after il faut que.",
+     "covers": [
+      "B1-g-subj-il-faut",
+      "B1-f-obligation"
+     ]
+    },
+    {
+     "id": "b1-07",
+     "title": "Wishes and feelings with the subjunctive",
+     "objective": "Use the subjunctive after vouloir que, être content que, avoir peur que.",
+     "covers": [
+      "B1-g-subj-feelings"
+     ]
+    },
+    {
+     "id": "b1-08",
+     "title": "Subjunctive or indicative?",
+     "objective": "Choose between them after espérer, croire, penser and their negatives.",
+     "covers": [
+      "B1-g-subj-indic"
+     ]
+    },
+    {
+     "id": "b1-09",
+     "title": "In my opinion",
+     "objective": "Express and justify an opinion, agree and disagree with nuance.",
+     "covers": [
+      "B1-f-opinion"
+     ]
+    },
+    {
+     "id": "b1-10",
+     "title": "Feelings, hopes and ambitions",
+     "objective": "Name feelings and talk about hopes, intentions and ambitions.",
+     "covers": [
+      "B1-f-feelings",
+      "B1-v-feelings",
+      "B1-p-expressive"
+     ]
+    },
+    {
+     "id": "b1-11",
+     "title": "He says that…: reported speech",
+     "objective": "Report statements and questions in the present.",
+     "covers": [
+      "B1-g-reported",
+      "B1-f-report"
+     ]
+    },
+    {
+     "id": "b1-12",
+     "title": "Two pronouns together",
+     "objective": "Use two object pronouns in the right order.",
+     "covers": [
+      "B1-g-double-pronouns"
+     ]
+    },
+    {
+     "id": "b1-13",
+     "title": "Y and en with verbs",
+     "objective": "Replace à + thing with y and de + thing with en.",
+     "covers": [
+      "B1-g-y-en-verbs"
+     ]
+    },
+    {
+     "id": "b1-14",
+     "title": "Dont and lequel",
+     "objective": "Use dont and lequel, auquel, duquel.",
+     "covers": [
+      "B1-g-dont-lequel"
+     ]
+    },
+    {
+     "id": "b1-15",
+     "title": "C'est lui qui…: emphasis",
+     "objective": "Highlight information with c'est… qui / que and ce qui, ce que, ce dont.",
+     "covers": [
+      "B1-g-emphasis",
+      "B1-p-emphasis"
+     ]
+    },
+    {
+     "id": "b1-16",
+     "title": "Some, each, none",
+     "objective": "Use plusieurs, quelques, certains, chacun, and ne… que, ne… aucun, ni… ni.",
+     "covers": [
+      "B1-g-indefinites",
+      "B1-g-negation"
+     ]
+    },
+    {
+     "id": "b1-17",
+     "title": "The passive",
+     "objective": "Say what is done, and by whom, with the passive.",
+     "covers": [
+      "B1-g-passive"
+     ]
+    },
+    {
+     "id": "b1-18",
+     "title": "En + -ant: the gérondif",
+     "objective": "Express simultaneity, manner and condition with the gérondif.",
+     "covers": [
+      "B1-g-gerund"
+     ]
+    },
+    {
+     "id": "b1-19",
+     "title": "Past participles with avoir",
+     "objective": "Make the past participle agree with a direct object placed before it.",
+     "covers": [
+      "B1-g-pp-agreement"
+     ]
+    },
+    {
+     "id": "b1-20",
+     "title": "Explaining causes",
+     "objective": "Explain causes with car, comme, puisque, grâce à, à cause de and en effet.",
+     "covers": [
+      "B1-g-cause"
+     ]
+    },
+    {
+     "id": "b1-21",
+     "title": "Consequences and purposes",
+     "objective": "Express consequences and purposes, including pour que + subjunctive.",
+     "covers": [
+      "B1-g-consequence-purpose"
+     ]
+    },
+    {
+     "id": "b1-22",
+     "title": "Although, however, despite",
+     "objective": "Express opposition and concession.",
+     "covers": [
+      "B1-g-opposition"
+     ]
+    },
+    {
+     "id": "b1-23",
+     "title": "The news",
+     "objective": "Read headlines and news stories; turn verbs into nouns.",
+     "covers": [
+      "B1-g-nominalisation",
+      "B1-v-media"
+     ]
+    },
+    {
+     "id": "b1-24",
+     "title": "Fashion and style",
+     "objective": "Talk about fashion; adverbs in -ment, environ, presque, autant.",
+     "covers": [
+      "B1-v-fashion",
+      "B1-g-adverbs"
+     ]
+    },
+    {
+     "id": "b1-25",
+     "title": "Problems and complaints",
+     "objective": "State a problem, propose solutions, and complain politely.",
+     "covers": [
+      "B1-f-problem",
+      "B1-f-complain"
+     ]
+    },
+    {
+     "id": "b1-26",
+     "title": "Formal letters and emails",
+     "objective": "Write formal emails and letters with the right openings and closings.",
+     "covers": [
+      "B1-s-formal-letter"
+     ]
+    },
+    {
+     "id": "b1-27",
+     "title": "Job interviews",
+     "objective": "Talk about your experience in a job interview; conduct an interview.",
+     "covers": [
+      "B1-f-interview",
+      "B1-v-work"
+     ]
+    },
+    {
+     "id": "b1-28",
+     "title": "Giving a presentation",
+     "objective": "Present a topic or project in a clear order and conclude it.",
+     "covers": [
+      "B1-f-present",
+      "B1-s-presentation",
+      "B1-g-connectors",
+      "B1-p-optional-liaison"
+     ]
+    },
+    {
+     "id": "b1-29",
+     "title": "Taking part in a discussion",
+     "objective": "Take the floor, keep a discussion going, check understanding and rephrase.",
+     "covers": [
+      "B1-d-discussion",
+      "B1-f-reformulate"
+     ]
+    },
+    {
+     "id": "b1-30",
+     "title": "Reviews: films, books and shows",
+     "objective": "Review and recommend a film, book or show.",
+     "covers": [
+      "B1-f-evaluate",
+      "B1-v-culture"
+     ]
+    },
+    {
+     "id": "b1-31",
+     "title": "Summing up",
+     "objective": "Summarise a short article or interview and give your view.",
+     "covers": [
+      "B1-f-summarise"
+     ]
+    },
+    {
+     "id": "b1-32",
+     "title": "Studies, training and wellbeing",
+     "objective": "Talk about education and training, and health and wellbeing.",
+     "covers": [
+      "B1-v-education",
+      "B1-v-health"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "B2",
+   "title": "B2 · Upper intermediate",
+   "test": {
+    "id": "b2-test",
+    "title": "B2 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   },
+   "lessons": [
+    {
+     "id": "b2-01",
+     "title": "Registers: how French changes with the situation",
+     "objective": "Recognise formal, standard and informal French, including the way people really speak.",
+     "covers": [
+      "B2-s-registers",
+      "B2-p-informal-speech"
+     ]
+    },
+    {
+     "id": "b2-02",
+     "title": "By then: the futur antérieur",
+     "objective": "Say what will have happened by a point in the future.",
+     "covers": [
+      "B2-g-futur-anterieur"
+     ]
+    },
+    {
+     "id": "b2-03",
+     "title": "I should have…: the conditionnel passé",
+     "objective": "Express regret and reproach, and report unconfirmed news, with the conditionnel passé.",
+     "covers": [
+      "B2-g-conditionnel-passe",
+      "B2-f-regret"
+     ]
+    },
+    {
+     "id": "b2-04",
+     "title": "If I had known…",
+     "objective": "Make hypotheses about the past; use avec, sans and au cas où.",
+     "covers": [
+      "B2-g-hypothesis-past"
+     ]
+    },
+    {
+     "id": "b2-05",
+     "title": "Doubt, possibility and judgement",
+     "objective": "Use the subjunctive after je doute que, il est possible que, il est normal que.",
+     "covers": [
+      "B2-g-subj-doubt"
+     ]
+    },
+    {
+     "id": "b2-06",
+     "title": "Subjunctive after conjunctions",
+     "objective": "Use the subjunctive after avant que, sans que, bien que, pourvu que — or an infinitive instead.",
+     "covers": [
+      "B2-g-subj-conjunctions",
+      "B2-g-condition"
+     ]
+    },
+    {
+     "id": "b2-07",
+     "title": "The past subjunctive",
+     "objective": "Use the past subjunctive for completed actions.",
+     "covers": [
+      "B2-g-subj-past"
+     ]
+    },
+    {
+     "id": "b2-08",
+     "title": "After having…: the past infinitive",
+     "objective": "Use après avoir / après être + past participle.",
+     "covers": [
+      "B2-g-infinitif-passe"
+     ]
+    },
+    {
+     "id": "b2-09",
+     "title": "Participles and the gérondif",
+     "objective": "Use the present participle and verbal adjective, and tell them from the gérondif.",
+     "covers": [
+      "B2-g-participles"
+     ]
+    },
+    {
+     "id": "b2-10",
+     "title": "He said that he would…",
+     "objective": "Report speech in the past with the right sequence of tenses.",
+     "covers": [
+      "B2-g-reported-past"
+     ]
+    },
+    {
+     "id": "b2-11",
+     "title": "Lequel and its forms",
+     "objective": "Ask lequel ? and use preposition + lequel in relative clauses.",
+     "covers": [
+      "B2-g-lequel"
+     ]
+    },
+    {
+     "id": "b2-12",
+     "title": "Past participle agreement: hard cases",
+     "objective": "Handle agreement with pronominal verbs, en and fait + infinitive.",
+     "covers": [
+      "B2-g-pp-agreement"
+     ]
+    },
+    {
+     "id": "b2-13",
+     "title": "Certain, probable, doubtful",
+     "objective": "Express degrees of certainty, probability and doubt.",
+     "covers": [
+      "B2-f-certainty"
+     ]
+    },
+    {
+     "id": "b2-14",
+     "title": "Cause and consequence: going further",
+     "objective": "Use en raison de, faute de, à force de, si bien que, de sorte que, tellement… que.",
+     "covers": [
+      "B2-g-cause-consequence"
+     ]
+    },
+    {
+     "id": "b2-15",
+     "title": "Opposition and concession: going further",
+     "objective": "Use en revanche, néanmoins, toutefois, or, quoique, même si.",
+     "covers": [
+      "B2-g-opposition-concession"
+     ]
+    },
+    {
+     "id": "b2-16",
+     "title": "Aims and obligations",
+     "objective": "Express purpose with en vue de, dans le but de, de crainte de, and obligation.",
+     "covers": [
+      "B2-g-purpose"
+     ]
+    },
+    {
+     "id": "b2-17",
+     "title": "Building an argument",
+     "objective": "Add and illustrate arguments with de plus, en outre, d'ailleurs, non seulement… mais encore.",
+     "covers": [
+      "B2-g-additive",
+      "B2-p-argument"
+     ]
+    },
+    {
+     "id": "b2-18",
+     "title": "Organising a text",
+     "objective": "Plan a text with an introduction, thesis, antithesis and conclusion.",
+     "covers": [
+      "B2-d-structure"
+     ]
+    },
+    {
+     "id": "b2-19",
+     "title": "In other words: reformulating and concluding",
+     "objective": "Rephrase and conclude: autrement dit, de toute façon, en définitive.",
+     "covers": [
+      "B2-d-reformulate"
+     ]
+    },
+    {
+     "id": "b2-20",
+     "title": "Debates and meetings",
+     "objective": "Run or join a debate or meeting: invite others to speak, refocus, sum up.",
+     "covers": [
+      "B2-d-discussion",
+      "B2-s-meetings"
+     ]
+    },
+    {
+     "id": "b2-21",
+     "title": "Taking a stand",
+     "objective": "Defend a position methodically, weighing advantages and disadvantages.",
+     "covers": [
+      "B2-f-argue"
+     ]
+    },
+    {
+     "id": "b2-22",
+     "title": "Hesitating and complaining",
+     "objective": "Hesitate politely and handle a complaint on the phone.",
+     "covers": [
+      "B2-f-hesitate"
+     ]
+    },
+    {
+     "id": "b2-23",
+     "title": "Reading the press",
+     "objective": "Read and analyse news articles, including the journalistic conditional.",
+     "covers": [
+      "B2-v-media",
+      "B2-f-analyse"
+     ]
+    },
+    {
+     "id": "b2-24",
+     "title": "The environment",
+     "objective": "Discuss the environment, climate and ecology.",
+     "covers": [
+      "B2-v-environment"
+     ]
+    },
+    {
+     "id": "b2-25",
+     "title": "Society and values",
+     "objective": "Discuss social trends and problems, politics and values.",
+     "covers": [
+      "B2-v-society"
+     ]
+    },
+    {
+     "id": "b2-26",
+     "title": "The economy and work",
+     "objective": "Discuss the economy and the world of work.",
+     "covers": [
+      "B2-v-economy"
+     ]
+    },
+    {
+     "id": "b2-27",
+     "title": "Science and technology",
+     "objective": "Discuss science, technology and digital life; specialised vocabulary.",
+     "covers": [
+      "B2-v-technology"
+     ]
+    },
+    {
+     "id": "b2-28",
+     "title": "Arts and culture",
+     "objective": "Discuss and analyse films, books and art.",
+     "covers": [
+      "B2-v-culture"
+     ]
+    },
+    {
+     "id": "b2-29",
+     "title": "Feelings, relationships and idioms",
+     "objective": "Talk about feelings and relationships in depth, with common idioms.",
+     "covers": [
+      "B2-v-feelings"
+     ]
+    },
+    {
+     "id": "b2-30",
+     "title": "Studies and summaries",
+     "objective": "Summarise a text with its positions; academic and professional writing.",
+     "covers": [
+      "B2-f-synthesise",
+      "B2-v-education"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "C1",
+   "title": "C1 · Advanced",
+   "test": {
+    "id": "c1-test",
+    "title": "C1 level test",
+    "questions": 30,
+    "fromThisLevel": 0.7
+   },
+   "lessons": [
+    {
+     "id": "c1-01",
+     "title": "The passé simple",
+     "objective": "Recognise and read the passé simple and passé antérieur.",
+     "covers": [
+      "C1-g-passe-simple"
+     ]
+    },
+    {
+     "id": "c1-02",
+     "title": "Narrating: récit and discours",
+     "objective": "Choose tenses and moods for narration and description.",
+     "covers": [
+      "C1-g-narration"
+     ]
+    },
+    {
+     "id": "c1-03",
+     "title": "Literary language and style",
+     "objective": "Recognise narrative, descriptive, lyrical and burlesque styles.",
+     "covers": [
+      "C1-s-literary"
+     ]
+    },
+    {
+     "id": "c1-04",
+     "title": "Nuance and hedging",
+     "objective": "Attenuate and qualify what you say.",
+     "covers": [
+      "C1-f-nuance"
+     ]
+    },
+    {
+     "id": "c1-05",
+     "title": "Cause: going further",
+     "objective": "Use considérant que, d'autant plus que, surtout que, étant donné que.",
+     "covers": [
+      "C1-g-cause"
+     ]
+    },
+    {
+     "id": "c1-06",
+     "title": "Consequence: going further",
+     "objective": "Use à tel point que, au point que, si… que.",
+     "covers": [
+      "C1-g-consequence"
+     ]
+    },
+    {
+     "id": "c1-07",
+     "title": "Concession: going further",
+     "objective": "Use encore que, quand bien même, avoir beau, si… que + subjunctive.",
+     "covers": [
+      "C1-g-concession"
+     ]
+    },
+    {
+     "id": "c1-08",
+     "title": "Purpose: going further",
+     "objective": "Use veiller à ce que, de crainte que, de peur que.",
+     "covers": [
+      "C1-g-purpose"
+     ]
+    },
+    {
+     "id": "c1-09",
+     "title": "The expletive ne and formal negation",
+     "objective": "Recognise and use ne explétif, nul, nulle part and literary ne.",
+     "covers": [
+      "C1-g-ne-expletif"
+     ]
+    },
+    {
+     "id": "c1-10",
+     "title": "Hypotheses: full mastery",
+     "objective": "Handle all hypothetical structures, including formal inversion.",
+     "covers": [
+      "C1-g-hypothesis"
+     ]
+    },
+    {
+     "id": "c1-11",
+     "title": "Emphasis and word order",
+     "objective": "Use dislocation and cleft sentences for emphasis.",
+     "covers": [
+      "C1-g-emphasis",
+      "C1-p-prosody"
+     ]
+    },
+    {
+     "id": "c1-12",
+     "title": "Inversion",
+     "objective": "Use subject inversion after peut-être, aussi, ainsi, sans doute and in formal questions.",
+     "covers": [
+      "C1-g-inversion"
+     ]
+    },
+    {
+     "id": "c1-13",
+     "title": "Developing an argument",
+     "objective": "Support a point with secondary arguments and examples; manage transitions and digressions.",
+     "covers": [
+      "C1-d-argument",
+      "C1-f-argue"
+     ]
+    },
+    {
+     "id": "c1-14",
+     "title": "The synthèse",
+     "objective": "Summarise and combine several documents objectively.",
+     "covers": [
+      "C1-f-synthesis"
+     ]
+    },
+    {
+     "id": "c1-15",
+     "title": "The argued essay",
+     "objective": "Plan and write an essai argumenté.",
+     "covers": [
+      "C1-f-argue"
+     ]
+    },
+    {
+     "id": "c1-16",
+     "title": "The oral presentation",
+     "objective": "Give an exposé from documents and discuss it.",
+     "covers": [
+      "C1-f-exposé"
+     ]
+    },
+    {
+     "id": "c1-17",
+     "title": "Analysing discourse",
+     "objective": "Analyse polemical, political and diplomatic texts; implicit meaning.",
+     "covers": [
+      "C1-f-analyse",
+      "C1-s-implicit"
+     ]
+    },
+    {
+     "id": "c1-18",
+     "title": "Irony, humour and tone",
+     "objective": "Recognise and convey irony, humour, exasperation and cynicism.",
+     "covers": [
+      "C1-s-tone"
+     ]
+    },
+    {
+     "id": "c1-19",
+     "title": "Idiomatic French",
+     "objective": "Understand and use common idiomatic expressions.",
+     "covers": [
+      "C1-s-idioms"
+     ]
+    },
+    {
+     "id": "c1-20",
+     "title": "Quoting and reporting",
+     "objective": "Quote and report others' views with precise reporting verbs.",
+     "covers": [
+      "C1-s-quotations"
+     ]
+    },
+    {
+     "id": "c1-21",
+     "title": "Politics and institutions",
+     "objective": "Discuss politics, institutions and social values.",
+     "covers": [
+      "C1-v-politics"
+     ]
+    },
+    {
+     "id": "c1-22",
+     "title": "The economy and business",
+     "objective": "Discuss the economy and business at an advanced level.",
+     "covers": [
+      "C1-v-economy"
+     ]
+    },
+    {
+     "id": "c1-23",
+     "title": "Law and justice",
+     "objective": "Discuss law and justice.",
+     "covers": [
+      "C1-v-law"
+     ]
+    },
+    {
+     "id": "c1-24",
+     "title": "History and memory",
+     "objective": "Discuss history and collective memory.",
+     "covers": [
+      "C1-v-history"
+     ]
+    },
+    {
+     "id": "c1-25",
+     "title": "Science and research",
+     "objective": "Discuss science and research.",
+     "covers": [
+      "C1-v-science",
+      "C1-v-culture"
+     ]
+    },
+    {
+     "id": "c1-26",
+     "title": "French around the world",
+     "objective": "Recognise varieties of French in Québec, Belgium, Switzerland and Africa.",
+     "covers": [
+      "C1-p-varieties"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""CHK-002 — every lesson is complete, answerable, and taught in order.
+"""CHK-002 (Spanish) and CHK-006 (French, --lang fr) — every lesson is complete,
+answerable, and taught in order.
 
-Covers G2, C-NO-FORWARD-REFERENCES and C-ANSWERABLE. For every lesson in the outline:
+Covers G2 / G9, C-NO-FORWARD-REFERENCES and C-ANSWERABLE. For every lesson in the outline:
 
   completeness   a content file exists; explanation of at least 300 characters; at least
                  10 example sentences with translations; at least 8 vocabulary entries with
@@ -19,21 +20,29 @@ Covers G2, C-NO-FORWARD-REFERENCES and C-ANSWERABLE. For every lesson in the out
                  least one accepted answer (extra accepted variants may go beyond what was
                  taught — accepting them never requires them). Proper nouns (capitalised
                  mid-sentence) and numbers are exempt.
+  French also    every vocabulary entry carries a pronunciation guide (IPA) as its third
+                 field, and a gender ("m" / "f") as an optional fourth; nothing else.
 
-    python3 checks/scripts/check_content.py            # whole course
+    python3 checks/scripts/check_content.py            # whole Spanish course
     python3 checks/scripts/check_content.py a1-05      # one lesson (still uses earlier lessons)
+    python3 checks/scripts/check_content.py --lang fr  # the French course
 """
 import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "scripts"))
 from courselib import (  # noqa: E402
-    AUTHORED_TYPES, build_lesson, lesson_path, load_course, load_json, normalise,
-    ordered_lessons, spanish_spans_in_body, tokens, WORD_RE,
+    AUTHORED_TYPES, ROOT, build_lesson, lang_from_argv, lesson_path, load_course, load_json,
+    normalise, ordered_lessons, target_spans_in_body,
 )
 
-only = set(sys.argv[1:])
-course = load_course()
+LANG, args = lang_from_argv(sys.argv[1:])
+WORD_RE = LANG.word_re
+only = set(args)
+if not LANG.course_file.exists():
+    print(f"CONTENT CHECK FAILED ({LANG.name}): no course outline yet ({LANG.course_file.relative_to(ROOT)})")
+    sys.exit(1)
+course = load_course(LANG)
 errors: list[str] = []
 known: set[str] = set()
 earlier_vocab: list = []
@@ -41,7 +50,7 @@ checked = 0
 
 
 def learn(text: str) -> None:
-    for t in tokens(text):
+    for t in WORD_RE.findall(text):
         known.add(normalise(t))
 
 
@@ -59,29 +68,29 @@ def required_words(text: str) -> list[str]:
 
 for level, meta in ordered_lessons(course):
     lid = meta["id"]
-    path = lesson_path(lid)
+    path = lesson_path(lid, LANG)
     if not path.exists():
         if not only or lid in only:
-            errors.append(f"{lid}: no content file (content/lessons/{lid}.json)")
+            errors.append(f"{lid}: no content file ({path.relative_to(ROOT)})")
         continue
     src = load_json(path)
 
     # What this lesson teaches becomes known before its exercises are checked.
-    for es, _en in src.get("vocab", []):
-        learn(es)
+    for entry in src.get("vocab", []):
+        learn(entry[0] if entry else "")
     for es, _en in src.get("examples", []):
         learn(es)
     for sec in src.get("sections", []):
-        for span in spanish_spans_in_body(sec.get("body", "")):
+        for span in target_spans_in_body(sec.get("body", "")):
             learn(span)
         table = sec.get("table")
         if table:
             for row in [table.get("head", [])] + table.get("rows", []):
                 for cell in row:
-                    for span in spanish_spans_in_body(cell):  # only *italic* Spanish teaches
+                    for span in target_spans_in_body(cell):  # only *italic* target language teaches
                         learn(span)
 
-    built = build_lesson(lid, meta, level, earlier_vocab[-60:])
+    built = build_lesson(lid, meta, level, earlier_vocab[-60:], LANG)
     earlier_vocab += src.get("vocab", [])
     if only and lid not in only:
         continue
@@ -95,12 +104,19 @@ for level, meta in ordered_lessons(course):
     if len(ex) < 10:
         e(f"{len(ex)} example sentences; expected at least 10")
     if any(len(p) != 2 or not p[0].strip() or not p[1].strip() for p in ex):
-        e("an example sentence is missing its Spanish or English")
+        e(f"an example sentence is missing its {LANG.name} or English")
     voc = src.get("vocab", [])
     if len(voc) < 8:
         e(f"{len(voc)} vocabulary entries; expected at least 8")
-    if any(len(p) != 2 or not p[0].strip() or not p[1].strip() for p in voc):
-        e("a vocabulary entry is missing its Spanish or English")
+    if LANG.code == "es":
+        if any(len(p) != 2 or not p[0].strip() or not p[1].strip() for p in voc):
+            e(f"a vocabulary entry is missing its {LANG.name} or English")
+    else:
+        for p in voc:
+            if len(p) not in (3, 4) or not all(isinstance(x, str) and x.strip() for x in p[:3]):
+                e(f"vocabulary entry {p!r} needs [{LANG.name}, English, pronunciation guide(, gender)]")
+            elif len(p) == 4 and p[3] not in ("m", "f"):
+                e(f"vocabulary entry {p!r}: gender must be \"m\" or \"f\"")
     if len({normalise(v[0]) for v in voc}) != len(voc):
         e("duplicate vocabulary entries")
 
@@ -139,7 +155,7 @@ for level, meta in ordered_lessons(course):
                 e(f"{where}: duplicate options")
             if not isinstance(a, int) or not 0 <= a < len(opts):
                 e(f"{where}: answer index {a!r} is not one of the options")
-            elif it.get("lang") == "es":
+            elif it.get("lang") == LANG.code:
                 spanish.append(opts[a])
         elif t == "fill":
             ans = it.get("answers", [])
@@ -173,10 +189,10 @@ for level, meta in ordered_lessons(course):
             e(f"{where}: uses words not yet taught: {', '.join(unknown)}  [{prompt[:50]}]")
 
 if errors:
-    print(f"CONTENT CHECK FAILED ({len(errors)} problems, {checked} lessons checked)")
+    print(f"CONTENT CHECK FAILED{'' if LANG.code == 'es' else ' (' + LANG.name + ')'} ({len(errors)} problems, {checked} lessons checked)")
     for msg in errors[:80]:
         print("  -", msg)
     if len(errors) > 80:
         print(f"  ... and {len(errors) - 80} more")
     sys.exit(1)
-print(f"content ok: {checked} lessons complete, answerable and in teaching order")
+print(f"{'' if LANG.code == 'es' else LANG.name + ' '}content ok: {checked} lessons complete, answerable and in teaching order")

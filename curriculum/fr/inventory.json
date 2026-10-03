@@ -1,0 +1,1636 @@
+{
+ "about": "Items the French course commits to covering, from the sources in curriculum/fr/research.md (cited by key).",
+ "items": [
+  {
+   "id": "A1-f-greet",
+   "level": "A1",
+   "kind": "function",
+   "description": "Greet, take leave, thank and apologise",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-s-tu-vous",
+   "level": "A1",
+   "kind": "socio",
+   "description": "Tu and vous: when to use each; social formulas",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-p-rhythm",
+   "level": "A1",
+   "kind": "pron",
+   "description": "Rhythm groups and stress on the last syllable of a group",
+   "source": "[AF-A1]"
+  },
+  {
+   "id": "A1-p-letters",
+   "level": "A1",
+   "kind": "pron",
+   "description": "The alphabet, accents and cedilla, silent final letters; spelling aloud",
+   "source": "[AF-A1] [CECR-CV]"
+  },
+  {
+   "id": "A1-p-vowels",
+   "level": "A1",
+   "kind": "pron",
+   "description": "Oral vowel contrasts [i]/[y], [y]/[u], [e]/[ɛ], [ø]/[œ]/[o]",
+   "source": "[AF-A1]"
+  },
+  {
+   "id": "A1-p-nasals",
+   "level": "A1",
+   "kind": "pron",
+   "description": "Nasal vowels [ɛ̃], [ɑ̃], [ɔ̃] and how they are spelled",
+   "source": "[AF-A1]"
+  },
+  {
+   "id": "A1-p-consonants",
+   "level": "A1",
+   "kind": "pron",
+   "description": "Consonant contrasts [s]/[z], [ʃ]/[ʒ]; consonant clusters; French [ʁ]",
+   "source": "[AF-A1]"
+  },
+  {
+   "id": "A1-p-intonation",
+   "level": "A1",
+   "kind": "pron",
+   "description": "Intonation of statements and questions",
+   "source": "[AF-A1]"
+  },
+  {
+   "id": "A1-p-linking",
+   "level": "A1",
+   "kind": "pron",
+   "description": "Linking words: enchaînement, elision and liaison",
+   "source": "[AF-A1]"
+  },
+  {
+   "id": "A1-f-spell",
+   "level": "A1",
+   "kind": "function",
+   "description": "Ask someone to repeat, spell, explain or speak more slowly",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-f-introduce",
+   "level": "A1",
+   "kind": "function",
+   "description": "Introduce yourself and others; ask about someone's identity",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-f-personal-info",
+   "level": "A1",
+   "kind": "function",
+   "description": "Ask for and give personal information: age, nationality, languages, address, phone",
+   "source": "[INV] [AF-A1] [DELF]"
+  },
+  {
+   "id": "A1-g-pronouns",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Subject pronouns (including on) and stressed pronouns (moi, toi…)",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-g-etre-avoir",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Present tense of être, avoir and s'appeler",
+   "source": "[AF-A1] [INV]"
+  },
+  {
+   "id": "A1-g-present-er",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Present tense of regular -er verbs",
+   "source": "[AF-A1] [INV]"
+  },
+  {
+   "id": "A1-g-present-irr",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Present tense of common irregular verbs: aller, faire, venir, prendre",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-g-pronominal",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Pronominal (reflexive) verbs in the present",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-articles",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Definite and indefinite articles; masculine and feminine, singular and plural",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-presentatives",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "C'est / ce sont, voici / voilà, il y a; Qui est-ce ? Qu'est-ce que c'est ?",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-g-negation",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Negation ne… pas, ne… jamais; pas de",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-questions",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Questions by intonation, with est-ce que, and with question words (qui, où, quand, comment, combien, pourquoi, quel)",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-adjectives",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Adjectives: agreement and position",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-possessives",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Possessive adjectives",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-demonstratives",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Demonstrative adjectives ce, cet, cette, ces",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-partitive",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Partitive articles and quantities: du, de la, des; un kilo de, une tranche de, beaucoup de",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-intensity",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Adverbs of intensity and quantity: très, trop, un peu, beaucoup",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-place",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Prepositions of place (à, au, en, de, chez, dans, sur, sous…) and ici, là",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-time",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Expressing time: à 7 h, en 2015, maintenant, bientôt, demain, dans, depuis, il y a",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-modals",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Devoir, pouvoir, vouloir + infinitive; il faut / il ne faut pas + infinitive",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-g-imperative",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "The imperative of common verbs",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-polite-conditional",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Polite requests: je voudrais, j'aimerais, on pourrait",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-g-futur-proche",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "The near future: aller + infinitive",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-passe-compose",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "The passé composé with avoir and with être (common verbs)",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-g-recent-progressive",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Venir de + infinitive (recent past) and être en train de (in progress)",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-g-connectors",
+   "level": "A1",
+   "kind": "grammar",
+   "description": "Linking: et, ou, mais, alors; pour + infinitive; parce que",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-f-describe",
+   "level": "A1",
+   "kind": "function",
+   "description": "Describe and characterise people, places and things",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-f-tastes",
+   "level": "A1",
+   "kind": "function",
+   "description": "Talk about likes and dislikes",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-f-habits",
+   "level": "A1",
+   "kind": "function",
+   "description": "Ask and talk about daily habits and timetables",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-f-time",
+   "level": "A1",
+   "kind": "function",
+   "description": "Count; ask and tell the time, opening hours, prices and dates",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-f-shopping",
+   "level": "A1",
+   "kind": "function",
+   "description": "Buy things and services; say how much you want",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-f-restaurant",
+   "level": "A1",
+   "kind": "function",
+   "description": "Book a table and order in a café or restaurant",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-f-invite",
+   "level": "A1",
+   "kind": "function",
+   "description": "Invite and offer; accept or refuse; thank",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-f-appointment",
+   "level": "A1",
+   "kind": "function",
+   "description": "Make, confirm, move or cancel an appointment",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-f-directions",
+   "level": "A1",
+   "kind": "function",
+   "description": "Ask for and give directions",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-f-transport",
+   "level": "A1",
+   "kind": "function",
+   "description": "Use and talk about means of transport; buy a ticket",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-f-plans",
+   "level": "A1",
+   "kind": "function",
+   "description": "Talk about plans",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-f-health",
+   "level": "A1",
+   "kind": "function",
+   "description": "Say where it hurts; at the pharmacy",
+   "source": "[AF-A1]"
+  },
+  {
+   "id": "A1-f-news",
+   "level": "A1",
+   "kind": "function",
+   "description": "Ask for and give news of someone",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-s-writing",
+   "level": "A1",
+   "kind": "socio",
+   "description": "Writing a postcard, a short friendly message or email; filling in a form",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "A1-v-dates",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Days, months, seasons, dates and holidays",
+   "source": "[INV] [LEX]"
+  },
+  {
+   "id": "A1-v-numbers",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Numbers; personal details and civil status",
+   "source": "[INV] [LEX]"
+  },
+  {
+   "id": "A1-v-countries",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Countries, nationalities and languages",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-v-jobs",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Jobs and the workplace",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-v-family",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Family and relationships",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-v-objects",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Everyday and personal objects; colours",
+   "source": "[INV] [AF-A1] [LEX]"
+  },
+  {
+   "id": "A1-v-daily",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Daily activities",
+   "source": "[INV] [LEX]"
+  },
+  {
+   "id": "A1-v-leisure",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Leisure activities and sports",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-v-town",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Places in town: shops and services",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-v-food",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Food and drink; weights, measures and quantities",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-v-clothes",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Clothes, sizes and accessories",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-v-home",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "The home: rooms, furniture and equipment",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-v-transport",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "Means of transport, travel and holidays",
+   "source": "[INV] [AF-A1]"
+  },
+  {
+   "id": "A1-v-weather",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "The weather",
+   "source": "[INV]"
+  },
+  {
+   "id": "A1-v-body",
+   "level": "A1",
+   "kind": "vocab",
+   "description": "The body and health",
+   "source": "[AF-A1]"
+  },
+  {
+   "id": "A2-g-pc-agreement",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Passé composé review: être verbs, pronominal verbs, agreement of the past participle with être",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-imparfait",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "The imparfait: description and habits in the past",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-pc-imparfait",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Choosing between passé composé and imparfait in a story",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-futur-simple",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "The futur simple",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-negation",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Negation ne… plus, ne… rien, ne… personne",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-imperative",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "The imperative, including with pronouns",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-object-pronouns",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Direct and indirect object pronouns (le, la, les, lui, leur)",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-y-en",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "The pronouns y (place) and en (quantity)",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-on",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "On and its three meanings (we, they, someone)",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-possessive-pronouns",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Possessive pronouns (le mien, la tienne…)",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-relatives",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Relative pronouns qui, que, où",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-comparison",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Comparatives and superlatives",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-tout",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Tout, toute, tous, toutes",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-adverbs",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Adverbs of quantity (assez, peu) and frequency (parfois, souvent, rarement)",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-prep-verbs",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Verbs with prepositions: arrêter de, penser à, commencer à, essayer de",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-place-time",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "More place and time expressions: près de, au bord de, en haut, là-bas; pendant, à partir de, dès",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-exclamation",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Exclamations with quel, que, comme",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-polite-conditional",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Polite conditional in requests and suggestions (je voudrais, on pourrait)",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-logic",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Cause, consequence and purpose: parce que, à cause de, donc, c'est pour ça, pour + noun / infinitive",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-g-connectors",
+   "level": "A2",
+   "kind": "grammar",
+   "description": "Sequencing and adding: d'abord, puis, ensuite, après, enfin; mais, alors, encore, en plus, et puis",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-p-e-epsilon",
+   "level": "A2",
+   "kind": "pron",
+   "description": "Hearing and saying [e] / [ɛ]: j'ai parlé vs je parlais",
+   "source": "[CECR-CV] [AF-A1]"
+  },
+  {
+   "id": "A2-p-schwa",
+   "level": "A2",
+   "kind": "pron",
+   "description": "The unstable e (e caduc): when it is dropped",
+   "source": "[CECR-CV] [LEX]"
+  },
+  {
+   "id": "A2-p-liaison",
+   "level": "A2",
+   "kind": "pron",
+   "description": "Compulsory and forbidden liaison",
+   "source": "[CECR-CV] [AF-A1]"
+  },
+  {
+   "id": "A2-p-nasals",
+   "level": "A2",
+   "kind": "pron",
+   "description": "Telling the nasal vowels apart: [ɑ̃] / [ɔ̃] / [ɛ̃], and nasal vs oral + n",
+   "source": "[CECR-CV] [AF-A1]"
+  },
+  {
+   "id": "A2-p-r",
+   "level": "A2",
+   "kind": "pron",
+   "description": "The French [ʁ] and [l] in clusters",
+   "source": "[CECR-CV] [AF-A1]"
+  },
+  {
+   "id": "A2-f-describe",
+   "level": "A2",
+   "kind": "function",
+   "description": "Describe places; present a country, a town and its people",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-people",
+   "level": "A2",
+   "kind": "function",
+   "description": "Describe people's looks, character and relationships; physical states",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-biography",
+   "level": "A2",
+   "kind": "function",
+   "description": "Tell someone's life story; write a portrait",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-compare",
+   "level": "A2",
+   "kind": "function",
+   "description": "Compare things, people and places",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-instructions",
+   "level": "A2",
+   "kind": "function",
+   "description": "Ask for and give instructions and directions",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-information",
+   "level": "A2",
+   "kind": "function",
+   "description": "Ask for and give information, explanations and details",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-opinion",
+   "level": "A2",
+   "kind": "function",
+   "description": "Express agreement, disagreement and an opinion; give reasons",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-likes",
+   "level": "A2",
+   "kind": "function",
+   "description": "Say what you liked or didn't like; express interest or indifference",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-wishes",
+   "level": "A2",
+   "kind": "function",
+   "description": "Congratulate, give good wishes, pay compliments",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-suggest",
+   "level": "A2",
+   "kind": "function",
+   "description": "Make suggestions and react; invite, accept, refuse; organise something together",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-advice",
+   "level": "A2",
+   "kind": "function",
+   "description": "Ask for and give advice; warn",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-help",
+   "level": "A2",
+   "kind": "function",
+   "description": "Ask for or offer help; say what you want to do",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-phone",
+   "level": "A2",
+   "kind": "function",
+   "description": "Talk on the phone; leave a message",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-conversation",
+   "level": "A2",
+   "kind": "function",
+   "description": "Start and end a conversation; interrupt politely; check you've been understood",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-f-narrate",
+   "level": "A2",
+   "kind": "function",
+   "description": "Tell what happened: an anecdote, a memory, a series of events",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "A2-f-work",
+   "level": "A2",
+   "kind": "function",
+   "description": "Talk about your work experience and workplace",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-s-letters",
+   "level": "A2",
+   "kind": "socio",
+   "description": "Friendly letters and emails: invite, thank, apologise, inform, congratulate",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "A2-s-phone",
+   "level": "A2",
+   "kind": "socio",
+   "description": "Phone conventions",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-personality",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Appearance, character and personality",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-traditions",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Customs, traditions and festivals",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-work",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Work and professional life",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-health",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Health and illness",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-travel",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Holidays and travel; hotels",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-housing",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Housing: renting, furnishing, equipment",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-cooking",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Food and cooking",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-clothes",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Clothes and accessories",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-education",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "School, studies and training",
+   "source": "[INV]"
+  },
+  {
+   "id": "A2-v-objects",
+   "level": "A2",
+   "kind": "vocab",
+   "description": "Personal and everyday objects",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-narrative",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Past tenses together in a narrative (présent, passé composé, imparfait); time markers la veille, le lendemain, autrefois, aussitôt, récemment",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-pqp",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "The plus-que-parfait",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-conditional",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "The conditionnel présent: forms; wishes, politeness, the imaginary",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-hypothesis",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Hypotheses: si + présent → présent / futur; si + imparfait → conditionnel; si + imparfait as a suggestion (et si on sortait ?)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-subj-il-faut",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "The present subjunctive after il faut que (common verbs)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-subj-feelings",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "The subjunctive after verbs of feeling, wish and obligation",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-subj-indic",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Subjunctive or indicative: j'aime que, j'espère que, je crois que, je ne pense pas que",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-reported",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Reported speech in the present: dire que, demander si, ce que",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-double-pronouns",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Two object pronouns together: me le, le lui, m'en…",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-y-en-verbs",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Y and en with verbs + à / de (penser à → y penser, parler de → en parler)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-dont-lequel",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "The relative pronoun dont; compound relatives lequel, auquel, duquel",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-emphasis",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Emphasis: c'est… qui / que; ce qui, ce que, ce dont… c'est",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-indefinites",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Indefinite pronouns and determiners: plusieurs, quelques, certains, chacun",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-negation",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Negation ne… que, ne… aucun, ni… ni",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-passive",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "The passive",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-gerund",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "The gérondif (en + -ant)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-pp-agreement",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Agreement of the past participle with avoir (direct object placed before)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-nominalisation",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Turning verbs into nouns (arriver → l'arrivée)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-adverbs",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Adverbs of manner in -ment; environ, presque, autant; prepositions par, en",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-cause",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Cause: car, comme, puisque, grâce à, en effet",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-consequence-purpose",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Consequence (c'est pourquoi, par conséquent) and purpose (pour que + subjunctive, afin de, afin que)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-opposition",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Opposition and concession: alors que, au contraire, pourtant, cependant, malgré, bien que, quand même",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-g-connectors",
+   "level": "B1",
+   "kind": "grammar",
+   "description": "Connectors également, aussi, finalement, à la fin",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-p-future-conditional",
+   "level": "B1",
+   "kind": "pron",
+   "description": "Telling je parlerai from je parlerais",
+   "source": "[CECR-CV] [LEX]"
+  },
+  {
+   "id": "B1-p-expressive",
+   "level": "B1",
+   "kind": "pron",
+   "description": "Intonation that expresses feelings: surprise, doubt, enthusiasm, annoyance",
+   "source": "[CECR-CV]"
+  },
+  {
+   "id": "B1-p-emphasis",
+   "level": "B1",
+   "kind": "pron",
+   "description": "Stress and intonation for emphasis (c'est lui qui…)",
+   "source": "[CECR-CV]"
+  },
+  {
+   "id": "B1-p-optional-liaison",
+   "level": "B1",
+   "kind": "pron",
+   "description": "Optional liaison in careful speech",
+   "source": "[CECR-CV]"
+  },
+  {
+   "id": "B1-f-feelings",
+   "level": "B1",
+   "kind": "function",
+   "description": "Express and react to feelings, wishes, hopes, intentions and ambitions",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-opinion",
+   "level": "B1",
+   "kind": "function",
+   "description": "Express an opinion or point of view and justify it",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "B1-f-hypothetical",
+   "level": "B1",
+   "kind": "function",
+   "description": "Describe a hypothetical situation; make hypotheses",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-report",
+   "level": "B1",
+   "kind": "function",
+   "description": "Report what someone said",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-advice",
+   "level": "B1",
+   "kind": "function",
+   "description": "Ask for and give advice; make suggestions and react",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-present",
+   "level": "B1",
+   "kind": "function",
+   "description": "Present a topic or a project",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-interview",
+   "level": "B1",
+   "kind": "function",
+   "description": "Conduct an interview; have a job interview",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-reformulate",
+   "level": "B1",
+   "kind": "function",
+   "description": "Rephrase to explain or generalise",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-summarise",
+   "level": "B1",
+   "kind": "function",
+   "description": "Summarise a short story, article, talk or documentary and give your opinion",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-problem",
+   "level": "B1",
+   "kind": "function",
+   "description": "State a problem and suggest solutions",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-evaluate",
+   "level": "B1",
+   "kind": "function",
+   "description": "Assess and review films, books and shows",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-complain",
+   "level": "B1",
+   "kind": "function",
+   "description": "Express satisfaction or dissatisfaction; complain",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-f-obligation",
+   "level": "B1",
+   "kind": "function",
+   "description": "Express obligation",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-d-discussion",
+   "level": "B1",
+   "kind": "discourse",
+   "description": "Start, join and end a discussion; take the floor; introduce a topic; check understanding; conclude",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-s-formal-letter",
+   "level": "B1",
+   "kind": "socio",
+   "description": "Formal and business letters and emails",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "B1-s-presentation",
+   "level": "B1",
+   "kind": "socio",
+   "description": "Conventions of giving a presentation in a meeting",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-v-feelings",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Feelings and emotions",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-v-culture",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Culture: cinema, literature, painting, music, shows",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-v-media",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Media and current events",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-v-fashion",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Fashion",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-v-work",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Work and professional life",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-v-education",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Education, studies and training",
+   "source": "[INV]"
+  },
+  {
+   "id": "B1-v-health",
+   "level": "B1",
+   "kind": "vocab",
+   "description": "Health and wellbeing",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-s-registers",
+   "level": "B2",
+   "kind": "socio",
+   "description": "Registers of French: formal, standard, informal",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-p-informal-speech",
+   "level": "B2",
+   "kind": "pron",
+   "description": "Informal spoken French: dropped ne, dropped schwas, y a, j'sais pas",
+   "source": "[CECR-CV] [INV]"
+  },
+  {
+   "id": "B2-g-futur-anterieur",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "The futur antérieur",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-conditionnel-passe",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "The conditionnel passé: advice, regret, reproach; unconfirmed information",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-hypothesis-past",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Unrealised hypotheses: si + plus-que-parfait → conditionnel présent / passé; avec, sans, au cas où",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-subj-doubt",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "The subjunctive after expressions of doubt, possibility and judgement",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-subj-conjunctions",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "The subjunctive after conjunctions (à condition que, pourvu que, avant que, sans que, bien que, quoique); or an infinitive",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-subj-past",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "The past subjunctive",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-infinitif-passe",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "The past infinitive (après avoir fini)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-participles",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "The present participle, the verbal adjective and the gérondif",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-reported-past",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Reported speech in the past: sequence of tenses",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-lequel",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Lequel as a question word; preposition + lequel",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-pp-agreement",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Past participle agreement: the hard cases",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-condition",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Condition: à condition que, pourvu que, au cas où",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-cause-consequence",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Cause (en raison de, faute de, à force de, de peur de) and consequence (si bien que, de sorte que, tellement… que, ainsi)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-opposition-concession",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Opposition and concession: en revanche, par contre, contrairement à, néanmoins, toutefois, or, même si, quoique",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-purpose",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Purpose: en vue de, dans le but de, de crainte de; verbs such as être obligé de",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-g-additive",
+   "level": "B2",
+   "kind": "grammar",
+   "description": "Adding arguments: en outre, de plus, d'ailleurs, non seulement… mais encore",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-p-argument",
+   "level": "B2",
+   "kind": "pron",
+   "description": "Prosody of argument: highlighting key words and structuring a long turn",
+   "source": "[CECR-CV]"
+  },
+  {
+   "id": "B2-f-certainty",
+   "level": "B2",
+   "kind": "function",
+   "description": "Express degrees of certainty and doubt, possibility and probability",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-f-regret",
+   "level": "B2",
+   "kind": "function",
+   "description": "Express regret and reproach",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-f-argue",
+   "level": "B2",
+   "kind": "function",
+   "description": "Develop a logical argument; defend a position methodically; present advantages and disadvantages",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "B2-f-synthesise",
+   "level": "B2",
+   "kind": "function",
+   "description": "Summarise a text or discussion with its positions; synthesise sources",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-f-analyse",
+   "level": "B2",
+   "kind": "function",
+   "description": "Analyse a text (article, political speech)",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-f-hesitate",
+   "level": "B2",
+   "kind": "function",
+   "description": "Express hesitation; complain on the phone",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-d-structure",
+   "level": "B2",
+   "kind": "discourse",
+   "description": "Organise a text: introduction, development, thesis and antithesis, examples, conclusion",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "B2-d-reformulate",
+   "level": "B2",
+   "kind": "discourse",
+   "description": "Reformulate and conclude: autrement dit, en d'autres termes, de toute façon, quoi qu'il en soit, en définitive, somme toute",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-d-discussion",
+   "level": "B2",
+   "kind": "discourse",
+   "description": "Move a discussion on: invite others to speak, refocus, sum up",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-s-meetings",
+   "level": "B2",
+   "kind": "socio",
+   "description": "Meetings, formal discussion and professional writing",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-v-environment",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Environment, climate and ecology",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-v-society",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Social trends and problems; politics and values",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-v-economy",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "The economy and the world of work",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-v-technology",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Science, technology and digital communication; specialised vocabulary",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-v-media",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Media and current affairs",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-v-culture",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Arts and culture",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-v-feelings",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Feelings and relationships in depth; first idioms",
+   "source": "[INV]"
+  },
+  {
+   "id": "B2-v-education",
+   "level": "B2",
+   "kind": "vocab",
+   "description": "Education; academic and professional writing",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-passe-simple",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "The passé simple (and passé antérieur) for reading",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-narration",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Tenses and moods for narrating and describing: récit vs discours",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-hypothesis",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Unrealised hypotheses mastered; inversion and conditional forms in hypotheses",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-purpose",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Purpose: verb + à ce que + subjunctive; de crainte que, de peur que",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-cause",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Cause: considérant que, d'autant (plus) que, surtout que, étant donné que",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-consequence",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Consequence: à tel point que, au point que, si… que",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-concession",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Concession: encore que, quand bien même, avoir beau, si… que + subjunctive",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-ne-expletif",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "The expletive ne and formal negation (nul, nulle part, ne seul)",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-inversion",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Subject inversion in formal French",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-g-emphasis",
+   "level": "C1",
+   "kind": "grammar",
+   "description": "Emphasis and word order: dislocation, c'est… que, ce dont…",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-f-nuance",
+   "level": "C1",
+   "kind": "function",
+   "description": "Nuance: attenuate, qualify and hedge",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-f-argue",
+   "level": "C1",
+   "kind": "function",
+   "description": "Argue a position fluently and relevantly; highlight arguments",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "C1-f-synthesis",
+   "level": "C1",
+   "kind": "function",
+   "description": "Summarise long, difficult texts and synthesise several documents",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "C1-f-analyse",
+   "level": "C1",
+   "kind": "function",
+   "description": "Analyse a text: polemical, political or diplomatic discourse",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-f-exposé",
+   "level": "C1",
+   "kind": "function",
+   "description": "Give an oral presentation from documents and discuss it",
+   "source": "[DELF] [INV]"
+  },
+  {
+   "id": "C1-d-argument",
+   "level": "C1",
+   "kind": "discourse",
+   "description": "Confirm a point with secondary arguments and examples; transitions; open and close a digression",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-s-implicit",
+   "level": "C1",
+   "kind": "socio",
+   "description": "Implicit meaning and connotation",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-s-tone",
+   "level": "C1",
+   "kind": "socio",
+   "description": "Tone: irony, humour, exasperation, cynicism",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-s-idioms",
+   "level": "C1",
+   "kind": "socio",
+   "description": "Idiomatic expressions",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-s-literary",
+   "level": "C1",
+   "kind": "socio",
+   "description": "Literary language and styles: narrative, descriptive, lyrical, burlesque",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-s-quotations",
+   "level": "C1",
+   "kind": "socio",
+   "description": "Using quotations and reporting others' views in writing",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-p-prosody",
+   "level": "C1",
+   "kind": "pron",
+   "description": "Prosody for nuance and emphasis",
+   "source": "[CECR-CV]"
+  },
+  {
+   "id": "C1-p-varieties",
+   "level": "C1",
+   "kind": "pron",
+   "description": "Varieties of French: Québec, Belgium, Switzerland, Africa",
+   "source": "[CECR-CV] [INV]"
+  },
+  {
+   "id": "C1-v-politics",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Politics, institutions and social values",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-v-economy",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "The economy and business",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-v-law",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Law and justice",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-v-history",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "History and memory",
+   "source": "[INV]"
+  },
+  {
+   "id": "C1-v-science",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Science and research",
+   "source": "[INV] [DELF]"
+  },
+  {
+   "id": "C1-v-culture",
+   "level": "C1",
+   "kind": "vocab",
+   "description": "Culture and the arts",
+   "source": "[INV]"
+  }
+ ]
+}
