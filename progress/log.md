@@ -171,3 +171,6 @@ reader: state, not narrative.
 - 32 lessons b1-01 … b1-32; all 92 French lessons: content ok; accuracy "92 lessons, 37467 words … 1370 vocabulary genders and pronunciation guides match, 74 lexicon notes".
 - Found that bold inside italic French hid words from the checks (112 places across A1–B1) → removed; this exposed a lookup gap (hyphen + elision, Donne-m'en) → fixed in frlex.py (check made able to see more, not less).
 - Review curriculum/fr/reviews/B1.md: 13 findings with fixes. Spanish content check still "162 lessons" ok.
+
+## 2026-10-03 — Session paused (usage limit)
+- B2 lessons b2-01…b2-12 written; each batch passed check_content --lang fr and check_french_accuracy before commit. Remaining: b2-13…b2-30, B2 review, C1 (26 lessons + review), final verify and criteria evidence. Not pushed.
