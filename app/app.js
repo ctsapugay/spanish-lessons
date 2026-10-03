@@ -442,7 +442,7 @@
         box.appendChild(b);
       });
     } else if (item.type === "build") {
-      const words = item.answer.split(/\s+/);
+      const words = item.answer.split(/[ \t\r\n]+/); // ordinary spaces: a no-break space (French « ? ») keeps its word
       let order = shuffle(words.map((w, i) => ({ w, i })));
       if (words.length > 1 && order.every((o, k) => o.i === k)) order = order.slice(1).concat(order[0]);
       wrap.appendChild(h(promptHtml + '<div class="tiles answer"></div><div class="tiles pool"></div><div class="row"><button class="btn" type="button" data-action="check">Check</button><button class="btn secondary small" type="button" data-action="clear">Clear</button></div>'));

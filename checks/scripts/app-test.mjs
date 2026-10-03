@@ -153,7 +153,7 @@ async function answerAll(page, plan) {
       const idx = right ? item.answer : (item.answer + 1) % item.options.length;
       await q.locator(`[data-option="${idx}"]`).click();
     } else if (item.type === "build") {
-      const words = item.answer.split(/\s+/);
+      const words = item.answer.split(/[ \t\r\n]+/);
       const order = right ? words : words.slice().reverse();
       for (const w of order) await q.locator(".tiles.pool button").filter({ hasText: exact(w) }).first().click();
       if (!right && words.join(" ") === words.slice().reverse().join(" ")) {
@@ -223,7 +223,7 @@ async function scenarioPracticeAndQuizBasics(lang) {
     const right = i % 2 === 0;
     if (item.type === "mc") await q.locator(`[data-option="${right ? item.answer : (item.answer + 1) % item.options.length}"]`).click();
     else if (item.type === "build") {
-      for (const w of item.answer.split(/\s+/)) await q.locator(".tiles.pool button").filter({ hasText: exact(w) }).first().click();
+      for (const w of item.answer.split(/[ \t\r\n]+/)) await q.locator(".tiles.pool button").filter({ hasText: exact(w) }).first().click();
       await q.locator("[data-action=check]").click();
     } else {
       await q.locator("input").fill(right ? item.answers[0] : "zzzz qqqq");
@@ -471,7 +471,7 @@ async function scenarioSessionControls(lang) {
     }
     if (item.type === "mc") await q.locator(`[data-option="${item.answer}"]`).click();
     else if (item.type === "build") {
-      for (const w of item.answer.split(/\s+/)) await q.locator(".tiles.pool button").filter({ hasText: exact(w) }).first().click();
+      for (const w of item.answer.split(/[ \t\r\n]+/)) await q.locator(".tiles.pool button").filter({ hasText: exact(w) }).first().click();
       await q.locator("[data-action=check]").click();
     } else {
       await q.locator("input").fill(item.answers[0]);

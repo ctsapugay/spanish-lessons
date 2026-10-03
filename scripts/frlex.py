@@ -11,7 +11,8 @@ writing lessons, as a helper:
 Pronunciation guides are compared phoneme by phoneme with Lexique, except where standard
 French itself varies, which the comparison treats as one sound: the mid vowels e/ɛ, o/ɔ
 and ø/œ (their distribution varies between careful and everyday speech), ɛ̃/œ̃ (merged for
-most speakers in France), a/ɑ (merged), and schwa, which may be pronounced or dropped.
+most speakers in France), a/ɑ (merged); and schwa, which may be pronounced (as ə, ø or œ)
+or dropped where the lexicon has one.
 Liaison consonants (z, t, n, ʁ, p, v) may be shown between words.
 """
 from __future__ import annotations
@@ -68,14 +69,6 @@ def lexicon() -> dict[str, list[dict]]:
     return rows
 
 
-@lru_cache(maxsize=1)
-def lemma_genders() -> dict[str, set[str]]:
-    out: dict[str, set[str]] = {}
-    for rs in lexicon().values():
-        for r in rs:
-            if r["cgram"] == "NOM" and r["genre"]:
-                out.setdefault(r["lemme"], set()).add(r["genre"])
-    return out
 
 
 def rows(word: str) -> list[dict]:
@@ -102,13 +95,16 @@ def is_noun_only(word: str) -> bool:
 
 
 def genders(noun: str) -> set[str]:
-    """Genders Lexique records for a noun (from the form, else its lemma); empty if unknown."""
-    rs = [r for r in rows(noun) if r["cgram"] == "NOM"]
-    found = {r["genre"] for r in rs if r["genre"]}
+    """Genders Lexique records for a noun — from the form itself, else from the same word's
+    singular or plural (maison has none, maisons is f); empty if unknown. Other forms of the
+    lemma are not used: professeure (f) says nothing about professeur."""
+    w = key(noun)
+    found = {r["genre"] for r in rows(w) if r["cgram"] == "NOM" and r["genre"]}
     if found:
         return found
-    for r in rs:
-        found |= lemma_genders().get(r["lemme"], set())
+    for other in (w + "s", w + "x", w[:-1] if w.endswith(("s", "x")) else None):
+        if other:
+            found |= {r["genre"] for r in lexicon().get(other, []) if r["cgram"] == "NOM" and r["genre"]}
     return found
 
 
@@ -133,15 +129,29 @@ def pronunciations(word: str, extra: dict[str, str] | None = None) -> set[str]:
     return set()
 
 
-def compare_key(s: str) -> str:
-    """Reduce IPA to what the comparison distinguishes (see the module docstring)."""
+def compare_key(s: str, schwa: str = "Œ") -> str:
+    """Reduce IPA to what the comparison distinguishes (see the module docstring). A schwa
+    becomes `schwa`: the Œ class in a guide, a marker "@" in the lexicon's own forms."""
     s = unicodedata.normalize("NFD", s.strip().strip("/[]"))
     s = s.replace("ɛ̃", "Ẽ").replace("œ̃", "Ẽ").replace("ɑ̃", "Ã").replace("ɔ̃", "Õ").replace("ã", "Ã")
     s = unicodedata.normalize("NFD", s)
     for a, b in (("ɛ", "E"), ("e", "E"), ("ɔ", "O"), ("o", "O"), ("ø", "Œ"), ("œ", "Œ"),
-                 ("ɑ", "a"), ("ɡ", "g"), ("ə", "")):
+                 ("ɑ", "a"), ("ɡ", "g"), ("ə", schwa)):
         s = s.replace(a, b)
     return re.sub(r"[\s.ˈˌː‿()]", "", s)
+
+
+def lexicon_keys(p: str) -> set[str]:
+    """A lexicon pronunciation as comparison keys: each schwa may be said (as Œ) or dropped."""
+    parts = compare_key(p, schwa="@").split("@")
+    keys = {""}
+    for i, part in enumerate(parts):
+        keys = {k + part for k in keys}
+        if i < len(parts) - 1:
+            keys = {k + x for k in keys for x in ("", "Œ")}
+        if len(keys) > 64:
+            break
+    return keys
 
 
 def words_of(text: str) -> list[str]:
@@ -165,7 +175,7 @@ def guide_matches(written: str, guide: str, extra: dict[str, str] | None = None)
             ps = pronunciations(tok, extra)
             if not ps:
                 return False, f"no pronunciation for «{tok}» in the lexicon"
-            ks = {compare_key(p) for p in ps}
+            ks = set().union(*(lexicon_keys(p) for p in ps))
             options.append(ks | {k + c for k in ks for c in map(compare_key, LIAISON)})
         target = compare_key(g)
         reach = {0}

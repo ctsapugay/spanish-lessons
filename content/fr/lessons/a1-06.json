@@ -1,0 +1,440 @@
+{
+ "sections": [
+  {
+   "heading": "What do you do?",
+   "body": "To ask about someone's job: *Qu'est-ce que vous faites dans la vie ?* (What do you do for a living? — polite) or *Tu fais quoi dans la vie ?* (informal). Answer with *être* + the job, **without an article**: *Je suis infirmière.* (I'm a nurse.) *Il est professeur.* (He's a teacher.)\n\nBut after *c'est*, you need the article: *C'est un médecin.* (He's a doctor. / She's a doctor.) Compare:\n\n- *Il est médecin.* — He's a doctor.\n- *C'est un bon médecin.* — He's a good doctor."
+  },
+  {
+   "heading": "Masculine and feminine jobs",
+   "body": "Most job names have a feminine form:",
+   "table": {
+    "head": [
+     "Man",
+     "Woman",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "*un étudiant*",
+      "*une étudiante*",
+      "student (+ e)"
+     ],
+     [
+      "*un employé*",
+      "*une employée*",
+      "employee, clerk (+ e, same sound)"
+     ],
+     [
+      "*un vendeur*",
+      "*une vendeuse*",
+      "shop assistant (-eur → -euse)"
+     ],
+     [
+      "*un serveur*",
+      "*une serveuse*",
+      "waiter / waitress"
+     ],
+     [
+      "*un infirmier*",
+      "*une infirmière*",
+      "nurse (-ier → -ière)"
+     ],
+     [
+      "*un acteur*",
+      "*une actrice*",
+      "actor (-teur → -trice)"
+     ],
+     [
+      "*un journaliste*",
+      "*une journaliste*",
+      "journalist (-e: no change)"
+     ],
+     [
+      "*un médecin*",
+      "*une médecin*",
+      "doctor (same word)"
+     ],
+     [
+      "*un professeur*",
+      "*une professeure*",
+      "teacher (*professeure* is now usual in France)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Where you work",
+   "body": "*Travailler* means to work: *Je travaille dans un hôpital* (in a hospital), *dans un bureau* (in an office), *dans un magasin* (in a shop), *dans une école* (in a school), *dans un restaurant*. *Je travaille à la maison* — I work from home. If you're not working: *Je suis au chômage* (I'm unemployed) or *Je suis à la retraite* (I'm retired)."
+  }
+ ],
+ "vocab": [
+  [
+   "le métier",
+   "the job, the trade",
+   "lə me.tje"
+  ],
+  [
+   "travailler",
+   "to work",
+   "tʁa.va.je"
+  ],
+  [
+   "le médecin",
+   "the doctor",
+   "lə med.sɛ̃"
+  ],
+  [
+   "le professeur",
+   "the teacher",
+   "lə pʁɔ.fɛ.sœʁ"
+  ],
+  [
+   "un infirmier / une infirmière",
+   "a nurse (man / woman)",
+   "œ̃.n‿ɛ̃.fiʁ.mje / yn ɛ̃.fiʁ.mjɛʁ"
+  ],
+  [
+   "un vendeur / une vendeuse",
+   "a shop assistant (man / woman)",
+   "œ̃ vɑ̃.dœʁ / yn vɑ̃.døz"
+  ],
+  [
+   "un serveur / une serveuse",
+   "a waiter / a waitress",
+   "œ̃ sɛʁ.vœʁ / yn sɛʁ.vøz"
+  ],
+  [
+   "un employé / une employée",
+   "an employee, a clerk",
+   "œ̃.n‿ɑ̃.plwa.je / yn ɑ̃.plwa.je"
+  ],
+  [
+   "un acteur / une actrice",
+   "an actor / an actress",
+   "œ̃.n‿ak.tœʁ / yn ak.tʁis"
+  ],
+  [
+   "le journaliste",
+   "the journalist",
+   "lə ʒuʁ.na.list"
+  ],
+  [
+   "l'hôpital",
+   "the hospital",
+   "lo.pi.tal",
+   "m"
+  ],
+  [
+   "le bureau",
+   "the office",
+   "lə by.ʁo"
+  ],
+  [
+   "le magasin",
+   "the shop",
+   "lə ma.ɡa.zɛ̃"
+  ],
+  [
+   "l'école",
+   "the school",
+   "le.kɔl",
+   "f"
+  ],
+  [
+   "la retraite",
+   "retirement",
+   "la ʁə.tʁɛt"
+  ],
+  [
+   "le chômage",
+   "unemployment",
+   "lə ʃo.maʒ"
+  ]
+ ],
+ "examples": [
+  [
+   "Qu'est-ce que vous faites dans la vie ?",
+   "What do you do for a living?"
+  ],
+  [
+   "Je suis infirmière.",
+   "I'm a nurse. (a woman)"
+  ],
+  [
+   "Il est professeur dans une école.",
+   "He's a teacher in a school."
+  ],
+  [
+   "C'est un très bon médecin.",
+   "He's a very good doctor."
+  ],
+  [
+   "Elle travaille dans un magasin, elle est vendeuse.",
+   "She works in a shop; she's a shop assistant."
+  ],
+  [
+   "Je travaille dans un bureau.",
+   "I work in an office."
+  ],
+  [
+   "Mon père est à la retraite.",
+   "My father is retired."
+  ],
+  [
+   "Tu fais quoi dans la vie ? — Je suis étudiant.",
+   "What do you do? — I'm a student."
+  ],
+  [
+   "Ma sœur est actrice.",
+   "My sister is an actress."
+  ],
+  [
+   "Ils travaillent dans un hôpital.",
+   "They work in a hospital."
+  ],
+  [
+   "Je suis au chômage en ce moment.",
+   "I'm unemployed at the moment."
+  ],
+  [
+   "Vous travaillez où ?",
+   "Where do you work?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"She's a nurse\" is…",
+   "options": [
+    "Elle est infirmière.",
+    "Elle est une infirmière.",
+    "C'est infirmière."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "After *être*, no article: *Elle est infirmière.*"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"He's a good doctor\" is…",
+   "options": [
+    "C'est un bon médecin.",
+    "Il est bon médecin.",
+    "C'est bon médecin."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "With an adjective, use *c'est un…*"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est ___. (vendeur)",
+   "answers": [
+    "vendeuse"
+   ],
+   "hint": "She's a shop assistant.",
+   "explain": "-eur → -euse."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma mère est ___. (acteur)",
+   "answers": [
+    "actrice"
+   ],
+   "hint": "My mother is an actress.",
+   "explain": "-teur → -trice."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est ___. (infirmier)",
+   "answers": [
+    "infirmière"
+   ],
+   "hint": "She's a nurse.",
+   "explain": "-ier → -ière, with a grave accent."
+  },
+  {
+   "type": "mc",
+   "prompt": "For a woman, *journaliste*…",
+   "options": [
+    "stays the same: une journaliste",
+    "takes -trice, like actrice",
+    "takes -euse, like vendeuse"
+   ],
+   "answer": 0,
+   "explain": "Jobs ending in -e don't change: *un journaliste, une journaliste*."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"What do you do for a living?\" (polite)",
+   "options": [
+    "Qu'est-ce que vous faites dans la vie ?",
+    "Vous travaillez où ?",
+    "Vous êtes d'où ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je suis à la retraite* means…",
+   "options": [
+    "I'm retired",
+    "I'm unemployed",
+    "I'm a student",
+    "I work at home"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils ___ dans un hôpital.",
+   "options": [
+    "travaillent",
+    "travaille",
+    "travaillons"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Where does a *vendeuse* work?",
+   "options": [
+    "dans un magasin",
+    "dans un hôpital",
+    "dans une école"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*le bureau* is…",
+   "options": [
+    "the office",
+    "the shop",
+    "the school",
+    "the hospital"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis ___. (infirmier)",
+   "answers": [
+    "infirmière"
+   ],
+   "hint": "I'm a nurse. (a woman)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est ___ dans une école.",
+   "answers": [
+    "professeur"
+   ],
+   "hint": "He's a teacher in a school."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un très bon ___.",
+   "answers": [
+    "médecin"
+   ],
+   "hint": "He's a very good doctor."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ dans un bureau.",
+   "answers": [
+    "travaille"
+   ],
+   "hint": "I work in an office."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon père est à la ___.",
+   "answers": [
+    "retraite"
+   ],
+   "hint": "My father is retired."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma sœur est ___. (acteur)",
+   "answers": [
+    "actrice"
+   ],
+   "hint": "My sister is an actress."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous travaillez ___ ?",
+   "answers": [
+    "où"
+   ],
+   "hint": "Where do you work?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle travaille dans un ___.",
+   "answers": [
+    "magasin"
+   ],
+   "hint": "She works in a shop."
+  },
+  {
+   "type": "translate",
+   "prompt": "I am a teacher.",
+   "answers": [
+    "Je suis professeur.",
+    "Je suis professeure."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She is a waitress.",
+   "answers": [
+    "Elle est serveuse."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He works in a hospital.",
+   "answers": [
+    "Il travaille dans un hôpital."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm unemployed.",
+   "answers": [
+    "Je suis au chômage."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Where do you work? (polite)",
+   "answers": [
+    "Vous travaillez où ?",
+    "Où travaillez-vous ?",
+    "Où est-ce que vous travaillez ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What do you do for a living?\"",
+   "answer": "Qu'est-ce que vous faites dans la vie ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She works in a shop.\"",
+   "answer": "Elle travaille dans un magasin."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He's a very good doctor.\"",
+   "answer": "C'est un très bon médecin."
+  }
+ ]
+}

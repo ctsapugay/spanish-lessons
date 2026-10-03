@@ -1,0 +1,458 @@
+{
+ "sections": [
+  {
+   "heading": "The French alphabet",
+   "body": "French uses the same 26 letters as English, but their names are different. Watch out for the ones that trip up English speakers: **E** sounds like the \"e\" in \"the\", **I** sounds like \"ee\", **G** is \"zhay\" and **J** is \"zhee\" (the opposite of English!), and **U** is a sound English doesn't have — say \"ee\" with your lips rounded as if to whistle.",
+   "table": {
+    "head": [
+     "Letter",
+     "Name",
+     "Letter",
+     "Name"
+    ],
+    "rows": [
+     [
+      "A",
+      "/a/",
+      "N",
+      "/ɛn/"
+     ],
+     [
+      "B",
+      "/be/",
+      "O",
+      "/o/"
+     ],
+     [
+      "C",
+      "/se/",
+      "P",
+      "/pe/"
+     ],
+     [
+      "D",
+      "/de/",
+      "Q",
+      "/ky/"
+     ],
+     [
+      "E",
+      "/ə/",
+      "R",
+      "/ɛʁ/"
+     ],
+     [
+      "F",
+      "/ɛf/",
+      "S",
+      "/ɛs/"
+     ],
+     [
+      "G",
+      "/ʒe/",
+      "T",
+      "/te/"
+     ],
+     [
+      "H",
+      "/aʃ/",
+      "U",
+      "/y/"
+     ],
+     [
+      "I",
+      "/i/",
+      "V",
+      "/ve/"
+     ],
+     [
+      "J",
+      "/ʒi/",
+      "W",
+      "/dubləve/"
+     ],
+     [
+      "K",
+      "/ka/",
+      "X",
+      "/iks/"
+     ],
+     [
+      "L",
+      "/ɛl/",
+      "Y",
+      "/iɡʁɛk/"
+     ],
+     [
+      "M",
+      "/ɛm/",
+      "Z",
+      "/zɛd/"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Accents and the cedilla",
+   "body": "Accents are part of the spelling — leaving one out is a spelling mistake, and sometimes it changes the word.\n\n- **é** (*accent aigu*, acute accent): a closed \"ay\" sound, as in *café*.\n- **è** (*accent grave*, grave accent): an open \"eh\" sound, as in *très* and *mère*. On **à** and **ù** it only tells two words apart: *a* (has) / *à* (to, at), *ou* (or) / *où* (where).\n- **ê** (*accent circonflexe*): an open \"eh\" in *fête*; it also appears on other vowels, as in *hôtel*.\n- **ç** (*cédille*): makes **c** sound like **s** before a, o, u: *ça*, *français*.\n- **ë, ï** (*tréma*): the vowel is said separately, as in *naïf*."
+  },
+  {
+   "heading": "Silent letters",
+   "body": "Written French has many letters you don't pronounce:\n\n- Most **final consonants** are silent: *petit*, *trois*, *vous*. But a final **c, r, f, l** is usually pronounced (think \"CaReFuL\"): *avec*, *bonjour*, *neuf*, *il*.\n- A final **e** without an accent is silent: *madame*, *une*.\n- **h** is always silent: *hôtel*, *homme*.\n- The plural **s** is silent: *les cafés* sounds just like *le café* apart from the article."
+  },
+  {
+   "heading": "When you don't understand",
+   "body": "These phrases will save you in every conversation:\n\n- *Comment ça s'écrit ?* — How is that spelled?\n- *Vous pouvez répéter, s'il vous plaît ?* — Can you repeat, please?\n- *Plus lentement, s'il vous plaît.* — More slowly, please.\n- *Je ne comprends pas.* — I don't understand.\n- *Je ne sais pas.* — I don't know.\n\nWhen you spell a double letter, say *deux* (two): *Ça s'écrit avec deux L.*"
+  }
+ ],
+ "vocab": [
+  [
+   "l'alphabet",
+   "the alphabet",
+   "lal.fa.bɛ",
+   "m"
+  ],
+  [
+   "la lettre",
+   "the letter",
+   "la lɛtʁ"
+  ],
+  [
+   "l'accent",
+   "the accent",
+   "lak.sɑ̃",
+   "m"
+  ],
+  [
+   "épeler",
+   "to spell",
+   "e.pə.le"
+  ],
+  [
+   "comment ça s'écrit ?",
+   "how is that spelled?",
+   "kɔ.mɑ̃ sa se.kʁi"
+  ],
+  [
+   "répéter",
+   "to repeat",
+   "ʁe.pe.te"
+  ],
+  [
+   "plus lentement",
+   "more slowly",
+   "ply lɑ̃t.mɑ̃"
+  ],
+  [
+   "je ne comprends pas",
+   "I don't understand",
+   "ʒə nə kɔ̃.pʁɑ̃ pa"
+  ],
+  [
+   "je ne sais pas",
+   "I don't know",
+   "ʒə nə sɛ pa"
+  ],
+  [
+   "le nom",
+   "the surname, the name",
+   "lə nɔ̃"
+  ],
+  [
+   "le prénom",
+   "the first name",
+   "lə pʁe.nɔ̃"
+  ],
+  [
+   "avec",
+   "with",
+   "a.vɛk"
+  ],
+  [
+   "deux",
+   "two",
+   "dø"
+  ]
+ ],
+ "examples": [
+  [
+   "Comment ça s'écrit ?",
+   "How is that spelled?"
+  ],
+  [
+   "Ça s'écrit avec deux L.",
+   "It's spelled with two Ls."
+  ],
+  [
+   "Vous pouvez répéter, s'il vous plaît ?",
+   "Can you repeat, please?"
+  ],
+  [
+   "Plus lentement, s'il vous plaît.",
+   "More slowly, please."
+  ],
+  [
+   "Pardon, je ne comprends pas.",
+   "Sorry, I don't understand."
+  ],
+  [
+   "Je ne sais pas.",
+   "I don't know."
+  ],
+  [
+   "« Café » s'écrit avec un accent aigu.",
+   "\"Café\" is written with an acute accent."
+  ],
+  [
+   "Votre nom, s'il vous plaît ?",
+   "Your surname, please?"
+  ],
+  [
+   "Et votre prénom ?",
+   "And your first name?"
+  ],
+  [
+   "« Ça » s'écrit avec une cédille.",
+   "\"Ça\" is written with a cedilla."
+  ],
+  [
+   "Le h ne se prononce pas.",
+   "The h isn't pronounced."
+  ],
+  [
+   "Merci, c'est très clair.",
+   "Thank you, that's very clear."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "How is the letter **E** named in French?",
+   "options": [
+    "Like the \"e\" in \"the\": /ə/",
+    "Like \"ee\": /i/",
+    "Like \"ay\": /e/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How is the letter **I** named in French?",
+   "options": [
+    "Like \"ee\": /i/",
+    "Like \"eye\"",
+    "Like \"e\" in \"the\": /ə/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which letter is named /ʒe/ (\"zhay\")?",
+   "options": [
+    "G",
+    "J",
+    "Z"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which letter is named /ʒi/ (\"zhee\")?",
+   "options": [
+    "J",
+    "G",
+    "Y"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word has the \"open eh\" sound of the grave accent?",
+   "options": [
+    "très",
+    "café",
+    "ça"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "What does the cedilla in *ça* do?",
+   "options": [
+    "It makes the c sound like s",
+    "It makes the c sound like k",
+    "It makes the a nasal"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*ou* means \"or\". What does *où* mean?",
+   "options": [
+    "where",
+    "when",
+    "yes"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *trois*, is the final s pronounced?",
+   "options": [
+    "No",
+    "Yes"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *avec*, is the final c pronounced?",
+   "options": [
+    "Yes",
+    "No"
+   ],
+   "answer": 0,
+   "explain": "Final c, r, f, l are usually pronounced: *avec*, *bonjour*, *neuf*, *il*."
+  },
+  {
+   "type": "mc",
+   "prompt": "In *hôtel*, is the h pronounced?",
+   "options": [
+    "No — h is always silent",
+    "Yes, like English h"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "You didn't catch what someone said. You ask…",
+   "options": [
+    "Vous pouvez répéter, s'il vous plaît ?",
+    "Je ne sais pas.",
+    "De rien.",
+    "Comment ça s'écrit ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "You want to know how a name is spelled. You ask…",
+   "options": [
+    "Comment ça s'écrit ?",
+    "Plus lentement, s'il vous plaît.",
+    "Ça va ?",
+    "Je ne comprends pas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Comment ça s'___ ?",
+   "answers": [
+    "écrit"
+   ],
+   "hint": "How is that spelled?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous pouvez ___, s'il vous plaît ?",
+   "answers": [
+    "répéter"
+   ],
+   "hint": "Can you repeat, please?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Plus ___, s'il vous plaît.",
+   "answers": [
+    "lentement"
+   ],
+   "hint": "More slowly, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pardon, je ne ___ pas.",
+   "answers": [
+    "comprends"
+   ],
+   "hint": "Sorry, I don't understand."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne ___ pas.",
+   "answers": [
+    "sais"
+   ],
+   "hint": "I don't know."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça s'écrit avec ___ L.",
+   "answers": [
+    "deux"
+   ],
+   "hint": "It's spelled with two Ls."
+  },
+  {
+   "type": "fill",
+   "prompt": "Et votre ___ ?",
+   "answers": [
+    "prénom"
+   ],
+   "hint": "And your first name?"
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't understand.",
+   "answers": [
+    "Je ne comprends pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't know.",
+   "answers": [
+    "Je ne sais pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "More slowly, please.",
+   "answers": [
+    "Plus lentement, s'il vous plaît."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "How is that spelled?",
+   "answers": [
+    "Comment ça s'écrit ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Your surname, please?",
+   "answers": [
+    "Votre nom, s'il vous plaît ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Can you repeat, please?\"",
+   "answer": "Vous pouvez répéter, s'il vous plaît ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Sorry, I don't understand.\"",
+   "answer": "Pardon, je ne comprends pas."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's spelled with two Ls.\"",
+   "answer": "Ça s'écrit avec deux L."
+  }
+ ]
+}

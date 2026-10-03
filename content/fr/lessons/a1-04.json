@@ -1,0 +1,471 @@
+{
+ "sections": [
+  {
+   "heading": "Where are you from?",
+   "body": "To say where you're from, use *être de* + city: *Je suis de Lyon.* (I'm from Lyon.) Before a vowel, *de* becomes *d'*: *Je suis d'Ottawa.*\n\nTo ask: *Tu es d'où ?* (informal) or *Vous êtes d'où ?* (polite) — Where are you from?\n\nTo say where you live, use *habiter à* + city: *J'habite à Paris.* (I live in Paris.) — *Tu habites où ?* (Where do you live?)"
+  },
+  {
+   "heading": "Countries: au, en, aux",
+   "body": "Countries have a gender, and \"in\" or \"to\" a country depends on it:\n\n- **feminine** countries (most end in **-e**) take *en*: *en France*, *en Espagne*, *en Italie*, *en Allemagne*, *en Chine*.\n- **masculine** countries take *au*: *au Canada*, *au Japon*, *au Portugal*, *au Brésil*, *au Mexique* (an exception to the -e rule).\n- **plural** countries take *aux*: *aux États-Unis* (in the United States).\n- **cities** take *à*: *à Paris*, *à Londres*, *à Montréal*.\n\n*J'habite en France, à Lyon.* — I live in France, in Lyon."
+  },
+  {
+   "heading": "Nationalities",
+   "body": "Nationality adjectives are written **without** a capital letter, and most add **-e** for a woman:\n\n*Il est français, elle est française.* The name of the language is the masculine form: *le français*, *l'anglais*.",
+   "table": {
+    "head": [
+     "Man",
+     "Woman",
+     "Pronunciation"
+    ],
+    "rows": [
+     [
+      "*français*",
+      "*française*",
+      "the s is heard only in the feminine"
+     ],
+     [
+      "*anglais*",
+      "*anglaise*",
+      "same pattern"
+     ],
+     [
+      "*américain*",
+      "*américaine*",
+      "the nasal \"in\" opens to \"-aine\""
+     ],
+     [
+      "*canadien*",
+      "*canadienne*",
+      "-ien → -ienne"
+     ],
+     [
+      "*italien*",
+      "*italienne*",
+      "-ien → -ienne"
+     ],
+     [
+      "*espagnol*",
+      "*espagnole*",
+      "sounds the same"
+     ],
+     [
+      "*allemand*",
+      "*allemande*",
+      "the d is heard only in the feminine"
+     ],
+     [
+      "*suisse*",
+      "*suisse*",
+      "already ends in -e: no change"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Languages",
+   "body": "To say which languages you speak, use *parler* (to speak): *Je parle anglais et un peu français.* (I speak English and a little French.) — *Vous parlez anglais ?* (Do you speak English?) No article is needed after *parler*."
+  }
+ ],
+ "vocab": [
+  [
+   "la France",
+   "France",
+   "la fʁɑ̃s"
+  ],
+  [
+   "le Canada",
+   "Canada",
+   "lə ka.na.da"
+  ],
+  [
+   "les États-Unis",
+   "the United States",
+   "le.z‿e.ta.zy.ni",
+   "m"
+  ],
+  [
+   "l'Angleterre",
+   "England",
+   "lɑ̃.ɡlə.tɛʁ",
+   "f"
+  ],
+  [
+   "l'Espagne",
+   "Spain",
+   "lɛs.paɲ",
+   "f"
+  ],
+  [
+   "l'Italie",
+   "Italy",
+   "li.ta.li",
+   "f"
+  ],
+  [
+   "français / française",
+   "French (man / woman)",
+   "fʁɑ̃.sɛ / fʁɑ̃.sɛz"
+  ],
+  [
+   "anglais / anglaise",
+   "English (man / woman)",
+   "ɑ̃.ɡlɛ / ɑ̃.ɡlɛz"
+  ],
+  [
+   "américain / américaine",
+   "American (man / woman)",
+   "a.me.ʁi.kɛ̃ / a.me.ʁi.kɛn"
+  ],
+  [
+   "canadien / canadienne",
+   "Canadian (man / woman)",
+   "ka.na.djɛ̃ / ka.na.djɛn"
+  ],
+  [
+   "italien / italienne",
+   "Italian (man / woman)",
+   "i.ta.ljɛ̃ / i.ta.ljɛn"
+  ],
+  [
+   "espagnol / espagnole",
+   "Spanish (man / woman)",
+   "ɛs.pa.ɲɔl / ɛs.pa.ɲɔl"
+  ],
+  [
+   "la langue",
+   "the language",
+   "la lɑ̃ɡ"
+  ],
+  [
+   "parler",
+   "to speak",
+   "paʁ.le"
+  ],
+  [
+   "habiter",
+   "to live (in a place)",
+   "a.bi.te"
+  ],
+  [
+   "la ville",
+   "the city, the town",
+   "la vil"
+  ],
+  [
+   "le pays",
+   "the country",
+   "lə pe.i"
+  ],
+  [
+   "un peu",
+   "a little",
+   "œ̃ pø"
+  ],
+  [
+   "où",
+   "where",
+   "u"
+  ]
+ ],
+ "examples": [
+  [
+   "Je suis de Lyon.",
+   "I'm from Lyon."
+  ],
+  [
+   "Tu es d'où ?",
+   "Where are you from?"
+  ],
+  [
+   "J'habite à Paris.",
+   "I live in Paris."
+  ],
+  [
+   "Elle habite en France.",
+   "She lives in France."
+  ],
+  [
+   "Il habite au Canada, à Montréal.",
+   "He lives in Canada, in Montreal."
+  ],
+  [
+   "Nous habitons aux États-Unis.",
+   "We live in the United States."
+  ],
+  [
+   "Il est français et elle est anglaise.",
+   "He's French and she's English."
+  ],
+  [
+   "Vous êtes canadienne ?",
+   "Are you Canadian? (to a woman)"
+  ],
+  [
+   "Je parle anglais et un peu français.",
+   "I speak English and a little French."
+  ],
+  [
+   "Vous parlez italien ?",
+   "Do you speak Italian?"
+  ],
+  [
+   "Elle est espagnole, de Madrid.",
+   "She's Spanish, from Madrid."
+  ],
+  [
+   "Ils sont américains.",
+   "They're American."
+  ],
+  [
+   "Le français est une belle langue.",
+   "French is a beautiful language."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"In France\" is…",
+   "options": [
+    "en France",
+    "au France",
+    "à France"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"In Canada\" is…",
+   "options": [
+    "au Canada",
+    "en Canada",
+    "à Canada"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"In the United States\" is…",
+   "options": [
+    "aux États-Unis",
+    "au États-Unis",
+    "en États-Unis"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"In Paris\" is…",
+   "options": [
+    "à Paris",
+    "en Paris",
+    "au Paris"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which country takes *en*?",
+   "options": [
+    "l'Italie",
+    "le Canada",
+    "le pays"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Feminine countries, which mostly end in -e, take *en*."
+  },
+  {
+   "type": "mc",
+   "prompt": "A woman from France says…",
+   "options": [
+    "Je suis française.",
+    "Je suis français.",
+    "Je suis France."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is correct for a man from England?",
+   "options": [
+    "Il est anglais.",
+    "Il est anglaise.",
+    "Il est Angleterre."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Nationality adjectives have no capital letter, and the masculine has no final -e."
+  },
+  {
+   "type": "mc",
+   "prompt": "In *française*, the final s…",
+   "options": [
+    "is pronounced, like a z",
+    "is silent",
+    "is pronounced like s in \"sun\""
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How do *espagnol* and *espagnole* sound?",
+   "options": [
+    "the same",
+    "different: the feminine adds a syllable"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Where are you from?\" (polite)",
+   "options": [
+    "Vous êtes d'où ?",
+    "Vous habitez où ?",
+    "Vous parlez anglais ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je parle ___ et un peu français.",
+   "options": [
+    "anglais",
+    "Angleterre",
+    "anglaise"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est ___. (canadien)",
+   "answers": [
+    "canadienne"
+   ],
+   "hint": "She's Canadian.",
+   "explain": "-ien → -ienne: the n doubles."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'habite ___ Paris.",
+   "answers": [
+    "à"
+   ],
+   "hint": "I live in Paris."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle habite ___ France.",
+   "answers": [
+    "en"
+   ],
+   "hint": "She lives in France."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il habite ___ Canada.",
+   "answers": [
+    "au"
+   ],
+   "hint": "He lives in Canada."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous habitons ___ États-Unis.",
+   "answers": [
+    "aux"
+   ],
+   "hint": "We live in the United States."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est ___. (français)",
+   "answers": [
+    "française"
+   ],
+   "hint": "She's French."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous ___ anglais ?",
+   "answers": [
+    "parlez"
+   ],
+   "hint": "Do you speak English? (parler)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu es d'___ ?",
+   "answers": [
+    "où"
+   ],
+   "hint": "Where are you from?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis ___ Lyon.",
+   "answers": [
+    "de"
+   ],
+   "hint": "I'm from Lyon."
+  },
+  {
+   "type": "translate",
+   "prompt": "I live in France.",
+   "answers": [
+    "J'habite en France."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She is Canadian.",
+   "answers": [
+    "Elle est canadienne."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I speak English and a little French.",
+   "answers": [
+    "Je parle anglais et un peu français."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Where do you live? (informal)",
+   "answers": [
+    "Tu habites où ?",
+    "Où est-ce que tu habites ?",
+    "Où habites-tu ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He is Italian.",
+   "answers": [
+    "Il est italien."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He lives in Canada, in Montreal.\"",
+   "answer": "Il habite au Canada, à Montréal."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I speak English and a little French.\"",
+   "answer": "Je parle anglais et un peu français."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He's French and she's English.\"",
+   "answer": "Il est français et elle est anglaise."
+  }
+ ]
+}

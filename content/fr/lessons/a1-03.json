@@ -1,0 +1,444 @@
+{
+ "sections": [
+  {
+   "heading": "Saying your name",
+   "body": "The usual way to give your name is *Je m'appelle…* (literally \"I call myself…\"): *Je m'appelle Camille.* You can also say *Je suis Camille* (I'm Camille), or *Moi, c'est Camille* (Me, I'm Camille — very common in speech).\n\nTo ask someone's name:\n\n- *Tu t'appelles comment ?* — What's your name? (informal, everyday)\n- *Comment vous appelez-vous ?* — What's your name? (polite)\n- *Il s'appelle comment ?* / *Elle s'appelle comment ?* — What's his / her name?\n\nWhen you meet someone, say *Enchanté* (if you're a man) or *Enchantée* (if you're a woman) — \"delighted\". Both are pronounced the same."
+  },
+  {
+   "heading": "Être — to be",
+   "body": "*Être* is irregular, and you'll use it constantly. Learn the whole present tense now:\n\n*Je suis étudiant.* (I'm a student.) *Vous êtes Madame Martin ?* (Are you Mrs Martin?)",
+   "table": {
+    "head": [
+     "Pronoun",
+     "être",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "*je suis*",
+      "/ʒə sɥi/",
+      "I am"
+     ],
+     [
+      "*tu es*",
+      "/ty ɛ/",
+      "you are (informal)"
+     ],
+     [
+      "*il est* / *elle est* / *on est*",
+      "/il ɛ/, /ɛl ɛ/, /ɔ̃.n‿ɛ/",
+      "he / she is, we are (spoken)"
+     ],
+     [
+      "*nous sommes*",
+      "/nu sɔm/",
+      "we are"
+     ],
+     [
+      "*vous êtes*",
+      "/vu.z‿ɛt/",
+      "you are (polite or plural)"
+     ],
+     [
+      "*ils sont* / *elles sont*",
+      "/il sɔ̃/, /ɛl sɔ̃/",
+      "they are"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Subject pronouns",
+   "body": "- *je* becomes *j'* before a vowel or silent h: *j'ai*, *j'habite*.\n- *il* = he (or \"it\" for a masculine thing), *elle* = she (or \"it\" for a feminine thing).\n- *ils* = they (men, or a mixed group); *elles* = they (only women or only feminine things).\n- *on* literally means \"one\", but in everyday French it almost always means **we**: *On est à Paris.* (We're in Paris.) It takes the same verb form as *il*.\n- *nous* = we (more formal or written)."
+  },
+  {
+   "heading": "Stressed pronouns: moi, toi…",
+   "body": "For emphasis, after *et*, and on their own, French uses *moi* (me), *toi* (you), *lui* (him), *elle* (her), *nous*, *vous*, *eux* (them), *elles*:\n\n- *Moi, c'est Hugo. Et toi ?* — I'm Hugo. And you?\n- *Lui, il s'appelle Thomas.* — He's called Thomas.\n- *Enchanté. — Moi aussi !* — Delighted. — Me too!"
+  }
+ ],
+ "vocab": [
+  [
+   "je m'appelle",
+   "my name is (I call myself)",
+   "ʒə ma.pɛl"
+  ],
+  [
+   "tu t'appelles comment ?",
+   "what's your name? (informal)",
+   "ty ta.pɛl kɔ.mɑ̃"
+  ],
+  [
+   "comment vous appelez-vous ?",
+   "what's your name? (polite)",
+   "kɔ.mɑ̃ vu.z‿a.ple.vu"
+  ],
+  [
+   "enchanté / enchantée",
+   "delighted to meet you (said by a man / a woman)",
+   "ɑ̃.ʃɑ̃.te / ɑ̃.ʃɑ̃.te"
+  ],
+  [
+   "être",
+   "to be",
+   "ɛtʁ"
+  ],
+  [
+   "je suis",
+   "I am",
+   "ʒə sɥi"
+  ],
+  [
+   "vous êtes",
+   "you are (polite or plural)",
+   "vu.z‿ɛt"
+  ],
+  [
+   "il est / elle est",
+   "he is / she is",
+   "il ɛ / ɛl ɛ"
+  ],
+  [
+   "nous sommes",
+   "we are",
+   "nu sɔm"
+  ],
+  [
+   "ils sont",
+   "they are",
+   "il sɔ̃"
+  ],
+  [
+   "moi",
+   "me, I (stressed)",
+   "mwa"
+  ],
+  [
+   "toi",
+   "you (stressed, informal)",
+   "twa"
+  ],
+  [
+   "aussi",
+   "too, also",
+   "o.si"
+  ],
+  [
+   "un étudiant / une étudiante",
+   "a student (man / woman)",
+   "œ̃.n‿e.ty.djɑ̃ / yn e.ty.djɑ̃t"
+  ]
+ ],
+ "examples": [
+  [
+   "Bonjour, je m'appelle Camille.",
+   "Hello, my name is Camille."
+  ],
+  [
+   "Tu t'appelles comment ?",
+   "What's your name?"
+  ],
+  [
+   "Moi, c'est Hugo. Et toi ?",
+   "I'm Hugo. And you?"
+  ],
+  [
+   "Comment vous appelez-vous, madame ?",
+   "What's your name, madam?"
+  ],
+  [
+   "Je m'appelle Sophie Martin.",
+   "My name is Sophie Martin."
+  ],
+  [
+   "Enchanté ! — Enchantée !",
+   "Delighted! — Delighted! (a man, then a woman)"
+  ],
+  [
+   "Il s'appelle comment ? — Il s'appelle Thomas.",
+   "What's his name? — He's called Thomas."
+  ],
+  [
+   "Elle s'appelle Léa.",
+   "Her name is Léa."
+  ],
+  [
+   "Je suis étudiant.",
+   "I'm a student. (a man)"
+  ],
+  [
+   "Vous êtes Madame Martin ?",
+   "Are you Mrs Martin?"
+  ],
+  [
+   "Nous sommes étudiants.",
+   "We're students."
+  ],
+  [
+   "On est à Paris.",
+   "We're in Paris."
+  ],
+  [
+   "Ils sont très gentils.",
+   "They're very nice."
+  ],
+  [
+   "Moi aussi, je suis étudiante.",
+   "I'm a student too. (a woman)"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "How do you ask a new classmate their name?",
+   "options": [
+    "Tu t'appelles comment ?",
+    "Comment vous appelez-vous ?",
+    "Enchanté !",
+    "Je m'appelle Hugo."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "How do you politely ask an older stranger their name?",
+   "options": [
+    "Comment vous appelez-vous ?",
+    "Tu t'appelles comment ?",
+    "Et toi ?",
+    "Moi aussi !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Camille (a woman) is introduced to someone. She writes…",
+   "options": [
+    "Enchantée !",
+    "Enchanté !",
+    "Au revoir !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Enchanté* and *Enchantée* sound…",
+   "options": [
+    "exactly the same",
+    "different: the second has an extra syllable",
+    "different: the second ends in a \"t\" sound"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In everyday speech, *on* usually means…",
+   "options": [
+    "we",
+    "they",
+    "you",
+    "one person, formally"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which pronoun means \"they\" for a group of only women?",
+   "options": [
+    "elles",
+    "ils",
+    "eux"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which pronoun means \"they\" for a group of three men and one woman?",
+   "options": [
+    "ils",
+    "elles",
+    "eux"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "A mixed group is masculine: *ils*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ suis étudiant.",
+   "options": [
+    "Je",
+    "Tu",
+    "Il"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Vous ___ Madame Martin ?",
+   "options": [
+    "êtes",
+    "est",
+    "sommes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ à Paris.",
+   "options": [
+    "sommes",
+    "sont",
+    "êtes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils ___ très gentils.",
+   "options": [
+    "sont",
+    "sommes",
+    "est"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Someone says *Enchanté !* You answer \"Me too!\"",
+   "options": [
+    "Moi aussi !",
+    "Toi aussi !",
+    "Je suis aussi !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Bonjour, je m'___ Camille.",
+   "answers": [
+    "appelle"
+   ],
+   "hint": "Hello, my name is Camille."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu t'appelles ___ ?",
+   "answers": [
+    "comment"
+   ],
+   "hint": "What's your name?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ étudiant.",
+   "answers": [
+    "suis"
+   ],
+   "hint": "I'm a student."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous ___ Madame Martin ?",
+   "answers": [
+    "êtes"
+   ],
+   "hint": "Are you Mrs Martin? (être)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ___ Léa.",
+   "answers": [
+    "s'appelle"
+   ],
+   "hint": "Her name is Léa."
+  },
+  {
+   "type": "fill",
+   "prompt": "___, c'est Hugo. Et toi ?",
+   "answers": [
+    "Moi"
+   ],
+   "hint": "I'm Hugo. And you?"
+  },
+  {
+   "type": "fill",
+   "prompt": "On ___ à Paris.",
+   "answers": [
+    "est"
+   ],
+   "hint": "We're in Paris. (être)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Moi ___, je suis étudiante.",
+   "answers": [
+    "aussi"
+   ],
+   "hint": "I'm a student too."
+  },
+  {
+   "type": "translate",
+   "prompt": "My name is Thomas.",
+   "answers": [
+    "Je m'appelle Thomas.",
+    "Je suis Thomas.",
+    "Moi, c'est Thomas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What's your name? (polite)",
+   "answers": [
+    "Comment vous appelez-vous ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We are students.",
+   "answers": [
+    "Nous sommes étudiants.",
+    "On est étudiants.",
+    "Nous sommes étudiantes.",
+    "On est étudiantes."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She is a student.",
+   "answers": [
+    "Elle est étudiante."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Me too!",
+   "answers": [
+    "Moi aussi !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Hello, my name is Camille.\"",
+   "answer": "Bonjour, je m'appelle Camille."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What's your name, madam?\"",
+   "answer": "Comment vous appelez-vous, madame ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm Hugo. And you?\"",
+   "answer": "Moi, c'est Hugo. Et toi ?"
+  }
+ ]
+}

@@ -1,0 +1,467 @@
+{
+ "sections": [
+  {
+   "heading": "Avoir — to have",
+   "body": "*Avoir* is the other key irregular verb. Note the liaison with *nous*, *vous*, *ils* and *elles*: the s is pronounced as a z before the vowel.\n\nListen carefully: *ils sont* (they are) has an **s** sound, *ils ont* (they have) has a **z** sound.",
+   "table": {
+    "head": [
+     "Pronoun",
+     "avoir",
+     "Pronunciation"
+    ],
+    "rows": [
+     [
+      "*j'ai*",
+      "I have",
+      "/ʒe/"
+     ],
+     [
+      "*tu as*",
+      "you have",
+      "/ty a/"
+     ],
+     [
+      "*il a* / *elle a* / *on a*",
+      "he / she has, we have",
+      "/il a/, /ɛl a/, /ɔ̃.n‿a/"
+     ],
+     [
+      "*nous avons*",
+      "we have",
+      "/nu.z‿a.vɔ̃/"
+     ],
+     [
+      "*vous avez*",
+      "you have",
+      "/vu.z‿a.ve/"
+     ],
+     [
+      "*ils ont* / *elles ont*",
+      "they have",
+      "/il.z‿ɔ̃/, /ɛl.z‿ɔ̃/"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Your age: avoir + ans",
+   "body": "French uses *avoir* for age — literally \"I have twenty years\": *J'ai vingt ans.* (I'm twenty.) To ask: *Tu as quel âge ?* (informal) or *Vous avez quel âge ?* (polite).\n\nNever leave out *ans*: *J'ai trente ans*, not ~~*J'ai trente*~~."
+  },
+  {
+   "heading": "Numbers 0 to 20",
+   "body": "*zéro, un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix, onze, douze, treize, quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt.*\n\nSome final consonants of numbers are pronounced on their own but change before a noun: *six* /sis/, but *six ans* /si.z‿ɑ̃/; *dix* /dis/, but *dix ans* /di.z‿ɑ̃/; *neuf ans* /nœ.v‿ɑ̃/."
+  },
+  {
+   "heading": "Numbers 21 to 69",
+   "body": "The tens are *vingt* (20), *trente* (30), *quarante* (40), *cinquante* (50), *soixante* (60). Add the units with a hyphen — *vingt-deux, trente-cinq* — except for one, which takes *et*: *vingt et un, trente et un, quarante et un*.\n\nPhone numbers are said in pairs: 06 12 45 30 18 → *zéro six, douze, quarante-cinq, trente, dix-huit*."
+  },
+  {
+   "heading": "Personal details",
+   "body": "On a form (*un formulaire*) you'll see *nom* (surname), *prénom* (first name), *âge*, *adresse*, *numéro de téléphone* and *nationalité*. To ask for a phone number: *Quel est ton numéro ?* / *Quel est votre numéro de téléphone ?*"
+  }
+ ],
+ "vocab": [
+  [
+   "avoir",
+   "to have",
+   "a.vwaʁ"
+  ],
+  [
+   "j'ai",
+   "I have",
+   "ʒe"
+  ],
+  [
+   "vous avez",
+   "you have (polite or plural)",
+   "vu.z‿a.ve"
+  ],
+  [
+   "ils ont",
+   "they have",
+   "il.z‿ɔ̃"
+  ],
+  [
+   "l'âge",
+   "age",
+   "lɑʒ",
+   "m"
+  ],
+  [
+   "l'an",
+   "the year (in ages)",
+   "lɑ̃",
+   "m"
+  ],
+  [
+   "quel âge ?",
+   "how old?",
+   "kɛ.l‿ɑʒ"
+  ],
+  [
+   "le numéro",
+   "the number",
+   "lə ny.me.ʁo"
+  ],
+  [
+   "le téléphone",
+   "the telephone",
+   "lə te.le.fɔn"
+  ],
+  [
+   "l'adresse",
+   "the address",
+   "la.dʁɛs",
+   "f"
+  ],
+  [
+   "zéro",
+   "zero",
+   "ze.ʁo"
+  ],
+  [
+   "un",
+   "one",
+   "œ̃"
+  ],
+  [
+   "trois",
+   "three",
+   "tʁwa"
+  ],
+  [
+   "quatre",
+   "four",
+   "katʁ"
+  ],
+  [
+   "cinq",
+   "five",
+   "sɛ̃k"
+  ],
+  [
+   "dix",
+   "ten",
+   "dis"
+  ],
+  [
+   "vingt",
+   "twenty",
+   "vɛ̃"
+  ],
+  [
+   "trente",
+   "thirty",
+   "tʁɑ̃t"
+  ],
+  [
+   "quarante",
+   "forty",
+   "ka.ʁɑ̃t"
+  ],
+  [
+   "cinquante",
+   "fifty",
+   "sɛ̃.kɑ̃t"
+  ],
+  [
+   "soixante",
+   "sixty",
+   "swa.sɑ̃t"
+  ]
+ ],
+ "examples": [
+  [
+   "J'ai vingt ans.",
+   "I'm twenty."
+  ],
+  [
+   "Tu as quel âge ?",
+   "How old are you?"
+  ],
+  [
+   "Vous avez quel âge, madame ?",
+   "How old are you, madam?"
+  ],
+  [
+   "Il a trente-cinq ans.",
+   "He's thirty-five."
+  ],
+  [
+   "Elle a dix-neuf ans.",
+   "She's nineteen."
+  ],
+  [
+   "Nous avons deux enfants.",
+   "We have two children."
+  ],
+  [
+   "Ils ont un chat.",
+   "They have a cat."
+  ],
+  [
+   "J'ai quarante et un ans.",
+   "I'm forty-one."
+  ],
+  [
+   "Quel est ton numéro ?",
+   "What's your number?"
+  ],
+  [
+   "C'est le zéro six, douze, quarante-cinq, trente, dix-huit.",
+   "It's 06 12 45 30 18."
+  ],
+  [
+   "Quelle est votre adresse ?",
+   "What's your address?"
+  ],
+  [
+   "Mon fils a six ans.",
+   "My son is six."
+  ],
+  [
+   "Ma mère a soixante-quatre ans.",
+   "My mother is sixty-four."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "How do you say \"I'm twenty\" in French?",
+   "options": [
+    "J'ai vingt ans.",
+    "Je suis vingt ans.",
+    "Je suis vingt."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Vous ___ quel âge ?",
+   "options": [
+    "avez",
+    "êtes",
+    "as"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils ___ deux enfants.",
+   "options": [
+    "ont",
+    "sont",
+    "avons"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*ils sont* and *ils ont*: what is the difference in sound?",
+   "options": [
+    "s in \"sont\", z in \"ont\"",
+    "none",
+    "the t is pronounced in \"sont\""
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "21 is…",
+   "options": [
+    "vingt et un",
+    "vingt-un",
+    "vingt-et-un"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "35 is…",
+   "options": [
+    "trente-cinq",
+    "trente et cinq",
+    "treize-cinq"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "50 is…",
+   "options": [
+    "cinquante",
+    "cinq-dix",
+    "quinze"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "16 is…",
+   "options": [
+    "seize",
+    "six-dix",
+    "soixante"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "How is *dix* pronounced in *dix ans*?",
+   "options": [
+    "with a z sound: /di.z‿ɑ̃/",
+    "with an s sound: /dis ɑ̃/",
+    "with a silent x: /di ɑ̃/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "What does *Tu as quel âge ?* mean?",
+   "options": [
+    "How old are you?",
+    "What's your name?",
+    "Where are you from?",
+    "What's your number?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "French phone numbers are usually said…",
+   "options": [
+    "in pairs of digits",
+    "one digit at a time",
+    "as one long number"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle ___ dix-neuf ans.",
+   "options": [
+    "a",
+    "est",
+    "as"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'___ vingt ans.",
+   "answers": [
+    "ai"
+   ],
+   "hint": "I'm twenty."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ quel âge ?",
+   "answers": [
+    "as"
+   ],
+   "hint": "How old are you?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a trente-cinq ___.",
+   "answers": [
+    "ans"
+   ],
+   "hint": "He's thirty-five."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ deux enfants.",
+   "answers": [
+    "avons"
+   ],
+   "hint": "We have two children."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quel est ton ___ ?",
+   "answers": [
+    "numéro"
+   ],
+   "hint": "What's your number?"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai quarante ___ un ans.",
+   "answers": [
+    "et"
+   ],
+   "hint": "I'm forty-one."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous ___ quel âge, madame ?",
+   "answers": [
+    "avez"
+   ],
+   "hint": "How old are you, madam?"
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm thirty.",
+   "answers": [
+    "J'ai trente ans."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "How old are you? (informal)",
+   "answers": [
+    "Tu as quel âge ?",
+    "Quel âge as-tu ?",
+    "Quel âge tu as ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She is sixty.",
+   "answers": [
+    "Elle a soixante ans."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We have two children.",
+   "answers": [
+    "Nous avons deux enfants.",
+    "On a deux enfants."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What's your number? (informal)",
+   "answers": [
+    "Quel est ton numéro ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"How old are you, madam?\"",
+   "answer": "Vous avez quel âge, madame ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My son is six.\"",
+   "answer": "Mon fils a six ans."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My mother is sixty-four.\"",
+   "answer": "Ma mère a soixante-quatre ans."
+  }
+ ]
+}

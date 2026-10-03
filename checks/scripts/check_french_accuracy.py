@@ -72,7 +72,13 @@ extra_ipa = {k: v["ipa"] for k, v in notes.items() if v["ipa"]}
 
 
 def noted(word: str) -> bool:
-    return frlex.key(word) in notes
+    w = frlex.key(word)
+    if w in notes:
+        return True
+    if "'" in w:  # an elided word before a noted one: d'Ottawa, l'Espagne
+        pre, rest = w.split("'", 1)
+        return pre in frlex.ELISIONS and rest in notes
+    return False
 
 
 # ---------------------------------------------------------------- text gathering
