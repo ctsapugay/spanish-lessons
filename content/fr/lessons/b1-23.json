@@ -1,0 +1,421 @@
+{
+ "sections": [
+  {
+   "heading": "The media",
+   "body": "*les médias*: *la presse* (the press), *le journal* (newspaper; also the TV news — *le journal de 20 heures*), *le quotidien* (daily paper), *l'hebdomadaire* (weekly), *le magazine*, *l'article*, *le titre* (headline), *la une* (the front page: *à la une* — on the front page), *l'actualité* or *les actualités* (current events, the news), *les infos* (the news — casual), *la radio*, *la télévision*, *les réseaux sociaux* (social media), *le / la journaliste*, *l'émission* (programme), *le reportage* (report), *l'interview*.\n\n*Tu as vu les infos ?* — *J'ai lu dans le journal que…* — *D'après la radio, …* (According to the radio…)"
+  },
+  {
+   "heading": "Headlines: turning verbs into nouns",
+   "body": "Headlines often use **nouns** instead of verbs, so you need to recognise the noun made from a verb (*la nominalisation*):\n\nCommon endings: **-tion** / **-sion** (feminine), **-ment** (masculine), **-ure** (feminine), **-ée** (feminine), and some with no suffix (*le départ*, *la hausse* — the rise, *la baisse* — the fall).",
+   "table": {
+    "head": [
+     "Verb",
+     "Noun",
+     "Example headline"
+    ],
+    "rows": [
+     [
+      "*augmenter*",
+      "*l'augmentation*",
+      "*Augmentation des prix de l'essence*"
+     ],
+     [
+      "*ouvrir*",
+      "*l'ouverture*",
+      "*Ouverture d'un nouveau musée à Lyon*"
+     ],
+     [
+      "*arriver*",
+      "*l'arrivée*",
+      "*Arrivée du Tour de France à Paris*"
+     ],
+     [
+      "*partir*",
+      "*le départ*",
+      "*Départ en vacances : embouteillages sur les routes*"
+     ],
+     [
+      "*fermer*",
+      "*la fermeture*",
+      "*Fermeture de l'usine Renault*"
+     ],
+     [
+      "*élire*",
+      "*l'élection*",
+      "*Élection d'une nouvelle présidente*"
+     ],
+     [
+      "*réduire*",
+      "*la réduction*",
+      "*Réduction du temps de travail*"
+     ],
+     [
+      "*découvrir*",
+      "*la découverte*",
+      "*Découverte d'un trésor en Bretagne*"
+     ],
+     [
+      "*changer*",
+      "*le changement*",
+      "*Changement d'heure dimanche*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Talking about the news",
+   "body": "*Il s'est passé quelque chose de grave ?* (Has something serious happened?) — *Selon les journalistes, …* — *L'accident a fait trois blessés.* (The accident left three injured.) — *Un fait divers* (a minor news story: a crime, an accident)."
+  }
+ ],
+ "vocab": [
+  [
+   "les médias",
+   "the media",
+   "le me.dja",
+   "m"
+  ],
+  [
+   "la presse",
+   "the press",
+   "la pʁɛs"
+  ],
+  [
+   "le quotidien",
+   "the daily paper",
+   "lə kɔ.ti.djɛ̃"
+  ],
+  [
+   "le titre",
+   "the headline, the title",
+   "lə titʁ"
+  ],
+  [
+   "l'actualité",
+   "current events, the news",
+   "lak.tɥa.li.te",
+   "f"
+  ],
+  [
+   "les infos",
+   "the news (casual)",
+   "le.z‿ɛ̃.fo",
+   "f"
+  ],
+  [
+   "les réseaux sociaux",
+   "social media",
+   "le ʁe.zo sɔ.sjo",
+   "m"
+  ],
+  [
+   "l'émission",
+   "the programme",
+   "le.mi.sjɔ̃",
+   "f"
+  ],
+  [
+   "le reportage",
+   "the report",
+   "lə ʁə.pɔʁ.taʒ"
+  ],
+  [
+   "l'augmentation",
+   "the rise, the increase",
+   "lɔɡ.mɑ̃.ta.sjɔ̃",
+   "f"
+  ],
+  [
+   "l'ouverture",
+   "the opening",
+   "lu.vɛʁ.tyʁ",
+   "f"
+  ],
+  [
+   "la fermeture",
+   "the closing, the closure",
+   "la fɛʁ.mə.tyʁ"
+  ],
+  [
+   "l'élection",
+   "the election",
+   "le.lɛk.sjɔ̃",
+   "f"
+  ],
+  [
+   "la baisse",
+   "the fall, the decrease",
+   "la bɛs"
+  ],
+  [
+   "le fait divers",
+   "the minor news story",
+   "lə fɛ di.vɛʁ"
+  ],
+  [
+   "selon",
+   "according to",
+   "sə.lɔ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Tu as vu les infos ce matin ?",
+   "Did you see the news this morning?"
+  ],
+  [
+   "J'ai lu dans le journal qu'il y aura une grève.",
+   "I read in the paper that there'll be a strike."
+  ],
+  [
+   "L'article est à la une du quotidien.",
+   "The article is on the front page of the daily paper."
+  ],
+  [
+   "Augmentation des prix de l'essence.",
+   "Rise in petrol prices."
+  ],
+  [
+   "Ouverture d'un nouveau musée à Lyon.",
+   "New museum opens in Lyon."
+  ],
+  [
+   "Fermeture de l'usine : deux cents emplois menacés.",
+   "Factory to close: two hundred jobs under threat."
+  ],
+  [
+   "Élection d'une nouvelle présidente.",
+   "New president elected."
+  ],
+  [
+   "Baisse du chômage en septembre.",
+   "Unemployment falls in September."
+  ],
+  [
+   "Selon les journalistes, l'accident a fait trois blessés.",
+   "According to journalists, the accident left three people injured."
+  ],
+  [
+   "Il y a un reportage très intéressant ce soir sur France 2.",
+   "There's a very interesting report tonight on France 2."
+  ],
+  [
+   "Je m'informe surtout sur les réseaux sociaux.",
+   "I mainly get my news on social media."
+  ],
+  [
+   "C'est un simple fait divers.",
+   "It's just a minor news story."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "prompt": "augmenter → l'___",
+   "answers": [
+    "augmentation"
+   ],
+   "hint": "the noun made from augmenter"
+  },
+  {
+   "type": "fill",
+   "prompt": "ouvrir → l'___",
+   "answers": [
+    "ouverture"
+   ],
+   "hint": "the noun made from ouvrir"
+  },
+  {
+   "type": "fill",
+   "prompt": "partir → le ___",
+   "answers": [
+    "départ"
+   ],
+   "hint": "the noun made from partir"
+  },
+  {
+   "type": "fill",
+   "prompt": "fermer → la ___",
+   "answers": [
+    "fermeture"
+   ],
+   "hint": "the noun made from fermer"
+  },
+  {
+   "type": "fill",
+   "prompt": "changer → le ___",
+   "answers": [
+    "changement"
+   ],
+   "hint": "the noun made from changer"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Baisse du chômage* means…",
+   "options": [
+    "Unemployment falls",
+    "Unemployment rises",
+    "Unemployment stays the same"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à la une* means…",
+   "options": [
+    "on the front page",
+    "at one o'clock",
+    "in first place"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un fait divers* is…",
+   "options": [
+    "a minor news story (accident, crime)",
+    "a various fact",
+    "a diverse opinion"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le quotidien* is…",
+   "options": [
+    "the daily paper",
+    "the weekly",
+    "the daily routine only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les infos* is…",
+   "options": [
+    "the news (casual)",
+    "the information desk",
+    "the inhabitants"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu as vu les ___ ce matin ?",
+   "answers": [
+    "infos"
+   ],
+   "hint": "Did you see the news this morning?"
+  },
+  {
+   "type": "fill",
+   "prompt": "L'article est à la ___ du quotidien.",
+   "answers": [
+    "une"
+   ],
+   "hint": "on the front page."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ des prix de l'essence.",
+   "answers": [
+    "Augmentation"
+   ],
+   "hint": "Rise in petrol prices."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ d'un nouveau musée à Lyon.",
+   "answers": [
+    "Ouverture"
+   ],
+   "hint": "New museum opens in Lyon."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ de l'usine : deux cents emplois menacés.",
+   "answers": [
+    "Fermeture"
+   ],
+   "hint": "Factory to close."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ du chômage en septembre.",
+   "answers": [
+    "Baisse"
+   ],
+   "hint": "Unemployment falls in September."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ les journalistes, l'accident a fait trois blessés.",
+   "answers": [
+    "Selon"
+   ],
+   "hint": "According to journalists…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je m'informe surtout sur les réseaux ___.",
+   "answers": [
+    "sociaux"
+   ],
+   "hint": "I mainly get my news on social media."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un simple fait ___.",
+   "answers": [
+    "divers"
+   ],
+   "hint": "It's just a minor news story."
+  },
+  {
+   "type": "translate",
+   "prompt": "Did you see the news? (to a friend)",
+   "answers": [
+    "Tu as vu les infos ?",
+    "Tu as vu les informations ?",
+    "Tu as vu le journal ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "According to the radio, it will rain.",
+   "answers": [
+    "Selon la radio, il va pleuvoir.",
+    "D'après la radio, il va pleuvoir.",
+    "Selon la radio, il pleuvra."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "New museum opens in Lyon. (headline)",
+   "answers": [
+    "Ouverture d'un nouveau musée à Lyon."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I read it in the paper.",
+   "answers": [
+    "Je l'ai lu dans le journal."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I read in the paper that there'll be a strike.\"",
+   "answer": "J'ai lu dans le journal qu'il y aura une grève."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"According to journalists, the accident left three people injured.\"",
+   "answer": "Selon les journalistes, l'accident a fait trois blessés."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I mainly get my news on social media.\"",
+   "answer": "Je m'informe surtout sur les réseaux sociaux."
+  }
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "sections": [
+  {
+   "heading": "Opposition: two facts side by side",
+   "body": "- *mais* — but: *C'est cher, mais c'est bon.*\n- *alors que* + indicative — whereas, while: *Il fait chaud à Nice, alors qu'il neige à Lille.* (It's hot in Nice, whereas it's snowing in Lille.)\n- *au contraire* — on the contrary: *Il n'est pas timide ; au contraire, il parle à tout le monde.*\n- *par contre* / *en revanche* — on the other hand (*par contre* is everyday, *en revanche* more formal): *Le quartier est calme. Par contre, il est loin du centre.*"
+  },
+  {
+   "heading": "Concession: despite, although",
+   "body": "Concession says that something happens **in spite of** an obstacle:\n\n- *pourtant* / *cependant* — yet, however: *Il a beaucoup étudié ; pourtant, il a raté l'examen.* *Cependant* is more formal.\n- *quand même* — all the same, anyway (spoken; after the verb): *Il pleuvait, mais on est sortis quand même.*\n- *malgré* + noun — despite: *Malgré la pluie, on est sortis.* (Despite the rain…)\n- *bien que* + **subjunctive** — although: *Bien qu'il soit malade, il travaille.* (Although he's ill, he's working.)\n- *même si* + indicative — even if: *Même s'il pleut, je viendrai.*\n\nNote the different moods: *bien que* + subjunctive, but *même si* + indicative."
+  },
+  {
+   "heading": "Building a balanced argument",
+   "body": "*Certes, la ville est bruyante ; pourtant, j'aime y vivre.* (Admittedly…) — *D'un côté, … ; de l'autre, …* (On the one hand… on the other…) — *Il est vrai que… mais…* (It's true that… but…)"
+  }
+ ],
+ "vocab": [
+  [
+   "alors que",
+   "whereas, while",
+   "a.lɔʁ kə"
+  ],
+  [
+   "au contraire",
+   "on the contrary",
+   "o kɔ̃.tʁɛʁ"
+  ],
+  [
+   "par contre",
+   "on the other hand",
+   "paʁ kɔ̃tʁ"
+  ],
+  [
+   "en revanche",
+   "on the other hand (formal)",
+   "ɑ̃ ʁə.vɑ̃ʃ"
+  ],
+  [
+   "pourtant",
+   "yet, however",
+   "puʁ.tɑ̃"
+  ],
+  [
+   "cependant",
+   "however",
+   "sə.pɑ̃.dɑ̃"
+  ],
+  [
+   "quand même",
+   "all the same, anyway",
+   "kɑ̃ mɛm"
+  ],
+  [
+   "malgré",
+   "despite",
+   "mal.ɡʁe"
+  ],
+  [
+   "bien que",
+   "although",
+   "bjɛ̃ kə"
+  ],
+  [
+   "même si",
+   "even if",
+   "mɛm si"
+  ],
+  [
+   "certes",
+   "admittedly, of course",
+   "sɛʁt"
+  ],
+  [
+   "d'un côté",
+   "on the one hand",
+   "dœ̃ ko.te"
+  ]
+ ],
+ "examples": [
+  [
+   "C'est cher, mais c'est bon.",
+   "It's expensive, but it's good."
+  ],
+  [
+   "Il fait chaud à Nice, alors qu'il neige à Lille.",
+   "It's hot in Nice, whereas it's snowing in Lille."
+  ],
+  [
+   "Il n'est pas timide ; au contraire, il parle à tout le monde.",
+   "He isn't shy; on the contrary, he talks to everyone."
+  ],
+  [
+   "Le quartier est calme. Par contre, il est loin du centre.",
+   "The neighbourhood is quiet. On the other hand, it's far from the centre."
+  ],
+  [
+   "Il a beaucoup étudié ; pourtant, il a raté l'examen.",
+   "He studied a lot; yet he failed the exam."
+  ],
+  [
+   "Il pleuvait, mais on est sortis quand même.",
+   "It was raining, but we went out anyway."
+  ],
+  [
+   "Malgré la pluie, on est sortis.",
+   "Despite the rain, we went out."
+  ],
+  [
+   "Bien qu'il soit malade, il travaille.",
+   "Although he's ill, he's working."
+  ],
+  [
+   "Même s'il pleut, je viendrai.",
+   "Even if it rains, I'll come."
+  ],
+  [
+   "Certes, la ville est bruyante ; pourtant, j'aime y vivre.",
+   "Admittedly the city is noisy; yet I love living there."
+  ],
+  [
+   "D'un côté, c'est pratique ; de l'autre, c'est cher.",
+   "On the one hand it's practical; on the other, it's expensive."
+  ],
+  [
+   "Les chiffres sont bons. En revanche, les ventes baissent.",
+   "The figures are good. On the other hand, sales are falling."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ la pluie, on est sortis.",
+   "options": [
+    "Malgré",
+    "Bien que",
+    "Même si"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*malgré* + noun."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ il soit malade, il travaille.",
+   "options": [
+    "Bien qu'",
+    "Malgré qu'",
+    "Même s'"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Même s'il ___, je viendrai.",
+   "options": [
+    "pleut",
+    "pleuve",
+    "pleuvrait"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*même si* + indicative."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Bien qu'il ___ malade, il travaille.",
+   "options": [
+    "soit",
+    "est",
+    "sera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il fait chaud à Nice, ___ il neige à Lille.",
+   "options": [
+    "alors qu'",
+    "pourtant",
+    "malgré"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il pleuvait, mais on est sortis ___.",
+   "options": [
+    "quand même",
+    "malgré",
+    "bien que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*en revanche* means…",
+   "options": [
+    "on the other hand",
+    "in revenge",
+    "in return for payment"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*pourtant* means…",
+   "options": [
+    "yet, however",
+    "therefore",
+    "because"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*certes* means…",
+   "options": [
+    "admittedly",
+    "certainly not",
+    "certain people"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which takes the subjunctive?",
+   "options": [
+    "bien que",
+    "même si",
+    "alors que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il fait chaud à Nice, ___ qu'il neige à Lille.",
+   "answers": [
+    "alors"
+   ],
+   "hint": "whereas it's snowing in Lille."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il n'est pas timide ; au ___, il parle à tout le monde.",
+   "answers": [
+    "contraire"
+   ],
+   "hint": "on the contrary…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le quartier est calme. Par ___, il est loin du centre.",
+   "answers": [
+    "contre"
+   ],
+   "hint": "On the other hand…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a beaucoup étudié ; ___, il a raté l'examen.",
+   "answers": [
+    "pourtant",
+    "cependant"
+   ],
+   "hint": "yet he failed the exam."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il pleuvait, mais on est sortis quand ___.",
+   "answers": [
+    "même"
+   ],
+   "hint": "but we went out anyway."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ la pluie, on est sortis.",
+   "answers": [
+    "Malgré"
+   ],
+   "hint": "Despite the rain, we went out."
+  },
+  {
+   "type": "fill",
+   "prompt": "Bien qu'il ___ malade, il travaille. (être)",
+   "answers": [
+    "soit"
+   ],
+   "hint": "Although he's ill, he's working."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ s'il pleut, je viendrai.",
+   "answers": [
+    "Même"
+   ],
+   "hint": "Even if it rains, I'll come."
+  },
+  {
+   "type": "fill",
+   "prompt": "D'un ___, c'est pratique ; de l'autre, c'est cher.",
+   "answers": [
+    "côté"
+   ],
+   "hint": "On the one hand it's practical."
+  },
+  {
+   "type": "translate",
+   "prompt": "Despite the rain, we went out.",
+   "answers": [
+    "Malgré la pluie, nous sommes sortis.",
+    "Malgré la pluie, on est sortis."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Even if it rains, I'll come.",
+   "answers": [
+    "Même s'il pleut, je viendrai."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Although he's ill, he's working.",
+   "answers": [
+    "Bien qu'il soit malade, il travaille."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's expensive, but it's good.",
+   "answers": [
+    "C'est cher, mais c'est bon."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We went out anyway.",
+   "answers": [
+    "On est sortis quand même.",
+    "Nous sommes sortis quand même."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He studied a lot; yet he failed the exam.\"",
+   "answer": "Il a beaucoup étudié ; pourtant, il a raté l'examen."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Although he's ill, he's working.\"",
+   "answer": "Bien qu'il soit malade, il travaille."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"On the one hand it's practical; on the other, it's expensive.\"",
+   "answer": "D'un côté, c'est pratique ; de l'autre, c'est cher."
+  }
+ ]
+}

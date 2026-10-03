@@ -1,0 +1,385 @@
+{
+ "sections": [
+  {
+   "heading": "Talking about fashion",
+   "body": "*la mode* (fashion): *être à la mode* (to be fashionable), *démodé(e)* (old-fashioned), *tendance* (trendy — invariable: *des couleurs tendance*), *le style*, *le look* (casual), *élégant(e)*, *décontracté(e)* (casual, relaxed), *chic* (invariable), *s'habiller* (to dress), *bien habillé(e)* (well dressed). *Ce pull te va bien.* (This jumper suits you.) *Il est assorti à ta veste.* (It matches your jacket.) *Ça ne se fait plus.* (People don't do that any more.)\n\nParis is famous for *la haute couture* and *le prêt-à-porter* (ready-to-wear); *les soldes* (the sales) happen twice a year, in January and in summer."
+  },
+  {
+   "heading": "Adverbs in -ment",
+   "body": "Most adverbs of manner are formed from the **feminine** adjective + **-ment**:\n\n- *lent → lente → lentement* (slowly), *heureux → heureuse → heureusement* (fortunately), *doux → douce → doucement* (gently, quietly)\n- adjective ending in a vowel: masculine + -ment: *vrai → vraiment*, *poli → poliment*, *absolu → absolument*\n- **-ant → -amment**, **-ent → -emment** (both pronounced /amɑ̃/): *courant → couramment* (fluently), *prudent → prudemment* (carefully), *récent → récemment*, *évident → évidemment* (obviously)\n- irregular: *gentil → gentiment*, *bref → brièvement*, *bon → bien*, *mauvais → mal*\n\nPosition: usually right after the verb (*Il parle couramment français.*), or between auxiliary and participle (*Il a finalement accepté.*), or at the start for a sentence-wide comment (*Heureusement, personne n'a été blessé.*)."
+  },
+  {
+   "heading": "Quantity and approximation",
+   "body": "- *environ* — about, approximately: *Ça coûte environ cent euros.*\n- *presque* — almost: *J'ai presque fini.*\n- *autant* — as much / as many: *Je travaille autant que toi.* *Il y a autant de filles que de garçons.*\n- *à peu près* — roughly: *à peu près vingt personnes*\n- *plutôt* — rather, quite: *C'est plutôt cher.*"
+  },
+  {
+   "heading": "Prepositions par and en",
+   "body": "- *par*: by, through, per: *passer par Lyon* (to go via Lyon), *regarder par la fenêtre*, *deux fois par semaine*, *par hasard* (by chance)\n- *en*: material, colour, means, time it takes: *un sac en cuir* (a leather bag), *une robe en soie* (a silk dress), *habillé en noir*, *en voiture*, *en deux heures*"
+  }
+ ],
+ "vocab": [
+  [
+   "la mode",
+   "fashion",
+   "la mɔd"
+  ],
+  [
+   "à la mode",
+   "fashionable",
+   "a la mɔd"
+  ],
+  [
+   "démodé / démodée",
+   "old-fashioned",
+   "de.mɔ.de / de.mɔ.de"
+  ],
+  [
+   "décontracté / décontractée",
+   "casual, relaxed",
+   "de.kɔ̃.tʁak.te / de.kɔ̃.tʁak.te"
+  ],
+  [
+   "les soldes",
+   "the sales",
+   "le sɔld",
+   "m"
+  ],
+  [
+   "heureusement",
+   "fortunately",
+   "œ.ʁøz.mɑ̃"
+  ],
+  [
+   "doucement",
+   "gently, quietly",
+   "dus.mɑ̃"
+  ],
+  [
+   "couramment",
+   "fluently",
+   "ku.ʁa.mɑ̃"
+  ],
+  [
+   "prudemment",
+   "carefully",
+   "pʁy.da.mɑ̃"
+  ],
+  [
+   "évidemment",
+   "obviously",
+   "e.vi.da.mɑ̃"
+  ],
+  [
+   "environ",
+   "about, approximately",
+   "ɑ̃.vi.ʁɔ̃"
+  ],
+  [
+   "presque",
+   "almost",
+   "pʁɛsk"
+  ],
+  [
+   "autant",
+   "as much, as many",
+   "o.tɑ̃"
+  ],
+  [
+   "plutôt",
+   "rather, quite",
+   "ply.to"
+  ],
+  [
+   "le cuir",
+   "leather",
+   "lə kɥiʁ"
+  ],
+  [
+   "par hasard",
+   "by chance",
+   "paʁ a.zaʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Cette couleur est très à la mode cette année.",
+   "This colour is very fashionable this year."
+  ],
+  [
+   "Ce manteau est complètement démodé !",
+   "This coat is completely old-fashioned!"
+  ],
+  [
+   "Je préfère un style décontracté.",
+   "I prefer a casual style."
+  ],
+  [
+   "Ce pull te va très bien.",
+   "This jumper really suits you."
+  ],
+  [
+   "J'ai acheté un sac en cuir pendant les soldes.",
+   "I bought a leather bag in the sales."
+  ],
+  [
+   "Heureusement, personne n'a été blessé.",
+   "Fortunately, nobody was hurt."
+  ],
+  [
+   "Parle doucement, le bébé dort.",
+   "Speak quietly, the baby's asleep."
+  ],
+  [
+   "Elle parle couramment trois langues.",
+   "She speaks three languages fluently."
+  ],
+  [
+   "Conduis prudemment !",
+   "Drive carefully!"
+  ],
+  [
+   "Évidemment, il est arrivé en retard.",
+   "Obviously he arrived late."
+  ],
+  [
+   "Ça coûte environ cent euros.",
+   "It costs about a hundred euros."
+  ],
+  [
+   "J'ai presque fini.",
+   "I've almost finished."
+  ],
+  [
+   "Je l'ai rencontré par hasard dans la rue.",
+   "I met him by chance in the street."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "prompt": "lent → ___",
+   "answers": [
+    "lentement"
+   ],
+   "hint": "the adverb from lent (slowly)"
+  },
+  {
+   "type": "fill",
+   "prompt": "prudent → ___",
+   "answers": [
+    "prudemment"
+   ],
+   "hint": "the adverb from prudent (carefully)"
+  },
+  {
+   "type": "fill",
+   "prompt": "courant → ___",
+   "answers": [
+    "couramment"
+   ],
+   "hint": "the adverb from courant (fluently)"
+  },
+  {
+   "type": "fill",
+   "prompt": "vrai → ___",
+   "answers": [
+    "vraiment"
+   ],
+   "hint": "the adverb from vrai (really)"
+  },
+  {
+   "type": "fill",
+   "prompt": "gentil → ___",
+   "answers": [
+    "gentiment"
+   ],
+   "hint": "the adverb from gentil (kindly)"
+  },
+  {
+   "type": "mc",
+   "prompt": "*démodé* means…",
+   "options": [
+    "old-fashioned",
+    "fashionable",
+    "mad"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les soldes* are…",
+   "options": [
+    "the sales",
+    "soldiers",
+    "the balance"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ce pull te va bien* means…",
+   "options": [
+    "This jumper suits you",
+    "This jumper is going well",
+    "You go well with this jumper"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*environ* means…",
+   "options": [
+    "about, approximately",
+    "the environment",
+    "around the corner"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un sac en cuir* is…",
+   "options": [
+    "a leather bag",
+    "a bag for leather",
+    "a cooked bag"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*par hasard* means…",
+   "options": [
+    "by chance",
+    "by danger",
+    "by the way"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Cette couleur est très à la ___ cette année.",
+   "answers": [
+    "mode"
+   ],
+   "hint": "This colour is very fashionable."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je préfère un style ___.",
+   "answers": [
+    "décontracté"
+   ],
+   "hint": "I prefer a casual style."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai acheté un sac en ___ pendant les soldes.",
+   "answers": [
+    "cuir"
+   ],
+   "hint": "I bought a leather bag in the sales."
+  },
+  {
+   "type": "fill",
+   "prompt": "___, personne n'a été blessé.",
+   "answers": [
+    "Heureusement"
+   ],
+   "hint": "Fortunately, nobody was hurt."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle parle ___ trois langues.",
+   "answers": [
+    "couramment"
+   ],
+   "hint": "She speaks three languages fluently."
+  },
+  {
+   "type": "fill",
+   "prompt": "Conduis ___ !",
+   "answers": [
+    "prudemment"
+   ],
+   "hint": "Drive carefully!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça coûte ___ cent euros.",
+   "answers": [
+    "environ"
+   ],
+   "hint": "It costs about a hundred euros."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ fini.",
+   "answers": [
+    "presque"
+   ],
+   "hint": "I've almost finished."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je l'ai rencontré par ___ dans la rue.",
+   "answers": [
+    "hasard"
+   ],
+   "hint": "I met him by chance."
+  },
+  {
+   "type": "translate",
+   "prompt": "Fortunately, nobody was hurt.",
+   "answers": [
+    "Heureusement, personne n'a été blessé."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She speaks French fluently.",
+   "answers": [
+    "Elle parle couramment français.",
+    "Elle parle français couramment."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I've almost finished.",
+   "answers": [
+    "J'ai presque fini.",
+    "J'ai presque terminé."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It costs about fifty euros.",
+   "answers": [
+    "Ça coûte environ cinquante euros.",
+    "Ça coûte à peu près cinquante euros."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "This jumper suits you. (to a friend)",
+   "answers": [
+    "Ce pull te va bien.",
+    "Ce pull te va très bien."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I bought a leather bag in the sales.\"",
+   "answer": "J'ai acheté un sac en cuir pendant les soldes."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She speaks three languages fluently.\"",
+   "answer": "Elle parle couramment trois langues."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I met him by chance in the street.\"",
+   "answer": "Je l'ai rencontré par hasard dans la rue."
+  }
+ ]
+}
