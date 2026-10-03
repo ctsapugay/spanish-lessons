@@ -1,0 +1,433 @@
+{
+ "sections": [
+  {
+   "heading": "What time is it?",
+   "body": "*Il est quelle heure ?* or *Quelle heure est-il ?* — What time is it? Answer with *Il est* + number + *heure(s)*:\n\n- *Il est une heure.* (1:00) — *Il est deux heures.* (2:00)\n- *Il est trois heures cinq* (3:05), *et quart* (3:15), *et demie* (3:30)\n- *Il est quatre heures moins vingt* (3:40), *moins le quart* (3:45)\n- *Il est midi* (noon), *Il est minuit* (midnight)\n\nTimetables, train stations and TV use the 24-hour clock: *Le train part à dix-huit heures trente* (18:30). At what time? → *À quelle heure ?* — *À huit heures.*"
+  },
+  {
+   "heading": "Pronominal verbs",
+   "body": "Many daily-routine verbs are **pronominal**: they come with a pronoun that refers back to the subject — \"to wash oneself\", \"to get oneself up\". *Se lever* (to get up):\n\n*me, te, se* become *m', t', s'* before a vowel: *je m'habille* (I get dressed), *elle s'appelle*. Other verbs work the same way: *je me couche*, *elle se couche*, *nous nous couchons*, *tu te douches*, *ils se réveillent*.\n\nIn the negative, *ne… pas* goes around the pronoun and verb: *Je ne me lève pas tôt.*\n\nNote the accent in *je me lève* /lɛv/ but *nous nous levons* /lə.vɔ̃/.",
+   "table": {
+    "head": [
+     "",
+     "se lever"
+    ],
+    "rows": [
+     [
+      "*je me lève*",
+      "I get up"
+     ],
+     [
+      "*tu te lèves*",
+      "you get up"
+     ],
+     [
+      "*il / elle / on se lève*",
+      "he / she gets up, we get up"
+     ],
+     [
+      "*nous nous levons*",
+      "we get up"
+     ],
+     [
+      "*vous vous levez*",
+      "you get up"
+     ],
+     [
+      "*ils / elles se lèvent*",
+      "they get up"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "My day",
+   "body": "*se réveiller* (wake up), *se lever* (get up), *se doucher* (shower), *s'habiller* (get dressed), *prendre le petit-déjeuner* (have breakfast), *partir* (leave), *déjeuner* (have lunch), *rentrer* (get home), *dîner* (have dinner), *se coucher* (go to bed). *D'abord* (first), *puis* / *ensuite* (then), *enfin* (finally).\n\n*Je me lève à sept heures, je me douche et je prends le petit-déjeuner. Ensuite je pars au travail.*"
+  }
+ ],
+ "vocab": [
+  [
+   "l'heure",
+   "the hour, the time (on the clock)",
+   "lœʁ",
+   "f"
+  ],
+  [
+   "et quart",
+   "quarter past",
+   "e kaʁ"
+  ],
+  [
+   "et demie",
+   "half past",
+   "e də.mi"
+  ],
+  [
+   "moins le quart",
+   "quarter to",
+   "mwɛ̃ lə kaʁ"
+  ],
+  [
+   "midi",
+   "noon",
+   "mi.di"
+  ],
+  [
+   "minuit",
+   "midnight",
+   "mi.nɥi"
+  ],
+  [
+   "se réveiller",
+   "to wake up",
+   "sə ʁe.ve.je"
+  ],
+  [
+   "se lever",
+   "to get up",
+   "sə lə.ve"
+  ],
+  [
+   "se doucher",
+   "to have a shower",
+   "sə du.ʃe"
+  ],
+  [
+   "s'habiller",
+   "to get dressed",
+   "sa.bi.je"
+  ],
+  [
+   "se coucher",
+   "to go to bed",
+   "sə ku.ʃe"
+  ],
+  [
+   "le petit-déjeuner",
+   "breakfast",
+   "lə pə.ti.de.ʒœ.ne"
+  ],
+  [
+   "déjeuner",
+   "to have lunch",
+   "de.ʒœ.ne"
+  ],
+  [
+   "dîner",
+   "to have dinner",
+   "di.ne"
+  ],
+  [
+   "tôt",
+   "early",
+   "to"
+  ],
+  [
+   "tard",
+   "late",
+   "taʁ"
+  ],
+  [
+   "d'abord",
+   "first",
+   "da.bɔʁ"
+  ],
+  [
+   "ensuite",
+   "then, next",
+   "ɑ̃.sɥit"
+  ]
+ ],
+ "examples": [
+  [
+   "Il est quelle heure ? — Il est huit heures et demie.",
+   "What time is it? — It's half past eight."
+  ],
+  [
+   "Il est midi.",
+   "It's noon."
+  ],
+  [
+   "À quelle heure tu te lèves ?",
+   "What time do you get up?"
+  ],
+  [
+   "Je me lève à sept heures.",
+   "I get up at seven."
+  ],
+  [
+   "Je me douche et je m'habille.",
+   "I shower and get dressed."
+  ],
+  [
+   "D'abord je prends le petit-déjeuner, ensuite je pars au travail.",
+   "First I have breakfast, then I leave for work."
+  ],
+  [
+   "On déjeune à midi et demi.",
+   "We have lunch at half past twelve."
+  ],
+  [
+   "Nous dînons à vingt heures.",
+   "We have dinner at eight p.m."
+  ],
+  [
+   "Mes enfants se couchent tôt.",
+   "My children go to bed early."
+  ],
+  [
+   "Le samedi, je ne me lève pas tôt.",
+   "On Saturdays I don't get up early."
+  ],
+  [
+   "Il est dix heures moins le quart.",
+   "It's a quarter to ten."
+  ],
+  [
+   "Le train part à dix-huit heures trente.",
+   "The train leaves at 18:30."
+  ],
+  [
+   "Tu te réveilles tard le dimanche ?",
+   "Do you wake up late on Sundays?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "3:15 is…",
+   "options": [
+    "trois heures et quart",
+    "trois heures moins le quart",
+    "trois heures et demie"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "9:30 is…",
+   "options": [
+    "neuf heures et demie",
+    "neuf heures et quart",
+    "dix heures moins trente"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "4:45 is…",
+   "options": [
+    "cinq heures moins le quart",
+    "quatre heures moins le quart",
+    "quatre heures et quart"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "12:00 noon is…",
+   "options": [
+    "midi",
+    "minuit",
+    "douze heures du soir"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ___ lève à sept heures.",
+   "options": [
+    "me",
+    "se",
+    "te"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ couchons tard.",
+   "options": [
+    "nous",
+    "se",
+    "vous"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle ___ habille.",
+   "options": [
+    "s'",
+    "se",
+    "t'"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Je me lève tôt.*",
+   "options": [
+    "Je ne me lève pas tôt.",
+    "Je me ne lève pas tôt.",
+    "Je ne lève me pas tôt."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which comes first in the morning?",
+   "options": [
+    "se réveiller",
+    "se coucher",
+    "dîner"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*ensuite* means…",
+   "options": [
+    "then, next",
+    "first",
+    "finally",
+    "early"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How is *je me lève* pronounced?",
+   "options": [
+    "/ʒə mə lɛv/",
+    "/ʒə mə ləv/",
+    "/ʒə mə le.ve/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est quelle ___ ?",
+   "answers": [
+    "heure"
+   ],
+   "hint": "What time is it?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est huit heures et ___.",
+   "answers": [
+    "demie"
+   ],
+   "hint": "It's half past eight."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ lève à sept heures.",
+   "answers": [
+    "me"
+   ],
+   "hint": "I get up at seven."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me douche et je m'___.",
+   "answers": [
+    "habille"
+   ],
+   "hint": "I shower and get dressed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mes enfants se ___ tôt. (coucher)",
+   "answers": [
+    "couchent"
+   ],
+   "hint": "My children go to bed early."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ à vingt heures. (dîner)",
+   "answers": [
+    "dînons"
+   ],
+   "hint": "We have dinner at eight p.m."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ quelle heure tu te lèves ?",
+   "answers": [
+    "À"
+   ],
+   "hint": "What time do you get up?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu te ___ tard le dimanche ? (réveiller)",
+   "answers": [
+    "réveilles"
+   ],
+   "hint": "Do you wake up late on Sundays?"
+  },
+  {
+   "type": "translate",
+   "prompt": "It's noon.",
+   "answers": [
+    "Il est midi."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I get up at seven.",
+   "answers": [
+    "Je me lève à sept heures."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She goes to bed late.",
+   "answers": [
+    "Elle se couche tard."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What time is it?",
+   "answers": [
+    "Il est quelle heure ?",
+    "Quelle heure est-il ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We have lunch at noon.",
+   "answers": [
+    "Nous déjeunons à midi.",
+    "On déjeune à midi."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"First I have breakfast.\"",
+   "answer": "D'abord je prends le petit-déjeuner."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"On Saturdays I don't get up early.\"",
+   "answer": "Le samedi, je ne me lève pas tôt."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The train leaves at 18:30.\"",
+   "answer": "Le train part à dix-huit heures trente."
+  }
+ ]
+}

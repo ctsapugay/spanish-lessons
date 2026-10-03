@@ -1,0 +1,446 @@
+{
+ "sections": [
+  {
+   "heading": "Everyday objects",
+   "body": "Around the house and in your bag: *le téléphone* (phone), *les clés* (keys), *le portefeuille* (wallet), *la montre* (watch), *les lunettes* (glasses — always plural), *le parapluie* (umbrella), *le cahier* (notebook), *le crayon* (pencil), *la lampe*, *le miroir*, *la bouteille* (bottle), *le verre* (glass), *la tasse* (cup)."
+  },
+  {
+   "heading": "Colours",
+   "body": "Colours are adjectives: they go **after** the noun and agree like other adjectives.\n\n*un sac noir, une montre noire, des lunettes noires, des chaussures marron*. To ask: *Il est de quelle couleur ?* (What colour is it?)",
+   "table": {
+    "head": [
+     "Masculine",
+     "Feminine",
+     "Meaning"
+    ],
+    "rows": [
+     [
+      "*noir*",
+      "*noire*",
+      "black"
+     ],
+     [
+      "*blanc*",
+      "*blanche*",
+      "white"
+     ],
+     [
+      "*vert*",
+      "*verte*",
+      "green"
+     ],
+     [
+      "*gris*",
+      "*grise*",
+      "grey"
+     ],
+     [
+      "*bleu*",
+      "*bleue*",
+      "blue"
+     ],
+     [
+      "*rouge*",
+      "*rouge*",
+      "red"
+     ],
+     [
+      "*jaune*",
+      "*jaune*",
+      "yellow"
+     ],
+     [
+      "*rose*",
+      "*rose*",
+      "pink"
+     ],
+     [
+      "*orange*",
+      "*orange*",
+      "orange (never changes)"
+     ],
+     [
+      "*marron*",
+      "*marron*",
+      "brown (never changes)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "This, that: ce, cet, cette, ces",
+   "body": "To point at something, use a demonstrative instead of the article:\n\n- *ce* + masculine noun: *ce livre* (this / that book)\n- *cet* + masculine noun starting with a vowel or silent h: *cet ordinateur*, *cet homme*\n- *cette* + feminine noun: *cette montre*\n- *ces* + any plural noun: *ces clés*, *ces livres*\n\nNote *cet* and *cette* sound the same: /sɛt/. To insist on \"this one here\" or \"that one there\", add *-ci* or *-là*: *ce livre-ci*, *ce livre-là*."
+  }
+ ],
+ "vocab": [
+  [
+   "le portefeuille",
+   "the wallet",
+   "lə pɔʁ.tə.fœj"
+  ],
+  [
+   "la montre",
+   "the watch",
+   "la mɔ̃tʁ"
+  ],
+  [
+   "les lunettes",
+   "glasses",
+   "le ly.nɛt",
+   "f"
+  ],
+  [
+   "le parapluie",
+   "the umbrella",
+   "lə pa.ʁa.plɥi"
+  ],
+  [
+   "le cahier",
+   "the notebook",
+   "lə ka.je"
+  ],
+  [
+   "la bouteille",
+   "the bottle",
+   "la bu.tɛj"
+  ],
+  [
+   "le verre",
+   "the glass",
+   "lə vɛʁ"
+  ],
+  [
+   "la couleur",
+   "the colour",
+   "la ku.lœʁ"
+  ],
+  [
+   "noir / noire",
+   "black",
+   "nwaʁ / nwaʁ"
+  ],
+  [
+   "blanc / blanche",
+   "white",
+   "blɑ̃ / blɑ̃ʃ"
+  ],
+  [
+   "vert / verte",
+   "green",
+   "vɛʁ / vɛʁt"
+  ],
+  [
+   "rouge",
+   "red",
+   "ʁuʒ"
+  ],
+  [
+   "jaune",
+   "yellow",
+   "ʒon"
+  ],
+  [
+   "gris / grise",
+   "grey",
+   "ɡʁi / ɡʁiz"
+  ],
+  [
+   "ce / cet / cette / ces",
+   "this, that, these, those",
+   "sə / sɛt / sɛt / se"
+  ]
+ ],
+ "examples": [
+  [
+   "Ce sac est noir.",
+   "This bag is black."
+  ],
+  [
+   "Cette montre est très belle.",
+   "This watch is very beautiful."
+  ],
+  [
+   "Cet ordinateur est à moi.",
+   "This computer is mine."
+  ],
+  [
+   "Ces clés sont à toi ?",
+   "Are these keys yours?"
+  ],
+  [
+   "J'ai un parapluie rouge.",
+   "I have a red umbrella."
+  ],
+  [
+   "Elle a des lunettes noires.",
+   "She has black glasses."
+  ],
+  [
+   "Ma voiture est blanche.",
+   "My car is white."
+  ],
+  [
+   "La porte est verte.",
+   "The door is green."
+  ],
+  [
+   "Il est de quelle couleur, ton portefeuille ? — Il est marron.",
+   "What colour is your wallet? — It's brown."
+  ],
+  [
+   "Je cherche mes lunettes.",
+   "I'm looking for my glasses."
+  ],
+  [
+   "Un verre d'eau, s'il vous plaît.",
+   "A glass of water, please."
+  ],
+  [
+   "Je préfère ce livre-ci.",
+   "I prefer this book here."
+  ],
+  [
+   "La bouteille est sur la table.",
+   "The bottle is on the table."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ livre est intéressant.",
+   "options": [
+    "Ce",
+    "Cette",
+    "Cet"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ montre est belle.",
+   "options": [
+    "Cette",
+    "Ce",
+    "Cet"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ ordinateur est neuf.",
+   "options": [
+    "Cet",
+    "Ce",
+    "Cette"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Before a masculine noun starting with a vowel: *cet*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ clés sont à toi ?",
+   "options": [
+    "Ces",
+    "Cette",
+    "Ce"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*cet* and *cette* sound…",
+   "options": [
+    "the same: /sɛt/",
+    "different: /sə/ and /sɛt/",
+    "different: /sɛ/ and /sɛt/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"A red umbrella\" is…",
+   "options": [
+    "un parapluie rouge",
+    "un rouge parapluie",
+    "une parapluie rouge"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ma voiture est ___.",
+   "options": [
+    "blanche",
+    "blanc",
+    "blanches"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle a des lunettes ___.",
+   "options": [
+    "noires",
+    "noir",
+    "noire"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*lunettes* is feminine plural."
+  },
+  {
+   "type": "mc",
+   "prompt": "Which colour never changes its form?",
+   "options": [
+    "marron",
+    "vert",
+    "gris"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il est de quelle couleur ?* means…",
+   "options": [
+    "What colour is it?",
+    "Which one is it?",
+    "Is it coloured?",
+    "How much is it?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les lunettes* means…",
+   "options": [
+    "glasses (spectacles)",
+    "the moon",
+    "keys",
+    "bottles"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "___ sac est noir.",
+   "answers": [
+    "Ce"
+   ],
+   "hint": "This bag is black."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ montre est très belle.",
+   "answers": [
+    "Cette"
+   ],
+   "hint": "This watch is very beautiful."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ ordinateur est à moi.",
+   "answers": [
+    "Cet"
+   ],
+   "hint": "This computer is mine."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai un parapluie ___.",
+   "answers": [
+    "rouge"
+   ],
+   "hint": "I have a red umbrella."
+  },
+  {
+   "type": "fill",
+   "prompt": "La porte est ___. (vert)",
+   "answers": [
+    "verte"
+   ],
+   "hint": "The door is green."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je cherche mes ___.",
+   "answers": [
+    "lunettes"
+   ],
+   "hint": "I'm looking for my glasses."
+  },
+  {
+   "type": "fill",
+   "prompt": "Un ___ d'eau, s'il vous plaît.",
+   "answers": [
+    "verre"
+   ],
+   "hint": "A glass of water, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est de quelle ___ ?",
+   "answers": [
+    "couleur"
+   ],
+   "hint": "What colour is it?"
+  },
+  {
+   "type": "translate",
+   "prompt": "This bag is black.",
+   "answers": [
+    "Ce sac est noir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "These keys are yours?",
+   "answers": [
+    "Ces clés sont à toi ?",
+    "Ces clés sont à vous ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My car is white.",
+   "answers": [
+    "Ma voiture est blanche."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have a red umbrella.",
+   "answers": [
+    "J'ai un parapluie rouge."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm looking for my glasses.",
+   "answers": [
+    "Je cherche mes lunettes."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"This watch is very beautiful.\"",
+   "answer": "Cette montre est très belle."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She has black glasses.\"",
+   "answer": "Elle a des lunettes noires."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The bottle is on the table.\"",
+   "answer": "La bouteille est sur la table."
+  }
+ ]
+}

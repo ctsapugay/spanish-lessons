@@ -1,0 +1,448 @@
+{
+ "sections": [
+  {
+   "heading": "Days of the week",
+   "body": "*lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche* — no capital letter. All are masculine.\n\n- *lundi* (no article) = this coming Monday / last Monday: *Je pars lundi.*\n- *le lundi* = on Mondays, every Monday: *Le lundi, je travaille.*"
+  },
+  {
+   "heading": "Months and dates",
+   "body": "*janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre* — no capital letter either. *En janvier* or *au mois de janvier* = in January.\n\nA date is *le* + number + month: *le 14 juillet* (the 14th of July), *le 3 mai*. The first of the month is *le premier*: *le premier janvier* (written 1er janvier). To ask: *On est le combien aujourd'hui ?* or *Quelle est la date aujourd'hui ?* — *On est le 12 octobre.* Years: *en 2025*, said *en deux mille vingt-cinq*."
+  },
+  {
+   "heading": "Seasons",
+   "body": "*le printemps* (spring), *l'été* (summer), *l'automne* (autumn), *l'hiver* (winter) — all masculine. \"In\": *au printemps*, but *en été*, *en automne*, *en hiver*."
+  },
+  {
+   "heading": "The weather",
+   "body": "Most weather expressions use *il fait*:\n\n- *Il fait beau.* (It's nice weather.) — *Il fait mauvais.* (The weather's bad.)\n- *Il fait chaud.* (It's hot.) — *Il fait froid.* (It's cold.)\n- *Il fait vingt degrés.* (It's 20 degrees.)\n\nAnd a few others: *Il pleut.* (It's raining.) *Il neige.* (It's snowing.) *Il y a du vent.* (It's windy.) *Il y a du soleil.* (It's sunny.) *Il y a des nuages.* (It's cloudy.)\n\nTo ask: *Quel temps fait-il ?* or *Il fait quel temps ?*"
+  },
+  {
+   "heading": "Time expressions",
+   "body": "*aujourd'hui* (today), *demain* (tomorrow), *hier* (yesterday), *maintenant* (now), *bientôt* (soon), *la semaine prochaine* (next week), *dans deux jours* (in two days), *depuis* (since, for): *J'habite ici depuis deux ans* (I've lived here for two years), *il y a* (ago): *il y a trois jours* (three days ago)."
+  }
+ ],
+ "vocab": [
+  [
+   "mardi",
+   "Tuesday",
+   "maʁ.di"
+  ],
+  [
+   "mercredi",
+   "Wednesday",
+   "mɛʁ.kʁə.di"
+  ],
+  [
+   "jeudi",
+   "Thursday",
+   "ʒø.di"
+  ],
+  [
+   "vendredi",
+   "Friday",
+   "vɑ̃.dʁə.di"
+  ],
+  [
+   "samedi",
+   "Saturday",
+   "sam.di"
+  ],
+  [
+   "dimanche",
+   "Sunday",
+   "di.mɑ̃ʃ"
+  ],
+  [
+   "le mois",
+   "the month",
+   "lə mwa"
+  ],
+  [
+   "la semaine",
+   "the week",
+   "la sə.mɛn"
+  ],
+  [
+   "le printemps",
+   "spring",
+   "lə pʁɛ̃.tɑ̃"
+  ],
+  [
+   "l'été",
+   "summer",
+   "le.te",
+   "m"
+  ],
+  [
+   "l'automne",
+   "autumn",
+   "lo.tɔn",
+   "m"
+  ],
+  [
+   "l'hiver",
+   "winter",
+   "li.vɛʁ",
+   "m"
+  ],
+  [
+   "il fait beau",
+   "the weather's nice",
+   "il fɛ bo"
+  ],
+  [
+   "il fait chaud",
+   "it's hot",
+   "il fɛ ʃo"
+  ],
+  [
+   "il fait froid",
+   "it's cold",
+   "il fɛ fʁwa"
+  ],
+  [
+   "il pleut",
+   "it's raining",
+   "il plø"
+  ],
+  [
+   "il neige",
+   "it's snowing",
+   "il nɛʒ"
+  ],
+  [
+   "le soleil",
+   "the sun",
+   "lə sɔ.lɛj"
+  ],
+  [
+   "aujourd'hui",
+   "today",
+   "o.ʒuʁ.dɥi"
+  ],
+  [
+   "demain",
+   "tomorrow",
+   "də.mɛ̃"
+  ],
+  [
+   "hier",
+   "yesterday",
+   "jɛʁ"
+  ],
+  [
+   "prochain / prochaine",
+   "next",
+   "pʁɔ.ʃɛ̃ / pʁɔ.ʃɛn"
+  ]
+ ],
+ "examples": [
+  [
+   "Le lundi, je travaille.",
+   "On Mondays I work."
+  ],
+  [
+   "Je pars samedi.",
+   "I'm leaving on Saturday."
+  ],
+  [
+   "On est le combien aujourd'hui ? — On est le 12 octobre.",
+   "What's the date today? — It's the 12th of October."
+  ],
+  [
+   "Mon anniversaire, c'est le 3 mai.",
+   "My birthday is on the 3rd of May."
+  ],
+  [
+   "La fête nationale, c'est le 14 juillet.",
+   "The national holiday is on the 14th of July."
+  ],
+  [
+   "En été, il fait chaud.",
+   "In summer it's hot."
+  ],
+  [
+   "Au printemps, il pleut souvent.",
+   "In spring it often rains."
+  ],
+  [
+   "En hiver, il neige à la montagne.",
+   "In winter it snows in the mountains."
+  ],
+  [
+   "Quel temps fait-il aujourd'hui ? — Il fait beau.",
+   "What's the weather like today? — It's nice."
+  ],
+  [
+   "Il fait froid et il y a du vent.",
+   "It's cold and windy."
+  ],
+  [
+   "J'habite ici depuis deux ans.",
+   "I've lived here for two years."
+  ],
+  [
+   "Je suis arrivé il y a trois jours.",
+   "I arrived three days ago."
+  ],
+  [
+   "On se voit la semaine prochaine !",
+   "See you next week!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Which day comes after *mardi*?",
+   "options": [
+    "mercredi",
+    "lundi",
+    "jeudi"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which day comes before *samedi*?",
+   "options": [
+    "vendredi",
+    "dimanche",
+    "jeudi"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le lundi, je travaille* means…",
+   "options": [
+    "On Mondays, I work",
+    "This Monday, I'm working",
+    "Last Monday, I worked"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How are days and months written in French?",
+   "options": [
+    "with a small letter: lundi, janvier",
+    "with a capital: Lundi, Janvier"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The first of January is…",
+   "options": [
+    "le premier janvier",
+    "le un janvier",
+    "le première janvier"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"In summer\" is…",
+   "options": [
+    "en été",
+    "au été",
+    "à l'été"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"In spring\" is…",
+   "options": [
+    "au printemps",
+    "en printemps",
+    "à printemps"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"It's cold\" is…",
+   "options": [
+    "Il fait froid.",
+    "Il est froid.",
+    "Il a froid."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "For weather, use *il fait*."
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il pleut* means…",
+   "options": [
+    "It's raining",
+    "It's snowing",
+    "It's windy",
+    "It's sunny"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Tomorrow\" is…",
+   "options": [
+    "demain",
+    "hier",
+    "aujourd'hui"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'habite ici depuis deux ans* means…",
+   "options": [
+    "I've lived here for two years",
+    "I lived here two years ago",
+    "I'll live here for two years"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*il y a trois jours* means…",
+   "options": [
+    "three days ago",
+    "in three days",
+    "for three days"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___, je travaille.",
+   "answers": [
+    "lundi"
+   ],
+   "hint": "On Mondays I work."
+  },
+  {
+   "type": "fill",
+   "prompt": "On est le ___ aujourd'hui ?",
+   "answers": [
+    "combien"
+   ],
+   "hint": "What's the date today?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon anniversaire, c'est le 3 ___.",
+   "answers": [
+    "mai"
+   ],
+   "hint": "My birthday is on the 3rd of May."
+  },
+  {
+   "type": "fill",
+   "prompt": "En été, il fait ___.",
+   "answers": [
+    "chaud"
+   ],
+   "hint": "In summer it's hot."
+  },
+  {
+   "type": "fill",
+   "prompt": "En hiver, il ___ à la montagne.",
+   "answers": [
+    "neige"
+   ],
+   "hint": "In winter it snows in the mountains."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quel ___ fait-il aujourd'hui ?",
+   "answers": [
+    "temps"
+   ],
+   "hint": "What's the weather like today?"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'habite ici ___ deux ans.",
+   "answers": [
+    "depuis"
+   ],
+   "hint": "I've lived here for two years."
+  },
+  {
+   "type": "fill",
+   "prompt": "On se voit la semaine ___ !",
+   "answers": [
+    "prochaine"
+   ],
+   "hint": "See you next week!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Au ___, il pleut souvent.",
+   "answers": [
+    "printemps"
+   ],
+   "hint": "In spring it often rains."
+  },
+  {
+   "type": "translate",
+   "prompt": "It's raining.",
+   "answers": [
+    "Il pleut."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The weather's nice today.",
+   "answers": [
+    "Il fait beau aujourd'hui.",
+    "Aujourd'hui, il fait beau."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My birthday is on the 3rd of May.",
+   "answers": [
+    "Mon anniversaire, c'est le 3 mai.",
+    "Mon anniversaire est le 3 mai."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm leaving on Saturday.",
+   "answers": [
+    "Je pars samedi."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "In winter it's cold.",
+   "answers": [
+    "En hiver, il fait froid.",
+    "Il fait froid en hiver."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's cold and windy.\"",
+   "answer": "Il fait froid et il y a du vent."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I've lived here for two years.\"",
+   "answer": "J'habite ici depuis deux ans."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The national holiday is on the 14th of July.\"",
+   "answer": "La fête nationale, c'est le 14 juillet."
+  }
+ ]
+}

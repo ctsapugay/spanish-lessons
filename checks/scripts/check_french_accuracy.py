@@ -155,7 +155,7 @@ def check_vocab(lid: str, entry: list) -> None:
         noun = None
         if first in ARTICLE_GENDER and len(words) > 1:
             stated, noun = ARTICLE_GENDER[first], words[1]
-        elif re.match(r"^(l'|les\b|des\b|d')", alt, re.I):
+        elif re.match(r"^(l'|les\b|des\b|d')", alt, re.I) and not frlex.rows(alt):  # not one word (d'abord)
             noun = re.sub(r"^(l'|les\s+|des\s+|d')", "", alt, flags=re.I).split()[0] if alt else None
             stated = entry[3] if len(entry) > 3 else None
             if noun and frlex.is_noun_only(noun) and not stated:

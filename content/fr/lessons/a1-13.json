@@ -1,0 +1,413 @@
+{
+ "sections": [
+  {
+   "heading": "Adjectives agree",
+   "body": "Adjectives agree with the noun in gender and number. The basic rule: add **-e** for feminine, **-s** for plural.\n\nOften the **-e** makes a silent final consonant heard: *grand* /ɡʁɑ̃/ → *grande* /ɡʁɑ̃d/, *petit* /pə.ti/ → *petite* /pə.tit/. The plural **-s** is silent.\n\nCommon patterns:\n\n- already ending in **-e**: no change — *un homme sympathique, une femme sympathique*; *jeune*, *mince*, *drôle*.\n- **-eux → -euse**: *heureux, heureuse* (happy); *sérieux, sérieuse*.\n- **-if → -ive**: *sportif, sportive*.\n- **-on → -onne**, **-en → -enne**: *bon, bonne*; *italien, italienne*.\n- irregular: *beau → belle*, *vieux → vieille* (old), *gentil → gentille* (kind).",
+   "table": {
+    "head": [
+     "",
+     "Singular",
+     "Plural"
+    ],
+    "rows": [
+     [
+      "Masculine",
+      "*un garçon grand*",
+      "*des garçons grands*"
+     ],
+     [
+      "Feminine",
+      "*une fille grande*",
+      "*des filles grandes*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Where adjectives go",
+   "body": "Most adjectives come **after** the noun: *un homme sympathique*, *une voiture rouge*. A few short, very common ones come **before**: *petit, grand, beau, joli, bon, mauvais, jeune, vieux, nouveau*: *un petit garçon*, *une jolie maison*, *un bon ami*."
+  },
+  {
+   "heading": "Describing people",
+   "body": "*Il est comment ?* / *Elle est comment ?* — What's he / she like?\n\n- Looks: *grand / grande* (tall), *petit / petite* (short), *mince* (slim), *brun / brune* (dark-haired), *blond / blonde*, *beau / belle* (good-looking).\n- Character: *sympathique* (nice; casually *sympa*), *gentil / gentille* (kind), *drôle* (funny), *intelligent / intelligente*, *timide* (shy), *sérieux / sérieuse*."
+  },
+  {
+   "heading": "Très, trop, assez, un peu",
+   "body": "- *très* — very: *Elle est très gentille.*\n- *trop* — too: *Il est trop timide.*\n- *un peu* — a bit: *Je suis un peu fatigué.*"
+  }
+ ],
+ "vocab": [
+  [
+   "grand / grande",
+   "tall, big",
+   "ɡʁɑ̃ / ɡʁɑ̃d"
+  ],
+  [
+   "petit / petite",
+   "short, small",
+   "pə.ti / pə.tit"
+  ],
+  [
+   "mince",
+   "slim",
+   "mɛ̃s"
+  ],
+  [
+   "brun / brune",
+   "dark-haired",
+   "bʁœ̃ / bʁyn"
+  ],
+  [
+   "blond / blonde",
+   "blond",
+   "blɔ̃ / blɔ̃d"
+  ],
+  [
+   "beau / belle",
+   "handsome, beautiful",
+   "bo / bɛl"
+  ],
+  [
+   "sympathique",
+   "nice, friendly",
+   "sɛ̃.pa.tik"
+  ],
+  [
+   "gentil / gentille",
+   "kind",
+   "ʒɑ̃.ti / ʒɑ̃.tij"
+  ],
+  [
+   "drôle",
+   "funny",
+   "dʁol"
+  ],
+  [
+   "intelligent / intelligente",
+   "intelligent",
+   "ɛ̃.te.li.ʒɑ̃ / ɛ̃.te.li.ʒɑ̃t"
+  ],
+  [
+   "timide",
+   "shy",
+   "ti.mid"
+  ],
+  [
+   "heureux / heureuse",
+   "happy",
+   "œ.ʁø / œ.ʁøz"
+  ],
+  [
+   "sportif / sportive",
+   "sporty",
+   "spɔʁ.tif / spɔʁ.tiv"
+  ],
+  [
+   "vieux / vieille",
+   "old",
+   "vjø / vjɛj"
+  ],
+  [
+   "trop",
+   "too, too much",
+   "tʁo"
+  ],
+  [
+   "le garçon",
+   "the boy",
+   "lə ɡaʁ.sɔ̃"
+  ],
+  [
+   "l'homme",
+   "the man",
+   "lɔm",
+   "m"
+  ]
+ ],
+ "examples": [
+  [
+   "Il est comment, ton frère ?",
+   "What's your brother like?"
+  ],
+  [
+   "Il est grand, brun et très sympathique.",
+   "He's tall, dark-haired and very nice."
+  ],
+  [
+   "Ma sœur est petite et blonde.",
+   "My sister is short and blond."
+  ],
+  [
+   "C'est une femme très intelligente.",
+   "She's a very intelligent woman."
+  ],
+  [
+   "Mes amis sont drôles.",
+   "My friends are funny."
+  ],
+  [
+   "Elle est un peu timide.",
+   "She's a bit shy."
+  ],
+  [
+   "Il est trop sérieux !",
+   "He's too serious!"
+  ],
+  [
+   "Ma grand-mère est vieille mais très sportive.",
+   "My grandmother is old but very sporty."
+  ],
+  [
+   "C'est un petit garçon heureux.",
+   "He's a happy little boy."
+  ],
+  [
+   "Léa est une fille gentille et drôle.",
+   "Léa is a kind, funny girl."
+  ],
+  [
+   "Mon père est un bel homme.",
+   "My father is a handsome man."
+  ],
+  [
+   "Elles sont très heureuses.",
+   "They're very happy."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Ma sœur est ___.",
+   "options": [
+    "petite",
+    "petit",
+    "petits"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Mes amis sont ___.",
+   "options": [
+    "drôles",
+    "drôle",
+    "drôlement"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle est très ___.",
+   "options": [
+    "gentille",
+    "gentil",
+    "gentilles"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elles sont très ___.",
+   "options": [
+    "heureuses",
+    "heureux",
+    "heureuse"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Where does *sympathique* go?",
+   "options": [
+    "after the noun: une femme sympathique",
+    "before the noun: une sympathique femme",
+    "either, no difference"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Where does *petit* go?",
+   "options": [
+    "before the noun: un petit garçon",
+    "after the noun: un garçon petit"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How does *grande* differ in sound from *grand*?",
+   "options": [
+    "the d is pronounced",
+    "it doesn't",
+    "the a is longer"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The feminine of *beau* is…",
+   "options": [
+    "belle",
+    "beau",
+    "bel"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The feminine of *vieux* is…",
+   "options": [
+    "vieille",
+    "vieux",
+    "vieil"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il est trop timide* means…",
+   "options": [
+    "He's too shy",
+    "He's very shy",
+    "He's a bit shy",
+    "He isn't shy"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il est comment ?* means…",
+   "options": [
+    "What's he like?",
+    "How is he? (health)",
+    "What's his name?",
+    "Where is he?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est grand, brun et très ___.",
+   "answers": [
+    "sympathique",
+    "sympa"
+   ],
+   "hint": "He's tall, dark-haired and very nice."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma sœur est petite et ___. (blond)",
+   "answers": [
+    "blonde"
+   ],
+   "hint": "My sister is short and blond."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est une femme très ___. (intelligent)",
+   "answers": [
+    "intelligente"
+   ],
+   "hint": "She's a very intelligent woman."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est un peu ___.",
+   "answers": [
+    "timide"
+   ],
+   "hint": "She's a bit shy."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est ___ sérieux !",
+   "answers": [
+    "trop"
+   ],
+   "hint": "He's too serious!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma grand-mère est très ___. (sportif)",
+   "answers": [
+    "sportive"
+   ],
+   "hint": "My grandmother is very sporty."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un ___ garçon.",
+   "answers": [
+    "petit"
+   ],
+   "hint": "He's a little boy."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elles sont très ___. (heureux)",
+   "answers": [
+    "heureuses"
+   ],
+   "hint": "They're very happy."
+  },
+  {
+   "type": "translate",
+   "prompt": "My brother is tall.",
+   "answers": [
+    "Mon frère est grand."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She's very kind.",
+   "answers": [
+    "Elle est très gentille."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My friends are funny.",
+   "answers": [
+    "Mes amis sont drôles.",
+    "Mes amies sont drôles."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He's a bit shy.",
+   "answers": [
+    "Il est un peu timide."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What's she like?",
+   "answers": [
+    "Elle est comment ?",
+    "Comment est-elle ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He's tall, dark-haired and very nice.\"",
+   "answer": "Il est grand, brun et très sympathique."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My grandmother is old but very sporty.\"",
+   "answer": "Ma grand-mère est vieille mais très sportive."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He's a happy little boy.\"",
+   "answer": "C'est un petit garçon heureux."
+  }
+ ]
+}

@@ -1,0 +1,391 @@
+{
+ "sections": [
+  {
+   "heading": "What is a nasal vowel?",
+   "body": "In a nasal vowel, air goes out through the nose and the mouth at the same time. The **n** or **m** after the vowel is not pronounced as a consonant — it only tells you the vowel is nasal. Standard French has three nasal vowels you must tell apart:\n\n(Many speakers in the south of France, and older speakers, keep a fourth one, [œ̃], in *un* and *brun*. In most of France today it sounds like [ɛ̃].)",
+   "table": {
+    "head": [
+     "Sound",
+     "Usual spellings",
+     "Examples"
+    ],
+    "rows": [
+     [
+      "[ɑ̃]",
+      "an, am, en, em",
+      "*France*, *chambre*, *enfant*, *temps*"
+     ],
+     [
+      "[ɔ̃]",
+      "on, om",
+      "*bon*, *nom*, *ombre*"
+     ],
+     [
+      "[ɛ̃]",
+      "in, im, ain, ein, un, yn",
+      "*vin*, *important*, *pain*, *plein*, *lundi*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Hearing the difference",
+   "body": "These words differ only in their nasal vowel — listen to each several times:\n\n- *vent* [vɑ̃] (wind) — *vont* [vɔ̃] (they go) — *vin* [vɛ̃] (wine)\n- *lent* [lɑ̃] (slow) — *long* [lɔ̃] (long) — *lin* [lɛ̃] (linen)\n- *temps* [tɑ̃] (time, weather) — *ton* [tɔ̃] (your) — *thym* [tɛ̃] (thyme)\n\nTip: for [ɑ̃] open your mouth wide; for [ɔ̃] round your lips; for [ɛ̃] spread your lips as for a smile."
+  },
+  {
+   "heading": "When the vowel is NOT nasal",
+   "body": "The vowel is **oral** (not nasal) when the n or m is doubled or followed by a vowel — then you hear the n or m:\n\n- *bon* [bɔ̃] — *bonne* [bɔn]\n- *an* [ɑ̃] — *année* [a.ne]\n- *plein* [plɛ̃] — *pleine* [plɛn]\n- *américain* [a.me.ʁi.kɛ̃] — *américaine* [a.me.ʁi.kɛn]\n\nThis is exactly what happens with many feminine forms."
+  }
+ ],
+ "vocab": [
+  [
+   "le vent",
+   "the wind",
+   "lə vɑ̃"
+  ],
+  [
+   "le vin",
+   "wine",
+   "lə vɛ̃"
+  ],
+  [
+   "le pain",
+   "bread",
+   "lə pɛ̃"
+  ],
+  [
+   "le temps",
+   "time; the weather",
+   "lə tɑ̃"
+  ],
+  [
+   "long / longue",
+   "long",
+   "lɔ̃ / lɔ̃ɡ"
+  ],
+  [
+   "lent / lente",
+   "slow",
+   "lɑ̃ / lɑ̃t"
+  ],
+  [
+   "l'année",
+   "the year",
+   "la.ne",
+   "f"
+  ],
+  [
+   "la chambre",
+   "the bedroom",
+   "la ʃɑ̃bʁ"
+  ],
+  [
+   "plein / pleine",
+   "full",
+   "plɛ̃ / plɛn"
+  ],
+  [
+   "important / importante",
+   "important",
+   "ɛ̃.pɔʁ.tɑ̃ / ɛ̃.pɔʁ.tɑ̃t"
+  ],
+  [
+   "le nom",
+   "the name",
+   "lə nɔ̃"
+  ],
+  [
+   "lundi",
+   "Monday",
+   "lœ̃.di"
+  ],
+  [
+   "bon / bonne",
+   "good",
+   "bɔ̃ / bɔn"
+  ],
+  [
+   "maintenant",
+   "now",
+   "mɛ̃t.nɑ̃"
+  ],
+  [
+   "cent",
+   "a hundred",
+   "sɑ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Il y a du vent aujourd'hui.",
+   "It's windy today."
+  ],
+  [
+   "Un verre de vin rouge, s'il vous plaît.",
+   "A glass of red wine, please."
+  ],
+  [
+   "Je mange du pain le matin.",
+   "I eat bread in the morning."
+  ],
+  [
+   "Je n'ai pas le temps maintenant.",
+   "I don't have time now."
+  ],
+  [
+   "Ma chambre est grande.",
+   "My bedroom is big."
+  ],
+  [
+   "C'est une bonne idée !",
+   "That's a good idea!"
+  ],
+  [
+   "Le bus est très lent.",
+   "The bus is very slow."
+  ],
+  [
+   "Le verre est plein.",
+   "The glass is full."
+  ],
+  [
+   "Mon nom est Martin.",
+   "My surname is Martin."
+  ],
+  [
+   "On commence lundi.",
+   "We start on Monday."
+  ],
+  [
+   "C'est très important.",
+   "It's very important."
+  ],
+  [
+   "Bonne année !",
+   "Happy New Year!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Which word has the nasal vowel [ɔ̃]?",
+   "options": [
+    "bon",
+    "vent",
+    "vin"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word has the nasal vowel [ɑ̃]?",
+   "options": [
+    "temps",
+    "ton",
+    "pain"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word has the nasal vowel [ɛ̃]?",
+   "options": [
+    "pain",
+    "bon",
+    "lent"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In *vent*, *vont*, *vin*, what changes?",
+   "options": [
+    "only the nasal vowel",
+    "the first consonant",
+    "the final consonant"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *bonne*, is the vowel nasal?",
+   "options": [
+    "No — the double n makes it oral: [bɔn]",
+    "Yes: [bɔ̃n]",
+    "Yes: [bɔ̃]"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *année*, is the first vowel nasal?",
+   "options": [
+    "No: [a.ne]",
+    "Yes: [ɑ̃.ne]"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which spelling usually gives [ɛ̃]?",
+   "options": [
+    "ain, as in pain",
+    "an, as in France",
+    "on, as in bon"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How do you make [ɔ̃]?",
+   "options": [
+    "round your lips, air through the nose",
+    "open your mouth wide",
+    "spread your lips"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*plein* and *pleine* sound…",
+   "options": [
+    "different: [plɛ̃] and [plɛn]",
+    "the same",
+    "different: [plɛ̃] and [plɛ̃n]"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je n'ai pas le temps* means…",
+   "options": [
+    "I don't have time",
+    "The weather isn't good",
+    "I'm not hungry",
+    "It's not my turn"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is the feminine of *bon*?",
+   "options": [
+    "bonne",
+    "bon",
+    "bonnes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Un verre de ___ rouge, s'il vous plaît.",
+   "answers": [
+    "vin"
+   ],
+   "hint": "A glass of red wine, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je mange du ___ le matin.",
+   "answers": [
+    "pain"
+   ],
+   "hint": "I eat bread in the morning."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'ai pas le ___ maintenant.",
+   "answers": [
+    "temps"
+   ],
+   "hint": "I don't have time now."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est une ___ idée !",
+   "answers": [
+    "bonne"
+   ],
+   "hint": "That's a good idea!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le verre est ___.",
+   "answers": [
+    "plein"
+   ],
+   "hint": "The glass is full."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma ___ est grande.",
+   "answers": [
+    "chambre"
+   ],
+   "hint": "My bedroom is big."
+  },
+  {
+   "type": "fill",
+   "prompt": "Bonne ___ !",
+   "answers": [
+    "année"
+   ],
+   "hint": "Happy New Year!"
+  },
+  {
+   "type": "fill",
+   "prompt": "On commence ___.",
+   "answers": [
+    "lundi"
+   ],
+   "hint": "We start on Monday."
+  },
+  {
+   "type": "translate",
+   "prompt": "It's very important.",
+   "answers": [
+    "C'est très important."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't have time.",
+   "answers": [
+    "Je n'ai pas le temps."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Happy New Year!",
+   "answers": [
+    "Bonne année !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That's a good idea!",
+   "answers": [
+    "C'est une bonne idée !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"A glass of red wine, please.\"",
+   "answer": "Un verre de vin rouge, s'il vous plaît."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's windy today.\"",
+   "answer": "Il y a du vent aujourd'hui."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I don't have time now.\"",
+   "answer": "Je n'ai pas le temps maintenant."
+  }
+ ]
+}

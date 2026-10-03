@@ -1,0 +1,472 @@
+{
+ "sections": [
+  {
+   "heading": "Four key irregular verbs",
+   "body": "These four are among the most used verbs in French. Learn them by heart:\n\nWatch the pronunciation: *faisons* is said /fə.zɔ̃/; *ils prennent* /pʁɛn/ but *il prend* /pʁɑ̃/.",
+   "table": {
+    "head": [
+     "",
+     "aller (go)",
+     "faire (do, make)",
+     "venir (come)",
+     "prendre (take)"
+    ],
+    "rows": [
+     [
+      "*je*",
+      "*vais*",
+      "*fais*",
+      "*viens*",
+      "*prends*"
+     ],
+     [
+      "*tu*",
+      "*vas*",
+      "*fais*",
+      "*viens*",
+      "*prends*"
+     ],
+     [
+      "*il / elle / on*",
+      "*va*",
+      "*fait*",
+      "*vient*",
+      "*prend*"
+     ],
+     [
+      "*nous*",
+      "*allons*",
+      "*faisons*",
+      "*venons*",
+      "*prenons*"
+     ],
+     [
+      "*vous*",
+      "*allez*",
+      "*faites*",
+      "*venez*",
+      "*prenez*"
+     ],
+     [
+      "*ils / elles*",
+      "*vont*",
+      "*font*",
+      "*viennent*",
+      "*prennent*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "à + le = au, de + le = du",
+   "body": "*À* (to, at) and *de* (from, of, about) merge with *le* and *les*:\n\n- *à + le* → *au*: *Je vais au cinéma.* — *à + les* → *aux*: *Je vais aux toilettes.*\n- *de + le* → *du*: *Il vient du bureau.* — *de + les* → *des*: *la fin des vacances*\n- *à la*, *à l'*, *de la*, *de l'* don't change: *Je vais à la piscine.* *Il vient de l'école.*"
+  },
+  {
+   "heading": "Free time: faire de, jouer à",
+   "body": "- *faire du / de la / de l'* + a sport or activity: *faire du sport*, *faire du vélo*, *faire de la natation* (swimming), *faire de la musique*, *faire du yoga*.\n- *jouer au / à la* + a game or ball sport: *jouer au football*, *jouer au tennis*, *jouer aux cartes*.\n- *jouer du / de la* + an instrument: *jouer du piano*, *jouer de la guitare*.\n\n*Qu'est-ce que tu fais le week-end ?* — *Je fais du sport et je vais au cinéma.*"
+  },
+  {
+   "heading": "Taking transport",
+   "body": "*Prendre* is the verb for taking transport and for food and drink: *Je prends le bus.* *Je prends un café.*"
+  }
+ ],
+ "vocab": [
+  [
+   "aller",
+   "to go",
+   "a.le"
+  ],
+  [
+   "venir",
+   "to come",
+   "və.niʁ"
+  ],
+  [
+   "prendre",
+   "to take",
+   "pʁɑ̃dʁ"
+  ],
+  [
+   "je vais",
+   "I go",
+   "ʒə vɛ"
+  ],
+  [
+   "ils vont",
+   "they go",
+   "il vɔ̃"
+  ],
+  [
+   "nous faisons",
+   "we do, we make",
+   "nu fə.zɔ̃"
+  ],
+  [
+   "je viens",
+   "I come",
+   "ʒə vjɛ̃"
+  ],
+  [
+   "la piscine",
+   "the swimming pool",
+   "la pi.sin"
+  ],
+  [
+   "la natation",
+   "swimming",
+   "la na.ta.sjɔ̃"
+  ],
+  [
+   "le football",
+   "football, soccer",
+   "lə fut.bol"
+  ],
+  [
+   "le tennis",
+   "tennis",
+   "lə te.nis"
+  ],
+  [
+   "la guitare",
+   "the guitar",
+   "la ɡi.taʁ"
+  ],
+  [
+   "le piano",
+   "the piano",
+   "lə pja.no"
+  ],
+  [
+   "le bus",
+   "the bus",
+   "lə bys"
+  ],
+  [
+   "la plage",
+   "the beach",
+   "la plaʒ"
+  ],
+  [
+   "la montagne",
+   "the mountains",
+   "la mɔ̃.taɲ"
+  ],
+  [
+   "les vacances",
+   "the holidays",
+   "le va.kɑ̃s",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Je vais au cinéma ce soir.",
+   "I'm going to the cinema tonight."
+  ],
+  [
+   "Tu vas où ? — Je vais à la piscine.",
+   "Where are you going? — I'm going to the pool."
+  ],
+  [
+   "Nous allons à la plage.",
+   "We're going to the beach."
+  ],
+  [
+   "Ils vont à la montagne pendant les vacances.",
+   "They go to the mountains during the holidays."
+  ],
+  [
+   "Qu'est-ce que vous faites le week-end ?",
+   "What do you do at the weekend?"
+  ],
+  [
+   "Je fais du sport le samedi.",
+   "I do sport on Saturdays."
+  ],
+  [
+   "Elle fait de la natation.",
+   "She swims."
+  ],
+  [
+   "Mon frère joue au football.",
+   "My brother plays football."
+  ],
+  [
+   "Tu joues de la guitare ?",
+   "Do you play the guitar?"
+  ],
+  [
+   "Je viens du bureau.",
+   "I'm coming from the office."
+  ],
+  [
+   "Vous venez d'où ?",
+   "Where are you coming from?"
+  ],
+  [
+   "Je prends le bus tous les matins.",
+   "I take the bus every morning."
+  ],
+  [
+   "On prend un café ?",
+   "Shall we have a coffee?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ___ au cinéma.",
+   "options": [
+    "vais",
+    "va",
+    "vas"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ à la plage.",
+   "options": [
+    "allons",
+    "allez",
+    "vont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Qu'est-ce que vous ___ le week-end ?",
+   "options": [
+    "faites",
+    "faisons",
+    "font"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils ___ à la montagne.",
+   "options": [
+    "vont",
+    "va",
+    "allez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ___ le bus.",
+   "options": [
+    "prends",
+    "prend",
+    "prennent"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elles ___ du bureau.",
+   "options": [
+    "viennent",
+    "venons",
+    "vient"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*à + le* becomes…",
+   "options": [
+    "au",
+    "à le",
+    "du"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*de + le* becomes…",
+   "options": [
+    "du",
+    "de le",
+    "au"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I play tennis\" is…",
+   "options": [
+    "Je joue au tennis.",
+    "Je joue du tennis.",
+    "Je fais au tennis."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I play the piano\" is…",
+   "options": [
+    "Je joue du piano.",
+    "Je joue au piano.",
+    "Je joue le piano."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"She swims\" (does swimming) is…",
+   "options": [
+    "Elle fait de la natation.",
+    "Elle fait du natation.",
+    "Elle joue à la natation."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "How is *nous faisons* pronounced?",
+   "options": [
+    "/nu fə.zɔ̃/",
+    "/nu fɛ.zɔ̃/",
+    "/nu fa.zɔ̃/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vais ___ cinéma ce soir.",
+   "answers": [
+    "au"
+   ],
+   "hint": "I'm going to the cinema tonight."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu vas où ? — Je vais ___ piscine.",
+   "answers": [
+    "à la"
+   ],
+   "hint": "I'm going to the pool."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je fais ___ sport le samedi.",
+   "answers": [
+    "du"
+   ],
+   "hint": "I do sport on Saturdays."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon frère joue ___ football.",
+   "answers": [
+    "au"
+   ],
+   "hint": "My brother plays football."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je viens ___ bureau.",
+   "answers": [
+    "du"
+   ],
+   "hint": "I'm coming from the office."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils ___ à la montagne. (aller)",
+   "answers": [
+    "vont"
+   ],
+   "hint": "They go to the mountains."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ du sport. (faire)",
+   "answers": [
+    "faisons"
+   ],
+   "hint": "We do sport."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ le bus tous les matins. (prendre)",
+   "answers": [
+    "prends"
+   ],
+   "hint": "I take the bus every morning."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous ___ d'où ? (venir)",
+   "answers": [
+    "venez"
+   ],
+   "hint": "Where are you coming from?"
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm going to the beach.",
+   "answers": [
+    "Je vais à la plage."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She plays the guitar.",
+   "answers": [
+    "Elle joue de la guitare."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We take the bus.",
+   "answers": [
+    "Nous prenons le bus.",
+    "On prend le bus."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What do you do at the weekend? (to a friend)",
+   "answers": [
+    "Qu'est-ce que tu fais le week-end ?",
+    "Tu fais quoi le week-end ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm coming from the office.",
+   "answers": [
+    "Je viens du bureau."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"They go to the mountains during the holidays.\"",
+   "answer": "Ils vont à la montagne pendant les vacances."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I do sport on Saturdays.\"",
+   "answer": "Je fais du sport le samedi."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Shall we have a coffee?\"",
+   "answer": "On prend un café ?"
+  }
+ ]
+}
