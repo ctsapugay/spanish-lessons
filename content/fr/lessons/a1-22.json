@@ -1,0 +1,394 @@
+{
+ "sections": [
+  {
+   "heading": "Numbers 70 to 100",
+   "body": "French counts in an unusual way above 69:\n\n- 70 = *soixante-dix* (sixty-ten), 71 = *soixante et onze*, 72 = *soixante-douze* … 79 = *soixante-dix-neuf*\n- 80 = *quatre-vingts* (four twenties), 81 = *quatre-vingt-un* (no *et*, no *s*), 82 = *quatre-vingt-deux* …\n- 90 = *quatre-vingt-dix*, 91 = *quatre-vingt-onze* … 99 = *quatre-vingt-dix-neuf*\n- 100 = *cent*\n\nIn Belgium and Switzerland you'll hear *septante* (70) and *nonante* (90), and in Switzerland *huitante* (80) — much simpler, but in France always use *soixante-dix* and *quatre-vingt-dix*."
+  },
+  {
+   "heading": "Hundreds and thousands",
+   "body": "*cent* (100), *cent un* (101), *deux cents* (200), *deux cent cinquante* (250 — no *s* when another number follows), *mille* (1,000 — never takes an s: *deux mille*), *un million*. Note: French writes a comma for decimals and a space for thousands: *2,50 €* (two euros fifty), *1 200 €*."
+  },
+  {
+   "heading": "In a shop",
+   "body": "- *Je peux vous aider ?* — Can I help you? → *Je regarde, merci.* (I'm just looking, thanks.)\n- *Je cherche un cadeau.* — I'm looking for a present.\n- *C'est combien ?* / *Ça coûte combien ?* / *Ça fait combien ?* — How much is it?\n- *Ça fait douze euros cinquante.* — That's €12.50.\n- *Vous payez comment ?* — How are you paying? → *Par carte* (by card) / *En espèces* (in cash).\n- *C'est trop cher.* — It's too expensive. *C'est pas cher !* (casual) — It's cheap!\n- *Je le prends.* — I'll take it."
+  }
+ ],
+ "vocab": [
+  [
+   "soixante-dix",
+   "seventy",
+   "swa.sɑ̃t.dis"
+  ],
+  [
+   "quatre-vingts",
+   "eighty",
+   "ka.tʁə.vɛ̃"
+  ],
+  [
+   "quatre-vingt-dix",
+   "ninety",
+   "ka.tʁə.vɛ̃.dis"
+  ],
+  [
+   "cent",
+   "a hundred",
+   "sɑ̃"
+  ],
+  [
+   "mille",
+   "a thousand",
+   "mil"
+  ],
+  [
+   "l'euro",
+   "the euro",
+   "lø.ʁo",
+   "m"
+  ],
+  [
+   "le prix",
+   "the price",
+   "lə pʁi"
+  ],
+  [
+   "cher / chère",
+   "expensive",
+   "ʃɛʁ / ʃɛʁ"
+  ],
+  [
+   "coûter",
+   "to cost",
+   "ku.te"
+  ],
+  [
+   "payer",
+   "to pay",
+   "pe.je"
+  ],
+  [
+   "la carte",
+   "the card",
+   "la kaʁt"
+  ],
+  [
+   "le cadeau",
+   "the present, the gift",
+   "lə ka.do"
+  ],
+  [
+   "aider",
+   "to help",
+   "e.de"
+  ],
+  [
+   "le client / la cliente",
+   "the customer",
+   "lə kli.jɑ̃ / la kli.jɑ̃t"
+  ],
+  [
+   "le centime",
+   "the cent",
+   "lə sɑ̃.tim"
+  ]
+ ],
+ "examples": [
+  [
+   "Je peux vous aider ? — Je regarde, merci.",
+   "Can I help you? — I'm just looking, thanks."
+  ],
+  [
+   "Je cherche un cadeau pour ma mère.",
+   "I'm looking for a present for my mother."
+  ],
+  [
+   "C'est combien, ce sac ?",
+   "How much is this bag?"
+  ],
+  [
+   "Il coûte soixante-quinze euros.",
+   "It costs seventy-five euros."
+  ],
+  [
+   "Ça fait quatre-vingt-dix euros, s'il vous plaît.",
+   "That's ninety euros, please."
+  ],
+  [
+   "Les chaussures coûtent cent vingt euros.",
+   "The shoes cost a hundred and twenty euros."
+  ],
+  [
+   "C'est trop cher pour moi.",
+   "It's too expensive for me."
+  ],
+  [
+   "Vous payez comment ? — Par carte.",
+   "How are you paying? — By card."
+  ],
+  [
+   "Ça fait deux euros cinquante.",
+   "That's two euros fifty."
+  ],
+  [
+   "Mon ordinateur coûte mille euros.",
+   "My computer costs a thousand euros."
+  ],
+  [
+   "Ma grand-mère a quatre-vingt-un ans.",
+   "My grandmother is eighty-one."
+  ],
+  [
+   "Je le prends !",
+   "I'll take it!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "70 is…",
+   "options": [
+    "soixante-dix",
+    "septante-dix",
+    "sept-dix"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "80 is…",
+   "options": [
+    "quatre-vingts",
+    "huit-dix",
+    "quatre-vingt-dix"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "90 is…",
+   "options": [
+    "quatre-vingt-dix",
+    "neuf-dix",
+    "quatre-vingts"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "75 is…",
+   "options": [
+    "soixante-quinze",
+    "soixante-cinq",
+    "soixante-dix-cinq"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "81 is…",
+   "options": [
+    "quatre-vingt-un",
+    "quatre-vingts et un",
+    "quatre-vingt et un"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "200 is…",
+   "options": [
+    "deux cents",
+    "deux cent",
+    "deux mille"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "2,000 is…",
+   "options": [
+    "deux mille",
+    "deux milles",
+    "deux cents"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In Belgium and Switzerland, 70 is often…",
+   "options": [
+    "septante",
+    "soixante-dix",
+    "sept-dix"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'est trop cher* means…",
+   "options": [
+    "It's too expensive",
+    "It's very cheap",
+    "It's the right price"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je regarde, merci* (in a shop) means…",
+   "options": [
+    "I'm just looking, thanks",
+    "I'll take it",
+    "Can you help me?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Vous payez comment ?* — you want to pay by card:",
+   "options": [
+    "Par carte.",
+    "En carte.",
+    "Avec carte."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "How is *2,50 €* read?",
+   "options": [
+    "deux euros cinquante",
+    "deux cinquante euros",
+    "deux virgule cinquante"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est ___, ce sac ?",
+   "answers": [
+    "combien"
+   ],
+   "hint": "How much is this bag?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il coûte soixante-___ euros.",
+   "answers": [
+    "quinze"
+   ],
+   "hint": "It costs seventy-five euros."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça ___ quatre-vingt-dix euros.",
+   "answers": [
+    "fait"
+   ],
+   "hint": "That's ninety euros."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est trop ___ pour moi.",
+   "answers": [
+    "cher"
+   ],
+   "hint": "It's too expensive for me."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je cherche un ___ pour ma mère.",
+   "answers": [
+    "cadeau"
+   ],
+   "hint": "I'm looking for a present for my mother."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous payez comment ? — Par ___.",
+   "answers": [
+    "carte"
+   ],
+   "hint": "By card."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon ordinateur coûte ___ euros.",
+   "answers": [
+    "mille"
+   ],
+   "hint": "My computer costs a thousand euros."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je peux vous ___ ?",
+   "answers": [
+    "aider"
+   ],
+   "hint": "Can I help you?"
+  },
+  {
+   "type": "translate",
+   "prompt": "How much is it?",
+   "answers": [
+    "C'est combien ?",
+    "Ça coûte combien ?",
+    "Ça fait combien ?",
+    "Combien ça coûte ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's too expensive.",
+   "answers": [
+    "C'est trop cher."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'll take it.",
+   "answers": [
+    "Je le prends."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm just looking, thanks.",
+   "answers": [
+    "Je regarde, merci."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That's ninety euros.",
+   "answers": [
+    "Ça fait quatre-vingt-dix euros.",
+    "C'est quatre-vingt-dix euros."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm looking for a present for my mother.\"",
+   "answer": "Je cherche un cadeau pour ma mère."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The shoes cost a hundred and twenty euros.\"",
+   "answer": "Les chaussures coûtent cent vingt euros."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My grandmother is eighty-one.\"",
+   "answer": "Ma grand-mère a quatre-vingt-un ans."
+  }
+ ]
+}

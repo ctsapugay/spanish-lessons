@@ -1,0 +1,406 @@
+{
+ "sections": [
+  {
+   "heading": "Clothes",
+   "body": "*les vêtements* (clothes): *le pantalon* (trousers — singular in French!), *le jean*, *la jupe* (skirt), *la robe* (dress), *la chemise* (shirt), *le tee-shirt*, *le pull* (jumper), *la veste* (jacket), *le manteau* (coat), *les chaussures* (shoes), *les chaussettes* (socks), *le chapeau* (hat), *l'écharpe* (scarf).\n\nTo wear: *porter* — *Elle porte une robe rouge.* To put on: *mettre* — *Je mets mon manteau.* (I'm putting on my coat.)"
+  },
+  {
+   "heading": "Which? quel, quelle, quels, quelles",
+   "body": "*Quel* agrees with the noun it goes with:\n\nAll four forms sound the same: /kɛl/. *Quelle taille faites-vous ?* (What size are you?) *Quelle couleur ?* *Quel est votre prix ?*",
+   "table": {
+    "head": [
+     "",
+     "Singular",
+     "Plural"
+    ],
+    "rows": [
+     [
+      "Masculine",
+      "*Quel pull ?*",
+      "*Quels pulls ?*"
+     ],
+     [
+      "Feminine",
+      "*Quelle robe ?*",
+      "*Quelles chaussures ?*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Shopping for clothes",
+   "body": "- *Je cherche une veste.* — I'm looking for a jacket.\n- *Vous faites quelle taille ?* — What size are you? → *Je fais du 40.* / *Je fais du M.* (clothes) — *Je fais du 39* (shoes: *la pointure*).\n- *Je peux l'essayer ?* — Can I try it on? → *Les cabines sont au fond.* (The changing rooms are at the back.)\n- *C'est trop grand / trop petit.* — It's too big / too small. *Vous avez la taille au-dessus / en dessous ?* — Do you have the next size up / down?\n- *Ça vous va très bien !* — It really suits you!"
+  }
+ ],
+ "vocab": [
+  [
+   "les vêtements",
+   "clothes",
+   "le vɛt.mɑ̃",
+   "m"
+  ],
+  [
+   "le pantalon",
+   "trousers",
+   "lə pɑ̃.ta.lɔ̃"
+  ],
+  [
+   "la jupe",
+   "the skirt",
+   "la ʒyp"
+  ],
+  [
+   "la robe",
+   "the dress",
+   "la ʁɔb"
+  ],
+  [
+   "la chemise",
+   "the shirt",
+   "la ʃə.miz"
+  ],
+  [
+   "le pull",
+   "the jumper",
+   "lə pyl"
+  ],
+  [
+   "la veste",
+   "the jacket",
+   "la vɛst"
+  ],
+  [
+   "le manteau",
+   "the coat",
+   "lə mɑ̃.to"
+  ],
+  [
+   "les chaussures",
+   "shoes",
+   "le ʃo.syʁ",
+   "f"
+  ],
+  [
+   "le chapeau",
+   "the hat",
+   "lə ʃa.po"
+  ],
+  [
+   "porter",
+   "to wear",
+   "pɔʁ.te"
+  ],
+  [
+   "mettre",
+   "to put on, to put",
+   "mɛtʁ"
+  ],
+  [
+   "la taille",
+   "the size (clothes)",
+   "la taj"
+  ],
+  [
+   "la pointure",
+   "the size (shoes)",
+   "la pwɛ̃.tyʁ"
+  ],
+  [
+   "essayer",
+   "to try (on)",
+   "e.se.je"
+  ],
+  [
+   "quel / quelle",
+   "which, what",
+   "kɛl / kɛl"
+  ]
+ ],
+ "examples": [
+  [
+   "Je cherche une veste noire.",
+   "I'm looking for a black jacket."
+  ],
+  [
+   "Vous faites quelle taille ? — Je fais du 40.",
+   "What size are you? — I'm a 40."
+  ],
+  [
+   "Je peux essayer ce pantalon ?",
+   "Can I try on these trousers?"
+  ],
+  [
+   "C'est trop petit, vous avez la taille au-dessus ?",
+   "It's too small; do you have the next size up?"
+  ],
+  [
+   "Elle porte une robe rouge et des chaussures blanches.",
+   "She's wearing a red dress and white shoes."
+  ],
+  [
+   "Il porte un jean et un pull gris.",
+   "He's wearing jeans and a grey jumper."
+  ],
+  [
+   "Quelle couleur préférez-vous ?",
+   "Which colour do you prefer?"
+  ],
+  [
+   "Quels sont vos prix ?",
+   "What are your prices?"
+  ],
+  [
+   "Il fait froid, mets ton manteau !",
+   "It's cold, put your coat on!"
+  ],
+  [
+   "Ça vous va très bien !",
+   "It really suits you!"
+  ],
+  [
+   "Quelle est votre pointure ? — Je fais du 39.",
+   "What's your shoe size? — I'm a 39."
+  ],
+  [
+   "Je prends la chemise bleue.",
+   "I'll take the blue shirt."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ robe préférez-vous ?",
+   "options": [
+    "Quelle",
+    "Quel",
+    "Quels"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ pull ?",
+   "options": [
+    "Quel",
+    "Quelle",
+    "Quelles"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ chaussures ?",
+   "options": [
+    "Quelles",
+    "Quels",
+    "Quel"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "How do *quel*, *quelle*, *quels*, *quelles* sound?",
+   "options": [
+    "all the same: /kɛl/",
+    "all different",
+    "the plurals end in a z sound"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"My trousers are black\" is…",
+   "options": [
+    "Mon pantalon est noir.",
+    "Mes pantalon sont noirs.",
+    "Ma pantalon est noire."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "In French, *le pantalon* (like *le jean*) is singular."
+  },
+  {
+   "type": "mc",
+   "prompt": "*la pointure* is…",
+   "options": [
+    "shoe size",
+    "clothes size",
+    "the price",
+    "the changing room"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "You want to try something on. You ask…",
+   "options": [
+    "Je peux l'essayer ?",
+    "Je peux le porter ?",
+    "Je peux le mettre ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça vous va très bien !* means…",
+   "options": [
+    "It really suits you!",
+    "It's very cheap!",
+    "It's too big!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"She's wearing a dress\" is…",
+   "options": [
+    "Elle porte une robe.",
+    "Elle met une robe.",
+    "Elle prend une robe."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*porter* = to be wearing; *mettre* = to put on."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il fait froid, ___ ton manteau !",
+   "options": [
+    "mets",
+    "porte",
+    "essaie"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'est trop grand* means…",
+   "options": [
+    "It's too big",
+    "It's very tall",
+    "It's great"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je cherche une ___ noire.",
+   "answers": [
+    "veste"
+   ],
+   "hint": "I'm looking for a black jacket."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous faites quelle ___ ?",
+   "answers": [
+    "taille"
+   ],
+   "hint": "What size are you?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je peux ___ ce pantalon ?",
+   "answers": [
+    "essayer"
+   ],
+   "hint": "Can I try on these trousers?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ___ une robe rouge. (porter)",
+   "answers": [
+    "porte"
+   ],
+   "hint": "She's wearing a red dress."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il porte un ___ et un pull gris.",
+   "answers": [
+    "jean"
+   ],
+   "hint": "He's wearing jeans and a grey jumper."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ couleur préférez-vous ?",
+   "answers": [
+    "Quelle"
+   ],
+   "hint": "Which colour do you prefer?"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est trop petit, vous avez la taille au-___ ?",
+   "answers": [
+    "dessus"
+   ],
+   "hint": "It's too small; do you have the next size up?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je prends la ___ bleue.",
+   "answers": [
+    "chemise"
+   ],
+   "hint": "I'll take the blue shirt."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm looking for a jacket.",
+   "answers": [
+    "Je cherche une veste."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Can I try it on?",
+   "answers": [
+    "Je peux l'essayer ?",
+    "Est-ce que je peux l'essayer ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's too small.",
+   "answers": [
+    "C'est trop petit."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Which dress?",
+   "answers": [
+    "Quelle robe ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Put your coat on! (to a friend)",
+   "answers": [
+    "Mets ton manteau !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She's wearing a red dress and white shoes.\"",
+   "answer": "Elle porte une robe rouge et des chaussures blanches."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What size are you?\"",
+   "answer": "Vous faites quelle taille ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'll take the blue shirt.\"",
+   "answer": "Je prends la chemise bleue."
+  }
+ ]
+}

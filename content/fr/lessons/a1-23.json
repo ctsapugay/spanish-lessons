@@ -1,0 +1,381 @@
+{
+ "sections": [
+  {
+   "heading": "Asking politely: je voudrais",
+   "body": "To order or ask for something, *je veux* (I want) sounds blunt. Use the polite forms:\n\n- *Je voudrais un café, s'il vous plaît.* — I'd like a coffee, please.\n- *J'aimerais réserver une table.* — I'd like to book a table.\n- *On pourrait avoir la carte ?* — Could we have the menu?\n- *Vous pourriez m'apporter de l'eau ?* — Could you bring me some water?\n\nYou'll learn how these forms are made later; for now, use them as fixed phrases."
+  },
+  {
+   "heading": "At the café",
+   "body": "*Un café* in France is a small espresso. *Un café crème* (or *un crème*) has milk; *un thé*, *un chocolat chaud*, *un jus d'orange*, *une bière* (beer), *un verre de vin*, *une carafe d'eau* (a jug of tap water — free). The waiter may ask: *Vous désirez ?* or *Qu'est-ce que je vous sers ?* (What can I get you?) To pay: *L'addition, s'il vous plaît.* (The bill, please.)"
+  },
+  {
+   "heading": "At the restaurant",
+   "body": "- Booking: *Je voudrais réserver une table pour deux personnes, ce soir à vingt heures.*\n- Arriving: *Bonsoir, j'ai réservé au nom de Martin.* (I've booked in the name of Martin.)\n- *la carte* — the menu (the whole list); *le menu* — a set meal at a fixed price: *le menu à vingt-cinq euros*.\n- *l'entrée* — the starter (not the main course!); *le plat (principal)* — the main course; *le dessert*.\n- Ordering: *Comme entrée, je prends la soupe. Comme plat, le poulet.* — *Pour moi, le poisson.*\n- *C'était très bon, merci !* — It was very good, thank you!\n\nService is included in the price in France; leaving a little extra is a kind gesture, not an obligation."
+  }
+ ],
+ "vocab": [
+  [
+   "je voudrais",
+   "I would like",
+   "ʒə vu.dʁɛ"
+  ],
+  [
+   "j'aimerais",
+   "I'd like",
+   "ʒɛm.ʁɛ"
+  ],
+  [
+   "réserver",
+   "to book, to reserve",
+   "ʁe.zɛʁ.ve"
+  ],
+  [
+   "la carte",
+   "the menu",
+   "la kaʁt"
+  ],
+  [
+   "le menu",
+   "the set menu",
+   "lə mə.ny"
+  ],
+  [
+   "l'entrée",
+   "the starter",
+   "lɑ̃.tʁe",
+   "f"
+  ],
+  [
+   "le plat",
+   "the dish, the main course",
+   "lə pla"
+  ],
+  [
+   "le dessert",
+   "dessert",
+   "lə de.sɛʁ"
+  ],
+  [
+   "l'addition",
+   "the bill",
+   "la.di.sjɔ̃",
+   "f"
+  ],
+  [
+   "le thé",
+   "tea",
+   "lə te"
+  ],
+  [
+   "la bière",
+   "beer",
+   "la bjɛʁ"
+  ],
+  [
+   "le serveur",
+   "the waiter",
+   "lə sɛʁ.vœʁ"
+  ],
+  [
+   "la personne",
+   "the person",
+   "la pɛʁ.sɔn"
+  ],
+  [
+   "la soupe",
+   "soup",
+   "la sup"
+  ],
+  [
+   "bon / bonne",
+   "good, tasty",
+   "bɔ̃ / bɔn"
+  ]
+ ],
+ "examples": [
+  [
+   "Bonjour, je voudrais un café, s'il vous plaît.",
+   "Hello, I'd like a coffee, please."
+  ],
+  [
+   "Un thé et un jus d'orange, s'il vous plaît.",
+   "A tea and an orange juice, please."
+  ],
+  [
+   "Vous désirez ?",
+   "What would you like?"
+  ],
+  [
+   "On pourrait avoir la carte ?",
+   "Could we have the menu?"
+  ],
+  [
+   "Je voudrais réserver une table pour deux personnes.",
+   "I'd like to book a table for two."
+  ],
+  [
+   "J'ai réservé au nom de Martin.",
+   "I've booked in the name of Martin."
+  ],
+  [
+   "Comme entrée, je prends la soupe.",
+   "For my starter, I'll have the soup."
+  ],
+  [
+   "Comme plat, je voudrais le poulet.",
+   "For my main course, I'd like the chicken."
+  ],
+  [
+   "Pour moi, le poisson, s'il vous plaît.",
+   "The fish for me, please."
+  ],
+  [
+   "Une carafe d'eau, s'il vous plaît.",
+   "A jug of tap water, please."
+  ],
+  [
+   "Et comme dessert ? — Une mousse au chocolat.",
+   "And for dessert? — A chocolate mousse."
+  ],
+  [
+   "L'addition, s'il vous plaît.",
+   "The bill, please."
+  ],
+  [
+   "C'était très bon, merci !",
+   "It was very good, thank you!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "The most polite way to order a coffee is…",
+   "options": [
+    "Je voudrais un café, s'il vous plaît.",
+    "Je veux un café.",
+    "Donne un café."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In France, *une entrée* on a menu is…",
+   "options": [
+    "the starter",
+    "the main course",
+    "the dessert",
+    "the entrance fee"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la carte* (in a restaurant) is…",
+   "options": [
+    "the whole menu, the list of dishes",
+    "a fixed-price set meal",
+    "the bill"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le menu à vingt euros* is…",
+   "options": [
+    "a set meal at twenty euros",
+    "the menu card",
+    "a twenty-euro tip"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How do you ask for the bill?",
+   "options": [
+    "L'addition, s'il vous plaît.",
+    "La carte, s'il vous plaît.",
+    "Le menu, s'il vous plaît."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "What is *une carafe d'eau*?",
+   "options": [
+    "a jug of tap water (free)",
+    "a bottle of sparkling water",
+    "a glass of wine"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Un café* in a French café is…",
+   "options": [
+    "a small espresso",
+    "a large coffee with milk",
+    "any hot drink"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The waiter asks *Vous désirez ?* He means…",
+   "options": [
+    "What would you like?",
+    "Do you have a reservation?",
+    "Is everything OK?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'd like to book a table\" is…",
+   "options": [
+    "Je voudrais réserver une table.",
+    "Je voudrais une réservation table.",
+    "Je réserve voudrais une table."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Comme ___, je prends la soupe.",
+   "options": [
+    "entrée",
+    "dessert",
+    "addition"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Is service included in the price in France?",
+   "options": [
+    "Yes",
+    "No, add 15%",
+    "Only in the evening"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Bonjour, je ___ un café, s'il vous plaît.",
+   "answers": [
+    "voudrais"
+   ],
+   "hint": "I'd like a coffee, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "On pourrait avoir la ___ ?",
+   "answers": [
+    "carte"
+   ],
+   "hint": "Could we have the menu?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je voudrais ___ une table pour deux personnes.",
+   "answers": [
+    "réserver"
+   ],
+   "hint": "I'd like to book a table for two."
+  },
+  {
+   "type": "fill",
+   "prompt": "Comme ___, je voudrais le poulet.",
+   "answers": [
+    "plat"
+   ],
+   "hint": "For my main course, I'd like the chicken."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'___, s'il vous plaît.",
+   "answers": [
+    "addition"
+   ],
+   "hint": "The bill, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "Et comme ___ ? — Une mousse au chocolat.",
+   "answers": [
+    "dessert"
+   ],
+   "hint": "And for dessert?"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'était très ___, merci !",
+   "answers": [
+    "bon"
+   ],
+   "hint": "It was very good, thank you!"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai réservé au ___ de Martin.",
+   "answers": [
+    "nom"
+   ],
+   "hint": "I've booked in the name of Martin."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'd like a tea, please.",
+   "answers": [
+    "Je voudrais un thé, s'il vous plaît."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The bill, please.",
+   "answers": [
+    "L'addition, s'il vous plaît."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Could we have the menu?",
+   "answers": [
+    "On pourrait avoir la carte ?",
+    "Nous pourrions avoir la carte ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "A jug of tap water, please.",
+   "answers": [
+    "Une carafe d'eau, s'il vous plaît."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It was very good!",
+   "answers": [
+    "C'était très bon !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'd like to book a table for two.\"",
+   "answer": "Je voudrais réserver une table pour deux personnes."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"For my starter, I'll have the soup.\"",
+   "answer": "Comme entrée, je prends la soupe."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The fish for me, please.\"",
+   "answer": "Pour moi, le poisson, s'il vous plaît."
+  }
+ ]
+}
