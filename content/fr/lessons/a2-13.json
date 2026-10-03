@@ -1,0 +1,376 @@
+{
+ "sections": [
+  {
+   "heading": "More negatives",
+   "body": "*Ne… pas* has several relatives. They all go around the verb (around *avoir* / *être* in the passé composé):\n\n- *ne… plus* — not any more, no longer: *Je ne fume plus.* (I don't smoke any more.) *Il n'y a plus de pain.*\n- *ne… jamais* — never: *Elle ne mange jamais de viande.* *Je ne suis jamais allé en Chine.*\n- *ne… rien* — nothing: *Je ne vois rien.* *Il n'a rien dit.* (He said nothing.)\n- *ne… personne* — nobody: *Je ne connais personne ici.* In the passé composé *personne* goes **after** the participle: *Je n'ai vu personne.*\n\nThey can also start a sentence: *Personne n'est venu.* (Nobody came.) *Rien n'est impossible.* (Nothing is impossible.) And they work alone as answers: *Qu'est-ce que tu fais ? — Rien.* *Qui est là ? — Personne.* *Tu fumes ? — Jamais !*"
+  },
+  {
+   "heading": "Answering the opposite",
+   "body": "- *encore* / *toujours* (still) ↔ *ne… plus*: *Tu habites toujours à Lyon ? — Non, je n'habite plus à Lyon.*\n- *déjà* (already, ever) ↔ *ne… jamais* or *pas encore* (not yet): *Tu as déjà mangé ? — Non, pas encore.*\n- *quelque chose* ↔ *ne… rien*; *quelqu'un* ↔ *ne… personne*."
+  },
+  {
+   "heading": "Pronunciation: the \"unstable\" e",
+   "body": "The unaccented *e* in *je, me, te, le, ne, de, que* and in the middle of many words (*samedi*, *maintenant*, *petit*) is called *e caduc* — the \"falling e\". In everyday speech it often disappears, as long as you don't end up with three consonants together:\n\n- *Je ne sais pas* → careful /ʒə nə sɛ pa/, everyday /ʒən sɛ pa/, very casual /ʃɛ pa/\n- *samedi* /sam.di/, *maintenant* /mɛ̃t.nɑ̃/, *petit* /p(ə).ti/\n- *Tu le vois ?* /ty l vwa/\n\nIt is **kept** when dropping it would bring three consonants together: *vendredi* /vɑ̃.dʁə.di/, and usually at the start of a sentence: *Je pars.* At A2, say it when you're unsure — dropping it is optional, keeping it is always correct."
+  }
+ ],
+ "vocab": [
+  [
+   "ne… plus",
+   "not any more",
+   "nə ply"
+  ],
+  [
+   "ne… jamais",
+   "never",
+   "nə ʒa.mɛ"
+  ],
+  [
+   "ne… rien",
+   "nothing",
+   "nə ʁjɛ̃"
+  ],
+  [
+   "ne… personne",
+   "nobody",
+   "nə pɛʁ.sɔn"
+  ],
+  [
+   "déjà",
+   "already, ever",
+   "de.ʒa"
+  ],
+  [
+   "pas encore",
+   "not yet",
+   "pa.z‿ɑ̃.kɔʁ"
+  ],
+  [
+   "encore",
+   "still, again",
+   "ɑ̃.kɔʁ"
+  ],
+  [
+   "fumer",
+   "to smoke",
+   "fy.me"
+  ],
+  [
+   "impossible",
+   "impossible",
+   "ɛ̃.pɔ.sibl"
+  ],
+  [
+   "là",
+   "there, here",
+   "la"
+  ],
+  [
+   "le bruit",
+   "the noise",
+   "lə bʁɥi"
+  ],
+  [
+   "la Chine",
+   "China",
+   "la ʃin"
+  ]
+ ],
+ "examples": [
+  [
+   "Je ne fume plus.",
+   "I don't smoke any more."
+  ],
+  [
+   "Il n'y a plus de pain.",
+   "There's no more bread."
+  ],
+  [
+   "Elle ne mange jamais de viande.",
+   "She never eats meat."
+  ],
+  [
+   "Je ne suis jamais allé en Chine.",
+   "I've never been to China."
+  ],
+  [
+   "Je ne vois rien.",
+   "I can't see anything."
+  ],
+  [
+   "Il n'a rien dit.",
+   "He didn't say anything."
+  ],
+  [
+   "Je ne connais personne ici.",
+   "I don't know anybody here."
+  ],
+  [
+   "Je n'ai vu personne.",
+   "I didn't see anybody."
+  ],
+  [
+   "Personne n'est venu.",
+   "Nobody came."
+  ],
+  [
+   "Tu habites toujours à Lyon ? — Non, je n'habite plus à Lyon.",
+   "Do you still live in Lyon? — No, I don't live in Lyon any more."
+  ],
+  [
+   "Tu as déjà mangé ? — Non, pas encore.",
+   "Have you already eaten? — No, not yet."
+  ],
+  [
+   "Qu'est-ce que tu fais ? — Rien.",
+   "What are you doing? — Nothing."
+  ],
+  [
+   "Je ne sais pas.",
+   "I don't know."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I don't smoke any more\"",
+   "options": [
+    "Je ne fume plus.",
+    "Je ne fume jamais.",
+    "Je ne fume rien."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"She never eats meat\"",
+   "options": [
+    "Elle ne mange jamais de viande.",
+    "Elle ne mange plus de viande.",
+    "Elle mange jamais la viande."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I can't see anything\"",
+   "options": [
+    "Je ne vois rien.",
+    "Je ne vois personne.",
+    "Je vois ne rien."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I didn't see anybody\"",
+   "options": [
+    "Je n'ai vu personne.",
+    "Je n'ai personne vu.",
+    "Je ne vu personne."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "In the passé composé, *personne* comes after the participle."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"He didn't say anything\"",
+   "options": [
+    "Il n'a rien dit.",
+    "Il n'a dit rien.",
+    "Il ne rien a dit."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*rien* comes before the participle."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Nobody came\"",
+   "options": [
+    "Personne n'est venu.",
+    "Personne est venu pas.",
+    "Ne personne est venu."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu as déjà mangé ?* — \"No, not yet.\"",
+   "options": [
+    "Non, pas encore.",
+    "Non, jamais.",
+    "Non, plus."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu habites toujours à Lyon ?* — \"No, not any more.\"",
+   "options": [
+    "Non, je n'habite plus à Lyon.",
+    "Non, je n'habite jamais à Lyon.",
+    "Non, je n'habite rien à Lyon."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The *e* in *samedi* is…",
+   "options": [
+    "usually dropped: /sam.di/",
+    "always pronounced: /sa.mə.di/ only",
+    "pronounced like é"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Why is the *e* kept in *vendredi*?",
+   "options": [
+    "dropping it would put three consonants together",
+    "it has an accent",
+    "it's at the end"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Qui est là ? — Personne.* means…",
+   "options": [
+    "Who's there? — Nobody.",
+    "Who is it? — A person.",
+    "Where is he? — Nowhere."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne fume ___.",
+   "answers": [
+    "plus"
+   ],
+   "hint": "I don't smoke any more."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ne mange ___ de viande.",
+   "answers": [
+    "jamais"
+   ],
+   "hint": "She never eats meat."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne vois ___.",
+   "answers": [
+    "rien"
+   ],
+   "hint": "I can't see anything."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne connais ___ ici.",
+   "answers": [
+    "personne"
+   ],
+   "hint": "I don't know anybody here."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il n'a ___ dit.",
+   "answers": [
+    "rien"
+   ],
+   "hint": "He didn't say anything."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ n'est venu.",
+   "answers": [
+    "Personne"
+   ],
+   "hint": "Nobody came."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu as déjà mangé ? — Non, pas ___.",
+   "answers": [
+    "encore"
+   ],
+   "hint": "No, not yet."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il n'y a ___ de pain.",
+   "answers": [
+    "plus"
+   ],
+   "hint": "There's no more bread."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne suis ___ allé en Chine.",
+   "answers": [
+    "jamais"
+   ],
+   "hint": "I've never been to China."
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't smoke any more.",
+   "answers": [
+    "Je ne fume plus."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I never eat meat.",
+   "answers": [
+    "Je ne mange jamais de viande."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Nobody came.",
+   "answers": [
+    "Personne n'est venu."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Not yet.",
+   "answers": [
+    "Pas encore."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I didn't see anything.",
+   "answers": [
+    "Je n'ai rien vu."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I've never been to China.\"",
+   "answer": "Je ne suis jamais allé en Chine."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I didn't see anybody.\"",
+   "answer": "Je n'ai vu personne."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Have you already eaten? — No, not yet.\"",
+   "answer": "Tu as déjà mangé ? — Non, pas encore."
+  }
+ ]
+}

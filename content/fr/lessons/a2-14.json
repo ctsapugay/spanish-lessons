@@ -1,0 +1,383 @@
+{
+ "sections": [
+  {
+   "heading": "The imperative with pronouns",
+   "body": "In a **positive** command, object pronouns go **after** the verb, joined with a hyphen, and *me / te* become *moi / toi*:\n\n- *Regarde-moi !* (Look at me!) *Écoute-le.* (Listen to him.) *Prends-les.* (Take them.)\n- *Donnez-lui son livre.* (Give him his book.) *Téléphone-leur.* (Phone them.)\n- *Vas-y !* (Go on! / Go there!) — the *tu* form gets its **s** back before *y* and *en*: *Manges-en !* (Eat some!)\n- Pronominal verbs: *Lève-toi !* (Get up!) *Asseyez-vous.* (Sit down.) *Dépêchons-nous !* (Let's hurry!)\n\nIn a **negative** command, the pronouns go back **before** the verb, in their normal form: *Ne me regarde pas !* *Ne le prends pas.* *Ne t'inquiète pas.* (Don't worry.) *Ne vous asseyez pas là.*"
+  },
+  {
+   "heading": "Giving instructions and directions",
+   "body": "Instructions often use the *vous* imperative or the infinitive (on signs, in recipes, in manuals): *Appuyez sur le bouton.* (Press the button.) *Ne pas fumer.* (No smoking.) *Tournez à gauche, puis continuez tout droit.* For a route: *Prenez la deuxième rue à droite, traversez le pont* (cross the bridge) *et c'est sur votre gauche.*"
+  },
+  {
+   "heading": "Asking for and giving advice",
+   "body": "- Asking: *Qu'est-ce que tu me conseilles ?* (What do you advise?) *À ton avis, qu'est-ce que je dois faire ?*\n- Giving advice: *Je te conseille de* + infinitive (I advise you to…), *Tu dois…*, *Il faut…*, or an imperative: *Repose-toi !* (Get some rest!)\n- Warning: *Attention !* (Watch out!) *Fais attention à la voiture !* *Ne touche pas, c'est chaud !* *Méfie-toi !* (Be careful — don't trust it.)"
+  }
+ ],
+ "vocab": [
+  [
+   "regarder",
+   "to look at",
+   "ʁə.ɡaʁ.de"
+  ],
+  [
+   "se dépêcher",
+   "to hurry",
+   "sə de.pe.ʃe"
+  ],
+  [
+   "s'asseoir",
+   "to sit down",
+   "sa.swaʁ"
+  ],
+  [
+   "s'inquiéter",
+   "to worry",
+   "sɛ̃.kje.te"
+  ],
+  [
+   "se reposer",
+   "to rest",
+   "sə ʁə.po.ze"
+  ],
+  [
+   "appuyer sur",
+   "to press",
+   "a.pɥi.je syʁ"
+  ],
+  [
+   "le bouton",
+   "the button",
+   "lə bu.tɔ̃"
+  ],
+  [
+   "le pont",
+   "the bridge",
+   "lə pɔ̃"
+  ],
+  [
+   "conseiller",
+   "to advise",
+   "kɔ̃.se.je"
+  ],
+  [
+   "le conseil",
+   "the piece of advice",
+   "lə kɔ̃.sɛj"
+  ],
+  [
+   "l'avis",
+   "the opinion",
+   "la.vi",
+   "m"
+  ],
+  [
+   "attention",
+   "watch out, careful",
+   "a.tɑ̃.sjɔ̃"
+  ],
+  [
+   "toucher",
+   "to touch",
+   "tu.ʃe"
+  ]
+ ],
+ "examples": [
+  [
+   "Regarde-moi !",
+   "Look at me!"
+  ],
+  [
+   "Donnez-lui son livre, s'il vous plaît.",
+   "Give him his book, please."
+  ],
+  [
+   "Lève-toi, il est huit heures !",
+   "Get up, it's eight o'clock!"
+  ],
+  [
+   "Asseyez-vous, je vous en prie.",
+   "Please sit down."
+  ],
+  [
+   "Dépêchons-nous, le train part !",
+   "Let's hurry, the train's leaving!"
+  ],
+  [
+   "Ne t'inquiète pas, tout va bien.",
+   "Don't worry, everything's fine."
+  ],
+  [
+   "Ne le prends pas, c'est à moi !",
+   "Don't take it, it's mine!"
+  ],
+  [
+   "Appuyez sur le bouton vert.",
+   "Press the green button."
+  ],
+  [
+   "Traversez le pont et c'est sur votre gauche.",
+   "Cross the bridge and it's on your left."
+  ],
+  [
+   "Qu'est-ce que tu me conseilles ?",
+   "What do you advise me to do?"
+  ],
+  [
+   "Je te conseille de te reposer.",
+   "I advise you to rest."
+  ],
+  [
+   "Attention, ne touche pas, c'est chaud !",
+   "Careful, don't touch, it's hot!"
+  ],
+  [
+   "Vas-y, tu peux le faire !",
+   "Go on, you can do it!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"Look at me!\" (to a friend)",
+   "options": [
+    "Regarde-moi !",
+    "Me regarde !",
+    "Regarde-me !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Give him his book\" (polite)",
+   "options": [
+    "Donnez-lui son livre.",
+    "Lui donnez son livre.",
+    "Donnez-le son livre."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Get up!\" (to a friend)",
+   "options": [
+    "Lève-toi !",
+    "Te lève !",
+    "Lève-te !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Don't worry!\" (to a friend)",
+   "options": [
+    "Ne t'inquiète pas !",
+    "Ne inquiète-toi pas !",
+    "Inquiète-toi pas !"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "In a negative command, the pronoun goes back before the verb."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Sit down\" (polite)",
+   "options": [
+    "Asseyez-vous.",
+    "Vous asseyez.",
+    "Asseyez-toi."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Don't take it!\" (to a friend)",
+   "options": [
+    "Ne le prends pas !",
+    "Ne prends-le pas !",
+    "Prends-le pas !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Let's hurry!\"",
+   "options": [
+    "Dépêchons-nous !",
+    "Nous dépêchons !",
+    "Dépêchez-nous !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In a positive command, *me* becomes…",
+   "options": [
+    "moi",
+    "m'",
+    "me (no change)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Vas-y !* means…",
+   "options": [
+    "Go on!",
+    "Come here!",
+    "Stop it!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je te conseille de te reposer* means…",
+   "options": [
+    "I advise you to rest",
+    "I'm telling you to rest now",
+    "I'll rest with you"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Appuyez sur le bouton* means…",
+   "options": [
+    "Press the button",
+    "Look at the button",
+    "Wait for the button"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "___-moi ! (regarder, tu)",
+   "answers": [
+    "Regarde"
+   ],
+   "hint": "Look at me!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Donnez-___ son livre.",
+   "answers": [
+    "lui"
+   ],
+   "hint": "Give him his book."
+  },
+  {
+   "type": "fill",
+   "prompt": "Lève-___, il est huit heures !",
+   "answers": [
+    "toi"
+   ],
+   "hint": "Get up, it's eight o'clock!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ne t'___ pas, tout va bien.",
+   "answers": [
+    "inquiète"
+   ],
+   "hint": "Don't worry, everything's fine."
+  },
+  {
+   "type": "fill",
+   "prompt": "Asseyez-___, je vous en prie.",
+   "answers": [
+    "vous"
+   ],
+   "hint": "Please sit down."
+  },
+  {
+   "type": "fill",
+   "prompt": "Appuyez sur le ___ vert.",
+   "answers": [
+    "bouton"
+   ],
+   "hint": "Press the green button."
+  },
+  {
+   "type": "fill",
+   "prompt": "Traversez le ___ et c'est sur votre gauche.",
+   "answers": [
+    "pont"
+   ],
+   "hint": "Cross the bridge and it's on your left."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je te ___ de te reposer.",
+   "answers": [
+    "conseille"
+   ],
+   "hint": "I advise you to rest."
+  },
+  {
+   "type": "fill",
+   "prompt": "___, ne touche pas, c'est chaud !",
+   "answers": [
+    "Attention"
+   ],
+   "hint": "Careful, don't touch, it's hot!"
+  },
+  {
+   "type": "translate",
+   "prompt": "Look at me! (to a friend)",
+   "answers": [
+    "Regarde-moi !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Don't worry! (to a friend)",
+   "answers": [
+    "Ne t'inquiète pas !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Sit down, please. (polite)",
+   "answers": [
+    "Asseyez-vous, s'il vous plaît.",
+    "Asseyez-vous, je vous en prie."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Watch out!",
+   "answers": [
+    "Attention !",
+    "Fais attention !",
+    "Faites attention !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Let's hurry!",
+   "answers": [
+    "Dépêchons-nous !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Let's hurry, the train's leaving!\"",
+   "answer": "Dépêchons-nous, le train part !"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Don't take it, it's mine!\"",
+   "answer": "Ne le prends pas, c'est à moi !"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Cross the bridge and it's on your left.\"",
+   "answer": "Traversez le pont et c'est sur votre gauche."
+  }
+ ]
+}

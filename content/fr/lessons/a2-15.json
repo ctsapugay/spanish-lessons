@@ -1,0 +1,391 @@
+{
+ "sections": [
+  {
+   "heading": "Verb + à + infinitive, verb + de + infinitive",
+   "body": "When a verb is followed by another verb in the infinitive, French sometimes puts *à* or *de* between them — and you have to learn which:\n\n- **no preposition**: *aimer, adorer, détester, préférer, vouloir, pouvoir, devoir, savoir, aller, venir, espérer* (to hope): *J'espère venir.*\n- **à**: *commencer à, continuer à, apprendre à, réussir à* (to manage to, succeed in), *hésiter à, aider quelqu'un à, s'habituer à* (to get used to), *penser à*: *J'apprends à nager.* (I'm learning to swim.)\n- **de**: *arrêter de* (to stop), *finir de, essayer de* (to try to), *oublier de, décider de, accepter de, refuser de, éviter de* (to avoid), *rêver de* (to dream of), *avoir besoin de* (to need), *avoir envie de*: *J'ai arrêté de fumer.* *N'oublie pas de m'appeler !*"
+  },
+  {
+   "heading": "Verb + à / de + noun",
+   "body": "The same verbs, or others, link to a noun with *à* or *de* (watch the contractions):\n\n- *penser à* (to think about): *Je pense à mes vacances.*\n- *parler de* (to talk about): *On parle du film.*\n- *jouer à* (a game) / *jouer de* (an instrument): *jouer au foot*, *jouer du piano*\n- *s'occuper de* (to look after, deal with): *Elle s'occupe des enfants.*\n- *avoir besoin de*: *J'ai besoin d'un stylo.*\n- *se souvenir de* (to remember): *Tu te souviens de Léa ?*\n\nSome verbs take a preposition in English but not in French: *chercher* (look for), *attendre* (wait for), *écouter* (listen to), *regarder* (look at), *demander* (ask for): *J'attends le bus.*"
+  }
+ ],
+ "vocab": [
+  [
+   "commencer à",
+   "to begin to",
+   "kɔ.mɑ̃.se a"
+  ],
+  [
+   "apprendre à",
+   "to learn to",
+   "a.pʁɑ̃dʁ a"
+  ],
+  [
+   "réussir à",
+   "to manage to, to succeed in",
+   "ʁe.y.siʁ a"
+  ],
+  [
+   "s'habituer à",
+   "to get used to",
+   "sa.bi.tɥe a"
+  ],
+  [
+   "arrêter de",
+   "to stop (doing)",
+   "a.ʁe.te də"
+  ],
+  [
+   "essayer de",
+   "to try to",
+   "e.se.je də"
+  ],
+  [
+   "oublier de",
+   "to forget to",
+   "u.bli.je də"
+  ],
+  [
+   "décider de",
+   "to decide to",
+   "de.si.de də"
+  ],
+  [
+   "éviter de",
+   "to avoid (doing)",
+   "e.vi.te də"
+  ],
+  [
+   "rêver de",
+   "to dream of",
+   "ʁɛ.ve də"
+  ],
+  [
+   "avoir besoin de",
+   "to need",
+   "a.vwaʁ bə.zwɛ̃ də"
+  ],
+  [
+   "penser à",
+   "to think about",
+   "pɑ̃.se a"
+  ],
+  [
+   "s'occuper de",
+   "to look after, to deal with",
+   "sɔ.ky.pe də"
+  ],
+  [
+   "se souvenir de",
+   "to remember",
+   "sə su.və.niʁ də"
+  ],
+  [
+   "nager",
+   "to swim",
+   "na.ʒe"
+  ],
+  [
+   "espérer",
+   "to hope",
+   "ɛs.pe.ʁe"
+  ]
+ ],
+ "examples": [
+  [
+   "J'apprends à nager.",
+   "I'm learning to swim."
+  ],
+  [
+   "Il a commencé à pleuvoir.",
+   "It started to rain."
+  ],
+  [
+   "J'ai arrêté de fumer il y a deux ans.",
+   "I stopped smoking two years ago."
+  ],
+  [
+   "N'oublie pas de m'appeler !",
+   "Don't forget to call me!"
+  ],
+  [
+   "J'essaie de parler français tous les jours.",
+   "I try to speak French every day."
+  ],
+  [
+   "Nous avons décidé de partir en Italie.",
+   "We decided to go to Italy."
+  ],
+  [
+   "Elle rêve de faire le tour du monde.",
+   "She dreams of travelling round the world."
+  ],
+  [
+   "Je n'arrive pas à m'habituer au froid.",
+   "I can't get used to the cold."
+  ],
+  [
+   "Tu as réussi à trouver l'hôtel ?",
+   "Did you manage to find the hotel?"
+  ],
+  [
+   "J'ai besoin d'un stylo.",
+   "I need a pen."
+  ],
+  [
+   "Je pense souvent à mes vacances.",
+   "I often think about my holiday."
+  ],
+  [
+   "Elle s'occupe des enfants le mercredi.",
+   "She looks after the children on Wednesdays."
+  ],
+  [
+   "Tu te souviens de Léa ?",
+   "Do you remember Léa?"
+  ],
+  [
+   "J'espère venir samedi.",
+   "I hope to come on Saturday."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: J'apprends ___ nager.",
+   "options": [
+    "à",
+    "de",
+    "(nothing)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai arrêté ___ fumer.",
+   "options": [
+    "de",
+    "à",
+    "(nothing)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: N'oublie pas ___ m'appeler !",
+   "options": [
+    "de",
+    "à",
+    "(nothing)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'espère ___ venir samedi.",
+   "options": [
+    "(nothing): J'espère venir",
+    "de",
+    "à"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il a commencé ___ pleuvoir.",
+   "options": [
+    "à",
+    "de",
+    "(nothing)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai besoin ___ un stylo.",
+   "options": [
+    "d'",
+    "à",
+    "(nothing)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je pense ___ mes vacances.",
+   "options": [
+    "à",
+    "de",
+    "(nothing)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Tu te souviens ___ Léa ?",
+   "options": [
+    "de",
+    "à",
+    "(nothing)"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm waiting for the bus\"",
+   "options": [
+    "J'attends le bus.",
+    "J'attends pour le bus.",
+    "J'attends au bus."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*attendre* takes a direct object."
+  },
+  {
+   "type": "mc",
+   "prompt": "*réussir à* means…",
+   "options": [
+    "to manage to",
+    "to start to",
+    "to need to",
+    "to refuse to"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*s'occuper de* means…",
+   "options": [
+    "to look after",
+    "to be busy",
+    "to remember"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "J'apprends ___ nager.",
+   "answers": [
+    "à"
+   ],
+   "hint": "I'm learning to swim."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai arrêté ___ fumer il y a deux ans.",
+   "answers": [
+    "de"
+   ],
+   "hint": "I stopped smoking two years ago."
+  },
+  {
+   "type": "fill",
+   "prompt": "N'oublie pas ___ m'appeler !",
+   "answers": [
+    "de"
+   ],
+   "hint": "Don't forget to call me!"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'___ de parler français tous les jours. (essayer)",
+   "answers": [
+    "essaie",
+    "essaye"
+   ],
+   "hint": "I try to speak French every day."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous avons décidé ___ partir en Italie.",
+   "answers": [
+    "de"
+   ],
+   "hint": "We decided to go to Italy."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ___ de faire le tour du monde. (rêver)",
+   "answers": [
+    "rêve"
+   ],
+   "hint": "She dreams of travelling round the world."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ d'un stylo.",
+   "answers": [
+    "besoin"
+   ],
+   "hint": "I need a pen."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je pense souvent ___ mes vacances.",
+   "answers": [
+    "à"
+   ],
+   "hint": "I often think about my holiday."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle s'occupe ___ enfants le mercredi.",
+   "answers": [
+    "des"
+   ],
+   "hint": "She looks after the children on Wednesdays."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm learning to swim.",
+   "answers": [
+    "J'apprends à nager."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I stopped smoking.",
+   "answers": [
+    "J'ai arrêté de fumer."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I need a pen.",
+   "answers": [
+    "J'ai besoin d'un stylo."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Don't forget to call me! (to a friend)",
+   "answers": [
+    "N'oublie pas de m'appeler !",
+    "N'oublie pas de me téléphoner !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Do you remember Léa? (to a friend)",
+   "answers": [
+    "Tu te souviens de Léa ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We decided to go to Italy.\"",
+   "answer": "Nous avons décidé de partir en Italie."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I can't get used to the cold.\"",
+   "answer": "Je n'arrive pas à m'habituer au froid."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She looks after the children on Wednesdays.\"",
+   "answer": "Elle s'occupe des enfants le mercredi."
+  }
+ ]
+}

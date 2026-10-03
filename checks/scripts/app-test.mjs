@@ -15,6 +15,7 @@
 //   node checks/scripts/app-test.mjs            # all scenarios
 //   node checks/scripts/app-test.mjs --headed   # watch it
 //   node checks/scripts/app-test.mjs --lang es  # only the per-language scenarios for Spanish
+//   node checks/scripts/app-test.mjs --whole    # only the whole-app scenarios
 
 import { chromium } from "playwright";
 import http from "node:http";
@@ -821,7 +822,7 @@ async function scenarioLauncherFile() {
 }
 
 // ---------------------------------------------------------------- run
-const only = process.argv.includes("--lang") ? [process.argv[process.argv.indexOf("--lang") + 1]] : ["es", "fr"];
+const only = process.argv.includes("--whole") ? [] : process.argv.includes("--lang") ? [process.argv[process.argv.indexOf("--lang") + 1]] : ["es", "fr"];
 const perLanguage = [scenarioFileUrl, scenarioPracticeAndQuizBasics, scenarioPassScoreSetting, scenarioCumulativeQuiz, scenarioLevelTest, scenarioExportImportAndUpdate, scenarioSessionControls];
 const whole = [scenarioAppearance, scenarioLanguageSwitching, scenarioVoices, scenarioFrenchTyping, scenarioLauncherFile];
 for (const lang of only) {
