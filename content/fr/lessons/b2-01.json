@@ -1,0 +1,398 @@
+{
+ "sections": [
+  {
+   "heading": "Three registers",
+   "body": "French changes noticeably with the situation. Three broad registers (*les registres de langue*):\n\n*Soutenu* is for formal writing, speeches and very polite situations; *courant* is right almost everywhere; *familier* is normal among friends but inappropriate at work or in an exam.",
+   "table": {
+    "head": [
+     "Soutenu (formal)",
+     "Courant (standard)",
+     "Familier (informal)"
+    ],
+    "rows": [
+     [
+      "*Je ne sais pas.*",
+      "*Je ne sais pas.*",
+      "*J'sais pas.* / *Chais pas.*"
+     ],
+     [
+      "*Nous allons partir.*",
+      "*Nous allons partir.* / *On va partir.*",
+      "*On va y aller.*"
+     ],
+     [
+      "*Il n'y a personne.*",
+      "*Il n'y a personne.*",
+      "*Y a personne.*"
+     ],
+     [
+      "*Quel âge avez-vous ?*",
+      "*Vous avez quel âge ?*",
+      "*T'as quel âge ?*"
+     ],
+     [
+      "*Cela m'est égal.*",
+      "*Ça m'est égal.*",
+      "*Je m'en fiche.*"
+     ],
+     [
+      "*une voiture*",
+      "*une voiture*",
+      "*une bagnole*"
+     ],
+     [
+      "*un livre*",
+      "*un livre*",
+      "*un bouquin*"
+     ],
+     [
+      "*travailler*",
+      "*travailler*",
+      "*bosser*"
+     ],
+     [
+      "*l'argent*",
+      "*l'argent*",
+      "*le fric*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "How people really speak",
+   "body": "In informal spoken French:\n\n- the ***ne*** of negation is usually dropped: *Je sais pas.* *C'est pas grave.* *Il vient pas.*\n- ***on*** replaces *nous*: *On y va ?*\n- ***ça*** replaces *cela*: *Ça marche.*\n- ***il y a*** becomes *y a*: *Y a du monde !*\n- **schwas disappear** and words shrink: *je suis* → /ʃɥi/, *je ne sais pas* → /ʃɛ.pa/, *tu as* → *t'as*, *il* → /i/ before a consonant: *il vient* /i.vjɛ̃/\n- questions use intonation, rarely inversion: *Tu viens ?* rather than *Viens-tu ?*\n\nYou don't need to speak like this — but you need to **understand** it, because it's what you'll hear in films, on the street and among friends."
+  },
+  {
+   "heading": "Choosing the right register",
+   "body": "At work, in an exam, with someone you don't know: *courant* or *soutenu*. Write *Je ne sais pas*, never *J'sais pas*. With friends, sprinkling a few *familier* words makes you sound natural — but some words (*vulgaire*) are offensive; when in doubt, don't."
+  }
+ ],
+ "vocab": [
+  [
+   "le registre",
+   "the register",
+   "lə ʁə.ʒistʁ"
+  ],
+  [
+   "soutenu / soutenue",
+   "formal (register)",
+   "sut.ny / sut.ny"
+  ],
+  [
+   "courant / courante",
+   "standard, everyday",
+   "ku.ʁɑ̃ / ku.ʁɑ̃t"
+  ],
+  [
+   "familier / familière",
+   "informal, colloquial",
+   "fa.mi.lje / fa.mi.ljɛʁ"
+  ],
+  [
+   "cela",
+   "that (formal)",
+   "sə.la"
+  ],
+  [
+   "je m'en fiche",
+   "I don't care (informal)",
+   "ʒə mɑ̃ fiʃ"
+  ],
+  [
+   "la bagnole",
+   "the car (informal)",
+   "la ba.ɲɔl"
+  ],
+  [
+   "le bouquin",
+   "the book (informal)",
+   "lə bu.kɛ̃"
+  ],
+  [
+   "bosser",
+   "to work (informal)",
+   "bɔ.se"
+  ],
+  [
+   "le fric",
+   "money (informal)",
+   "lə fʁik"
+  ],
+  [
+   "vulgaire",
+   "vulgar, crude",
+   "vyl.ɡɛʁ"
+  ],
+  [
+   "grave",
+   "serious; (informal) really",
+   "ɡʁav"
+  ]
+ ],
+ "examples": [
+  [
+   "Je ne sais pas ce qu'il veut.",
+   "I don't know what he wants. (standard)"
+  ],
+  [
+   "J'sais pas, moi !",
+   "I dunno! (informal)"
+  ],
+  [
+   "C'est pas grave.",
+   "It doesn't matter. (informal: no ne)"
+  ],
+  [
+   "Y a du monde ce soir !",
+   "There are loads of people tonight!"
+  ],
+  [
+   "T'as vu le match ?",
+   "Did you see the match? (informal)"
+  ],
+  [
+   "Cela m'est complètement égal.",
+   "That makes no difference to me at all. (formal)"
+  ],
+  [
+   "Je m'en fiche, fais ce que tu veux.",
+   "I don't care, do what you like. (informal)"
+  ],
+  [
+   "Il bosse dans une banque.",
+   "He works in a bank. (informal)"
+  ],
+  [
+   "J'ai acheté un bouquin génial.",
+   "I bought a great book. (informal)"
+  ],
+  [
+   "Elle a une nouvelle bagnole.",
+   "She's got a new car. (informal)"
+  ],
+  [
+   "Je n'ai pas assez d'argent. — J'ai pas assez de fric.",
+   "I don't have enough money. (standard — informal)"
+  ],
+  [
+   "Dans un mail professionnel, on évite le registre familier.",
+   "In a work email, you avoid informal language."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*bosser* is the informal word for…",
+   "options": [
+    "travailler",
+    "dormir",
+    "manger"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*un bouquin* is the informal word for…",
+   "options": [
+    "un livre",
+    "un bureau",
+    "un bonbon"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*le fric* is the informal word for…",
+   "options": [
+    "l'argent",
+    "le froid",
+    "le frigo"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'sais pas* is the informal form of…",
+   "options": [
+    "Je ne sais pas.",
+    "Je sais.",
+    "J'ai su."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Y a personne* is the informal form of…",
+   "options": [
+    "Il n'y a personne.",
+    "Il y a quelqu'un.",
+    "Personne n'y va."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In informal speech, the *ne* of negation is…",
+   "options": [
+    "usually dropped",
+    "always kept",
+    "doubled"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is the formal (soutenu) version?",
+   "options": [
+    "Cela m'est égal.",
+    "Je m'en fiche.",
+    "Ça m'est égal."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*T'as quel âge ?* is…",
+   "options": [
+    "informal",
+    "formal",
+    "standard written French"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In a job interview, the right register is…",
+   "options": [
+    "courant ou soutenu",
+    "familier",
+    "vulgaire"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In fast speech, *je suis* often sounds like…",
+   "options": [
+    "/ʃɥi/",
+    "/ʒə.sy.i/",
+    "/ʒy.si/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ dans une banque.",
+   "answers": [
+    "bosse"
+   ],
+   "hint": "He works in a bank. (informal for travaille)"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai acheté un ___ génial.",
+   "answers": [
+    "bouquin"
+   ],
+   "hint": "I bought a great book. (informal for livre)"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est ___ grave.",
+   "answers": [
+    "pas"
+   ],
+   "hint": "It doesn't matter. (informal)"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ a du monde ce soir !",
+   "answers": [
+    "Y"
+   ],
+   "hint": "There are loads of people tonight! (informal)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je m'en ___, fais ce que tu veux.",
+   "answers": [
+    "fiche"
+   ],
+   "hint": "I don't care, do what you like."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ m'est complètement égal.",
+   "answers": [
+    "Cela"
+   ],
+   "hint": "That makes no difference to me at all. (formal)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans un mail professionnel, on évite le registre ___.",
+   "answers": [
+    "familier"
+   ],
+   "hint": "you avoid informal language."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a une nouvelle ___.",
+   "answers": [
+    "bagnole"
+   ],
+   "hint": "She's got a new car. (informal for voiture)"
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't know. (standard)",
+   "answers": [
+    "Je ne sais pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It doesn't matter. (informal)",
+   "answers": [
+    "C'est pas grave."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't care. (informal)",
+   "answers": [
+    "Je m'en fiche."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It makes no difference to me. (standard)",
+   "answers": [
+    "Ça m'est égal."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"In a work email, you avoid informal language.\"",
+   "answer": "Dans un mail professionnel, on évite le registre familier."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I don't care, do what you like.\"",
+   "answer": "Je m'en fiche, fais ce que tu veux."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"That makes no difference to me at all.\"",
+   "answer": "Cela m'est complètement égal."
+  }
+ ]
+}

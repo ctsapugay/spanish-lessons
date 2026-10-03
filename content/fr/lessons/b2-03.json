@@ -1,0 +1,389 @@
+{
+ "sections": [
+  {
+   "heading": "Forming the conditionnel passé",
+   "body": "The **conditionnel passé** (\"would have\") is the auxiliary in the **conditionnel présent** + past participle:",
+   "table": {
+    "head": [
+     "avoir verbs",
+     "être verbs"
+    ],
+    "rows": [
+     [
+      "*j'aurais aimé*",
+      "*je serais venu(e)*"
+     ],
+     [
+      "*tu aurais dû*",
+      "*tu serais parti(e)*"
+     ],
+     [
+      "*il / elle aurait pu*",
+      "*il serait resté / elle serait restée*"
+     ],
+     [
+      "*nous aurions voulu*",
+      "*nous serions allé(e)s*"
+     ],
+     [
+      "*vous auriez su*",
+      "*vous seriez arrivé(e)(s)*"
+     ],
+     [
+      "*ils / elles auraient fait*",
+      "*ils seraient venus / elles seraient venues*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Regret",
+   "body": "- *J'aurais aimé* / *J'aurais voulu* + infinitive — I would have liked to: *J'aurais aimé voyager plus quand j'étais jeune.*\n- *J'aurais dû* + infinitive — I should have: *J'aurais dû t'écouter.* (I should have listened to you.)\n- *J'aurais pu* + infinitive — I could have: *J'aurais pu réussir.*\n- *Si seulement…* + plus-que-parfait: *Si seulement j'avais su !*"
+  },
+  {
+   "heading": "Reproach and advice about the past",
+   "body": "- *Tu aurais dû me prévenir !* — You should have warned me!\n- *Vous auriez pu appeler !* — You could have called!\n- *Il aurait mieux valu partir plus tôt.* — It would have been better to leave earlier.\n- *À ta place, je n'aurais rien dit.* — In your place, I wouldn't have said anything."
+  },
+  {
+   "heading": "Unconfirmed information (journalism)",
+   "body": "News reports use the conditional to report information that isn't confirmed: the present for current facts, the past for past events: *Le président serait malade.* (The president is said to be ill.) *L'incendie aurait fait trois victimes.* (The fire reportedly claimed three victims.) *Selon nos informations, le ministre aurait démissionné.* (According to our information, the minister has reportedly resigned.) The meaning is \"it is said / reportedly\" — the journalist doesn't vouch for it."
+  }
+ ],
+ "vocab": [
+  [
+   "le conditionnel passé",
+   "the past conditional",
+   "lə kɔ̃.di.sjɔ.nɛl pa.se"
+  ],
+  [
+   "j'aurais aimé",
+   "I would have liked",
+   "ʒɔ.ʁɛ e.me"
+  ],
+  [
+   "j'aurais dû",
+   "I should have",
+   "ʒɔ.ʁɛ dy"
+  ],
+  [
+   "j'aurais pu",
+   "I could have",
+   "ʒɔ.ʁɛ py"
+  ],
+  [
+   "je serais venu",
+   "I would have come",
+   "ʒə sə.ʁɛ və.ny"
+  ],
+  [
+   "le regret",
+   "the regret",
+   "lə ʁə.ɡʁɛ"
+  ],
+  [
+   "le reproche",
+   "the reproach",
+   "lə ʁə.pʁɔʃ"
+  ],
+  [
+   "il aurait mieux valu",
+   "it would have been better",
+   "il ɔ.ʁɛ mjø va.ly"
+  ],
+  [
+   "l'incendie",
+   "the fire (blaze)",
+   "lɛ̃.sɑ̃.di",
+   "m"
+  ],
+  [
+   "la victime",
+   "the victim",
+   "la vik.tim"
+  ],
+  [
+   "démissionner",
+   "to resign",
+   "de.mi.sjɔ.ne"
+  ],
+  [
+   "le ministre",
+   "the minister",
+   "lə mi.nistʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "J'aurais aimé voyager plus quand j'étais jeune.",
+   "I would have liked to travel more when I was young."
+  ],
+  [
+   "J'aurais dû t'écouter.",
+   "I should have listened to you."
+  ],
+  [
+   "J'aurais pu réussir si j'avais travaillé.",
+   "I could have succeeded if I had worked."
+  ],
+  [
+   "Tu aurais dû me prévenir !",
+   "You should have warned me!"
+  ],
+  [
+   "Vous auriez pu appeler !",
+   "You could have called!"
+  ],
+  [
+   "Il aurait mieux valu partir plus tôt.",
+   "It would have been better to leave earlier."
+  ],
+  [
+   "À ta place, je n'aurais rien dit.",
+   "In your place, I wouldn't have said anything."
+  ],
+  [
+   "Sans toi, je ne serais jamais venue.",
+   "Without you, I'd never have come."
+  ],
+  [
+   "L'incendie aurait fait trois victimes.",
+   "The fire reportedly claimed three victims."
+  ],
+  [
+   "Selon nos informations, le ministre aurait démissionné.",
+   "According to our information, the minister has reportedly resigned."
+  ],
+  [
+   "Le président serait malade.",
+   "The president is said to be ill."
+  ],
+  [
+   "Nous serions arrivés à l'heure sans les embouteillages.",
+   "We'd have arrived on time without the traffic jams."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I should have listened to you\"",
+   "options": [
+    "J'aurais dû t'écouter.",
+    "J'avais dû t'écouter.",
+    "Je devrais t'écouter hier."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"You could have called!\" (polite)",
+   "options": [
+    "Vous auriez pu appeler !",
+    "Vous pourriez appeler hier !",
+    "Vous avez pu appeler !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I would have liked to travel\"",
+   "options": [
+    "J'aurais aimé voyager.",
+    "J'aimerais voyagé.",
+    "J'ai aimé voyager."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Without you, I'd never have come\" (a woman)",
+   "options": [
+    "Sans toi, je ne serais jamais venue.",
+    "Sans toi, je n'aurais jamais venue.",
+    "Sans toi, je ne venais jamais."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*L'incendie aurait fait trois victimes* (in the news) means…",
+   "options": [
+    "The fire reportedly claimed three victims",
+    "The fire would make three victims",
+    "The fire made three victims, confirmed"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The conditionnel passé is formed with…",
+   "options": [
+    "avoir / être in the conditional + past participle",
+    "avoir / être in the imparfait + past participle",
+    "the conditional + -é"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il aurait mieux valu partir* means…",
+   "options": [
+    "It would have been better to leave",
+    "He would have preferred to leave",
+    "He'd better leave"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Journalists use the conditional to…",
+   "options": [
+    "report unconfirmed information",
+    "describe the future",
+    "be polite"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*démissionner* means…",
+   "options": [
+    "to resign",
+    "to dismiss someone",
+    "to be on a mission"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: À ta place, je n'___ rien dit.",
+   "options": [
+    "aurais",
+    "aurai",
+    "avais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'aurais ___ voyager plus. (aimer)",
+   "answers": [
+    "aimé"
+   ],
+   "hint": "I would have liked to travel more."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'aurais ___ t'écouter. (devoir)",
+   "answers": [
+    "dû"
+   ],
+   "hint": "I should have listened to you."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ dû me prévenir ! (avoir)",
+   "answers": [
+    "aurais"
+   ],
+   "hint": "You should have warned me!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous auriez ___ appeler ! (pouvoir)",
+   "answers": [
+    "pu"
+   ],
+   "hint": "You could have called!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il aurait mieux ___ partir plus tôt.",
+   "answers": [
+    "valu"
+   ],
+   "hint": "It would have been better to leave earlier."
+  },
+  {
+   "type": "fill",
+   "prompt": "Sans toi, je ne ___ jamais venue. (être)",
+   "answers": [
+    "serais"
+   ],
+   "hint": "Without you, I'd never have come."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'incendie ___ fait trois victimes. (avoir)",
+   "answers": [
+    "aurait"
+   ],
+   "hint": "The fire reportedly claimed three victims."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ministre aurait ___. (démissionner)",
+   "answers": [
+    "démissionné"
+   ],
+   "hint": "The minister has reportedly resigned."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ arrivés à l'heure sans les embouteillages. (être)",
+   "answers": [
+    "serions"
+   ],
+   "hint": "We'd have arrived on time…"
+  },
+  {
+   "type": "translate",
+   "prompt": "I should have called.",
+   "answers": [
+    "J'aurais dû appeler.",
+    "J'aurais dû téléphoner."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "You should have warned me! (to a friend)",
+   "answers": [
+    "Tu aurais dû me prévenir !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I would have liked to come.",
+   "answers": [
+    "J'aurais aimé venir.",
+    "J'aurais voulu venir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It would have been better to wait.",
+   "answers": [
+    "Il aurait mieux valu attendre."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"According to our information, the minister has reportedly resigned.\"",
+   "answer": "Selon nos informations, le ministre aurait démissionné."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I would have liked to travel more when I was young.\"",
+   "answer": "J'aurais aimé voyager plus quand j'étais jeune."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It would have been better to leave earlier.\"",
+   "answer": "Il aurait mieux valu partir plus tôt."
+  }
+ ]
+}

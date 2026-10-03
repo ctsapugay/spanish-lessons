@@ -1,0 +1,388 @@
+{
+ "sections": [
+  {
+   "heading": "The futur antérieur",
+   "body": "The **futur antérieur** (\"future perfect\") says what **will have happened** by a certain point in the future. It's the auxiliary (*avoir* or *être*) in the **futur simple** + past participle:",
+   "table": {
+    "head": [
+     "avoir verbs",
+     "être verbs"
+    ],
+    "rows": [
+     [
+      "*j'aurai fini*",
+      "*je serai parti(e)*"
+     ],
+     [
+      "*tu auras fini*",
+      "*tu seras parti(e)*"
+     ],
+     [
+      "*il / elle aura fini*",
+      "*il sera parti / elle sera partie*"
+     ],
+     [
+      "*nous aurons fini*",
+      "*nous serons parti(e)s*"
+     ],
+     [
+      "*vous aurez fini*",
+      "*vous serez parti(e)(s)*"
+     ],
+     [
+      "*ils / elles auront fini*",
+      "*ils seront partis / elles seront parties*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Uses",
+   "body": "1. **Completed before a future moment**: *Dans un an, j'aurai terminé mes études.* (In a year, I'll have finished my studies.) *À huit heures, nous serons déjà partis.*\n2. **After *quand*, *dès que*, *lorsque*, *après que*, *une fois que*** — when one future action comes before another. English uses the present perfect (\"when I've finished\"), French uses the futur antérieur: *Quand j'aurai fini, je t'appellerai.* (When I've finished, I'll call you.) *Dès que tu seras arrivé, envoie-moi un message.* (As soon as you've arrived…)\n3. **A guess about the past** — \"must have\": *Il n'est pas là ? Il aura oublié.* (He must have forgotten.) *Elle aura raté son train.* — common in speech."
+  },
+  {
+   "heading": "Sequence with the futur simple",
+   "body": "*Je partirai **quand j'aurai fini**.* — the futur antérieur action (finishing) comes **first**, the futur simple action (leaving) **second**. Compare: *Je t'appellerai **quand je serai** à la gare* (at the same moment — futur simple in both)."
+  }
+ ],
+ "vocab": [
+  [
+   "le futur antérieur",
+   "the future perfect",
+   "lə fy.tyʁ ɑ̃.te.ʁjœʁ"
+  ],
+  [
+   "j'aurai fini",
+   "I will have finished",
+   "ʒo.ʁe fi.ni"
+  ],
+  [
+   "je serai parti",
+   "I will have left",
+   "ʒə sə.ʁe paʁ.ti"
+  ],
+  [
+   "lorsque",
+   "when",
+   "lɔʁs.kə"
+  ],
+  [
+   "une fois que",
+   "once",
+   "yn fwa kə"
+  ],
+  [
+   "après que",
+   "after",
+   "a.pʁɛ kə"
+  ],
+  [
+   "terminer",
+   "to finish",
+   "tɛʁ.mi.ne"
+  ],
+  [
+   "d'ici",
+   "by (a time), from now until",
+   "di.si"
+  ],
+  [
+   "déjà",
+   "already",
+   "de.ʒa"
+  ],
+  [
+   "oublier",
+   "to forget",
+   "u.bli.je"
+  ],
+  [
+   "s'installer",
+   "to settle in, to move in",
+   "sɛ̃s.ta.le"
+  ],
+  [
+   "rentrer",
+   "to come back, to get home",
+   "ʁɑ̃.tʁe"
+  ]
+ ],
+ "examples": [
+  [
+   "Dans un an, j'aurai terminé mes études.",
+   "In a year, I'll have finished my studies."
+  ],
+  [
+   "À huit heures, nous serons déjà partis.",
+   "By eight we'll already have left."
+  ],
+  [
+   "D'ici vendredi, j'aurai fini le rapport.",
+   "By Friday I'll have finished the report."
+  ],
+  [
+   "Quand j'aurai fini, je t'appellerai.",
+   "When I've finished, I'll call you."
+  ],
+  [
+   "Dès que tu seras arrivé, envoie-moi un message.",
+   "As soon as you've arrived, send me a message."
+  ],
+  [
+   "Une fois que nous nous serons installés, nous vous inviterons.",
+   "Once we've settled in, we'll invite you."
+  ],
+  [
+   "Lorsqu'elle aura obtenu son diplôme, elle partira à l'étranger.",
+   "When she's got her degree, she'll go abroad."
+  ],
+  [
+   "Il n'est pas là ? Il aura oublié.",
+   "He isn't here? He must have forgotten."
+  ],
+  [
+   "Elle aura raté son train.",
+   "She must have missed her train."
+  ],
+  [
+   "Je te rendrai ton livre quand je l'aurai lu.",
+   "I'll give you your book back when I've read it."
+  ],
+  [
+   "Tu pourras sortir quand tu auras fait tes devoirs.",
+   "You can go out when you've done your homework."
+  ],
+  [
+   "Je t'appellerai quand je serai à la gare.",
+   "I'll call you when I'm at the station."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Quand j'___ fini, je t'appellerai.",
+   "options": [
+    "aurai",
+    "ai",
+    "aurais"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "After *quand* + future context: futur antérieur."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Dès que tu ___ arrivé, envoie-moi un message.",
+   "options": [
+    "seras",
+    "es",
+    "serais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: À huit heures, nous ___ déjà partis.",
+   "options": [
+    "serons",
+    "aurons",
+    "sommes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: D'ici vendredi, j'___ le rapport.",
+   "options": [
+    "aurai fini",
+    "ai fini",
+    "finirais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il aura oublié* (as a guess) means…",
+   "options": [
+    "He must have forgotten",
+    "He will forget",
+    "He had forgotten"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The futur antérieur is formed with…",
+   "options": [
+    "avoir / être in the futur simple + past participle",
+    "avoir / être in the present + past participle",
+    "the infinitive + -ra"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une fois que* means…",
+   "options": [
+    "once (as soon as)",
+    "one time only",
+    "one day"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *Je partirai quand j'aurai fini*, which happens first?",
+   "options": [
+    "finishing",
+    "leaving",
+    "both at once"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Tu pourras sortir quand tu ___ tes devoirs.",
+   "options": [
+    "auras fait",
+    "fais",
+    "feras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*d'ici vendredi* means…",
+   "options": [
+    "by Friday",
+    "from here to Friday's place",
+    "since Friday"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans un an, j'___ terminé mes études. (avoir)",
+   "answers": [
+    "aurai"
+   ],
+   "hint": "In a year, I'll have finished my studies."
+  },
+  {
+   "type": "fill",
+   "prompt": "À huit heures, nous ___ déjà partis. (être)",
+   "answers": [
+    "serons"
+   ],
+   "hint": "By eight we'll already have left."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quand j'aurai ___, je t'appellerai. (finir)",
+   "answers": [
+    "fini"
+   ],
+   "hint": "When I've finished…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Dès que tu seras ___, envoie-moi un message. (arriver)",
+   "answers": [
+    "arrivé",
+    "arrivée"
+   ],
+   "hint": "As soon as you've arrived…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Une ___ que nous nous serons installés, nous vous inviterons.",
+   "answers": [
+    "fois"
+   ],
+   "hint": "Once we've settled in…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il n'est pas là ? Il ___ oublié. (avoir)",
+   "answers": [
+    "aura"
+   ],
+   "hint": "He must have forgotten."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je te rendrai ton livre quand je l'___ lu. (avoir)",
+   "answers": [
+    "aurai"
+   ],
+   "hint": "when I've read it."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ vendredi, j'aurai fini le rapport.",
+   "answers": [
+    "D'ici"
+   ],
+   "hint": "By Friday…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ elle aura obtenu son diplôme, elle partira.",
+   "answers": [
+    "Lorsqu'"
+   ],
+   "hint": "When she's got her degree…"
+  },
+  {
+   "type": "translate",
+   "prompt": "When I've finished, I'll call you. (to a friend)",
+   "answers": [
+    "Quand j'aurai fini, je t'appellerai.",
+    "Lorsque j'aurai fini, je t'appellerai."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "By Friday, I'll have finished.",
+   "answers": [
+    "D'ici vendredi, j'aurai fini.",
+    "D'ici vendredi, j'aurai terminé."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He must have forgotten.",
+   "answers": [
+    "Il aura oublié.",
+    "Il a dû oublier."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "As soon as you've arrived, call me. (to a friend)",
+   "answers": [
+    "Dès que tu seras arrivé, appelle-moi.",
+    "Dès que tu seras arrivée, appelle-moi."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Once we've settled in, we'll invite you.\"",
+   "answer": "Une fois que nous nous serons installés, nous vous inviterons."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"You can go out when you've done your homework.\"",
+   "answer": "Tu pourras sortir quand tu auras fait tes devoirs."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"In a year, I'll have finished my studies.\"",
+   "answer": "Dans un an, j'aurai terminé mes études."
+  }
+ ]
+}
