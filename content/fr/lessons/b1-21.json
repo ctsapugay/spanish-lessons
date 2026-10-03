@@ -1,0 +1,368 @@
+{
+ "sections": [
+  {
+   "heading": "Consequence: so, therefore",
+   "body": "- *donc* — so, therefore: *Il pleut, donc je prends un parapluie.*\n- *alors* — so (spoken): *Il pleuvait, alors on est restés.*\n- *c'est pourquoi* / *c'est pour ça que* — that's why: *J'ai raté le train ; c'est pourquoi je suis en retard.*\n- *voilà pourquoi* — that's why (summing up): *Voilà pourquoi j'ai changé de travail.*\n- *par conséquent* — consequently (formal, written): *Les prix augmentent ; par conséquent, les gens achètent moins.*\n- *si bien que* + indicative — so that (result): *Il a beaucoup neigé, si bien que les routes sont fermées.*"
+  },
+  {
+   "heading": "Purpose: in order to, so that",
+   "body": "When the subject is the **same**, use an infinitive:\n\n- *pour* + infinitive — to, in order to: *Je travaille pour gagner ma vie.* (to earn a living)\n- *afin de* + infinitive — in order to (more formal): *Afin d'éviter les embouteillages, partez tôt.* (To avoid traffic jams…)\n\nWhen the subjects are **different**, use *que* + **subjunctive**:\n\n- *pour que* + subjunctive — so that: *Je parle lentement pour que tu comprennes.* (… so that you understand.)\n- *afin que* + subjunctive — so that (formal): *Nous vous envoyons ce document afin que vous puissiez le signer.*\n\nCompare: *Je répète **pour comprendre**.* (so that I understand) — *Je répète **pour que tu comprennes**.* (so that you understand)"
+  },
+  {
+   "heading": "Purpose with a noun",
+   "body": "*pour* + noun: *C'est pour le travail.* — *dans le but de* + infinitive (with the aim of): *Il a créé une association dans le but d'aider les sans-abri.* (to help homeless people)"
+  }
+ ],
+ "vocab": [
+  [
+   "donc",
+   "so, therefore",
+   "dɔ̃k"
+  ],
+  [
+   "c'est pourquoi",
+   "that's why",
+   "sɛ puʁ.kwa"
+  ],
+  [
+   "voilà pourquoi",
+   "so that's why (summing up)",
+   "vwa.la puʁ.kwa"
+  ],
+  [
+   "par conséquent",
+   "consequently",
+   "paʁ kɔ̃.se.kɑ̃"
+  ],
+  [
+   "si bien que",
+   "so that, with the result that",
+   "si bjɛ̃ kə"
+  ],
+  [
+   "afin de",
+   "in order to",
+   "a.fɛ̃ də"
+  ],
+  [
+   "pour que",
+   "so that",
+   "puʁ kə"
+  ],
+  [
+   "afin que",
+   "so that (formal)",
+   "a.fɛ̃ kə"
+  ],
+  [
+   "le but",
+   "the aim, the goal",
+   "lə byt"
+  ],
+  [
+   "gagner sa vie",
+   "to earn a living",
+   "ɡa.ɲe sa vi"
+  ],
+  [
+   "éviter",
+   "to avoid",
+   "e.vi.te"
+  ],
+  [
+   "l'embouteillage",
+   "the traffic jam",
+   "lɑ̃.bu.tɛ.jaʒ",
+   "m"
+  ],
+  [
+   "signer",
+   "to sign",
+   "si.ɲe"
+  ],
+  [
+   "augmenter",
+   "to rise, to increase",
+   "oɡ.mɑ̃.te"
+  ]
+ ],
+ "examples": [
+  [
+   "Il pleut, donc je prends un parapluie.",
+   "It's raining, so I'm taking an umbrella."
+  ],
+  [
+   "J'ai raté le train ; c'est pourquoi je suis en retard.",
+   "I missed the train; that's why I'm late."
+  ],
+  [
+   "Voilà pourquoi j'ai changé de travail.",
+   "That's why I changed jobs."
+  ],
+  [
+   "Les prix augmentent ; par conséquent, les gens achètent moins.",
+   "Prices are rising; consequently, people are buying less."
+  ],
+  [
+   "Il a beaucoup neigé, si bien que les routes sont fermées.",
+   "It snowed a lot, so the roads are closed."
+  ],
+  [
+   "Je travaille pour gagner ma vie.",
+   "I work to earn a living."
+  ],
+  [
+   "Afin d'éviter les embouteillages, partez tôt.",
+   "To avoid traffic jams, leave early."
+  ],
+  [
+   "Je parle lentement pour que tu comprennes.",
+   "I'm speaking slowly so that you understand."
+  ],
+  [
+   "Nous vous envoyons ce document afin que vous puissiez le signer.",
+   "We're sending you this document so that you can sign it."
+  ],
+  [
+   "Je répète pour comprendre.",
+   "I repeat things in order to understand."
+  ],
+  [
+   "Ils ont créé une association dans le but d'aider les sans-abri.",
+   "They set up a charity to help homeless people."
+  ],
+  [
+   "Je te prête ma voiture pour que tu puisses partir ce week-end.",
+   "I'll lend you my car so you can go away this weekend."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Je parle lentement pour que tu ___.",
+   "options": [
+    "comprennes",
+    "comprends",
+    "comprendre"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Different subjects: *pour que* + subjunctive."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je répète pour ___.",
+   "options": [
+    "comprendre",
+    "que je comprenne",
+    "comprends"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Same subject: *pour* + infinitive."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ d'éviter les embouteillages, partez tôt.",
+   "options": [
+    "Afin",
+    "Pour que",
+    "Donc"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il a beaucoup neigé, ___ les routes sont fermées.",
+   "options": [
+    "si bien que",
+    "pour que",
+    "afin que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous envoyons ce document afin que vous ___ le signer.",
+   "options": [
+    "puissiez",
+    "pouvez",
+    "pourrez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*par conséquent* is…",
+   "options": [
+    "formal: consequently",
+    "casual: so",
+    "a cause"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*gagner sa vie* means…",
+   "options": [
+    "to earn a living",
+    "to win one's life",
+    "to save a life"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un embouteillage* is…",
+   "options": [
+    "a traffic jam",
+    "a bottle",
+    "a road"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*dans le but de* means…",
+   "options": [
+    "with the aim of",
+    "in the end of",
+    "at the goal of"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"That's why I'm late\"",
+   "options": [
+    "C'est pourquoi je suis en retard.",
+    "C'est parce que je suis en retard.",
+    "Pourquoi c'est je suis en retard."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il pleut, ___ je prends un parapluie.",
+   "answers": [
+    "donc",
+    "alors"
+   ],
+   "hint": "It's raining, so I'm taking an umbrella."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai raté le train ; c'est ___ je suis en retard.",
+   "answers": [
+    "pourquoi"
+   ],
+   "hint": "that's why I'm late."
+  },
+  {
+   "type": "fill",
+   "prompt": "Par ___, les gens achètent moins.",
+   "answers": [
+    "conséquent"
+   ],
+   "hint": "Consequently, people are buying less."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je travaille ___ gagner ma vie.",
+   "answers": [
+    "pour"
+   ],
+   "hint": "I work to earn a living."
+  },
+  {
+   "type": "fill",
+   "prompt": "Afin d'___ les embouteillages, partez tôt.",
+   "answers": [
+    "éviter"
+   ],
+   "hint": "To avoid traffic jams, leave early."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je parle lentement pour que tu ___. (comprendre)",
+   "answers": [
+    "comprennes"
+   ],
+   "hint": "so that you understand."
+  },
+  {
+   "type": "fill",
+   "prompt": "Afin que vous ___ le signer. (pouvoir)",
+   "answers": [
+    "puissiez"
+   ],
+   "hint": "so that you can sign it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils ont créé une association dans le ___ d'aider les sans-abri.",
+   "answers": [
+    "but"
+   ],
+   "hint": "to help homeless people."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a beaucoup neigé, si ___ que les routes sont fermées.",
+   "answers": [
+    "bien"
+   ],
+   "hint": "so the roads are closed."
+  },
+  {
+   "type": "translate",
+   "prompt": "I work to earn a living.",
+   "answers": [
+    "Je travaille pour gagner ma vie."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm speaking slowly so that you understand. (to a friend)",
+   "answers": [
+    "Je parle lentement pour que tu comprennes."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That's why I'm late.",
+   "answers": [
+    "C'est pourquoi je suis en retard.",
+    "C'est pour ça que je suis en retard.",
+    "Voilà pourquoi je suis en retard."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's raining, so I'm staying at home.",
+   "answers": [
+    "Il pleut, donc je reste à la maison.",
+    "Il pleut, alors je reste à la maison."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'll lend you my car so you can go away this weekend.\"",
+   "answer": "Je te prête ma voiture pour que tu puisses partir ce week-end."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Prices are rising; consequently, people are buying less.\"",
+   "answer": "Les prix augmentent ; par conséquent, les gens achètent moins."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"To avoid traffic jams, leave early.\"",
+   "answer": "Afin d'éviter les embouteillages, partez tôt."
+  }
+ ]
+}

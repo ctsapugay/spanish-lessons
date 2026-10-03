@@ -1,0 +1,372 @@
+{
+ "sections": [
+  {
+   "heading": "Words for \"because\"",
+   "body": "- *parce que* + clause — the neutral answer to *pourquoi*: *Je reste parce que j'ai du travail.*\n- *car* + clause — \"for, because\": more formal, mostly written, never at the start of a sentence: *Le match est reporté, car le terrain est inondé.*\n- *comme* + clause — \"as, since\": at the **start** of the sentence, giving the cause before the result: *Comme il faisait froid, nous sommes rentrés.*\n- *puisque* + clause — \"since\": a cause the listener already knows or can't deny: *Puisque tu es là, aide-moi !* (Since you're here, help me!)\n- *en effet* — \"indeed, in fact\": confirms or explains what was just said, in a new sentence: *Il ne viendra pas. En effet, il est malade.*"
+  },
+  {
+   "heading": "With a noun",
+   "body": "- *à cause de* + noun — because of (often negative): *Le vol est annulé à cause de la neige.*\n- *grâce à* + noun — thanks to (positive): *J'ai trouvé ce travail grâce à toi.*\n- *en raison de* + noun — owing to (formal, official): *Fermé en raison des travaux.* (Closed owing to building work.)\n- *faute de* + noun — for lack of: *Faute de temps, je n'ai pas fini.*"
+  },
+  {
+   "heading": "Asking about causes",
+   "body": "*Pourquoi ?* — *Pour quelle raison ?* — *Comment ça se fait que… ?* (How come…?) — *C'est dû à quoi ?* (What's it due to?) — Answers: *C'est dû à…* (It's due to…), *Ça vient de…* (It comes from…), *La raison, c'est que…*"
+  }
+ ],
+ "vocab": [
+  [
+   "car",
+   "because, for (formal)",
+   "kaʁ"
+  ],
+  [
+   "comme",
+   "as, since (at the start)",
+   "kɔm"
+  ],
+  [
+   "puisque",
+   "since (known cause)",
+   "pɥis.kə"
+  ],
+  [
+   "en effet",
+   "indeed, in fact",
+   "ɑ̃.n‿e.fɛ"
+  ],
+  [
+   "grâce à",
+   "thanks to",
+   "ɡʁɑs a"
+  ],
+  [
+   "à cause de",
+   "because of",
+   "a koz də"
+  ],
+  [
+   "en raison de",
+   "owing to",
+   "ɑ̃ ʁɛ.zɔ̃ də"
+  ],
+  [
+   "faute de",
+   "for lack of",
+   "fot də"
+  ],
+  [
+   "dû à / due à",
+   "due to",
+   "dy a / dy a"
+  ],
+  [
+   "inondé / inondée",
+   "flooded",
+   "i.nɔ̃.de / i.nɔ̃.de"
+  ],
+  [
+   "les travaux",
+   "building work, roadworks",
+   "le tʁa.vo",
+   "m"
+  ],
+  [
+   "la neige",
+   "snow",
+   "la nɛʒ"
+  ],
+  [
+   "le terrain",
+   "the ground, the pitch",
+   "lə tɛ.ʁɛ̃"
+  ],
+  [
+   "reporter",
+   "to postpone",
+   "ʁə.pɔʁ.te"
+  ]
+ ],
+ "examples": [
+  [
+   "Je reste parce que j'ai du travail.",
+   "I'm staying because I've got work."
+  ],
+  [
+   "Le match est reporté, car le terrain est inondé.",
+   "The match is postponed, as the pitch is flooded."
+  ],
+  [
+   "Comme il faisait froid, nous sommes rentrés.",
+   "As it was cold, we went home."
+  ],
+  [
+   "Puisque tu es là, aide-moi !",
+   "Since you're here, help me!"
+  ],
+  [
+   "Il ne viendra pas. En effet, il est malade.",
+   "He won't come. In fact, he's ill."
+  ],
+  [
+   "Le vol est annulé à cause de la neige.",
+   "The flight is cancelled because of the snow."
+  ],
+  [
+   "J'ai trouvé ce travail grâce à toi.",
+   "I found this job thanks to you."
+  ],
+  [
+   "Fermé en raison des travaux.",
+   "Closed owing to building work."
+  ],
+  [
+   "Faute de temps, je n'ai pas fini.",
+   "For lack of time, I didn't finish."
+  ],
+  [
+   "Comment ça se fait que tu sois encore là ?",
+   "How come you're still here?"
+  ],
+  [
+   "Le retard est dû à un problème technique.",
+   "The delay is due to a technical problem."
+  ],
+  [
+   "Grâce à la pluie, le jardin est magnifique.",
+   "Thanks to the rain, the garden is beautiful."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Le vol est annulé ___ la neige.",
+   "options": [
+    "à cause de",
+    "grâce à",
+    "parce que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai trouvé ce travail ___ toi.",
+   "options": [
+    "grâce à",
+    "à cause de",
+    "car"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ il faisait froid, nous sommes rentrés.",
+   "options": [
+    "Comme",
+    "Car",
+    "Puisque que"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "A cause at the start of the sentence: *comme*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ tu es là, aide-moi !",
+   "options": [
+    "Puisque",
+    "Car",
+    "Grâce à"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ de temps, je n'ai pas fini.",
+   "options": [
+    "Faute",
+    "Grâce",
+    "Cause"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which can't start a sentence?",
+   "options": [
+    "car",
+    "comme",
+    "puisque"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*grâce à* is used for…",
+   "options": [
+    "positive causes",
+    "negative causes",
+    "any cause in formal writing only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*en raison de* is…",
+   "options": [
+    "formal: owing to",
+    "casual: thanks to",
+    "negative: because of"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Comment ça se fait que… ?* means…",
+   "options": [
+    "How come…?",
+    "How do you make…?",
+    "What does it do…?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il ne viendra pas. En effet, il est malade.* — *en effet* here means…",
+   "options": [
+    "indeed, in fact",
+    "in effect",
+    "as a result"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le match est reporté, ___ le terrain est inondé.",
+   "answers": [
+    "car"
+   ],
+   "hint": "The match is postponed, as the pitch is flooded."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ il faisait froid, nous sommes rentrés.",
+   "answers": [
+    "Comme"
+   ],
+   "hint": "As it was cold, we went home."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ tu es là, aide-moi !",
+   "answers": [
+    "Puisque"
+   ],
+   "hint": "Since you're here, help me!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le vol est annulé à ___ de la neige.",
+   "answers": [
+    "cause"
+   ],
+   "hint": "because of the snow."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai trouvé ce travail ___ à toi.",
+   "answers": [
+    "grâce"
+   ],
+   "hint": "thanks to you."
+  },
+  {
+   "type": "fill",
+   "prompt": "Fermé en ___ des travaux.",
+   "answers": [
+    "raison"
+   ],
+   "hint": "Closed owing to building work."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ de temps, je n'ai pas fini.",
+   "answers": [
+    "Faute"
+   ],
+   "hint": "For lack of time, I didn't finish."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le retard est ___ à un problème technique.",
+   "answers": [
+    "dû"
+   ],
+   "hint": "The delay is due to a technical problem."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ne viendra pas. En ___, il est malade.",
+   "answers": [
+    "effet"
+   ],
+   "hint": "In fact, he's ill."
+  },
+  {
+   "type": "translate",
+   "prompt": "Thanks to you!",
+   "answers": [
+    "Grâce à toi !",
+    "Grâce à vous !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The flight is cancelled because of the snow.",
+   "answers": [
+    "Le vol est annulé à cause de la neige."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "As it was cold, we went home.",
+   "answers": [
+    "Comme il faisait froid, nous sommes rentrés.",
+    "Comme il faisait froid, on est rentrés."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Since you're here, help me!",
+   "answers": [
+    "Puisque tu es là, aide-moi !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "How come you're still here?",
+   "answers": [
+    "Comment ça se fait que tu sois encore là ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The match is postponed, as the pitch is flooded.\"",
+   "answer": "Le match est reporté, car le terrain est inondé."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"For lack of time, I didn't finish.\"",
+   "answer": "Faute de temps, je n'ai pas fini."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The delay is due to a technical problem.\"",
+   "answer": "Le retard est dû à un problème technique."
+  }
+ ]
+}

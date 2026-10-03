@@ -1,0 +1,362 @@
+{
+ "sections": [
+  {
+   "heading": "The rule",
+   "body": "With *avoir*, the past participle normally **doesn't** agree: *Elle a mangé. Ils ont acheté des fleurs.* But it **does** agree with the **direct object** when that object comes **before** the verb.\n\nThe direct object comes first in three common cases (the agreeing ending is shown in brackets):\n\n1. an **object pronoun** (*le, la, l', les, me, te, nous, vous*): *Les fleurs ? Je les ai achetées ce matin.* (-es) *Ta clé ? Je l'ai trouvée.* (-e) *Elle nous a invités.* (-s)\n2. the relative pronoun *que*: *Les photos que j'ai prises sont belles.* *La maison qu'ils ont achetée est grande.*\n3. a question with *quel* / *combien de*: *Quelle robe as-tu choisie ?* *Combien de livres as-tu lus ?*\n\nThe participle agrees in gender and number with that object: **-e**, **-s**, **-es**."
+  },
+  {
+   "heading": "When it doesn't agree",
+   "body": "- object after the verb: *J'ai acheté des fleurs.* (no agreement)\n- indirect object (*lui, leur*): *Je leur ai parlé.* (no agreement — *leur* is indirect)\n- with *en*: *Des pommes ? J'en ai mangé.* (no agreement)"
+  },
+  {
+   "heading": "Can you hear it?",
+   "body": "Mostly not: *acheté, achetée, achetés* sound the same. But with participles ending in a consonant, the feminine is audible: *pris → prise*, *mis → mise*, *fait → faite*, *écrit → écrite*, *ouvert → ouverte*, *offert → offerte*: *La lettre ? Je l'ai écrite.* /e.kʁit/ *La porte que tu as ouverte…* /u.vɛʁt/. Listen for it — and make it when you speak."
+  }
+ ],
+ "vocab": [
+  [
+   "l'accord",
+   "agreement",
+   "la.kɔʁ",
+   "m"
+  ],
+  [
+   "la fleur",
+   "the flower",
+   "la flœʁ"
+  ],
+  [
+   "choisir",
+   "to choose",
+   "ʃwa.ziʁ"
+  ],
+  [
+   "choisi / choisie",
+   "chosen",
+   "ʃwa.zi / ʃwa.zi"
+  ],
+  [
+   "pris / prise",
+   "taken",
+   "pʁi / pʁiz"
+  ],
+  [
+   "mis / mise",
+   "put",
+   "mi / miz"
+  ],
+  [
+   "écrit / écrite",
+   "written",
+   "e.kʁi / e.kʁit"
+  ],
+  [
+   "ouvert / ouverte",
+   "opened",
+   "u.vɛʁ / u.vɛʁt"
+  ],
+  [
+   "offert / offerte",
+   "given (as a present)",
+   "ɔ.fɛʁ / ɔ.fɛʁt"
+  ],
+  [
+   "la lettre",
+   "the letter",
+   "la lɛtʁ"
+  ],
+  [
+   "la robe",
+   "the dress",
+   "la ʁɔb"
+  ],
+  [
+   "la chanson",
+   "the song",
+   "la ʃɑ̃.sɔ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Les fleurs ? Je les ai achetées ce matin.",
+   "The flowers? I bought them this morning."
+  ],
+  [
+   "Ta clé ? Je l'ai trouvée sous le canapé.",
+   "Your key? I found it under the sofa."
+  ],
+  [
+   "Elle nous a invités à dîner.",
+   "She invited us to dinner."
+  ],
+  [
+   "Les photos que j'ai prises sont belles.",
+   "The photos I took are beautiful."
+  ],
+  [
+   "La maison qu'ils ont achetée est grande.",
+   "The house they bought is big."
+  ],
+  [
+   "Quelle robe as-tu choisie ?",
+   "Which dress did you choose?"
+  ],
+  [
+   "Combien de livres as-tu lus cette année ?",
+   "How many books have you read this year?"
+  ],
+  [
+   "La lettre ? Je l'ai écrite hier soir.",
+   "The letter? I wrote it last night."
+  ],
+  [
+   "La porte que tu as ouverte était fermée à clé.",
+   "The door you opened was locked."
+  ],
+  [
+   "La montre que mes parents m'ont offerte est magnifique.",
+   "The watch my parents gave me is beautiful."
+  ],
+  [
+   "J'ai acheté des fleurs.",
+   "I bought some flowers."
+  ],
+  [
+   "Je leur ai parlé hier.",
+   "I spoke to them yesterday."
+  ],
+  [
+   "Des pommes ? J'en ai mangé trois.",
+   "Apples? I ate three."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Les fleurs ? Je les ai ___.",
+   "options": [
+    "achetées",
+    "acheté",
+    "achetés"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai ___ des fleurs.",
+   "options": [
+    "acheté",
+    "achetées",
+    "achetés"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The object comes after the verb: no agreement."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Les photos que j'ai ___ sont belles.",
+   "options": [
+    "prises",
+    "pris",
+    "prise"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Quelle robe as-tu ___ ?",
+   "options": [
+    "choisie",
+    "choisi",
+    "choisis"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je leur ai ___ hier.",
+   "options": [
+    "parlé",
+    "parlés",
+    "parlée"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*leur* is an indirect object: no agreement."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Des pommes ? J'en ai ___ trois.",
+   "options": [
+    "mangé",
+    "mangées",
+    "mangés"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: La lettre ? Je l'ai ___ hier soir.",
+   "options": [
+    "écrite",
+    "écrit",
+    "écrits"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle nous a ___ à dîner. (us = Hugo and Léa)",
+   "options": [
+    "invités",
+    "invité",
+    "invitée"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "When does a participle with *avoir* agree?",
+   "options": [
+    "with a direct object placed before it",
+    "always with the subject",
+    "never"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which agreement can you hear?",
+   "options": [
+    "La lettre que j'ai écrite.",
+    "Les fleurs que j'ai achetées.",
+    "La robe que j'ai choisie."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Les fleurs ? Je les ai ___ ce matin. (acheter)",
+   "answers": [
+    "achetées"
+   ],
+   "hint": "I bought them this morning."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ta clé ? Je l'ai ___ sous le canapé. (trouver)",
+   "answers": [
+    "trouvée"
+   ],
+   "hint": "I found it under the sofa."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les photos que j'ai ___ sont belles. (prendre)",
+   "answers": [
+    "prises"
+   ],
+   "hint": "The photos I took are beautiful."
+  },
+  {
+   "type": "fill",
+   "prompt": "La maison qu'ils ont ___ est grande. (acheter)",
+   "answers": [
+    "achetée"
+   ],
+   "hint": "The house they bought is big."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quelle robe as-tu ___ ? (choisir)",
+   "answers": [
+    "choisie"
+   ],
+   "hint": "Which dress did you choose?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Combien de livres as-tu ___ cette année ? (lire)",
+   "answers": [
+    "lus"
+   ],
+   "hint": "How many books have you read?"
+  },
+  {
+   "type": "fill",
+   "prompt": "La porte que tu as ___ était fermée à clé. (ouvrir)",
+   "answers": [
+    "ouverte"
+   ],
+   "hint": "The door you opened was locked."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ des fleurs. (acheter)",
+   "answers": [
+    "acheté"
+   ],
+   "hint": "I bought some flowers."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je leur ai ___ hier. (parler)",
+   "answers": [
+    "parlé"
+   ],
+   "hint": "I spoke to them yesterday."
+  },
+  {
+   "type": "translate",
+   "prompt": "The flowers? I bought them.",
+   "answers": [
+    "Les fleurs ? Je les ai achetées."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Which dress did you choose? (to a friend)",
+   "answers": [
+    "Quelle robe as-tu choisie ?",
+    "Quelle robe tu as choisie ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The letter? I wrote it.",
+   "answers": [
+    "La lettre ? Je l'ai écrite."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The photos I took are beautiful.",
+   "answers": [
+    "Les photos que j'ai prises sont belles."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The watch my parents gave me is beautiful.\"",
+   "answer": "La montre que mes parents m'ont offerte est magnifique."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The door you opened was locked.\"",
+   "answer": "La porte que tu as ouverte était fermée à clé."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"How many books have you read this year?\"",
+   "answer": "Combien de livres as-tu lus cette année ?"
+  }
+ ]
+}
