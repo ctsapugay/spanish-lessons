@@ -126,3 +126,9 @@ reader: state, not narrative.
 
 ## 2026-09-27 — Push approved by Clara
 - Clara said "push it"; pushed the practice fixes, the appearance settings and this log entry to ctsapugay/spanish-lessons.
+
+## 2026-10-03 — Delegated approval (agent-executed)
+
+- APPROVED: BASELINE
+- Clara's stated authority, verbatim: "I approve, go ahead and write yourself a goal condition and seed yourself in goal mode to build it"
+- Attribution mode makes this an audit record, not proof the authority was real. Enable signing (docs/governance.md) for approval the agent cannot forge.

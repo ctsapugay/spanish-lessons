@@ -1,7 +1,7 @@
 # Outcomes
 
 What this project is for, in terms of what will be true when it exists. Written during
-intake on 2026-09-26. This is the material the goal condition is distilled from — it can be
+intake on 2026-09-26; amended 2026-10-03 to add French and rename the app Polyglotte. This is the material the goal condition is distilled from — it can be
 looser and more human than `goal-condition.md`, but it still describes results, not
 construction.
 
@@ -11,10 +11,16 @@ Clara wants to learn Spanish, starting from nothing, and get to fluent or near-f
 has no single structured path that teaches the material, lets her drill it, and proves
 what she has actually retained — and shows her, at a glance, where she is on the road.
 
+Clara now also wants to learn French in the same app, switching freely between the two
+languages without either one's progress affecting the other. The app becomes
+**Polyglotte**.
+
 ## Who it is for
 
-Clara alone, as a learner, on her own Mac. English is her instruction language. There are
-no other users, no accounts, and no audience to design for beyond her.
+Clara first, as a learner on her own Mac. Beyond her, anyone who clones the repository
+should be able to run it on their own computer and keep their own progress there. English
+is the instruction language. There are no accounts, no shared server, and one learner per
+copy of the app.
 
 ## Outcomes
 
@@ -39,6 +45,18 @@ no other users, no accounts, and no audience to design for beyond her.
    Clara can change it. Each level ends with a cumulative level test.
 7. **Progress that lasts.** Progress survives closing the browser and restarting the Mac,
    and Clara can export it to a file and restore it from that file.
+8. **Two languages, chosen freely.** The learner picks Spanish or French and can switch at
+   any time. Each language has its own progress, kept and restored independently; Clara's
+   existing Spanish progress carries over unchanged.
+9. **A real French course.** Standard metropolitan French from A1 to C1 (short notes where
+   Québec or Belgian usage differs), with its own curriculum taken from recognised
+   references for teaching French as a foreign language — the official French level
+   inventories, DELF/DALF exam specifications, a recognised French teaching programme, and
+   French word-frequency data — not a translation of the Spanish course. Pronunciation is
+   taught throughout, and spelling, gender and pronunciation are checked for accuracy.
+10. **Usable from a fresh clone.** Anyone who clones the repository can start the app on
+    macOS, Windows or Linux by following the README, and their progress stays on their own
+    computer and out of git.
 
 ## Non-goals
 
@@ -46,6 +64,8 @@ no other users, no accounts, and no audience to design for beyond her.
 - Accounts, logins, sync across devices, or any server-side component.
 - A native mobile app, or putting the app online anywhere.
 - Content beyond C1 (C2 / mastery level).
+- Languages other than Spanish and French; Québec, Belgian or Swiss French beyond short notes.
+- Multiple learner profiles in one copy of the app.
 - Social features, streak mechanics, gamification, or notifications.
 - Polished visual design beyond clean, readable, and easy to use.
 - Paid or licensed content copied from textbooks or courses.

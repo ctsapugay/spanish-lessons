@@ -48,7 +48,7 @@ project's real behaviour, exit nonzero on failure, and not depend on network acc
 
 ## CHK-003 — The app behaves correctly in a real browser
 
-- **covers:** G3, G4, G5, C-PRIVATE, C-PROGRESS-SAFE
+- **covers:** G3, G4, G5, G7, G10, G11, C-PRIVATE, C-PROGRESS-SAFE, C-SPANISH-INTACT
 - **run:** bash checks/app.sh
 - **status:** active
 
@@ -56,4 +56,28 @@ project's real behaviour, exit nonzero on failure, and not depend on network acc
 
 - **covers:** C-GOVERNED-CHANGE
 - **run:** python3 tools/test_tools.py
+- **status:** active
+
+## CHK-005 — The French curriculum is complete and grounded in French references
+
+- **covers:** G8, G12
+- **run:** bash checks/french-curriculum.sh
+- **status:** active
+
+## CHK-006 — Every French lesson is complete, answerable, and taught in order
+
+- **covers:** G9, C-NO-FORWARD-REFERENCES, C-ANSWERABLE
+- **run:** bash checks/french-content.sh
+- **status:** active
+
+## CHK-007 — French spelling, gender and pronunciation match the reference lexicon
+
+- **covers:** G10, C-OPEN-SOURCES
+- **run:** bash checks/french-accuracy.sh
+- **status:** active
+
+## CHK-008 — A fresh clone runs and keeps progress out of git
+
+- **covers:** G13, C-PRIVATE
+- **run:** bash checks/fresh-clone.sh
 - **status:** active

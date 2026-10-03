@@ -23,6 +23,10 @@ concrete commands and paths in `check:` (which is not shape-scanned), not in `cr
 Executable checks that run automatically belong in `checks/registry.md` and can reference
 a criterion with `covers:`.
 
+G1–G6 were written for the Spanish course and met on 2026-09-26. G7 onward (added
+2026-10-03) cover Polyglotte: language switching, the French course, and use from a
+fresh clone.
+
 ## G1 — A full curriculum, from zero to C1
 
 - **criterion:** The dashboard shows an ordered curriculum spanning CEFR A1, A2, B1, B2 and C1, in which every lesson states its learning objective and level, and every grammar and communicative-function item that the recorded research lists for each level is covered by at least one lesson.
@@ -64,3 +68,52 @@ a criterion with `covers:`.
 - **check:** Read the review record for each of the five levels and confirm it names the lessons reviewed and lists concrete findings and fixes; CHK-001 fails if any level has no review record.
 - **state:** met
 - **evidence:** 2026-09-26 — curriculum/reviews/A1.md, A2.md, B1.md, B2.md, C1.md each name every lesson reviewed and list concrete findings and fixes (e.g. B2: camarero→mesero, dialogue dashes in b2-05; C1: cleft-tense item in c1-12). CHK-001: "all levels reviewed".
+
+## G7 — Polyglotte: switch languages, keep each one's progress
+
+- **criterion:** The app presents itself as Polyglotte and lets the learner choose Spanish or French and switch between them at any time; each language keeps its own passed lessons, quiz and level-test results and missed items, which switching never alters; both languages' progress survives a reload, a restart of the local launcher, and an export followed by an import; and Spanish progress recorded before French existed carries over intact.
+- **check:** The app check (CHK-003) records different progress in each language, switches back and forth, reloads, restarts the launcher, exports, clears site data and imports, and fails unless each language shows exactly its own progress every time; it also loads a progress file saved by the Spanish-only version and fails unless that progress appears unchanged under Spanish. Confirm switching by hand once.
+- **state:** unmet
+- **evidence:**
+
+## G8 — A French curriculum from zero to C1, built from French references
+
+- **criterion:** In French, the dashboard shows an ordered curriculum spanning CEFR A1, A2, B1, B2 and C1, in which every lesson states its learning objective and level; every grammar, communicative-function and pronunciation item that the recorded French research lists for each level is covered by at least one lesson; and every one of those items, and the order they are taught in, is traced in the research record to a named reference for teaching French as a foreign language (official French level inventories, the French exam specifications for each level, or a recognised French teaching programme), not to the Spanish course.
+- **check:** Open the French dashboard and confirm all five levels and their lessons appear in order with objectives; run the French curriculum check (CHK-005), which fails if any level is missing, any lesson lacks an objective or level, any researched item is uncovered, any inventory item names no French source, or the research record lacks sources; read the French research record and confirm the sources are French-teaching references.
+- **state:** unmet
+- **evidence:**
+
+## G9 — Every French lesson is complete and sound
+
+- **criterion:** Every French lesson has an explanation, at least ten example sentences with English translations, its vocabulary with translations and a pronunciation guide, and at least forty exercise items spanning at least three exercise types; no exercise is unanswerable or tests French not yet taught.
+- **check:** Run the French content check (CHK-006), which fails on any lesson below those minimums, any vocabulary entry without a pronunciation guide, any malformed answer key, or any forward reference; open three French lessons at random from different levels and confirm they render fully and speak with a French voice.
+- **state:** unmet
+- **evidence:**
+
+## G10 — French spelling, gender and pronunciation are accurate
+
+- **criterion:** Every French word in the course — explanations, vocabulary, examples, exercises and answer keys — is a correct standard spelling, accents included; every noun's stated gender is correct; every vocabulary pronunciation guide matches standard metropolitan pronunciation; and French audio is always spoken with a French voice, never a Spanish or English one.
+- **check:** Run the French accuracy check (CHK-007), which fails on any word not found in the recorded French reference lexicon, any noun gender or pronunciation guide that disagrees with it, or any exception not justified in a level review record; the app check (CHK-003) fails if French text is ever spoken with a non-French voice.
+- **state:** unmet
+- **evidence:**
+
+## G11 — French practice, quizzes and level tests work like Spanish
+
+- **criterion:** In French, practice, cumulative quizzes and level tests behave exactly as G3, G4 and G5 require for Spanish, and French answers are judged fairly — accents, capitalisation, apostrophes and elision handled consistently.
+- **check:** The app check (CHK-003) runs the practice, quiz, passing-score and level-test scenarios in French as well as Spanish and fails if any fails in either language, including typed answers with apostrophes and elision.
+- **state:** unmet
+- **evidence:**
+
+## G12 — Each French level has been reviewed for accuracy
+
+- **criterion:** Every French level has had a review pass for accuracy and naturalness, with what was checked, what was wrong, and what was fixed recorded in the repository.
+- **check:** Read the French review record for each of the five levels and confirm it names the lessons reviewed and lists concrete findings and fixes; CHK-005 fails if any French level has no review record.
+- **state:** unmet
+- **evidence:**
+
+## G13 — Anyone who clones the repository can use it
+
+- **criterion:** Someone with a fresh clone and only the common prerequisite the README names can start the app by following it, on macOS by double-clicking a launcher and on Windows or Linux with one documented step; their progress is saved to a file on their own computer that git ignores, so it is never committed or shared.
+- **check:** The fresh-clone check (CHK-008) clones the repository into a temporary folder, starts the app as the README describes, records progress, and fails unless the progress file is written inside that clone and `git status` there shows nothing to commit; read the README and confirm it gives the steps for macOS, Windows and Linux.
+- **state:** unmet
+- **evidence:**

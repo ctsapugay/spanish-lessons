@@ -10,17 +10,21 @@ agent's to soften: see `constraints/defaults.md` (C-GOVERNED-CHANGE) and
 ## Status
 
 - **state:** approved
-- **approved:** 2026-09-26, by Clara in chat
+- **approved:** 2026-09-26, by Clara in chat; amended 2026-10-03 (French, Polyglotte), approved by Clara in chat
 
 ## Statement
 
-A Spanish-learning app that Clara runs locally in her browser and uses to go from complete
-beginner to near-fluent. It carries a full, research-grounded curriculum from CEFR A1 to C1
-in Latin American Spanish; a dashboard showing that curriculum and her progress through it;
-a lesson for every point in the curriculum; a practice center for pressure-free drilling;
-and a cumulative quiz and testing center whose results — and only whose results — advance
-her progress. When it exists, Clara can open it and work through the whole course with
-nothing else.
+**Polyglotte**, a language-learning app that Clara — or anyone who clones the repository —
+runs locally in a browser to learn Spanish, French, or both, from complete beginner to
+near-fluent. The learner chooses a language and can switch at any time; each language keeps
+its own progress. Each language carries its own full, research-grounded curriculum from
+CEFR A1 to C1 — Latin American Spanish, and standard metropolitan French built from
+recognised French-as-a-foreign-language references rather than adapted from the Spanish
+course — with accurate spelling and pronunciation; a dashboard showing that curriculum and
+the learner's progress through it; a lesson for every point in the curriculum; a practice
+center for pressure-free drilling; and a cumulative quiz and testing center whose results —
+and only whose results — advance progress. When it exists, a learner can open it and work
+through either whole course with nothing else.
 
 ## What completion requires
 
@@ -50,12 +54,16 @@ description repeated here.
 
 ## Out of scope for "done"
 
-- Spanish that a native-speaking teacher could still improve, especially in B2/C1 nuance —
-  as long as every level has had its recorded accuracy review.
-- Audio quality: pronunciation comes from the voices available on Clara's Mac, not
-  recordings.
+- Spanish or French that a native-speaking teacher could still improve, especially in B2/C1
+  nuance — as long as every level has had its recorded accuracy review and the French has
+  passed its automated spelling and pronunciation checks.
+- Audio quality: pronunciation comes from the speech voices available on the learner's
+  computer, not recordings. The written pronunciation guidance is what must be accurate.
 - Speaking and free-writing practice beyond pointers to outside resources.
-- Visual polish beyond clean and usable; browsers other than current Chrome and Safari on
-  macOS; phone-sized screens.
-- Adaptive features beyond cumulative quizzes weighted toward what Clara has got wrong
-  (no full spaced-repetition scheduler).
+- Visual polish beyond clean and usable; browsers other than current Chrome and Safari;
+  phone-sized screens. Starting the app on Windows and Linux is documented and provided
+  for, but is only verified automatically on macOS.
+- Adaptive features beyond cumulative quizzes weighted toward what the learner has got
+  wrong (no full spaced-repetition scheduler).
+- Languages other than Spanish and French; Québec, Belgian or Swiss French beyond short
+  notes; multiple learner profiles on one computer.
