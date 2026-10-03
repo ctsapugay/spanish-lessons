@@ -1,0 +1,398 @@
+{
+ "sections": [
+  {
+   "heading": "Making an appointment",
+   "body": "In France, you usually see your *médecin traitant* (your regular GP) first. To book: *Je voudrais prendre rendez-vous avec le docteur Bernard.* Many people book online. In an emergency, call *le 15* (SAMU, medical emergencies) or *le 112* (European emergency number); *les urgences* is the A&E department. At night or on Sunday, look for *la pharmacie de garde* (the duty pharmacy)."
+  },
+  {
+   "heading": "Describing symptoms",
+   "body": "- *Qu'est-ce qui vous amène ?* (What brings you here?) / *Qu'est-ce qui ne va pas ?*\n- Pain: *J'ai mal à la tête / au ventre / au dos / à la gorge.* *J'ai mal partout.* (I ache all over.) *Ça me fait mal ici.* (It hurts here.)\n- *J'ai de la fièvre / de la toux* (a cough). *J'ai le nez qui coule.* (I've got a runny nose.)\n- *Je tousse* (I'm coughing), *j'éternue* (I'm sneezing), *j'ai des nausées* (I feel sick), *j'ai des vertiges* (I feel dizzy).\n- *Je suis enrhumé(e).* (I've got a cold.) *J'ai la grippe.* (I've got flu.) *Je me suis coupé(e) / brûlé(e).* (I've cut / burnt myself.) *Je me suis cassé la jambe.* (I've broken my leg.)\n- How long: *depuis deux jours*, *depuis hier soir*."
+  },
+  {
+   "heading": "Physical states",
+   "body": "French uses *avoir* for many states where English uses \"to be\": *avoir faim* (to be hungry), *avoir soif* (thirsty), *avoir chaud / froid* (hot / cold), *avoir sommeil* (sleepy), *avoir peur* (frightened). With *être*: *être fatigué(e)*, *être malade*, *être en forme* (to be fit, feel good)."
+  },
+  {
+   "heading": "The doctor's advice",
+   "body": "*Je vais vous examiner.* (I'm going to examine you.) *Respirez fort.* (Breathe deeply.) *Ce n'est pas grave.* (It's nothing serious.) *Je vous fais une ordonnance.* (I'll write you a prescription.) *Prenez ce médicament matin et soir pendant une semaine.* *Restez au lit et buvez beaucoup d'eau.* *Si ça ne va pas mieux, revenez me voir.* (If you're not better, come back and see me.)"
+  }
+ ],
+ "vocab": [
+  [
+   "le médecin traitant",
+   "the regular GP",
+   "lə me.dsɛ̃ tʁɛ.tɑ̃"
+  ],
+  [
+   "les urgences",
+   "A&E, the emergency department",
+   "le.z‿yʁ.ʒɑ̃s",
+   "f"
+  ],
+  [
+   "la toux",
+   "the cough",
+   "la tu"
+  ],
+  [
+   "tousser",
+   "to cough",
+   "tu.se"
+  ],
+  [
+   "éternuer",
+   "to sneeze",
+   "e.tɛʁ.nɥe"
+  ],
+  [
+   "enrhumé / enrhumée",
+   "having a cold",
+   "ɑ̃.ʁy.me / ɑ̃.ʁy.me"
+  ],
+  [
+   "la grippe",
+   "flu",
+   "la ɡʁip"
+  ],
+  [
+   "se casser",
+   "to break (a bone)",
+   "sə ka.se"
+  ],
+  [
+   "se couper",
+   "to cut oneself",
+   "sə ku.pe"
+  ],
+  [
+   "avoir faim",
+   "to be hungry",
+   "a.vwaʁ fɛ̃"
+  ],
+  [
+   "avoir soif",
+   "to be thirsty",
+   "a.vwaʁ swaf"
+  ],
+  [
+   "avoir peur",
+   "to be frightened",
+   "a.vwaʁ pœʁ"
+  ],
+  [
+   "en forme",
+   "fit, in good shape",
+   "ɑ̃ fɔʁm"
+  ],
+  [
+   "examiner",
+   "to examine",
+   "ɛɡ.za.mi.ne"
+  ],
+  [
+   "grave",
+   "serious",
+   "ɡʁav"
+  ],
+  [
+   "respirer",
+   "to breathe",
+   "ʁɛs.pi.ʁe"
+  ]
+ ],
+ "examples": [
+  [
+   "Je voudrais prendre rendez-vous avec le docteur Bernard.",
+   "I'd like to make an appointment with Dr Bernard."
+  ],
+  [
+   "Qu'est-ce qui vous amène ?",
+   "What brings you here?"
+  ],
+  [
+   "J'ai mal à la gorge et je tousse depuis deux jours.",
+   "I've had a sore throat and a cough for two days."
+  ],
+  [
+   "J'ai de la fièvre et j'ai mal partout.",
+   "I have a temperature and I ache all over."
+  ],
+  [
+   "Je suis enrhumée, j'ai le nez qui coule.",
+   "I've got a cold; my nose is running."
+  ],
+  [
+   "Je crois que j'ai la grippe.",
+   "I think I've got flu."
+  ],
+  [
+   "Il s'est cassé la jambe au ski.",
+   "He broke his leg skiing."
+  ],
+  [
+   "J'ai faim ! On mange quand ?",
+   "I'm hungry! When are we eating?"
+  ],
+  [
+   "Tu as soif ? Il y a de l'eau dans le frigo.",
+   "Are you thirsty? There's water in the fridge."
+  ],
+  [
+   "Je vais vous examiner. Respirez fort.",
+   "I'm going to examine you. Breathe deeply."
+  ],
+  [
+   "Ce n'est pas grave.",
+   "It's nothing serious."
+  ],
+  [
+   "Prenez ce médicament matin et soir pendant une semaine.",
+   "Take this medicine morning and evening for a week."
+  ],
+  [
+   "Si ça ne va pas mieux, revenez me voir.",
+   "If you're not better, come back and see me."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I'm hungry\"",
+   "options": [
+    "J'ai faim.",
+    "Je suis faim.",
+    "J'ai la faim."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm cold\" (I feel cold)",
+   "options": [
+    "J'ai froid.",
+    "Je suis froid.",
+    "Il fait froid moi."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "People *have* hot or cold: *j'ai froid*; the weather \"makes\" it: *il fait froid*."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I've got a cold\"",
+   "options": [
+    "Je suis enrhumé.",
+    "J'ai froid.",
+    "J'ai un froid."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ce n'est pas grave* means…",
+   "options": [
+    "It's nothing serious",
+    "It's not a grave",
+    "It's not heavy"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les urgences* is…",
+   "options": [
+    "A&E, the emergency department",
+    "the duty pharmacy",
+    "an urgent appointment"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'ai le nez qui coule* means…",
+   "options": [
+    "I've got a runny nose",
+    "My nose is broken",
+    "I can't smell anything"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je tousse* means…",
+   "options": [
+    "I'm coughing",
+    "I'm sneezing",
+    "I feel sick"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"He broke his leg\"",
+   "options": [
+    "Il s'est cassé la jambe.",
+    "Il a cassé sa jambe à lui.",
+    "Il est cassé la jambe."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Qu'est-ce qui vous amène ?* (at the doctor's) means…",
+   "options": [
+    "What brings you here?",
+    "Who brought you?",
+    "What did you bring?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The number for medical emergencies in France is…",
+   "options": [
+    "le 15",
+    "le 18",
+    "le 17"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*être en forme* means…",
+   "options": [
+    "to feel good, be fit",
+    "to be in shape (geometry)",
+    "to be on form only at sport"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai mal à la gorge et je ___ depuis deux jours.",
+   "answers": [
+    "tousse"
+   ],
+   "hint": "I've had a cough for two days."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai de la fièvre et j'ai mal ___.",
+   "answers": [
+    "partout"
+   ],
+   "hint": "I ache all over."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je crois que j'ai la ___.",
+   "answers": [
+    "grippe"
+   ],
+   "hint": "I think I've got flu."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il s'est ___ la jambe au ski.",
+   "answers": [
+    "cassé"
+   ],
+   "hint": "He broke his leg skiing."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ ! On mange quand ?",
+   "answers": [
+    "faim"
+   ],
+   "hint": "I'm hungry!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu as ___ ? Il y a de l'eau dans le frigo.",
+   "answers": [
+    "soif"
+   ],
+   "hint": "Are you thirsty?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce n'est pas ___.",
+   "answers": [
+    "grave"
+   ],
+   "hint": "It's nothing serious."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vais vous ___. Respirez fort.",
+   "answers": [
+    "examiner"
+   ],
+   "hint": "I'm going to examine you."
+  },
+  {
+   "type": "fill",
+   "prompt": "Si ça ne va pas ___, revenez me voir.",
+   "answers": [
+    "mieux"
+   ],
+   "hint": "If you're not better, come back."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm hungry.",
+   "answers": [
+    "J'ai faim."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm thirsty.",
+   "answers": [
+    "J'ai soif."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have a temperature.",
+   "answers": [
+    "J'ai de la fièvre."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I think I've got flu.",
+   "answers": [
+    "Je crois que j'ai la grippe.",
+    "Je pense que j'ai la grippe."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's nothing serious.",
+   "answers": [
+    "Ce n'est pas grave."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I've had a sore throat and a cough for two days.\"",
+   "answer": "J'ai mal à la gorge et je tousse depuis deux jours."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Take this medicine morning and evening for a week.\"",
+   "answer": "Prenez ce médicament matin et soir pendant une semaine."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'd like to make an appointment with Dr Bernard.\"",
+   "answer": "Je voudrais prendre rendez-vous avec le docteur Bernard."
+  }
+ ]
+}

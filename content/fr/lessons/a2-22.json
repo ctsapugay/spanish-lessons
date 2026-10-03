@@ -1,0 +1,391 @@
+{
+ "sections": [
+  {
+   "heading": "Asking for help",
+   "body": "- *Tu peux m'aider ?* / *Vous pouvez m'aider, s'il vous plaît ?* — Can you help me?\n- *Tu pourrais me donner un coup de main ?* — Could you give me a hand? (casual)\n- *J'ai besoin d'aide.* — I need help.\n- *Est-ce que je pourrais vous demander un service ?* — Could I ask you a favour?\n- *Ça vous dérange de… ?* — Would you mind…? *Ça vous dérange de fermer la fenêtre ?* → *Non, pas du tout.* (No, not at all — meaning \"I don't mind\".)"
+  },
+  {
+   "heading": "Offering help",
+   "body": "- *Je peux vous aider ?* — Can I help you?\n- *Tu veux que je t'aide ?* — Do you want me to help you? (you'll meet this *que* + verb form properly at B1 — use it as a fixed phrase)\n- *Besoin d'un coup de main ?* — Need a hand?\n- *Laisse, je m'en occupe.* — Leave it, I'll take care of it.\n- *Je vais le faire, si tu veux.* — I'll do it, if you like.\n\nAccepting: *Oui, merci, c'est gentil !* — *Volontiers !* Declining: *Non merci, ça va, j'y arrive.* (No thanks, I'm fine, I can manage.) — *C'est gentil, mais ce n'est pas la peine.* (That's kind, but there's no need.)"
+  },
+  {
+   "heading": "Saying what you want to do",
+   "body": "- *Je voudrais* / *J'aimerais* + infinitive — I'd like to…: *J'aimerais apprendre à cuisiner.*\n- *J'ai envie de…* — I feel like…\n- *J'ai l'intention de…* — I intend to…\n- *Je compte* + infinitive — I'm planning to…"
+  },
+  {
+   "heading": "Warnings",
+   "body": "- *Attention !* / *Fais attention !* — Careful!\n- *Attention à la marche !* — Mind the step!\n- *Ne touche pas à ça !* — Don't touch that!\n- *C'est dangereux.* — It's dangerous.\n- *Je te préviens : …* — I'm warning you: …"
+  }
+ ],
+ "vocab": [
+  [
+   "aider",
+   "to help",
+   "e.de"
+  ],
+  [
+   "l'aide",
+   "help",
+   "lɛd",
+   "f"
+  ],
+  [
+   "un coup de main",
+   "a hand (help)",
+   "œ̃ ku də mɛ̃"
+  ],
+  [
+   "le service",
+   "the favour; the service",
+   "lə sɛʁ.vis"
+  ],
+  [
+   "déranger",
+   "to disturb, to bother",
+   "de.ʁɑ̃.ʒe"
+  ],
+  [
+   "fermer",
+   "to close",
+   "fɛʁ.me"
+  ],
+  [
+   "la fenêtre",
+   "the window",
+   "la fə.nɛtʁ"
+  ],
+  [
+   "s'occuper de",
+   "to take care of",
+   "sɔ.ky.pe də"
+  ],
+  [
+   "la peine",
+   "the trouble, the effort",
+   "la pɛn"
+  ],
+  [
+   "arriver à",
+   "to manage to",
+   "a.ʁi.ve a"
+  ],
+  [
+   "la marche",
+   "the step",
+   "la maʁʃ"
+  ],
+  [
+   "dangereux / dangereuse",
+   "dangerous",
+   "dɑ̃ʒ.ʁø / dɑ̃ʒ.ʁøz"
+  ],
+  [
+   "prévenir",
+   "to warn",
+   "pʁev.niʁ"
+  ],
+  [
+   "cuisiner",
+   "to cook",
+   "kɥi.zi.ne"
+  ],
+  [
+   "porter",
+   "to carry",
+   "pɔʁ.te"
+  ],
+  [
+   "lourd / lourde",
+   "heavy",
+   "luʁ / luʁd"
+  ]
+ ],
+ "examples": [
+  [
+   "Vous pouvez m'aider, s'il vous plaît ?",
+   "Can you help me, please?"
+  ],
+  [
+   "Tu pourrais me donner un coup de main ?",
+   "Could you give me a hand?"
+  ],
+  [
+   "Ça vous dérange de fermer la fenêtre ? — Non, pas du tout.",
+   "Would you mind closing the window? — Not at all."
+  ],
+  [
+   "Je peux vous aider ? Ce sac a l'air lourd.",
+   "Can I help you? That bag looks heavy."
+  ],
+  [
+   "Tu veux que je t'aide ?",
+   "Do you want me to help you?"
+  ],
+  [
+   "Laisse, je m'en occupe.",
+   "Leave it, I'll take care of it."
+  ],
+  [
+   "Oui, merci, c'est gentil !",
+   "Yes, thanks, that's kind!"
+  ],
+  [
+   "Non merci, ça va, j'y arrive.",
+   "No thanks, I'm fine, I can manage."
+  ],
+  [
+   "C'est gentil, mais ce n'est pas la peine.",
+   "That's kind, but there's no need."
+  ],
+  [
+   "J'aimerais apprendre à cuisiner.",
+   "I'd like to learn to cook."
+  ],
+  [
+   "Attention à la marche !",
+   "Mind the step!"
+  ],
+  [
+   "Ne touche pas à ça, c'est dangereux !",
+   "Don't touch that, it's dangerous!"
+  ],
+  [
+   "Je peux porter ta valise, si tu veux.",
+   "I can carry your suitcase, if you like."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "You need help carrying something. You ask a stranger…",
+   "options": [
+    "Vous pouvez m'aider, s'il vous plaît ?",
+    "Aide-moi !",
+    "Tu m'aides ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*un coup de main* is…",
+   "options": [
+    "a hand (some help)",
+    "a punch",
+    "a handshake"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça vous dérange de fermer la fenêtre ?* — you don't mind. You say…",
+   "options": [
+    "Non, pas du tout.",
+    "Oui, bien sûr.",
+    "Oui, ça me dérange."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The question is \"does it bother you?\", so \"no\" means you'll happily do it."
+  },
+  {
+   "type": "mc",
+   "prompt": "Someone offers help but you can manage. You say…",
+   "options": [
+    "Non merci, ça va, j'y arrive.",
+    "Oui, avec plaisir.",
+    "Laisse, je m'en occupe."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ce n'est pas la peine* means…",
+   "options": [
+    "There's no need",
+    "It's not a pain",
+    "It's not a punishment"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Laisse, je m'en occupe* means…",
+   "options": [
+    "Leave it, I'll take care of it",
+    "Leave me alone",
+    "Let it be busy"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Attention à la marche !* means…",
+   "options": [
+    "Mind the step!",
+    "Watch the market!",
+    "Careful walking!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'd like to learn to cook\"",
+   "options": [
+    "J'aimerais apprendre à cuisiner.",
+    "J'aimerais apprendre cuisiner.",
+    "J'aime apprendre de cuisiner."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*lourd* means…",
+   "options": [
+    "heavy",
+    "loud",
+    "slow",
+    "dangerous"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*prévenir* means…",
+   "options": [
+    "to warn",
+    "to prevent",
+    "to come before"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous pouvez m'___, s'il vous plaît ?",
+   "answers": [
+    "aider"
+   ],
+   "hint": "Can you help me, please?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu pourrais me donner un coup de ___ ?",
+   "answers": [
+    "main"
+   ],
+   "hint": "Could you give me a hand?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça vous ___ de fermer la fenêtre ?",
+   "answers": [
+    "dérange"
+   ],
+   "hint": "Would you mind closing the window?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Laisse, je m'en ___.",
+   "answers": [
+    "occupe"
+   ],
+   "hint": "Leave it, I'll take care of it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Oui, merci, c'est ___ !",
+   "answers": [
+    "gentil"
+   ],
+   "hint": "Yes, thanks, that's kind!"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est gentil, mais ce n'est pas la ___.",
+   "answers": [
+    "peine"
+   ],
+   "hint": "That's kind, but there's no need."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'aimerais apprendre à ___.",
+   "answers": [
+    "cuisiner"
+   ],
+   "hint": "I'd like to learn to cook."
+  },
+  {
+   "type": "fill",
+   "prompt": "Attention à la ___ !",
+   "answers": [
+    "marche"
+   ],
+   "hint": "Mind the step!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ne touche pas à ça, c'est ___ !",
+   "answers": [
+    "dangereux"
+   ],
+   "hint": "Don't touch that, it's dangerous!"
+  },
+  {
+   "type": "translate",
+   "prompt": "Can you help me? (polite)",
+   "answers": [
+    "Vous pouvez m'aider ?",
+    "Pouvez-vous m'aider ?",
+    "Est-ce que vous pouvez m'aider ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I need help.",
+   "answers": [
+    "J'ai besoin d'aide."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Careful!",
+   "answers": [
+    "Attention !",
+    "Fais attention !",
+    "Faites attention !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That's kind!",
+   "answers": [
+    "C'est gentil !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's dangerous.",
+   "answers": [
+    "C'est dangereux."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Would you mind closing the window?\"",
+   "answer": "Ça vous dérange de fermer la fenêtre ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"No thanks, I'm fine, I can manage.\"",
+   "answer": "Non merci, ça va, j'y arrive."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I can carry your suitcase, if you like.\"",
+   "answer": "Je peux porter ta valise, si tu veux."
+  }
+ ]
+}

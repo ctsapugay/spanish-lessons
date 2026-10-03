@@ -1,0 +1,396 @@
+{
+ "sections": [
+  {
+   "heading": "Your job and workplace",
+   "body": "- *Je travaille dans une entreprise de…* (I work for a … company), *dans une banque*, *dans le commerce* (in retail), *dans l'informatique* (in IT), *dans l'enseignement* (in teaching).\n- *Je suis responsable de…* (I'm in charge of…). *Je m'occupe de la clientèle.* (I deal with customers.)\n- *Mon / ma chef* (my boss), *mes collègues*, *l'équipe* (the team), *le bureau* (the office), *la réunion* (meeting), *le salaire* (salary), *les horaires* (working hours).\n- *Je travaille à temps plein / à temps partiel.* (full-time / part-time) *Je fais du télétravail le vendredi.* (I work from home on Fridays.)"
+  },
+  {
+   "heading": "Contracts and job hunting",
+   "body": "In France: *un CDI* (*contrat à durée indéterminée* — a permanent contract) and *un CDD* (*contrat à durée déterminée* — a fixed-term contract); *un stage* (an internship); *être au chômage*; *chercher du travail*; *envoyer son CV et une lettre de motivation* (a cover letter); *passer un entretien d'embauche* (to have a job interview); *être embauché(e)* (to be hired)."
+  },
+  {
+   "heading": "Talking about your experience",
+   "body": "Use the passé composé for jobs you had, *pendant* for how long, and *depuis* for your current job:\n\n- *J'ai travaillé comme serveur pendant deux ans.* (I worked as a waiter for two years.) — *comme* + job, no article.\n- *Je travaille chez Renault depuis 2019.* (*chez* + company name)\n- *Avant, j'étais professeur ; maintenant je suis traductrice.*\n- *J'ai de l'expérience dans la vente.* (I have experience in sales.)\n- *Je parle trois langues et je sais utiliser Excel.*"
+  },
+  {
+   "heading": "Saying what you like about it",
+   "body": "*Ce que j'aime, c'est le contact avec les clients.* (What I like is…) *Le travail est intéressant mais les horaires sont difficiles.* *Je m'entends bien avec mes collègues.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le chef / la cheffe",
+   "the boss",
+   "lə ʃɛf / la ʃɛf"
+  ],
+  [
+   "l'équipe",
+   "the team",
+   "le.kip",
+   "f"
+  ],
+  [
+   "le salaire",
+   "the salary, the pay",
+   "lə sa.lɛʁ"
+  ],
+  [
+   "les horaires",
+   "working hours, timetable",
+   "le.z‿ɔ.ʁɛʁ",
+   "m"
+  ],
+  [
+   "à temps plein",
+   "full-time",
+   "a tɑ̃ plɛ̃"
+  ],
+  [
+   "à temps partiel",
+   "part-time",
+   "a tɑ̃ paʁ.sjɛl"
+  ],
+  [
+   "le télétravail",
+   "working from home",
+   "lə te.le.tʁa.vaj"
+  ],
+  [
+   "le contrat",
+   "the contract",
+   "lə kɔ̃.tʁa"
+  ],
+  [
+   "le stage",
+   "the internship",
+   "lə staʒ"
+  ],
+  [
+   "l'entretien",
+   "the interview",
+   "lɑ̃.tʁə.tjɛ̃",
+   "m"
+  ],
+  [
+   "embaucher",
+   "to hire",
+   "ɑ̃.bo.ʃe"
+  ],
+  [
+   "l'expérience",
+   "experience",
+   "lɛks.pe.ʁjɑ̃s",
+   "f"
+  ],
+  [
+   "la vente",
+   "sales, selling",
+   "la vɑ̃t"
+  ],
+  [
+   "le client / la cliente",
+   "the customer, the client",
+   "lə kli.jɑ̃ / la kli.jɑ̃t"
+  ],
+  [
+   "comme",
+   "as (a job)",
+   "kɔm"
+  ],
+  [
+   "l'informatique",
+   "IT, computing",
+   "lɛ̃.fɔʁ.ma.tik",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Je travaille dans une entreprise d'informatique.",
+   "I work for an IT company."
+  ],
+  [
+   "Je suis responsable de l'équipe de vente.",
+   "I'm in charge of the sales team."
+  ],
+  [
+   "Je travaille à temps partiel, le matin.",
+   "I work part-time, in the mornings."
+  ],
+  [
+   "Je fais du télétravail le vendredi.",
+   "I work from home on Fridays."
+  ],
+  [
+   "J'ai un CDI depuis l'année dernière.",
+   "I've had a permanent contract since last year."
+  ],
+  [
+   "J'ai fait un stage de six mois à Lyon.",
+   "I did a six-month internship in Lyon."
+  ],
+  [
+   "J'ai envoyé mon CV et une lettre de motivation.",
+   "I sent my CV and a cover letter."
+  ],
+  [
+   "Demain, je passe un entretien d'embauche.",
+   "Tomorrow I have a job interview."
+  ],
+  [
+   "J'ai travaillé comme serveur pendant deux ans.",
+   "I worked as a waiter for two years."
+  ],
+  [
+   "J'ai de l'expérience dans la vente.",
+   "I have experience in sales."
+  ],
+  [
+   "Ce que j'aime, c'est le contact avec les clients.",
+   "What I like is contact with customers."
+  ],
+  [
+   "Le travail est intéressant mais les horaires sont difficiles.",
+   "The work is interesting but the hours are difficult."
+  ],
+  [
+   "Ma cheffe est très sympa.",
+   "My boss is very nice. (a woman)"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I worked as a waiter\"",
+   "options": [
+    "J'ai travaillé comme serveur.",
+    "J'ai travaillé comme un serveur.",
+    "J'ai travaillé en serveur."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*comme* + job, no article."
+  },
+  {
+   "type": "mc",
+   "prompt": "*un CDI* is…",
+   "options": [
+    "a permanent contract",
+    "a fixed-term contract",
+    "an internship"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un stage* is…",
+   "options": [
+    "an internship",
+    "a stage in a theatre",
+    "a salary"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à temps partiel* means…",
+   "options": [
+    "part-time",
+    "full-time",
+    "from home"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le télétravail* is…",
+   "options": [
+    "working from home",
+    "working on the phone",
+    "TV work"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un entretien d'embauche* is…",
+   "options": [
+    "a job interview",
+    "a pay rise",
+    "a contract"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I've worked here since 2020\"",
+   "options": [
+    "Je travaille ici depuis 2020.",
+    "J'ai travaillé ici depuis 2020.",
+    "Je travaille ici pendant 2020."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*les horaires* are…",
+   "options": [
+    "working hours",
+    "hourly pay",
+    "the clocks"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je travaille ___ Renault.",
+   "options": [
+    "chez",
+    "à",
+    "dans le"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*chez* + a company name."
+  },
+  {
+   "type": "mc",
+   "prompt": "*embaucher* means…",
+   "options": [
+    "to hire",
+    "to fire",
+    "to train"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je travaille dans une ___ d'informatique.",
+   "answers": [
+    "entreprise"
+   ],
+   "hint": "I work for an IT company."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis responsable de l'___ de vente.",
+   "answers": [
+    "équipe"
+   ],
+   "hint": "I'm in charge of the sales team."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je travaille à temps ___, le matin.",
+   "answers": [
+    "partiel"
+   ],
+   "hint": "I work part-time, in the mornings."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai fait un ___ de six mois à Lyon.",
+   "answers": [
+    "stage"
+   ],
+   "hint": "I did a six-month internship in Lyon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Demain, je passe un ___ d'embauche.",
+   "answers": [
+    "entretien"
+   ],
+   "hint": "Tomorrow I have a job interview."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai travaillé ___ serveur pendant deux ans.",
+   "answers": [
+    "comme"
+   ],
+   "hint": "I worked as a waiter for two years."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai de l'___ dans la vente.",
+   "answers": [
+    "expérience"
+   ],
+   "hint": "I have experience in sales."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce que j'aime, c'est le contact avec les ___.",
+   "answers": [
+    "clients"
+   ],
+   "hint": "What I like is contact with customers."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le travail est intéressant mais les ___ sont difficiles.",
+   "answers": [
+    "horaires"
+   ],
+   "hint": "the hours are difficult."
+  },
+  {
+   "type": "translate",
+   "prompt": "I work part-time.",
+   "answers": [
+    "Je travaille à temps partiel."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I worked as a waiter.",
+   "answers": [
+    "J'ai travaillé comme serveur."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have a job interview tomorrow.",
+   "answers": [
+    "J'ai un entretien d'embauche demain.",
+    "Demain, j'ai un entretien d'embauche.",
+    "Je passe un entretien d'embauche demain."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My boss is nice.",
+   "answers": [
+    "Mon chef est sympa.",
+    "Ma cheffe est sympa.",
+    "Mon chef est gentil.",
+    "Ma cheffe est gentille."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I work from home on Fridays.",
+   "answers": [
+    "Je fais du télétravail le vendredi.",
+    "Je travaille à la maison le vendredi."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I sent my CV and a cover letter.\"",
+   "answer": "J'ai envoyé mon CV et une lettre de motivation."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm in charge of the sales team.\"",
+   "answer": "Je suis responsable de l'équipe de vente."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What I like is contact with customers.\"",
+   "answer": "Ce que j'aime, c'est le contact avec les clients."
+  }
+ ]
+}
