@@ -82,8 +82,9 @@ def known(word: str) -> bool:
         return True
     if "'" in w:
         pre, rest = w.split("'", 1)
-        return pre in ELISIONS and (rest == "" or known(rest))
-    if "-" in w:
+        if pre in ELISIONS and (rest == "" or known(rest)):
+            return True
+    if "-" in w:  # donne-m'en: each part on its own
         parts = w.split("-")
         return all(p == "t" or known(p) for p in parts if p != "")
     return False

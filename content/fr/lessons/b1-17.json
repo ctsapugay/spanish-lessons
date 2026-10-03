@@ -2,7 +2,7 @@
  "sections": [
   {
    "heading": "Forming the passive",
-   "body": "In the **passive**, the object of the action becomes the subject: *Le chat mange la souris* → *La souris **est mangée** par le chat.* (The mouse is eaten by the cat.)\n\nPassive = *être* (in the needed tense) + past participle, which **agrees** with the subject:\n\nThe agent (\"by…\") is introduced by *par*: *Ce tableau a été peint **par** Monet.* With verbs of feeling or description, *de* is common: *Elle est aimée **de** tous.* *La table est couverte **de** livres.*",
+   "body": "In the **passive**, the object of the action becomes the subject: *Le chat mange la souris* → *La souris est mangée par le chat.* (The mouse is eaten by the cat.)\n\nPassive = *être* (in the needed tense) + past participle, which **agrees** with the subject:\n\nThe agent (\"by…\") is introduced by *par*: *Ce tableau a été peint par Monet.* With verbs of feeling or description, *de* is common: *Elle est aimée de tous.* *La table est couverte de livres.*",
    "table": {
     "head": [
      "Tense",
@@ -11,23 +11,23 @@
     "rows": [
      [
       "présent",
-      "*La maison **est construite** en 2025.* — The house is being built…"
+      "*Le courrier est distribué le matin.* — The post is delivered in the morning."
      ],
      [
       "passé composé",
-      "*La maison **a été construite** en 1900.* — The house was built in 1900."
+      "*La maison a été construite en 1900.* — The house was built in 1900."
      ],
      [
       "imparfait",
-      "*Le pont **était fermé**.* — The bridge was closed."
+      "*Le pont était fermé.* — The bridge was closed."
      ],
      [
       "futur",
-      "*Les résultats **seront publiés** demain.* — The results will be published tomorrow."
+      "*Les résultats seront publiés demain.* — The results will be published tomorrow."
      ],
      [
       "plus-que-parfait",
-      "*La lettre **avait été envoyée**.* — The letter had been sent."
+      "*La lettre avait été envoyée.* — The letter had been sent."
      ]
     ]
    }
@@ -38,7 +38,7 @@
   },
   {
    "heading": "Avoiding the passive",
-   "body": "In everyday French, the passive is less used than in English. Two common alternatives:\n\n- ***on*** + active verb: *On a volé ma voiture.* (My car has been stolen.) *On parle français ici.* (French is spoken here.)\n- a **pronominal verb**: *Ce vin **se boit** frais.* (This wine is drunk cool.) *Ça **se dit** comment en français ?* (How is that said in French?) *Les billets **se vendent** en ligne.*\n\nOnly verbs with a direct object can become passive: ~~*Il a été téléphoné*~~ is impossible — say *On lui a téléphoné.*"
+   "body": "In everyday French, the passive is less used than in English. Two common alternatives:\n\n- ***on*** + active verb: *On a volé ma voiture.* (My car has been stolen.) *On parle français ici.* (French is spoken here.)\n- a **pronominal verb**: *Ce vin se boit frais.* (This wine is drunk cool.) *Ça se dit comment en français ?* (How is that said in French?) *Les billets se vendent en ligne.*\n\nOnly verbs with a direct object can become passive: ~~*Il a été téléphoné*~~ is impossible — say *On lui a téléphoné.*"
   }
  ],
  "vocab": [

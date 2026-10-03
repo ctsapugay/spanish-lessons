@@ -2,7 +2,7 @@
  "sections": [
   {
    "heading": "Two pronouns in a row",
-   "body": "When a sentence has both a direct and an indirect object, both can become pronouns: *Je donne **le livre** **à Léa*** → *Je **le lui** donne.* They always come in this order, before the verb:\n\n- *Il **me le** prête.* (He lends it to me.)\n- *Je **te les** envoie demain.* (I'll send them to you tomorrow.)\n- *Elle **la leur** a montrée.* (She showed it to them.)\n- *Je **lui en** ai parlé.* (I talked to him about it.)\n- *Il **y en** a.* (There is / are some.)\n- *Tu **m'en** donnes ?* (Will you give me some?)\n\nNote: *le, la, les* go **before** *lui, leur* but **after** *me, te, nous, vous*.",
+   "body": "When a sentence has both a direct and an indirect object, both can become pronouns: *Je donne le livre à Léa* → *Je le lui donne.* They always come in this order, before the verb:\n\n- *Il me le prête.* (He lends it to me.)\n- *Je te les envoie demain.* (I'll send them to you tomorrow.)\n- *Elle la leur a montrée.* (She showed it to them.)\n- *Je lui en ai parlé.* (I talked to him about it.)\n- *Il y en a.* (There is / are some.)\n- *Tu m'en donnes ?* (Will you give me some?)\n\nNote: *le, la, les* go **before** *lui, leur* but **after** *me, te, nous, vous*.",
    "table": {
     "head": [
      "1",
@@ -24,11 +24,11 @@
   },
   {
    "heading": "Negative and compound tenses",
-   "body": "The block of pronouns stays together before the verb (before *avoir / être* in compound tenses), and *ne… pas* surrounds the whole block: *Je **ne le lui** ai **pas** dit.* (I didn't tell him.) *Ne **me le** dis **pas !***"
+   "body": "The block of pronouns stays together before the verb (before *avoir / être* in compound tenses), and *ne… pas* surrounds the whole block: *Je ne le lui ai pas dit.* (I didn't tell him.) *Ne me le dis pas !*"
   },
   {
    "heading": "In positive commands",
-   "body": "In a positive imperative, the pronouns go after the verb, with **le / la / les first**, then the others: *Donne-**le-moi !*** (Give it to me!) *Envoie-**les-lui**.* *Donne-**m'en**.* (Give me some.) In the negative, back to normal order: *Ne **me le** donne pas.*"
+   "body": "In a positive imperative, the pronouns go after the verb, with **le / la / les first**, then the others: *Donne-le-moi !* (Give it to me!) *Envoie-les-lui.* *Donne-m'en.* (Give me some.) In the negative, back to normal order: *Ne me le donne pas.*"
   }
  ],
  "vocab": [

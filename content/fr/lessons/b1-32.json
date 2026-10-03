@@ -1,0 +1,370 @@
+{
+ "sections": [
+  {
+   "heading": "Studying and training as an adult",
+   "body": "- *la formation continue* — continuing education, training while working\n- *suivre une formation / un cours* — to take a course\n- *reprendre ses études* — to go back to studying\n- *se former à…* / *se reconvertir* — to train in… / to change career: *Elle s'est reconvertie dans l'informatique.*\n- *obtenir un diplôme*, *un certificat*, *une attestation* (a certificate of attendance)\n- *le cours en ligne* (online course), *le cours du soir* (evening class), *à distance* (remotely)\n- *l'apprentissage* — learning; also apprenticeship (*être en apprentissage*)\n- Opinions: *C'est enrichissant.* (It's rewarding.) *Ça demande beaucoup de discipline.* *Il n'est jamais trop tard pour apprendre.*"
+  },
+  {
+   "heading": "Health and wellbeing",
+   "body": "*le bien-être* (wellbeing), *la santé*, *être en bonne santé*, *garder la forme* (to keep fit), *faire attention à son alimentation* (to watch what you eat), *dormir suffisamment* (to get enough sleep), *le stress*, *être stressé(e)*, *se détendre* (to relax), *la méditation*, *faire une pause* (to take a break), *l'équilibre entre vie professionnelle et vie privée* (work-life balance)."
+  },
+  {
+   "heading": "Obligations and advice about health",
+   "body": "- *Il faut que tu dormes plus.* (subjunctive) — *Tu devrais faire du sport.* (conditional) — *Il est important de bien manger.* — *Il est conseillé de boire deux litres d'eau par jour.* (It's advisable to…)\n- *Mon médecin m'a conseillé de* + infinitive: *de faire de la marche* (to walk), *d'arrêter de fumer*.\n- *Je suis obligé(e) de* — I have to: *Je suis obligée de prendre des médicaments.*"
+  }
+ ],
+ "vocab": [
+  [
+   "la formation continue",
+   "continuing education",
+   "la fɔʁ.ma.sjɔ̃ kɔ̃.ti.ny"
+  ],
+  [
+   "reprendre ses études",
+   "to go back to studying",
+   "ʁə.pʁɑ̃dʁ se.z‿e.tyd"
+  ],
+  [
+   "se reconvertir",
+   "to change career",
+   "sə ʁə.kɔ̃.vɛʁ.tiʁ"
+  ],
+  [
+   "le certificat",
+   "the certificate",
+   "lə sɛʁ.ti.fi.ka"
+  ],
+  [
+   "à distance",
+   "remotely",
+   "a dis.tɑ̃s"
+  ],
+  [
+   "l'apprentissage",
+   "learning; apprenticeship",
+   "la.pʁɑ̃.ti.saʒ",
+   "m"
+  ],
+  [
+   "enrichissant / enrichissante",
+   "rewarding, enriching",
+   "ɑ̃.ʁi.ʃi.sɑ̃ / ɑ̃.ʁi.ʃi.sɑ̃t"
+  ],
+  [
+   "le bien-être",
+   "wellbeing",
+   "lə bjɛ̃.n‿ɛtʁ"
+  ],
+  [
+   "garder la forme",
+   "to keep fit",
+   "ɡaʁ.de la fɔʁm"
+  ],
+  [
+   "l'alimentation",
+   "diet, food",
+   "la.li.mɑ̃.ta.sjɔ̃",
+   "f"
+  ],
+  [
+   "suffisamment",
+   "enough, sufficiently",
+   "sy.fi.za.mɑ̃"
+  ],
+  [
+   "le stress",
+   "stress",
+   "lə stʁɛs"
+  ],
+  [
+   "se détendre",
+   "to relax",
+   "sə de.tɑ̃dʁ"
+  ],
+  [
+   "l'équilibre",
+   "balance",
+   "le.ki.libʁ",
+   "m"
+  ],
+  [
+   "conseillé / conseillée",
+   "advisable, advised",
+   "kɔ̃.se.je / kɔ̃.se.je"
+  ]
+ ],
+ "examples": [
+  [
+   "J'ai décidé de reprendre mes études à quarante ans.",
+   "I decided to go back to studying at forty."
+  ],
+  [
+   "Elle s'est reconvertie dans l'informatique.",
+   "She changed career and went into IT."
+  ],
+  [
+   "Je suis une formation à distance le soir.",
+   "I'm doing a remote course in the evenings."
+  ],
+  [
+   "C'est très enrichissant, mais ça demande beaucoup de discipline.",
+   "It's very rewarding, but it takes a lot of discipline."
+  ],
+  [
+   "Il n'est jamais trop tard pour apprendre.",
+   "It's never too late to learn."
+  ],
+  [
+   "Pour garder la forme, je fais de la marche tous les jours.",
+   "To keep fit, I walk every day."
+  ],
+  [
+   "Il faut que tu dormes plus.",
+   "You need to sleep more."
+  ],
+  [
+   "Il est conseillé de boire deux litres d'eau par jour.",
+   "It's advisable to drink two litres of water a day."
+  ],
+  [
+   "Mon médecin m'a conseillé de faire attention à mon alimentation.",
+   "My doctor advised me to watch what I eat."
+  ],
+  [
+   "Je suis souvent stressé au travail.",
+   "I'm often stressed at work."
+  ],
+  [
+   "Le week-end, j'essaie de me détendre.",
+   "At the weekend I try to relax."
+  ],
+  [
+   "Il est difficile de trouver l'équilibre entre vie professionnelle et vie privée.",
+   "It's hard to find a work-life balance."
+  ],
+  [
+   "Le bien-être des employés est important pour l'entreprise.",
+   "Employees' wellbeing matters to the company."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*se reconvertir* means…",
+   "options": [
+    "to change career",
+    "to convert religion",
+    "to reconvert money"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*reprendre ses études* means…",
+   "options": [
+    "to go back to studying",
+    "to take back one's studies",
+    "to resume work"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à distance* means…",
+   "options": [
+    "remotely",
+    "at a distance from home only",
+    "far away"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*enrichissant* means…",
+   "options": [
+    "rewarding",
+    "making rich",
+    "expensive"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*garder la forme* means…",
+   "options": [
+    "to keep fit",
+    "to keep the shape of something",
+    "to guard the form"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*se détendre* means…",
+   "options": [
+    "to relax",
+    "to stretch",
+    "to defend oneself"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il faut que tu ___ plus.",
+   "options": [
+    "dormes",
+    "dors",
+    "dormiras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il est conseillé de…* means…",
+   "options": [
+    "It's advisable to…",
+    "He's a counsellor of…",
+    "It's compulsory to…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le bien-être* is…",
+   "options": [
+    "wellbeing",
+    "well-done",
+    "good being in a story"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'équilibre entre vie professionnelle et vie privée* is…",
+   "options": [
+    "work-life balance",
+    "private professional life",
+    "the balance of a company"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai décidé de ___ mes études à quarante ans.",
+   "answers": [
+    "reprendre"
+   ],
+   "hint": "I decided to go back to studying."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle s'est ___ dans l'informatique.",
+   "answers": [
+    "reconvertie"
+   ],
+   "hint": "She changed career and went into IT."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis une formation à ___ le soir.",
+   "answers": [
+    "distance"
+   ],
+   "hint": "I'm doing a remote course."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est très ___, mais ça demande beaucoup de discipline.",
+   "answers": [
+    "enrichissant"
+   ],
+   "hint": "It's very rewarding…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Pour garder la ___, je fais de la marche.",
+   "answers": [
+    "forme"
+   ],
+   "hint": "To keep fit, I walk."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut que tu ___ plus. (dormir)",
+   "answers": [
+    "dormes"
+   ],
+   "hint": "You need to sleep more."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est ___ de boire deux litres d'eau par jour.",
+   "answers": [
+    "conseillé"
+   ],
+   "hint": "It's advisable to drink…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le week-end, j'essaie de me ___.",
+   "answers": [
+    "détendre"
+   ],
+   "hint": "At the weekend I try to relax."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ des employés est important.",
+   "answers": [
+    "bien-être"
+   ],
+   "hint": "Employees' wellbeing matters."
+  },
+  {
+   "type": "translate",
+   "prompt": "It's never too late to learn.",
+   "answers": [
+    "Il n'est jamais trop tard pour apprendre."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm often stressed.",
+   "answers": [
+    "Je suis souvent stressé.",
+    "Je suis souvent stressée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "You should do sport. (to a friend)",
+   "answers": [
+    "Tu devrais faire du sport."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I try to relax.",
+   "answers": [
+    "J'essaie de me détendre.",
+    "J'essaye de me détendre."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My doctor advised me to watch what I eat.\"",
+   "answer": "Mon médecin m'a conseillé de faire attention à mon alimentation."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's advisable to drink two litres of water a day.\"",
+   "answer": "Il est conseillé de boire deux litres d'eau par jour."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's very rewarding, but it takes a lot of discipline.\"",
+   "answer": "C'est très enrichissant, mais ça demande beaucoup de discipline."
+  }
+ ]
+}

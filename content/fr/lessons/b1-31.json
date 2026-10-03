@@ -1,0 +1,363 @@
+{
+ "sections": [
+  {
+   "heading": "Summarising: what's essential",
+   "body": "A summary (*un résumé*) keeps the essential and drops the details. Typical steps:\n\n1. **identify** the source and its topic: *Il s'agit d'un article paru dans Le Monde, qui traite de…* (It's an article from Le Monde, which deals with…)\n2. **state** the main idea: *L'auteur explique que…* / *Selon l'auteur, …*\n3. **list** the key points in your own words: *D'abord, … Ensuite, … Enfin, …*\n4. **conclude**: *En résumé, …* / *Bref, …* (In short…)\n\nUseful phrases: *Il s'agit de…* (It's about… — always with *il*), *Le texte traite de…* / *porte sur…* (deals with), *L'idée principale, c'est que…*, *Le journaliste souligne que…* (stresses that), *Il cite l'exemple de…*, *Il conclut que…*."
+  },
+  {
+   "heading": "Reporting verbs to vary your summary",
+   "body": "*expliquer*, *affirmer* (state), *souligner* (stress), *rappeler* (remind), *préciser* (specify), *montrer* (show), *constater* (note), *proposer*, *critiquer*, *se demander* (wonder): *La journaliste se demande si ces mesures seront efficaces.*"
+  },
+  {
+   "heading": "Adding your opinion",
+   "body": "After the summary, give your point of view — and justify it: *Personnellement, je trouve que l'auteur a raison, car…* — *Je suis d'accord avec lui sur un point : …* — *En revanche, je ne pense pas que…* (+ subjunctive) — *Cet article m'a fait réfléchir.* (This article made me think.)"
+  },
+  {
+   "heading": "Summing up an interview or a documentary",
+   "body": "*Dans cette interview, la chanteuse parle de son nouvel album. Elle explique qu'elle l'a écrit pendant le confinement* (lockdown)*. Elle souligne aussi l'importance de sa famille. Bref, c'est un portrait très personnel.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le résumé",
+   "the summary",
+   "lə ʁe.zy.me"
+  ],
+  [
+   "il s'agit de",
+   "it's about",
+   "il sa.ʒi də"
+  ],
+  [
+   "traiter de",
+   "to deal with",
+   "tʁɛ.te də"
+  ],
+  [
+   "porter sur",
+   "to be about, to concern",
+   "pɔʁ.te syʁ"
+  ],
+  [
+   "principal / principale",
+   "main",
+   "pʁɛ̃.si.pal / pʁɛ̃.si.pal"
+  ],
+  [
+   "souligner",
+   "to stress, to underline",
+   "su.li.ɲe"
+  ],
+  [
+   "rappeler",
+   "to remind, to recall",
+   "ʁa.ple"
+  ],
+  [
+   "préciser",
+   "to specify",
+   "pʁe.si.ze"
+  ],
+  [
+   "constater",
+   "to note, to observe",
+   "kɔ̃s.ta.te"
+  ],
+  [
+   "se demander",
+   "to wonder",
+   "sə də.mɑ̃.de"
+  ],
+  [
+   "bref",
+   "in short",
+   "bʁɛf"
+  ],
+  [
+   "la mesure",
+   "the measure",
+   "la mə.zyʁ"
+  ],
+  [
+   "efficace",
+   "effective",
+   "e.fi.kas"
+  ],
+  [
+   "citer",
+   "to quote, to cite",
+   "si.te"
+  ]
+ ],
+ "examples": [
+  [
+   "Il s'agit d'un article paru dans Le Monde.",
+   "It's an article from Le Monde."
+  ],
+  [
+   "Le texte traite de la pollution dans les grandes villes.",
+   "The text deals with pollution in big cities."
+  ],
+  [
+   "L'idée principale, c'est que les transports doivent changer.",
+   "The main idea is that transport has to change."
+  ],
+  [
+   "L'auteur explique que la circulation a augmenté de vingt pour cent.",
+   "The author explains that traffic has risen by twenty per cent."
+  ],
+  [
+   "Le journaliste souligne que les enfants sont les plus touchés.",
+   "The journalist stresses that children are the most affected."
+  ],
+  [
+   "Il cite l'exemple de Copenhague.",
+   "He cites the example of Copenhagen."
+  ],
+  [
+   "La journaliste se demande si ces mesures seront efficaces.",
+   "The journalist wonders whether these measures will be effective."
+  ],
+  [
+   "En résumé, l'article propose plusieurs solutions.",
+   "In summary, the article proposes several solutions."
+  ],
+  [
+   "Bref, c'est un portrait très personnel.",
+   "In short, it's a very personal portrait."
+  ],
+  [
+   "Personnellement, je trouve que l'auteur a raison.",
+   "Personally, I think the author is right."
+  ],
+  [
+   "Cet article m'a fait réfléchir.",
+   "This article made me think."
+  ],
+  [
+   "Le documentaire porte sur la vie des abeilles.",
+   "The documentary is about the life of bees."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Il s'agit de…* means…",
+   "options": [
+    "It's about…",
+    "He's acting…",
+    "It's necessary to…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le texte traite de…* means…",
+   "options": [
+    "The text deals with…",
+    "The text treats… medically",
+    "The text trades…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*souligner* means…",
+   "options": [
+    "to stress, to underline",
+    "to sign under",
+    "to summarise"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*se demander* means…",
+   "options": [
+    "to wonder",
+    "to ask someone",
+    "to demand"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Bref, …* means…",
+   "options": [
+    "In short, …",
+    "Briefly spoken, … only",
+    "Briefcase…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*efficace* means…",
+   "options": [
+    "effective",
+    "efficient only for machines",
+    "expensive"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ s'agit d'un article paru dans Le Monde.",
+   "options": [
+    "Il",
+    "Elle",
+    "Ce"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*Il s'agit de* always takes *il*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ne pense pas que l'auteur ___ raison.",
+   "options": [
+    "ait",
+    "a",
+    "aura"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is a step in a good summary?",
+   "options": [
+    "stating the main idea",
+    "copying whole sentences",
+    "giving every detail"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Cet article m'a fait réfléchir* means…",
+   "options": [
+    "This article made me think",
+    "This article reflected me",
+    "I made this article think"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il s'___ d'un article paru dans Le Monde.",
+   "answers": [
+    "agit"
+   ],
+   "hint": "It's an article from Le Monde."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le texte ___ de la pollution dans les grandes villes.",
+   "answers": [
+    "traite"
+   ],
+   "hint": "The text deals with pollution."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'idée ___, c'est que les transports doivent changer.",
+   "answers": [
+    "principale"
+   ],
+   "hint": "The main idea is…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le journaliste ___ que les enfants sont les plus touchés.",
+   "answers": [
+    "souligne"
+   ],
+   "hint": "The journalist stresses that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ l'exemple de Copenhague.",
+   "answers": [
+    "cite"
+   ],
+   "hint": "He cites the example of Copenhagen."
+  },
+  {
+   "type": "fill",
+   "prompt": "La journaliste se ___ si ces mesures seront efficaces.",
+   "answers": [
+    "demande"
+   ],
+   "hint": "The journalist wonders whether…"
+  },
+  {
+   "type": "fill",
+   "prompt": "En ___, l'article propose plusieurs solutions.",
+   "answers": [
+    "résumé"
+   ],
+   "hint": "In summary…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___, c'est un portrait très personnel.",
+   "answers": [
+    "Bref"
+   ],
+   "hint": "In short, it's a very personal portrait."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le documentaire ___ sur la vie des abeilles.",
+   "answers": [
+    "porte"
+   ],
+   "hint": "The documentary is about the life of bees."
+  },
+  {
+   "type": "translate",
+   "prompt": "It's about pollution.",
+   "answers": [
+    "Il s'agit de la pollution."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "In short, …",
+   "answers": [
+    "Bref, …",
+    "En bref, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The author explains that…",
+   "answers": [
+    "L'auteur explique que…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "This article made me think.",
+   "answers": [
+    "Cet article m'a fait réfléchir."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The text deals with pollution in big cities.\"",
+   "answer": "Le texte traite de la pollution dans les grandes villes."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The journalist wonders whether these measures will be effective.\"",
+   "answer": "La journaliste se demande si ces mesures seront efficaces."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The main idea is that transport has to change.\"",
+   "answer": "L'idée principale, c'est que les transports doivent changer."
+  }
+ ]
+}

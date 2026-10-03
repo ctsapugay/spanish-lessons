@@ -166,3 +166,8 @@ reader: state, not narrative.
 - 30 lessons a2-01 … a2-30. "French content ok: 30 lessons"; accuracy "30 lessons, 12770 words … 440 vocabulary genders and pronunciation guides match, 58 lexicon notes".
 - Checker refinements (my own new check, bug/scope fixes): lexicon notes add a pronunciation rather than replace Lexique's; a schwa shown in a guide may be absent from Lexique (quelque /kɛl.kə/); liaison may link the parts of a hyphenated word (allons-y). Verified each still rejects real errors (deux /d/, invented consonants).
 - Review curriculum/fr/reviews/A2.md: 12 findings with fixes (wrong liaison rule for quand, ambiguous PC/imparfait items, a wrong answer key, invented distractors…).
+
+## 2026-10-03 — French B1 written and reviewed
+- 32 lessons b1-01 … b1-32; all 92 French lessons: content ok; accuracy "92 lessons, 37467 words … 1370 vocabulary genders and pronunciation guides match, 74 lexicon notes".
+- Found that bold inside italic French hid words from the checks (112 places across A1–B1) → removed; this exposed a lookup gap (hyphen + elision, Donne-m'en) → fixed in frlex.py (check made able to see more, not less).
+- Review curriculum/fr/reviews/B1.md: 13 findings with fixes. Spanish content check still "162 lessons" ok.
