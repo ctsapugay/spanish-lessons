@@ -137,6 +137,17 @@ function progressUpTo(c, lessonId) {
 }
 const langOf = (st) => st.langs[st.language];
 
+// Answer the current question with anything at all (the result doesn't matter).
+async function answerAnyhow(page) {
+  const q = page.locator(".question");
+  const type = await q.getAttribute("data-type");
+  if (type === "mc") await q.locator("[data-option]").first().click();
+  else {
+    if (type !== "build") await q.locator("input").fill("x");
+    await q.locator("[data-action=check]").click();
+  }
+}
+
 // Answer the current question; plan(i) returns true (answer right) or false (answer wrong).
 async function answerAll(page, plan) {
   const seen = [];
@@ -588,6 +599,7 @@ async function scenarioLanguageSwitching() {
   await verify("after switching");
   await openCourse(page, BASE, "es");
   await page.reload();
+  await page.waitForFunction(() => document.getElementById("app").dataset.lang);
   const kept = await page.evaluate(() => window.COURSE.lang.code);
   check("the language being learned is remembered after a reload", kept === "es", kept);
   await verify("after a reload");
@@ -637,10 +649,7 @@ async function scenarioVoices() {
     let listen = 0;
     for (let i = 0; i < 12 && (await page.locator(".question").count()); i++) {
       if ((await page.locator(".question").getAttribute("data-type")) === "listen") listen++;
-      await page.locator(".question [data-option]").first().click().catch(async () => {
-        await page.locator(".question input").fill("x").catch(() => {});
-        await page.locator(".question [data-action=check]").click();
-      });
+      await answerAnyhow(page);
       await page.locator(".question .feedback").waitFor();
       await page.click(".question [data-action=next]");
     }
@@ -685,10 +694,7 @@ async function scenarioFrenchTyping() {
           await page.click(".question [data-action=check]");
           return page.getAttribute(".question .feedback", "class");
         }
-        await page.locator(".question [data-option]").first().click().catch(async () => {
-          await page.locator(".question input").fill("x").catch(() => {});
-          await page.locator(".question [data-action=check]").click();
-        });
+        await answerAnyhow(page);
         await page.locator(".question .feedback").waitFor();
         await page.click(".question [data-action=next]");
       }
