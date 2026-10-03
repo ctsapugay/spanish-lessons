@@ -1,0 +1,391 @@
+{
+ "sections": [
+  {
+   "heading": "Saying what you like",
+   "body": "Four verbs, from love to hate — all regular **-er** verbs:\n\n- *adorer* — to love, to adore: *J'adore le cinéma.*\n- *aimer* — to like, to love: *J'aime la musique.* (With people, *aimer* means \"love\": *Je t'aime.*) To say \"like\" about a person, use *aimer bien*: *J'aime bien Hugo.*\n- *aimer bien* — to quite like: *J'aime bien le sport.*\n- *détester* — to hate: *Je déteste le froid.*\n\nAfter these verbs, French uses the **definite article** (*le, la, l', les*) to talk about things in general — where English uses nothing: *J'aime le café.* (I like coffee.) *Elle adore les chats.* (She loves cats.)\n\nThey can also be followed by a verb in the infinitive: *J'aime danser.* (I like dancing.) *Tu aimes voyager ?*"
+  },
+  {
+   "heading": "Ne… pas: making a sentence negative",
+   "body": "Put *ne* before the verb and *pas* after it: *Je ne parle pas italien.* *Il ne travaille pas le dimanche.* Before a vowel or silent h, *ne* becomes *n'*: *Je n'aime pas le froid.* *Elle n'habite pas à Paris.*\n\nIn everyday speech the *ne* is often dropped — *J'aime pas ça* — but always write it, and say it when you want to be correct."
+  },
+  {
+   "heading": "Pas de: \"not any\"",
+   "body": "After a negative verb, *un*, *une* and *des* become *de* (or *d'* before a vowel): *J'ai un chat* → *Je n'ai pas de chat.* (I don't have a cat.) *Il y a des enfants* → *Il n'y a pas d'enfants.* But *le, la, les* don't change: *Je n'aime pas le café.*"
+  },
+  {
+   "heading": "Me too, me neither",
+   "body": "- *J'aime le sport. — Moi aussi !* (Me too!)\n- *Je n'aime pas le froid. — Moi non plus.* (Me neither.)\n- *J'adore le jazz. — Pas moi !* (Not me!)\n- *Tu n'aimes pas le chocolat ? — Si !* (Yes, I do!) — *si* answers \"yes\" to a **negative** question."
+  }
+ ],
+ "vocab": [
+  [
+   "adorer",
+   "to love, to adore",
+   "a.dɔ.ʁe"
+  ],
+  [
+   "aimer bien",
+   "to quite like",
+   "e.me bjɛ̃"
+  ],
+  [
+   "détester",
+   "to hate",
+   "de.tɛs.te"
+  ],
+  [
+   "le cinéma",
+   "the cinema, movies",
+   "lə si.ne.ma"
+  ],
+  [
+   "le sport",
+   "sport",
+   "lə spɔʁ"
+  ],
+  [
+   "le chat",
+   "the cat",
+   "lə ʃa"
+  ],
+  [
+   "le chien",
+   "the dog",
+   "lə ʃjɛ̃"
+  ],
+  [
+   "le froid",
+   "the cold",
+   "lə fʁwa"
+  ],
+  [
+   "danser",
+   "to dance",
+   "dɑ̃.se"
+  ],
+  [
+   "voyager",
+   "to travel",
+   "vwa.ja.ʒe"
+  ],
+  [
+   "le chocolat",
+   "chocolate",
+   "lə ʃɔ.kɔ.la"
+  ],
+  [
+   "ne… pas",
+   "not",
+   "nə pa"
+  ],
+  [
+   "moi non plus",
+   "me neither",
+   "mwa nɔ̃ ply"
+  ],
+  [
+   "si",
+   "yes (to a negative question)",
+   "si"
+  ],
+  [
+   "ça",
+   "that, it",
+   "sa"
+  ]
+ ],
+ "examples": [
+  [
+   "J'adore le cinéma.",
+   "I love movies."
+  ],
+  [
+   "Elle aime beaucoup la musique.",
+   "She really likes music."
+  ],
+  [
+   "J'aime bien le sport.",
+   "I quite like sport."
+  ],
+  [
+   "Il déteste le froid.",
+   "He hates the cold."
+  ],
+  [
+   "Tu aimes voyager ?",
+   "Do you like travelling?"
+  ],
+  [
+   "Je ne parle pas italien.",
+   "I don't speak Italian."
+  ],
+  [
+   "Elle n'habite pas à Paris.",
+   "She doesn't live in Paris."
+  ],
+  [
+   "Je n'ai pas de chien.",
+   "I don't have a dog."
+  ],
+  [
+   "Il n'y a pas d'enfants ici.",
+   "There are no children here."
+  ],
+  [
+   "Je n'aime pas le froid. — Moi non plus.",
+   "I don't like the cold. — Me neither."
+  ],
+  [
+   "J'aime danser. — Moi aussi !",
+   "I like dancing. — Me too!"
+  ],
+  [
+   "Tu n'aimes pas le chocolat ? — Si, j'adore ça !",
+   "Don't you like chocolate? — Yes, I love it!"
+  ],
+  [
+   "Nous ne travaillons pas le dimanche.",
+   "We don't work on Sundays."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I like coffee\" is…",
+   "options": [
+    "J'aime le café.",
+    "J'aime café.",
+    "J'aime un café."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "For things in general, French uses *le, la, les*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle adore ___ chats.",
+   "options": [
+    "les",
+    "des",
+    "de"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Je parle italien.*",
+   "options": [
+    "Je ne parle pas italien.",
+    "Je parle ne pas italien.",
+    "Je ne pas parle italien."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *J'ai un chat.*",
+   "options": [
+    "Je n'ai pas de chat.",
+    "Je n'ai pas un chat.",
+    "Je n'ai un chat pas."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "After a negative, *un/une/des* become *de*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *J'aime le café.*",
+   "options": [
+    "Je n'aime pas le café.",
+    "Je n'aime pas de café.",
+    "Je ne aime pas le café."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*le, la, les* don't change after a negative."
+  },
+  {
+   "type": "mc",
+   "prompt": "Your friend says *Je n'aime pas le froid.* You agree:",
+   "options": [
+    "Moi non plus.",
+    "Moi aussi.",
+    "Si !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Your friend says *J'adore danser !* You agree:",
+   "options": [
+    "Moi aussi !",
+    "Moi non plus.",
+    "Pas moi !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Someone asks *Tu n'aimes pas le chocolat ?* You do like it. You say…",
+   "options": [
+    "Si !",
+    "Oui !",
+    "Non !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is the strongest?",
+   "options": [
+    "adorer",
+    "aimer bien",
+    "aimer"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In spoken French, *J'aime pas ça* is…",
+   "options": [
+    "common, but write *Je n'aime pas ça*",
+    "always wrong",
+    "more polite than *Je n'aime pas ça*"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il n'y a pas ___ enfants ici.",
+   "options": [
+    "d'",
+    "des",
+    "les"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'___ le cinéma. (adorer)",
+   "answers": [
+    "adore"
+   ],
+   "hint": "I love movies."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne parle ___ italien.",
+   "answers": [
+    "pas"
+   ],
+   "hint": "I don't speak Italian."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle n'___ pas à Paris. (habiter)",
+   "answers": [
+    "habite"
+   ],
+   "hint": "She doesn't live in Paris."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'ai pas ___ chien.",
+   "answers": [
+    "de"
+   ],
+   "hint": "I don't have a dog."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ le froid. (détester)",
+   "answers": [
+    "déteste"
+   ],
+   "hint": "He hates the cold."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'aime pas le froid. — Moi non ___.",
+   "answers": [
+    "plus"
+   ],
+   "hint": "I don't like the cold. — Me neither."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu aimes ___ ?",
+   "answers": [
+    "voyager"
+   ],
+   "hint": "Do you like travelling?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ne ___ pas le dimanche. (travailler)",
+   "answers": [
+    "travaillons"
+   ],
+   "hint": "We don't work on Sundays."
+  },
+  {
+   "type": "translate",
+   "prompt": "I like music.",
+   "answers": [
+    "J'aime la musique."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She doesn't like sport.",
+   "answers": [
+    "Elle n'aime pas le sport."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't have a cat.",
+   "answers": [
+    "Je n'ai pas de chat."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Me neither.",
+   "answers": [
+    "Moi non plus."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We love travelling.",
+   "answers": [
+    "Nous adorons voyager.",
+    "On adore voyager."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I don't like the cold.\"",
+   "answer": "Je n'aime pas le froid."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"There are no children here.\"",
+   "answer": "Il n'y a pas d'enfants ici."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We don't work on Sundays.\"",
+   "answer": "Nous ne travaillons pas le dimanche."
+  }
+ ]
+}

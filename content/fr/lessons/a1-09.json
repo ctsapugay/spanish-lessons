@@ -1,0 +1,394 @@
+{
+ "sections": [
+  {
+   "heading": "Why the vowels matter",
+   "body": "French has more vowel sounds than Spanish or Italian, and several pairs change the meaning of a word: *dessus* (on top) and *dessous* (underneath) differ only in their last vowel. This lesson trains your ear and mouth on the pairs that matter most. Listen to each example several times."
+  },
+  {
+   "heading": "[i], [y] and [u]: i, u, ou",
+   "body": "- **[i]** — written **i** or **y**: *il*, *lit*, *ici*. Lips spread, like a smile.\n- **[y]** — written **u**: *tu*, *rue*, *salut*. Keep your tongue where it is for [i], then round your lips tightly. English has no such sound.\n- **[u]** — written **ou**: *vous*, *rouge*, *bonjour*. Like \"oo\" in \"food\", but tenser.\n\nCompare these everyday pairs: *tu* /ty/ — *tout* /tu/ (all); *rue* /ʁy/ (street) — *roue* /ʁu/ (wheel); *dessus* — *dessous*."
+  },
+  {
+   "heading": "[e] and [ɛ]: é and è",
+   "body": "- **[e]** — a closed sound, lips spread: written **é**, **-er**, **-ez**, **et**: *café*, *parler*, *vous parlez*, *et*.\n- **[ɛ]** — an open sound, mouth more open: written **è**, **ê**, **ai**, **e** before two consonants: *mère*, *fête*, *lait*, *elle*.\n\nCompare: *et* /e/ (and) — *est* /ɛ/ (is). In everyday speech many people blur these, but you'll be understood best if you keep them apart."
+  },
+  {
+   "heading": "[ø] and [œ]: eu",
+   "body": "The spelling **eu** (or **œu**) has two closely related sounds, both made like [e] or [ɛ] but with rounded lips:\n\n- **[ø]** — closed, at the end of a word or before a z sound: *deux*, *bleu*, *peu*, *heureuse*.\n- **[œ]** — open, before a pronounced consonant: *heure*, *sœur*, *jeune*, *professeur*."
+  },
+  {
+   "heading": "[o] and [ɔ]",
+   "body": "- **[o]** — closed: written **au**, **eau**, **ô**, or **o** at the end of a word: *beau*, *eau*, *hôtel*, *vélo*.\n- **[ɔ]** — open: **o** before a pronounced consonant: *porte*, *école*, *homme*."
+  }
+ ],
+ "vocab": [
+  [
+   "tu",
+   "you (informal)",
+   "ty"
+  ],
+  [
+   "tout",
+   "all, everything",
+   "tu"
+  ],
+  [
+   "la rue",
+   "the street",
+   "la ʁy"
+  ],
+  [
+   "la roue",
+   "the wheel",
+   "la ʁu"
+  ],
+  [
+   "dessus",
+   "on top, above",
+   "də.sy"
+  ],
+  [
+   "dessous",
+   "underneath, below",
+   "də.su"
+  ],
+  [
+   "le lait",
+   "milk",
+   "lə lɛ"
+  ],
+  [
+   "la mère",
+   "the mother",
+   "la mɛʁ"
+  ],
+  [
+   "la fête",
+   "the party, the holiday",
+   "la fɛt"
+  ],
+  [
+   "bleu",
+   "blue",
+   "blø"
+  ],
+  [
+   "l'heure",
+   "the hour, the time",
+   "lœʁ",
+   "f"
+  ],
+  [
+   "la sœur",
+   "the sister",
+   "la sœʁ"
+  ],
+  [
+   "jeune",
+   "young",
+   "ʒœn"
+  ],
+  [
+   "beau",
+   "beautiful, handsome",
+   "bo"
+  ],
+  [
+   "l'eau",
+   "water",
+   "lo",
+   "f"
+  ],
+  [
+   "le vélo",
+   "the bike",
+   "lə ve.lo"
+  ]
+ ],
+ "examples": [
+  [
+   "Tu habites dans quelle rue ?",
+   "Which street do you live on?"
+  ],
+  [
+   "C'est tout.",
+   "That's all."
+  ],
+  [
+   "Le livre est dessus, le sac est dessous.",
+   "The book is on top, the bag is underneath."
+  ],
+  [
+   "Le café et le lait.",
+   "Coffee and milk."
+  ],
+  [
+   "Ma mère est à la fête.",
+   "My mother is at the party."
+  ],
+  [
+   "Elle est jeune et très belle.",
+   "She's young and very beautiful."
+  ],
+  [
+   "Ma sœur a deux vélos bleus.",
+   "My sister has two blue bikes."
+  ],
+  [
+   "Il est quelle heure ?",
+   "What time is it?"
+  ],
+  [
+   "Un peu d'eau, s'il vous plaît.",
+   "A little water, please."
+  ],
+  [
+   "Il fait beau aujourd'hui.",
+   "The weather's nice today."
+  ],
+  [
+   "La roue du vélo est cassée.",
+   "The bike's wheel is broken."
+  ],
+  [
+   "Le professeur ouvre la porte de l'école.",
+   "The teacher opens the school door."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Which word has the sound [y] (rounded \"ee\")?",
+   "options": [
+    "rue",
+    "roue",
+    "rire"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word has the sound [u] (\"oo\")?",
+   "options": [
+    "tout",
+    "tu",
+    "type"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*rue* and *roue* mean…",
+   "options": [
+    "street and wheel",
+    "wheel and street",
+    "both mean street"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*dessus* and *dessous* mean…",
+   "options": [
+    "on top and underneath",
+    "underneath and on top",
+    "both mean on top"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How is the spelling *ou* pronounced?",
+   "options": [
+    "[u], like \"oo\"",
+    "[y], rounded \"ee\"",
+    "[o], like \"oh\""
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How is the spelling *u* pronounced?",
+   "options": [
+    "[y]: say \"ee\" with rounded lips",
+    "[u], like \"oo\"",
+    "like English \"you\""
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word has the closed [e] sound?",
+   "options": [
+    "café",
+    "mère",
+    "fête"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word has the open [ɛ] sound?",
+   "options": [
+    "lait",
+    "parler",
+    "et"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*et* (and) and *est* (is) are pronounced…",
+   "options": [
+    "/e/ and /ɛ/",
+    "/ɛ/ and /e/",
+    "the same, with a t sound"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *sœur*, the vowel is…",
+   "options": [
+    "open [œ], before the pronounced r",
+    "closed [ø]",
+    "like \"oo\""
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word ends in the closed [ø] sound?",
+   "options": [
+    "deux",
+    "heure",
+    "jeune"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word has the closed [o] sound?",
+   "options": [
+    "beau",
+    "porte",
+    "école"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est ___.",
+   "answers": [
+    "tout"
+   ],
+   "hint": "That's all."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le livre est ___, le sac est dessous.",
+   "answers": [
+    "dessus"
+   ],
+   "hint": "The book is on top, the bag underneath."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma ___ est à la fête.",
+   "answers": [
+    "mère"
+   ],
+   "hint": "My mother is at the party."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est ___ et très belle.",
+   "answers": [
+    "jeune"
+   ],
+   "hint": "She's young and very beautiful."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma sœur a deux vélos ___.",
+   "answers": [
+    "bleus"
+   ],
+   "hint": "My sister has two blue bikes."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est quelle ___ ?",
+   "answers": [
+    "heure"
+   ],
+   "hint": "What time is it?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Un peu d'___, s'il vous plaît.",
+   "answers": [
+    "eau"
+   ],
+   "hint": "A little water, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le café et le ___.",
+   "answers": [
+    "lait"
+   ],
+   "hint": "Coffee and milk."
+  },
+  {
+   "type": "translate",
+   "prompt": "That's all.",
+   "answers": [
+    "C'est tout."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My sister is young.",
+   "answers": [
+    "Ma sœur est jeune."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What time is it?",
+   "answers": [
+    "Il est quelle heure ?",
+    "Quelle heure est-il ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "A little water, please.",
+   "answers": [
+    "Un peu d'eau, s'il vous plaît."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My sister has two blue bikes.\"",
+   "answer": "Ma sœur a deux vélos bleus."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The book is on top, the bag is underneath.\"",
+   "answer": "Le livre est dessus, le sac est dessous."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The weather's nice today.\"",
+   "answer": "Il fait beau aujourd'hui."
+  }
+ ]
+}

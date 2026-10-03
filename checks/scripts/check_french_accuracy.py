@@ -15,7 +15,8 @@ lesson that has been written, this fails if:
                  disagrees with the lexicon, or the lexicon records no gender for it and no
                  lexicon note confirms one; or, anywhere in the lesson's French, one of those
                  articles stands directly before a word that is only ever a noun and has the
-                 other gender in the lexicon;
+                 other gender in the lexicon (wrong multiple-choice options are exempt from
+                 this: they may be ungrammatical on purpose, but are still spell-checked);
   pronunciation  a vocabulary entry's pronunciation guide is not valid IPA, or does not
                  match the lexicon's pronunciation of its words (see scripts/frlex.py for
                  the few differences that standard French allows and the comparison ignores).
@@ -107,7 +108,9 @@ def french_texts(src: dict) -> list[tuple[str, str]]:
             else:
                 out += [(where, s) for s in italic(it.get(field, ""))]
         if t == "mc" and it.get("lang") == "fr":
-            out += [(where, o) for o in it.get("options", [])]
+            for k, o in enumerate(it.get("options", [])):
+                # Wrong options may be wrong on purpose (sa père) but must still be spelled right.
+                out.append((where if k == it.get("answer") else where + " (wrong option)", o))
         if t in ("fill", "translate"):
             out += [(where, a) for a in it.get("answers", [])]
         if t == "build":
@@ -189,7 +192,8 @@ for level, meta in ordered_lessons(load_course(FR)):
     for where, text in french_texts(src):
         words += len(frlex.WORD_RE.findall(text))
         check_spelling(lid, where, text)
-        check_bigram_genders(lid, where, text)
+        if not where.endswith("(wrong option)"):
+            check_bigram_genders(lid, where, text)
     for entry in src.get("vocab", []):
         vocab += 1
         check_vocab(lid, entry)

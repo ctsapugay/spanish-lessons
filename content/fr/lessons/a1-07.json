@@ -1,0 +1,439 @@
+{
+ "sections": [
+  {
+   "heading": "Every noun has a gender",
+   "body": "Every French noun is either **masculine** or **feminine** — even things: *le livre* (the book) is masculine, *la table* is feminine. There is no reliable rule, so always learn a noun **with its article**. A few clues: nouns ending in **-tion**, **-té** and most ending in **-e** are feminine (*la nation*, *la liberté*, *la table*); nouns ending in **-ment**, **-age** and a consonant are often masculine (*le moment*, *le fromage*, *le lit*)."
+  },
+  {
+   "heading": "A, an, some: un, une, des",
+   "body": "English often uses no word in the plural (\"I have books\"), but French needs *des*: *J'ai des livres.*",
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "*un livre* (a book)",
+      "*une table* (a table)"
+     ],
+     [
+      "Plural",
+      "*des livres* (books, some books)",
+      "*des tables* (tables)"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "The: le, la, l', les",
+   "body": "Before a vowel, *les* and *des* link to the noun with a z sound: *les amis* /le.z‿a.mi/, *des écoles* /de.z‿e.kɔl/. The plural -s of the noun itself is silent, so you hear the plural mostly in the article: *le livre* /lə livʁ/, *les livres* /le livʁ/.",
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "Singular",
+      "*le livre*",
+      "*la table*"
+     ],
+     [
+      "Before a vowel or silent h",
+      "*l'ami* (the friend)",
+      "*l'école* (the school)"
+     ],
+     [
+      "Plural",
+      "*les livres*",
+      "*les tables*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "What is it? Who is it?",
+   "body": "- *Qu'est-ce que c'est ?* — What is it? → *C'est un livre.* (It's a book.) *Ce sont des clés.* (They're keys.)\n- *Qui est-ce ?* — Who is it? → *C'est Léa.* *C'est mon ami.*\n- *Voici* / *Voilà* — here is / there is (pointing something out): *Voici la clé.* *Voilà le bus !*\n- *Il y a* — there is / there are: *Il y a un livre sur la table.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le livre",
+   "the book",
+   "lə livʁ"
+  ],
+  [
+   "la table",
+   "the table",
+   "la tabl"
+  ],
+  [
+   "la chaise",
+   "the chair",
+   "la ʃɛz"
+  ],
+  [
+   "le stylo",
+   "the pen",
+   "lə sti.lo"
+  ],
+  [
+   "la clé",
+   "the key",
+   "la kle"
+  ],
+  [
+   "le sac",
+   "the bag",
+   "lə sak"
+  ],
+  [
+   "un ami / une amie",
+   "a friend (man / woman)",
+   "œ̃.n‿a.mi / yn a.mi"
+  ],
+  [
+   "la porte",
+   "the door",
+   "la pɔʁt"
+  ],
+  [
+   "le téléphone portable",
+   "the mobile phone",
+   "lə te.le.fɔn pɔʁ.tabl"
+  ],
+  [
+   "l'ordinateur",
+   "the computer",
+   "lɔʁ.di.na.tœʁ",
+   "m"
+  ],
+  [
+   "la photo",
+   "the photo",
+   "la fɔ.to"
+  ],
+  [
+   "qu'est-ce que c'est ?",
+   "what is it?",
+   "kɛs.kə sɛ"
+  ],
+  [
+   "qui est-ce ?",
+   "who is it?",
+   "ki ɛs"
+  ],
+  [
+   "c'est / ce sont",
+   "it is / they are",
+   "sɛ / sə sɔ̃"
+  ],
+  [
+   "voici / voilà",
+   "here is / there is",
+   "vwa.si / vwa.la"
+  ],
+  [
+   "il y a",
+   "there is, there are",
+   "i.li.a"
+  ]
+ ],
+ "examples": [
+  [
+   "Qu'est-ce que c'est ? — C'est un livre.",
+   "What is it? — It's a book."
+  ],
+  [
+   "Ce sont des clés.",
+   "They're keys."
+  ],
+  [
+   "Qui est-ce ? — C'est mon amie Léa.",
+   "Who is it? — It's my friend Léa."
+  ],
+  [
+   "Voici la clé de la porte.",
+   "Here's the key to the door."
+  ],
+  [
+   "Voilà le bus !",
+   "There's the bus!"
+  ],
+  [
+   "Il y a un stylo sur la table.",
+   "There's a pen on the table."
+  ],
+  [
+   "Il y a des chaises dans la salle.",
+   "There are chairs in the room."
+  ],
+  [
+   "J'ai un ordinateur et un téléphone portable.",
+   "I have a computer and a mobile phone."
+  ],
+  [
+   "Les amis de Thomas sont sympas.",
+   "Thomas's friends are nice."
+  ],
+  [
+   "C'est une photo de ma famille.",
+   "It's a photo of my family."
+  ],
+  [
+   "Ce sont des photos de Paris.",
+   "They're photos of Paris."
+  ],
+  [
+   "L'école est grande.",
+   "The school is big."
+  ],
+  [
+   "Tu as des livres ?",
+   "Do you have any books?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose the article: ___ livre",
+   "options": [
+    "le",
+    "la",
+    "l'"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose the article: ___ table",
+   "options": [
+    "la",
+    "le",
+    "l'"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose the article: ___ ordinateur",
+   "options": [
+    "l'",
+    "le",
+    "la"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Before a vowel, *le* and *la* become *l'*."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Books\" (some books) is…",
+   "options": [
+    "des livres",
+    "les livre",
+    "livres"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "French needs *des* where English has no article."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Who is it?\"",
+   "options": [
+    "Qui est-ce ?",
+    "Qu'est-ce que c'est ?",
+    "Il y a ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"What is it?\"",
+   "options": [
+    "Qu'est-ce que c'est ?",
+    "Qui est-ce ?",
+    "Voilà ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "How do you hear that *les livres* is plural?",
+   "options": [
+    "from the article: /le/ instead of /lə/",
+    "from the final s of livres",
+    "you can't"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *les amis*, the s of *les* sounds like…",
+   "options": [
+    "z, linked to amis",
+    "s",
+    "nothing, it's silent"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"There are chairs in the room.\"",
+   "options": [
+    "Il y a des chaises dans la salle.",
+    "Il y a les chaises dans la salle.",
+    "C'est des chaises dans la salle."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Nouns ending in **-tion** are usually…",
+   "options": [
+    "feminine",
+    "masculine",
+    "either, it varies"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ sont des clés.",
+   "options": [
+    "Ce",
+    "C'",
+    "Il"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'est-ce que c'est ? — C'est ___ livre.",
+   "answers": [
+    "un"
+   ],
+   "hint": "It's a book."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce sont ___ clés.",
+   "answers": [
+    "des"
+   ],
+   "hint": "They're keys."
+  },
+  {
+   "type": "fill",
+   "prompt": "Voici ___ clé de la porte.",
+   "answers": [
+    "la"
+   ],
+   "hint": "Here's the key to the door."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ ami de Léa s'appelle Hugo.",
+   "answers": [
+    "L'"
+   ],
+   "hint": "Léa's friend is called Hugo."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ a un stylo sur la table.",
+   "answers": [
+    "y"
+   ],
+   "hint": "There's a pen on the table."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ ordinateur.",
+   "answers": [
+    "un"
+   ],
+   "hint": "I have a computer."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ est-ce ? — C'est Léa.",
+   "answers": [
+    "Qui"
+   ],
+   "hint": "Who is it? — It's Léa."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ livres sont sur la table.",
+   "answers": [
+    "Les"
+   ],
+   "hint": "The books are on the table."
+  },
+  {
+   "type": "translate",
+   "prompt": "It's a pen.",
+   "answers": [
+    "C'est un stylo."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "There's a book on the table.",
+   "answers": [
+    "Il y a un livre sur la table."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Who is it?",
+   "answers": [
+    "Qui est-ce ?",
+    "C'est qui ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "They're photos.",
+   "answers": [
+    "Ce sont des photos.",
+    "C'est des photos."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Here's the key.",
+   "answers": [
+    "Voici la clé.",
+    "Voilà la clé."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"There are chairs in the room.\"",
+   "answer": "Il y a des chaises dans la salle."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's a photo of my family.\"",
+   "answer": "C'est une photo de ma famille."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What is it?\"",
+   "answer": "Qu'est-ce que c'est ?"
+  }
+ ]
+}

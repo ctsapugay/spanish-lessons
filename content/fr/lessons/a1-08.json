@@ -1,0 +1,431 @@
+{
+ "sections": [
+  {
+   "heading": "Regular -er verbs",
+   "body": "Most French verbs end in **-er** in the infinitive: *parler* (to speak), *habiter* (to live), *travailler* (to work), *aimer* (to like, to love). They all follow one pattern. Take off **-er** and add the endings:\n\nThe great news for speaking: *parle, parles, parle, parlent* all sound **the same** — the endings **-e, -es, -e, -ent** are silent. Only *nous parlons* and *vous parlez* sound different. (Never pronounce the **-ent** of *ils parlent*!)",
+   "table": {
+    "head": [
+     "Pronoun",
+     "parler",
+     "Pronunciation"
+    ],
+    "rows": [
+     [
+      "*je parle*",
+      "I speak",
+      "/ʒə paʁl/"
+     ],
+     [
+      "*tu parles*",
+      "you speak",
+      "/ty paʁl/"
+     ],
+     [
+      "*il / elle / on parle*",
+      "he / she speaks, we speak",
+      "/il paʁl/"
+     ],
+     [
+      "*nous parlons*",
+      "we speak",
+      "/nu paʁ.lɔ̃/"
+     ],
+     [
+      "*vous parlez*",
+      "you speak",
+      "/vu paʁ.le/"
+     ],
+     [
+      "*ils / elles parlent*",
+      "they speak",
+      "/il paʁl/"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Before a vowel",
+   "body": "With verbs that start with a vowel or silent h, *je* becomes *j'*, and *nous, vous, ils, elles* link with a z sound: *j'habite*, *nous habitons* /nu.z‿a.bi.tɔ̃/, *ils aiment* /il.z‿ɛm/."
+  },
+  {
+   "heading": "One English tense, one French tense",
+   "body": "The French present covers both English \"I work\" and \"I'm working\": *Je travaille* means either. *Qu'est-ce que tu fais ? — Je regarde la télé.* (What are you doing? — I'm watching TV.)"
+  },
+  {
+   "heading": "Everyday -er verbs",
+   "body": "*parler* (speak), *habiter* (live), *travailler* (work), *aimer* (like, love), *regarder* (watch, look at), *écouter* (listen to), *manger* (eat), *étudier* (study), *jouer* (play), *chercher* (look for), *rentrer* (go home), *commencer* (begin).\n\nSome more forms, all following the same pattern: *j'aime*, *tu écoutes*, *il regarde*, *elle étudie*, *nous jouons*, *vous habitez*, *vous travaillez*, *ils regardent*, *elles cherchent*.\n\nTwo small spelling changes keep the sound the same: *nous mangeons* (an e keeps the g soft) and *nous commençons* (a ç keeps the c soft)."
+  }
+ ],
+ "vocab": [
+  [
+   "aimer",
+   "to like, to love",
+   "e.me"
+  ],
+  [
+   "regarder",
+   "to watch, to look at",
+   "ʁə.ɡaʁ.de"
+  ],
+  [
+   "écouter",
+   "to listen (to)",
+   "e.ku.te"
+  ],
+  [
+   "manger",
+   "to eat",
+   "mɑ̃.ʒe"
+  ],
+  [
+   "étudier",
+   "to study",
+   "e.ty.dje"
+  ],
+  [
+   "jouer",
+   "to play",
+   "ʒwe"
+  ],
+  [
+   "chercher",
+   "to look for",
+   "ʃɛʁ.ʃe"
+  ],
+  [
+   "rentrer",
+   "to go home, to come back",
+   "ʁɑ̃.tʁe"
+  ],
+  [
+   "commencer",
+   "to begin, to start",
+   "kɔ.mɑ̃.se"
+  ],
+  [
+   "la musique",
+   "music",
+   "la my.zik"
+  ],
+  [
+   "la télé",
+   "TV",
+   "la te.le"
+  ],
+  [
+   "le matin",
+   "the morning",
+   "lə ma.tɛ̃"
+  ],
+  [
+   "le soir",
+   "the evening",
+   "lə swaʁ"
+  ],
+  [
+   "souvent",
+   "often",
+   "su.vɑ̃"
+  ],
+  [
+   "ensemble",
+   "together",
+   "ɑ̃.sɑ̃bl"
+  ]
+ ],
+ "examples": [
+  [
+   "Je parle anglais et français.",
+   "I speak English and French."
+  ],
+  [
+   "Tu habites à Paris ?",
+   "Do you live in Paris?"
+  ],
+  [
+   "Elle travaille le matin.",
+   "She works in the morning."
+  ],
+  [
+   "Nous habitons ensemble.",
+   "We live together."
+  ],
+  [
+   "Vous parlez très bien !",
+   "You speak very well!"
+  ],
+  [
+   "Ils aiment la musique.",
+   "They like music."
+  ],
+  [
+   "J'écoute la radio le matin.",
+   "I listen to the radio in the morning."
+  ],
+  [
+   "On regarde la télé le soir.",
+   "We watch TV in the evening."
+  ],
+  [
+   "Nous mangeons ensemble le soir.",
+   "We eat together in the evening."
+  ],
+  [
+   "Elles étudient le français.",
+   "They're studying French."
+  ],
+  [
+   "Qu'est-ce que tu fais ? — Je cherche mes clés.",
+   "What are you doing? — I'm looking for my keys."
+  ],
+  [
+   "Le cours commence à neuf heures.",
+   "The class begins at nine."
+  ],
+  [
+   "Il rentre souvent tard.",
+   "He often gets home late."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ français.",
+   "options": [
+    "parlons",
+    "parlez",
+    "parlent"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Vous ___ à Lyon ?",
+   "options": [
+    "habitez",
+    "habitons",
+    "habitent"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils ___ la musique.",
+   "options": [
+    "aiment",
+    "aimons",
+    "aimez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which forms of *parler* sound exactly the same?",
+   "options": [
+    "parle, parles, parlent",
+    "parlons, parlez",
+    "parle, parlons"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *ils parlent*, the ending **-ent** is…",
+   "options": [
+    "silent",
+    "pronounced like \"ent\" in \"went\"",
+    "pronounced like the nasal in *vent*"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je travaille* can mean…",
+   "options": [
+    "both \"I work\" and \"I'm working\"",
+    "only \"I work\"",
+    "only \"I'm working\""
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How is *nous habitons* pronounced?",
+   "options": [
+    "with a z linking nous to habitons",
+    "with an s",
+    "with no linking sound"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ ensemble le soir. (manger)",
+   "answers": [
+    "mangeons"
+   ],
+   "hint": "We eat together in the evening.",
+   "explain": "The e keeps the g soft: *mangeons*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ écoute la radio.",
+   "options": [
+    "J'",
+    "Je",
+    "Tu"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "What does *regarder* mean?",
+   "options": [
+    "to watch, to look at",
+    "to listen to",
+    "to look for",
+    "to go home"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "What does *chercher* mean?",
+   "options": [
+    "to look for",
+    "to watch",
+    "to begin",
+    "to study"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ anglais et français. (parler)",
+   "answers": [
+    "parle"
+   ],
+   "hint": "I speak English and French."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ___ le matin. (travailler)",
+   "answers": [
+    "travaille"
+   ],
+   "hint": "She works in the morning."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ ensemble. (habiter)",
+   "answers": [
+    "habitons"
+   ],
+   "hint": "We live together."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous ___ très bien ! (parler)",
+   "answers": [
+    "parlez"
+   ],
+   "hint": "You speak very well!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils ___ la musique. (aimer)",
+   "answers": [
+    "aiment"
+   ],
+   "hint": "They like music."
+  },
+  {
+   "type": "fill",
+   "prompt": "On ___ la télé le soir. (regarder)",
+   "answers": [
+    "regarde"
+   ],
+   "hint": "We watch TV in the evening."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elles ___ le français. (étudier)",
+   "answers": [
+    "étudient"
+   ],
+   "hint": "They're studying French."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ à neuf heures. (commencer)",
+   "answers": [
+    "commençons"
+   ],
+   "hint": "We begin at nine."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ la radio ? (écouter)",
+   "answers": [
+    "écoutes"
+   ],
+   "hint": "Do you listen to the radio?"
+  },
+  {
+   "type": "translate",
+   "prompt": "I like music.",
+   "answers": [
+    "J'aime la musique."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We live together.",
+   "answers": [
+    "Nous habitons ensemble.",
+    "On habite ensemble."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She's studying French.",
+   "answers": [
+    "Elle étudie le français."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "They watch TV in the evening.",
+   "answers": [
+    "Ils regardent la télé le soir.",
+    "Elles regardent la télé le soir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm looking for my keys.",
+   "answers": [
+    "Je cherche mes clés."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I listen to the radio in the morning.\"",
+   "answer": "J'écoute la radio le matin."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We eat together in the evening.\"",
+   "answer": "Nous mangeons ensemble le soir."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He often gets home late.\"",
+   "answer": "Il rentre souvent tard."
+  }
+ ]
+}

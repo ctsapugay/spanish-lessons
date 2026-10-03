@@ -1,0 +1,457 @@
+{
+ "sections": [
+  {
+   "heading": "The family",
+   "body": "*La famille*: *les parents* (the parents — also \"relatives\"), *le père* (father), *la mère* (mother), *le frère* (brother), *la sœur* (sister), *le fils* (son — the l is silent, the s is pronounced: /fis/), *la fille* (daughter; also \"girl\"), *le mari* (husband), *la femme* (wife; also \"woman\"), *les grands-parents*, *le grand-père*, *la grand-mère*, *l'oncle* (uncle), *la tante* (aunt), *le cousin*, *la cousine*, *l'enfant* (child).\n\nNote: *femme* is pronounced /fam/, like \"fam\"."
+  },
+  {
+   "heading": "My, your, his, her: possessive adjectives",
+   "body": "Possessives agree with the **thing owned**, not with the owner:\n\nSo *sa mère* means both \"his mother\" and \"her mother\" — *sa* agrees with *mère*, which is feminine.\n\nBefore a feminine word starting with a vowel, use *mon, ton, son* for the sound: *mon amie* (my friend — a woman), *son école*.",
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine",
+     "Plural"
+    ],
+    "rows": [
+     [
+      "my",
+      "*mon père*",
+      "*ma mère*",
+      "*mes parents*"
+     ],
+     [
+      "your (tu)",
+      "*ton frère*",
+      "*ta sœur*",
+      "*tes cousins*"
+     ],
+     [
+      "his / her",
+      "*son mari*",
+      "*sa fille*",
+      "*ses enfants*"
+     ],
+     [
+      "our",
+      "*notre fils*",
+      "*notre fille*",
+      "*nos enfants*"
+     ],
+     [
+      "your (vous)",
+      "*votre père*",
+      "*votre mère*",
+      "*vos parents*"
+     ],
+     [
+      "their",
+      "*leur oncle*",
+      "*leur tante*",
+      "*leurs enfants*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Asking about someone's family and news",
+   "body": "- *Tu as des frères et sœurs ?* — Do you have brothers and sisters? → *J'ai un frère et deux sœurs.* / *Je suis fils unique* / *fille unique* (I'm an only child).\n- *Vous êtes marié ?* / *mariée ?* — Are you married? → *Oui, je suis marié.* / *Non, je suis célibataire* (single).\n- *Comment va ta mère ?* — How's your mother? → *Elle va bien, merci.*"
+  }
+ ],
+ "vocab": [
+  [
+   "la famille",
+   "the family",
+   "la fa.mij"
+  ],
+  [
+   "les parents",
+   "the parents; relatives",
+   "le pa.ʁɑ̃",
+   "m"
+  ],
+  [
+   "le père",
+   "the father",
+   "lə pɛʁ"
+  ],
+  [
+   "le fils",
+   "the son",
+   "lə fis"
+  ],
+  [
+   "la fille",
+   "the daughter; the girl",
+   "la fij"
+  ],
+  [
+   "le mari",
+   "the husband",
+   "lə ma.ʁi"
+  ],
+  [
+   "la femme",
+   "the wife; the woman",
+   "la fam"
+  ],
+  [
+   "le grand-père",
+   "the grandfather",
+   "lə ɡʁɑ̃.pɛʁ"
+  ],
+  [
+   "la grand-mère",
+   "the grandmother",
+   "la ɡʁɑ̃.mɛʁ"
+  ],
+  [
+   "l'oncle",
+   "the uncle",
+   "lɔ̃kl",
+   "m"
+  ],
+  [
+   "la tante",
+   "the aunt",
+   "la tɑ̃t"
+  ],
+  [
+   "un cousin / une cousine",
+   "a cousin (man / woman)",
+   "œ̃ ku.zɛ̃ / yn ku.zin"
+  ],
+  [
+   "l'enfant",
+   "the child",
+   "lɑ̃.fɑ̃",
+   "m"
+  ],
+  [
+   "marié / mariée",
+   "married",
+   "ma.ʁje / ma.ʁje"
+  ],
+  [
+   "célibataire",
+   "single",
+   "se.li.ba.tɛʁ"
+  ],
+  [
+   "mon / ma / mes",
+   "my",
+   "mɔ̃ / ma / me"
+  ],
+  [
+   "son / sa / ses",
+   "his, her",
+   "sɔ̃ / sa / se"
+  ]
+ ],
+ "examples": [
+  [
+   "Voici ma famille.",
+   "Here's my family."
+  ],
+  [
+   "Mon père s'appelle Thomas et ma mère s'appelle Sophie.",
+   "My father is called Thomas and my mother Sophie."
+  ],
+  [
+   "J'ai un frère et deux sœurs.",
+   "I have one brother and two sisters."
+  ],
+  [
+   "Tu as des frères et sœurs ?",
+   "Do you have any brothers and sisters?"
+  ],
+  [
+   "Ma sœur est mariée, son mari est italien.",
+   "My sister is married; her husband is Italian."
+  ],
+  [
+   "Hugo adore sa grand-mère.",
+   "Hugo loves his grandmother."
+  ],
+  [
+   "Ses enfants habitent à Lyon.",
+   "His children live in Lyon."
+  ],
+  [
+   "Nos parents sont à la retraite.",
+   "Our parents are retired."
+  ],
+  [
+   "Comment va ta mère ? — Elle va bien, merci.",
+   "How's your mother? — She's well, thanks."
+  ],
+  [
+   "Mon oncle et ma tante ont trois enfants.",
+   "My uncle and aunt have three children."
+  ],
+  [
+   "Je suis fille unique.",
+   "I'm an only child. (a girl)"
+  ],
+  [
+   "Votre fils a quel âge ?",
+   "How old is your son?"
+  ],
+  [
+   "Leurs cousins sont très sympas.",
+   "Their cousins are very nice."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ mère s'appelle Sophie.",
+   "options": [
+    "Ma",
+    "Mon",
+    "Mes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ père est médecin.",
+   "options": [
+    "Mon",
+    "Ma",
+    "Mes"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ parents sont à la retraite.",
+   "options": [
+    "Mes",
+    "Mon",
+    "Ma"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"His mother\" is…",
+   "options": [
+    "sa mère",
+    "son mère",
+    "ses mère"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The possessive agrees with *mère* (feminine), not with \"his\"."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Her father\" is…",
+   "options": [
+    "son père",
+    "sa père",
+    "ses père"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ amie Léa est française.",
+   "options": [
+    "Mon",
+    "Ma",
+    "Mes"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Before a vowel, *ma* becomes *mon* for the sound."
+  },
+  {
+   "type": "mc",
+   "prompt": "How is *fils* (son) pronounced?",
+   "options": [
+    "/fis/ — s pronounced, l silent",
+    "/fil/ — like \"feel\"",
+    "/fij/ — like *fille*"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How is *femme* pronounced?",
+   "options": [
+    "/fam/",
+    "/fɛm/",
+    "/fem/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Our children\" is…",
+   "options": [
+    "nos enfants",
+    "notre enfants",
+    "nous enfants"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Their uncle\" is…",
+   "options": [
+    "leur oncle",
+    "leurs oncle",
+    "son oncle"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Someone asks *Vous êtes marié ?* You're single. You say…",
+   "options": [
+    "Non, je suis célibataire.",
+    "Non, je suis fils unique.",
+    "Non, je suis à la retraite."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Your father's sister is your…",
+   "options": [
+    "tante",
+    "cousine",
+    "grand-mère"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ père s'appelle Thomas.",
+   "answers": [
+    "Mon"
+   ],
+   "hint": "My father is called Thomas."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai un frère et deux ___.",
+   "answers": [
+    "sœurs"
+   ],
+   "hint": "I have one brother and two sisters."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma sœur est mariée, ___ mari est italien.",
+   "answers": [
+    "son"
+   ],
+   "hint": "My sister is married; her husband is Italian."
+  },
+  {
+   "type": "fill",
+   "prompt": "Hugo adore ___ grand-mère.",
+   "answers": [
+    "sa"
+   ],
+   "hint": "Hugo loves his grandmother."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ enfants habitent à Lyon.",
+   "answers": [
+    "Ses"
+   ],
+   "hint": "His children live in Lyon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Comment va ___ mère ?",
+   "answers": [
+    "ta"
+   ],
+   "hint": "How's your mother? (to a friend)"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ fils a quel âge ?",
+   "answers": [
+    "Votre"
+   ],
+   "hint": "How old is your son? (polite)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis fille ___.",
+   "answers": [
+    "unique"
+   ],
+   "hint": "I'm an only child."
+  },
+  {
+   "type": "translate",
+   "prompt": "My sister is married.",
+   "answers": [
+    "Ma sœur est mariée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Do you have brothers and sisters? (to a friend)",
+   "answers": [
+    "Tu as des frères et sœurs ?",
+    "Est-ce que tu as des frères et sœurs ?",
+    "As-tu des frères et sœurs ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Our parents live in Lyon.",
+   "answers": [
+    "Nos parents habitent à Lyon."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "His daughter is a doctor.",
+   "answers": [
+    "Sa fille est médecin."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Here's my family.",
+   "answers": [
+    "Voici ma famille.",
+    "Voilà ma famille."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My uncle and aunt have three children.\"",
+   "answer": "Mon oncle et ma tante ont trois enfants."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My sister is married; her husband is Italian.\"",
+   "answer": "Ma sœur est mariée, son mari est italien."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"How's your mother?\"",
+   "answer": "Comment va ta mère ?"
+  }
+ ]
+}

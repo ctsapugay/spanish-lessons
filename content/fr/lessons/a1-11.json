@@ -1,0 +1,398 @@
+{
+ "sections": [
+  {
+   "heading": "Three ways to ask a yes/no question",
+   "body": "French has three ways to ask the same question, from casual to formal:\n\n1. **Intonation only** — a statement with your voice rising at the end: *Tu parles anglais ?* This is by far the most common way in conversation.\n2. **Est-ce que** at the start: *Est-ce que tu parles anglais ?* Neutral, fine everywhere. Before a vowel: *Est-ce qu'il travaille ?*\n3. **Inversion** — verb and pronoun swap, joined by a hyphen: *Parlez-vous anglais ?* Formal and written. Before *il* or *elle*, a vowel-ending verb takes an extra **-t-**: *Parle-t-il anglais ?*"
+  },
+  {
+   "heading": "Question words",
+   "body": "- *Qui ?* — who? *Qui est-ce ?*\n- *Où ?* — where? *Tu habites où ?*\n- *Quand ?* — when? *Tu rentres quand ?*\n- *Comment ?* — how? *Comment ça va ?* *Tu t'appelles comment ?*\n- *Combien ?* — how much / how many? *C'est combien ?* *Combien de frères est-ce que tu as ?*\n- *Pourquoi ?* — why? → answer with *parce que* (because): *Pourquoi tu apprends le français ? — Parce que j'aime la France.*\n- *Que ?* / *Qu'est-ce que ?* — what? *Qu'est-ce que tu fais ?* In casual speech: *Tu fais quoi ?*\n- *Quel, quelle ?* — which? what? (it agrees with the noun): *Quel âge ?* *Quelle heure ?*\n\nIn speech, the question word often goes at the end: *Tu habites où ?* *Ça coûte combien ?* With *est-ce que* it goes at the start: *Où est-ce que tu habites ?*"
+  },
+  {
+   "heading": "Pronunciation: intonation",
+   "body": "In a yes/no question, the voice **rises** at the end: *Tu parles anglais ?* ↗. In a statement, it falls: *Tu parles anglais.* ↘. In a question with a question word at the start, the voice starts high and falls: *Où est-ce que tu habites ?* ↘. Rising intonation alone is enough to turn a statement into a question — try it with *Ça va.* ↘ / *Ça va ?* ↗."
+  }
+ ],
+ "vocab": [
+  [
+   "est-ce que",
+   "(turns a sentence into a question)",
+   "ɛs.kə"
+  ],
+  [
+   "qui",
+   "who",
+   "ki"
+  ],
+  [
+   "quand",
+   "when",
+   "kɑ̃"
+  ],
+  [
+   "comment",
+   "how",
+   "kɔ.mɑ̃"
+  ],
+  [
+   "combien",
+   "how much, how many",
+   "kɔ̃.bjɛ̃"
+  ],
+  [
+   "pourquoi",
+   "why",
+   "puʁ.kwa"
+  ],
+  [
+   "parce que",
+   "because",
+   "paʁs.kə"
+  ],
+  [
+   "quoi",
+   "what (informal)",
+   "kwa"
+  ],
+  [
+   "quel / quelle",
+   "which, what",
+   "kɛl / kɛl"
+  ],
+  [
+   "apprendre",
+   "to learn",
+   "a.pʁɑ̃dʁ"
+  ],
+  [
+   "coûter",
+   "to cost",
+   "ku.te"
+  ],
+  [
+   "le frère",
+   "the brother",
+   "lə fʁɛʁ"
+  ],
+  [
+   "le week-end",
+   "the weekend",
+   "lə wi.kɛnd"
+  ],
+  [
+   "faire",
+   "to do, to make",
+   "fɛʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Tu parles anglais ?",
+   "Do you speak English?"
+  ],
+  [
+   "Est-ce que vous habitez à Lyon ?",
+   "Do you live in Lyon?"
+  ],
+  [
+   "Parlez-vous français ?",
+   "Do you speak French?"
+  ],
+  [
+   "Est-ce qu'il travaille le samedi ?",
+   "Does he work on Saturdays?"
+  ],
+  [
+   "Tu habites où ?",
+   "Where do you live?"
+  ],
+  [
+   "Où est-ce que tu travailles ?",
+   "Where do you work?"
+  ],
+  [
+   "Tu rentres quand ?",
+   "When are you coming home?"
+  ],
+  [
+   "C'est combien ?",
+   "How much is it?"
+  ],
+  [
+   "Pourquoi tu apprends le français ? — Parce que j'aime la France.",
+   "Why are you learning French? — Because I love France."
+  ],
+  [
+   "Qu'est-ce que tu fais le week-end ?",
+   "What do you do at the weekend?"
+  ],
+  [
+   "Tu fais quoi ce soir ?",
+   "What are you doing tonight?"
+  ],
+  [
+   "Quelle est ton adresse ?",
+   "What's your address?"
+  ],
+  [
+   "Combien de frères est-ce que tu as ?",
+   "How many brothers do you have?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Which question is the most common in everyday conversation?",
+   "options": [
+    "Tu parles anglais ?",
+    "Parlez-vous anglais ?",
+    "Est-ce que vous parlez anglais ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which question is the most formal?",
+   "options": [
+    "Parlez-vous anglais ?",
+    "Tu parles anglais ?",
+    "Est-ce que tu parles anglais ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ il travaille le samedi ?",
+   "options": [
+    "Est-ce qu'",
+    "Est-ce que",
+    "Qu'est-ce"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Before a vowel, *que* becomes *qu'*."
+  },
+  {
+   "type": "mc",
+   "prompt": "*Où ?* means…",
+   "options": [
+    "where?",
+    "when?",
+    "who?",
+    "how?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Quand ?* means…",
+   "options": [
+    "when?",
+    "where?",
+    "how much?",
+    "why?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Combien ?* means…",
+   "options": [
+    "how much / how many?",
+    "how?",
+    "which?",
+    "why?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The usual answer to *Pourquoi ?* starts with…",
+   "options": [
+    "Parce que…",
+    "Pour quoi…",
+    "Comment…"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In a yes/no question like *Tu parles anglais ?*, the voice…",
+   "options": [
+    "rises at the end",
+    "falls at the end",
+    "stays flat"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ est ton adresse ?",
+   "options": [
+    "Quelle",
+    "Quel",
+    "Qui"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*adresse* is feminine: *quelle*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ âge as-tu ?",
+   "options": [
+    "Quel",
+    "Quelle",
+    "Combien"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"What are you doing tonight?\" (casual)",
+   "options": [
+    "Tu fais quoi ce soir ?",
+    "Tu fais quand ce soir ?",
+    "Tu fais où ce soir ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it a question with inversion: *Il parle anglais.*",
+   "options": [
+    "Parle-t-il anglais ?",
+    "Parle-il anglais ?",
+    "Il parle-t-anglais ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ que vous habitez à Lyon ?",
+   "answers": [
+    "Est-ce"
+   ],
+   "hint": "Do you live in Lyon?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu habites ___ ?",
+   "answers": [
+    "où"
+   ],
+   "hint": "Where do you live?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu rentres ___ ?",
+   "answers": [
+    "quand"
+   ],
+   "hint": "When are you coming home?"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est ___ ?",
+   "answers": [
+    "combien"
+   ],
+   "hint": "How much is it?"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ tu apprends le français ?",
+   "answers": [
+    "Pourquoi"
+   ],
+   "hint": "Why are you learning French?"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ que j'aime la France.",
+   "answers": [
+    "Parce"
+   ],
+   "hint": "Because I love France."
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'est-ce que tu ___ le week-end ?",
+   "answers": [
+    "fais"
+   ],
+   "hint": "What do you do at the weekend?"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ est ton adresse ?",
+   "answers": [
+    "Quelle"
+   ],
+   "hint": "What's your address?"
+  },
+  {
+   "type": "translate",
+   "prompt": "Do you speak English? (to a friend)",
+   "answers": [
+    "Tu parles anglais ?",
+    "Est-ce que tu parles anglais ?",
+    "Parles-tu anglais ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Where do you work? (to a friend)",
+   "answers": [
+    "Tu travailles où ?",
+    "Où est-ce que tu travailles ?",
+    "Où travailles-tu ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "How much is it?",
+   "answers": [
+    "C'est combien ?",
+    "Ça coûte combien ?",
+    "Combien ça coûte ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Why?",
+   "answers": [
+    "Pourquoi ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What are you doing tonight? (casual)",
+   "answers": [
+    "Tu fais quoi ce soir ?",
+    "Qu'est-ce que tu fais ce soir ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Why are you learning French?\"",
+   "answer": "Pourquoi tu apprends le français ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Where do you work?\"",
+   "answer": "Où est-ce que tu travailles ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Do you live in Lyon?\"",
+   "answer": "Est-ce que vous habitez à Lyon ?"
+  }
+ ]
+}
