@@ -1,0 +1,377 @@
+{
+ "sections": [
+  {
+   "heading": "Wanting someone else to do something",
+   "body": "After verbs of **wish and will**, use *que* + subjunctive when the other clause has a **different subject**:\n\n- *vouloir que*: *Je veux que tu viennes.* (I want you to come — literally \"I want that you come\".)\n- *aimer que*, *préférer que*: *Je préférerais que tu restes.*\n- *souhaiter que* (to wish): *Je souhaite que tout se passe bien.*\n- *demander que*, *exiger que* (to demand): *Il exige que nous soyons à l'heure.*\n\nEnglish uses an infinitive (\"I want you to come\"); French cannot: ~~*Je veux toi venir*~~."
+  },
+  {
+   "heading": "Feelings: content que, peur que…",
+   "body": "After expressions of **emotion**, again with a different subject, use the subjunctive:\n\n- joy: *être content(e) / heureux(-se) que*, *être ravi(e) que* (delighted): *Je suis content que tu sois là.*\n- sadness, regret: *être triste que*, *regretter que*, *c'est dommage que*: *C'est dommage qu'il pleuve.*\n- surprise: *être surpris(e) que*, *être étonné(e) que*: *Je suis étonné qu'elle ne soit pas venue.* (… that she didn't come — a past subjunctive you'll study at B2)\n- fear: *avoir peur que*: *J'ai peur qu'il soit malade.*\n- anger: *être fâché(e) que*, *ne pas supporter que* (can't stand): *Je ne supporte pas qu'on me mente.* (I can't stand being lied to.)"
+  },
+  {
+   "heading": "Same subject? Use de + infinitive",
+   "body": "When the person who feels or wants is the same as the person who acts, use an **infinitive**:\n\n- *Je veux partir.* (I want to leave) — but *Je veux que tu partes.*\n- *Je suis content **de** te voir.* — but *Je suis content **que** tu sois là.*\n- *J'ai peur **de** me tromper.* (I'm afraid of being wrong.)"
+  }
+ ],
+ "vocab": [
+  [
+   "vouloir que",
+   "to want (someone to)",
+   "vu.lwaʁ kə"
+  ],
+  [
+   "souhaiter",
+   "to wish",
+   "swe.te"
+  ],
+  [
+   "exiger",
+   "to demand",
+   "ɛɡ.zi.ʒe"
+  ],
+  [
+   "ravi / ravie",
+   "delighted",
+   "ʁa.vi / ʁa.vi"
+  ],
+  [
+   "triste",
+   "sad",
+   "tʁist"
+  ],
+  [
+   "regretter",
+   "to regret, to be sorry",
+   "ʁə.ɡʁɛ.te"
+  ],
+  [
+   "surpris / surprise",
+   "surprised",
+   "syʁ.pʁi / syʁ.pʁiz"
+  ],
+  [
+   "étonné / étonnée",
+   "astonished, surprised",
+   "e.tɔ.ne / e.tɔ.ne"
+  ],
+  [
+   "avoir peur que",
+   "to be afraid that",
+   "a.vwaʁ pœʁ kə"
+  ],
+  [
+   "fâché / fâchée",
+   "angry, cross",
+   "fa.ʃe / fa.ʃe"
+  ],
+  [
+   "supporter",
+   "to stand, to bear",
+   "sy.pɔʁ.te"
+  ],
+  [
+   "mentir",
+   "to lie",
+   "mɑ̃.tiʁ"
+  ],
+  [
+   "se tromper",
+   "to be wrong, to make a mistake",
+   "sə tʁɔ̃.pe"
+  ],
+  [
+   "se passer",
+   "to happen, to go (well / badly)",
+   "sə pa.se"
+  ]
+ ],
+ "examples": [
+  [
+   "Je veux que tu viennes avec moi.",
+   "I want you to come with me."
+  ],
+  [
+   "Je préférerais que tu restes ici.",
+   "I'd prefer you to stay here."
+  ],
+  [
+   "Je souhaite que tout se passe bien.",
+   "I hope everything goes well."
+  ],
+  [
+   "Il exige que nous soyons à l'heure.",
+   "He demands that we be on time."
+  ],
+  [
+   "Je suis content que tu sois là.",
+   "I'm glad you're here."
+  ],
+  [
+   "Nous sommes ravis que vous puissiez venir.",
+   "We're delighted you can come."
+  ],
+  [
+   "C'est dommage qu'il pleuve aujourd'hui.",
+   "It's a shame it's raining today."
+  ],
+  [
+   "J'ai peur qu'il soit malade.",
+   "I'm afraid he's ill."
+  ],
+  [
+   "Je ne supporte pas qu'on me mente.",
+   "I can't stand being lied to."
+  ],
+  [
+   "Elle regrette que tu partes si tôt.",
+   "She's sorry you're leaving so early."
+  ],
+  [
+   "Je suis content de te voir.",
+   "I'm happy to see you."
+  ],
+  [
+   "J'ai peur de me tromper.",
+   "I'm afraid of being wrong."
+  ],
+  [
+   "Je veux partir maintenant.",
+   "I want to leave now."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I want you to come\"",
+   "options": [
+    "Je veux que tu viennes.",
+    "Je veux toi venir.",
+    "Je veux que tu viens."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm glad you're here\"",
+   "options": [
+    "Je suis content que tu sois là.",
+    "Je suis content que tu es là.",
+    "Je suis content de tu être là."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"It's a shame it's raining\"",
+   "options": [
+    "C'est dommage qu'il pleuve.",
+    "C'est dommage qu'il pleut.",
+    "C'est dommage de pleuvoir."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm afraid of being wrong\"",
+   "options": [
+    "J'ai peur de me tromper.",
+    "J'ai peur que je me trompe.",
+    "J'ai peur me tromper."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Same subject: *de* + infinitive."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm happy to see you\"",
+   "options": [
+    "Je suis content de te voir.",
+    "Je suis content que je te voie.",
+    "Je suis content te voir."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous sommes ravis que vous ___ venir.",
+   "options": [
+    "puissiez",
+    "pouvez",
+    "pourrez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il exige que nous ___ à l'heure.",
+   "options": [
+    "soyons",
+    "sommes",
+    "serons"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle regrette que tu ___ si tôt.",
+   "options": [
+    "partes",
+    "pars",
+    "partiras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Why *Je veux partir* but *Je veux que tu partes*?",
+   "options": [
+    "Same subject → infinitive; different subject → que + subjunctive",
+    "It depends on the tense",
+    "Both are possible either way"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je ne supporte pas qu'on me mente* means…",
+   "options": [
+    "I can't stand being lied to",
+    "I don't support lying",
+    "I don't lie to people"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je veux que tu ___ avec moi. (venir)",
+   "answers": [
+    "viennes"
+   ],
+   "hint": "I want you to come with me."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je préférerais que tu ___ ici. (rester)",
+   "answers": [
+    "restes"
+   ],
+   "hint": "I'd prefer you to stay here."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je souhaite que tout se ___ bien. (passer)",
+   "answers": [
+    "passe"
+   ],
+   "hint": "I hope everything goes well."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis content que tu ___ là. (être)",
+   "answers": [
+    "sois"
+   ],
+   "hint": "I'm glad you're here."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est dommage qu'il ___ aujourd'hui. (pleuvoir)",
+   "answers": [
+    "pleuve"
+   ],
+   "hint": "It's a shame it's raining today."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai peur qu'il ___ malade. (être)",
+   "answers": [
+    "soit"
+   ],
+   "hint": "I'm afraid he's ill."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne supporte pas qu'on me ___. (mentir)",
+   "answers": [
+    "mente"
+   ],
+   "hint": "I can't stand being lied to."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis content ___ te voir.",
+   "answers": [
+    "de"
+   ],
+   "hint": "I'm happy to see you."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai peur de me ___.",
+   "answers": [
+    "tromper"
+   ],
+   "hint": "I'm afraid of being wrong."
+  },
+  {
+   "type": "translate",
+   "prompt": "I want you to come. (to a friend)",
+   "answers": [
+    "Je veux que tu viennes."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm glad you're here. (to a friend)",
+   "answers": [
+    "Je suis content que tu sois là.",
+    "Je suis contente que tu sois là."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's a shame.",
+   "answers": [
+    "C'est dommage."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm happy to see you. (to a friend)",
+   "answers": [
+    "Je suis content de te voir.",
+    "Je suis contente de te voir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm afraid he's ill.",
+   "answers": [
+    "J'ai peur qu'il soit malade."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I can't stand being lied to.\"",
+   "answer": "Je ne supporte pas qu'on me mente."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We're delighted you can come.\"",
+   "answer": "Nous sommes ravis que vous puissiez venir."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'd prefer you to stay here.\"",
+   "answer": "Je préférerais que tu restes ici."
+  }
+ ]
+}

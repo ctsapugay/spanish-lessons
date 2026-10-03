@@ -1,0 +1,410 @@
+{
+ "sections": [
+  {
+   "heading": "Certainty takes the indicative",
+   "body": "When you present something as **true or probable**, use the **indicative** (present, future, past) after *que*:\n\n- *Je pense que…*, *Je crois que…*, *Je trouve que…*: *Je pense qu'il viendra.*\n- *Je suis sûr(e) que…*, *Je suis certain(e) que…*: *Je suis sûr qu'elle a raison.*\n- *J'espère que…* (I hope that…): *J'espère que tu vas bien.* — careful: *espérer* takes the **indicative**, even though it expresses a wish!\n- *Il est évident que…*, *Il est clair que…*, *Il est probable que…*\n- *Je sais que…*, *Je vois que…*, *Il paraît que…* (apparently)"
+  },
+  {
+   "heading": "Doubt takes the subjunctive",
+   "body": "When the same verbs are **negative** or in a **question** with inversion, they express doubt — and take the **subjunctive**:\n\n- *Je ne pense pas qu'il vienne.* (I don't think he'll come.)\n- *Je ne crois pas que ce soit une bonne idée.*\n- *Je ne suis pas sûr(e) qu'elle ait raison.*\n- *Pensez-vous qu'il puisse venir ?* (formal question)\n\nExpressions of **doubt and possibility** always take the subjunctive: *Je doute que…* (I doubt that…), *Il est possible que…*, *Il se peut que…* (It may be that…), *Il est peu probable que…*: *Il est possible qu'il pleuve demain.*"
+  },
+  {
+   "heading": "Likes and wishes: aimer que, vouloir que",
+   "body": "*J'aime que…* and *Je veux que…* always take the subjunctive (you saw this in the last lesson): *J'aime que tout soit bien rangé.* (I like everything to be tidy.) Compare *J'espère que tu viendras* (indicative) and *Je souhaite que tu viennes* (subjunctive) — two ways of wishing, two moods."
+  },
+  {
+   "heading": "Summary",
+   "body": "",
+   "table": {
+    "head": [
+     "Indicative (fact, belief)",
+     "Subjunctive (doubt, wish, feeling)"
+    ],
+    "rows": [
+     [
+      "*Je pense qu'il est là.*",
+      "*Je ne pense pas qu'il soit là.*"
+     ],
+     [
+      "*Je suis sûr qu'elle vient.*",
+      "*Je doute qu'elle vienne.*"
+     ],
+     [
+      "*J'espère que tu viendras.*",
+      "*Je souhaite que tu viennes.*"
+     ],
+     [
+      "*Il est probable qu'il pleuvra.*",
+      "*Il est possible qu'il pleuve.*"
+     ]
+    ]
+   }
+  }
+ ],
+ "vocab": [
+  [
+   "espérer",
+   "to hope",
+   "ɛs.pe.ʁe"
+  ],
+  [
+   "certain / certaine",
+   "certain, sure",
+   "sɛʁ.tɛ̃ / sɛʁ.tɛn"
+  ],
+  [
+   "évident / évidente",
+   "obvious",
+   "e.vi.dɑ̃ / e.vi.dɑ̃t"
+  ],
+  [
+   "clair / claire",
+   "clear",
+   "klɛʁ / klɛʁ"
+  ],
+  [
+   "probable",
+   "probable, likely",
+   "pʁɔ.babl"
+  ],
+  [
+   "douter",
+   "to doubt",
+   "du.te"
+  ],
+  [
+   "possible",
+   "possible",
+   "pɔ.sibl"
+  ],
+  [
+   "il se peut que",
+   "it may be that",
+   "il sə pø kə"
+  ],
+  [
+   "il paraît que",
+   "apparently",
+   "il pa.ʁɛ kə"
+  ],
+  [
+   "peu probable",
+   "unlikely",
+   "pø pʁɔ.babl"
+  ],
+  [
+   "rangé / rangée",
+   "tidy",
+   "ʁɑ̃.ʒe / ʁɑ̃.ʒe"
+  ],
+  [
+   "l'idée",
+   "the idea",
+   "li.de",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Je pense qu'il viendra demain.",
+   "I think he'll come tomorrow."
+  ],
+  [
+   "Je ne pense pas qu'il vienne.",
+   "I don't think he'll come."
+  ],
+  [
+   "Je suis sûre qu'elle a raison.",
+   "I'm sure she's right."
+  ],
+  [
+   "Je ne suis pas sûre qu'elle ait raison.",
+   "I'm not sure she's right."
+  ],
+  [
+   "J'espère que tu vas bien.",
+   "I hope you're well."
+  ],
+  [
+   "Je ne crois pas que ce soit une bonne idée.",
+   "I don't think it's a good idea."
+  ],
+  [
+   "Je doute qu'il puisse finir à temps.",
+   "I doubt he can finish in time."
+  ],
+  [
+   "Il est possible qu'il pleuve demain.",
+   "It may rain tomorrow."
+  ],
+  [
+   "Il est probable qu'il pleuvra demain.",
+   "It will probably rain tomorrow."
+  ],
+  [
+   "Il paraît que le restaurant est fermé.",
+   "Apparently the restaurant is closed."
+  ],
+  [
+   "Il se peut que je sois en retard.",
+   "I may be late."
+  ],
+  [
+   "J'aime que tout soit bien rangé.",
+   "I like everything to be tidy."
+  ],
+  [
+   "Il est évident que tu as raison.",
+   "It's obvious that you're right."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Je pense qu'il ___ demain.",
+   "options": [
+    "viendra",
+    "vienne",
+    "venait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ne pense pas qu'il ___.",
+   "options": [
+    "vienne",
+    "viendra",
+    "vient"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "A negative opinion expresses doubt: subjunctive."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'espère que tu ___ bien.",
+   "options": [
+    "vas",
+    "ailles",
+    "aille"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*espérer* takes the indicative."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je doute qu'il ___ finir à temps.",
+   "options": [
+    "puisse",
+    "peut",
+    "pourra"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est possible qu'il ___ demain.",
+   "options": [
+    "pleuve",
+    "pleuvra",
+    "pleut"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est probable qu'il ___ demain.",
+   "options": [
+    "pleuvra",
+    "pleuve",
+    "pleuvrait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je suis sûre qu'elle ___ raison.",
+   "options": [
+    "a",
+    "ait",
+    "aie"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ne suis pas sûre qu'elle ___ raison.",
+   "options": [
+    "ait",
+    "a",
+    "aura"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il paraît que…* means…",
+   "options": [
+    "Apparently…",
+    "It seems clear that…",
+    "It appears in front of…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which expression takes the subjunctive?",
+   "options": [
+    "Je doute que",
+    "Je pense que",
+    "Il est clair que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which expression takes the indicative?",
+   "options": [
+    "J'espère que",
+    "Je souhaite que",
+    "Je veux que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je pense qu'il ___ demain. (venir, futur)",
+   "answers": [
+    "viendra"
+   ],
+   "hint": "I think he'll come tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne pense pas qu'il ___. (venir)",
+   "answers": [
+    "vienne"
+   ],
+   "hint": "I don't think he'll come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne suis pas sûre qu'elle ___ raison. (avoir)",
+   "answers": [
+    "ait"
+   ],
+   "hint": "I'm not sure she's right."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'espère que tu ___ bien. (aller)",
+   "answers": [
+    "vas"
+   ],
+   "hint": "I hope you're well."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne crois pas que ce ___ une bonne idée. (être)",
+   "answers": [
+    "soit"
+   ],
+   "hint": "I don't think it's a good idea."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je doute qu'il ___ finir à temps. (pouvoir)",
+   "answers": [
+    "puisse"
+   ],
+   "hint": "I doubt he can finish in time."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est possible qu'il ___ demain. (pleuvoir)",
+   "answers": [
+    "pleuve"
+   ],
+   "hint": "It may rain tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ que le restaurant est fermé.",
+   "answers": [
+    "paraît"
+   ],
+   "hint": "Apparently the restaurant is closed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il se peut que je ___ en retard. (être)",
+   "answers": [
+    "sois"
+   ],
+   "hint": "I may be late."
+  },
+  {
+   "type": "translate",
+   "prompt": "I think he's right.",
+   "answers": [
+    "Je pense qu'il a raison.",
+    "Je crois qu'il a raison."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't think he's right.",
+   "answers": [
+    "Je ne pense pas qu'il ait raison.",
+    "Je ne crois pas qu'il ait raison."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I hope you're well. (to a friend)",
+   "answers": [
+    "J'espère que tu vas bien."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It may rain.",
+   "answers": [
+    "Il est possible qu'il pleuve.",
+    "Il se peut qu'il pleuve."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Apparently it's closed.",
+   "answers": [
+    "Il paraît que c'est fermé."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I don't think it's a good idea.\"",
+   "answer": "Je ne crois pas que ce soit une bonne idée."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It may rain tomorrow.\"",
+   "answer": "Il est possible qu'il pleuve demain."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I like everything to be tidy.\"",
+   "answer": "J'aime que tout soit bien rangé."
+  }
+ ]
+}

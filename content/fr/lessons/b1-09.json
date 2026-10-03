@@ -1,0 +1,377 @@
+{
+ "sections": [
+  {
+   "heading": "Stating your point of view",
+   "body": "- *À mon avis*, *Selon moi*, *D'après moi* — In my opinion\n- *Personnellement*, *Pour ma part* — Personally, For my part\n- *Je pense / crois / trouve que…* + indicative\n- *Il me semble que…* — It seems to me that… (indicative)\n- *J'ai l'impression que…* — I have the feeling that…\n- *Je suis convaincu(e) que…* — I'm convinced that…\n- *En ce qui me concerne, …* — As far as I'm concerned, …"
+  },
+  {
+   "heading": "Justifying it",
+   "body": "An opinion needs reasons. Link them with: *parce que*, *car* (because — more formal and written), *puisque* (since — the reason is obvious), *en effet* (indeed, in fact), *d'abord… ensuite… enfin* (first… then… finally), *par exemple*, *c'est pourquoi* (that's why).\n\n*À mon avis, le télétravail est une bonne chose. D'abord, on perd moins de temps dans les transports. Ensuite, on est plus concentré. C'est pourquoi je le recommande.*"
+  },
+  {
+   "heading": "Agreeing and disagreeing with nuance",
+   "body": "- Fully: *Je suis tout à fait d'accord.* — *Vous avez entièrement raison.* — *Absolument.*\n- Partly: *Je suis d'accord avec vous sur ce point, mais…* — *C'est vrai, mais d'un autre côté…* (on the other hand) — *Oui, en partie.* — *Ça dépend des cas.*\n- Not at all: *Je ne suis pas du tout d'accord.* — *Je ne partage pas votre avis.* (I don't share your view.) — *Au contraire !* — *Je ne vois pas les choses comme ça.*\n- Asking others: *Et vous, quel est votre avis ?* — *Qu'en pensez-vous ?* — *Vous êtes d'accord ?*\n\nRemember: after a negative opinion verb, the subjunctive: *Je ne pense pas que ce soit vrai.*"
+  }
+ ],
+ "vocab": [
+  [
+   "selon moi",
+   "in my view",
+   "sə.lɔ̃ mwa"
+  ],
+  [
+   "personnellement",
+   "personally",
+   "pɛʁ.sɔ.nɛl.mɑ̃"
+  ],
+  [
+   "pour ma part",
+   "for my part",
+   "puʁ ma paʁ"
+  ],
+  [
+   "il me semble que",
+   "it seems to me that",
+   "il mə sɑ̃bl kə"
+  ],
+  [
+   "l'impression",
+   "the impression, the feeling",
+   "lɛ̃.pʁɛ.sjɔ̃",
+   "f"
+  ],
+  [
+   "convaincu / convaincue",
+   "convinced",
+   "kɔ̃.vɛ̃.ky / kɔ̃.vɛ̃.ky"
+  ],
+  [
+   "car",
+   "because, for",
+   "kaʁ"
+  ],
+  [
+   "en effet",
+   "indeed, in fact",
+   "ɑ̃.n‿e.fɛ"
+  ],
+  [
+   "tout à fait",
+   "completely, absolutely",
+   "tu.t‿a fɛ"
+  ],
+  [
+   "d'un autre côté",
+   "on the other hand",
+   "dœ̃.n‿otʁ ko.te"
+  ],
+  [
+   "partager",
+   "to share",
+   "paʁ.ta.ʒe"
+  ],
+  [
+   "au contraire",
+   "on the contrary",
+   "o kɔ̃.tʁɛʁ"
+  ],
+  [
+   "le point",
+   "the point",
+   "lə pwɛ̃"
+  ],
+  [
+   "recommander",
+   "to recommend",
+   "ʁə.kɔ.mɑ̃.de"
+  ]
+ ],
+ "examples": [
+  [
+   "À mon avis, le télétravail est une bonne chose.",
+   "In my opinion, working from home is a good thing."
+  ],
+  [
+   "Personnellement, je préfère travailler au bureau.",
+   "Personally, I prefer working at the office."
+  ],
+  [
+   "Il me semble que c'est trop cher.",
+   "It seems to me that it's too expensive."
+  ],
+  [
+   "J'ai l'impression que personne ne m'écoute.",
+   "I have the feeling nobody's listening to me."
+  ],
+  [
+   "Je suis convaincue que c'est la bonne solution.",
+   "I'm convinced it's the right solution."
+  ],
+  [
+   "D'abord, on perd moins de temps dans les transports.",
+   "First, you waste less time commuting."
+  ],
+  [
+   "C'est pourquoi je le recommande.",
+   "That's why I recommend it."
+  ],
+  [
+   "Je suis tout à fait d'accord avec vous.",
+   "I completely agree with you."
+  ],
+  [
+   "Je suis d'accord sur ce point, mais d'un autre côté, c'est risqué.",
+   "I agree on that point, but on the other hand, it's risky."
+  ],
+  [
+   "Je ne partage pas votre avis.",
+   "I don't share your view."
+  ],
+  [
+   "Au contraire, je trouve que c'est une excellente idée !",
+   "On the contrary, I think it's an excellent idea!"
+  ],
+  [
+   "Qu'en pensez-vous ?",
+   "What do you think about it?"
+  ],
+  [
+   "Je ne pense pas que ce soit vrai.",
+   "I don't think it's true."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Which phrase introduces your personal opinion?",
+   "options": [
+    "À mon avis",
+    "En effet",
+    "Au contraire"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*car* means…",
+   "options": [
+    "because (more formal)",
+    "car",
+    "therefore"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je ne partage pas votre avis* means…",
+   "options": [
+    "I don't share your view",
+    "I don't give you my opinion",
+    "I don't divide your notice"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*d'un autre côté* means…",
+   "options": [
+    "on the other hand",
+    "on another side of the street",
+    "from the other one"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ne pense pas que ce ___ vrai.",
+   "options": [
+    "soit",
+    "est",
+    "sera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il me semble que c'___ trop cher.",
+   "options": [
+    "est",
+    "soit",
+    "sois"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*il me semble que* + indicative."
+  },
+  {
+   "type": "mc",
+   "prompt": "To agree completely, you say…",
+   "options": [
+    "Je suis tout à fait d'accord.",
+    "Je suis d'accord en partie.",
+    "Ça dépend des cas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "To disagree politely, you say…",
+   "options": [
+    "Je ne vois pas les choses comme ça.",
+    "Tu dis n'importe quoi.",
+    "C'est nul."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Qu'en pensez-vous ?* means…",
+   "options": [
+    "What do you think about it?",
+    "What do you think? (in general)",
+    "Where are you thinking?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'est pourquoi* means…",
+   "options": [
+    "That's why",
+    "Why is it?",
+    "Because"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "À mon ___, le télétravail est une bonne chose.",
+   "answers": [
+    "avis"
+   ],
+   "hint": "In my opinion…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___, je préfère travailler au bureau.",
+   "answers": [
+    "Personnellement"
+   ],
+   "hint": "Personally, I prefer working at the office."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il me ___ que c'est trop cher.",
+   "answers": [
+    "semble"
+   ],
+   "hint": "It seems to me that it's too expensive."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai l'___ que personne ne m'écoute.",
+   "answers": [
+    "impression"
+   ],
+   "hint": "I have the feeling nobody's listening."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis tout à ___ d'accord avec vous.",
+   "answers": [
+    "fait"
+   ],
+   "hint": "I completely agree with you."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne ___ pas votre avis.",
+   "answers": [
+    "partage"
+   ],
+   "hint": "I don't share your view."
+  },
+  {
+   "type": "fill",
+   "prompt": "Au ___, je trouve que c'est une excellente idée !",
+   "answers": [
+    "contraire"
+   ],
+   "hint": "On the contrary…"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est ___ je le recommande.",
+   "answers": [
+    "pourquoi"
+   ],
+   "hint": "That's why I recommend it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'en ___-vous ?",
+   "answers": [
+    "pensez"
+   ],
+   "hint": "What do you think about it?"
+  },
+  {
+   "type": "translate",
+   "prompt": "In my opinion, it's too expensive.",
+   "answers": [
+    "À mon avis, c'est trop cher.",
+    "Selon moi, c'est trop cher."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I completely agree.",
+   "answers": [
+    "Je suis tout à fait d'accord.",
+    "Je suis complètement d'accord."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "On the contrary!",
+   "answers": [
+    "Au contraire !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't think it's true.",
+   "answers": [
+    "Je ne pense pas que ce soit vrai.",
+    "Je ne crois pas que ce soit vrai."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What do you think about it? (polite)",
+   "answers": [
+    "Qu'en pensez-vous ?",
+    "Qu'est-ce que vous en pensez ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I agree on that point, but on the other hand, it's risky.\"",
+   "answer": "Je suis d'accord sur ce point, mais d'un autre côté, c'est risqué."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm convinced it's the right solution.\"",
+   "answer": "Je suis convaincue que c'est la bonne solution."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I have the feeling nobody's listening to me.\"",
+   "answer": "J'ai l'impression que personne ne m'écoute."
+  }
+ ]
+}
