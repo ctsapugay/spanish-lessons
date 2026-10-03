@@ -161,3 +161,8 @@ reader: state, not narrative.
 ## 2026-10-03 — CHK-003 with French: fixes to my own new scenarios
 - With French A1 present, all [fr] per-language scenarios pass ("app ok: 32 checks passed", --lang fr). Whole-app scenarios hung: my new voice/typing scenarios tried an MC click on every question and waited out a 30 s timeout on typed ones → added answerAnyhow (looks at the question type first). Also waited for the app to finish loading after a reload in the language-switching scenario. Now "app ok: 26 checks passed" (--whole), ~40 s. Test-plumbing fixes only; no assertion removed.
 - Added `--whole` (only whole-app scenarios) and APP_TEST_TIMING for diagnosis.
+
+## 2026-10-03 — French A2 written and reviewed
+- 30 lessons a2-01 … a2-30. "French content ok: 30 lessons"; accuracy "30 lessons, 12770 words … 440 vocabulary genders and pronunciation guides match, 58 lexicon notes".
+- Checker refinements (my own new check, bug/scope fixes): lexicon notes add a pronunciation rather than replace Lexique's; a schwa shown in a guide may be absent from Lexique (quelque /kɛl.kə/); liaison may link the parts of a hyphenated word (allons-y). Verified each still rejects real errors (deux /d/, invented consonants).
+- Review curriculum/fr/reviews/A2.md: 12 findings with fixes (wrong liaison rule for quand, ambiguous PC/imparfait items, a wrong answer key, invented distractors…).
