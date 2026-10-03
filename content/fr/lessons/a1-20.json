@@ -305,9 +305,9 @@
   },
   {
    "type": "fill",
-   "prompt": "Continuez ___'au feu.",
+   "prompt": "Continuez ___ feu.",
    "answers": [
-    "jusqu"
+    "jusqu'au"
    ],
    "hint": "Carry on as far as the traffic lights."
   },

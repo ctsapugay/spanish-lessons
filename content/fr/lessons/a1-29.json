@@ -1,0 +1,378 @@
+{
+ "sections": [
+  {
+   "heading": "The near future: aller + infinitive",
+   "body": "The easiest way to talk about the future is *aller* (present) + an infinitive — just like English \"going to\":\n\n- *Je vais partir en vacances.* — I'm going to go on holiday.\n- *Tu vas venir ce soir ?* — Are you going to come tonight?\n- *Il va pleuvoir.* — It's going to rain.\n- *Nous allons visiter Paris.* — We're going to visit Paris.\n- *Ils vont se marier.* — They're going to get married.\n\nNegative: *ne… pas* goes around *aller*: *Je ne vais pas travailler demain.*"
+  },
+  {
+   "heading": "When? Time expressions for the future",
+   "body": "*ce soir* (tonight), *demain* (tomorrow), *après-demain* (the day after tomorrow), *ce week-end*, *la semaine prochaine* (next week), *le mois prochain*, *l'année prochaine*, *dans deux jours* (in two days' time), *bientôt* (soon), *plus tard* (later).\n\n*Qu'est-ce que tu vas faire ce week-end ? — Je vais voir des amis et je vais faire du sport.*"
+  },
+  {
+   "heading": "Talking about plans",
+   "body": "- *J'ai envie de…* — I feel like…: *J'ai envie de voyager.*\n- *J'ai l'intention de…* — I intend to…\n- *Je compte…* — I'm planning to…: *Je compte partir en juin.*\n- *Mon projet, c'est de…* — My plan is to…: *Mon projet, c'est d'apprendre le français.*"
+  },
+  {
+   "heading": "Pronunciation: linking words",
+   "body": "French links words together in speech so that a sentence flows like one long word:\n\n- **Enchaînement** — a pronounced final consonant runs into the next vowel: *il arrive* /i.la.ʁiv/, *elle aime* /ɛ.lɛm/.\n- **Elision** — a final vowel disappears before another vowel, and the spelling shows it: *je + aime* → *j'aime*; *le + ami* → *l'ami*; *que + il* → *qu'il*.\n- **Liaison** — a normally silent final consonant is pronounced before a vowel: *vous allez* /vu.z‿a.le/, *nous allons*, *ils ont*, *un ami* /œ̃.n‿a.mi/, *les enfants*, *deux ans* /dø.z‿ɑ̃/, *très important* /tʁɛ.z‿ɛ̃.pɔʁ.tɑ̃/.\n\nLiaison is required after *les, des, un, mon, nous, vous, ils, elles* and before a noun or verb starting with a vowel. You'll learn exactly when it is required, optional or forbidden at A2."
+  }
+ ],
+ "vocab": [
+  [
+   "le futur proche",
+   "the near future",
+   "lə fy.tyʁ pʁɔʃ"
+  ],
+  [
+   "pleuvoir",
+   "to rain",
+   "plø.vwaʁ"
+  ],
+  [
+   "visiter",
+   "to visit (a place)",
+   "vi.zi.te"
+  ],
+  [
+   "se marier",
+   "to get married",
+   "sə ma.ʁje"
+  ],
+  [
+   "après-demain",
+   "the day after tomorrow",
+   "a.pʁɛ.də.mɛ̃"
+  ],
+  [
+   "ce soir",
+   "tonight, this evening",
+   "sə swaʁ"
+  ],
+  [
+   "plus tard",
+   "later",
+   "ply taʁ"
+  ],
+  [
+   "bientôt",
+   "soon",
+   "bjɛ̃.to"
+  ],
+  [
+   "avoir envie de",
+   "to feel like",
+   "a.vwaʁ ɑ̃.vi də"
+  ],
+  [
+   "le projet",
+   "the plan, the project",
+   "lə pʁɔ.ʒɛ"
+  ],
+  [
+   "voir",
+   "to see",
+   "vwaʁ"
+  ],
+  [
+   "dans",
+   "in (time from now)",
+   "dɑ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Je vais partir en vacances.",
+   "I'm going to go on holiday."
+  ],
+  [
+   "Tu vas venir ce soir ?",
+   "Are you going to come tonight?"
+  ],
+  [
+   "Il va pleuvoir cet après-midi.",
+   "It's going to rain this afternoon."
+  ],
+  [
+   "Nous allons visiter Paris le mois prochain.",
+   "We're going to visit Paris next month."
+  ],
+  [
+   "Ils vont se marier l'année prochaine.",
+   "They're going to get married next year."
+  ],
+  [
+   "Je ne vais pas travailler demain.",
+   "I'm not going to work tomorrow."
+  ],
+  [
+   "Qu'est-ce que tu vas faire ce week-end ?",
+   "What are you going to do this weekend?"
+  ],
+  [
+   "Je vais voir des amis.",
+   "I'm going to see some friends."
+  ],
+  [
+   "J'ai envie de voyager.",
+   "I feel like travelling."
+  ],
+  [
+   "Mon projet, c'est d'apprendre le français.",
+   "My plan is to learn French."
+  ],
+  [
+   "On se voit dans deux jours !",
+   "See you in two days!"
+  ],
+  [
+   "Elle va arriver bientôt.",
+   "She's going to arrive soon."
+  ],
+  [
+   "Vous allez aimer ce film.",
+   "You're going to like this film."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I'm going to leave\" is…",
+   "options": [
+    "Je vais partir.",
+    "Je vais pars.",
+    "Je pars aller."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ visiter Paris.",
+   "options": [
+    "allons",
+    "allez",
+    "vont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il ___ pleuvoir.",
+   "options": [
+    "va",
+    "vas",
+    "vais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Je vais travailler demain.*",
+   "options": [
+    "Je ne vais pas travailler demain.",
+    "Je vais ne pas travailler demain.",
+    "Je ne vais travailler pas demain."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*après-demain* means…",
+   "options": [
+    "the day after tomorrow",
+    "the day before yesterday",
+    "tomorrow afternoon"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*dans deux jours* means…",
+   "options": [
+    "in two days' time",
+    "two days ago",
+    "for two days"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'ai envie de voyager* means…",
+   "options": [
+    "I feel like travelling",
+    "I'm jealous of travelling",
+    "I have to travel"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *vous allez*, the s of *vous*…",
+   "options": [
+    "is pronounced z (liaison)",
+    "is silent",
+    "is pronounced s"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*j'aime* (instead of *je aime*) is an example of…",
+   "options": [
+    "elision",
+    "liaison",
+    "enchaînement"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *il arrive* /i.la.ʁiv/, the l of *il* runs into *arrive*. This is…",
+   "options": [
+    "enchaînement",
+    "elision",
+    "liaison"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "How is *deux ans* pronounced?",
+   "options": [
+    "/dø.z‿ɑ̃/",
+    "/dø ɑ̃/",
+    "/døks ɑ̃/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ils vont se marier* means…",
+   "options": [
+    "They're going to get married",
+    "They got married",
+    "They're married"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ partir en vacances. (aller)",
+   "answers": [
+    "vais"
+   ],
+   "hint": "I'm going to go on holiday."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu vas ___ ce soir ?",
+   "answers": [
+    "venir"
+   ],
+   "hint": "Are you going to come tonight?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il va ___ cet après-midi.",
+   "answers": [
+    "pleuvoir"
+   ],
+   "hint": "It's going to rain this afternoon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils vont se marier l'année ___.",
+   "answers": [
+    "prochaine"
+   ],
+   "hint": "They're going to get married next year."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne ___ pas travailler demain. (aller)",
+   "answers": [
+    "vais"
+   ],
+   "hint": "I'm not going to work tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'est-ce que tu vas ___ ce week-end ?",
+   "answers": [
+    "faire"
+   ],
+   "hint": "What are you going to do this weekend?"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ de voyager.",
+   "answers": [
+    "envie"
+   ],
+   "hint": "I feel like travelling."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon ___, c'est d'apprendre le français.",
+   "answers": [
+    "projet"
+   ],
+   "hint": "My plan is to learn French."
+  },
+  {
+   "type": "translate",
+   "prompt": "It's going to rain.",
+   "answers": [
+    "Il va pleuvoir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm going to see some friends.",
+   "answers": [
+    "Je vais voir des amis."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We're going to visit Paris.",
+   "answers": [
+    "Nous allons visiter Paris.",
+    "On va visiter Paris."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "See you soon!",
+   "answers": [
+    "À bientôt !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What are you going to do tonight? (to a friend)",
+   "answers": [
+    "Qu'est-ce que tu vas faire ce soir ?",
+    "Tu vas faire quoi ce soir ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We're going to visit Paris next month.\"",
+   "answer": "Nous allons visiter Paris le mois prochain."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm not going to work tomorrow.\"",
+   "answer": "Je ne vais pas travailler demain."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What are you going to do this weekend?\"",
+   "answer": "Qu'est-ce que tu vas faire ce week-end ?"
+  }
+ ]
+}

@@ -1,0 +1,454 @@
+{
+ "sections": [
+  {
+   "heading": "The body",
+   "body": "*le corps* (body): *la tête* (head), *les cheveux* (hair — always plural), *les yeux* (eyes; one eye: *un œil*), *le nez* (nose), *la bouche* (mouth), *les dents* (teeth), *l'oreille* (ear), *le cou* (neck), *la gorge* (throat), *le dos* (back), *le ventre* (stomach, belly), *le bras* (arm), *la main* (hand), *le doigt* (finger), *la jambe* (leg), *le genou* (knee), *le pied* (foot)."
+  },
+  {
+   "heading": "Where does it hurt? Avoir mal à",
+   "body": "To say something hurts, use *avoir mal à* + the body part, with the contractions: *J'ai mal à la tête.* (I have a headache.) *J'ai mal au dos.* (My back hurts.) *Il a mal aux dents.* (He has toothache.) *Elle a mal à l'oreille.*\n\nTo ask: *Où est-ce que vous avez mal ?* (Where does it hurt?) — *Qu'est-ce qui ne va pas ?* (What's wrong?)\n\nOther symptoms: *J'ai de la fièvre.* (I have a temperature.) *Je tousse.* (I'm coughing.) *Je suis malade.* (I'm ill.) *Je suis fatigué(e).* (I'm tired.) *J'ai froid / chaud.* (I'm cold / hot.)"
+  },
+  {
+   "heading": "At the pharmacy and the doctor's",
+   "body": "In France, you often go to the pharmacy first — pharmacists give advice. *Bonjour, j'ai mal à la gorge. Vous avez quelque chose ?* (Do you have something for it?) — *un médicament* (a medicine), *des comprimés* (tablets), *du sirop* (syrup), *une ordonnance* (a prescription). The doctor says: *Prenez un comprimé trois fois par jour.* (Take one tablet three times a day.) *Reposez-vous.* (Rest.)"
+  },
+  {
+   "heading": "Why? Because. What for?",
+   "body": "- *parce que* + a sentence — because: *Je reste à la maison parce que je suis malade.*\n- *pour* + infinitive — (in order) to: *Je vais à la pharmacie pour acheter des médicaments.*\n- *pour* + noun — for: *un sirop pour la toux* (a syrup for a cough)\n- Linking ideas: *et* (and), *ou* (or), *mais* (but), *alors* (so): *J'ai de la fièvre, alors je reste au lit.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le corps",
+   "the body",
+   "lə kɔʁ"
+  ],
+  [
+   "la tête",
+   "the head",
+   "la tɛt"
+  ],
+  [
+   "les cheveux",
+   "hair",
+   "le ʃə.vø",
+   "m"
+  ],
+  [
+   "les yeux",
+   "the eyes",
+   "le.z‿jø",
+   "m"
+  ],
+  [
+   "le nez",
+   "the nose",
+   "lə ne"
+  ],
+  [
+   "la bouche",
+   "the mouth",
+   "la buʃ"
+  ],
+  [
+   "la dent",
+   "the tooth",
+   "la dɑ̃"
+  ],
+  [
+   "la gorge",
+   "the throat",
+   "la ɡɔʁʒ"
+  ],
+  [
+   "le dos",
+   "the back",
+   "lə do"
+  ],
+  [
+   "le ventre",
+   "the stomach, the belly",
+   "lə vɑ̃tʁ"
+  ],
+  [
+   "le bras",
+   "the arm",
+   "lə bʁa"
+  ],
+  [
+   "la main",
+   "the hand",
+   "la mɛ̃"
+  ],
+  [
+   "la jambe",
+   "the leg",
+   "la ʒɑ̃b"
+  ],
+  [
+   "le pied",
+   "the foot",
+   "lə pje"
+  ],
+  [
+   "avoir mal à",
+   "to have a pain in, to hurt",
+   "a.vwaʁ mal a"
+  ],
+  [
+   "la fièvre",
+   "fever, a temperature",
+   "la fjɛvʁ"
+  ],
+  [
+   "malade",
+   "ill, sick",
+   "ma.lad"
+  ],
+  [
+   "fatigué / fatiguée",
+   "tired",
+   "fa.ti.ɡe / fa.ti.ɡe"
+  ],
+  [
+   "le médicament",
+   "the medicine",
+   "lə me.di.ka.mɑ̃"
+  ],
+  [
+   "l'ordonnance",
+   "the prescription",
+   "lɔʁ.dɔ.nɑ̃s",
+   "f"
+  ],
+  [
+   "mais",
+   "but",
+   "mɛ"
+  ],
+  [
+   "alors",
+   "so, then",
+   "a.lɔʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "J'ai mal à la tête.",
+   "I have a headache."
+  ],
+  [
+   "J'ai mal au dos depuis trois jours.",
+   "My back has been hurting for three days."
+  ],
+  [
+   "Il a mal aux dents.",
+   "He has toothache."
+  ],
+  [
+   "Où est-ce que vous avez mal ?",
+   "Where does it hurt?"
+  ],
+  [
+   "Qu'est-ce qui ne va pas ?",
+   "What's wrong?"
+  ],
+  [
+   "J'ai de la fièvre et je tousse.",
+   "I have a temperature and I'm coughing."
+  ],
+  [
+   "Je suis malade, alors je reste au lit.",
+   "I'm ill, so I'm staying in bed."
+  ],
+  [
+   "Bonjour, j'ai mal à la gorge. Vous avez quelque chose ?",
+   "Hello, I have a sore throat. Do you have anything for it?"
+  ],
+  [
+   "Prenez un comprimé trois fois par jour.",
+   "Take one tablet three times a day."
+  ],
+  [
+   "Je vais à la pharmacie pour acheter des médicaments.",
+   "I'm going to the pharmacy to buy some medicine."
+  ],
+  [
+   "Je ne travaille pas aujourd'hui parce que je suis malade.",
+   "I'm not working today because I'm ill."
+  ],
+  [
+   "Elle est fatiguée mais elle va bien.",
+   "She's tired but she's fine."
+  ],
+  [
+   "Il a les yeux bleus et les cheveux bruns.",
+   "He has blue eyes and brown hair."
+  ],
+  [
+   "J'ai marché toute la journée, j'ai mal aux pieds.",
+   "I walked all day; my feet hurt."
+  ],
+  [
+   "Reposez-vous bien !",
+   "Get plenty of rest!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I have a headache\" is…",
+   "options": [
+    "J'ai mal à la tête.",
+    "J'ai mal au tête.",
+    "Je suis mal à la tête."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"My back hurts\" is…",
+   "options": [
+    "J'ai mal au dos.",
+    "J'ai mal à le dos.",
+    "J'ai mal à dos."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*à + le* → *au*."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"He has toothache\" is…",
+   "options": [
+    "Il a mal aux dents.",
+    "Il a mal à les dents.",
+    "Il a mal au dents."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*les yeux* means…",
+   "options": [
+    "the eyes",
+    "the ears",
+    "the teeth",
+    "the hair"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les cheveux* is…",
+   "options": [
+    "always plural: hair",
+    "a horse",
+    "a single hair only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'ai de la fièvre* means…",
+   "options": [
+    "I have a temperature",
+    "I'm cold",
+    "I'm coughing",
+    "I'm tired"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une ordonnance* is…",
+   "options": [
+    "a prescription",
+    "an order in a restaurant",
+    "an appointment"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je reste à la maison ___ je suis malade.",
+   "options": [
+    "parce que",
+    "pour",
+    "alors"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je vais à la pharmacie ___ acheter des médicaments.",
+   "options": [
+    "pour",
+    "parce que",
+    "mais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai de la fièvre, ___ je reste au lit.",
+   "options": [
+    "alors",
+    "parce que",
+    "pour"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Qu'est-ce qui ne va pas ?* means…",
+   "options": [
+    "What's wrong?",
+    "What's not going?",
+    "Where are you going?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is part of the leg?",
+   "options": [
+    "le genou",
+    "le doigt",
+    "le cou"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai mal à la ___.",
+   "answers": [
+    "tête"
+   ],
+   "hint": "I have a headache."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai mal ___ dos.",
+   "answers": [
+    "au"
+   ],
+   "hint": "My back hurts."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a mal ___ dents.",
+   "answers": [
+    "aux"
+   ],
+   "hint": "He has toothache."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai de la ___ et je tousse.",
+   "answers": [
+    "fièvre"
+   ],
+   "hint": "I have a temperature and I'm coughing."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis ___, alors je reste au lit.",
+   "answers": [
+    "malade"
+   ],
+   "hint": "I'm ill, so I'm staying in bed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Prenez un comprimé trois fois par ___.",
+   "answers": [
+    "jour"
+   ],
+   "hint": "Take one tablet three times a day."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vais à la pharmacie ___ acheter des médicaments.",
+   "answers": [
+    "pour"
+   ],
+   "hint": "I'm going to the pharmacy to buy some medicine."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est fatiguée ___ elle va bien.",
+   "answers": [
+    "mais"
+   ],
+   "hint": "She's tired but she's fine."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne travaille pas ___ je suis malade.",
+   "answers": [
+    "parce que"
+   ],
+   "hint": "I'm not working because I'm ill."
+  },
+  {
+   "type": "translate",
+   "prompt": "I have a sore throat.",
+   "answers": [
+    "J'ai mal à la gorge."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm tired.",
+   "answers": [
+    "Je suis fatigué.",
+    "Je suis fatiguée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Where does it hurt? (polite)",
+   "answers": [
+    "Où est-ce que vous avez mal ?",
+    "Où avez-vous mal ?",
+    "Vous avez mal où ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm ill.",
+   "answers": [
+    "Je suis malade."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My feet hurt.",
+   "answers": [
+    "J'ai mal aux pieds."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm ill, so I'm staying in bed.\"",
+   "answer": "Je suis malade, alors je reste au lit."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He has blue eyes and brown hair.\"",
+   "answer": "Il a les yeux bleus et les cheveux bruns."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Take one tablet three times a day.\"",
+   "answer": "Prenez un comprimé trois fois par jour."
+  }
+ ]
+}

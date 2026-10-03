@@ -1,0 +1,414 @@
+{
+ "sections": [
+  {
+   "heading": "The passé composé with avoir",
+   "body": "To say what you did, French uses the **passé composé**: *avoir* (present) + the **past participle**. It covers English \"I ate\", \"I have eaten\" and \"I did eat\".\n\nThe past participle of **-er** verbs ends in **-é** (and sounds just like the infinitive): *manger* → *mangé*, *parler* → *parlé*, *travailler* → *travaillé*.\n\n*J'ai mangé.* *Tu as parlé.* *Il a travaillé.* *Nous avons visité Paris.* *Vous avez regardé le film ?* *Ils ont acheté une maison.*\n\nCommon irregular participles: *faire* → *fait*, *prendre* → *pris*, *voir* → *vu*, *avoir* → *eu*, *être* → *été*, *boire* → *bu*, *lire* → *lu*, *écrire* → *écrit*, *mettre* → *mis*, *pouvoir* → *pu*, *vouloir* → *voulu*, *devoir* → *dû*.\n\nNegative: *ne… pas* goes around *avoir*: *Je n'ai pas mangé.* *Il n'a pas vu le film.*"
+  },
+  {
+   "heading": "The passé composé with être",
+   "body": "About fifteen verbs of movement or change of state use *être* instead of *avoir*: *aller, venir, arriver, partir, entrer, sortir, monter, descendre, naître, mourir, rester, tomber, rentrer, retourner, devenir*. Pronominal verbs use *être* too.\n\nWith *être*, the participle **agrees** with the subject, like an adjective: *Il est allé au cinéma.* *Elle est allée au cinéma.* *Ils sont partis.* *Elles sont arrivées.* *Je suis né(e) en 1990.* (I was born in 1990.)"
+  },
+  {
+   "heading": "Just done: venir de",
+   "body": "*venir de* + infinitive = to have just done something: *Je viens de manger.* (I've just eaten.) *Le train vient de partir.* (The train has just left.)\n\nAnd for something happening right now, *être en train de* + infinitive: *Je suis en train de travailler.* (I'm busy working.)"
+  },
+  {
+   "heading": "Writing a postcard",
+   "body": "*Chère Léa,* (to a woman) / *Cher Hugo,* (to a man)\n*Je suis à Nice depuis trois jours. Il fait beau et chaud ! Hier, j'ai visité la vieille ville et j'ai mangé dans un bon restaurant. Ce matin, je suis allée à la plage. Demain, je vais prendre le train pour Marseille.*\n*Grosses bises,* (lots of love — to friends and family) *Camille*\n\nFor an email to a friend: *Salut !* … *À bientôt !* / *Bises !*"
+  }
+ ],
+ "vocab": [
+  [
+   "mangé",
+   "eaten (past participle)",
+   "mɑ̃.ʒe"
+  ],
+  [
+   "fait",
+   "done, made",
+   "fɛ"
+  ],
+  [
+   "pris",
+   "taken",
+   "pʁi"
+  ],
+  [
+   "vu",
+   "seen",
+   "vy"
+  ],
+  [
+   "été",
+   "been",
+   "e.te"
+  ],
+  [
+   "hier",
+   "yesterday",
+   "jɛʁ"
+  ],
+  [
+   "dernier / dernière",
+   "last",
+   "dɛʁ.nje / dɛʁ.njɛʁ"
+  ],
+  [
+   "allé / allée",
+   "gone",
+   "a.le / a.le"
+  ],
+  [
+   "parti / partie",
+   "left",
+   "paʁ.ti / paʁ.ti"
+  ],
+  [
+   "né / née",
+   "born",
+   "ne / ne"
+  ],
+  [
+   "venir de",
+   "to have just (done)",
+   "və.niʁ də"
+  ],
+  [
+   "être en train de",
+   "to be busy doing",
+   "ɛtʁ ɑ̃ tʁɛ̃ də"
+  ],
+  [
+   "la carte postale",
+   "the postcard",
+   "la kaʁt pɔs.tal"
+  ],
+  [
+   "cher / chère",
+   "dear",
+   "ʃɛʁ / ʃɛʁ"
+  ],
+  [
+   "grosses bises",
+   "lots of love (to sign off)",
+   "ɡʁos biz"
+  ]
+ ],
+ "examples": [
+  [
+   "Hier, j'ai mangé au restaurant.",
+   "Yesterday I ate at a restaurant."
+  ],
+  [
+   "Tu as vu le film ?",
+   "Have you seen the film?"
+  ],
+  [
+   "Nous avons visité Paris l'été dernier.",
+   "We visited Paris last summer."
+  ],
+  [
+   "Il n'a pas travaillé hier.",
+   "He didn't work yesterday."
+  ],
+  [
+   "J'ai pris le train à huit heures.",
+   "I took the train at eight."
+  ],
+  [
+   "Elle est allée à la plage.",
+   "She went to the beach."
+  ],
+  [
+   "Ils sont partis ce matin.",
+   "They left this morning."
+  ],
+  [
+   "Je suis née en 1990.",
+   "I was born in 1990. (a woman)"
+  ],
+  [
+   "Qu'est-ce que vous avez fait le week-end dernier ?",
+   "What did you do last weekend?"
+  ],
+  [
+   "Je viens de manger.",
+   "I've just eaten."
+  ],
+  [
+   "Le train vient de partir !",
+   "The train has just left!"
+  ],
+  [
+   "Je suis en train de travailler.",
+   "I'm busy working."
+  ],
+  [
+   "Chère Léa, je suis à Nice depuis trois jours.",
+   "Dear Léa, I've been in Nice for three days."
+  ],
+  [
+   "Grosses bises, Camille",
+   "Lots of love, Camille"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Hier, j'___ mangé au restaurant.",
+   "options": [
+    "ai",
+    "suis",
+    "as"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle ___ allée à la plage.",
+   "options": [
+    "est",
+    "a",
+    "ai"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils ___ partis ce matin.",
+   "options": [
+    "sont",
+    "ont",
+    "est"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ visité Paris.",
+   "options": [
+    "avons",
+    "sommes",
+    "ont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which verb takes *être* in the passé composé?",
+   "options": [
+    "arriver",
+    "manger",
+    "regarder"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which verb takes *avoir* in the passé composé?",
+   "options": [
+    "prendre",
+    "aller",
+    "partir"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The past participle of *faire* is…",
+   "options": [
+    "fait",
+    "faire",
+    "faisant"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The past participle of *voir* is…",
+   "options": [
+    "vu",
+    "voir",
+    "voyant"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Camille writes \"I went to the beach.\"",
+   "options": [
+    "Je suis allée à la plage.",
+    "Je suis allé à la plage.",
+    "J'ai allée à la plage."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "With *être*, the participle agrees: Camille is a woman, so *allée*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Il a travaillé.*",
+   "options": [
+    "Il n'a pas travaillé.",
+    "Il n'a travaillé pas.",
+    "Il ne pas a travaillé."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je viens de manger* means…",
+   "options": [
+    "I've just eaten",
+    "I'm coming to eat",
+    "I'm going to eat"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "You end a postcard to a close friend with…",
+   "options": [
+    "Grosses bises",
+    "Cher monsieur",
+    "Bonne journée, madame"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Hier, j'ai ___ au restaurant. (manger)",
+   "answers": [
+    "mangé"
+   ],
+   "hint": "Yesterday I ate at a restaurant."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu as ___ le film ? (voir)",
+   "answers": [
+    "vu"
+   ],
+   "hint": "Have you seen the film?"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ le train à huit heures. (prendre)",
+   "answers": [
+    "pris"
+   ],
+   "hint": "I took the train at eight."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est ___ à la plage. (aller)",
+   "answers": [
+    "allée"
+   ],
+   "hint": "She went to the beach."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils sont ___ ce matin. (partir)",
+   "answers": [
+    "partis"
+   ],
+   "hint": "They left this morning."
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'est-ce que vous avez ___ le week-end dernier ? (faire)",
+   "answers": [
+    "fait"
+   ],
+   "hint": "What did you do last weekend?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ de manger. (venir)",
+   "answers": [
+    "viens"
+   ],
+   "hint": "I've just eaten."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis en ___ de travailler.",
+   "answers": [
+    "train"
+   ],
+   "hint": "I'm busy working."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il n'a ___ travaillé hier.",
+   "answers": [
+    "pas"
+   ],
+   "hint": "He didn't work yesterday."
+  },
+  {
+   "type": "translate",
+   "prompt": "Yesterday I watched TV.",
+   "answers": [
+    "Hier, j'ai regardé la télé.",
+    "J'ai regardé la télé hier."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She went to Paris.",
+   "answers": [
+    "Elle est allée à Paris."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We visited the museum.",
+   "answers": [
+    "Nous avons visité le musée.",
+    "On a visité le musée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I've just eaten.",
+   "answers": [
+    "Je viens de manger."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What did you do yesterday? (to a friend)",
+   "answers": [
+    "Qu'est-ce que tu as fait hier ?",
+    "Tu as fait quoi hier ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We visited Paris last summer.\"",
+   "answer": "Nous avons visité Paris l'été dernier."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"They left this morning.\"",
+   "answer": "Ils sont partis ce matin."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The train has just left!\"",
+   "answer": "Le train vient de partir !"
+  }
+ ]
+}

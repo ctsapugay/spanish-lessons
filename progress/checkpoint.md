@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-10-03
-**Now:** Polyglotte app + French tooling done and committed (CHK-001/002/004/008 green; Spanish CHK-003 scenarios green). French outline (content/fr/course.json, 148 lessons) and inventory exist; NO French lessons written yet.
-**Next:** Write French A1 lessons fr a1-01 … a1-30 (content/fr/lessons/<id>.json), each: `python3 scripts/build.py && python3 checks/scripts/check_content.py --lang fr <id> && python3 checks/scripts/check_french_accuracy.py <id>`. Then curriculum/fr/reviews/A1.md (with "## Lexicon notes"), commit; then A2, B1, B2, C1 the same way.
-**Watch:** Vocab = [fr, en, ipa(, m/f)]; `python3 scripts/frlex.py ipa "..."` for IPA. French in *italics* in explanations; English only in hints. Metropolitan standard; vous/tu both. Never push without Clara's go-ahead.
+**Now:** French A1 done (30 lessons + review curriculum/fr/reviews/A1.md), committed. App, tooling, CHK-008 done. Full CHK-003 run with French A1 in progress/pending.
+**Next:** French A2 (a2-01 … a2-30, outline in content/fr/course.json), then B1, B2, C1 — each: lessons → `check_content.py --lang fr` + `check_french_accuracy.py` green → review curriculum/fr/reviews/<LV>.md (lessons named, "- problem → fix" findings, "## Lexicon notes") → commit.
+**Watch:** Vocab = [fr, en, ipa(, m/f)]; gendered pairs as "un X / une Y"; endings in **bold** not italics; teach every verb form an exercise uses; NO invented misspellings as distractors; names/places need lexicon notes; NBSP before ?!:; Never push without Clara's go-ahead.
