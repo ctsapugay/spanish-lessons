@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-10-03
-**Now:** French A1 + A2 done (60 lessons + reviews); B1 b1-01…b1-24 written and committed (review B1.md has lexicon notes only so far). CHK-003: [es] 31 ok, [fr] 32 ok, --whole 26 ok (fixed hang). B1 next.
-**Next:** French B1 b1-01 … b1-32 (outline content/fr/course.json), then B2 (30), C1 (26): lessons → content + accuracy checks green → review curriculum/fr/reviews/<LV>.md → commit. Then full verify.py, criteria G7–G13 evidence, hand checks.
-**Watch:** Lessons are authored in scratchpad text (mk.py) → content/fr/lessons/*.json is canonical. No invented misspellings as distractors; no ambiguous items; teach every form an exercise uses; English never in fill prompts or @fr options; names/places/abbreviations need lexicon notes. Commit only when checks pass. Never push without Clara.
+**Now:** French A1, A2, B1 done (92 lessons + reviews), committed. App + all tooling done; CHK-008 green; CHK-003 per-language and --whole green when last run.
+**Next:** French B2 b2-01 … b2-30, then C1 c1-01 … c1-26 (outline in content/fr/course.json): lessons → content + accuracy green → review curriculum/fr/reviews/<LV>.md → commit. Then full `python3 tools/verify.py`, criteria G7–G13 evidence (incl. hand checks in the browser), README numbers, log.
+**Watch:** No bold inside italic French; no invented forms as distractors (use typed fill-ins instead); no ambiguous items; teach every form an exercise uses; English never in fill prompts or @fr options; names/places/abbreviations need lexicon notes. Commit only when checks pass. Never push without Clara.
