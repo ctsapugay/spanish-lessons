@@ -1,0 +1,422 @@
+{
+ "sections": [
+  {
+   "heading": "Sequence of tenses",
+   "body": "When the reporting verb is in a **past tense** (*il a dit que*, *elle expliquait que*), the tenses in the reported clause shift back:\n\n*Elle m'a dit : « Je partirai demain. »* → *Elle m'a dit qu'elle partirait le lendemain.*",
+   "table": {
+    "head": [
+     "Direct speech",
+     "Reported (after *il a dit que*)"
+    ],
+    "rows": [
+     [
+      "présent: *« Je suis fatigué. »*",
+      "imparfait: *qu'il était fatigué*"
+     ],
+     [
+      "passé composé: *« J'ai fini. »*",
+      "plus-que-parfait: *qu'il avait fini*"
+     ],
+     [
+      "futur: *« Je viendrai. »*",
+      "conditionnel présent: *qu'il viendrait*"
+     ],
+     [
+      "futur antérieur: *« J'aurai fini. »*",
+      "conditionnel passé: *qu'il aurait fini*"
+     ],
+     [
+      "imparfait, plus-que-parfait, conditionnel",
+      "no change"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Time and place words shift too",
+   "body": "",
+   "table": {
+    "head": [
+     "Direct",
+     "Reported (past)"
+    ],
+    "rows": [
+     [
+      "*aujourd'hui*",
+      "*ce jour-là*"
+     ],
+     [
+      "*hier*",
+      "*la veille*"
+     ],
+     [
+      "*demain*",
+      "*le lendemain*"
+     ],
+     [
+      "*maintenant*",
+      "*à ce moment-là*"
+     ],
+     [
+      "*la semaine dernière*",
+      "*la semaine précédente*"
+     ],
+     [
+      "*la semaine prochaine*",
+      "*la semaine suivante*"
+     ],
+     [
+      "*ici*",
+      "*là*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Questions and orders",
+   "body": "- *« Tu viens ? »* → *Il m'a demandé **si** je venais.*\n- *« Où vas-tu ? »* → *Il m'a demandé **où** j'allais.*\n- *« Qu'est-ce que tu as fait ? »* → *Il m'a demandé **ce que** j'avais fait.*\n- *« Ferme la porte ! »* → *Il m'a dit **de** fermer la porte.*"
+  },
+  {
+   "heading": "Reporting verbs",
+   "body": "Vary your verbs: *affirmer* (claim), *déclarer*, *annoncer*, *expliquer*, *ajouter* (add), *répondre*, *promettre*, *avouer* (admit), *prétendre* (claim — often doubtful), *reconnaître* (acknowledge), *nier* (deny), *s'étonner* (be surprised), *se plaindre* (complain): *Il a avoué qu'il avait menti.* *Elle a nié avoir pris l'argent.*"
+  }
+ ],
+ "vocab": [
+  [
+   "la concordance des temps",
+   "the sequence of tenses",
+   "la kɔ̃.kɔʁ.dɑ̃s de tɑ̃"
+  ],
+  [
+   "déclarer",
+   "to declare, to state",
+   "de.kla.ʁe"
+  ],
+  [
+   "avouer",
+   "to admit, to confess",
+   "a.vwe"
+  ],
+  [
+   "prétendre",
+   "to claim",
+   "pʁe.tɑ̃dʁ"
+  ],
+  [
+   "reconnaître",
+   "to acknowledge, to recognise",
+   "ʁə.kɔ.nɛtʁ"
+  ],
+  [
+   "nier",
+   "to deny",
+   "nje"
+  ],
+  [
+   "se plaindre",
+   "to complain",
+   "sə plɛ̃dʁ"
+  ],
+  [
+   "s'étonner",
+   "to be surprised",
+   "se.tɔ.ne"
+  ],
+  [
+   "la veille",
+   "the day before",
+   "la vɛj"
+  ],
+  [
+   "le lendemain",
+   "the next day",
+   "lə lɑ̃d.mɛ̃"
+  ],
+  [
+   "promettre",
+   "to promise",
+   "pʁɔ.mɛtʁ"
+  ],
+  [
+   "le témoin",
+   "the witness",
+   "lə te.mwɛ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Il a dit qu'il était fatigué.",
+   "He said he was tired."
+  ],
+  [
+   "Elle m'a expliqué qu'elle avait perdu ses clés.",
+   "She explained that she had lost her keys."
+  ],
+  [
+   "Il a promis qu'il viendrait.",
+   "He promised he would come."
+  ],
+  [
+   "Elle a dit qu'elle partirait le lendemain.",
+   "She said she would leave the next day."
+  ],
+  [
+   "Il a affirmé qu'il aurait fini avant midi.",
+   "He claimed he would have finished before noon."
+  ],
+  [
+   "Il m'a demandé si je venais à la fête.",
+   "He asked me if I was coming to the party."
+  ],
+  [
+   "Elle m'a demandé où j'allais.",
+   "She asked me where I was going."
+  ],
+  [
+   "Ils m'ont demandé ce que j'avais fait la veille.",
+   "They asked me what I had done the day before."
+  ],
+  [
+   "Le professeur nous a dit de fermer nos livres.",
+   "The teacher told us to close our books."
+  ],
+  [
+   "Il a avoué qu'il avait menti.",
+   "He admitted he had lied."
+  ],
+  [
+   "Elle a nié avoir pris l'argent.",
+   "She denied taking the money."
+  ],
+  [
+   "Le témoin a déclaré qu'il n'avait rien vu.",
+   "The witness stated that he had seen nothing."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*« Je suis fatigué. »* → Il a dit…",
+   "options": [
+    "qu'il était fatigué.",
+    "qu'il est fatigué hier.",
+    "qu'il soit fatigué."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« J'ai perdu mes clés. »* → Elle a dit…",
+   "options": [
+    "qu'elle avait perdu ses clés.",
+    "qu'elle a perdu mes clés.",
+    "qu'elle perdrait ses clés."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« Je viendrai. »* → Il a promis…",
+   "options": [
+    "qu'il viendrait.",
+    "qu'il viendra hier.",
+    "qu'il venait demain."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« Tu viens ? »* → Il m'a demandé…",
+   "options": [
+    "si je venais.",
+    "que je venais.",
+    "est-ce que je venais."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« Qu'est-ce que tu as fait ? »* → Ils m'ont demandé…",
+   "options": [
+    "ce que j'avais fait.",
+    "qu'est-ce que j'avais fait.",
+    "ce qui j'avais fait."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In reported speech in the past, *demain* becomes…",
+   "options": [
+    "le lendemain",
+    "la veille",
+    "demain"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In reported speech in the past, *hier* becomes…",
+   "options": [
+    "la veille",
+    "le lendemain",
+    "hier soir"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The futur becomes… after *il a dit que*",
+   "options": [
+    "the conditionnel présent",
+    "the imparfait",
+    "the futur antérieur"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*nier* means…",
+   "options": [
+    "to deny",
+    "to deliver",
+    "to neighbour"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*avouer* means…",
+   "options": [
+    "to admit",
+    "to avoid",
+    "to promise"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a dit qu'il ___ fatigué. (être)",
+   "answers": [
+    "était"
+   ],
+   "hint": "He said he was tired."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle m'a expliqué qu'elle ___ perdu ses clés. (avoir)",
+   "answers": [
+    "avait"
+   ],
+   "hint": "She explained she had lost her keys."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a promis qu'il ___. (venir)",
+   "answers": [
+    "viendrait"
+   ],
+   "hint": "He promised he would come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a dit qu'elle partirait le ___.",
+   "answers": [
+    "lendemain"
+   ],
+   "hint": "She said she would leave the next day."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il m'a demandé ___ je venais à la fête.",
+   "answers": [
+    "si"
+   ],
+   "hint": "He asked me if I was coming."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils m'ont demandé ___ que j'avais fait.",
+   "answers": [
+    "ce"
+   ],
+   "hint": "They asked me what I had done."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le professeur nous a dit ___ fermer nos livres.",
+   "answers": [
+    "de"
+   ],
+   "hint": "The teacher told us to close our books."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a ___ qu'il avait menti. (avouer)",
+   "answers": [
+    "avoué"
+   ],
+   "hint": "He admitted he had lied."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le témoin a déclaré qu'il n'___ rien vu. (avoir)",
+   "answers": [
+    "avait"
+   ],
+   "hint": "The witness stated he had seen nothing."
+  },
+  {
+   "type": "translate",
+   "prompt": "He said he was tired.",
+   "answers": [
+    "Il a dit qu'il était fatigué."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She asked me where I was going.",
+   "answers": [
+    "Elle m'a demandé où j'allais."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He promised he would come.",
+   "answers": [
+    "Il a promis qu'il viendrait.",
+    "Il a promis de venir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She denied taking the money.",
+   "answers": [
+    "Elle a nié avoir pris l'argent.",
+    "Elle a nié qu'elle avait pris l'argent."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"They asked me what I had done the day before.\"",
+   "answer": "Ils m'ont demandé ce que j'avais fait la veille."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The witness stated that he had seen nothing.\"",
+   "answer": "Le témoin a déclaré qu'il n'avait rien vu."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She said she would leave the next day.\"",
+   "answer": "Elle a dit qu'elle partirait le lendemain."
+  }
+ ]
+}

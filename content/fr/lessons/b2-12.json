@@ -1,0 +1,363 @@
+{
+ "sections": [
+  {
+   "heading": "Pronominal verbs: the real rule",
+   "body": "With pronominal verbs (which use *être*), the participle usually agrees with the subject: *Elle s'est levée.* *Ils se sont promenés.* But the real rule is: it agrees with the **direct object** if that object comes before — and in most pronominal verbs, *se* **is** the direct object.\n\nWhen *se* is an **indirect** object (= \"to oneself / to each other\"), there's **no agreement**:\n\n- *Elle s'est lavée.* (She washed herself — *se* is direct: agreement)\n- *Elle s'est lavé **les mains**.* (She washed her hands — the direct object is *les mains*, after the verb; *se* = \"to herself\": no agreement)\n- *Ils se sont parlé.* (They spoke to each other — *parler **à**: no agreement)\n- *Ils se sont téléphoné*, *se sont écrit*, *se sont dit au revoir*, *se sont souri* (smiled at each other), *se sont plu* (liked each other) — all without agreement.\n- But *Ils se sont vus, aimés, rencontrés* (*voir / aimer / rencontrer quelqu'un*): agreement.\n\nAnd when the direct object comes before: *Les mains qu'elle s'est lavées.* (agreement with *que* = *les mains*)."
+  },
+  {
+   "heading": "With en: no agreement",
+   "body": "*Des fleurs ? J'en ai acheté.* — *en* is not a direct object pronoun in the agreement sense: the participle stays invariable."
+  },
+  {
+   "heading": "Faire + infinitive: no agreement",
+   "body": "*fait* followed by an infinitive never agrees: *Elle s'est fait couper les cheveux.* (She had her hair cut.) *Les maisons qu'il a fait construire.* (The houses he had built.) Same for *laissé* + infinitive in modern spelling: *Elle s'est laissé convaincre.*"
+  },
+  {
+   "heading": "Impersonal verbs: no agreement",
+   "body": "*Les efforts qu'il a fallu !* (The efforts it took!) *Les orages qu'il y a eu.* — impersonal *il* never triggers agreement."
+  }
+ ],
+ "vocab": [
+  [
+   "s'est lavé",
+   "washed (oneself)",
+   "sɛ la.ve"
+  ],
+  [
+   "se parler",
+   "to speak to each other",
+   "sə paʁ.le"
+  ],
+  [
+   "se téléphoner",
+   "to phone each other",
+   "sə te.le.fɔ.ne"
+  ],
+  [
+   "s'écrire",
+   "to write to each other",
+   "se.kʁiʁ"
+  ],
+  [
+   "se sourire",
+   "to smile at each other",
+   "sə su.ʁiʁ"
+  ],
+  [
+   "se plaire",
+   "to like each other, to like it",
+   "sə plɛʁ"
+  ],
+  [
+   "se rencontrer",
+   "to meet (each other)",
+   "sə ʁɑ̃.kɔ̃.tʁe"
+  ],
+  [
+   "se faire couper les cheveux",
+   "to have one's hair cut",
+   "sə fɛʁ ku.pe le ʃə.vø"
+  ],
+  [
+   "faire construire",
+   "to have built",
+   "fɛʁ kɔ̃s.tʁɥiʁ"
+  ],
+  [
+   "se laisser convaincre",
+   "to let oneself be convinced",
+   "sə le.se kɔ̃.vɛ̃kʁ"
+  ],
+  [
+   "l'effort",
+   "the effort",
+   "le.fɔʁ",
+   "m"
+  ],
+  [
+   "l'orage",
+   "the storm",
+   "lɔ.ʁaʒ",
+   "m"
+  ]
+ ],
+ "examples": [
+  [
+   "Elle s'est lavée rapidement.",
+   "She washed quickly."
+  ],
+  [
+   "Elle s'est lavé les mains.",
+   "She washed her hands."
+  ],
+  [
+   "Ils se sont parlé pendant des heures.",
+   "They talked to each other for hours."
+  ],
+  [
+   "Nous nous sommes téléphoné hier soir.",
+   "We phoned each other last night."
+  ],
+  [
+   "Elles se sont souri.",
+   "They smiled at each other."
+  ],
+  [
+   "Ils se sont rencontrés à Lyon et se sont plu tout de suite.",
+   "They met in Lyon and liked each other straight away."
+  ],
+  [
+   "Les lettres qu'ils se sont écrites sont émouvantes.",
+   "The letters they wrote to each other are moving."
+  ],
+  [
+   "Des fleurs ? J'en ai acheté ce matin.",
+   "Flowers? I bought some this morning."
+  ],
+  [
+   "Elle s'est fait couper les cheveux.",
+   "She had her hair cut."
+  ],
+  [
+   "Les maisons qu'il a fait construire sont magnifiques.",
+   "The houses he had built are magnificent."
+  ],
+  [
+   "Elle s'est laissé convaincre.",
+   "She let herself be convinced."
+  ],
+  [
+   "Les efforts qu'il a fallu pour réussir !",
+   "The effort it took to succeed!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle s'est ___ les mains.",
+   "options": [
+    "lavé",
+    "lavée",
+    "lavés"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The direct object (*les mains*) comes after: no agreement."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle s'est ___ rapidement.",
+   "options": [
+    "lavée",
+    "lavé",
+    "lavées"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils se sont ___ pendant des heures.",
+   "options": [
+    "parlé",
+    "parlés",
+    "parlée"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*parler à*: *se* is indirect."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils se sont ___ à Lyon.",
+   "options": [
+    "rencontrés",
+    "rencontré",
+    "rencontrée"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elles se sont ___. (smiled at each other)",
+   "options": [
+    "souri",
+    "souris",
+    "sourire"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Des fleurs ? J'en ai ___ ce matin.",
+   "options": [
+    "acheté",
+    "achetées",
+    "achetés"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle s'est ___ couper les cheveux.",
+   "options": [
+    "fait",
+    "faite",
+    "faits"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Les lettres qu'ils se sont ___ sont émouvantes.",
+   "options": [
+    "écrites",
+    "écrit",
+    "écrits"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Why no agreement in *Ils se sont téléphoné*?",
+   "options": [
+    "*téléphoner à*: se is an indirect object",
+    "because of the plural",
+    "because it's a phone"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Elle s'est fait couper les cheveux* means…",
+   "options": [
+    "She had her hair cut",
+    "She cut her own hair",
+    "She made her hair short"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle s'est ___ les mains. (laver)",
+   "answers": [
+    "lavé"
+   ],
+   "hint": "She washed her hands."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils se sont ___ pendant des heures. (parler)",
+   "answers": [
+    "parlé"
+   ],
+   "hint": "They talked to each other for hours."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous nous sommes ___ hier soir. (téléphoner)",
+   "answers": [
+    "téléphoné"
+   ],
+   "hint": "We phoned each other last night."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils se sont ___ à Lyon. (rencontrer)",
+   "answers": [
+    "rencontrés"
+   ],
+   "hint": "They met in Lyon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les lettres qu'ils se sont ___ sont émouvantes. (écrire)",
+   "answers": [
+    "écrites"
+   ],
+   "hint": "The letters they wrote to each other…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle s'est ___ couper les cheveux. (faire)",
+   "answers": [
+    "fait"
+   ],
+   "hint": "She had her hair cut."
+  },
+  {
+   "type": "fill",
+   "prompt": "Des fleurs ? J'en ai ___ ce matin. (acheter)",
+   "answers": [
+    "acheté"
+   ],
+   "hint": "I bought some this morning."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les efforts qu'il a ___ pour réussir ! (falloir)",
+   "answers": [
+    "fallu"
+   ],
+   "hint": "The effort it took to succeed!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle s'est laissé ___.",
+   "answers": [
+    "convaincre"
+   ],
+   "hint": "She let herself be convinced."
+  },
+  {
+   "type": "translate",
+   "prompt": "She washed her hands.",
+   "answers": [
+    "Elle s'est lavé les mains."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "They phoned each other.",
+   "answers": [
+    "Ils se sont téléphoné.",
+    "Elles se sont téléphoné."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She had her hair cut.",
+   "answers": [
+    "Elle s'est fait couper les cheveux."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "They met in Paris.",
+   "answers": [
+    "Ils se sont rencontrés à Paris.",
+    "Elles se sont rencontrées à Paris."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"They met in Lyon and liked each other straight away.\"",
+   "answer": "Ils se sont rencontrés à Lyon et se sont plu tout de suite."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The houses he had built are magnificent.\"",
+   "answer": "Les maisons qu'il a fait construire sont magnifiques."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The letters they wrote to each other are moving.\"",
+   "answer": "Les lettres qu'ils se sont écrites sont émouvantes."
+  }
+ ]
+}

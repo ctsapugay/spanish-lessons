@@ -1,0 +1,362 @@
+{
+ "sections": [
+  {
+   "heading": "Lequel? — Which one?",
+   "body": "As a question word, *lequel* asks someone to choose among things already mentioned. It agrees with the noun it replaces:\n\n- *J'ai deux livres. Lequel veux-tu ?* (Which one do you want?)\n- *Regarde ces robes. Laquelle préfères-tu ?*\n- *Parmi tous ces films, lesquels as-tu vus ?* (Among all these films, which ones have you seen?)\n- *Lesquelles de ces chansons connais-tu ?*\n\nWith *à* and *de* it contracts: *Il y a deux trains. Auquel penses-tu ?* *Duquel parles-tu ?* (Which one are you talking about?)\n\nCompare *quel* + noun (*Quel livre ?*) and *lequel* alone (*Lequel ?*)."
+  },
+  {
+   "heading": "Preposition + lequel in relative clauses",
+   "body": "After a preposition, for things, the relative pronoun is a form of *lequel* (you met this at B1): *la raison pour laquelle*, *l'outil avec lequel*, *les projets sur lesquels je travaille*. With *à*: *auquel, à laquelle, auxquels, auxquelles*; with compound prepositions ending in *de* (*près de, à côté de, au milieu de, à cause de, grâce à*…): *duquel, de laquelle, desquels, desquelles*:\n\n- *Le problème auquel nous faisons face est grave.* (The problem we face…)\n- *La conférence à laquelle j'ai assisté était passionnante.* (The conference I attended…)\n- *Le musée près duquel j'habite est fermé.*\n- *Les raisons pour lesquelles il est parti restent un mystère.*"
+  },
+  {
+   "heading": "Où for time and place",
+   "body": "For **places**, *où* is simpler than *dans lequel*: *la ville où je vis* = *la ville dans laquelle je vis*. For **time**, use *où*, not *quand*: *le jour où je t'ai rencontré* (the day when I met you), *l'époque où…* (the time when…)."
+  },
+  {
+   "heading": "Qui for people",
+   "body": "After a preposition, prefer *qui* for people: *la personne avec qui je travaille*, *les amis à qui j'ai écrit*. *Lequel* for people is possible but formal, and used to avoid ambiguity."
+  }
+ ],
+ "vocab": [
+  [
+   "lequel / laquelle",
+   "which one",
+   "lə.kɛl / la.kɛl"
+  ],
+  [
+   "lesquels / lesquelles",
+   "which ones",
+   "le.kɛl / le.kɛl"
+  ],
+  [
+   "auquel / à laquelle",
+   "to which (one)",
+   "o.kɛl / a la.kɛl"
+  ],
+  [
+   "duquel / de laquelle",
+   "of which (one)",
+   "dy.kɛl / də la.kɛl"
+  ],
+  [
+   "parmi",
+   "among",
+   "paʁ.mi"
+  ],
+  [
+   "faire face à",
+   "to face",
+   "fɛʁ fas a"
+  ],
+  [
+   "assister à",
+   "to attend",
+   "a.sis.te a"
+  ],
+  [
+   "la conférence",
+   "the conference, the lecture",
+   "la kɔ̃.fe.ʁɑ̃s"
+  ],
+  [
+   "passionnant / passionnante",
+   "fascinating",
+   "pa.sjɔ.nɑ̃ / pa.sjɔ.nɑ̃t"
+  ],
+  [
+   "le mystère",
+   "the mystery",
+   "lə mis.tɛʁ"
+  ],
+  [
+   "l'époque",
+   "the era, the time",
+   "le.pɔk",
+   "f"
+  ],
+  [
+   "la chanson",
+   "the song",
+   "la ʃɑ̃.sɔ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "J'ai deux livres. Lequel veux-tu ?",
+   "I have two books. Which one do you want?"
+  ],
+  [
+   "Regarde ces robes. Laquelle préfères-tu ?",
+   "Look at these dresses. Which one do you prefer?"
+  ],
+  [
+   "Parmi tous ces films, lesquels as-tu vus ?",
+   "Among all these films, which ones have you seen?"
+  ],
+  [
+   "Il y a deux réunions demain. À laquelle vas-tu ?",
+   "There are two meetings tomorrow. Which one are you going to?"
+  ],
+  [
+   "Le problème auquel nous faisons face est grave.",
+   "The problem we're facing is serious."
+  ],
+  [
+   "La conférence à laquelle j'ai assisté était passionnante.",
+   "The lecture I attended was fascinating."
+  ],
+  [
+   "Le musée près duquel j'habite est fermé le lundi.",
+   "The museum I live near is closed on Mondays."
+  ],
+  [
+   "Les raisons pour lesquelles il est parti restent un mystère.",
+   "The reasons why he left remain a mystery."
+  ],
+  [
+   "C'est la ville où je suis né.",
+   "It's the town where I was born."
+  ],
+  [
+   "Je me souviens du jour où je t'ai rencontrée.",
+   "I remember the day I met you."
+  ],
+  [
+   "À l'époque où j'étais étudiant, tout était différent.",
+   "At the time when I was a student, everything was different."
+  ],
+  [
+   "La personne avec qui je travaille est très compétente.",
+   "The person I work with is very competent."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*J'ai deux livres.* — \"Which one do you want?\"",
+   "options": [
+    "Lequel veux-tu ?",
+    "Laquelle veux-tu ?",
+    "Quel veux-tu ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Regarde ces robes.* — \"Which one do you prefer?\"",
+   "options": [
+    "Laquelle préfères-tu ?",
+    "Lequel préfères-tu ?",
+    "Quelle préfères-tu ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Parmi ces films,* — \"which ones have you seen?\"",
+   "options": [
+    "lesquels as-tu vus ?",
+    "lequel as-tu vus ?",
+    "quels as-tu vus ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le problème ___ nous faisons face est grave.",
+   "options": [
+    "auquel",
+    "lequel",
+    "duquel"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*faire face à* → *auquel*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: La conférence à ___ j'ai assisté était passionnante.",
+   "options": [
+    "laquelle",
+    "lequel",
+    "quelle"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le musée près ___ j'habite est fermé.",
+   "options": [
+    "duquel",
+    "dont",
+    "auquel"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Les raisons pour ___ il est parti restent un mystère.",
+   "options": [
+    "lesquelles",
+    "lesquels",
+    "laquelle"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je me souviens du jour ___ je t'ai rencontrée.",
+   "options": [
+    "où",
+    "quand",
+    "lequel"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "For time, use *où*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: La personne avec ___ je travaille est très compétente.",
+   "options": [
+    "qui",
+    "que",
+    "laquelle seulement"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*parmi* means…",
+   "options": [
+    "among",
+    "for",
+    "by"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai deux livres. ___ veux-tu ?",
+   "answers": [
+    "Lequel"
+   ],
+   "hint": "Which one do you want?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Regarde ces robes. ___ préfères-tu ?",
+   "answers": [
+    "Laquelle"
+   ],
+   "hint": "Which one do you prefer?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le problème ___ nous faisons face est grave.",
+   "answers": [
+    "auquel"
+   ],
+   "hint": "The problem we're facing…"
+  },
+  {
+   "type": "fill",
+   "prompt": "La conférence à ___ j'ai assisté était passionnante.",
+   "answers": [
+    "laquelle"
+   ],
+   "hint": "The lecture I attended…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le musée près ___ j'habite est fermé le lundi.",
+   "answers": [
+    "duquel"
+   ],
+   "hint": "The museum I live near…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Les raisons pour ___ il est parti restent un mystère.",
+   "answers": [
+    "lesquelles"
+   ],
+   "hint": "The reasons why he left…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me souviens du jour ___ je t'ai rencontrée.",
+   "answers": [
+    "où"
+   ],
+   "hint": "I remember the day I met you."
+  },
+  {
+   "type": "fill",
+   "prompt": "À l'___ où j'étais étudiant, tout était différent.",
+   "answers": [
+    "époque"
+   ],
+   "hint": "At the time when I was a student…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ tous ces films, lesquels as-tu vus ?",
+   "answers": [
+    "Parmi"
+   ],
+   "hint": "Among all these films…"
+  },
+  {
+   "type": "translate",
+   "prompt": "Which one do you prefer? (a dress; to a friend)",
+   "answers": [
+    "Laquelle préfères-tu ?",
+    "Laquelle tu préfères ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The day I met you… (to a man)",
+   "answers": [
+    "Le jour où je t'ai rencontré…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The reasons why he left…",
+   "answers": [
+    "Les raisons pour lesquelles il est parti…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The person I work with…",
+   "answers": [
+    "La personne avec qui je travaille…"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The lecture I attended was fascinating.\"",
+   "answer": "La conférence à laquelle j'ai assisté était passionnante."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The reasons why he left remain a mystery.\"",
+   "answer": "Les raisons pour lesquelles il est parti restent un mystère."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"At the time when I was a student, everything was different.\"",
+   "answer": "À l'époque où j'étais étudiant, tout était différent."
+  }
+ ]
+}
