@@ -3,12 +3,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Spanish Lessons</title>
+  <title>Polyglotte</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="#/">¡Español!</a>
+    <a class="brand" href="#/">Polyglotte</a>
+    <div class="lang-switch" id="langSwitch" role="group" aria-label="Language you are learning"></div>
     <nav>
       <a href="#/" data-nav="dashboard">Dashboard</a>
       <a href="#/practice" data-nav="practice">Practice</a>
@@ -17,7 +18,8 @@
     </nav>
   </header>
   <main id="app" aria-live="polite"></main>
-  <script src="course-data.js"></script>
+  <script src="course-data-es.js"></script>
+  <script src="course-data-fr.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

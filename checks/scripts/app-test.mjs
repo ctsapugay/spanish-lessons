@@ -1,16 +1,20 @@
 // CHK-003 — drives the real app in a headless browser.
 //
 // Covers G3 (practice never changes progress), G4 (cumulative quizzes, pass threshold,
-// configurable passing score, persistence), G5 (level tests), C-PRIVATE (no outside network)
-// and C-PROGRESS-SAFE (reload, export/import, course update, and — via the launcher's
-// scripts/serve.py — progress kept in a file that survives wiping the browser's data).
+// configurable passing score, persistence), G5 (level tests) — each for Spanish and, as G11
+// requires, for French too — G7 (switching languages keeps each one's progress; progress from
+// the Spanish-only version carries over), G10 (French is only ever spoken with a French voice),
+// G11 (French typed answers: apostrophes, elision, accents), C-PRIVATE (no outside network),
+// C-PROGRESS-SAFE (reload, export/import, course update, and — via the launcher's
+// scripts/serve.py — progress kept in a file that survives wiping the browser's data) and
+// C-SPANISH-INTACT (every Spanish scenario, reported with an [es] prefix).
 //
 // The app is served from a throwaway local HTTP server and also opened straight from disk
-// (file://), which is how Clara normally uses it. Any request to a host other than the local
-// one fails the run.
+// (file://). Any request to a host other than the local one fails the run.
 //
 //   node checks/scripts/app-test.mjs            # all scenarios
 //   node checks/scripts/app-test.mjs --headed   # watch it
+//   node checks/scripts/app-test.mjs --lang es  # only the per-language scenarios for Spanish
 
 import { chromium } from "playwright";
 import http from "node:http";
@@ -24,7 +28,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..")
 const APP = path.join(ROOT, "app");
 const STORE_KEY = "spanish-lessons.progress";
 const results = [];
-let courseDataOverride = null;
+const courseDataOverride = {}; // lang -> replacement course-data-<lang>.js
 
 // ---------------------------------------------------------------- tiny static server
 const types = { ".html": "text/html", ".js": "text/javascript", ".css": "text/css", ".json": "application/json" };
@@ -32,9 +36,10 @@ const server = http.createServer((req, res) => {
   const url = new URL(req.url, "http://x");
   let p = decodeURIComponent(url.pathname);
   if (p === "/") p = "/index.html";
-  if (p === "/course-data.js" && courseDataOverride) {
+  const ov = p.match(/^\/course-data-(\w+)\.js$/);
+  if (ov && courseDataOverride[ov[1]]) {
     res.writeHead(200, { "content-type": "text/javascript" });
-    return res.end(courseDataOverride);
+    return res.end(courseDataOverride[ov[1]]);
   }
   const file = path.join(APP, p);
   if (!file.startsWith(APP) || !fs.existsSync(file)) {
@@ -81,6 +86,23 @@ function check(name, ok, detail = "") {
 async function course(page) {
   return page.evaluate(() => window.COURSE);
 }
+// Open the app on a language: pick it on the welcome screen, or switch to it in the header.
+async function openCourse(page, url, lang) {
+  await page.goto(url);
+  await page.waitForSelector("#app h1");
+  if (await page.locator(`[data-choose-lang="${lang}"]`).count()) {
+    await page.click(`[data-choose-lang="${lang}"]`);
+  } else if ((await page.getAttribute(`[data-switch-lang="${lang}"]`, "aria-pressed")) !== "true") {
+    await page.click(`[data-switch-lang="${lang}"]`);
+  }
+  await page.waitForFunction((l) => window.COURSE && window.COURSE.lang && window.COURSE.lang.code === l &&
+    document.getElementById("app").dataset.lang === l, lang);
+}
+function readCourseData(lang) {
+  const text = fs.readFileSync(path.join(APP, `course-data-${lang}.js`), "utf8");
+  const marker = `).${lang} = `;
+  return JSON.parse(text.slice(text.indexOf(marker) + marker.length).replace(/;\s*$/, ""));
+}
 async function progress(page) {
   return page.evaluate((k) => localStorage.getItem(k), STORE_KEY);
 }
@@ -90,26 +112,29 @@ async function setProgress(page, obj) {
 function availableLessons(c) {
   return c.levels.flatMap((l) => l.lessons).filter((l) => !l.missing);
 }
-function passedState(lessonIds, testIds = [], settings = {}) {
+function passedState(lang, lessonIds, testIds = [], settings = {}) {
   const lessons = {};
   lessonIds.forEach((id) => (lessons[id] = { attempts: 1, best: 100, lastScore: 100, passed: true }));
   const tests = {};
   testIds.forEach((id) => (tests[id] = { attempts: 1, best: 100, lastScore: 100, passed: true }));
-  return { version: 1, settings: { passScore: 80, quizLength: 20, speechRate: 0.9, ...settings }, lessons, tests, misses: {}, flagged: [] };
+  return { version: 2, settings: { passScore: 80, quizLength: 20, speechRate: 0.9, ...settings }, language: lang,
+    langs: { [lang]: { lessons, tests, misses: {}, flagged: [] } } };
 }
 // Everything before `lessonId` in course order passed (and every earlier level test).
 function progressUpTo(c, lessonId) {
+  const lang = c.lang.code;
   const ids = [];
   const tests = [];
   for (const level of c.levels) {
     for (const l of level.lessons) {
-      if (l.id === lessonId) return passedState(ids, tests);
+      if (l.id === lessonId) return passedState(lang, ids, tests);
       ids.push(l.id);
     }
     tests.push(level.id);
   }
-  return passedState(ids, tests);
+  return passedState(lang, ids, tests);
 }
+const langOf = (st) => st.langs[st.language];
 
 // Answer the current question; plan(i) returns true (answer right) or false (answer wrong).
 async function answerAll(page, plan) {
@@ -147,37 +172,43 @@ async function answerAll(page, plan) {
   return seen;
 }
 
-// ---------------------------------------------------------------- scenarios
-async function scenarioFileUrl() {
+// ---------------------------------------------------------------- per-language scenarios
+// Each runs once per language; its checks are reported with a [es] / [fr] prefix.
+let T = "";
+const named = (name) => `${T} ${name}`;
+const checkL = (name, ok, detail = "") => check(named(name), ok, detail);
+
+async function scenarioFileUrl(lang) {
   const ctx = await freshContext();
   const page = await newPage(ctx);
-  await page.goto("file://" + path.join(APP, "index.html"));
+  const FILE = "file://" + path.join(APP, "index.html");
+  await openCourse(page, FILE, lang);
   const title = await page.textContent("h1");
-  check("opens straight from disk (file://)", title && title.includes("Spanish course"), title);
   const c = await course(page);
+  checkL("opens straight from disk (file://)", title && title.includes(`${c.lang.name} course`), title);
   const first = availableLessons(c)[0];
-  await page.goto("file://" + path.join(APP, "index.html") + "#/quiz/" + first.id);
+  await page.goto(FILE + "#/quiz/" + first.id);
   await answerAll(page, () => true);
   await page.reload();
-  await page.goto("file://" + path.join(APP, "index.html") + "#/");
+  await page.goto(FILE + "#/");
   const status = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
-  check("file:// progress survives a reload", status === "passed", `status=${status}`);
+  checkL("file:// progress survives a reload", status === "passed", `status=${status}`);
   await ctx.close();
 }
 
-async function scenarioPracticeAndQuizBasics() {
+async function scenarioPracticeAndQuizBasics(lang) {
   const ctx = await freshContext();
   const page = await newPage(ctx);
-  await page.goto(BASE);
+  await openCourse(page, BASE, lang);
   const c = await course(page);
   const lessons = availableLessons(c);
   const first = lessons[0];
-  check("course data loaded", lessons.length > 0, `${lessons.length} lessons with content`);
+  checkL("course data loaded", lessons.length > 0, `${lessons.length} lessons with content`);
   const status0 = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
-  check("first lesson open on a fresh start", status0 === "open", status0);
+  checkL("first lesson open on a fresh start", status0 === "open", status0);
   const second = c.levels[0].lessons[1];
   const s2 = await page.getAttribute(`[data-lesson="${second.id}"]`, "data-status");
-  check("second lesson locked on a fresh start", s2 === "locked", s2);
+  checkL("second lesson locked on a fresh start", s2 === "locked", s2);
 
   // G3: practice gives feedback and never changes progress
   const before = await progress(page);
@@ -208,9 +239,9 @@ async function scenarioPracticeAndQuizBasics() {
     } else sawRightFeedback = true;
     await q.locator("[data-action=next]").click();
   }
-  check("practice shows right/wrong feedback with the correct answer", sawWrongFeedback && sawRightFeedback, `wrong=${sawWrongFeedback} right=${sawRightFeedback}`);
+  checkL("practice shows right/wrong feedback with the correct answer", sawWrongFeedback && sawRightFeedback, `wrong=${sawWrongFeedback} right=${sawRightFeedback}`);
   const after = await progress(page);
-  check("practice leaves stored progress unchanged", before === after, `before=${before} after=${after}`);
+  checkL("practice leaves stored progress unchanged", before === after, `before=${before} after=${after}`);
 
   // G4: failing a quiz does not pass or unlock
   await page.goto(BASE + "#/quiz/" + first.id);
@@ -219,7 +250,7 @@ async function scenarioPracticeAndQuizBasics() {
   await page.goto(BASE + "#/");
   const afterFail = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
   const nextAfterFail = await page.getAttribute(`[data-lesson="${second.id}"]`, "data-status");
-  check("a quiz below the passing score does not pass the lesson", failPass === "false" && afterFail !== "passed" && nextAfterFail === "locked", `${failPass} ${afterFail} ${nextAfterFail}`);
+  checkL("a quiz below the passing score does not pass the lesson", failPass === "false" && afterFail !== "passed" && nextAfterFail === "locked", `${failPass} ${afterFail} ${nextAfterFail}`);
 
   // G4: passing unlocks the next lesson and shows on the dashboard; survives reload
   await page.goto(BASE + "#/quiz/" + first.id);
@@ -230,16 +261,17 @@ async function scenarioPracticeAndQuizBasics() {
   const afterPass = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
   const nextAfterPass = await page.getAttribute(`[data-lesson="${second.id}"]`, "data-status");
   const overall = await page.textContent("[data-role=level-progress]");
-  check("passing a quiz passes the lesson, and it persists after reload", passFlag === "true" && afterPass === "passed", `${passFlag} ${afterPass}`);
-  check("passing unlocks the next lesson", second.missing ? nextAfterPass === "locked" : nextAfterPass === "open", `next=${nextAfterPass} (missing content: ${!!second.missing})`);
-  check("dashboard shows level progress", /1 \/ \d+ lessons/.test(overall), overall);
+  checkL("passing a quiz passes the lesson, and it persists after reload", passFlag === "true" && afterPass === "passed", `${passFlag} ${afterPass}`);
+  checkL("passing unlocks the next lesson", second.missing ? nextAfterPass === "locked" : nextAfterPass === "open", `next=${nextAfterPass} (missing content: ${!!second.missing})`);
+  checkL("dashboard shows level progress", /1 \/ \d+ lessons/.test(overall), overall);
   await ctx.close();
 }
 
-async function scenarioPassScoreSetting() {
+async function scenarioPassScoreSetting(lang) {
   for (const [score, expectPass] of [[50, true], [80, false]]) {
     const ctx = await freshContext();
     const page = await newPage(ctx);
+    await openCourse(page, BASE, lang);
     await page.goto(BASE + "#/settings");
     await page.fill("#passScore", String(score));
     await page.click("#saveSettings");
@@ -251,27 +283,27 @@ async function scenarioPassScoreSetting() {
     const rightCount = Math.round(total * 0.65);
     await answerAll(page, (i) => i < rightCount);
     const pass = await page.getAttribute("[data-role=result]", "data-pass");
-    check(`passing score ${score}%: a ~65% quiz ${expectPass ? "passes" : "fails"}`, pass === String(expectPass), `pass=${pass}, ${rightCount}/${total}`);
+    checkL(`passing score ${score}%: a ~65% quiz ${expectPass ? "passes" : "fails"}`, pass === String(expectPass), `pass=${pass}, ${rightCount}/${total}`);
     await ctx.close();
   }
 }
 
-async function scenarioCumulativeQuiz() {
+async function scenarioCumulativeQuiz(lang) {
   const ctx = await freshContext();
   const page = await newPage(ctx);
-  await page.goto(BASE);
+  await openCourse(page, BASE, lang);
   const c = await course(page);
   const lessons = availableLessons(c);
   const target = lessons[lessons.length - 1];
   const earlier = lessons.slice(0, -1);
   if (earlier.length < 3) {
-    check("cumulative quiz draws on earlier lessons", false, "need at least 4 lessons with content to test");
+    checkL("cumulative quiz draws on earlier lessons", false, "need at least 4 lessons with content to test");
     return ctx.close();
   }
   // Heavily missed item in an early lesson should be favoured.
   const weak = earlier[1].items.find((it) => it.type !== "listen");
   const st = progressUpTo(c, target.id);
-  st.misses[weak.id] = 1000; // heavy enough that "favoured" is near-certain, not a coin flip
+  langOf(st).misses[weak.id] = 1000; // heavy enough that "favoured" is near-certain, not a coin flip
   await setProgress(page, st);
   let sawWeak = 0;
   let spans = [];
@@ -285,58 +317,60 @@ async function scenarioCumulativeQuiz() {
     spans.push(Object.keys(byLesson).filter((l) => l !== target.id).length);
     ownShare.push((byLesson[target.id] || 0) / seen.length);
     if (seen.some((s) => s.id === weak.id)) sawWeak++;
-    await setProgress(page, { ...st });
+    await setProgress(page, JSON.parse(JSON.stringify(st)));
   }
-  check("a late quiz includes questions from several earlier lessons", Math.min(...spans) >= 3, `earlier lessons per run: ${spans.join(", ")}`);
-  check("most of a quiz comes from the current lesson", Math.min(...ownShare) >= 0.5, `own share: ${ownShare.map((x) => x.toFixed(2)).join(", ")}`);
-  check("items previously missed are favoured", sawWeak >= 2, `weak item appeared in ${sawWeak}/3 quizzes`);
+  checkL("a late quiz includes questions from several earlier lessons", Math.min(...spans) >= 3, `earlier lessons per run: ${spans.join(", ")}`);
+  checkL("most of a quiz comes from the current lesson", Math.min(...ownShare) >= 0.5, `own share: ${ownShare.map((x) => x.toFixed(2)).join(", ")}`);
+  checkL("items previously missed are favoured", sawWeak >= 2, `weak item appeared in ${sawWeak}/3 quizzes`);
   await ctx.close();
 }
 
-async function scenarioLevelTest() {
+async function scenarioLevelTest(lang) {
   const ctx = await freshContext();
   const page = await newPage(ctx);
-  await page.goto(BASE);
+  await openCourse(page, BASE, lang);
   const c = await course(page);
   const complete = c.levels.filter((l) => l.lessons.every((x) => !x.missing));
   if (!complete.length) {
-    check("level test is reachable and cumulative", false, "no level has all its lessons written yet");
+    checkL("level test is reachable and cumulative", false, "no level has all its lessons written yet");
     return ctx.close();
   }
   const level = complete[complete.length - 1];
   const li = c.levels.indexOf(c.levels.find((l) => l.id === level.id));
   const nextLevel = c.levels[li + 1];
   const st = progressUpTo(c, nextLevel ? nextLevel.lessons[0].id : "__end__");
-  delete st.tests[level.id];
+  delete langOf(st).tests[level.id];
   await setProgress(page, st);
   await page.goto(BASE + "#/");
+  await page.reload(); // the dashboard may already be open: show the progress just set
+  await page.waitForSelector(`[data-test="${level.id}"]`, { state: "attached" });
   const tstatus = await page.getAttribute(`[data-test="${level.id}"]`, "data-status");
-  check(`${level.id} level test unlocks when all its lessons are passed`, tstatus === "open", tstatus);
+  checkL(`${level.id} level test unlocks when all its lessons are passed`, tstatus === "open", tstatus);
   if (nextLevel) {
     const n0 = await page.getAttribute(`[data-lesson="${nextLevel.lessons[0].id}"]`, "data-status");
-    check(`next level stays locked until the ${level.id} test is passed`, n0 === "locked", n0);
+    checkL(`next level stays locked until the ${level.id} test is passed`, n0 === "locked", n0);
   }
   await page.goto(BASE + "#/test/" + level.id);
   const seen = await answerAll(page, () => true);
   const own = new Set(seen.map((s) => s.lesson).filter((l) => level.lessons.some((x) => x.id === l)));
   const back = seen.filter((s) => !level.lessons.some((x) => x.id === s.lesson)).length;
-  check(`${level.id} test spans the level`, own.size >= Math.min(10, level.lessons.length), `${own.size} of ${level.lessons.length} lessons`);
-  if (li > 0) check(`${level.id} test includes earlier levels`, back > 0, `${back} questions from earlier levels`);
+  checkL(`${level.id} test spans the level`, own.size >= Math.min(10, level.lessons.length), `${own.size} of ${level.lessons.length} lessons`);
+  if (li > 0) checkL(`${level.id} test includes earlier levels`, back > 0, `${back} questions from earlier levels`);
   const pass = await page.getAttribute("[data-role=result]", "data-pass");
   await page.goto(BASE + "#/");
   const after = await page.getAttribute(`[data-test="${level.id}"]`, "data-status");
-  check(`passing the ${level.id} test is recorded on the dashboard`, pass === "true" && after === "passed", `${pass} ${after}`);
+  checkL(`passing the ${level.id} test is recorded on the dashboard`, pass === "true" && after === "passed", `${pass} ${after}`);
   if (nextLevel && !nextLevel.lessons[0].missing) {
     const n1 = await page.getAttribute(`[data-lesson="${nextLevel.lessons[0].id}"]`, "data-status");
-    check("passing a level test opens the next level", n1 === "open", n1);
+    checkL("passing a level test opens the next level", n1 === "open", n1);
   }
   await ctx.close();
 }
 
-async function scenarioExportImportAndUpdate() {
+async function scenarioExportImportAndUpdate(lang) {
   const ctx = await freshContext();
   const page = await newPage(ctx);
-  await page.goto(BASE);
+  await openCourse(page, BASE, lang);
   const c = await course(page);
   const first = availableLessons(c)[0];
   await page.goto(BASE + "#/quiz/" + first.id);
@@ -345,37 +379,40 @@ async function scenarioExportImportAndUpdate() {
   const [download] = await Promise.all([page.waitForEvent("download"), page.click("#export")]);
   const file = await download.path();
   const exported = JSON.parse(fs.readFileSync(file, "utf8"));
-  check("export contains the passed lesson", exported.lessons && exported.lessons[first.id] && exported.lessons[first.id].passed, JSON.stringify(exported.lessons || {}).slice(0, 120));
+  const exLessons = (exported.langs && exported.langs[lang] && exported.langs[lang].lessons) || {};
+  checkL("export contains the passed lesson", exLessons[first.id] && exLessons[first.id].passed, JSON.stringify(exLessons).slice(0, 120));
 
   await page.evaluate(() => localStorage.clear());
-  await page.goto(BASE + "#/");
+  await openCourse(page, BASE + "#/", lang);
   await page.reload();
+  await page.waitForSelector(`[data-lesson="${first.id}"]`, { state: "attached" });
   const cleared = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
   await page.goto(BASE + "#/settings");
   await page.setInputFiles("#import", file);
   await page.waitForFunction(() => document.getElementById("ioMsg") && document.getElementById("ioMsg").textContent.length > 0);
   await page.goto(BASE + "#/");
   const restored = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
-  check("clearing site data then importing the export restores progress", cleared === "open" && restored === "passed", `cleared=${cleared} restored=${restored}`);
+  checkL("clearing site data then importing the export restores progress", cleared === "open" && restored === "passed", `cleared=${cleared} restored=${restored}`);
 
   // Course update: a new lesson is inserted and items change; existing progress survives.
-  const data = JSON.parse(fs.readFileSync(path.join(APP, "course-data.js"), "utf8").replace(/^[^\n]*\nwindow\.COURSE = /, "").replace(/;\s*$/, ""));
+  const data = readCourseData(lang);
   data.levels[0].lessons.splice(1, 0, { id: "zz-new", level: data.levels[0].id, title: "A new lesson", objective: "Added in an update", missing: true });
   data.levels[0].lessons[0].items = data.levels[0].lessons[0].items.slice(1);
-  courseDataOverride = "window.COURSE = " + JSON.stringify(data) + ";";
+  courseDataOverride[lang] = `(window.COURSES = window.COURSES || {}).${lang} = ` + JSON.stringify(data) + ";";
   await page.goto(BASE + "#/");
   await page.reload();
+  await page.waitForSelector(`[data-lesson="${first.id}"]`, { state: "attached" });
   const afterUpdate = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
   const stored = JSON.parse(await progress(page));
-  check("progress survives an update to the course content", afterUpdate === "passed" && stored.lessons[first.id].passed, `status=${afterUpdate}`);
-  courseDataOverride = null;
+  checkL("progress survives an update to the course content", afterUpdate === "passed" && stored.langs[lang].lessons[first.id].passed, `status=${afterUpdate}`);
+  delete courseDataOverride[lang];
   await ctx.close();
 }
 
-async function scenarioSessionControls() {
+async function scenarioSessionControls(lang) {
   const ctx = await freshContext();
   const page = await newPage(ctx);
-  await page.goto(BASE);
+  await openCourse(page, BASE, lang);
   const c = await course(page);
   const first = availableLessons(c)[0];
   await page.goto(BASE + "#/practice/lesson/" + first.id);
@@ -420,29 +457,31 @@ async function scenarioSessionControls() {
     await q.locator(".feedback").waitFor();
     await q.locator("[data-action=next]").click();
   }
-  check("Enter on a typed answer shows the result instead of skipping it", enterShows === true, `enterShows=${enterShows}`);
-  check("Enter again moves on to the next question", enterAdvances === true, `enterAdvances=${enterAdvances}`);
-  check("Previous shows the earlier question with its result", reviewOk === true, `reviewOk=${reviewOk}`);
-  check("returning from review goes back to the current question", returnOk === true, `returnOk=${returnOk}`);
+  checkL("Enter on a typed answer shows the result instead of skipping it", enterShows === true, `enterShows=${enterShows}`);
+  checkL("Enter again moves on to the next question", enterAdvances === true, `enterAdvances=${enterAdvances}`);
+  checkL("Previous shows the earlier question with its result", reviewOk === true, `reviewOk=${reviewOk}`);
+  checkL("returning from review goes back to the current question", returnOk === true, `returnOk=${returnOk}`);
   // Practise again restarts the session (its link points at the page already open)
   await page.locator("a.btn:has-text(\"Practise again\")").waitFor();
   await page.click("a.btn:has-text(\"Practise again\")");
   await page.locator(".question").waitFor({ timeout: 3000 }).catch(() => {});
   const again = (await page.locator(".question").count()) === 1 && /^Question 1 of/.test(await counter());
-  check("Practise again starts a new practice session", again, await page.textContent("#app").then((t) => t.slice(0, 80)));
+  checkL("Practise again starts a new practice session", again, await page.textContent("#app").then((t) => t.slice(0, 80)));
   // Try again on a failed quiz restarts the quiz
   await page.goto(BASE + "#/quiz/" + first.id);
   await answerAll(page, () => false);
   await page.click("a.btn:has-text(\"Try again\")");
   await page.locator(".question").waitFor({ timeout: 3000 }).catch(() => {});
   const retry = (await page.locator(".question").count()) === 1 && /^Question 1 of/.test(await counter());
-  check("Try again after a quiz starts the quiz over", retry, "");
+  checkL("Try again after a quiz starts the quiz over", retry, "");
   await ctx.close();
 }
 
+// ---------------------------------------------------------------- whole-app scenarios
 async function scenarioAppearance() {
   const ctx = await freshContext();
   const page = await newPage(ctx);
+  await openCourse(page, BASE, "es");
   await page.goto(BASE + "#/settings");
   const accents = await page.$$eval("[data-accent-choice]", (bs) => bs.map((b) => b.dataset.accentChoice));
   check("accent colour can be chosen, pink included", accents.length >= 3 && accents.includes("pink"), accents.join(", "));
@@ -476,12 +515,184 @@ async function scenarioAppearance() {
   await ctx.close();
 }
 
+// G7: each language keeps exactly its own progress through switching, reloads and export/import.
+async function scenarioLanguageSwitching() {
+  const ctx = await freshContext();
+  const page = await newPage(ctx);
+  await page.goto(BASE);
+  const brand = await page.textContent(".brand");
+  const title = await page.title();
+  check("the app presents itself as Polyglotte", /Polyglotte/.test(brand) && /Polyglotte/.test(title), `${brand} / ${title}`);
+  const choices = await page.$$eval("[data-choose-lang]", (bs) => bs.map((b) => b.dataset.chooseLang));
+  check("a new learner chooses Spanish or French", choices.includes("es") && choices.includes("fr"), choices.join(", "));
+
+  const statuses = async (ids) => {
+    const out = {};
+    for (const id of ids) out[id] = await page.getAttribute(`[data-lesson="${id}"]`, "data-status");
+    return out;
+  };
+  await openCourse(page, BASE, "es");
+  const es = availableLessons(await course(page));
+  await openCourse(page, BASE, "fr");
+  const fr = availableLessons(await course(page));
+  if (es.length < 2 || fr.length < 2) {
+    check("switching languages keeps each language's progress", false, `need two lessons with content in each language (es ${es.length}, fr ${fr.length})`);
+    return ctx.close();
+  }
+  // Different progress in each: Spanish passes its first quiz, French its first two.
+  await openCourse(page, BASE, "es");
+  await page.goto(BASE + "#/quiz/" + es[0].id);
+  await answerAll(page, () => true);
+  await openCourse(page, BASE, "fr");
+  for (const l of fr.slice(0, 2)) {
+    await page.goto(BASE + "#/quiz/" + l.id);
+    await answerAll(page, () => true);
+  }
+  const expectEs = { [es[0].id]: "passed", [es[1].id]: "open" };
+  const expectFr = { [fr[0].id]: "passed", [fr[1].id]: "passed" };
+  const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+  const verify = async (label) => {
+    await openCourse(page, BASE + "#/", "es");
+    const sEs = await statuses(Object.keys(expectEs));
+    const esTitle = await page.textContent("h1");
+    await openCourse(page, BASE + "#/", "fr");
+    const sFr = await statuses(Object.keys(expectFr));
+    const frTitle = await page.textContent("h1");
+    check(`each language shows exactly its own progress (${label})`, same(sEs, expectEs) && same(sFr, expectFr) && /Spanish/.test(esTitle) && /French/.test(frTitle),
+      `es=${JSON.stringify(sEs)} fr=${JSON.stringify(sFr)}`);
+  };
+  await verify("after switching");
+  await openCourse(page, BASE, "es");
+  await page.reload();
+  const kept = await page.evaluate(() => window.COURSE.lang.code);
+  check("the language being learned is remembered after a reload", kept === "es", kept);
+  await verify("after a reload");
+  // Practising French doesn't touch Spanish.
+  const st0 = JSON.parse(await progress(page));
+  await openCourse(page, BASE, "fr");
+  await page.goto(BASE + "#/practice/lesson/" + fr[0].id);
+  await answerAll(page, () => false);
+  const st1 = JSON.parse(await progress(page));
+  check("working in one language leaves the other's progress unchanged", same(st0.langs.es, st1.langs.es), "");
+  // Export, wipe, import: both languages come back.
+  await page.goto(BASE + "#/settings");
+  const [download] = await Promise.all([page.waitForEvent("download"), page.click("#export")]);
+  const file = await download.path();
+  await page.evaluate(() => localStorage.clear());
+  await page.reload();
+  await openCourse(page, BASE + "#/", "fr");
+  await page.goto(BASE + "#/settings");
+  await page.setInputFiles("#import", file);
+  await page.waitForFunction(() => document.getElementById("ioMsg") && document.getElementById("ioMsg").textContent.length > 0);
+  await verify("after export, clearing site data and import");
+  await ctx.close();
+}
+
+// G10: French is spoken only with a French voice (France preferred); Spanish only with Spanish.
+async function scenarioVoices() {
+  const stub = (langs) => `(() => {
+    const voices = ${JSON.stringify(langs)}.map((lang, i) => ({ name: "Voice " + i, lang, localService: true, default: i === 0, voiceURI: "v" + i }));
+    window.__spoken = [];
+    window.SpeechSynthesisUtterance = function (text) { this.text = text; };
+    Object.defineProperty(window, "speechSynthesis", { configurable: true, value: {
+      getVoices: () => voices, cancel() {}, speak(u) { window.__spoken.push({ text: u.text, voice: u.voice && u.voice.lang, lang: u.lang }); },
+      set onvoiceschanged(f) {}, get onvoiceschanged() { return null; } } });
+  })();`;
+  const run = async (langs, lang) => {
+    const ctx = await freshContext();
+    await ctx.addInitScript(stub(langs));
+    const page = await newPage(ctx);
+    await openCourse(page, BASE, lang);
+    const first = availableLessons(await course(page))[0];
+    await page.goto(BASE + "#/lesson/" + first.id);
+    await page.waitForSelector(".pairs");
+    await page.locator(".pairs [data-say]").first().click();
+    const spoken = await page.evaluate(() => window.__spoken);
+    const note = await page.textContent("#app");
+    await page.goto(BASE + "#/practice/lesson/" + first.id);
+    let listen = 0;
+    for (let i = 0; i < 12 && (await page.locator(".question").count()); i++) {
+      if ((await page.locator(".question").getAttribute("data-type")) === "listen") listen++;
+      await page.locator(".question [data-option]").first().click().catch(async () => {
+        await page.locator(".question input").fill("x").catch(() => {});
+        await page.locator(".question [data-action=check]").click();
+      });
+      await page.locator(".question .feedback").waitFor();
+      await page.click(".question [data-action=next]");
+    }
+    await ctx.close();
+    return { spoken, note, listen };
+  };
+  const all = ["en-US", "es-ES", "es-MX", "fr-CA", "fr-FR"];
+  const fr = await run(all, "fr");
+  check("French is spoken with a French (France) voice", fr.spoken.length > 0 && fr.spoken.every((s) => s.voice === "fr-FR"), JSON.stringify(fr.spoken));
+  const es = await run(all, "es");
+  check("Spanish is still spoken with a Latin American voice", es.spoken.length > 0 && es.spoken.every((s) => s.voice === "es-MX"), JSON.stringify(es.spoken));
+  const frOnlyCA = await run(["en-US", "es-MX", "fr-CA"], "fr");
+  check("without a France voice, another French voice is used", frOnlyCA.spoken.length > 0 && frOnlyCA.spoken.every((s) => /^fr/.test(s.voice)), JSON.stringify(frOnlyCA.spoken));
+  const none = await run(["en-US", "es-MX"], "fr");
+  check("with no French voice, French is never spoken with another language's voice", none.spoken.length === 0 && /No French voice/.test(none.note) && none.listen === 0,
+    `spoken=${JSON.stringify(none.spoken)} listening items=${none.listen}`);
+}
+
+// G11: French typed answers are judged fairly — apostrophes, elision, accents, œ.
+async function scenarioFrenchTyping() {
+  const ctx = await freshContext();
+  const page = await newPage(ctx);
+  await openCourse(page, BASE, "fr");
+  const c = await course(page);
+  const lessons = availableLessons(c);
+  const typed = lessons.flatMap((l) => l.items.filter((it) => ["fill", "translate"].includes(it.type)).map((it) => ({ l, it })));
+  const withApos = typed.find(({ it }) => /\b\w'\w/.test(it.answers[0]));
+  const withAccent = typed.find(({ it }) => /[éèêàâîôûç]/.test(it.answers[0]) && !it.answers.some((a) => a.normalize("NFD").replace(/[̀-ͯ]/g, "") === a));
+  if (!withApos || !withAccent) {
+    check("French typed answers: apostrophes, elision and accents", false, "no French typed exercise with an apostrophe and one with an accent yet");
+    return ctx.close();
+  }
+  const st = progressUpTo(c, lessons[lessons.length - 1].id);
+  await setProgress(page, st);
+  const tryAnswer = async ({ l, it }, text) => {
+    for (let attempt = 0; attempt < 40; attempt++) {
+      await page.goto(BASE + "#/");
+      await page.goto(BASE + "#/practice/lesson/" + l.id);
+      for (let i = 0; i < 12 && (await page.locator(".question").count()); i++) {
+        if ((await page.locator(".question").getAttribute("data-item-id")) === it.id) {
+          await page.fill(".question input", text);
+          await page.click(".question [data-action=check]");
+          return page.getAttribute(".question .feedback", "class");
+        }
+        await page.locator(".question [data-option]").first().click().catch(async () => {
+          await page.locator(".question input").fill("x").catch(() => {});
+          await page.locator(".question [data-action=check]").click();
+        });
+        await page.locator(".question .feedback").waitFor();
+        await page.click(".question [data-action=next]");
+      }
+    }
+    return null;
+  };
+  const a = withApos.it.answers[0];
+  const curly = await tryAnswer(withApos, a.replace(/'/g, "’"));
+  const spaced = await tryAnswer(withApos, a.replace(/'/g, "' "));
+  check("a curly apostrophe (’) is accepted like a straight one", curly && /right/.test(curly), `${a} → ${curly}`);
+  check("a space after an elided word (l' ami) is accepted", spaced && /right/.test(spaced), `${a} → ${spaced}`);
+  const b = withAccent.it.answers[0];
+  const bare = await tryAnswer(withAccent, b.normalize("NFD").replace(/[̀-ͯ]/g, ""));
+  check("a missing accent is flagged, not marked wrong", bare && /note/.test(bare), `${b} → ${bare}`);
+  await ctx.close();
+}
+
 async function scenarioLauncherFile() {
-  const dir = fs.mkdtempSync(path.join(os.tmpdir(), "spanish-progress-"));
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), "polyglotte-progress-"));
   const dataFile = path.join(dir, "my-progress.json");
-  const proc = spawn("python3", [path.join(ROOT, "scripts/serve.py"), "--port", "0", "--no-browser", "--data", dataFile], { stdio: ["ignore", "pipe", "pipe"] });
-  try {
-    const LBASE = await new Promise((resolve, reject) => {
+  // A progress file saved by the Spanish-only version (format 1) must carry over unchanged.
+  const legacy = { version: 1, settings: { passScore: 75, quizLength: 20, speechRate: 0.9, theme: "system", accent: "teal" },
+    lessons: { "a1-01": { attempts: 2, best: 90, lastScore: 90, passed: true, passedAt: "2026-09-27T10:00:00.000Z" } },
+    tests: {}, misses: { "a1-01:abc": 2 }, flagged: [] };
+  fs.writeFileSync(dataFile, JSON.stringify(legacy));
+  const start = () => {
+    const proc = spawn("python3", [path.join(ROOT, "scripts/serve.py"), "--port", "0", "--no-browser", "--data", dataFile], { stdio: ["ignore", "pipe", "pipe"] });
+    const url = new Promise((resolve, reject) => {
       let out = "";
       const t = setTimeout(() => reject(new Error("launcher did not start: " + out)), 10000);
       proc.stdout.on("data", (d) => {
@@ -491,30 +702,60 @@ async function scenarioLauncherFile() {
       });
       proc.on("exit", (code) => reject(new Error("launcher exited " + code + ": " + out)));
     });
+    return { proc, url };
+  };
+  let { proc, url } = start();
+  try {
+    let LBASE = await url;
     extraBases.push(LBASE);
     const readFile = () => { try { return JSON.parse(fs.readFileSync(dataFile, "utf8")); } catch { return null; } };
     const waitFor = async (pred) => { for (let i = 0; i < 50; i++) { if (pred()) return true; await new Promise((r) => setTimeout(r, 100)); } return false; };
 
-    // Pass the first quiz in one browser profile…
+    // The Spanish-only progress file opens as Spanish, unchanged.
     let ctx = await freshContext();
     let page = await newPage(ctx);
     await page.goto(LBASE);
+    await page.waitForSelector("#app h1");
+    const lang0 = await page.evaluate(() => window.COURSE && window.COURSE.lang.code);
+    const st0 = await page.getAttribute('[data-lesson="a1-01"]', "data-status").catch(() => null);
+    await page.goto(LBASE + "#/settings");
+    const ps = await page.inputValue("#passScore");
+    const stored = JSON.parse(await progress(page));
+    check("progress saved by the Spanish-only version carries over unchanged", lang0 === "es" && st0 === "passed" && ps === "75" &&
+      JSON.stringify(stored.langs.es.lessons) === JSON.stringify(legacy.lessons) && JSON.stringify(stored.langs.es.misses) === JSON.stringify(legacy.misses),
+      `lang=${lang0} a1-01=${st0} passScore=${ps}`);
+    await ctx.close();
+
+    // Pass the first quiz in one browser profile…
+    ctx = await freshContext();
+    page = await newPage(ctx);
+    await openCourse(page, LBASE, "es");
     const c = await course(page);
-    const first = availableLessons(c)[0];
+    const first = availableLessons(c)[1];
     await page.goto(LBASE + "#/quiz/" + first.id);
     await answerAll(page, () => true);
-    const saved = await waitFor(() => { const d = readFile(); return d && d.lessons && d.lessons[first.id] && d.lessons[first.id].passed; });
+    const saved = await waitFor(() => { const d = readFile(); return d && d.langs && d.langs.es.lessons[first.id] && d.langs.es.lessons[first.id].passed; });
     check("launcher saves progress to a file on this computer", saved, dataFile);
     await page.goto(LBASE + "#/settings");
     const note = await page.textContent("#app");
     check("settings says progress is saved to the file", note.includes("my-progress.json"), note.slice(0, 80));
+    // …and some French progress too, when there is French to pass.
+    await openCourse(page, LBASE, "fr");
+    const frFirst = availableLessons(await course(page))[0];
+    if (frFirst) {
+      await page.goto(LBASE + "#/quiz/" + frFirst.id);
+      await answerAll(page, () => true);
+      await waitFor(() => { const d = readFile(); return d && d.langs.fr && d.langs.fr.lessons[frFirst.id]; });
+    }
     await ctx.close();
 
     // …then a brand-new profile (browser data wiped) still has it.
     ctx = await freshContext();
     page = await newPage(ctx);
     await page.goto(LBASE);
-    await page.waitForSelector(`[data-lesson="${first.id}"]`);
+    await page.waitForSelector("#app h1");
+    await openCourse(page, LBASE, "es");
+    await page.waitForSelector(`[data-lesson="${first.id}"]`, { state: "attached" });
     const status = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
     check("progress survives wiping the browser's data (read back from the file)", status === "passed", `status=${status}`);
 
@@ -527,6 +768,26 @@ async function scenarioLauncherFile() {
     check("each save updates the file and keeps the previous version as a backup", updated && fs.existsSync(backup), `updated=${updated} backup=${fs.existsSync(backup)}`);
     await ctx.close();
 
+    // Restarting the launcher: both languages' progress is still there.
+    proc.kill();
+    await new Promise((r) => setTimeout(r, 300));
+    ({ proc, url } = start());
+    LBASE = await url;
+    extraBases.push(LBASE);
+    ctx = await freshContext();
+    page = await newPage(ctx);
+    await openCourse(page, LBASE, "es");
+    await page.waitForSelector(`[data-lesson="${first.id}"]`, { state: "attached" });
+    const esAfter = await page.getAttribute(`[data-lesson="${first.id}"]`, "data-status");
+    let frAfter = "n/a";
+    if (frFirst) {
+      await openCourse(page, LBASE, "fr");
+      await page.waitForSelector(`[data-lesson="${frFirst.id}"]`, { state: "attached" });
+      frAfter = await page.getAttribute(`[data-lesson="${frFirst.id}"]`, "data-status");
+    }
+    check("both languages' progress survives restarting the launcher", esAfter === "passed" && frAfter === "passed", `es=${esAfter} fr=${frAfter}`);
+    await ctx.close();
+
     // Other websites open in the browser cannot write the file.
     const before = fs.readFileSync(dataFile, "utf8");
     const res = await fetch(LBASE + "api/progress", { method: "PUT", headers: { "Content-Type": "application/json", Origin: "http://evil.example" }, body: JSON.stringify({ lessons: {} }) });
@@ -537,12 +798,27 @@ async function scenarioLauncherFile() {
 }
 
 // ---------------------------------------------------------------- run
-const scenarios = [scenarioFileUrl, scenarioPracticeAndQuizBasics, scenarioPassScoreSetting, scenarioCumulativeQuiz, scenarioLevelTest, scenarioExportImportAndUpdate, scenarioSessionControls, scenarioAppearance, scenarioLauncherFile];
-for (const s of scenarios) {
-  try {
-    await s();
-  } catch (err) {
-    check(`${s.name} ran to completion`, false, String(err).split("\n")[0]);
+const only = process.argv.includes("--lang") ? [process.argv[process.argv.indexOf("--lang") + 1]] : ["es", "fr"];
+const perLanguage = [scenarioFileUrl, scenarioPracticeAndQuizBasics, scenarioPassScoreSetting, scenarioCumulativeQuiz, scenarioLevelTest, scenarioExportImportAndUpdate, scenarioSessionControls];
+const whole = [scenarioAppearance, scenarioLanguageSwitching, scenarioVoices, scenarioFrenchTyping, scenarioLauncherFile];
+for (const lang of only) {
+  T = `[${lang}]`;
+  for (const s of perLanguage) {
+    try {
+      await s(lang);
+    } catch (err) {
+      check(`${T} ${s.name} ran to completion`, false, String(err).split("\n")[0]);
+    }
+  }
+}
+T = "";
+if (!process.argv.includes("--lang")) {
+  for (const s of whole) {
+    try {
+      await s();
+    } catch (err) {
+      check(`${s.name} ran to completion`, false, String(err).split("\n")[0]);
+    }
   }
 }
 check("no requests to outside hosts (works offline)", outsideRequests.length === 0, outsideRequests.slice(0, 3).join(" "));

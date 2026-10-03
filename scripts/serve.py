@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Run the Spanish course from this computer and save progress to a file.
+"""Run Polyglotte from this computer and save progress to a file.
 
-Started by the "Start Spanish.command" launcher. It serves the app on this machine only
+Started by the launchers ("Start Polyglotte.command" on macOS, "Start Polyglotte.bat" on
+Windows, start-polyglotte.sh on Linux). It serves the app on this machine only
 (127.0.0.1) and keeps your progress in my-progress.json in the course folder, so clearing
 browser data never loses it. The previous version is kept as my-progress.backup.json.
 Nothing is sent anywhere else.
@@ -9,6 +10,9 @@ Nothing is sent anywhere else.
     python3 scripts/serve.py                  # start and open the browser
     python3 scripts/serve.py --no-browser     # start only
     python3 scripts/serve.py --port 0 --data /tmp/p.json   # used by the tests
+
+POLYGLOTTE_PORT and POLYGLOTTE_NO_BROWSER=1 set the same options from the environment, so
+the launchers themselves can be tested without opening a browser.
 """
 from __future__ import annotations
 
@@ -28,7 +32,7 @@ APP = ROOT / "app"
 DEFAULT_DATA = ROOT / "my-progress.json"
 DEFAULT_PORT = 8766
 MAX_BODY = 5 * 1024 * 1024
-APP_ID = "spanish-lessons"
+APP_ID = "polyglotte"
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -91,7 +95,9 @@ class Handler(SimpleHTTPRequestHandler):
             data = json.loads(self.rfile.read(length))
         except ValueError:
             return self._json(400, {"error": "not JSON"})
-        if not isinstance(data, dict) or not isinstance(data.get("lessons"), dict):
+        # Version 2 keeps one record per language under "langs"; version 1 (Spanish only) had
+        # "lessons" at the top. Either is progress data; anything else is refused.
+        if not isinstance(data, dict) or not (isinstance(data.get("langs"), dict) or isinstance(data.get("lessons"), dict)):
             return self._json(400, {"error": "not progress data"})
         target = self.data_file
         target.parent.mkdir(parents=True, exist_ok=True)
@@ -113,14 +119,15 @@ def already_running(port: int) -> bool:
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    ap.add_argument("--port", type=int, default=DEFAULT_PORT)
+    ap.add_argument("--port", type=int, default=int(os.environ.get("POLYGLOTTE_PORT", DEFAULT_PORT)))
     ap.add_argument("--data", type=Path, default=DEFAULT_DATA)
-    ap.add_argument("--no-browser", action="store_true")
+    ap.add_argument("--no-browser", action="store_true",
+                    default=os.environ.get("POLYGLOTTE_NO_BROWSER") == "1")
     args = ap.parse_args()
 
     if args.port and already_running(args.port):
         url = f"http://127.0.0.1:{args.port}/"
-        print(f"The course is already running at {url} — opening it.")
+        print(f"Polyglotte is already running at {url} — opening it.")
         if not args.no_browser:
             webbrowser.open(url)
         return 0
@@ -140,7 +147,7 @@ def main() -> int:
         return 1
 
     url = f"http://127.0.0.1:{server.server_address[1]}/"
-    print(f"Spanish course running at {url}", flush=True)
+    print(f"Polyglotte running at {url}", flush=True)
     print(f"Progress is saved to {Handler.data_file}", flush=True)
     print("Keep this window open while you study. Close it (or press Ctrl+C) to stop.", flush=True)
     if not args.no_browser:

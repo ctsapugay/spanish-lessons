@@ -1,15 +1,18 @@
-/* Spanish Lessons — a local, offline course from A1 to C1.
+/* Polyglotte — local, offline language courses from A1 to C1 (Spanish and French).
  *
- * Everything runs in the browser. Course content comes from course-data.js (built from
- * content/ by scripts/build.py). Progress lives in localStorage and can be exported to a
- * file and imported back. When the app is started with the launcher (scripts/serve.py),
- * progress is also saved to my-progress.json on this computer, and that file wins on
- * startup. Nothing is ever sent off this machine.
+ * Everything runs in the browser. Each language's course comes from course-data-<lang>.js
+ * (built from content/ by scripts/build.py). Progress lives in localStorage — one record per
+ * language, plus shared settings — and can be exported to a file and imported back. When the
+ * app is started with the launcher (scripts/serve.py), progress is also saved to
+ * my-progress.json on this computer, and that file wins on startup. Nothing is ever sent off
+ * this machine.
  */
 (function () {
   "use strict";
 
-  const COURSE = window.COURSE || { levels: [] };
+  const COURSES = window.COURSES || {};
+  const LANG_CODES = Object.keys(COURSES);
+  // The key predates the second language; keeping it keeps the progress already saved.
   const STORE_KEY = "spanish-lessons.progress";
   const DEFAULT_SETTINGS = { passScore: 80, quizLength: 20, speechRate: 0.9, theme: "system", accent: "pink" };
   const THEMES = [["system", "Match my computer"], ["light", "Light"], ["dark", "Dark"]];
@@ -18,22 +21,53 @@
   const PRACTICE_LENGTH = 12;
 
   // ------------------------------------------------------------------ course index
-  const LESSONS = [];               // every lesson in course order
-  const BY_ID = {};
-  COURSE.levels.forEach((level, li) => {
-    level.lessons.forEach((lesson) => {
-      lesson.levelIndex = li;
-      lesson.index = LESSONS.length;
-      LESSONS.push(lesson);
-      BY_ID[lesson.id] = lesson;
-    });
-  });
-  const LEVEL_BY_ID = {};
-  COURSE.levels.forEach((l) => (LEVEL_BY_ID[l.id] = l));
+  // The course of the language being learned; switching language re-points all of these.
+  let LANG = null;                  // { code, name, native, speech, voices, tagline, sample }
+  let COURSE = { levels: [] };
+  let LESSONS = [];                 // every lesson in course order
+  let BY_ID = {};
+  let LEVEL_BY_ID = {};
+  function useLanguage(code) {
+    const c = COURSES[code];
+    if (!c) return false;
+    if (!c.indexed) {
+      let n = 0;
+      c.levels.forEach((level, li) => level.lessons.forEach((lesson) => {
+        lesson.levelIndex = li;
+        lesson.index = n++;
+      }));
+      c.indexed = true;
+    }
+    LANG = c.lang;
+    COURSE = c;
+    LESSONS = c.levels.flatMap((l) => l.lessons);
+    BY_ID = {};
+    LESSONS.forEach((l) => (BY_ID[l.id] = l));
+    LEVEL_BY_ID = {};
+    c.levels.forEach((l) => (LEVEL_BY_ID[l.id] = l));
+    window.COURSE = c; // the current course, for the browser checks
+    return true;
+  }
 
   // ------------------------------------------------------------------ progress store
+  // Version 2: shared settings, the language being learned, and one record per language.
+  // Version 1 (Spanish only) kept lessons/tests/misses/flagged at the top; it is read as Spanish.
+  function freshProgress() {
+    return { lessons: {}, tests: {}, misses: {}, flagged: [] };
+  }
+  function cleanProgress(p) {
+    p = p && typeof p === "object" ? p : {};
+    return {
+      lessons: p.lessons && typeof p.lessons === "object" ? p.lessons : {},
+      tests: p.tests && typeof p.tests === "object" ? p.tests : {},
+      misses: p.misses && typeof p.misses === "object" ? p.misses : {},
+      flagged: Array.isArray(p.flagged) ? p.flagged : [],
+    };
+  }
   function freshState() {
-    return { version: 1, settings: { ...DEFAULT_SETTINGS }, lessons: {}, tests: {}, misses: {}, flagged: [] };
+    const langs = {};
+    LANG_CODES.forEach((c) => (langs[c] = freshProgress()));
+    return { version: 2, settings: { ...DEFAULT_SETTINGS }, language: null, langs };
   }
   function loadState() {
     try {
@@ -48,14 +82,22 @@
   function upgrade(s) {
     const base = freshState();
     if (!s || typeof s !== "object") return base;
-    return {
-      version: 1,
-      settings: { ...base.settings, ...(s.settings || {}) },
-      lessons: s.lessons || {},
-      tests: s.tests || {},
-      misses: s.misses || {},
-      flagged: Array.isArray(s.flagged) ? s.flagged : [],
-    };
+    const out = { version: 2, settings: { ...base.settings, ...(s.settings || {}) }, language: null, langs: {} };
+    if (s.langs && typeof s.langs === "object") {
+      Object.keys(s.langs).forEach((c) => (out.langs[c] = cleanProgress(s.langs[c])));
+      out.language = typeof s.language === "string" ? s.language : null;
+    } else {
+      out.langs.es = cleanProgress(s); // a version 1 record: the Spanish course
+      out.language = "es";
+    }
+    LANG_CODES.forEach((c) => { if (!out.langs[c]) out.langs[c] = freshProgress(); });
+    if (out.language && !COURSES[out.language]) out.language = null;
+    return out;
+  }
+  // The progress record of the language being learned.
+  function P() {
+    if (!state.langs[LANG.code]) state.langs[LANG.code] = freshProgress();
+    return state.langs[LANG.code];
   }
   let state = loadState();
   function applyAppearance() {
@@ -115,13 +157,13 @@
     el = document.createElement("div");
     el.id = "fileWarn";
     el.className = "file-warn";
-    el.textContent = "Couldn't save to your progress file — is the Start Spanish window still open? Your progress is still kept in this browser for now.";
+    el.textContent = "Couldn't save to your progress file — is the Start Polyglotte window still open? Your progress is still kept in this browser for now.";
     document.body.prepend(el);
   }
 
   // ------------------------------------------------------------------ unlock rules
-  const lessonPassed = (id) => !!(state.lessons[id] && state.lessons[id].passed);
-  const testPassed = (levelId) => !!(state.tests[levelId] && state.tests[levelId].passed);
+  const lessonPassed = (id) => !!(P().lessons[id] && P().lessons[id].passed);
+  const testPassed = (levelId) => !!(P().tests[levelId] && P().tests[levelId].passed);
   function levelLessonsPassed(level) {
     return level.lessons.every((l) => lessonPassed(l.id));
   }
@@ -159,7 +201,7 @@
     return t.content;
   }
   function inline(text) {
-    // **bold**, *Spanish* (rendered emphasised and speakable)
+    // **bold**, *Spanish or French* (rendered emphasised and speakable)
     return esc(text)
       .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
       .replace(/\*([^*]+)\*/g, (m, s) => `<em class="say" data-say="${s.replace(/<[^>]*>/g, "")}">${s}</em>`);
@@ -193,13 +235,12 @@
   }
 
   // ------------------------------------------------------------------ speech
-  let voices = [];
+  // Only a voice of the language being learned is ever used: never a voice of another one.
   function pickVoice() {
-    if (!("speechSynthesis" in window)) return null;
-    voices = speechSynthesis.getVoices().filter((v) => /^es/i.test(v.lang));
-    const prefer = ["es-MX", "es-US", "es-419", "es-CO", "es-AR"];
-    for (const p of prefer) {
-      const v = voices.find((x) => x.lang.replace("_", "-") === p);
+    if (!("speechSynthesis" in window) || !LANG) return null;
+    const voices = speechSynthesis.getVoices().filter((v) => v.lang.replace("_", "-").toLowerCase().split("-")[0] === LANG.code);
+    for (const p of LANG.voices) {
+      const v = voices.find((x) => x.lang.replace("_", "-").toLowerCase() === p.toLowerCase());
       if (v) return v;
     }
     return voices[0] || null;
@@ -225,7 +266,7 @@
     const el = ev.target.closest("[data-say]");
     if (el) {
       if (!speak(el.getAttribute("data-say"))) {
-        el.title = "No Spanish voice is available on this computer.";
+        el.title = `No ${LANG ? LANG.name : ""} voice is available on this computer.`;
       }
     }
   });
@@ -238,11 +279,12 @@
       .toLowerCase()
       .replace(/[¿¡?!.,;:"“”«»()—–]/g, " ")
       .replace(/’/g, "'")
+      .replace(/'\s+/g, "'")
       .replace(/\s+/g, " ")
       .trim();
   }
   function fold(s) {
-    return normalise(s).normalize("NFD").replace(/[̀-ͯ]/g, "");
+    return normalise(s).replace(/œ/g, "oe").replace(/æ/g, "ae").normalize("NFD").replace(/[̀-ͯ]/g, "");
   }
   function checkTyped(given, answers) {
     const g = normalise(given);
@@ -264,7 +306,7 @@
   function lessonItems(lesson) {
     return (lesson.items || []).filter(playable);
   }
-  function weightedSample(items, n, rnd = Math.random, weight = (it) => 1 + 3 * (state.misses[it.id] || 0)) {
+  function weightedSample(items, n, rnd = Math.random, weight = (it) => 1 + 3 * (P().misses[it.id] || 0)) {
     const pool = items.map((it) => ({ it, w: weight(it) }));
     const out = [];
     while (out.length < n && pool.length) {
@@ -281,7 +323,7 @@
   function spreadSample(lessons, n) {
     const withItems = lessons.map((l) => lessonItems(l)).filter((b) => b.length);
     const buckets = weightedSample(
-      withItems.map((b, k) => ({ id: "bucket" + k, b, missSum: b.reduce((s, it) => s + (state.misses[it.id] || 0), 0) })),
+      withItems.map((b, k) => ({ id: "bucket" + k, b, missSum: b.reduce((s, it) => s + (P().misses[it.id] || 0), 0) })),
       withItems.length,
       Math.random,
       (x) => 1 + 3 * x.missSum
@@ -359,7 +401,7 @@
         override.dataset.action = "override";
         override.textContent = "I was right — count it";
         override.onclick = () => {
-          state.flagged.push({ id: item.id, prompt: item.prompt || item.audio, given: details.given, at: new Date().toISOString() });
+          P().flagged.push({ id: item.id, prompt: item.prompt || item.audio, given: details.given, at: new Date().toISOString() });
           save();
           override.remove();
           fb.className = "feedback note";
@@ -456,7 +498,7 @@
     }
   }
   function speakableAnswer(item) {
-    return item.type !== "mc" || item.lang === "es";
+    return item.type !== "mc" || item.lang === LANG.code;
   }
 
   // ------------------------------------------------------------------ session runner
@@ -535,8 +577,8 @@
     const passed = LESSONS.filter((l) => lessonPassed(l.id)).length;
     const next = nextStep();
     const tests = COURSE.levels.filter((l) => testPassed(l.id)).length;
-    let html = `<h1>Your Spanish course</h1>
-      <p class="muted">From complete beginner (A1) to advanced (C1), in Latin American Spanish.</p>
+    let html = `<h1>Your ${esc(LANG.name)} course</h1>
+      <p class="muted">${esc(LANG.tagline)}</p>
       <div class="card"><div class="row">
         <div><div class="stat" data-role="overall">${pct(passed, total)}%</div><div class="muted small">of the course passed</div></div>
         <div><div class="stat">${passed}<span class="muted small"> / ${total}</span></div><div class="muted small">lessons passed</div></div>
@@ -557,7 +599,7 @@
         <div class="progress" style="margin-top:10px"><span style="width:${pct(lp, level.lessons.length)}%"></span></div>
         <ul class="lesson-list">`;
       level.lessons.forEach((lesson) => {
-        const rec = state.lessons[lesson.id];
+        const rec = P().lessons[lesson.id];
         const unlocked = lessonUnlocked(lesson);
         const isNext = next && next.kind === "lesson" && next.lesson === lesson;
         let badge = "";
@@ -571,7 +613,7 @@
           <span>${unlocked ? `<a href="#/lesson/${lesson.id}">${esc(lesson.title)}</a>` : esc(lesson.title)}<br><span class="small muted">${esc(lesson.objective)}</span></span>
           <span class="spacer"></span>${badge}</li>`;
       });
-      const tr = state.tests[level.id];
+      const tr = P().tests[level.id];
       const tu = testUnlocked(level);
       html += `<li data-test="${level.id}" data-status="${tr && tr.passed ? "passed" : tu ? "open" : "locked"}" class="${tu ? "" : "locked"}"><span class="num">★</span>
         <span>${tu ? `<a href="#/test/${level.id}">${esc(level.test.title)}</a>` : esc(level.test.title)}<br><span class="small muted">A cumulative test of the whole level, plus earlier levels. Passing it opens the next level.</span></span>
@@ -588,7 +630,7 @@
       $app.innerHTML = `<h1>${esc(lesson.title)}</h1><div class="card">🔒 This lesson unlocks when you pass the quiz for the lesson before it. <a href="#/">Back to the dashboard</a></div>`;
       return;
     }
-    const rec = state.lessons[id];
+    const rec = P().lessons[id];
     let html = `<div class="muted small">${esc(lessonNumber(lesson))} · ${esc(COURSE.levels[lesson.levelIndex].title)}</div>
       <h1>${esc(lesson.title)}</h1><p class="muted">Goal: ${esc(lesson.objective)}</p><div class="lesson-body">`;
     lesson.sections.forEach((sec) => {
@@ -601,15 +643,15 @@
       html += "</div>";
     });
     html += `</div><h2>Vocabulary</h2><div class="card"><ul class="pairs">`;
-    lesson.vocab.forEach(([es, en]) => (html += `<li>${speakBtn(es)}<span class="es">${esc(es)}</span><span class="muted">— ${esc(en)}</span></li>`));
+    lesson.vocab.forEach(([word, en, ipa]) => (html += `<li>${speakBtn(word)}<span class="tl">${esc(word)}</span>${ipa ? `<span class="ipa" title="Pronunciation">/${esc(ipa)}/</span>` : ""}<span class="muted">— ${esc(en)}</span></li>`));
     html += `</ul></div><h2>Examples</h2><div class="card"><ul class="pairs">`;
-    lesson.examples.forEach(([es, en]) => (html += `<li>${speakBtn(es)}<span><span class="es">${esc(es)}</span><br><span class="muted">${esc(en)}</span></span></li>`));
+    lesson.examples.forEach(([tl, en]) => (html += `<li>${speakBtn(tl)}<span><span class="tl">${esc(tl)}</span><br><span class="muted">${esc(en)}</span></span></li>`));
     html += `</ul></div>
       <div class="card row"><div><strong>Ready?</strong><div class="small muted">Practise as much as you like, then take the quiz. The quiz also includes questions from earlier lessons.</div></div><div class="spacer"></div>
       <a class="btn secondary" href="#/practice/lesson/${id}">Practise this lesson</a>
       <a class="btn" href="#/quiz/${id}" data-action="take-quiz">Take the quiz</a></div>
       ${rec ? `<p class="small muted">Quiz attempts: ${rec.attempts} · best ${rec.best}% · last ${rec.lastScore}%${rec.passed ? " · passed ✔" : ""}</p>` : ""}`;
-    if (!canSpeak()) html += `<p class="small muted">🔇 No Spanish voice found on this computer, so audio and listening exercises are off. On a Mac: System Settings → Accessibility → Spoken Content → System voice → Manage Voices → add a Spanish (Mexico) voice.</p>`;
+    if (!canSpeak()) html += `<p class="small muted">🔇 No ${esc(LANG.name)} voice found on this computer, so audio and listening exercises are off. On a Mac: System Settings → Accessibility → Spoken Content → System voice → Manage Voices → add a ${LANG.code === "fr" ? "French (France)" : "Spanish (Mexico)"} voice. On Windows: Settings → Time & language → Speech → Add voices.</p>`;
     $app.innerHTML = html;
   }
 
@@ -659,11 +701,11 @@
     }
     html += `<h2>Retake a quiz</h2><div class="card"><ul class="lesson-list">`;
     LESSONS.filter((l) => lessonPassed(l.id)).forEach((l) => {
-      const r = state.lessons[l.id];
+      const r = P().lessons[l.id];
       html += `<li><span class="num">${esc(lessonNumber(l))}</span><span>${esc(l.title)}</span><span class="spacer"></span><span class="badge passed">best ${r.best}%</span><a class="btn secondary small" href="#/quiz/${l.id}">Retake</a></li>`;
     });
     COURSE.levels.filter((lv) => testPassed(lv.id)).forEach((lv) => {
-      html += `<li><span class="num">★</span><span>${esc(lv.test.title)}</span><span class="spacer"></span><span class="badge passed">best ${state.tests[lv.id].best}%</span><a class="btn secondary small" href="#/test/${lv.id}">Retake</a></li>`;
+      html += `<li><span class="num">★</span><span>${esc(lv.test.title)}</span><span class="spacer"></span><span class="badge passed">best ${P().tests[lv.id].best}%</span><a class="btn secondary small" href="#/test/${lv.id}">Retake</a></li>`;
     });
     html += `</ul>${LESSONS.some((l) => lessonPassed(l.id)) ? "" : '<p class="muted small">Nothing passed yet.</p>'}</div>`;
     $app.innerHTML = html;
@@ -671,8 +713,9 @@
 
   function recordMisses(results) {
     results.forEach((r) => {
-      if (!r.correct) state.misses[r.id] = (state.misses[r.id] || 0) + 1;
-      else if (state.misses[r.id]) state.misses[r.id] = Math.max(0, state.misses[r.id] - 1);
+      const m = P().misses;
+      if (!r.correct) m[r.id] = (m[r.id] || 0) + 1;
+      else if (m[r.id]) m[r.id] = Math.max(0, m[r.id] - 1);
     });
   }
   function recordAttempt(store, key, score) {
@@ -704,7 +747,7 @@
       onFinish: (results) => {
         const score = pct(results.filter((r) => r.correct).length, results.length);
         recordMisses(results);
-        const pass = recordAttempt(state.lessons, id, score);
+        const pass = recordAttempt(P().lessons, id, score);
         save();
         showResult({ title: "Quiz: " + lesson.title, score, pass, results, retry: `#/quiz/${id}`, back: `#/lesson/${id}` });
       },
@@ -726,7 +769,7 @@
       onFinish: (results) => {
         const score = pct(results.filter((r) => r.correct).length, results.length);
         recordMisses(results);
-        const pass = recordAttempt(state.tests, levelId, score);
+        const pass = recordAttempt(P().tests, levelId, score);
         save();
         showResult({ title: level.test.title, score, pass, results, retry: `#/test/${levelId}`, back: "#/" });
       },
@@ -754,6 +797,10 @@
   function viewSettings() {
     const s = state.settings;
     $app.innerHTML = `<h1>Settings</h1>
+      <div class="card"><h3>Language</h3>
+        <p class="muted small">The course you are learning. Each language keeps its own progress; switching never changes the other.</p>
+        <div class="choices" role="group" aria-label="Language">${LANG_CODES.map((c) =>
+          `<button class="choice" type="button" data-lang-choice="${c}" aria-pressed="${state.language === c}">${esc(COURSES[c].lang.native)} <span class="muted small">(${esc(COURSES[c].lang.name)})</span></button>`).join("")}</div></div>
       <div class="card"><h3>Appearance</h3>
         <p class="muted small">Light or dark mode, and the accent colour. Changes apply straight away.</p>
         <div class="choices" role="group" aria-label="Theme">${THEMES.map(([id, label]) =>
@@ -763,16 +810,17 @@
       <div class="card"><h3>Passing score</h3><p class="muted small">The score you need on a quiz or level test to pass it.</p>
         <div class="row"><input type="number" id="passScore" min="50" max="100" step="5" value="${esc(s.passScore)}"> %</div>
         <h3>Quiz length</h3><div class="row"><input type="number" id="quizLength" min="10" max="40" step="5" value="${esc(s.quizLength)}"> questions per lesson quiz</div>
-        <h3>Speech speed</h3><div class="row"><input type="number" id="speechRate" min="0.5" max="1.2" step="0.1" value="${esc(s.speechRate)}"> ${canSpeak() ? `<button class="btn secondary small" type="button" data-say="Hola, ¿cómo estás? Me llamo Sofía.">Test voice</button>` : '<span class="small muted">No Spanish voice installed.</span>'}</div>
+        <h3>Speech speed</h3><div class="row"><input type="number" id="speechRate" min="0.5" max="1.2" step="0.1" value="${esc(s.speechRate)}"> ${canSpeak() ? `<button class="btn secondary small" type="button" data-say="${esc(LANG.sample)}">Test voice</button>` : `<span class="small muted">No ${esc(LANG.name)} voice installed.</span>`}</div>
         <div class="row" style="margin-top:14px"><button class="btn" id="saveSettings" type="button">Save settings</button><span id="saved" class="muted small"></span></div></div>
       <div class="card"><h3>Back up your progress</h3><p class="muted small">${fileMode
           ? `Progress is saved automatically to <strong>${esc(fileName)}</strong> in the course folder (the previous version is kept as a backup). Export makes an extra copy you can keep anywhere.`
-          : "Progress is stored in this browser. Start the course with the <strong>Start Spanish</strong> launcher to save it to a file instead. Export a copy now and then; import it to restore."}</p>
+          : "Progress is stored in this browser. Start the course with the <strong>Start Polyglotte</strong> launcher to save it to a file instead. Export a copy now and then; import it to restore."} Export and import cover every language.</p>
         <div class="row"><button class="btn secondary" id="export" type="button">Export progress</button>
         <label class="btn secondary">Import progress<input type="file" id="import" accept="application/json,.json" hidden></label>
-        <button class="btn secondary" id="reset" type="button">Reset all progress</button></div><div id="ioMsg" class="small" style="margin-top:8px"></div></div>
-      <div class="card"><h3>Flagged answers</h3><p class="muted small">Answers you marked “I was right”. They help find answer keys that need fixing.</p>
-        ${state.flagged.length ? `<ul class="pairs">${state.flagged.map((f) => `<li><span class="muted small">${esc(f.id)}</span><span>${esc(f.prompt || "")} → <strong>${esc(f.given || "")}</strong></span></li>`).join("")}</ul><button class="btn secondary small" id="clearFlags" type="button">Clear list</button>` : '<p class="small muted">None.</p>'}</div>`;
+        <button class="btn secondary" id="reset" type="button">Reset ${esc(LANG.name)} progress</button></div><div id="ioMsg" class="small" style="margin-top:8px"></div></div>
+      <div class="card"><h3>Flagged answers (${esc(LANG.name)})</h3><p class="muted small">Answers you marked “I was right”. They help find answer keys that need fixing.</p>
+        ${P().flagged.length ? `<ul class="pairs">${P().flagged.map((f) => `<li><span class="muted small">${esc(f.id)}</span><span>${esc(f.prompt || "")} → <strong>${esc(f.given || "")}</strong></span></li>`).join("")}</ul><button class="btn secondary small" id="clearFlags" type="button">Clear list</button>` : '<p class="small muted">None.</p>'}</div>`;
+    $app.querySelectorAll("[data-lang-choice]").forEach((b) => (b.onclick = () => switchLanguage(b.dataset.langChoice, "#/settings")));
     $app.querySelectorAll("[data-theme-choice]").forEach((b) => (b.onclick = () => {
       s.theme = b.dataset.themeChoice; save(); applyAppearance(); viewSettings();
     }));
@@ -789,10 +837,10 @@
       document.getElementById("saved").textContent = "Saved.";
     };
     document.getElementById("export").onclick = () => {
-      const blob = new Blob([JSON.stringify({ app: "spanish-lessons", exportedAt: new Date().toISOString(), ...state }, null, 2)], { type: "application/json" });
+      const blob = new Blob([JSON.stringify({ app: "polyglotte", exportedAt: new Date().toISOString(), ...state }, null, 2)], { type: "application/json" });
       const a = document.createElement("a");
       a.href = URL.createObjectURL(blob);
-      a.download = `spanish-progress-${new Date().toISOString().slice(0, 10)}.json`;
+      a.download = `polyglotte-progress-${new Date().toISOString().slice(0, 10)}.json`;
       document.body.appendChild(a);
       a.click();
       a.remove();
@@ -804,28 +852,62 @@
       file.text().then((text) => {
         let data;
         try { data = JSON.parse(text); } catch (e) { data = null; }
-        if (!data || typeof data !== "object" || typeof data.lessons !== "object") {
+        if (!data || typeof data !== "object" || (typeof data.lessons !== "object" && typeof data.langs !== "object")) {
           document.getElementById("ioMsg").textContent = "That file is not a progress export from this app.";
           return;
         }
         state = upgrade(data);
+        if (!state.language) state.language = LANG.code;
+        useLanguage(state.language);
         applyAppearance();
+        renderHeader();
         save();
         viewSettings();
         document.getElementById("ioMsg").textContent = "Progress imported.";
       });
     };
     document.getElementById("reset").onclick = () => {
-      if (confirm("Erase all progress? Export a backup first if you might want it back.")) {
-        const keep = state.settings;
-        state = freshState();
-        state.settings = keep;
+      if (confirm(`Erase all your ${LANG.name} progress? Your other languages are not affected. Export a backup first if you might want it back.`)) {
+        state.langs[LANG.code] = freshProgress();
         save();
         viewSettings();
       }
     };
     const cf = document.getElementById("clearFlags");
-    if (cf) cf.onclick = () => { state.flagged = []; save(); viewSettings(); };
+    if (cf) cf.onclick = () => { P().flagged = []; save(); viewSettings(); };
+  }
+
+  // ------------------------------------------------------------------ choosing a language
+  function viewChooseLanguage() {
+    $app.innerHTML = `<h1>Welcome to Polyglotte</h1>
+      <p class="muted">Which language would you like to learn? You can switch at any time, and each language keeps its own progress.</p>
+      <div class="lang-cards">${LANG_CODES.map((c) => {
+        const L = COURSES[c].lang;
+        const n = COURSES[c].levels.reduce((k, l) => k + l.lessons.length, 0);
+        return `<button class="card lang-card" type="button" data-choose-lang="${c}"><span class="lang-native">${esc(L.native)}</span>
+          <span class="muted">${esc(L.name)} · ${n} lessons</span><span class="small">${esc(L.tagline)}</span></button>`;
+      }).join("")}</div>`;
+    $app.querySelectorAll("[data-choose-lang]").forEach((b) => (b.onclick = () => switchLanguage(b.dataset.chooseLang, "#/")));
+  }
+  function switchLanguage(code, hash) {
+    if (!COURSES[code]) return;
+    state.language = code;
+    if (!state.langs[code]) state.langs[code] = freshProgress();
+    useLanguage(code);
+    save();
+    renderHeader();
+    if (location.hash === hash) route(); else location.hash = hash;
+  }
+  function renderHeader() {
+    const box = document.getElementById("langSwitch");
+    if (!box) return;
+    box.innerHTML = LANG_CODES.map((c) =>
+      `<button type="button" class="lang-btn" data-switch-lang="${c}" aria-pressed="${state.language === c}" title="${esc(COURSES[c].lang.name)}">${esc(COURSES[c].lang.native)}</button>`).join("");
+    box.querySelectorAll("[data-switch-lang]").forEach((b) => (b.onclick = () => {
+      if (b.dataset.switchLang !== state.language) switchLanguage(b.dataset.switchLang, "#/");
+    }));
+    document.documentElement.lang = state.language || "en";
+    document.title = state.language ? `Polyglotte · ${COURSES[state.language].lang.native}` : "Polyglotte";
   }
 
   function notFound() {
@@ -837,6 +919,13 @@
     if ("speechSynthesis" in window) speechSynthesis.cancel();
     state = loadState(); // progress may have changed in another tab (every change is saved at once)
     applyAppearance();
+    renderHeader();
+    if (!state.language || !useLanguage(state.language)) {
+      document.querySelectorAll("[data-nav]").forEach((n) => n.classList.remove("active"));
+      $app.dataset.lang = "";
+      return viewChooseLanguage();
+    }
+    $app.dataset.lang = LANG.code; // which course the page is showing
     const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
     const [a, b, c] = parts;
     document.querySelectorAll("[data-nav]").forEach((n) => n.classList.remove("active"));

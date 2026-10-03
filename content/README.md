@@ -1,5 +1,9 @@
 # Writing lessons
 
+There is one course per language: Spanish in `content/` (`course.json`, `lessons/`) and
+French in `content/fr/` (same layout). Everything below applies to both, plus the French
+additions at the end.
+
 `course.json` is the outline (levels → lessons → title, objective, inventory items covered,
 and each level's test). Each lesson's content is `lessons/<id>.json`. After editing, run
 `python3 scripts/build.py` to regenerate `app/course-data.js`, then
@@ -46,3 +50,22 @@ per vocabulary entry (meaning, and writing it in Spanish) and one listening item
 - Explanations in plain English, short paragraphs, one idea per section; tables for paradigms.
 - Examples are natural, useful sentences, not linguistics-textbook oddities.
 - Translations: accept every reasonable answer a learner at that point could give.
+
+## French additions
+
+- **Vocabulary entries** are `[French, English, IPA]`, or `[French, English, IPA, gender]`:
+
+  ```json
+  ["la maison", "the house", "la mɛ.zɔ̃"],
+  ["l'arbre", "the tree", "laʁbʁ", "m"],
+  ["les enfants", "the children", "le.z‿ɑ̃.fɑ̃"]
+  ```
+
+  The IPA is checked against Lexique 3.83 (`python3 scripts/frlex.py ipa "les enfants"` shows
+  what it expects). Mark liaison with ‿; syllable dots are optional. When the article doesn't
+  show a noun's gender (*l'*, *les*, *des*), give it as the fourth field.
+- `mc` items whose options are French use `"lang": "fr"`.
+- Standard metropolitan French in exercises; Québec, Belgian or Swiss usage only as notes.
+- `bash checks/french-accuracy.sh` checks every French word's spelling, nouns' genders and
+  the IPA guides. A word Lexique lacks (or a name) must be justified in the level review's
+  `## Lexicon notes` section — see `checks/scripts/check_french_accuracy.py`.
