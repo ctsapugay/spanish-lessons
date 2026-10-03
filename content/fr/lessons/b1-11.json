@@ -1,0 +1,374 @@
+{
+ "sections": [
+  {
+   "heading": "Reporting statements: dire que",
+   "body": "To report what someone says, use a reporting verb + *que* (never left out in French, unlike \"that\" in English):\n\n- *Léa dit : « Je suis fatiguée. »* → *Léa dit **qu'**elle est fatiguée.*\n- *Il explique : « Le train a du retard. »* → *Il explique **que** le train a du retard.*\n\nPronouns and possessives change to fit the new speaker: *« J'aime **mon** travail »* → *Il dit qu'**il** aime **son** travail.*\n\nReporting verbs: *dire, expliquer, annoncer* (announce), *répondre, affirmer* (state), *ajouter* (add), *raconter* (tell), *promettre*."
+  },
+  {
+   "heading": "Reporting questions: si, ce que, question words",
+   "body": "- yes/no questions → *si* (whether, if): *« Tu viens ? »* → *Il demande **si** je viens.* (*si* + *il* → *s'il*)\n- *qu'est-ce que* / *que* → *ce que*: *« Qu'est-ce que tu fais ? »* → *Il demande **ce que** je fais.*\n- *qu'est-ce qui* → *ce qui*: *« Qu'est-ce qui se passe ? »* → *Elle demande **ce qui** se passe.*\n- other question words stay: *« Où habites-tu ? »* → *Il demande **où** j'habite.* — *quand, comment, pourquoi, combien, qui*.\n\nThe word order becomes that of a statement: no inversion, no *est-ce que*: *Il demande où j'habite* (not ~~où habite-je~~)."
+  },
+  {
+   "heading": "Reporting orders: de + infinitive",
+   "body": "*« Ferme la porte ! »* → *Il me dit **de** fermer la porte.* — *« Ne parlez pas ! »* → *Elle nous demande **de ne pas** parler.*"
+  },
+  {
+   "heading": "Tense",
+   "body": "When the reporting verb is in the **present** (or future), the reported sentence keeps its tense: *Il dit qu'il viendra demain.* (When the reporting verb is in the past — *il a dit que…* — the tenses shift; you'll study this at B2.)"
+  }
+ ],
+ "vocab": [
+  [
+   "dire que",
+   "to say that",
+   "diʁ kə"
+  ],
+  [
+   "expliquer que",
+   "to explain that",
+   "ɛk.spli.ke kə"
+  ],
+  [
+   "annoncer",
+   "to announce",
+   "a.nɔ̃.se"
+  ],
+  [
+   "affirmer",
+   "to state, to claim",
+   "a.fiʁ.me"
+  ],
+  [
+   "ajouter",
+   "to add",
+   "a.ʒu.te"
+  ],
+  [
+   "demander si",
+   "to ask whether",
+   "də.mɑ̃.de si"
+  ],
+  [
+   "ce que",
+   "what (object)",
+   "sə kə"
+  ],
+  [
+   "ce qui",
+   "what (subject)",
+   "sə ki"
+  ],
+  [
+   "répéter",
+   "to repeat",
+   "ʁe.pe.te"
+  ],
+  [
+   "le discours",
+   "the speech; discourse",
+   "lə dis.kuʁ"
+  ],
+  [
+   "fermer",
+   "to close",
+   "fɛʁ.me"
+  ],
+  [
+   "la nouvelle",
+   "the piece of news",
+   "la nu.vɛl"
+  ]
+ ],
+ "examples": [
+  [
+   "Léa dit qu'elle est fatiguée.",
+   "Léa says she's tired."
+  ],
+  [
+   "Il explique que le train a du retard.",
+   "He explains that the train is late."
+  ],
+  [
+   "Il dit qu'il aime son travail.",
+   "He says he likes his job."
+  ],
+  [
+   "Le directeur annonce que l'entreprise va s'agrandir.",
+   "The director announces that the company is going to grow."
+  ],
+  [
+   "Elle me demande si je viens ce soir.",
+   "She's asking me if I'm coming tonight."
+  ],
+  [
+   "Il demande s'il peut entrer.",
+   "He's asking whether he can come in."
+  ],
+  [
+   "Ma mère veut savoir ce que je fais le week-end.",
+   "My mother wants to know what I'm doing at the weekend."
+  ],
+  [
+   "Elle demande ce qui se passe.",
+   "She's asking what's happening."
+  ],
+  [
+   "Il me demande où j'habite.",
+   "He's asking me where I live."
+  ],
+  [
+   "Ils veulent savoir quand nous arrivons.",
+   "They want to know when we're arriving."
+  ],
+  [
+   "Ils demandent où se trouve la gare.",
+   "They're asking where the station is."
+  ],
+  [
+   "Le professeur nous dit de fermer nos livres.",
+   "The teacher tells us to close our books."
+  ],
+  [
+   "Elle nous demande de ne pas faire de bruit.",
+   "She's asking us not to make any noise."
+  ],
+  [
+   "Il dit qu'il viendra demain.",
+   "He says he'll come tomorrow."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*« Je suis fatiguée. »* — reported:",
+   "options": [
+    "Elle dit qu'elle est fatiguée.",
+    "Elle dit je suis fatiguée.",
+    "Elle dit qu'elle soit fatiguée."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« Tu viens ? »* — reported:",
+   "options": [
+    "Il demande si je viens.",
+    "Il demande que je viens.",
+    "Il demande est-ce que je viens."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« Qu'est-ce que tu fais ? »* — reported:",
+   "options": [
+    "Il demande ce que je fais.",
+    "Il demande qu'est-ce que je fais.",
+    "Il demande ce qui je fais."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« Qu'est-ce qui se passe ? »* — reported:",
+   "options": [
+    "Elle demande ce qui se passe.",
+    "Elle demande ce que se passe.",
+    "Elle demande qu'est-ce qui se passe."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« Où habites-tu ? »* — reported:",
+   "options": [
+    "Il demande où j'habite.",
+    "Il demande où habite-je.",
+    "Il demande où est-ce que j'habite."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« Ferme la porte ! »* — reported:",
+   "options": [
+    "Il me dit de fermer la porte.",
+    "Il me dit que ferme la porte.",
+    "Il me dit fermer la porte."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*« J'aime mon travail »* (Hugo) — reported:",
+   "options": [
+    "Il dit qu'il aime son travail.",
+    "Il dit qu'il aime mon travail.",
+    "Il dit que j'aime son travail."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il demande ___ il peut entrer.",
+   "options": [
+    "s'",
+    "si",
+    "qu'"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*si* + *il* → *s'il*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Can French leave out *que* (\"He says he's tired\")?",
+   "options": [
+    "No — *que* is always needed",
+    "Yes, like English",
+    "Only in speech"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*affirmer* means…",
+   "options": [
+    "to state, to claim",
+    "to sign",
+    "to confirm a booking"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Léa dit ___ elle est fatiguée.",
+   "answers": [
+    "qu'"
+   ],
+   "hint": "Léa says she's tired."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il explique ___ le train a du retard.",
+   "answers": [
+    "que"
+   ],
+   "hint": "He explains that the train is late."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle me demande ___ je viens ce soir.",
+   "answers": [
+    "si"
+   ],
+   "hint": "She's asking me if I'm coming tonight."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma mère veut savoir ___ que je fais le week-end.",
+   "answers": [
+    "ce"
+   ],
+   "hint": "what I'm doing at the weekend."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle demande ce ___ se passe.",
+   "answers": [
+    "qui"
+   ],
+   "hint": "She's asking what's happening."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il me demande ___ j'habite.",
+   "answers": [
+    "où"
+   ],
+   "hint": "He's asking me where I live."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le professeur nous dit ___ fermer nos livres.",
+   "answers": [
+    "de"
+   ],
+   "hint": "The teacher tells us to close our books."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle nous demande de ne ___ faire de bruit.",
+   "answers": [
+    "pas"
+   ],
+   "hint": "She's asking us not to make any noise."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il dit qu'il ___ demain. (venir, futur)",
+   "answers": [
+    "viendra"
+   ],
+   "hint": "He says he'll come tomorrow."
+  },
+  {
+   "type": "translate",
+   "prompt": "She says she's tired.",
+   "answers": [
+    "Elle dit qu'elle est fatiguée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He's asking if I'm coming.",
+   "answers": [
+    "Il demande si je viens."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She wants to know what I'm doing.",
+   "answers": [
+    "Elle veut savoir ce que je fais."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He tells me to close the door.",
+   "answers": [
+    "Il me dit de fermer la porte."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "They're asking where we live.",
+   "answers": [
+    "Ils demandent où nous habitons.",
+    "Ils demandent où on habite."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My mother wants to know what I'm doing at the weekend.\"",
+   "answer": "Ma mère veut savoir ce que je fais le week-end."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She's asking us not to make any noise.\"",
+   "answer": "Elle nous demande de ne pas faire de bruit."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The director announces that the company is going to grow.\"",
+   "answer": "Le directeur annonce que l'entreprise va s'agrandir."
+  }
+ ]
+}

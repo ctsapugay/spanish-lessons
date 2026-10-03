@@ -1,0 +1,374 @@
+{
+ "sections": [
+  {
+   "heading": "Two pronouns in a row",
+   "body": "When a sentence has both a direct and an indirect object, both can become pronouns: *Je donne **le livre** **à Léa*** → *Je **le lui** donne.* They always come in this order, before the verb:\n\n- *Il **me le** prête.* (He lends it to me.)\n- *Je **te les** envoie demain.* (I'll send them to you tomorrow.)\n- *Elle **la leur** a montrée.* (She showed it to them.)\n- *Je **lui en** ai parlé.* (I talked to him about it.)\n- *Il **y en** a.* (There is / are some.)\n- *Tu **m'en** donnes ?* (Will you give me some?)\n\nNote: *le, la, les* go **before** *lui, leur* but **after** *me, te, nous, vous*.",
+   "table": {
+    "head": [
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "rows": [
+     [
+      "*me, te, se, nous, vous*",
+      "*le, la, les*",
+      "*lui, leur*",
+      "*y*",
+      "*en*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Negative and compound tenses",
+   "body": "The block of pronouns stays together before the verb (before *avoir / être* in compound tenses), and *ne… pas* surrounds the whole block: *Je **ne le lui** ai **pas** dit.* (I didn't tell him.) *Ne **me le** dis **pas !***"
+  },
+  {
+   "heading": "In positive commands",
+   "body": "In a positive imperative, the pronouns go after the verb, with **le / la / les first**, then the others: *Donne-**le-moi !*** (Give it to me!) *Envoie-**les-lui**.* *Donne-**m'en**.* (Give me some.) In the negative, back to normal order: *Ne **me le** donne pas.*"
+  }
+ ],
+ "vocab": [
+  [
+   "prêter",
+   "to lend",
+   "pʁɛ.te"
+  ],
+  [
+   "montrer",
+   "to show",
+   "mɔ̃.tʁe"
+  ],
+  [
+   "envoyer",
+   "to send",
+   "ɑ̃.vwa.je"
+  ],
+  [
+   "rendre",
+   "to give back",
+   "ʁɑ̃dʁ"
+  ],
+  [
+   "offrir",
+   "to give (as a present)",
+   "ɔ.fʁiʁ"
+  ],
+  [
+   "expliquer",
+   "to explain",
+   "ɛk.spli.ke"
+  ],
+  [
+   "la clé USB",
+   "the USB stick",
+   "la kle y.ɛs.be"
+  ],
+  [
+   "le document",
+   "the document",
+   "lə dɔ.ky.mɑ̃"
+  ],
+  [
+   "la photo",
+   "the photo",
+   "la fɔ.to"
+  ],
+  [
+   "le secret",
+   "the secret",
+   "lə sə.kʁɛ"
+  ],
+  [
+   "emprunter",
+   "to borrow",
+   "ɑ̃.pʁœ̃.te"
+  ]
+ ],
+ "examples": [
+  [
+   "Tu me prêtes ton vélo ? — Oui, je te le prête.",
+   "Will you lend me your bike? — Yes, I'll lend it to you."
+  ],
+  [
+   "J'ai donné le livre à Léa. Je le lui ai donné hier.",
+   "I gave the book to Léa. I gave it to her yesterday."
+  ],
+  [
+   "Je t'envoie les photos ? — Oui, envoie-les-moi.",
+   "Shall I send you the photos? — Yes, send them to me."
+  ],
+  [
+   "Elle a montré la maison à ses parents. Elle la leur a montrée.",
+   "She showed the house to her parents. She showed it to them."
+  ],
+  [
+   "Je lui en ai parlé ce matin.",
+   "I talked to him about it this morning."
+  ],
+  [
+   "Il y a encore du café ? — Oui, il y en a.",
+   "Is there any coffee left? — Yes, there is some."
+  ],
+  [
+   "Tu m'en donnes un peu ?",
+   "Will you give me a little?"
+  ],
+  [
+   "Je ne le lui ai pas dit, c'est un secret.",
+   "I didn't tell him; it's a secret."
+  ],
+  [
+   "Rends-le-moi, s'il te plaît !",
+   "Give it back to me, please!"
+  ],
+  [
+   "Ne me le dis pas, je ne veux pas savoir !",
+   "Don't tell me, I don't want to know!"
+  ],
+  [
+   "Je te rendrai ta clé USB demain. Je te la rendrai demain.",
+   "I'll give you back your USB stick tomorrow."
+  ],
+  [
+   "Le document ? Je vous l'envoie tout de suite.",
+   "The document? I'll send it to you right away."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Je donne le livre à Léa.* →",
+   "options": [
+    "Je le lui donne.",
+    "Je lui le donne.",
+    "Je la lui donne."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il me prête son vélo.* →",
+   "options": [
+    "Il me le prête.",
+    "Il le me prête.",
+    "Il me lui prête."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Elle montre la maison à ses parents.* →",
+   "options": [
+    "Elle la leur montre.",
+    "Elle leur la montre.",
+    "Elle les leur montre."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'ai parlé du problème à Hugo.* →",
+   "options": [
+    "Je lui en ai parlé.",
+    "Je en lui ai parlé.",
+    "Je lui y ai parlé."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Je le lui ai dit.*",
+   "options": [
+    "Je ne le lui ai pas dit.",
+    "Je le ne lui ai pas dit.",
+    "Je ne le lui pas ai dit."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Give it to me!\"",
+   "options": [
+    "Donne-le-moi !",
+    "Donne-moi-le !",
+    "Me le donne !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Don't give it to me!\"",
+   "options": [
+    "Ne me le donne pas !",
+    "Ne donne-le-moi pas !",
+    "Ne le me donne pas !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which order is correct before the verb?",
+   "options": [
+    "me + le",
+    "le + me",
+    "lui + le"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which order is correct before *donne* (it, to him)?",
+   "options": [
+    "le + lui",
+    "lui + le",
+    "leur + la"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il y en a* means…",
+   "options": [
+    "There is some / there are some",
+    "He's there",
+    "There is one only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu me prêtes ton vélo ? — Oui, je te ___ prête.",
+   "answers": [
+    "le"
+   ],
+   "hint": "Yes, I'll lend it to you."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai donné le livre à Léa. Je le ___ ai donné hier.",
+   "answers": [
+    "lui"
+   ],
+   "hint": "I gave it to her yesterday."
+  },
+  {
+   "type": "fill",
+   "prompt": "Envoie-___-moi. (les photos)",
+   "answers": [
+    "les"
+   ],
+   "hint": "Send them to me."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle la ___ a montrée. (à ses parents)",
+   "answers": [
+    "leur"
+   ],
+   "hint": "She showed it to them."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je lui ___ ai parlé ce matin.",
+   "answers": [
+    "en"
+   ],
+   "hint": "I talked to him about it this morning."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y a encore du café ? — Oui, il y ___ a.",
+   "answers": [
+    "en"
+   ],
+   "hint": "Yes, there is some."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne le lui ai ___ dit.",
+   "answers": [
+    "pas"
+   ],
+   "hint": "I didn't tell him."
+  },
+  {
+   "type": "fill",
+   "prompt": "Rends-le-___, s'il te plaît !",
+   "answers": [
+    "moi"
+   ],
+   "hint": "Give it back to me, please!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le document ? Je vous l'___ tout de suite. (envoyer)",
+   "answers": [
+    "envoie"
+   ],
+   "hint": "I'll send it to you right away."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'll lend it to you. (to a friend; le vélo)",
+   "answers": [
+    "Je te le prête.",
+    "Je vais te le prêter."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Give it to me! (to a friend)",
+   "answers": [
+    "Donne-le-moi !",
+    "Donne-la-moi !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I didn't tell him. (it)",
+   "answers": [
+    "Je ne le lui ai pas dit."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "There is some.",
+   "answers": [
+    "Il y en a."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I talked to her about it.",
+   "answers": [
+    "Je lui en ai parlé."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I didn't tell him; it's a secret.\"",
+   "answer": "Je ne le lui ai pas dit, c'est un secret."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Don't tell me, I don't want to know!\"",
+   "answer": "Ne me le dis pas, je ne veux pas savoir !"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She showed it to them.\"",
+   "answer": "Elle la leur a montrée."
+  }
+ ]
+}
