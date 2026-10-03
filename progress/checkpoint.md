@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-10-03
-**Now:** Goal mode, phase 2 (Polyglotte + French). Baseline re-approved 2026-10-03 with G7–G13, C-SPANISH-INTACT, C-OPEN-SOURCES, CHK-005..008. Spanish (G1–G6) is done and must stay green.
-**Next:** 1) French curriculum research → curriculum record + inventory; 2) multi-language app (switcher, per-language progress, v1→v2 progress migration, French voice) with French A1 written; 3) French A2, B1, B2, C1 one level at a time (content + accuracy checks green, review recorded, committed).
-**Watch:** Never push without Clara's go-ahead. Spanish checks must stay green at every commit. Third-party data only if openly licensed and credited.
+**Now:** Polyglotte app + French tooling done and committed (CHK-001/002/004/008 green; Spanish CHK-003 scenarios green). French outline (content/fr/course.json, 148 lessons) and inventory exist; NO French lessons written yet.
+**Next:** Write French A1 lessons fr a1-01 … a1-30 (content/fr/lessons/<id>.json), each: `python3 scripts/build.py && python3 checks/scripts/check_content.py --lang fr <id> && python3 checks/scripts/check_french_accuracy.py <id>`. Then curriculum/fr/reviews/A1.md (with "## Lexicon notes"), commit; then A2, B1, B2, C1 the same way.
+**Watch:** Vocab = [fr, en, ipa(, m/f)]; `python3 scripts/frlex.py ipa "..."` for IPA. French in *italics* in explanations; English only in hints. Metropolitan standard; vous/tu both. Never push without Clara's go-ahead.
