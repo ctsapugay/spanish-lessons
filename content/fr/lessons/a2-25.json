@@ -1,0 +1,400 @@
+{
+ "sections": [
+  {
+   "heading": "The French school system",
+   "body": "- *l'école maternelle* (nursery school, age 3–6), *l'école primaire* or *l'école élémentaire* (primary school, 6–11)\n- *le collège* (secondary school, 11–15) — careful: not \"college\"! — then *le lycée* (upper secondary, 15–18)\n- *le bac* (*baccalauréat*) — the exam at the end of the *lycée*; you need it to go to university: *J'ai eu mon bac en 2015.*\n- *l'université* or *la fac* (casual), and *les grandes écoles* (selective schools for engineering, business, etc.)\n\nAt school: *l'élève* (pupil), *le professeur* / *la professeure* (*le / la prof*, casual), *la classe*, *la récréation* (break time), *les devoirs* (homework), *la note* (the mark — French marks are out of 20), *l'emploi du temps* (timetable)."
+  },
+  {
+   "heading": "Subjects",
+   "body": "*les matières*: *les maths*, *le français*, *l'histoire-géo* (history and geography), *les sciences*, *la physique*, *la chimie*, *la biologie*, *l'anglais*, *l'espagnol*, *la musique*, *le dessin* (art, drawing), *le sport* (or *l'EPS*). *Ma matière préférée, c'était l'histoire.* (My favourite subject was history.)"
+  },
+  {
+   "heading": "Studies and training",
+   "body": "- *faire des études de* + subject: *Je fais des études de droit.* (I'm studying law.)\n- *étudier*, *apprendre*, *réviser* (to revise), *passer un examen* (to **take** an exam — not to pass it!), *réussir un examen* (to pass), *rater un examen* (to fail).\n- *le diplôme* (degree), *la licence* (bachelor's degree), *le master*, *la formation* (training, course): *Je suis une formation en informatique.*\n- *s'inscrire* (to enrol, sign up): *Je me suis inscrit à un cours de français.*"
+  }
+ ],
+ "vocab": [
+  [
+   "l'école primaire",
+   "primary school",
+   "le.kɔl pʁi.mɛʁ",
+   "f"
+  ],
+  [
+   "le collège",
+   "secondary school (11–15)",
+   "lə kɔ.lɛʒ"
+  ],
+  [
+   "le lycée",
+   "upper secondary school",
+   "lə li.se"
+  ],
+  [
+   "le bac",
+   "the baccalaureate",
+   "lə bak"
+  ],
+  [
+   "l'université",
+   "the university",
+   "ly.ni.vɛʁ.si.te",
+   "f"
+  ],
+  [
+   "l'élève",
+   "the pupil",
+   "le.lɛv",
+   "m"
+  ],
+  [
+   "les devoirs",
+   "homework",
+   "le də.vwaʁ",
+   "m"
+  ],
+  [
+   "la note",
+   "the mark, the grade",
+   "la nɔt"
+  ],
+  [
+   "la matière",
+   "the subject",
+   "la ma.tjɛʁ"
+  ],
+  [
+   "l'histoire",
+   "history; story",
+   "lis.twaʁ",
+   "f"
+  ],
+  [
+   "le droit",
+   "law",
+   "lə dʁwa"
+  ],
+  [
+   "réviser",
+   "to revise",
+   "ʁe.vi.ze"
+  ],
+  [
+   "passer un examen",
+   "to take an exam",
+   "pa.se œ̃.n‿ɛɡ.za.mɛ̃"
+  ],
+  [
+   "réussir",
+   "to pass, to succeed",
+   "ʁe.y.siʁ"
+  ],
+  [
+   "la formation",
+   "training, course",
+   "la fɔʁ.ma.sjɔ̃"
+  ],
+  [
+   "s'inscrire",
+   "to enrol, to sign up",
+   "sɛ̃s.kʁiʁ"
+  ],
+  [
+   "préféré / préférée",
+   "favourite",
+   "pʁe.fe.ʁe / pʁe.fe.ʁe"
+  ]
+ ],
+ "examples": [
+  [
+   "Mon fils va au collège, il a douze ans.",
+   "My son goes to secondary school; he's twelve."
+  ],
+  [
+   "Ma fille est au lycée, elle passe le bac cette année.",
+   "My daughter is at upper secondary school; she's taking the bac this year."
+  ],
+  [
+   "J'ai eu mon bac en 2015.",
+   "I got my bac in 2015."
+  ],
+  [
+   "Je fais des études de droit à l'université.",
+   "I'm studying law at university."
+  ],
+  [
+   "Ma matière préférée, c'était l'histoire.",
+   "My favourite subject was history."
+  ],
+  [
+   "Les élèves ont beaucoup de devoirs.",
+   "The pupils have a lot of homework."
+  ],
+  [
+   "J'ai eu quinze sur vingt en maths !",
+   "I got fifteen out of twenty in maths!"
+  ],
+  [
+   "Je révise pour mon examen de demain.",
+   "I'm revising for my exam tomorrow."
+  ],
+  [
+   "J'ai passé l'examen hier ; j'espère que je l'ai réussi.",
+   "I took the exam yesterday; I hope I passed."
+  ],
+  [
+   "Il a raté son permis de conduire.",
+   "He failed his driving test."
+  ],
+  [
+   "Je me suis inscrit à un cours de français.",
+   "I've signed up for a French course."
+  ],
+  [
+   "Elle suit une formation en informatique.",
+   "She's doing a computing course."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*le collège* in France is…",
+   "options": [
+    "secondary school for ages 11–15",
+    "a university college",
+    "a group of colleagues"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le lycée* is…",
+   "options": [
+    "upper secondary school (15–18)",
+    "primary school",
+    "university"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*passer un examen* means…",
+   "options": [
+    "to take an exam",
+    "to pass an exam",
+    "to fail an exam"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I passed the exam\"",
+   "options": [
+    "J'ai réussi l'examen.",
+    "J'ai passé l'examen.",
+    "J'ai raté l'examen."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*passer* = to take; *réussir* = to pass."
+  },
+  {
+   "type": "mc",
+   "prompt": "*rater un examen* means…",
+   "options": [
+    "to fail an exam",
+    "to take an exam again",
+    "to prepare for an exam"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "French marks are usually…",
+   "options": [
+    "out of 20",
+    "out of 100",
+    "letters A to F"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les devoirs* are…",
+   "options": [
+    "homework",
+    "duties",
+    "debts"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le bac* is…",
+   "options": [
+    "the exam at the end of upper secondary school",
+    "a university degree",
+    "a nursery school"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm studying law\"",
+   "options": [
+    "Je fais des études de droit.",
+    "J'étudie le droit à moi.",
+    "Je fais le droit études."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*s'inscrire à un cours* means…",
+   "options": [
+    "to sign up for a course",
+    "to write a course",
+    "to describe a course"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ma matière ___, c'était l'histoire.",
+   "options": [
+    "préférée",
+    "préféré",
+    "préférés"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*matière* is feminine."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon fils va au ___, il a douze ans.",
+   "answers": [
+    "collège"
+   ],
+   "hint": "My son goes to secondary school."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma fille passe le ___ cette année.",
+   "answers": [
+    "bac"
+   ],
+   "hint": "My daughter is taking the bac this year."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je fais des études de ___ à l'université.",
+   "answers": [
+    "droit"
+   ],
+   "hint": "I'm studying law at university."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma ___ préférée, c'était l'histoire.",
+   "answers": [
+    "matière"
+   ],
+   "hint": "My favourite subject was history."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les élèves ont beaucoup de ___.",
+   "answers": [
+    "devoirs"
+   ],
+   "hint": "The pupils have a lot of homework."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ pour mon examen de demain. (réviser)",
+   "answers": [
+    "révise"
+   ],
+   "hint": "I'm revising for my exam tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'espère que je l'ai ___. (réussir)",
+   "answers": [
+    "réussi"
+   ],
+   "hint": "I hope I passed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me suis ___ à un cours de français. (s'inscrire)",
+   "answers": [
+    "inscrit",
+    "inscrite"
+   ],
+   "hint": "I've signed up for a French course."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle suit une ___ en informatique.",
+   "answers": [
+    "formation"
+   ],
+   "hint": "She's doing a computing course."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm studying law.",
+   "answers": [
+    "Je fais des études de droit.",
+    "J'étudie le droit."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I passed my exam.",
+   "answers": [
+    "J'ai réussi mon examen."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My favourite subject was history.",
+   "answers": [
+    "Ma matière préférée, c'était l'histoire.",
+    "Ma matière préférée était l'histoire."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm revising.",
+   "answers": [
+    "Je révise."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The pupils have homework.",
+   "answers": [
+    "Les élèves ont des devoirs."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My daughter is at upper secondary school; she's taking the bac this year.\"",
+   "answer": "Ma fille est au lycée, elle passe le bac cette année."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I got fifteen out of twenty in maths!\"",
+   "answer": "J'ai eu quinze sur vingt en maths !"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I've signed up for a French course.\"",
+   "answer": "Je me suis inscrit à un cours de français."
+  }
+ ]
+}

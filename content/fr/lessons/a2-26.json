@@ -1,0 +1,399 @@
+{
+ "sections": [
+  {
+   "heading": "Booking a hotel",
+   "body": "- *Je voudrais réserver une chambre pour deux nuits, du 12 au 14 juin.* (from 12 to 14 June)\n- *une chambre simple / double / pour deux personnes*, *avec salle de bains*, *avec vue sur la mer* (with a sea view)\n- *Le petit-déjeuner est compris ?* (Is breakfast included?) — *C'est combien la nuit ?* (How much per night?)\n- At reception: *J'ai une réservation au nom de Martin.* — *Voici votre clé, c'est la chambre 214, au deuxième étage.* — *Le départ est à onze heures.* (Check-out is at eleven.)\n- Other kinds of accommodation: *l'auberge de jeunesse* (youth hostel), *le camping* (campsite), *la location* (a holiday rental), *le gîte* (a holiday cottage in the countryside), *la chambre d'hôtes* (B&B)."
+  },
+  {
+   "heading": "Problems while travelling",
+   "body": "*Il y a un problème avec ma chambre : la douche ne marche pas* (doesn't work) */ il n'y a pas d'eau chaude / la fenêtre ne ferme pas / c'est trop bruyant.* — *J'ai perdu mes bagages.* (I've lost my luggage.) *Mon vol est annulé.* (My flight's cancelled.) *On m'a volé mon portefeuille.* — *Je voudrais changer de chambre.*"
+  },
+  {
+   "heading": "Describing a place",
+   "body": "*C'est une petite ville au bord de la mer, dans le sud de la France* (in the south of France)*. Il y a un vieux port, des plages magnifiques et beaucoup de touristes en été. Les habitants sont très accueillants* (welcoming)*. Le climat est doux* (mild)*. C'est connu pour son marché et ses restaurants de poisson.* (It's known for…)\n\nPoints of the compass: *le nord, le sud, l'est, l'ouest* — *dans le nord de la France*, *à l'est de Paris*."
+  },
+  {
+   "heading": "Talking about a trip",
+   "body": "*Cet été, nous sommes partis deux semaines en Bretagne. Nous avons loué une petite maison. Il a fait beau presque tous les jours. On a visité des villages, on a mangé des crêpes et on s'est baignés* (went swimming)*. C'était super !*"
+  }
+ ],
+ "vocab": [
+  [
+   "la nuit",
+   "the night",
+   "la nɥi"
+  ],
+  [
+   "compris / comprise",
+   "included",
+   "kɔ̃.pʁi / kɔ̃.pʁiz"
+  ],
+  [
+   "la vue",
+   "the view",
+   "la vy"
+  ],
+  [
+   "la réception",
+   "reception",
+   "la ʁe.sɛp.sjɔ̃"
+  ],
+  [
+   "le départ",
+   "departure, check-out",
+   "lə de.paʁ"
+  ],
+  [
+   "l'auberge de jeunesse",
+   "the youth hostel",
+   "lo.bɛʁʒ də ʒœ.nɛs",
+   "f"
+  ],
+  [
+   "le camping",
+   "the campsite",
+   "lə kɑ̃.piŋ"
+  ],
+  [
+   "marcher",
+   "to work (machine); to walk",
+   "maʁ.ʃe"
+  ],
+  [
+   "bruyant / bruyante",
+   "noisy",
+   "bʁɥi.jɑ̃ / bʁɥi.jɑ̃t"
+  ],
+  [
+   "les bagages",
+   "luggage",
+   "le ba.ɡaʒ",
+   "m"
+  ],
+  [
+   "le vol",
+   "the flight; the theft",
+   "lə vɔl"
+  ],
+  [
+   "le sud",
+   "the south",
+   "lə syd"
+  ],
+  [
+   "le nord",
+   "the north",
+   "lə nɔʁ"
+  ],
+  [
+   "le port",
+   "the harbour",
+   "lə pɔʁ"
+  ],
+  [
+   "l'habitant",
+   "the inhabitant",
+   "la.bi.tɑ̃",
+   "m"
+  ],
+  [
+   "accueillant / accueillante",
+   "welcoming",
+   "a.kœ.jɑ̃ / a.kœ.jɑ̃t"
+  ],
+  [
+   "louer",
+   "to rent",
+   "lwe"
+  ],
+  [
+   "se baigner",
+   "to go swimming, to bathe",
+   "sə be.ɲe"
+  ]
+ ],
+ "examples": [
+  [
+   "Je voudrais réserver une chambre pour deux nuits, du 12 au 14 juin.",
+   "I'd like to book a room for two nights, from 12 to 14 June."
+  ],
+  [
+   "Une chambre double avec vue sur la mer, s'il vous plaît.",
+   "A double room with a sea view, please."
+  ],
+  [
+   "Le petit-déjeuner est compris ?",
+   "Is breakfast included?"
+  ],
+  [
+   "C'est combien la nuit ?",
+   "How much is it per night?"
+  ],
+  [
+   "Voici votre clé, c'est la chambre 214, au deuxième étage.",
+   "Here's your key; it's room 214, on the second floor."
+  ],
+  [
+   "La douche ne marche pas.",
+   "The shower doesn't work."
+  ],
+  [
+   "C'est trop bruyant, je voudrais changer de chambre.",
+   "It's too noisy; I'd like to change rooms."
+  ],
+  [
+   "Mon vol est annulé et j'ai perdu mes bagages !",
+   "My flight's cancelled and I've lost my luggage!"
+  ],
+  [
+   "C'est une petite ville au bord de la mer, dans le sud de la France.",
+   "It's a small town by the sea, in the south of France."
+  ],
+  [
+   "Les habitants sont très accueillants.",
+   "The locals are very welcoming."
+  ],
+  [
+   "Nous avons loué une petite maison en Bretagne.",
+   "We rented a little house in Brittany."
+  ],
+  [
+   "On a mangé des crêpes et on s'est baignés.",
+   "We ate crêpes and went swimming."
+  ],
+  [
+   "C'était super !",
+   "It was great!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Le petit-déjeuner est compris ?* means…",
+   "options": [
+    "Is breakfast included?",
+    "Do you understand breakfast?",
+    "Is breakfast ready?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'est combien la nuit ?* means…",
+   "options": [
+    "How much is it per night?",
+    "How long is the night?",
+    "What time is night?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*La douche ne marche pas* means…",
+   "options": [
+    "The shower doesn't work",
+    "The shower is far",
+    "You can't walk in the shower"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une auberge de jeunesse* is…",
+   "options": [
+    "a youth hostel",
+    "a young people's restaurant",
+    "a holiday cottage"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le départ* (at a hotel) is…",
+   "options": [
+    "check-out",
+    "arrival",
+    "the lobby"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Mon vol est annulé* means…",
+   "options": [
+    "My flight is cancelled",
+    "My theft is cancelled",
+    "My trip is over"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"In the south of France\"",
+   "options": [
+    "dans le sud de la France",
+    "au sud France",
+    "en le sud de France"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*accueillant* means…",
+   "options": [
+    "welcoming",
+    "cold",
+    "crowded"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*louer* means…",
+   "options": [
+    "to rent",
+    "to praise only",
+    "to lose"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"From 12 to 14 June\"",
+   "options": [
+    "du 12 au 14 juin",
+    "de 12 à 14 juin",
+    "du 12 à le 14 juin"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je voudrais réserver une chambre pour deux ___.",
+   "answers": [
+    "nuits"
+   ],
+   "hint": "I'd like to book a room for two nights."
+  },
+  {
+   "type": "fill",
+   "prompt": "Une chambre double avec ___ sur la mer.",
+   "answers": [
+    "vue"
+   ],
+   "hint": "A double room with a sea view."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le petit-déjeuner est ___ ?",
+   "answers": [
+    "compris"
+   ],
+   "hint": "Is breakfast included?"
+  },
+  {
+   "type": "fill",
+   "prompt": "La douche ne ___ pas.",
+   "answers": [
+    "marche"
+   ],
+   "hint": "The shower doesn't work."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est trop ___, je voudrais changer de chambre.",
+   "answers": [
+    "bruyant"
+   ],
+   "hint": "It's too noisy."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai perdu mes ___ !",
+   "answers": [
+    "bagages"
+   ],
+   "hint": "I've lost my luggage!"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est une petite ville dans le ___ de la France.",
+   "answers": [
+    "sud"
+   ],
+   "hint": "in the south of France."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les ___ sont très accueillants.",
+   "answers": [
+    "habitants"
+   ],
+   "hint": "The locals are very welcoming."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous avons ___ une petite maison en Bretagne. (louer)",
+   "answers": [
+    "loué"
+   ],
+   "hint": "We rented a little house in Brittany."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'd like to book a room.",
+   "answers": [
+    "Je voudrais réserver une chambre.",
+    "J'aimerais réserver une chambre."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Is breakfast included?",
+   "answers": [
+    "Le petit-déjeuner est compris ?",
+    "Est-ce que le petit-déjeuner est compris ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The shower doesn't work.",
+   "answers": [
+    "La douche ne marche pas.",
+    "La douche ne fonctionne pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I've lost my luggage.",
+   "answers": [
+    "J'ai perdu mes bagages."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It was great!",
+   "answers": [
+    "C'était super !",
+    "C'était génial !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"A double room with a sea view, please.\"",
+   "answer": "Une chambre double avec vue sur la mer, s'il vous plaît."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's a small town by the sea.\"",
+   "answer": "C'est une petite ville au bord de la mer."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We ate crêpes and went swimming.\"",
+   "answer": "On a mangé des crêpes et on s'est baignés."
+  }
+ ]
+}

@@ -1,0 +1,385 @@
+{
+ "sections": [
+  {
+   "heading": "Looking for a flat",
+   "body": "*chercher un appartement à louer* (to rent) or *à acheter*. Ads (*les annonces*) are full of abbreviations: *T2* or *F2* (one bedroom + living room), *T3* (two bedrooms), *m²* (*mètres carrés*, square metres), **cc** (*charges comprises* — utilities included).\n\n- *le loyer* (the rent), *les charges* (service charges, utilities), *la caution* (the deposit), *le propriétaire* (the landlord, owner), *le locataire* (the tenant), *l'agence immobilière* (estate agent's)\n- *meublé* (furnished) / *vide* (unfurnished), *lumineux* (bright, full of light), *refait à neuf* (newly renovated), *proche des transports* (near public transport)"
+  },
+  {
+   "heading": "Asking for information",
+   "body": "- *Je vous appelle au sujet de l'annonce pour l'appartement rue Victor-Hugo.* (I'm calling about the ad…)\n- *Il est toujours disponible ?* (Is it still available?)\n- *Le loyer, c'est combien ? Les charges sont comprises ?*\n- *Il fait combien de mètres carrés ?* (How big is it?)\n- *Il est à quel étage ? Il y a un ascenseur ?*\n- *Est-ce que je peux le visiter ?* (Can I view it?) *Quand est-ce qu'on peut le visiter ?*\n- *Il est libre à partir de quand ?* (When is it available from?)\n\nGiving information: *Il fait cinquante mètres carrés. Il est au troisième sans ascenseur. Le loyer est de 800 euros charges comprises. Il est libre à partir du premier septembre.*"
+  },
+  {
+   "heading": "Problems",
+   "body": "*Il y a une fuite d'eau* (a leak) *dans la salle de bains.* *Le chauffage ne marche pas.* (The heating doesn't work.) *Les voisins font trop de bruit.* *Je dois appeler le propriétaire / un plombier* (a plumber)."
+  }
+ ],
+ "vocab": [
+  [
+   "louer",
+   "to rent",
+   "lwe"
+  ],
+  [
+   "l'annonce",
+   "the ad",
+   "la.nɔ̃s",
+   "f"
+  ],
+  [
+   "le loyer",
+   "the rent",
+   "lə lwa.je"
+  ],
+  [
+   "les charges",
+   "service charges, bills",
+   "le ʃaʁʒ",
+   "f"
+  ],
+  [
+   "la caution",
+   "the deposit",
+   "la ko.sjɔ̃"
+  ],
+  [
+   "le propriétaire",
+   "the owner, the landlord",
+   "lə pʁɔ.pʁi.je.tɛʁ"
+  ],
+  [
+   "le locataire",
+   "the tenant",
+   "lə lɔ.ka.tɛʁ"
+  ],
+  [
+   "meublé / meublée",
+   "furnished",
+   "mœ.ble / mœ.ble"
+  ],
+  [
+   "lumineux / lumineuse",
+   "bright, full of light",
+   "ly.mi.nø / ly.mi.nøz"
+  ],
+  [
+   "disponible",
+   "available",
+   "dis.pɔ.nibl"
+  ],
+  [
+   "le mètre carré",
+   "the square metre",
+   "lə mɛtʁ ka.ʁe"
+  ],
+  [
+   "l'ascenseur",
+   "the lift",
+   "la.sɑ̃.sœʁ",
+   "m"
+  ],
+  [
+   "la fuite",
+   "the leak",
+   "la fɥit"
+  ],
+  [
+   "le chauffage",
+   "the heating",
+   "lə ʃo.faʒ"
+  ],
+  [
+   "le plombier",
+   "the plumber",
+   "lə plɔ̃.bje"
+  ],
+  [
+   "au sujet de",
+   "about, concerning",
+   "o sy.ʒɛ də"
+  ]
+ ],
+ "examples": [
+  [
+   "Je cherche un appartement à louer dans le centre.",
+   "I'm looking for a flat to rent in the centre."
+  ],
+  [
+   "Je vous appelle au sujet de l'annonce.",
+   "I'm calling about the ad."
+  ],
+  [
+   "L'appartement est toujours disponible ?",
+   "Is the flat still available?"
+  ],
+  [
+   "Le loyer, c'est combien ?",
+   "How much is the rent?"
+  ],
+  [
+   "Le loyer est de 800 euros charges comprises.",
+   "The rent is 800 euros including bills."
+  ],
+  [
+   "Il fait cinquante mètres carrés.",
+   "It's fifty square metres."
+  ],
+  [
+   "Il est au troisième étage sans ascenseur.",
+   "It's on the third floor, with no lift."
+  ],
+  [
+   "C'est un deux-pièces meublé et très lumineux.",
+   "It's a furnished one-bedroom flat, full of light."
+  ],
+  [
+   "Est-ce que je peux le visiter samedi ?",
+   "Can I view it on Saturday?"
+  ],
+  [
+   "Il est libre à partir de quand ?",
+   "When is it available from?"
+  ],
+  [
+   "Il faut payer un mois de caution.",
+   "You have to pay one month's deposit."
+  ],
+  [
+   "Il y a une fuite d'eau dans la salle de bains.",
+   "There's a water leak in the bathroom."
+  ],
+  [
+   "Le chauffage ne marche pas, j'appelle le propriétaire.",
+   "The heating doesn't work; I'm calling the landlord."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*le loyer* is…",
+   "options": [
+    "the rent",
+    "the lawyer",
+    "the landlord"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*charges comprises* means…",
+   "options": [
+    "bills included",
+    "charges extra",
+    "no charge"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la caution* is…",
+   "options": [
+    "the deposit",
+    "the warning",
+    "the contract"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le propriétaire* is…",
+   "options": [
+    "the owner, the landlord",
+    "the tenant",
+    "the estate agent"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*meublé* means…",
+   "options": [
+    "furnished",
+    "unfurnished",
+    "renovated"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il est toujours disponible ?* means…",
+   "options": [
+    "Is it still available?",
+    "Is it always free?",
+    "Is it ready?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il fait cinquante mètres carrés* means…",
+   "options": [
+    "It's fifty square metres",
+    "It costs fifty euros",
+    "It's fifty metres away"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il est libre à partir de quand ?* means…",
+   "options": [
+    "When is it available from?",
+    "Is it free of charge?",
+    "When was it free?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une fuite* is…",
+   "options": [
+    "a leak",
+    "an escape route only",
+    "a fire"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "You're phoning about an advertisement. You start…",
+   "options": [
+    "Je vous appelle au sujet de l'annonce.",
+    "Je vous appelle sur le sujet annonce.",
+    "J'appelle pour le loyer de vous."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vous appelle au ___ de l'annonce.",
+   "answers": [
+    "sujet"
+   ],
+   "hint": "I'm calling about the ad."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'appartement est toujours ___ ?",
+   "answers": [
+    "disponible"
+   ],
+   "hint": "Is the flat still available?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___, c'est combien ?",
+   "answers": [
+    "loyer"
+   ],
+   "hint": "How much is the rent?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il fait cinquante mètres ___.",
+   "answers": [
+    "carrés"
+   ],
+   "hint": "It's fifty square metres."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est au troisième étage sans ___.",
+   "answers": [
+    "ascenseur"
+   ],
+   "hint": "It's on the third floor, with no lift."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un deux-pièces meublé et très ___.",
+   "answers": [
+    "lumineux"
+   ],
+   "hint": "It's furnished and full of light."
+  },
+  {
+   "type": "fill",
+   "prompt": "Est-ce que je peux le ___ samedi ?",
+   "answers": [
+    "visiter"
+   ],
+   "hint": "Can I view it on Saturday?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y a une ___ d'eau dans la salle de bains.",
+   "answers": [
+    "fuite"
+   ],
+   "hint": "There's a water leak in the bathroom."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ ne marche pas.",
+   "answers": [
+    "chauffage"
+   ],
+   "hint": "The heating doesn't work."
+  },
+  {
+   "type": "translate",
+   "prompt": "How much is the rent?",
+   "answers": [
+    "Le loyer, c'est combien ?",
+    "C'est combien, le loyer ?",
+    "Combien est le loyer ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Is it still available?",
+   "answers": [
+    "Il est toujours disponible ?",
+    "C'est toujours disponible ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Can I view it?",
+   "answers": [
+    "Est-ce que je peux le visiter ?",
+    "Je peux le visiter ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The heating doesn't work.",
+   "answers": [
+    "Le chauffage ne marche pas.",
+    "Le chauffage ne fonctionne pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm looking for a flat to rent.",
+   "answers": [
+    "Je cherche un appartement à louer."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The rent is 800 euros including bills.\"",
+   "answer": "Le loyer est de 800 euros charges comprises."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm calling about the ad.\"",
+   "answer": "Je vous appelle au sujet de l'annonce."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's on the third floor, with no lift.\"",
+   "answer": "Il est au troisième étage sans ascenseur."
+  }
+ ]
+}
