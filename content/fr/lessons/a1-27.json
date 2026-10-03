@@ -1,0 +1,404 @@
+{
+ "sections": [
+  {
+   "heading": "Getting around: en or à?",
+   "body": "With means of transport, use *en* when you're **inside** the vehicle, *à* when you're **on** it:\n\n- *en voiture* (by car), *en bus*, *en train*, *en métro*, *en avion* (by plane), *en taxi*, *en bateau* (by boat)\n- *à pied* (on foot), *à vélo* (by bike), *à moto*\n\n*Je vais au travail en métro.* *Elle vient à pied.* With *prendre*, use the article: *Je prends le train.* *On prend un taxi ?*"
+  },
+  {
+   "heading": "At the station",
+   "body": "- *Un billet pour Lyon, s'il vous plaît.* — A ticket to Lyon, please.\n- *Un aller simple* (a one-way ticket) or *un aller-retour* (a return ticket)?\n- *En première ou en seconde classe ?* — First or second class?\n- *Le train part à quelle heure ?* — What time does the train leave? *Il arrive à quelle heure ?* — What time does it arrive?\n- *C'est quel quai ?* / *Le train part de quelle voie ?* — Which platform?\n- *Le train a vingt minutes de retard.* — The train is twenty minutes late.\n\nIn France, you buy train tickets from the SNCF (the national railway) at the station, on the app, or online. Don't forget: tickets for regional trains may need validating (*composter*) before you board."
+  },
+  {
+   "heading": "Partir, arriver",
+   "body": "*partir* (to leave) is irregular: *je pars, tu pars, il part, nous partons, vous partez, ils partent*. *arriver* (to arrive) is a regular -er verb.\n\n*Je pars à huit heures et j'arrive à dix heures.*"
+  },
+  {
+   "heading": "The metro and bus",
+   "body": "*la station de métro* (metro station), *la ligne* (line), *l'arrêt de bus* (bus stop), *le ticket* (metro / bus ticket), *la correspondance* (the change, connection): *Prenez la ligne 4, direction Mairie de Montrouge, et changez à Châtelet.*"
+  }
+ ],
+ "vocab": [
+  [
+   "la voiture",
+   "the car",
+   "la vwa.tyʁ"
+  ],
+  [
+   "le train",
+   "the train",
+   "lə tʁɛ̃"
+  ],
+  [
+   "le métro",
+   "the underground, the metro",
+   "lə me.tʁo"
+  ],
+  [
+   "l'avion",
+   "the plane",
+   "la.vjɔ̃",
+   "m"
+  ],
+  [
+   "le taxi",
+   "the taxi",
+   "lə tak.si"
+  ],
+  [
+   "le bateau",
+   "the boat",
+   "lə ba.to"
+  ],
+  [
+   "le billet",
+   "the ticket (train, plane)",
+   "lə bi.jɛ"
+  ],
+  [
+   "le ticket",
+   "the ticket (bus, metro)",
+   "lə ti.kɛ"
+  ],
+  [
+   "l'aller simple",
+   "the one-way ticket",
+   "la.le sɛ̃pl",
+   "m"
+  ],
+  [
+   "l'aller-retour",
+   "the return ticket",
+   "la.le.ʁə.tuʁ",
+   "m"
+  ],
+  [
+   "le quai",
+   "the platform",
+   "lə ke"
+  ],
+  [
+   "le retard",
+   "the delay",
+   "lə ʁə.taʁ"
+  ],
+  [
+   "partir",
+   "to leave",
+   "paʁ.tiʁ"
+  ],
+  [
+   "arriver",
+   "to arrive",
+   "a.ʁi.ve"
+  ],
+  [
+   "la ligne",
+   "the line",
+   "la liɲ"
+  ],
+  [
+   "changer",
+   "to change",
+   "ʃɑ̃.ʒe"
+  ]
+ ],
+ "examples": [
+  [
+   "Je vais au travail en métro.",
+   "I go to work by metro."
+  ],
+  [
+   "Elle vient à pied.",
+   "She comes on foot."
+  ],
+  [
+   "On prend un taxi ?",
+   "Shall we take a taxi?"
+  ],
+  [
+   "Un billet pour Lyon, s'il vous plaît.",
+   "A ticket to Lyon, please."
+  ],
+  [
+   "Un aller simple ou un aller-retour ?",
+   "One-way or return?"
+  ],
+  [
+   "Un aller-retour, en seconde classe.",
+   "A return, second class."
+  ],
+  [
+   "Le train part à quelle heure ?",
+   "What time does the train leave?"
+  ],
+  [
+   "Il part à neuf heures dix et il arrive à onze heures.",
+   "It leaves at 9:10 and arrives at eleven."
+  ],
+  [
+   "C'est quel quai ?",
+   "Which platform is it?"
+  ],
+  [
+   "Le train a vingt minutes de retard.",
+   "The train is twenty minutes late."
+  ],
+  [
+   "Prenez la ligne 4 et changez à Châtelet.",
+   "Take line 4 and change at Châtelet."
+  ],
+  [
+   "Nous partons en vacances en avion.",
+   "We're going on holiday by plane."
+  ],
+  [
+   "Je vais à l'école à vélo.",
+   "I go to school by bike."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"By car\" is…",
+   "options": [
+    "en voiture",
+    "à voiture",
+    "par voiture"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"On foot\" is…",
+   "options": [
+    "à pied",
+    "en pied",
+    "par pied"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"By bike\" is…",
+   "options": [
+    "à vélo",
+    "par vélo",
+    "sur vélo"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Use *à* when you're on it: *à vélo, à moto, à pied*."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"By plane\" is…",
+   "options": [
+    "en avion",
+    "à avion",
+    "dans l'avion"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*un aller-retour* is…",
+   "options": [
+    "a return ticket",
+    "a one-way ticket",
+    "a round trip by car"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le train a vingt minutes de retard* means…",
+   "options": [
+    "The train is twenty minutes late",
+    "The train leaves in twenty minutes",
+    "The train takes twenty minutes"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le train ___ à neuf heures.",
+   "options": [
+    "part",
+    "pars",
+    "partent"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ en vacances.",
+   "options": [
+    "partons",
+    "partez",
+    "partent"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*le quai* (at a station) is…",
+   "options": [
+    "the platform",
+    "the ticket office",
+    "the waiting room"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "For the metro, you buy…",
+   "options": [
+    "un ticket",
+    "un aller-retour",
+    "une voiture"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*changer à Châtelet* (in the metro) means…",
+   "options": [
+    "to change lines at Châtelet",
+    "to get off at Châtelet",
+    "to buy a ticket at Châtelet"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vais au travail en ___.",
+   "answers": [
+    "métro"
+   ],
+   "hint": "I go to work by metro."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle vient à ___.",
+   "answers": [
+    "pied"
+   ],
+   "hint": "She comes on foot."
+  },
+  {
+   "type": "fill",
+   "prompt": "Un ___ pour Lyon, s'il vous plaît.",
+   "answers": [
+    "billet"
+   ],
+   "hint": "A ticket to Lyon, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "Un aller simple ou un ___ ?",
+   "answers": [
+    "aller-retour"
+   ],
+   "hint": "One-way or return?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le train part à quelle ___ ?",
+   "answers": [
+    "heure"
+   ],
+   "hint": "What time does the train leave?"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est quel ___ ?",
+   "answers": [
+    "quai"
+   ],
+   "hint": "Which platform is it?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le train a vingt minutes de ___.",
+   "answers": [
+    "retard"
+   ],
+   "hint": "The train is twenty minutes late."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il part à neuf heures et il ___ à onze heures. (arriver)",
+   "answers": [
+    "arrive"
+   ],
+   "hint": "It leaves at nine and arrives at eleven."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vais à l'école à ___.",
+   "answers": [
+    "vélo"
+   ],
+   "hint": "I go to school by bike."
+  },
+  {
+   "type": "translate",
+   "prompt": "A ticket to Lyon, please.",
+   "answers": [
+    "Un billet pour Lyon, s'il vous plaît."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I go to work by car.",
+   "answers": [
+    "Je vais au travail en voiture."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The train is late.",
+   "answers": [
+    "Le train est en retard.",
+    "Le train a du retard."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What time does the train leave?",
+   "answers": [
+    "Le train part à quelle heure ?",
+    "À quelle heure part le train ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We're leaving tomorrow.",
+   "answers": [
+    "Nous partons demain.",
+    "On part demain."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"A return, second class.\"",
+   "answer": "Un aller-retour, en seconde classe."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Take line 4 and change at Châtelet.\"",
+   "answer": "Prenez la ligne 4 et changez à Châtelet."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We're going on holiday by plane.\"",
+   "answer": "Nous partons en vacances en avion."
+  }
+ ]
+}

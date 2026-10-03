@@ -1,0 +1,398 @@
+{
+ "sections": [
+  {
+   "heading": "Where you live",
+   "body": "*J'habite dans un appartement* (a flat) or *dans une maison* (a house). *Un studio* is a one-room flat. In France, *le premier étage* is the first floor **above** the ground floor (*le rez-de-chaussée*), as in Britain: *J'habite au troisième étage.* (I live on the third floor.) *Il y a un ascenseur ?* (Is there a lift?)"
+  },
+  {
+   "heading": "The rooms",
+   "body": "*la pièce* (room, in general), *l'entrée* (hall), *le salon* or *la salle de séjour* (living room), *la cuisine* (kitchen — also \"cooking\"), *la chambre* (bedroom), *la salle de bains* (bathroom), *les toilettes* or *les WC* (toilet — always plural), *le bureau* (study), *le balcon*, *le jardin* (garden), *le garage*.\n\nTo describe: *Mon appartement a trois pièces : un salon, une chambre et une cuisine.* In France, flats are often described by number of rooms: *un trois-pièces* — a flat with a living room and two bedrooms."
+  },
+  {
+   "heading": "Furniture and equipment",
+   "body": "*les meubles* (furniture): *le lit* (bed), *le canapé* (sofa), *le fauteuil* (armchair), *la table*, *la chaise*, *l'armoire* (wardrobe), *l'étagère* (shelf), *le bureau* (desk), *la lampe*. Equipment: *le frigo* (fridge, casual for *le réfrigérateur*), *le four* (oven), *la machine à laver* (washing machine), *la douche* (shower), *la baignoire* (bath)."
+  },
+  {
+   "heading": "Describing your home",
+   "body": "*grand / petit*, *clair* (bright) / *sombre* (dark), *calme* / *bruyant* (noisy), *moderne* / *ancien* (old), *bien situé* (well located). *Mon appartement est petit mais très clair.* *La cuisine est équipée.* (The kitchen is fitted.)"
+  }
+ ],
+ "vocab": [
+  [
+   "l'appartement",
+   "the flat, the apartment",
+   "la.paʁ.tə.mɑ̃",
+   "m"
+  ],
+  [
+   "la maison",
+   "the house",
+   "la mɛ.zɔ̃"
+  ],
+  [
+   "l'étage",
+   "the floor, the storey",
+   "le.taʒ",
+   "m"
+  ],
+  [
+   "le rez-de-chaussée",
+   "the ground floor",
+   "lə ʁe.də.ʃo.se"
+  ],
+  [
+   "la pièce",
+   "the room",
+   "la pjɛs"
+  ],
+  [
+   "le salon",
+   "the living room",
+   "lə sa.lɔ̃"
+  ],
+  [
+   "la cuisine",
+   "the kitchen; cooking",
+   "la kɥi.zin"
+  ],
+  [
+   "la salle de bains",
+   "the bathroom",
+   "la sal də bɛ̃"
+  ],
+  [
+   "les toilettes",
+   "the toilet",
+   "le twa.lɛt",
+   "f"
+  ],
+  [
+   "le jardin",
+   "the garden",
+   "lə ʒaʁ.dɛ̃"
+  ],
+  [
+   "le lit",
+   "the bed",
+   "lə li"
+  ],
+  [
+   "le canapé",
+   "the sofa",
+   "lə ka.na.pe"
+  ],
+  [
+   "l'armoire",
+   "the wardrobe",
+   "laʁ.mwaʁ",
+   "f"
+  ],
+  [
+   "les meubles",
+   "furniture",
+   "le mœbl",
+   "m"
+  ],
+  [
+   "le frigo",
+   "the fridge",
+   "lə fʁi.ɡo"
+  ],
+  [
+   "clair / claire",
+   "bright, light",
+   "klɛʁ / klɛʁ"
+  ],
+  [
+   "calme",
+   "quiet, calm",
+   "kalm"
+  ],
+  [
+   "moderne",
+   "modern",
+   "mɔ.dɛʁn"
+  ]
+ ],
+ "examples": [
+  [
+   "J'habite dans un appartement au troisième étage.",
+   "I live in a flat on the third floor."
+  ],
+  [
+   "Il y a un ascenseur ?",
+   "Is there a lift?"
+  ],
+  [
+   "Mon appartement a trois pièces.",
+   "My flat has three rooms."
+  ],
+  [
+   "La cuisine est petite mais moderne.",
+   "The kitchen is small but modern."
+  ],
+  [
+   "Il y a deux chambres et une salle de bains.",
+   "There are two bedrooms and a bathroom."
+  ],
+  [
+   "Les toilettes sont à côté de la salle de bains.",
+   "The toilet is next to the bathroom."
+  ],
+  [
+   "Dans le salon, il y a un canapé et une table basse.",
+   "In the living room there's a sofa and a coffee table."
+  ],
+  [
+   "Ma chambre est très claire.",
+   "My bedroom is very bright."
+  ],
+  [
+   "Nous habitons dans une maison avec un jardin.",
+   "We live in a house with a garden."
+  ],
+  [
+   "Le quartier est calme.",
+   "The neighbourhood is quiet."
+  ],
+  [
+   "Le lit est à côté de l'armoire.",
+   "The bed is next to the wardrobe."
+  ],
+  [
+   "Il n'y a pas de frigo dans la cuisine !",
+   "There's no fridge in the kitchen!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "In France, *le premier étage* is…",
+   "options": [
+    "the floor above the ground floor",
+    "the ground floor",
+    "the basement"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le rez-de-chaussée* is…",
+   "options": [
+    "the ground floor",
+    "the top floor",
+    "the garden"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Where do you cook?",
+   "options": [
+    "dans la cuisine",
+    "dans le salon",
+    "dans la salle de bains"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Where do you sleep?",
+   "options": [
+    "dans la chambre",
+    "dans la cuisine",
+    "dans le jardin"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*les toilettes* is always…",
+   "options": [
+    "plural",
+    "singular",
+    "masculine"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un trois-pièces* is…",
+   "options": [
+    "a flat with three main rooms",
+    "a three-piece suit",
+    "a three-storey house"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'armoire* is…",
+   "options": [
+    "the wardrobe",
+    "the sofa",
+    "the shelf",
+    "the fridge"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ma chambre est très claire* means…",
+   "options": [
+    "My bedroom is very bright",
+    "My bedroom is very clean",
+    "My bedroom is very quiet"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'habite ___ troisième étage.",
+   "options": [
+    "au",
+    "à la",
+    "en"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous habitons dans ___ maison avec un jardin.",
+   "options": [
+    "une",
+    "un",
+    "la"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*la cuisine* can mean…",
+   "options": [
+    "both the kitchen and cooking",
+    "only the kitchen",
+    "the dining room"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "J'habite dans un ___ au troisième étage.",
+   "answers": [
+    "appartement"
+   ],
+   "hint": "I live in a flat on the third floor."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon appartement a trois ___.",
+   "answers": [
+    "pièces"
+   ],
+   "hint": "My flat has three rooms."
+  },
+  {
+   "type": "fill",
+   "prompt": "La ___ est petite mais moderne.",
+   "answers": [
+    "cuisine"
+   ],
+   "hint": "The kitchen is small but modern."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y a deux chambres et une salle de ___.",
+   "answers": [
+    "bains"
+   ],
+   "hint": "There are two bedrooms and a bathroom."
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans le salon, il y a un ___.",
+   "answers": [
+    "canapé"
+   ],
+   "hint": "In the living room there's a sofa."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous habitons dans une maison avec un ___.",
+   "answers": [
+    "jardin"
+   ],
+   "hint": "We live in a house with a garden."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le quartier est ___.",
+   "answers": [
+    "calme"
+   ],
+   "hint": "The neighbourhood is quiet."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le lit est à côté de l'___.",
+   "answers": [
+    "armoire"
+   ],
+   "hint": "The bed is next to the wardrobe."
+  },
+  {
+   "type": "translate",
+   "prompt": "I live in a house.",
+   "answers": [
+    "J'habite dans une maison."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My bedroom is very bright.",
+   "answers": [
+    "Ma chambre est très claire."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "There's a garden.",
+   "answers": [
+    "Il y a un jardin."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The kitchen is small.",
+   "answers": [
+    "La cuisine est petite."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Where is the toilet?",
+   "answers": [
+    "Où sont les toilettes ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"There are two bedrooms and a bathroom.\"",
+   "answer": "Il y a deux chambres et une salle de bains."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We live in a house with a garden.\"",
+   "answer": "Nous habitons dans une maison avec un jardin."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I live in a flat on the third floor.\"",
+   "answer": "J'habite dans un appartement au troisième étage."
+  }
+ ]
+}

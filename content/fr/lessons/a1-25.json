@@ -1,0 +1,462 @@
+{
+ "sections": [
+  {
+   "heading": "Pouvoir, vouloir, devoir",
+   "body": "Three irregular verbs, each usually followed by an **infinitive**:\n\n*Je peux venir.* (I can come.) *Tu veux danser ?* (Do you want to dance?) *Je dois travailler.* (I have to work.) Negative: *Je ne peux pas venir.* *Tu ne dois pas fumer ici.* (You mustn't smoke here.)",
+   "table": {
+    "head": [
+     "",
+     "pouvoir (can)",
+     "vouloir (want)",
+     "devoir (must, have to)"
+    ],
+    "rows": [
+     [
+      "*je*",
+      "*peux*",
+      "*veux*",
+      "*dois*"
+     ],
+     [
+      "*tu*",
+      "*peux*",
+      "*veux*",
+      "*dois*"
+     ],
+     [
+      "*il / elle / on*",
+      "*peut*",
+      "*veut*",
+      "*doit*"
+     ],
+     [
+      "*nous*",
+      "*pouvons*",
+      "*voulons*",
+      "*devons*"
+     ],
+     [
+      "*vous*",
+      "*pouvez*",
+      "*voulez*",
+      "*devez*"
+     ],
+     [
+      "*ils / elles*",
+      "*peuvent*",
+      "*veulent*",
+      "*doivent*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Il faut",
+   "body": "*Il faut* + infinitive means \"you have to / it's necessary to\" — in general, for everyone. It never changes: *Il faut réserver.* (You have to book.) *Il ne faut pas fumer.* (You mustn't smoke.)"
+  },
+  {
+   "heading": "Inviting, accepting, refusing",
+   "body": "- Inviting: *Tu veux venir au cinéma ce soir ?* — *Ça te dit de dîner chez moi samedi ?* (How about dinner at my place on Saturday?) — *Vous voulez prendre un verre ?* (Would you like a drink?)\n- Accepting: *Oui, avec plaisir !* (Yes, with pleasure!) — *Volontiers !* (Gladly!) — *D'accord !* (OK!) — *Bonne idée !*\n- Refusing politely: *Désolé(e), je ne peux pas, je dois travailler.* — *C'est dommage, je ne suis pas libre.* (What a shame, I'm not free.) — *Une autre fois ?* (Another time?)\n- Thanking: *Merci pour l'invitation !*"
+  },
+  {
+   "heading": "Appointments",
+   "body": "- *Je voudrais prendre rendez-vous avec le docteur Martin.* — I'd like to make an appointment with Dr Martin.\n- *Vous êtes libre jeudi à dix heures ?* — Are you free on Thursday at ten?\n- *On peut avancer / reporter le rendez-vous ?* — Can we bring forward / postpone the appointment?\n- *Je dois annuler mon rendez-vous.* — I have to cancel my appointment.\n- *C'est confirmé : mardi à quinze heures.* — It's confirmed: Tuesday at 3 p.m."
+  }
+ ],
+ "vocab": [
+  [
+   "pouvoir",
+   "can, to be able to",
+   "pu.vwaʁ"
+  ],
+  [
+   "vouloir",
+   "to want",
+   "vu.lwaʁ"
+  ],
+  [
+   "devoir",
+   "must, to have to",
+   "də.vwaʁ"
+  ],
+  [
+   "je peux",
+   "I can",
+   "ʒə pø"
+  ],
+  [
+   "je veux",
+   "I want",
+   "ʒə vø"
+  ],
+  [
+   "je dois",
+   "I must, I have to",
+   "ʒə dwa"
+  ],
+  [
+   "il faut",
+   "you have to, it's necessary",
+   "il fo"
+  ],
+  [
+   "avec plaisir",
+   "with pleasure",
+   "a.vɛk ple.ziʁ"
+  ],
+  [
+   "d'accord",
+   "OK, agreed",
+   "da.kɔʁ"
+  ],
+  [
+   "désolé / désolée",
+   "sorry",
+   "de.zɔ.le / de.zɔ.le"
+  ],
+  [
+   "libre",
+   "free (not busy)",
+   "libʁ"
+  ],
+  [
+   "dommage",
+   "(what a) shame",
+   "dɔ.maʒ"
+  ],
+  [
+   "le rendez-vous",
+   "the appointment, the meeting",
+   "lə ʁɑ̃.de.vu"
+  ],
+  [
+   "annuler",
+   "to cancel",
+   "a.ny.le"
+  ],
+  [
+   "reporter",
+   "to postpone",
+   "ʁə.pɔʁ.te"
+  ],
+  [
+   "l'invitation",
+   "the invitation",
+   "lɛ̃.vi.ta.sjɔ̃",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Tu veux venir au cinéma ce soir ?",
+   "Do you want to come to the cinema tonight?"
+  ],
+  [
+   "Oui, avec plaisir !",
+   "Yes, with pleasure!"
+  ],
+  [
+   "Désolée, je ne peux pas, je dois travailler.",
+   "Sorry, I can't, I have to work."
+  ],
+  [
+   "Ça te dit de dîner chez moi samedi ?",
+   "How about dinner at my place on Saturday?"
+  ],
+  [
+   "C'est dommage, je ne suis pas libre.",
+   "What a shame, I'm not free."
+  ],
+  [
+   "Vous voulez prendre un verre ? — Volontiers !",
+   "Would you like a drink? — Gladly!"
+  ],
+  [
+   "Il faut réserver une table.",
+   "We have to book a table."
+  ],
+  [
+   "Il ne faut pas fumer ici.",
+   "You mustn't smoke here."
+  ],
+  [
+   "Nous devons partir à huit heures.",
+   "We have to leave at eight."
+  ],
+  [
+   "Ils peuvent venir demain.",
+   "They can come tomorrow."
+  ],
+  [
+   "Je voudrais prendre rendez-vous avec le docteur Martin.",
+   "I'd like to make an appointment with Dr Martin."
+  ],
+  [
+   "Vous êtes libre jeudi à dix heures ?",
+   "Are you free on Thursday at ten?"
+  ],
+  [
+   "Je dois annuler mon rendez-vous.",
+   "I have to cancel my appointment."
+  ],
+  [
+   "Merci pour l'invitation !",
+   "Thanks for the invitation!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ne ___ pas venir.",
+   "options": [
+    "peux",
+    "peut",
+    "peuvent"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Tu ___ danser ?",
+   "options": [
+    "veux",
+    "veut",
+    "voulez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ partir à huit heures.",
+   "options": [
+    "devons",
+    "doivent",
+    "devez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils ___ venir demain.",
+   "options": [
+    "peuvent",
+    "peut",
+    "pouvons"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elles ___ un café.",
+   "options": [
+    "veulent",
+    "veut",
+    "voulez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il faut réserver* means…",
+   "options": [
+    "You have to book",
+    "He has to book",
+    "It's possible to book",
+    "Booking is forbidden"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il ne faut pas fumer* means…",
+   "options": [
+    "You mustn't smoke",
+    "You don't have to smoke",
+    "He doesn't smoke"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "A friend invites you and you accept. You say…",
+   "options": [
+    "Avec plaisir !",
+    "C'est dommage.",
+    "Une autre fois ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "You refuse an invitation politely. You say…",
+   "options": [
+    "Désolé, je ne peux pas.",
+    "Volontiers !",
+    "Bonne idée !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça te dit de dîner chez moi ?* means…",
+   "options": [
+    "How about dinner at my place?",
+    "Did you say dinner at my place?",
+    "Tell me about dinner."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I have to cancel my appointment\" is…",
+   "options": [
+    "Je dois annuler mon rendez-vous.",
+    "Je peux annuler mon rendez-vous.",
+    "Je veux reporter mon rendez-vous."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*reporter un rendez-vous* means…",
+   "options": [
+    "to postpone an appointment",
+    "to confirm an appointment",
+    "to report an appointment"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ venir au cinéma ce soir ? (vouloir)",
+   "answers": [
+    "veux"
+   ],
+   "hint": "Do you want to come to the cinema tonight?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Désolée, je ne ___ pas, je dois travailler. (pouvoir)",
+   "answers": [
+    "peux"
+   ],
+   "hint": "Sorry, I can't, I have to work."
+  },
+  {
+   "type": "fill",
+   "prompt": "Oui, avec ___ !",
+   "answers": [
+    "plaisir"
+   ],
+   "hint": "Yes, with pleasure!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ réserver une table.",
+   "answers": [
+    "faut"
+   ],
+   "hint": "We have to book a table."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ partir à huit heures. (devoir)",
+   "answers": [
+    "devons"
+   ],
+   "hint": "We have to leave at eight."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est ___, je ne suis pas libre.",
+   "answers": [
+    "dommage"
+   ],
+   "hint": "What a shame, I'm not free."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je voudrais prendre ___ avec le docteur Martin.",
+   "answers": [
+    "rendez-vous"
+   ],
+   "hint": "I'd like to make an appointment with Dr Martin."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous êtes ___ jeudi à dix heures ?",
+   "answers": [
+    "libre"
+   ],
+   "hint": "Are you free on Thursday at ten?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Merci pour l'___ !",
+   "answers": [
+    "invitation"
+   ],
+   "hint": "Thanks for the invitation!"
+  },
+  {
+   "type": "translate",
+   "prompt": "I can't come.",
+   "answers": [
+    "Je ne peux pas venir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Do you want to come? (to a friend)",
+   "answers": [
+    "Tu veux venir ?",
+    "Est-ce que tu veux venir ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have to work.",
+   "answers": [
+    "Je dois travailler."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "OK!",
+   "answers": [
+    "D'accord !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What a shame!",
+   "answers": [
+    "C'est dommage !",
+    "Dommage !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"How about dinner at my place on Saturday?\"",
+   "answer": "Ça te dit de dîner chez moi samedi ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I have to cancel my appointment.\"",
+   "answer": "Je dois annuler mon rendez-vous."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"You mustn't smoke here.\"",
+   "answer": "Il ne faut pas fumer ici."
+  }
+ ]
+}
