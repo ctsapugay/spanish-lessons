@@ -1,0 +1,451 @@
+{
+ "sections": [
+  {
+   "heading": "Forming the imparfait",
+   "body": "The **imparfait** is the second past tense. To form it, take the *nous* form of the present, remove **-ons**, and add the endings:\n\nThe endings **-ais, -ais, -ait, -aient** all sound the same: /ɛ/. Only one verb is irregular: *être* → *j'étais, tu étais, il était, nous étions, vous étiez, ils étaient*. Spelling: *manger → je mangeais*, *commencer → je commençais*.",
+   "table": {
+    "head": [
+     "",
+     "parler (nous parl-ons)",
+     "finir (nous finiss-ons)",
+     "prendre (nous pren-ons)"
+    ],
+    "rows": [
+     [
+      "*je*",
+      "*parlais*",
+      "*finissais*",
+      "*prenais*"
+     ],
+     [
+      "*tu*",
+      "*parlais*",
+      "*finissais*",
+      "*prenais*"
+     ],
+     [
+      "*il / elle / on*",
+      "*parlait*",
+      "*finissait*",
+      "*prenait*"
+     ],
+     [
+      "*nous*",
+      "*parlions*",
+      "*finissions*",
+      "*prenions*"
+     ],
+     [
+      "*vous*",
+      "*parliez*",
+      "*finissiez*",
+      "*preniez*"
+     ],
+     [
+      "*ils / elles*",
+      "*parlaient*",
+      "*finissaient*",
+      "*prenaient*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "What the imparfait is for",
+   "body": "The imparfait describes the past as a **background** or a **habit** — things that were going on, or used to happen, without a clear start or end:\n\n- **description** of people, places, weather, feelings: *Il faisait beau. La maison était grande. J'étais fatigué.*\n- **habits**, what you used to do: *Quand j'étais petit, je jouais au foot tous les jours.* (When I was little, I played football every day.)\n- **an action in progress**: *Je regardais la télé.* (I was watching TV.)\n\nTypical companions: *quand j'étais petit(e)* (when I was little), *avant* (before, in the past), *autrefois* (in the old days), *tous les jours* (every day), *d'habitude* (usually), *toujours* (always), *souvent*."
+  },
+  {
+   "heading": "Then and now",
+   "body": "*Avant, j'habitais à la campagne ; maintenant, j'habite en ville.* (I used to live in the country; now I live in town.) *Avant, il n'y avait pas d'internet.*"
+  }
+ ],
+ "vocab": [
+  [
+   "l'imparfait",
+   "the imperfect tense",
+   "lɛ̃.paʁ.fɛ",
+   "m"
+  ],
+  [
+   "finir",
+   "to finish",
+   "fi.niʁ"
+  ],
+  [
+   "j'étais",
+   "I was",
+   "ʒe.tɛ"
+  ],
+  [
+   "il était",
+   "he was, it was",
+   "il e.tɛ"
+  ],
+  [
+   "il y avait",
+   "there was, there were",
+   "i.li.a.vɛ"
+  ],
+  [
+   "il faisait",
+   "it was (weather)",
+   "il fə.zɛ"
+  ],
+  [
+   "avant",
+   "before, in the past",
+   "a.vɑ̃"
+  ],
+  [
+   "autrefois",
+   "in the old days",
+   "o.tʁə.fwa"
+  ],
+  [
+   "d'habitude",
+   "usually",
+   "da.bi.tyd"
+  ],
+  [
+   "toujours",
+   "always",
+   "tu.ʒuʁ"
+  ],
+  [
+   "tous les jours",
+   "every day",
+   "tu le ʒuʁ"
+  ],
+  [
+   "quand",
+   "when",
+   "kɑ̃"
+  ],
+  [
+   "la campagne",
+   "the countryside",
+   "la kɑ̃.paɲ"
+  ],
+  [
+   "l'enfance",
+   "childhood",
+   "lɑ̃.fɑ̃s",
+   "f"
+  ],
+  [
+   "petit / petite",
+   "little (young)",
+   "pə.ti / pə.tit"
+  ]
+ ],
+ "examples": [
+  [
+   "Quand j'étais petite, j'habitais à la campagne.",
+   "When I was little, I lived in the country."
+  ],
+  [
+   "Il faisait beau et la mer était bleue.",
+   "The weather was nice and the sea was blue."
+  ],
+  [
+   "Avant, je jouais au tennis tous les samedis.",
+   "I used to play tennis every Saturday."
+  ],
+  [
+   "D'habitude, nous mangions à midi.",
+   "Usually we ate at noon."
+  ],
+  [
+   "Mon grand-père était très drôle.",
+   "My grandfather was very funny."
+  ],
+  [
+   "Je regardais la télé quand tu as téléphoné.",
+   "I was watching TV when you phoned."
+  ],
+  [
+   "Il y avait beaucoup de monde.",
+   "There were a lot of people."
+  ],
+  [
+   "Autrefois, il n'y avait pas d'internet.",
+   "In the old days there was no internet."
+  ],
+  [
+   "Pendant mon enfance, je lisais beaucoup.",
+   "During my childhood I read a lot."
+  ],
+  [
+   "Ils finissaient le travail à dix-huit heures.",
+   "They used to finish work at six p.m."
+  ],
+  [
+   "Vous habitiez où avant ?",
+   "Where did you live before?"
+  ],
+  [
+   "J'étais fatigué, alors je suis rentré.",
+   "I was tired, so I went home."
+  ],
+  [
+   "Elle avait les cheveux longs.",
+   "She had long hair."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Quand j'___ petit, j'habitais à la campagne.",
+   "options": [
+    "étais",
+    "ai été",
+    "suis"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Pendant nos vacances, il ___ beau tous les jours.",
+   "options": [
+    "faisait",
+    "a fait",
+    "fera"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*tous les jours* describes the background, repeated: imparfait."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ à midi.",
+   "options": [
+    "mangions",
+    "mangeons",
+    "mangiez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils ___ le travail à dix-huit heures.",
+   "options": [
+    "finissaient",
+    "finissait",
+    "finissions"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which endings all sound the same in the imparfait?",
+   "options": [
+    "-ais, -ait, -aient",
+    "-ions, -iez",
+    "-ais, -ions"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The imparfait is built from…",
+   "options": [
+    "the nous form of the present, minus -ons",
+    "the infinitive, minus -er",
+    "the past participle"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which verb is irregular in the imparfait?",
+   "options": [
+    "être",
+    "avoir",
+    "faire"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Avant, je jouais au tennis* means…",
+   "options": [
+    "I used to play tennis",
+    "I played tennis once",
+    "I'm going to play tennis"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*d'habitude* means…",
+   "options": [
+    "usually",
+    "always",
+    "before",
+    "every day"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il y avait beaucoup de monde* means…",
+   "options": [
+    "There were a lot of people",
+    "There are a lot of people",
+    "There will be a lot of people"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Vous ___ où avant ?",
+   "options": [
+    "habitiez",
+    "habitez",
+    "habitaient"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which sentence describes a habit in the past?",
+   "options": [
+    "Je lisais tous les jours.",
+    "J'ai lu ce livre.",
+    "Je vais lire."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Quand j'___ petite, j'habitais à la campagne. (être)",
+   "answers": [
+    "étais"
+   ],
+   "hint": "When I was little, I lived in the country."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ beau et la mer était bleue. (faire)",
+   "answers": [
+    "faisait"
+   ],
+   "hint": "The weather was nice and the sea was blue."
+  },
+  {
+   "type": "fill",
+   "prompt": "Avant, je ___ au tennis tous les samedis. (jouer)",
+   "answers": [
+    "jouais"
+   ],
+   "hint": "I used to play tennis every Saturday."
+  },
+  {
+   "type": "fill",
+   "prompt": "D'habitude, nous ___ à midi. (manger)",
+   "answers": [
+    "mangions"
+   ],
+   "hint": "Usually we ate at noon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon grand-père ___ très drôle. (être)",
+   "answers": [
+    "était"
+   ],
+   "hint": "My grandfather was very funny."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ la télé quand tu as téléphoné. (regarder)",
+   "answers": [
+    "regardais"
+   ],
+   "hint": "I was watching TV when you phoned."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y ___ beaucoup de monde. (avoir)",
+   "answers": [
+    "avait"
+   ],
+   "hint": "There were a lot of people."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pendant mon enfance, je ___ beaucoup. (lire)",
+   "answers": [
+    "lisais"
+   ],
+   "hint": "During my childhood I read a lot."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ___ les cheveux longs. (avoir)",
+   "answers": [
+    "avait"
+   ],
+   "hint": "She had long hair."
+  },
+  {
+   "type": "translate",
+   "prompt": "When I was little, I lived in Paris.",
+   "answers": [
+    "Quand j'étais petit, j'habitais à Paris.",
+    "Quand j'étais petite, j'habitais à Paris."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It was nice weather.",
+   "answers": [
+    "Il faisait beau."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I used to play football.",
+   "answers": [
+    "Je jouais au football.",
+    "Avant, je jouais au football.",
+    "Je jouais au foot."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "There were a lot of people.",
+   "answers": [
+    "Il y avait beaucoup de monde."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She was tired.",
+   "answers": [
+    "Elle était fatiguée."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"When I was little, I lived in the country.\"",
+   "answer": "Quand j'étais petite, j'habitais à la campagne."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"In the old days there was no internet.\"",
+   "answer": "Autrefois, il n'y avait pas d'internet."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Usually we ate at noon.\"",
+   "answer": "D'habitude, nous mangions à midi."
+  }
+ ]
+}

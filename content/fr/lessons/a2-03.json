@@ -1,0 +1,378 @@
+{
+ "sections": [
+  {
+   "heading": "Two tenses, two jobs",
+   "body": "In a story about the past, French uses both tenses together:\n\n- **passé composé** — the **events**: what happened, one after another, completed. It moves the story forward. *Je suis sorti. J'ai pris le bus. Je suis arrivé au bureau.*\n- **imparfait** — the **background**: the scene, descriptions, feelings, what was going on. It doesn't move the story forward. *Il pleuvait. Il y avait beaucoup de monde. J'étais en retard.*\n\nPut together: *Il pleuvait et j'étais en retard. J'ai pris un taxi.* (It was raining and I was late. I took a taxi.)"
+  },
+  {
+   "heading": "Interrupted actions",
+   "body": "An action **in progress** (imparfait) is interrupted by a **sudden event** (passé composé):\n\n- *Je dormais quand le téléphone a sonné.* — I was sleeping when the phone rang.\n- *Nous dînions quand Hugo est arrivé.* — We were having dinner when Hugo arrived."
+  },
+  {
+   "heading": "Signal words",
+   "body": "- With the passé composé: *hier*, *un jour*, *soudain* (suddenly), *tout à coup* (all of a sudden), *ensuite*, *une fois* (once), *pendant deux heures* (for a closed period).\n- With the imparfait: *d'habitude*, *tous les jours*, *souvent*, *toujours*, *autrefois*, *quand j'étais petit*, *pendant que* (while).\n\nCompare: *Hier, j'ai joué au tennis.* (Yesterday I played tennis — one event.) *Le samedi, je jouais au tennis.* (On Saturdays I used to play tennis — a habit.)"
+  },
+  {
+   "heading": "Pronunciation: j'ai parlé or je parlais?",
+   "body": "The two tenses can sound very close: *j'ai parlé* /ʒe paʁ.le/ ends in a closed [e]; *je parlais* /ʒə paʁ.lɛ/ ends in an open [ɛ]. Listen also for the start: *j'ai* /ʒe/ vs *je* /ʒə/. In careful speech, keep [e] and [ɛ] apart: *j'ai mangé* — *je mangeais*; *il a chanté* — *il chantait*."
+  }
+ ],
+ "vocab": [
+  [
+   "le passé composé",
+   "the perfect tense",
+   "lə pa.se kɔ̃.po.ze"
+  ],
+  [
+   "dormir",
+   "to sleep",
+   "dɔʁ.miʁ"
+  ],
+  [
+   "sonner",
+   "to ring",
+   "sɔ.ne"
+  ],
+  [
+   "soudain",
+   "suddenly",
+   "su.dɛ̃"
+  ],
+  [
+   "tout à coup",
+   "all of a sudden",
+   "tu.t‿a ku"
+  ],
+  [
+   "pendant que",
+   "while",
+   "pɑ̃.dɑ̃ kə"
+  ],
+  [
+   "une fois",
+   "once",
+   "yn fwa"
+  ],
+  [
+   "l'histoire",
+   "the story; history",
+   "lis.twaʁ",
+   "f"
+  ],
+  [
+   "la pluie",
+   "the rain",
+   "la plɥi"
+  ],
+  [
+   "en retard",
+   "late",
+   "ɑ̃ ʁə.taʁ"
+  ],
+  [
+   "le taxi",
+   "the taxi",
+   "lə tak.si"
+  ],
+  [
+   "chanter",
+   "to sing",
+   "ʃɑ̃.te"
+  ],
+  [
+   "le message",
+   "the message",
+   "lə me.saʒ"
+  ]
+ ],
+ "examples": [
+  [
+   "Il pleuvait et j'étais en retard, alors j'ai pris un taxi.",
+   "It was raining and I was late, so I took a taxi."
+  ],
+  [
+   "Je dormais quand le téléphone a sonné.",
+   "I was sleeping when the phone rang."
+  ],
+  [
+   "Nous dînions quand Hugo est arrivé.",
+   "We were having dinner when Hugo arrived."
+  ],
+  [
+   "Il faisait beau, alors nous sommes allés à la plage.",
+   "The weather was nice, so we went to the beach."
+  ],
+  [
+   "Soudain, j'ai entendu un bruit.",
+   "Suddenly I heard a noise."
+  ],
+  [
+   "Pendant que je travaillais, les enfants jouaient.",
+   "While I was working, the children were playing."
+  ],
+  [
+   "Hier, j'ai joué au tennis pendant deux heures.",
+   "Yesterday I played tennis for two hours."
+  ],
+  [
+   "Le samedi, je jouais au tennis avec mon père.",
+   "On Saturdays I used to play tennis with my father."
+  ],
+  [
+   "Elle était fatiguée, mais elle a fini son travail.",
+   "She was tired, but she finished her work."
+  ],
+  [
+   "Tout à coup, la lumière s'est éteinte.",
+   "All of a sudden, the light went out."
+  ],
+  [
+   "Quand je suis arrivée, il y avait beaucoup de monde.",
+   "When I arrived, there were a lot of people."
+  ],
+  [
+   "J'ai parlé à Léa, elle parlait de ses vacances.",
+   "I spoke to Léa; she was talking about her holiday."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ___ quand le téléphone a sonné.",
+   "options": [
+    "dormais",
+    "ai dormi",
+    "dors"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous dînions quand Hugo ___.",
+   "options": [
+    "est arrivé",
+    "arrivait",
+    "arrive"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Quand nous sommes arrivés à la plage, il ___ beau et chaud.",
+   "options": [
+    "faisait",
+    "a fait",
+    "fera"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The weather at the moment we arrived is the scene: imparfait."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Soudain, j'___ un bruit.",
+   "options": [
+    "ai entendu",
+    "entendais",
+    "entends"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le samedi, je ___ au tennis avec mon père.",
+   "options": [
+    "jouais",
+    "ai joué",
+    "vais jouer"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Hier, j'___ au tennis pendant deux heures.",
+   "options": [
+    "ai joué",
+    "jouais",
+    "joue"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In a story, the passé composé is used for…",
+   "options": [
+    "the events, what happened",
+    "the background and descriptions",
+    "habits"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In a story, the imparfait is used for…",
+   "options": [
+    "the background, descriptions, what was going on",
+    "single completed events",
+    "sudden events"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word usually goes with the passé composé?",
+   "options": [
+    "soudain",
+    "d'habitude",
+    "toujours"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word usually goes with the imparfait?",
+   "options": [
+    "d'habitude",
+    "tout à coup",
+    "une fois"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*j'ai parlé* ends in…",
+   "options": [
+    "a closed [e]",
+    "an open [ɛ]",
+    "a silent letter"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*je parlais* ends in…",
+   "options": [
+    "an open [ɛ]",
+    "a closed [e]",
+    "[ə]"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ quand le téléphone a sonné. (dormir)",
+   "answers": [
+    "dormais"
+   ],
+   "hint": "I was sleeping when the phone rang."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous dînions quand Hugo est ___.",
+   "answers": [
+    "arrivé"
+   ],
+   "hint": "We were having dinner when Hugo arrived."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il pleuvait et j'étais en retard, alors j'ai ___ un taxi. (prendre)",
+   "answers": [
+    "pris"
+   ],
+   "hint": "I took a taxi."
+  },
+  {
+   "type": "fill",
+   "prompt": "___, j'ai entendu un bruit.",
+   "answers": [
+    "Soudain"
+   ],
+   "hint": "Suddenly I heard a noise."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pendant ___ je travaillais, les enfants jouaient.",
+   "answers": [
+    "que"
+   ],
+   "hint": "While I was working, the children were playing."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ___ fatiguée, mais elle a fini son travail. (être)",
+   "answers": [
+    "était"
+   ],
+   "hint": "She was tired, but she finished her work."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quand je suis arrivée, il y ___ beaucoup de monde. (avoir)",
+   "answers": [
+    "avait"
+   ],
+   "hint": "There were a lot of people."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tout à ___, la lumière s'est éteinte.",
+   "answers": [
+    "coup"
+   ],
+   "hint": "All of a sudden, the light went out."
+  },
+  {
+   "type": "translate",
+   "prompt": "I was sleeping when the phone rang.",
+   "answers": [
+    "Je dormais quand le téléphone a sonné."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It was raining, so I took a taxi.",
+   "answers": [
+    "Il pleuvait, alors j'ai pris un taxi."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Suddenly I heard a noise.",
+   "answers": [
+    "Soudain, j'ai entendu un bruit.",
+    "Tout à coup, j'ai entendu un bruit."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "When I arrived, there were a lot of people.",
+   "answers": [
+    "Quand je suis arrivé, il y avait beaucoup de monde.",
+    "Quand je suis arrivée, il y avait beaucoup de monde."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We were having dinner when Hugo arrived.\"",
+   "answer": "Nous dînions quand Hugo est arrivé."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"While I was working, the children were playing.\"",
+   "answer": "Pendant que je travaillais, les enfants jouaient."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The weather was nice, so we went to the beach.\"",
+   "answer": "Il faisait beau, alors nous sommes allés à la plage."
+  }
+ ]
+}

@@ -1,0 +1,413 @@
+{
+ "sections": [
+  {
+   "heading": "Replacing a direct object",
+   "body": "A **direct object** answers \"what?\" or \"whom?\" right after the verb, with no preposition: *Je regarde **la télé**.* *Tu connais **Hugo** ?* To avoid repeating it, replace it with a pronoun:",
+   "table": {
+    "head": [
+     "",
+     "Pronoun",
+     "Example"
+    ],
+    "rows": [
+     [
+      "him, it (masculine)",
+      "*le* (*l'*)",
+      "*Le film ? Je le regarde.*"
+     ],
+     [
+      "her, it (feminine)",
+      "*la* (*l'*)",
+      "*La télé ? Je la regarde.*"
+     ],
+     [
+      "them",
+      "*les*",
+      "*Les clés ? Je les cherche.*"
+     ],
+     [
+      "me / you",
+      "*me* (*m'*) / *te* (*t'*)",
+      "*Tu m'entends ?* (Can you hear me?)"
+     ],
+     [
+      "us / you",
+      "*nous* / *vous*",
+      "*Il nous invite.* *Je vous écoute.*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Where it goes",
+   "body": "The pronoun goes **before the verb** — the opposite of English:\n\n- *Je **le** connais.* — I know him.\n- Negative: *Je **ne le** connais **pas**.* — I don't know him.\n- Passé composé: before *avoir*: *Je **l'**ai vu.* — I saw him / it. (When the pronoun is feminine or plural, the participle takes its ending in writing — *Ma clé ? Je l'ai trouvée.* — you'll study this at B1.)\n- With an infinitive (*vouloir, pouvoir, aller* + verb): before the infinitive: *Je vais **le** faire.* (I'm going to do it.) *Tu peux **m'**aider ?*"
+  },
+  {
+   "heading": "Personal objects",
+   "body": "*Où sont mes clés ? — Je les ai mises sur la table.* Everyday things you're always looking for: *les clés*, *le portefeuille*, *les lunettes*, *le téléphone*, *le chargeur* (charger), *le sac à main* (handbag), *le porte-monnaie* (purse), *la carte bancaire* (bank card), *le passeport*, *la carte d'identité* (ID card)."
+  }
+ ],
+ "vocab": [
+  [
+   "le / la / les",
+   "him, her, it, them",
+   "lə / la / le"
+  ],
+  [
+   "me / te",
+   "me / you",
+   "mə / tə"
+  ],
+  [
+   "connaître",
+   "to know (a person, a place)",
+   "kɔ.nɛtʁ"
+  ],
+  [
+   "entendre",
+   "to hear",
+   "ɑ̃.tɑ̃dʁ"
+  ],
+  [
+   "inviter",
+   "to invite",
+   "ɛ̃.vi.te"
+  ],
+  [
+   "le chargeur",
+   "the charger",
+   "lə ʃaʁ.ʒœʁ"
+  ],
+  [
+   "le sac à main",
+   "the handbag",
+   "lə sak a mɛ̃"
+  ],
+  [
+   "le porte-monnaie",
+   "the purse",
+   "lə pɔʁt.mɔ.nɛ"
+  ],
+  [
+   "la carte bancaire",
+   "the bank card",
+   "la kaʁt bɑ̃.kɛʁ"
+  ],
+  [
+   "le passeport",
+   "the passport",
+   "lə pas.pɔʁ"
+  ],
+  [
+   "la carte d'identité",
+   "the ID card",
+   "la kaʁt di.dɑ̃.ti.te"
+  ],
+  [
+   "oublier",
+   "to forget",
+   "u.bli.je"
+  ],
+  [
+   "trouver",
+   "to find",
+   "tʁu.ve"
+  ],
+  [
+   "perdre",
+   "to lose",
+   "pɛʁdʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Tu connais Hugo ? — Oui, je le connais bien.",
+   "Do you know Hugo? — Yes, I know him well."
+  ],
+  [
+   "La télé ? Je la regarde le soir.",
+   "The TV? I watch it in the evening."
+  ],
+  [
+   "Où sont mes clés ? Je les cherche partout.",
+   "Where are my keys? I'm looking for them everywhere."
+  ],
+  [
+   "Tu m'entends ? — Oui, je t'entends très bien.",
+   "Can you hear me? — Yes, I can hear you very well."
+  ],
+  [
+   "Je ne la connais pas.",
+   "I don't know her."
+  ],
+  [
+   "J'ai perdu mon passeport ! — Tu l'as cherché dans ton sac ?",
+   "I've lost my passport! — Have you looked for it in your bag?"
+  ],
+  [
+   "Je les ai mises sur la table.",
+   "I put them on the table."
+  ],
+  [
+   "Il nous invite à dîner samedi.",
+   "He's inviting us to dinner on Saturday."
+  ],
+  [
+   "Je vais le faire demain.",
+   "I'm going to do it tomorrow."
+  ],
+  [
+   "Tu peux m'aider ?",
+   "Can you help me?"
+  ],
+  [
+   "J'ai oublié mon chargeur à la maison.",
+   "I left my charger at home."
+  ],
+  [
+   "Ma carte bancaire ? Je l'ai trouvée !",
+   "My bank card? I've found it!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Je regarde le film.* →",
+   "options": [
+    "Je le regarde.",
+    "Je regarde le.",
+    "Je la regarde."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je cherche mes clés.* →",
+   "options": [
+    "Je les cherche.",
+    "Je le cherche.",
+    "Je cherche les."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je connais Léa.* →",
+   "options": [
+    "Je la connais.",
+    "Je le connais.",
+    "Je lui connais."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Je le connais.*",
+   "options": [
+    "Je ne le connais pas.",
+    "Je le ne connais pas.",
+    "Je ne connais le pas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'ai vu le film.* →",
+   "options": [
+    "Je l'ai vu.",
+    "J'ai le vu.",
+    "Je ai l'vu."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "In the passé composé, the pronoun goes before *avoir*."
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je vais faire le gâteau.* →",
+   "options": [
+    "Je vais le faire.",
+    "Je le vais faire.",
+    "Je vais faire le."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu m'entends ?* means…",
+   "options": [
+    "Can you hear me?",
+    "Do you understand me?",
+    "Are you waiting for me?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il nous invite* means…",
+   "options": [
+    "He's inviting us",
+    "We're inviting him",
+    "He's inviting you"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Where does the object pronoun usually go?",
+   "options": [
+    "before the verb",
+    "after the verb",
+    "at the end of the sentence"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la carte d'identité* is…",
+   "options": [
+    "the ID card",
+    "the bank card",
+    "the menu"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*perdre* means…",
+   "options": [
+    "to lose",
+    "to find",
+    "to forget"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu connais Hugo ? — Oui, je ___ connais bien.",
+   "answers": [
+    "le"
+   ],
+   "hint": "Yes, I know him well."
+  },
+  {
+   "type": "fill",
+   "prompt": "La télé ? Je ___ regarde le soir.",
+   "answers": [
+    "la"
+   ],
+   "hint": "The TV? I watch it in the evening."
+  },
+  {
+   "type": "fill",
+   "prompt": "Où sont mes clés ? Je ___ cherche partout.",
+   "answers": [
+    "les"
+   ],
+   "hint": "I'm looking for them everywhere."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ entends ?",
+   "answers": [
+    "m'"
+   ],
+   "hint": "Can you hear me?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne ___ connais pas.",
+   "answers": [
+    "la"
+   ],
+   "hint": "I don't know her."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai perdu mon passeport ! — Tu ___ as cherché ?",
+   "answers": [
+    "l'"
+   ],
+   "hint": "Have you looked for it?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ invite à dîner samedi.",
+   "answers": [
+    "nous"
+   ],
+   "hint": "He's inviting us to dinner on Saturday."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vais ___ faire demain.",
+   "answers": [
+    "le"
+   ],
+   "hint": "I'm going to do it tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ mon chargeur à la maison. (oublier)",
+   "answers": [
+    "oublié"
+   ],
+   "hint": "I left my charger at home."
+  },
+  {
+   "type": "translate",
+   "prompt": "I know him.",
+   "answers": [
+    "Je le connais."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Can you help me? (to a friend)",
+   "answers": [
+    "Tu peux m'aider ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't know her.",
+   "answers": [
+    "Je ne la connais pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I've lost my passport.",
+   "answers": [
+    "J'ai perdu mon passeport."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm going to do it tomorrow.",
+   "answers": [
+    "Je vais le faire demain."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Where are my keys? I'm looking for them everywhere.\"",
+   "answer": "Où sont mes clés ? Je les cherche partout."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He's inviting us to dinner on Saturday.\"",
+   "answer": "Il nous invite à dîner samedi."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My bank card? I've found it!\"",
+   "answer": "Ma carte bancaire ? Je l'ai trouvée !"
+  }
+ ]
+}

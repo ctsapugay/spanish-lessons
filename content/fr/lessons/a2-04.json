@@ -1,0 +1,400 @@
+{
+ "sections": [
+  {
+   "heading": "Putting events in order",
+   "body": "To tell a story clearly, link the events with sequencing words:\n\n- *d'abord* — first\n- *puis* / *ensuite* / *après* — then, next, after that\n- *enfin* / *finalement* — finally, in the end\n- *premièrement… deuxièmement…* — firstly… secondly… (lists, more formal)\n- *et puis* — and then; *en plus* — what's more; *encore* — again, still\n\n*D'abord, j'ai pris le train. Ensuite, j'ai cherché l'hôtel. Puis je suis allé au restaurant, et enfin je me suis couché.*"
+  },
+  {
+   "heading": "How long? pendant, depuis, il y a",
+   "body": "- *pendant* + a duration: **for** a completed period — *J'ai habité à Lyon pendant cinq ans.* (I lived in Lyon for five years — I don't any more.)\n- *depuis* + a duration or a date, with the **present**: an action that started in the past and is **still going on** — *J'habite à Paris depuis deux ans.* (I've been living in Paris for two years.) *Je t'attends depuis midi !* (I've been waiting for you since noon!)\n- *il y a* + a duration: **ago** — *Je suis arrivé il y a trois jours.*"
+  },
+  {
+   "heading": "From when? à partir de, dès",
+   "body": "- *à partir de* — from (a point in time onwards): *Le magasin est ouvert à partir de neuf heures.* *À partir de lundi, je travaille le soir.*\n- *dès* — as early as, from … on (stressing how early): *Dès sept heures du matin, il y a du monde.* *Appelle-moi dès ton arrivée.* (Call me as soon as you arrive.)"
+  },
+  {
+   "heading": "Where exactly? More place words",
+   "body": "*près de* (near), *à proximité de* (close to, more formal), *au bord de* (by, on the edge of: *au bord de la mer*, *au bord du lac*), *en haut* (up there, upstairs), *en bas* (down there, downstairs), *là-bas* (over there), *au milieu de* (in the middle of), *autour de* (around)."
+  },
+  {
+   "heading": "Telling an anecdote",
+   "body": "Start with the scene (imparfait), tell the events (passé composé) in order, and react at the end: *C'était le week-end dernier. Il faisait beau, alors on est partis au bord de la mer. D'abord, on a raté le train ! Ensuite… Finalement, on est arrivés à midi. Quelle journée !*"
+  }
+ ],
+ "vocab": [
+  [
+   "puis",
+   "then",
+   "pɥi"
+  ],
+  [
+   "après",
+   "after, afterwards",
+   "a.pʁɛ"
+  ],
+  [
+   "enfin",
+   "finally, at last",
+   "ɑ̃.fɛ̃"
+  ],
+  [
+   "finalement",
+   "finally, in the end",
+   "fi.nal.mɑ̃"
+  ],
+  [
+   "pendant",
+   "for (a period), during",
+   "pɑ̃.dɑ̃"
+  ],
+  [
+   "depuis",
+   "for, since",
+   "də.pɥi"
+  ],
+  [
+   "à partir de",
+   "from (a time onwards)",
+   "a paʁ.tiʁ də"
+  ],
+  [
+   "dès",
+   "from, as early as",
+   "dɛ"
+  ],
+  [
+   "au bord de",
+   "by, on the edge of",
+   "o bɔʁ də"
+  ],
+  [
+   "la mer",
+   "the sea",
+   "la mɛʁ"
+  ],
+  [
+   "le lac",
+   "the lake",
+   "lə lak"
+  ],
+  [
+   "en haut",
+   "upstairs, at the top",
+   "ɑ̃ o"
+  ],
+  [
+   "en bas",
+   "downstairs, at the bottom",
+   "ɑ̃ ba"
+  ],
+  [
+   "rater",
+   "to miss (a train, a bus)",
+   "ʁa.te"
+  ],
+  [
+   "la journée",
+   "the day (its length)",
+   "la ʒuʁ.ne"
+  ],
+  [
+   "le souvenir",
+   "the memory",
+   "lə suv.niʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "D'abord, j'ai pris le train, ensuite j'ai cherché l'hôtel.",
+   "First I took the train, then I looked for the hotel."
+  ],
+  [
+   "Puis je suis allé au restaurant, et enfin je me suis couché.",
+   "Then I went to the restaurant, and finally I went to bed."
+  ],
+  [
+   "J'ai habité à Lyon pendant cinq ans.",
+   "I lived in Lyon for five years."
+  ],
+  [
+   "J'habite à Paris depuis deux ans.",
+   "I've been living in Paris for two years."
+  ],
+  [
+   "Je t'attends depuis midi !",
+   "I've been waiting for you since noon!"
+  ],
+  [
+   "Le magasin est ouvert à partir de neuf heures.",
+   "The shop is open from nine o'clock."
+  ],
+  [
+   "Appelle-moi dès ton arrivée.",
+   "Call me as soon as you arrive."
+  ],
+  [
+   "Nous avons passé une semaine au bord de la mer.",
+   "We spent a week by the sea."
+  ],
+  [
+   "Les chambres sont en haut, la cuisine est en bas.",
+   "The bedrooms are upstairs, the kitchen is downstairs."
+  ],
+  [
+   "On a raté le train !",
+   "We missed the train!"
+  ],
+  [
+   "Finalement, on est arrivés à midi. Quelle journée !",
+   "In the end we arrived at noon. What a day!"
+  ],
+  [
+   "C'est un très bon souvenir.",
+   "It's a very good memory."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"I lived in Lyon for five years\" (I don't now)",
+   "options": [
+    "J'ai habité à Lyon pendant cinq ans.",
+    "J'habite à Lyon depuis cinq ans.",
+    "J'ai habité à Lyon il y a cinq ans."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I've been living in Paris for two years\" (I still do)",
+   "options": [
+    "J'habite à Paris depuis deux ans.",
+    "J'ai habité à Paris pendant deux ans.",
+    "J'habite à Paris il y a deux ans."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Still going on: present + *depuis*."
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je suis arrivé il y a trois jours* means…",
+   "options": [
+    "I arrived three days ago",
+    "I've been here for three days",
+    "I'll arrive in three days"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à partir de lundi* means…",
+   "options": [
+    "from Monday on",
+    "until Monday",
+    "last Monday"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word means \"finally\"?",
+   "options": [
+    "enfin",
+    "d'abord",
+    "puis"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word means \"first\"?",
+   "options": [
+    "d'abord",
+    "ensuite",
+    "après"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*au bord de la mer* means…",
+   "options": [
+    "by the sea",
+    "on the sea",
+    "under the sea",
+    "far from the sea"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*en bas* means…",
+   "options": [
+    "downstairs, at the bottom",
+    "upstairs",
+    "over there"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*On a raté le train* means…",
+   "options": [
+    "We missed the train",
+    "We caught the train",
+    "We took the train"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je t'attends ___ midi !",
+   "options": [
+    "depuis",
+    "pendant",
+    "il y a"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous avons dormi ___ huit heures.",
+   "options": [
+    "pendant",
+    "depuis",
+    "dès"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "D'___, j'ai pris le train.",
+   "answers": [
+    "abord"
+   ],
+   "hint": "First I took the train."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ensuite j'ai cherché l'hôtel, et ___ je me suis couché.",
+   "answers": [
+    "enfin"
+   ],
+   "hint": "and finally I went to bed."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai habité à Lyon ___ cinq ans.",
+   "answers": [
+    "pendant"
+   ],
+   "hint": "I lived in Lyon for five years."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'habite à Paris ___ deux ans.",
+   "answers": [
+    "depuis"
+   ],
+   "hint": "I've been living in Paris for two years."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le magasin est ouvert à ___ de neuf heures.",
+   "answers": [
+    "partir"
+   ],
+   "hint": "The shop is open from nine o'clock."
+  },
+  {
+   "type": "fill",
+   "prompt": "Appelle-moi ___ ton arrivée.",
+   "answers": [
+    "dès"
+   ],
+   "hint": "Call me as soon as you arrive."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous avons passé une semaine au ___ de la mer.",
+   "answers": [
+    "bord"
+   ],
+   "hint": "We spent a week by the sea."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les chambres sont en ___, la cuisine est en bas.",
+   "answers": [
+    "haut"
+   ],
+   "hint": "The bedrooms are upstairs."
+  },
+  {
+   "type": "fill",
+   "prompt": "On a ___ le train !",
+   "answers": [
+    "raté"
+   ],
+   "hint": "We missed the train!"
+  },
+  {
+   "type": "translate",
+   "prompt": "I've been waiting for an hour.",
+   "answers": [
+    "J'attends depuis une heure."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I lived in Paris for two years.",
+   "answers": [
+    "J'ai habité à Paris pendant deux ans.",
+    "J'ai vécu à Paris pendant deux ans."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "First, I took the bus.",
+   "answers": [
+    "D'abord, j'ai pris le bus."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We missed the train.",
+   "answers": [
+    "On a raté le train.",
+    "Nous avons raté le train."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The kitchen is downstairs.",
+   "answers": [
+    "La cuisine est en bas."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I've been living in Paris for two years.\"",
+   "answer": "J'habite à Paris depuis deux ans."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The shop is open from nine o'clock.\"",
+   "answer": "Le magasin est ouvert à partir de neuf heures."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Then I went to the restaurant, and finally I went to bed.\"",
+   "answer": "Puis je suis allé au restaurant, et enfin je me suis couché."
+  }
+ ]
+}

@@ -1,0 +1,458 @@
+{
+ "sections": [
+  {
+   "heading": "Avoir or être?",
+   "body": "You met the passé composé at A1. Most verbs use *avoir*; the verbs that use *être* are the \"house\" verbs of movement and change — a classic way to remember them is the list **DR MRS VANDERTRAMP**: *devenir, revenir, monter, rester, sortir, venir, aller, naître, descendre, entrer, rentrer, tomber, retourner, arriver, mourir, partir*.\n\n*Je suis sorti hier soir.* (I went out last night.) *Elle est tombée.* (She fell.) *Ils sont restés à la maison.* (They stayed home.) *Mon grand-père est mort en 2010.* (My grandfather died in 2010.)"
+  },
+  {
+   "heading": "Agreement with être",
+   "body": "With *être*, the past participle agrees with the subject: **-e** for feminine, **-s** for plural, **-es** for feminine plural.\n\nMost of these endings are silent — *allé, allée, allés, allées* all sound the same — but you must write them. A few participles change sound: *mort / morte* (the t is heard), *né / née* (no change).",
+   "table": {
+    "head": [
+     "",
+     "Masculine",
+     "Feminine"
+    ],
+    "rows": [
+     [
+      "*je*",
+      "*je suis allé*",
+      "*je suis allée*"
+     ],
+     [
+      "*tu*",
+      "*tu es allé*",
+      "*tu es allée*"
+     ],
+     [
+      "*il / elle*",
+      "*il est allé*",
+      "*elle est allée*"
+     ],
+     [
+      "*nous*",
+      "*nous sommes allés*",
+      "*nous sommes allées*"
+     ],
+     [
+      "*vous* (one person)",
+      "*vous êtes allé*",
+      "*vous êtes allée*"
+     ],
+     [
+      "*vous* (several)",
+      "*vous êtes allés*",
+      "*vous êtes allées*"
+     ],
+     [
+      "*ils / elles*",
+      "*ils sont allés*",
+      "*elles sont allées*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Pronominal verbs in the past",
+   "body": "All pronominal verbs take *être*, and the participle usually agrees: *Je me suis levé(e) à sept heures.* *Elle s'est réveillée tard.* *Nous nous sommes promenés.* (We went for a walk.) *Ils se sont mariés en juin.* Negative: *Je ne me suis pas réveillé.*"
+  },
+  {
+   "heading": "Irregular past participles",
+   "body": "Many common verbs have irregular participles. Group them by ending:\n\n- **-u**: *avoir → eu, boire → bu, connaître → connu, croire → cru, devoir → dû, lire → lu, pouvoir → pu, recevoir → reçu, savoir → su, venir → venu, voir → vu, vouloir → voulu*\n- **-is / -it**: *mettre → mis, prendre → pris, comprendre → compris, apprendre → appris, dire → dit, écrire → écrit, faire → fait*\n- **-ert**: *ouvrir → ouvert, offrir → offert*\n- others: *être → été, naître → né, mourir → mort*"
+  }
+ ],
+ "vocab": [
+  [
+   "sortir",
+   "to go out",
+   "sɔʁ.tiʁ"
+  ],
+  [
+   "tomber",
+   "to fall",
+   "tɔ̃.be"
+  ],
+  [
+   "rester",
+   "to stay",
+   "ʁɛs.te"
+  ],
+  [
+   "monter",
+   "to go up, to get on",
+   "mɔ̃.te"
+  ],
+  [
+   "descendre",
+   "to go down, to get off",
+   "de.sɑ̃dʁ"
+  ],
+  [
+   "entrer",
+   "to go in, to enter",
+   "ɑ̃.tʁe"
+  ],
+  [
+   "mourir",
+   "to die",
+   "mu.ʁiʁ"
+  ],
+  [
+   "naître",
+   "to be born",
+   "nɛtʁ"
+  ],
+  [
+   "devenir",
+   "to become",
+   "də.və.niʁ"
+  ],
+  [
+   "se promener",
+   "to go for a walk",
+   "sə pʁɔm.ne"
+  ],
+  [
+   "connaître",
+   "to know (a person, a place)",
+   "kɔ.nɛtʁ"
+  ],
+  [
+   "recevoir",
+   "to receive",
+   "ʁə.sə.vwaʁ"
+  ],
+  [
+   "ouvrir",
+   "to open",
+   "u.vʁiʁ"
+  ],
+  [
+   "offrir",
+   "to offer, to give (a present)",
+   "ɔ.fʁiʁ"
+  ],
+  [
+   "dire",
+   "to say, to tell",
+   "diʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Je suis sortie avec des amis hier soir.",
+   "I went out with friends last night. (a woman)"
+  ],
+  [
+   "Elle est tombée dans l'escalier.",
+   "She fell on the stairs."
+  ],
+  [
+   "Ils sont restés à la maison tout le week-end.",
+   "They stayed at home all weekend."
+  ],
+  [
+   "Mon grand-père est mort en 2010.",
+   "My grandfather died in 2010."
+  ],
+  [
+   "Nous sommes arrivés à Lyon à midi.",
+   "We arrived in Lyon at noon."
+  ],
+  [
+   "Vous êtes déjà allée en Italie, madame ?",
+   "Have you ever been to Italy, madam?"
+  ],
+  [
+   "Je me suis levé tôt ce matin.",
+   "I got up early this morning. (a man)"
+  ],
+  [
+   "Elles se sont promenées au bord de la mer.",
+   "They went for a walk by the sea."
+  ],
+  [
+   "Ils se sont mariés en juin.",
+   "They got married in June."
+  ],
+  [
+   "Je ne me suis pas réveillée à l'heure.",
+   "I didn't wake up on time. (a woman)"
+  ],
+  [
+   "J'ai reçu un message de Léa.",
+   "I got a message from Léa."
+  ],
+  [
+   "Il a ouvert la fenêtre.",
+   "He opened the window."
+  ],
+  [
+   "Qu'est-ce que tu as dit ?",
+   "What did you say?"
+  ],
+  [
+   "Mes parents m'ont offert un vélo.",
+   "My parents gave me a bike."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Hier, nous ___ restés à la maison.",
+   "options": [
+    "sommes",
+    "avons",
+    "ont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle ___ tombée.",
+   "options": [
+    "est",
+    "a",
+    "s'est"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'___ reçu un message.",
+   "options": [
+    "ai",
+    "suis",
+    "as"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Léa writes: \"I went out.\"",
+   "options": [
+    "Je suis sortie.",
+    "Je suis sorti.",
+    "J'ai sortie."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elles se sont ___ au bord de la mer.",
+   "options": [
+    "promenées",
+    "promené",
+    "promenés"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils se sont ___ en juin.",
+   "options": [
+    "mariés",
+    "marié",
+    "mariées"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*Ils* = masculine or mixed plural: *-s*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Which verb takes *être* in the passé composé?",
+   "options": [
+    "descendre",
+    "ouvrir",
+    "boire"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which verb takes *avoir* in the passé composé?",
+   "options": [
+    "offrir",
+    "mourir",
+    "naître"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The past participle of *ouvrir* is…",
+   "options": [
+    "ouvert",
+    "ouvrir",
+    "ouvrant"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The past participle of *dire* is…",
+   "options": [
+    "dit",
+    "dire",
+    "disant"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Je me suis réveillé.*",
+   "options": [
+    "Je ne me suis pas réveillé.",
+    "Je me ne suis pas réveillé.",
+    "Je ne me suis réveillé pas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Do *allé* and *allées* sound different?",
+   "options": [
+    "No — the endings are silent",
+    "Yes — allées has an extra syllable",
+    "Yes — the s is pronounced"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis ___ avec des amis hier soir. (sortir)",
+   "answers": [
+    "sortie"
+   ],
+   "hint": "I went out with friends last night. (a woman)"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils sont ___ à la maison. (rester)",
+   "answers": [
+    "restés"
+   ],
+   "hint": "They stayed at home."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon grand-père est ___ en 2010. (mourir)",
+   "answers": [
+    "mort"
+   ],
+   "hint": "My grandfather died in 2010."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous sommes ___ à Lyon à midi. (arriver)",
+   "answers": [
+    "arrivés",
+    "arrivées"
+   ],
+   "hint": "We arrived in Lyon at noon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me suis ___ tôt ce matin. (lever)",
+   "answers": [
+    "levé"
+   ],
+   "hint": "I got up early this morning. (a man)"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ un message de Léa. (recevoir)",
+   "answers": [
+    "reçu"
+   ],
+   "hint": "I got a message from Léa."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a ___ la fenêtre. (ouvrir)",
+   "answers": [
+    "ouvert"
+   ],
+   "hint": "He opened the window."
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'est-ce que tu as ___ ? (dire)",
+   "answers": [
+    "dit"
+   ],
+   "hint": "What did you say?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Mes parents m'ont ___ un vélo. (offrir)",
+   "answers": [
+    "offert"
+   ],
+   "hint": "My parents gave me a bike."
+  },
+  {
+   "type": "translate",
+   "prompt": "She went to Italy.",
+   "answers": [
+    "Elle est allée en Italie."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We stayed at home.",
+   "answers": [
+    "Nous sommes restés à la maison.",
+    "Nous sommes restées à la maison.",
+    "On est restés à la maison."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "They got married in June.",
+   "answers": [
+    "Ils se sont mariés en juin."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I got a message.",
+   "answers": [
+    "J'ai reçu un message."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He opened the door.",
+   "answers": [
+    "Il a ouvert la porte."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"They went for a walk by the sea.\"",
+   "answer": "Elles se sont promenées au bord de la mer."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I didn't wake up on time.\"",
+   "answer": "Je ne me suis pas réveillée à l'heure."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"They stayed at home all weekend.\"",
+   "answer": "Ils sont restés à la maison tout le week-end."
+  }
+ ]
+}

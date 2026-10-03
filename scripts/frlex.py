@@ -112,9 +112,9 @@ def pronunciations(word: str, extra: dict[str, str] | None = None) -> set[str]:
     """Every IPA pronunciation Lexique allows for a written word (elisions and compounds too)."""
     extra = extra or {}
     w = key(word)
-    if w in extra:
-        return {extra[w]}
     found = {ipa(r["phon"]) for r in lexicon().get(w, [])}
+    if w in extra:  # a lexicon note adds a pronunciation Lexique lacks
+        found.add(extra[w])
     if found:
         return found
     if "'" in w:
@@ -158,6 +158,28 @@ def words_of(text: str) -> list[str]:
     return WORD_RE.findall(text)
 
 
+def guide_keys(g: str) -> set[str]:
+    """A guide as comparison keys: each schwa it shows may be said (Œ) or not be in the lexicon."""
+    parts = compare_key(g, schwa="@").split("@")
+    keys = {""}
+    for i, part in enumerate(parts):
+        keys = {k + part for k in keys}
+        if i < len(parts) - 1:
+            keys = {k + x for k in keys for x in ("", "Œ")}
+        if len(keys) > 64:
+            break
+    return keys
+
+
+def _segments(target: str, options: list[set[str]]) -> bool:
+    reach = {0}
+    for opts in options:
+        reach = {i + len(o) for i in reach for o in opts if target.startswith(o, i)}
+        if not reach:
+            return False
+    return len(target) in reach
+
+
 def guide_matches(written: str, guide: str, extra: dict[str, str] | None = None) -> tuple[bool, str]:
     """Does a pronunciation guide match the written French, word by word, per Lexique?"""
     bad = set(unicodedata.normalize("NFD", guide)) - IPA_CHARS - {"̃", "/"}
@@ -177,13 +199,7 @@ def guide_matches(written: str, guide: str, extra: dict[str, str] | None = None)
                 return False, f"no pronunciation for «{tok}» in the lexicon"
             ks = set().union(*(lexicon_keys(p) for p in ps))
             options.append(ks | {k + c for k in ks for c in map(compare_key, LIAISON)})
-        target = compare_key(g)
-        reach = {0}
-        for opts in options:
-            reach = {i + len(o) for i in reach for o in opts if target.startswith(o, i)}
-            if not reach:
-                break
-        if len(target) not in reach:
+        if not any(_segments(t, options) for t in guide_keys(g)):
             expected = " ".join("|".join(sorted(pronunciations(t, extra))) for t in words_of(w))
             return False, f"«{w}» /{g}/ does not match the lexicon: {expected}"
     return True, ""

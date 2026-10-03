@@ -1,0 +1,410 @@
+{
+ "sections": [
+  {
+   "heading": "Indirect objects: à + a person",
+   "body": "Many verbs connect to a person with *à*: *parler **à** quelqu'un* (to talk to someone), *téléphoner **à** quelqu'un* (to phone someone), *donner quelque chose **à** quelqu'un* (to give something to someone). That person is the **indirect object**. Replace it with:\n\n*Lui* is both \"to him\" and \"to her\". *Leur* never takes an s when it's a pronoun.\n\nThe position is the same as for direct objects: before the verb (*Je lui parle*), around which *ne… pas* goes (*Je ne lui parle pas*), before *avoir* (*Je lui ai téléphoné*), before an infinitive (*Je vais leur écrire*).",
+   "table": {
+    "head": [
+     "",
+     "Pronoun",
+     "Example"
+    ],
+    "rows": [
+     [
+      "to him, to her",
+      "*lui*",
+      "*Je téléphone à Léa → Je lui téléphone.*"
+     ],
+     [
+      "to them",
+      "*leur*",
+      "*Je parle à mes parents → Je leur parle.*"
+     ],
+     [
+      "to me / to you",
+      "*me* (*m'*) / *te* (*t'*)",
+      "*Tu me donnes ton numéro ?*"
+     ],
+     [
+      "to us / to you",
+      "*nous* / *vous*",
+      "*Je vous écris demain.*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Verbs with à + person",
+   "body": "*parler à, téléphoner à, écrire à, répondre à* (answer), *donner à, offrir à, envoyer à* (send), *dire à, demander à* (ask), *expliquer à* (explain), *prêter à* (lend), *emprunter à* (borrow from), *plaire à* (to please — *Ça me plaît*: I like it), *ressembler à* (look like).\n\n*J'ai demandé à mon professeur → Je lui ai demandé.* *Ce film me plaît beaucoup.*"
+  },
+  {
+   "heading": "Le or lui?",
+   "body": "Check the verb: if the person comes **directly** after it, use *le / la / les*; if there's *à*, use *lui / leur*:\n\n- *J'aide Léa* (aider quelqu'un) → *Je l'aide.*\n- *Je téléphone à Léa* (téléphoner à quelqu'un) → *Je lui téléphone.*\n\nWatch out — some verbs work differently in English: *téléphoner à* (to phone someone), *demander à* (to ask someone), *écouter* (to listen *to* someone — direct in French: *Je l'écoute*), *attendre* (to wait *for* someone — direct: *Je l'attends*)."
+  }
+ ],
+ "vocab": [
+  [
+   "lui",
+   "to him, to her",
+   "lɥi"
+  ],
+  [
+   "leur",
+   "to them",
+   "lœʁ"
+  ],
+  [
+   "téléphoner à",
+   "to phone (someone)",
+   "te.le.fɔ.ne a"
+  ],
+  [
+   "répondre à",
+   "to answer, to reply to",
+   "ʁe.pɔ̃dʁ a"
+  ],
+  [
+   "donner",
+   "to give",
+   "dɔ.ne"
+  ],
+  [
+   "envoyer",
+   "to send",
+   "ɑ̃.vwa.je"
+  ],
+  [
+   "demander à",
+   "to ask (someone)",
+   "də.mɑ̃.de a"
+  ],
+  [
+   "expliquer",
+   "to explain",
+   "ɛk.spli.ke"
+  ],
+  [
+   "prêter",
+   "to lend",
+   "pʁɛ.te"
+  ],
+  [
+   "emprunter",
+   "to borrow",
+   "ɑ̃.pʁœ̃.te"
+  ],
+  [
+   "plaire à",
+   "to please",
+   "plɛʁ a"
+  ],
+  [
+   "ressembler à",
+   "to look like",
+   "ʁə.sɑ̃.ble a"
+  ],
+  [
+   "quelqu'un",
+   "someone",
+   "kɛl.kœ̃"
+  ],
+  [
+   "quelque chose",
+   "something",
+   "kɛl.kə ʃoz"
+  ]
+ ],
+ "examples": [
+  [
+   "Je téléphone à Léa ce soir. — Tu lui téléphones à quelle heure ?",
+   "I'm phoning Léa tonight. — What time are you phoning her?"
+  ],
+  [
+   "Je parle souvent à mes parents. Je leur parle tous les jours.",
+   "I often talk to my parents. I talk to them every day."
+  ],
+  [
+   "Tu me donnes ton numéro ?",
+   "Will you give me your number?"
+  ],
+  [
+   "Je lui ai envoyé un message hier.",
+   "I sent him a message yesterday."
+  ],
+  [
+   "Je ne leur ai pas répondu.",
+   "I didn't answer them."
+  ],
+  [
+   "Je vais lui expliquer le problème.",
+   "I'm going to explain the problem to her."
+  ],
+  [
+   "Tu peux me prêter ton vélo ?",
+   "Can you lend me your bike?"
+  ],
+  [
+   "Ce film me plaît beaucoup.",
+   "I really like this film."
+  ],
+  [
+   "Elle ressemble à sa mère.",
+   "She looks like her mother."
+  ],
+  [
+   "J'ai demandé à mon professeur. Je lui ai demandé.",
+   "I asked my teacher. I asked him."
+  ],
+  [
+   "J'attends Hugo. Je l'attends depuis une heure !",
+   "I'm waiting for Hugo. I've been waiting for him for an hour!"
+  ],
+  [
+   "On vous écrit la semaine prochaine.",
+   "We'll write to you next week."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Je téléphone à Léa.* →",
+   "options": [
+    "Je lui téléphone.",
+    "Je la téléphone.",
+    "Je leur téléphone."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je parle à mes parents.* →",
+   "options": [
+    "Je leur parle.",
+    "Je les parle.",
+    "Je lui parle."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'aide Léa.* →",
+   "options": [
+    "Je l'aide.",
+    "Je lui aide.",
+    "Je leur aide."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*aider quelqu'un* — no *à*: direct object."
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'attends Hugo.* →",
+   "options": [
+    "Je l'attends.",
+    "Je lui attends.",
+    "J'attends lui."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*attendre quelqu'un* is direct in French."
+  },
+  {
+   "type": "mc",
+   "prompt": "*lui* can mean…",
+   "options": [
+    "to him or to her",
+    "only to him",
+    "to them"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Je lui ai répondu.*",
+   "options": [
+    "Je ne lui ai pas répondu.",
+    "Je lui n'ai pas répondu.",
+    "Je ne lui pas ai répondu."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ce film me plaît* means…",
+   "options": [
+    "I like this film",
+    "This film likes me",
+    "I'm pleasing this film"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Elle ressemble à sa mère* means…",
+   "options": [
+    "She looks like her mother",
+    "She resembles her mother's house",
+    "She meets her mother"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*emprunter* means…",
+   "options": [
+    "to borrow",
+    "to lend",
+    "to give back"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je vais ___ expliquer le problème.",
+   "options": [
+    "lui",
+    "la",
+    "les"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ___ ai envoyé un message.",
+   "options": [
+    "leur",
+    "les",
+    "leurs"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ téléphones à quelle heure ?",
+   "answers": [
+    "lui"
+   ],
+   "hint": "What time are you phoning her?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je parle souvent à mes parents. Je ___ parle tous les jours.",
+   "answers": [
+    "leur"
+   ],
+   "hint": "I talk to them every day."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ donnes ton numéro ?",
+   "answers": [
+    "me"
+   ],
+   "hint": "Will you give me your number?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je lui ai ___ un message hier. (envoyer)",
+   "answers": [
+    "envoyé"
+   ],
+   "hint": "I sent him a message yesterday."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne leur ai pas ___. (répondre)",
+   "answers": [
+    "répondu"
+   ],
+   "hint": "I didn't answer them."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu peux me ___ ton vélo ?",
+   "answers": [
+    "prêter"
+   ],
+   "hint": "Can you lend me your bike?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce film me ___ beaucoup.",
+   "answers": [
+    "plaît"
+   ],
+   "hint": "I really like this film."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ___ à sa mère.",
+   "answers": [
+    "ressemble"
+   ],
+   "hint": "She looks like her mother."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'attends Hugo. Je ___ attends depuis une heure !",
+   "answers": [
+    "l'"
+   ],
+   "hint": "I've been waiting for him for an hour!"
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm phoning her tonight.",
+   "answers": [
+    "Je lui téléphone ce soir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I talk to them every day.",
+   "answers": [
+    "Je leur parle tous les jours."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Can you lend me your bike? (to a friend)",
+   "answers": [
+    "Tu peux me prêter ton vélo ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I sent him a message.",
+   "answers": [
+    "Je lui ai envoyé un message."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I didn't answer them.",
+   "answers": [
+    "Je ne leur ai pas répondu."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm going to explain the problem to her.\"",
+   "answer": "Je vais lui expliquer le problème."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I didn't answer them.\"",
+   "answer": "Je ne leur ai pas répondu."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Will you give me your number?\"",
+   "answer": "Tu me donnes ton numéro ?"
+  }
+ ]
+}
