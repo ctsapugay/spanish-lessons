@@ -1,0 +1,386 @@
+{
+ "sections": [
+  {
+   "heading": "Telling a life story",
+   "body": "A biography mostly uses the **passé composé** for the events of a life, the **imparfait** for the background, and dates:\n\n- *naître* (to be born): *Elle est née en 1950 à Lyon.* (in + year: *en*)\n- *grandir* (to grow up): *Il a grandi à la campagne.*\n- *faire des études* (to study, go to university): *Elle a fait des études de médecine.*\n- *obtenir son diplôme* (to graduate): *Il a obtenu son diplôme en 1975.*\n- *commencer à travailler*, *devenir* (to become) — it takes *être*: *Il est devenu professeur. Elle est devenue médecin.*\n- *rencontrer* (to meet for the first time): *Il a rencontré sa femme à Paris.* — *se rencontrer* (to meet each other): *Ils se sont rencontrés à Lyon.*\n- *se marier* (to get married), *avoir un enfant*, *divorcer*, *déménager* (to move house)\n- *prendre sa retraite* (to retire), *mourir* (to die): *Il est mort en 2015.*"
+  },
+  {
+   "heading": "Dates and ages",
+   "body": "- Years: *en 1989* (in 1989) — said *en mille neuf cent quatre-vingt-neuf* or *en dix-neuf cent quatre-vingt-neuf*.\n- Decades: *dans les années quatre-vingt* (in the eighties).\n- *à l'âge de vingt ans* / *à vingt ans* — at the age of twenty.\n- *Quelques années plus tard* — a few years later. *Deux ans après* — two years after."
+  },
+  {
+   "heading": "A portrait",
+   "body": "A short portrait combines description and story: *Mon grand-père s'appelait Louis. Il était grand et très drôle. Il est né en 1930 dans un petit village. À quatorze ans, il a commencé à travailler dans une boulangerie. Il a rencontré ma grand-mère en 1955 et ils se sont mariés un an plus tard. Ils ont eu trois enfants. C'était un homme généreux ; tout le monde l'aimait.*"
+  }
+ ],
+ "vocab": [
+  [
+   "naître",
+   "to be born",
+   "nɛtʁ"
+  ],
+  [
+   "grandir",
+   "to grow up",
+   "ɡʁɑ̃.diʁ"
+  ],
+  [
+   "les études",
+   "studies, education",
+   "le.z‿e.tyd",
+   "f"
+  ],
+  [
+   "le diplôme",
+   "the degree, the diploma",
+   "lə di.plom"
+  ],
+  [
+   "obtenir",
+   "to obtain, to get",
+   "ɔp.tə.niʁ"
+  ],
+  [
+   "devenir",
+   "to become",
+   "də.və.niʁ"
+  ],
+  [
+   "rencontrer",
+   "to meet (for the first time)",
+   "ʁɑ̃.kɔ̃.tʁe"
+  ],
+  [
+   "déménager",
+   "to move house",
+   "de.me.na.ʒe"
+  ],
+  [
+   "divorcer",
+   "to get divorced",
+   "di.vɔʁ.se"
+  ],
+  [
+   "prendre sa retraite",
+   "to retire",
+   "pʁɑ̃dʁ sa ʁə.tʁɛt"
+  ],
+  [
+   "la vie",
+   "life",
+   "la vi"
+  ],
+  [
+   "le village",
+   "the village",
+   "lə vi.laʒ"
+  ],
+  [
+   "l'année",
+   "the year",
+   "la.ne",
+   "f"
+  ],
+  [
+   "plus tard",
+   "later",
+   "ply taʁ"
+  ],
+  [
+   "tout le monde",
+   "everybody",
+   "tu lə mɔ̃d"
+  ]
+ ],
+ "examples": [
+  [
+   "Elle est née en 1950 à Lyon.",
+   "She was born in Lyon in 1950."
+  ],
+  [
+   "Il a grandi à la campagne.",
+   "He grew up in the countryside."
+  ],
+  [
+   "Elle a fait des études de médecine.",
+   "She studied medicine."
+  ],
+  [
+   "Il a obtenu son diplôme en 1975.",
+   "He graduated in 1975."
+  ],
+  [
+   "Elle est devenue médecin à trente ans.",
+   "She became a doctor at thirty."
+  ],
+  [
+   "Il a rencontré sa femme à Paris.",
+   "He met his wife in Paris."
+  ],
+  [
+   "Ils se sont mariés un an plus tard.",
+   "They got married a year later."
+  ],
+  [
+   "Nous avons déménagé dans les années quatre-vingt.",
+   "We moved house in the eighties."
+  ],
+  [
+   "À quatorze ans, il a commencé à travailler.",
+   "At fourteen he started working."
+  ],
+  [
+   "Elle a pris sa retraite en 2010.",
+   "She retired in 2010."
+  ],
+  [
+   "C'était un homme généreux ; tout le monde l'aimait.",
+   "He was a generous man; everybody loved him."
+  ],
+  [
+   "Mon grand-père s'appelait Louis.",
+   "My grandfather's name was Louis."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"She was born in 1950\"",
+   "options": [
+    "Elle est née en 1950.",
+    "Elle a né en 1950.",
+    "Elle était née dans 1950."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"He became a doctor\"",
+   "options": [
+    "Il est devenu médecin.",
+    "Il a devenu médecin.",
+    "Il devenait un médecin."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"They got married a year later\"",
+   "options": [
+    "Ils se sont mariés un an plus tard.",
+    "Ils ont marié un an plus tard.",
+    "Ils se marient un an plus tard."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"In the eighties\"",
+   "options": [
+    "dans les années quatre-vingt",
+    "en les années quatre-vingt",
+    "aux quatre-vingt"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*rencontrer* means…",
+   "options": [
+    "to meet for the first time",
+    "to tell a story",
+    "to remember"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*déménager* means…",
+   "options": [
+    "to move house",
+    "to go on holiday",
+    "to get divorced"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*prendre sa retraite* means…",
+   "options": [
+    "to retire",
+    "to take a break",
+    "to withdraw money"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In a life story, the events are usually in…",
+   "options": [
+    "the passé composé",
+    "the imparfait",
+    "the present"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'était un homme généreux* uses the imparfait because…",
+   "options": [
+    "it's a description",
+    "it's a single event",
+    "it's in the future"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*tout le monde* means…",
+   "options": [
+    "everybody",
+    "the whole world only",
+    "all the time"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il ___ grandi à la campagne.",
+   "options": [
+    "a",
+    "est",
+    "s'est"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est ___ en 1950 à Lyon.",
+   "answers": [
+    "née"
+   ],
+   "hint": "She was born in Lyon in 1950."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a ___ à la campagne. (grandir)",
+   "answers": [
+    "grandi"
+   ],
+   "hint": "He grew up in the countryside."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a fait des ___ de médecine.",
+   "answers": [
+    "études"
+   ],
+   "hint": "She studied medicine."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a obtenu son ___ en 1975.",
+   "answers": [
+    "diplôme"
+   ],
+   "hint": "He graduated in 1975."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est ___ médecin à trente ans. (devenir)",
+   "answers": [
+    "devenue"
+   ],
+   "hint": "She became a doctor at thirty."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a ___ sa femme à Paris. (rencontrer)",
+   "answers": [
+    "rencontré"
+   ],
+   "hint": "He met his wife in Paris."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils se sont mariés un an plus ___.",
+   "answers": [
+    "tard"
+   ],
+   "hint": "They got married a year later."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous avons déménagé dans les ___ quatre-vingt.",
+   "answers": [
+    "années"
+   ],
+   "hint": "We moved house in the eighties."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a pris sa ___ en 2010.",
+   "answers": [
+    "retraite"
+   ],
+   "hint": "She retired in 2010."
+  },
+  {
+   "type": "translate",
+   "prompt": "I was born in Paris.",
+   "answers": [
+    "Je suis né à Paris.",
+    "Je suis née à Paris."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He grew up in the countryside.",
+   "answers": [
+    "Il a grandi à la campagne."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She studied medicine.",
+   "answers": [
+    "Elle a fait des études de médecine."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "They met in Lyon.",
+   "answers": [
+    "Ils se sont rencontrés à Lyon."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We moved house last year.",
+   "answers": [
+    "Nous avons déménagé l'année dernière.",
+    "On a déménagé l'année dernière."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He met his wife in Paris.\"",
+   "answer": "Il a rencontré sa femme à Paris."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"At fourteen he started working.\"",
+   "answer": "À quatorze ans, il a commencé à travailler."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He was a generous man; everybody loved him.\"",
+   "answer": "C'était un homme généreux ; tout le monde l'aimait."
+  }
+ ]
+}

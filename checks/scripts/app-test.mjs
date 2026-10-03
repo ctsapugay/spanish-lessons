@@ -827,8 +827,10 @@ const whole = [scenarioAppearance, scenarioLanguageSwitching, scenarioVoices, sc
 for (const lang of only) {
   T = `[${lang}]`;
   for (const s of perLanguage) {
+    const t0 = Date.now();
     try {
       await s(lang);
+      if (process.env.APP_TEST_TIMING) console.error(`${T} ${s.name}: ${((Date.now() - t0) / 1000).toFixed(0)} s`);
     } catch (err) {
       check(`${T} ${s.name} ran to completion`, false, String(err).split("\n")[0]);
     }
@@ -837,8 +839,10 @@ for (const lang of only) {
 T = "";
 if (!process.argv.includes("--lang")) {
   for (const s of whole) {
+    const t0 = Date.now();
     try {
       await s();
+      if (process.env.APP_TEST_TIMING) console.error(`${s.name}: ${((Date.now() - t0) / 1000).toFixed(0)} s`);
     } catch (err) {
       check(`${s.name} ran to completion`, false, String(err).split("\n")[0]);
     }

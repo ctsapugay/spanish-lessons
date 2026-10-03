@@ -1,0 +1,434 @@
+{
+ "sections": [
+  {
+   "heading": "The futur simple",
+   "body": "Besides *aller* + infinitive, French has a one-word future, the **futur simple**. For most verbs, add the endings to the **infinitive** (verbs in **-re** drop the final e):\n\nThe endings look like *avoir* in the present: **-ai, -as, -a, -ons, -ez, -ont**. Every form has an **r** before the ending.",
+   "table": {
+    "head": [
+     "",
+     "parler",
+     "finir",
+     "prendre"
+    ],
+    "rows": [
+     [
+      "*je*",
+      "*parlerai*",
+      "*finirai*",
+      "*prendrai*"
+     ],
+     [
+      "*tu*",
+      "*parleras*",
+      "*finiras*",
+      "*prendras*"
+     ],
+     [
+      "*il / elle / on*",
+      "*parlera*",
+      "*finira*",
+      "*prendra*"
+     ],
+     [
+      "*nous*",
+      "*parlerons*",
+      "*finirons*",
+      "*prendrons*"
+     ],
+     [
+      "*vous*",
+      "*parlerez*",
+      "*finirez*",
+      "*prendrez*"
+     ],
+     [
+      "*ils / elles*",
+      "*parleront*",
+      "*finiront*",
+      "*prendront*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Irregular stems",
+   "body": "Common verbs have an irregular stem (the endings stay the same): *être → je serai*, *avoir → j'aurai*, *aller → j'irai*, *faire → je ferai*, *venir → je viendrai*, *pouvoir → je pourrai*, *vouloir → je voudrai*, *devoir → je devrai*, *voir → je verrai*, *savoir → je saurai*, *falloir → il faudra*, *pleuvoir → il pleuvra*."
+  },
+  {
+   "heading": "When to use it",
+   "body": "- predictions: *Demain, il fera beau.* *Tu verras, ce sera génial !* (You'll see, it'll be great!)\n- promises: *Je t'appellerai ce soir.* (I'll call you tonight.)\n- plans further away or more formal: *L'année prochaine, j'irai au Japon.*\n- after *quand* talking about the future, French uses the future (English uses the present): *Quand je serai grand, je serai pilote.* (When I grow up…)\n\n*Aller* + infinitive is more common in conversation for near, certain plans; the futur simple is more neutral and used for predictions and promises."
+  },
+  {
+   "heading": "Pronunciation: the nasal vowels again",
+   "body": "Many future forms end in nasal vowels: **-ons** /ɔ̃/ and **-ont** /ɔ̃/ sound the same — *nous parlerons*, *ils parleront*. Compare also *ils seront* /sə.ʁɔ̃/ and *ils sont* /sɔ̃/. Keep the three nasals apart: *vingt* [ɛ̃], *vent* [ɑ̃], *vont* [ɔ̃] — and listen for them in *Ils viendront dans un an* [ɛ̃ … ɔ̃ … ɑ̃ … ɑ̃]."
+  }
+ ],
+ "vocab": [
+  [
+   "le futur",
+   "the future (tense)",
+   "lə fy.tyʁ"
+  ],
+  [
+   "je serai",
+   "I will be",
+   "ʒə sə.ʁe"
+  ],
+  [
+   "j'aurai",
+   "I will have",
+   "ʒo.ʁe"
+  ],
+  [
+   "j'irai",
+   "I will go",
+   "ʒi.ʁe"
+  ],
+  [
+   "je ferai",
+   "I will do",
+   "ʒə fə.ʁe"
+  ],
+  [
+   "je viendrai",
+   "I will come",
+   "ʒə vjɛ̃.dʁe"
+  ],
+  [
+   "je pourrai",
+   "I will be able to",
+   "ʒə pu.ʁe"
+  ],
+  [
+   "je verrai",
+   "I will see",
+   "ʒə vɛ.ʁe"
+  ],
+  [
+   "il faudra",
+   "it will be necessary",
+   "il fo.dʁa"
+  ],
+  [
+   "appeler",
+   "to call",
+   "a.ple"
+  ],
+  [
+   "promettre",
+   "to promise",
+   "pʁɔ.mɛtʁ"
+  ],
+  [
+   "génial / géniale",
+   "great, brilliant",
+   "ʒe.njal / ʒe.njal"
+  ],
+  [
+   "le pilote",
+   "the pilot",
+   "lə pi.lɔt"
+  ],
+  [
+   "un jour",
+   "one day",
+   "œ̃ ʒuʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Demain, il fera beau.",
+   "Tomorrow the weather will be nice."
+  ],
+  [
+   "Tu verras, ce sera génial !",
+   "You'll see, it'll be great!"
+  ],
+  [
+   "Je t'appellerai ce soir, promis.",
+   "I'll call you tonight, I promise."
+  ],
+  [
+   "L'année prochaine, j'irai au Japon.",
+   "Next year I'll go to Japan."
+  ],
+  [
+   "Nous finirons le travail vendredi.",
+   "We'll finish the work on Friday."
+  ],
+  [
+   "Quand je serai grand, je serai pilote.",
+   "When I grow up, I'll be a pilot."
+  ],
+  [
+   "Vous pourrez venir samedi ?",
+   "Will you be able to come on Saturday?"
+  ],
+  [
+   "Il faudra réserver une table.",
+   "We'll have to book a table."
+  ],
+  [
+   "Ils viendront dans un an.",
+   "They'll come in a year."
+  ],
+  [
+   "Un jour, j'aurai une maison au bord de la mer.",
+   "One day I'll have a house by the sea."
+  ],
+  [
+   "Elle prendra le train de huit heures.",
+   "She'll take the eight o'clock train."
+  ],
+  [
+   "On verra !",
+   "We'll see!"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Demain, il ___ beau.",
+   "options": [
+    "fera",
+    "fait",
+    "ferait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Tu verras, ce ___ génial !",
+   "options": [
+    "sera",
+    "serai",
+    "est"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: L'année prochaine, j'___ au Japon.",
+   "options": [
+    "irai",
+    "vais",
+    "irais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Nous ___ le travail vendredi.",
+   "options": [
+    "finirons",
+    "finissons",
+    "finirez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Quand je ___ grand, je serai pilote.",
+   "options": [
+    "serai",
+    "suis",
+    "serais"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "After *quand* about the future, French uses the future."
+  },
+  {
+   "type": "mc",
+   "prompt": "The futur of *avoir* is…",
+   "options": [
+    "j'aurai",
+    "j'avais",
+    "j'aurais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The futur of *venir* is…",
+   "options": [
+    "je viendrai",
+    "je venais",
+    "je viendrais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The endings of the futur simple look like…",
+   "options": [
+    "avoir in the present",
+    "être in the present",
+    "the imparfait"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*On verra !* means…",
+   "options": [
+    "We'll see!",
+    "We saw!",
+    "Let's see it!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*nous parlerons* and *ils parleront* end in…",
+   "options": [
+    "the same nasal sound [ɔ̃]",
+    "different sounds",
+    "a silent ending"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'll call you tonight\" is…",
+   "options": [
+    "Je t'appellerai ce soir.",
+    "Je t'appelle hier soir.",
+    "Je t'appelais ce soir."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Demain, il ___ beau. (faire)",
+   "answers": [
+    "fera"
+   ],
+   "hint": "Tomorrow the weather will be nice."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu verras, ce ___ génial ! (être)",
+   "answers": [
+    "sera"
+   ],
+   "hint": "You'll see, it'll be great!"
+  },
+  {
+   "type": "fill",
+   "prompt": "L'année prochaine, j'___ au Japon. (aller)",
+   "answers": [
+    "irai"
+   ],
+   "hint": "Next year I'll go to Japan."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous ___ le travail vendredi. (finir)",
+   "answers": [
+    "finirons"
+   ],
+   "hint": "We'll finish the work on Friday."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous ___ venir samedi ? (pouvoir)",
+   "answers": [
+    "pourrez"
+   ],
+   "hint": "Will you be able to come on Saturday?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ réserver une table. (falloir)",
+   "answers": [
+    "faudra"
+   ],
+   "hint": "We'll have to book a table."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils ___ dans un an. (venir)",
+   "answers": [
+    "viendront"
+   ],
+   "hint": "They'll come in a year."
+  },
+  {
+   "type": "fill",
+   "prompt": "Un jour, j'___ une maison au bord de la mer. (avoir)",
+   "answers": [
+    "aurai"
+   ],
+   "hint": "One day I'll have a house by the sea."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ___ le train de huit heures. (prendre)",
+   "answers": [
+    "prendra"
+   ],
+   "hint": "She'll take the eight o'clock train."
+  },
+  {
+   "type": "translate",
+   "prompt": "Tomorrow it will rain.",
+   "answers": [
+    "Demain, il pleuvra.",
+    "Il pleuvra demain."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'll call you tonight. (to a friend)",
+   "answers": [
+    "Je t'appellerai ce soir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "We'll see!",
+   "answers": [
+    "On verra !",
+    "Nous verrons !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Next year I'll go to Paris.",
+   "answers": [
+    "L'année prochaine, j'irai à Paris."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "When I'm older, I'll be a pilot.",
+   "answers": [
+    "Quand je serai grand, je serai pilote.",
+    "Quand je serai grande, je serai pilote."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"When I grow up, I'll be a pilot.\"",
+   "answer": "Quand je serai grand, je serai pilote."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"One day I'll have a house by the sea.\"",
+   "answer": "Un jour, j'aurai une maison au bord de la mer."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"You'll see, it'll be great!\"",
+   "answer": "Tu verras, ce sera génial !"
+  }
+ ]
+}

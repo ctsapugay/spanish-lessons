@@ -1,0 +1,401 @@
+{
+ "sections": [
+  {
+   "heading": "Looks",
+   "body": "*Il / Elle est comment ?* — what does he / she look like?\n\n- Build: *grand(e)*, *petit(e)*, *de taille moyenne* (average height), *mince* (slim), *fort(e)* (well-built, stocky), *musclé(e)*.\n- Hair: *Il a les cheveux courts / longs / bruns / blonds / roux* (red) */ gris / frisés* (curly) */ raides* (straight). *Il est chauve.* (He's bald.) *Il a une barbe / une moustache.*\n- Eyes: *Elle a les yeux bleus / verts / marron.*\n- Age: *Il a la trentaine.* (He's in his thirties.) *Elle est âgée.* (She's elderly.)\n\nNotice *avoir* for features: *Il a les cheveux courts* — not ~~*Il est cheveux courts*~~ — and the definite article: *les cheveux*, *les yeux*."
+  },
+  {
+   "heading": "Character",
+   "body": "Positive: *gentil(le)*, *généreux / généreuse*, *patient(e)*, *calme*, *sympathique*, *drôle*, *curieux / curieuse*, *ouvert(e)* (open-minded), *travailleur / travailleuse* (hard-working).\nNegative: *égoïste* (selfish), *impatient(e)*, *paresseux / paresseuse* (lazy), *têtu(e)* (stubborn), *bavard(e)* (chatty), *jaloux / jalouse*.\n\n*Il a bon caractère* (He's easy-going) — *Elle a mauvais caractère* (She's bad-tempered)."
+  },
+  {
+   "heading": "Clothes and accessories",
+   "body": "*Elle porte un manteau long et des bottes* (boots). Accessories: *le sac*, *la ceinture* (belt), *les gants* (gloves), *le bonnet* (woolly hat), *la casquette* (cap), *les bijoux* (jewellery), *la bague* (ring), *le collier* (necklace), *les boucles d'oreilles* (earrings). *Il est toujours bien habillé.* (He's always well dressed.)"
+  },
+  {
+   "heading": "Relationships",
+   "body": "*s'entendre bien / mal avec quelqu'un* (to get on well / badly with someone): *Je m'entends très bien avec mon frère.* *le copain / la copine* (friend; also boyfriend / girlfriend), *le / la partenaire*, *le voisin / la voisine* (neighbour), *se disputer* (to argue), *tomber amoureux de* (to fall in love with)."
+  }
+ ],
+ "vocab": [
+  [
+   "de taille moyenne",
+   "of average height",
+   "də taj mwa.jɛn"
+  ],
+  [
+   "les cheveux courts",
+   "short hair",
+   "le ʃə.vø kuʁ",
+   "m"
+  ],
+  [
+   "frisé / frisée",
+   "curly",
+   "fʁi.ze / fʁi.ze"
+  ],
+  [
+   "roux / rousse",
+   "red-haired",
+   "ʁu / ʁus"
+  ],
+  [
+   "la barbe",
+   "the beard",
+   "la baʁb"
+  ],
+  [
+   "généreux / généreuse",
+   "generous",
+   "ʒe.ne.ʁø / ʒe.ne.ʁøz"
+  ],
+  [
+   "curieux / curieuse",
+   "curious",
+   "ky.ʁjø / ky.ʁjøz"
+  ],
+  [
+   "paresseux / paresseuse",
+   "lazy",
+   "pa.ʁɛ.sø / pa.ʁɛ.søz"
+  ],
+  [
+   "têtu / têtue",
+   "stubborn",
+   "te.ty / te.ty"
+  ],
+  [
+   "bavard / bavarde",
+   "chatty",
+   "ba.vaʁ / ba.vaʁd"
+  ],
+  [
+   "jaloux / jalouse",
+   "jealous",
+   "ʒa.lu / ʒa.luz"
+  ],
+  [
+   "le caractère",
+   "character, temper",
+   "lə ka.ʁak.tɛʁ"
+  ],
+  [
+   "la bague",
+   "the ring",
+   "la baɡ"
+  ],
+  [
+   "les bottes",
+   "boots",
+   "le bɔt",
+   "f"
+  ],
+  [
+   "s'entendre avec",
+   "to get on with",
+   "sɑ̃.tɑ̃dʁ a.vɛk"
+  ],
+  [
+   "le voisin / la voisine",
+   "the neighbour",
+   "lə vwa.zɛ̃ / la vwa.zin"
+  ],
+  [
+   "se disputer",
+   "to argue",
+   "sə dis.py.te"
+  ]
+ ],
+ "examples": [
+  [
+   "Il est comment, ton nouveau voisin ?",
+   "What's your new neighbour like?"
+  ],
+  [
+   "Il est grand et mince, il a les cheveux courts et une barbe.",
+   "He's tall and slim, with short hair and a beard."
+  ],
+  [
+   "Elle a les yeux verts et les cheveux roux.",
+   "She has green eyes and red hair."
+  ],
+  [
+   "Ma grand-mère est petite et elle a les cheveux gris.",
+   "My grandmother is short and has grey hair."
+  ],
+  [
+   "Mon père a la cinquantaine.",
+   "My father is in his fifties."
+  ],
+  [
+   "Mon frère est très généreux, mais un peu têtu.",
+   "My brother is very generous, but a bit stubborn."
+  ],
+  [
+   "Ma collègue est bavarde et curieuse.",
+   "My colleague is chatty and curious."
+  ],
+  [
+   "Elle a bon caractère.",
+   "She's easy-going."
+  ],
+  [
+   "Il porte un manteau noir et des bottes.",
+   "He's wearing a black coat and boots."
+  ],
+  [
+   "Elle porte une bague et des boucles d'oreilles.",
+   "She's wearing a ring and earrings."
+  ],
+  [
+   "Je m'entends très bien avec ma sœur.",
+   "I get on very well with my sister."
+  ],
+  [
+   "Ils se disputent souvent.",
+   "They often argue."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"He has short hair\"",
+   "options": [
+    "Il a les cheveux courts.",
+    "Il est les cheveux courts.",
+    "Il a des cheveux court."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"She has green eyes\"",
+   "options": [
+    "Elle a les yeux verts.",
+    "Elle a des yeux vertes.",
+    "Elle est les yeux verts."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The feminine of *généreux* is…",
+   "options": [
+    "généreuse",
+    "généreux",
+    "généreusement"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The feminine of *roux* is…",
+   "options": [
+    "rousse",
+    "roux",
+    "rousses"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Someone who never wants to work is…",
+   "options": [
+    "paresseux",
+    "travailleur",
+    "généreux"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Someone who talks a lot is…",
+   "options": [
+    "bavard",
+    "têtu",
+    "jaloux"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il a la trentaine* means…",
+   "options": [
+    "He's in his thirties",
+    "He has thirty friends",
+    "He's thirty exactly"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Elle a bon caractère* means…",
+   "options": [
+    "She's easy-going",
+    "She's a good actress",
+    "She has good handwriting"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je m'entends bien avec mon frère* means…",
+   "options": [
+    "I get on well with my brother",
+    "I hear my brother well",
+    "I understand my brother"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ils se disputent souvent* means…",
+   "options": [
+    "They often argue",
+    "They often meet",
+    "They often dance"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*têtu* means…",
+   "options": [
+    "stubborn",
+    "bald",
+    "chatty",
+    "lazy"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est grand et mince, il a les cheveux ___.",
+   "answers": [
+    "courts"
+   ],
+   "hint": "He has short hair."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a les yeux verts et les cheveux ___. (roux)",
+   "answers": [
+    "roux"
+   ],
+   "hint": "She has green eyes and red hair."
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon frère est très ___. (généreux)",
+   "answers": [
+    "généreux"
+   ],
+   "hint": "My brother is very generous."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ma collègue est ___ et curieuse. (bavard)",
+   "answers": [
+    "bavarde"
+   ],
+   "hint": "My colleague is chatty and curious."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a bon ___.",
+   "answers": [
+    "caractère"
+   ],
+   "hint": "She's easy-going."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il porte un manteau noir et des ___.",
+   "answers": [
+    "bottes"
+   ],
+   "hint": "He's wearing a black coat and boots."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je m'___ très bien avec ma sœur.",
+   "answers": [
+    "entends"
+   ],
+   "hint": "I get on very well with my sister."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils se ___ souvent. (disputer)",
+   "answers": [
+    "disputent"
+   ],
+   "hint": "They often argue."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est comment, ton nouveau ___ ?",
+   "answers": [
+    "voisin"
+   ],
+   "hint": "What's your new neighbour like?"
+  },
+  {
+   "type": "translate",
+   "prompt": "She has blue eyes.",
+   "answers": [
+    "Elle a les yeux bleus."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He has a beard.",
+   "answers": [
+    "Il a une barbe.",
+    "Il porte une barbe."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I get on well with my brother.",
+   "answers": [
+    "Je m'entends bien avec mon frère."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "My sister is stubborn.",
+   "answers": [
+    "Ma sœur est têtue."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She's chatty.",
+   "answers": [
+    "Elle est bavarde."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He's tall and slim, with short hair.\"",
+   "answer": "Il est grand et mince, il a les cheveux courts."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"My brother is very generous, but a bit stubborn.\"",
+   "answer": "Mon frère est très généreux, mais un peu têtu."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She's wearing a ring and earrings.\"",
+   "answer": "Elle porte une bague et des boucles d'oreilles."
+  }
+ ]
+}
