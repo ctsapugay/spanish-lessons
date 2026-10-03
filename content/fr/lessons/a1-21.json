@@ -1,0 +1,447 @@
+{
+ "sections": [
+  {
+   "heading": "Some: du, de la, des",
+   "body": "When you talk about an **unspecified amount** of something — some bread, some water — French uses the **partitive** article, where English often uses \"some\" or nothing:\n\n*Je mange du pain.* (I eat bread.) *Tu veux de l'eau ?* (Do you want some water?) *Elle achète des pommes.* (She's buying apples.)\n\nCompare with *le, la, les* for things in general (often after *aimer*): *J'aime le fromage* (I like cheese, in general) but *Je mange du fromage* (I eat some cheese).",
+   "table": {
+    "head": [
+     "",
+     "Before a consonant",
+     "Before a vowel"
+    ],
+    "rows": [
+     [
+      "Masculine",
+      "*du pain*",
+      "*de l'argent*"
+     ],
+     [
+      "Feminine",
+      "*de la viande*",
+      "*de l'eau*"
+     ],
+     [
+      "Plural",
+      "*des pommes*",
+      "*des oranges*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Quantities: always de",
+   "body": "After a quantity, use just *de* (or *d'*), whatever the noun:\n\n- *un kilo de tomates*, *un litre de lait*, *une bouteille d'eau*, *un paquet de pâtes*, *une tranche de jambon* (a slice of ham), *un morceau de fromage* (a piece of cheese)\n- *beaucoup de* (a lot of), *un peu de* (a little), *trop de* (too much), *assez de* (enough), *combien de* (how much / many): *beaucoup de sucre*, *un peu de lait*\n- and after a negative: *Je ne mange pas de viande.* (I don't eat meat.) *Il n'y a plus de lait.* (There's no more milk.)"
+  },
+  {
+   "heading": "Food and drink",
+   "body": "*le pain, le fromage, la viande* (meat), *le poulet* (chicken), *le poisson*, *le jambon*, *les légumes* (vegetables), *les fruits*, *la pomme* (apple), *la tomate*, *la pomme de terre* (potato), *les pâtes* (pasta), *le riz* (rice), *le sucre*, *le sel*, *le beurre* (butter), *l'œuf* (egg), *le lait*, *l'eau*, *le jus d'orange*."
+  }
+ ],
+ "vocab": [
+  [
+   "le fromage",
+   "cheese",
+   "lə fʁɔ.maʒ"
+  ],
+  [
+   "la viande",
+   "meat",
+   "la vjɑ̃d"
+  ],
+  [
+   "le poulet",
+   "chicken",
+   "lə pu.lɛ"
+  ],
+  [
+   "le jambon",
+   "ham",
+   "lə ʒɑ̃.bɔ̃"
+  ],
+  [
+   "les légumes",
+   "vegetables",
+   "le le.ɡym",
+   "m"
+  ],
+  [
+   "le fruit",
+   "the fruit",
+   "lə fʁɥi"
+  ],
+  [
+   "la pomme",
+   "the apple",
+   "la pɔm"
+  ],
+  [
+   "la pomme de terre",
+   "the potato",
+   "la pɔm də tɛʁ"
+  ],
+  [
+   "les pâtes",
+   "pasta",
+   "le pɑt",
+   "f"
+  ],
+  [
+   "le riz",
+   "rice",
+   "lə ʁi"
+  ],
+  [
+   "le sucre",
+   "sugar",
+   "lə sykʁ"
+  ],
+  [
+   "le beurre",
+   "butter",
+   "lə bœʁ"
+  ],
+  [
+   "l'œuf",
+   "the egg",
+   "lœf",
+   "m"
+  ],
+  [
+   "le kilo",
+   "the kilo",
+   "lə ki.lo"
+  ],
+  [
+   "le litre",
+   "the litre",
+   "lə litʁ"
+  ],
+  [
+   "la tranche",
+   "the slice",
+   "la tʁɑ̃ʃ"
+  ],
+  [
+   "le morceau",
+   "the piece",
+   "lə mɔʁ.so"
+  ],
+  [
+   "beaucoup de",
+   "a lot of",
+   "bo.ku də"
+  ],
+  [
+   "assez de",
+   "enough",
+   "a.se də"
+  ],
+  [
+   "acheter",
+   "to buy",
+   "aʃ.te"
+  ]
+ ],
+ "examples": [
+  [
+   "Je mange du pain le matin.",
+   "I eat bread in the morning."
+  ],
+  [
+   "Tu veux de l'eau ?",
+   "Do you want some water?"
+  ],
+  [
+   "Elle achète des pommes au marché.",
+   "She's buying apples at the market."
+  ],
+  [
+   "On mange de la viande et des légumes.",
+   "We're having meat and vegetables."
+  ],
+  [
+   "J'aime le fromage, mais je ne mange pas de fromage le soir.",
+   "I like cheese, but I don't eat cheese in the evening."
+  ],
+  [
+   "Un kilo de tomates, s'il vous plaît.",
+   "A kilo of tomatoes, please."
+  ],
+  [
+   "Je voudrais une bouteille d'eau et un litre de lait.",
+   "I'd like a bottle of water and a litre of milk."
+  ],
+  [
+   "Quatre tranches de jambon, s'il vous plaît.",
+   "Four slices of ham, please."
+  ],
+  [
+   "Il y a beaucoup de sucre dans ce gâteau.",
+   "There's a lot of sugar in this cake."
+  ],
+  [
+   "Je ne mange pas de viande.",
+   "I don't eat meat."
+  ],
+  [
+   "Il n'y a plus de lait.",
+   "There's no more milk."
+  ],
+  [
+   "Tu as assez de pâtes ?",
+   "Do you have enough pasta?"
+  ],
+  [
+   "J'achète du riz et des œufs.",
+   "I'm buying rice and eggs."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Je mange ___ pain.",
+   "options": [
+    "du",
+    "de la",
+    "de"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Tu veux ___ eau ?",
+   "options": [
+    "de l'",
+    "du",
+    "de la"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: On mange ___ viande.",
+   "options": [
+    "de la",
+    "du",
+    "des"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle achète ___ pommes.",
+   "options": [
+    "des",
+    "de la",
+    "du"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Un kilo ___ tomates, s'il vous plaît.",
+   "options": [
+    "de",
+    "des",
+    "du"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "After a quantity: just *de*."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il y a beaucoup ___ sucre.",
+   "options": [
+    "de",
+    "du",
+    "des"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ne mange pas ___ viande.",
+   "options": [
+    "de",
+    "de la",
+    "la"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'aime ___ fromage.",
+   "options": [
+    "le",
+    "du",
+    "de"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Things in general after *aimer*: *le, la, les*."
+  },
+  {
+   "type": "mc",
+   "prompt": "*une tranche de jambon* is…",
+   "options": [
+    "a slice of ham",
+    "a piece of cheese",
+    "a kilo of ham",
+    "a ham sandwich"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il n'y a plus de lait* means…",
+   "options": [
+    "There's no more milk",
+    "There's a lot of milk",
+    "There's a little milk"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is a vegetable?",
+   "options": [
+    "la pomme de terre",
+    "le poulet",
+    "le fromage"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "How is *œuf* (egg) pronounced?",
+   "options": [
+    "/œf/",
+    "/ø/",
+    "/uf/"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je mange ___ pain le matin.",
+   "answers": [
+    "du"
+   ],
+   "hint": "I eat bread in the morning."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu veux ___ eau ?",
+   "answers": [
+    "de l'"
+   ],
+   "hint": "Do you want some water?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Un ___ de tomates, s'il vous plaît.",
+   "answers": [
+    "kilo"
+   ],
+   "hint": "A kilo of tomatoes, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quatre ___ de jambon, s'il vous plaît.",
+   "answers": [
+    "tranches"
+   ],
+   "hint": "Four slices of ham, please."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne mange pas ___ viande.",
+   "answers": [
+    "de"
+   ],
+   "hint": "I don't eat meat."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y a ___ de sucre dans ce gâteau.",
+   "answers": [
+    "beaucoup"
+   ],
+   "hint": "There's a lot of sugar in this cake."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu as ___ de pâtes ?",
+   "answers": [
+    "assez"
+   ],
+   "hint": "Do you have enough pasta?"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'___ du riz et des œufs. (acheter)",
+   "answers": [
+    "achète"
+   ],
+   "hint": "I'm buying rice and eggs."
+  },
+  {
+   "type": "translate",
+   "prompt": "I eat bread.",
+   "answers": [
+    "Je mange du pain."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I don't eat meat.",
+   "answers": [
+    "Je ne mange pas de viande."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "A bottle of water, please.",
+   "answers": [
+    "Une bouteille d'eau, s'il vous plaît."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Do you want some water? (to a friend)",
+   "answers": [
+    "Tu veux de l'eau ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I like cheese.",
+   "answers": [
+    "J'aime le fromage."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She's buying apples at the market.\"",
+   "answer": "Elle achète des pommes au marché."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"There's no more milk.\"",
+   "answer": "Il n'y a plus de lait."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We're having meat and vegetables.\"",
+   "answer": "On mange de la viande et des légumes."
+  }
+ ]
+}

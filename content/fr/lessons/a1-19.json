@@ -1,0 +1,411 @@
+{
+ "sections": [
+  {
+   "heading": "Places in town",
+   "body": "*En ville* (in town) you'll find: *la boulangerie* (bakery), *la pharmacie*, *le supermarché*, *la banque*, *la poste* (post office), *le marché* (market), *le restaurant*, *le café*, *la gare* (train station), *l'arrêt de bus* (bus stop), *la mairie* (town hall), *le parc*, *le musée* (museum), *l'église* (church), *le quartier* (neighbourhood)."
+  },
+  {
+   "heading": "Is there…? Il y a",
+   "body": "*Il y a* means \"there is / there are\" and doesn't change in the plural: *Il y a une pharmacie près d'ici ?* (Is there a pharmacy near here?) *Dans mon quartier, il y a deux boulangeries.* Negative: *Il n'y a pas de banque.*"
+  },
+  {
+   "heading": "Where is it? Prepositions of place",
+   "body": "- *dans* — in: *dans la rue* (in the street)\n- *sur* — on: *sur la place* (on the square)\n- *sous* — under\n- *devant* — in front of; *derrière* — behind\n- *entre* — between: *entre la banque et la poste*\n- *à côté de* — next to; *en face de* — opposite\n- *près de* — near; *loin de* — far from\n- *à gauche (de)* — on the left (of); *à droite (de)* — on the right (of)\n\nWith *de*, remember the contractions: *à côté du café*, *en face de la gare*, *près de l'église*, *loin des magasins*.\n\n- *ici* — here; *là* — there; *là-bas* — over there."
+  },
+  {
+   "heading": "Chez",
+   "body": "*Chez* means \"at (or to) someone's place\": *chez moi* (at my place, at home), *chez Léa*, *chez le médecin* (at the doctor's), *Je vais chez le coiffeur.* (I'm going to the hairdresser's.)"
+  }
+ ],
+ "vocab": [
+  [
+   "la boulangerie",
+   "the bakery",
+   "la bu.lɑ̃ʒ.ʁi"
+  ],
+  [
+   "la pharmacie",
+   "the pharmacy",
+   "la faʁ.ma.si"
+  ],
+  [
+   "le supermarché",
+   "the supermarket",
+   "lə sy.pɛʁ.maʁ.ʃe"
+  ],
+  [
+   "la banque",
+   "the bank",
+   "la bɑ̃k"
+  ],
+  [
+   "la poste",
+   "the post office",
+   "la pɔst"
+  ],
+  [
+   "le marché",
+   "the market",
+   "lə maʁ.ʃe"
+  ],
+  [
+   "la gare",
+   "the train station",
+   "la ɡaʁ"
+  ],
+  [
+   "la place",
+   "the square",
+   "la plas"
+  ],
+  [
+   "le quartier",
+   "the neighbourhood",
+   "lə kaʁ.tje"
+  ],
+  [
+   "le musée",
+   "the museum",
+   "lə my.ze"
+  ],
+  [
+   "devant",
+   "in front of",
+   "də.vɑ̃"
+  ],
+  [
+   "derrière",
+   "behind",
+   "dɛ.ʁjɛʁ"
+  ],
+  [
+   "à côté de",
+   "next to",
+   "a ko.te də"
+  ],
+  [
+   "en face de",
+   "opposite",
+   "ɑ̃ fas də"
+  ],
+  [
+   "près de",
+   "near",
+   "pʁɛ də"
+  ],
+  [
+   "loin de",
+   "far from",
+   "lwɛ̃ də"
+  ],
+  [
+   "à gauche",
+   "on the left",
+   "a ɡoʃ"
+  ],
+  [
+   "à droite",
+   "on the right",
+   "a dʁwat"
+  ],
+  [
+   "chez",
+   "at (someone's place)",
+   "ʃe"
+  ]
+ ],
+ "examples": [
+  [
+   "Il y a une pharmacie près d'ici ?",
+   "Is there a pharmacy near here?"
+  ],
+  [
+   "La boulangerie est à côté de la banque.",
+   "The bakery is next to the bank."
+  ],
+  [
+   "La poste est en face de la gare.",
+   "The post office is opposite the station."
+  ],
+  [
+   "Dans mon quartier, il y a deux boulangeries.",
+   "In my neighbourhood there are two bakeries."
+  ],
+  [
+   "Il n'y a pas de supermarché ici.",
+   "There's no supermarket here."
+  ],
+  [
+   "Le musée est sur la place, à gauche.",
+   "The museum is on the square, on the left."
+  ],
+  [
+   "Le marché est loin d'ici ?",
+   "Is the market far from here?"
+  ],
+  [
+   "Le café est entre la banque et la poste.",
+   "The café is between the bank and the post office."
+  ],
+  [
+   "Je t'attends devant le cinéma.",
+   "I'll wait for you in front of the cinema."
+  ],
+  [
+   "Le parc est derrière l'église.",
+   "The park is behind the church."
+  ],
+  [
+   "Ce soir, on dîne chez moi.",
+   "Tonight we're having dinner at my place."
+  ],
+  [
+   "Je vais chez le médecin.",
+   "I'm going to the doctor's."
+  ],
+  [
+   "La gare est là-bas, à droite.",
+   "The station is over there, on the right."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Where do you buy bread?",
+   "options": [
+    "à la boulangerie",
+    "à la pharmacie",
+    "à la poste"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Where do you catch a train?",
+   "options": [
+    "à la gare",
+    "au musée",
+    "au marché"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*en face de* means…",
+   "options": [
+    "opposite",
+    "next to",
+    "behind",
+    "near"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à côté de* means…",
+   "options": [
+    "next to",
+    "opposite",
+    "between",
+    "far from"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*loin de* means…",
+   "options": [
+    "far from",
+    "near",
+    "in front of",
+    "on the left"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: La poste est en face ___ gare.",
+   "options": [
+    "de la",
+    "du",
+    "de le"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le café est à côté ___ marché.",
+   "options": [
+    "du",
+    "de le",
+    "de la"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*de + le* → *du*."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"There are two bakeries\" is…",
+   "options": [
+    "Il y a deux boulangeries.",
+    "Ils sont deux boulangeries.",
+    "Il y ont deux boulangeries."
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*Il y a* doesn't change in the plural."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"At my place\" is…",
+   "options": [
+    "chez moi",
+    "à moi",
+    "dans moi"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"I'm going to the doctor's\" is…",
+   "options": [
+    "Je vais chez le médecin.",
+    "Je vais au médecin.",
+    "Je vais à le médecin."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Il y a une banque.*",
+   "options": [
+    "Il n'y a pas de banque.",
+    "Il n'y a pas une banque.",
+    "Il y a pas banque."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y a une pharmacie ___ d'ici ?",
+   "answers": [
+    "près"
+   ],
+   "hint": "Is there a pharmacy near here?"
+  },
+  {
+   "type": "fill",
+   "prompt": "La boulangerie est à côté de la ___.",
+   "answers": [
+    "banque"
+   ],
+   "hint": "The bakery is next to the bank."
+  },
+  {
+   "type": "fill",
+   "prompt": "La poste est en ___ de la gare.",
+   "answers": [
+    "face"
+   ],
+   "hint": "The post office is opposite the station."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le café est ___ la banque et la poste.",
+   "answers": [
+    "entre"
+   ],
+   "hint": "The café is between the bank and the post office."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je t'attends ___ le cinéma.",
+   "answers": [
+    "devant"
+   ],
+   "hint": "I'll wait for you in front of the cinema."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le parc est ___ l'église.",
+   "answers": [
+    "derrière"
+   ],
+   "hint": "The park is behind the church."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce soir, on dîne ___ moi.",
+   "answers": [
+    "chez"
+   ],
+   "hint": "Tonight we're having dinner at my place."
+  },
+  {
+   "type": "fill",
+   "prompt": "La gare est là-bas, à ___.",
+   "answers": [
+    "droite"
+   ],
+   "hint": "The station is over there, on the right."
+  },
+  {
+   "type": "translate",
+   "prompt": "Is there a bank near here?",
+   "answers": [
+    "Il y a une banque près d'ici ?",
+    "Est-ce qu'il y a une banque près d'ici ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The museum is on the left.",
+   "answers": [
+    "Le musée est à gauche."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "There's no supermarket here.",
+   "answers": [
+    "Il n'y a pas de supermarché ici."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm going to the doctor's.",
+   "answers": [
+    "Je vais chez le médecin."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The station is far from here.",
+   "answers": [
+    "La gare est loin d'ici."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The post office is opposite the station.\"",
+   "answer": "La poste est en face de la gare."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"In my neighbourhood there are two bakeries.\"",
+   "answer": "Dans mon quartier, il y a deux boulangeries."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The park is behind the church.\"",
+   "answer": "Le parc est derrière l'église."
+  }
+ ]
+}

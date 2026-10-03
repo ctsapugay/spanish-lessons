@@ -1,0 +1,409 @@
+{
+ "sections": [
+  {
+   "heading": "Asking the way",
+   "body": "- *Excusez-moi, pour aller à la gare, s'il vous plaît ?* — Excuse me, how do I get to the station, please?\n- *Où est la poste, s'il vous plaît ?* — Where's the post office, please?\n- *C'est loin ?* — Is it far? → *Non, c'est à cinq minutes à pied.* (No, it's five minutes on foot.)"
+  },
+  {
+   "heading": "The imperative: giving instructions",
+   "body": "The imperative is the verb **without the subject pronoun**. It has three forms: *tu*, *nous* (let's…) and *vous*.\n\nFor **-er** verbs (and *aller*), the *tu* form drops the **s**: *tu tournes* → *Tourne !*; *tu vas* → *Va !* Two common irregular ones: *être* → *sois, soyons, soyez*; *avoir* → *aie, ayons, ayez*. Negative: *Ne tourne pas !* *Ne prenez pas la rue à gauche.*",
+   "table": {
+    "head": [
+     "",
+     "tourner (turn)",
+     "aller (go)",
+     "prendre (take)"
+    ],
+    "rows": [
+     [
+      "tu",
+      "*tourne*",
+      "*va*",
+      "*prends*"
+     ],
+     [
+      "nous",
+      "*tournons*",
+      "*allons*",
+      "*prenons*"
+     ],
+     [
+      "vous",
+      "*tournez*",
+      "*allez*",
+      "*prenez*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Directions",
+   "body": "- *Allez tout droit.* — Go straight on.\n- *Tournez à gauche / à droite.* — Turn left / right.\n- *Prenez la première rue à droite.* — Take the first street on the right. (*la deuxième, la troisième*…)\n- *Continuez jusqu'au feu.* — Carry on as far as the traffic lights.\n- *Traversez la place.* — Cross the square.\n- *C'est au bout de la rue.* — It's at the end of the street."
+  },
+  {
+   "heading": "Pronunciation: [s] or [z]?",
+   "body": "Between two vowels, a single **s** sounds like [z]: *maison*, *chose*, *cousine*. A double **ss** sounds like [s]: *poisson* (fish), *traversez*. Compare *poison* [pwa.zɔ̃] (poison) and *poisson* [pwa.sɔ̃] (fish) — and *désert* (desert) with *dessert*. The sounds [ʃ] (**ch**: *chat*, *chercher*) and [ʒ] (**j**, or **g** before e or i: *jour*, *rouge*, *manger*) are a similar pair: [ʃ] is voiceless, [ʒ] is voiced, like the s in \"pleasure\"."
+  }
+ ],
+ "vocab": [
+  [
+   "tourner",
+   "to turn",
+   "tuʁ.ne"
+  ],
+  [
+   "tout droit",
+   "straight on",
+   "tu dʁwa"
+  ],
+  [
+   "continuer",
+   "to carry on, to continue",
+   "kɔ̃.ti.nɥe"
+  ],
+  [
+   "traverser",
+   "to cross",
+   "tʁa.vɛʁ.se"
+  ],
+  [
+   "le feu",
+   "the traffic lights; fire",
+   "lə fø"
+  ],
+  [
+   "le bout",
+   "the end",
+   "lə bu"
+  ],
+  [
+   "jusqu'à",
+   "as far as, until",
+   "ʒys.ka"
+  ],
+  [
+   "la rue",
+   "the street",
+   "la ʁy"
+  ],
+  [
+   "premier / première",
+   "first",
+   "pʁə.mje / pʁə.mjɛʁ"
+  ],
+  [
+   "deuxième",
+   "second",
+   "dø.zjɛm"
+  ],
+  [
+   "à pied",
+   "on foot",
+   "a pje"
+  ],
+  [
+   "la minute",
+   "the minute",
+   "la mi.nyt"
+  ],
+  [
+   "le poisson",
+   "the fish",
+   "lə pwa.sɔ̃"
+  ],
+  [
+   "la chose",
+   "the thing",
+   "la ʃoz"
+  ]
+ ],
+ "examples": [
+  [
+   "Excusez-moi, pour aller à la gare, s'il vous plaît ?",
+   "Excuse me, how do I get to the station, please?"
+  ],
+  [
+   "Allez tout droit, puis tournez à gauche.",
+   "Go straight on, then turn left."
+  ],
+  [
+   "Prenez la première rue à droite.",
+   "Take the first street on the right."
+  ],
+  [
+   "Continuez jusqu'au feu.",
+   "Carry on as far as the traffic lights."
+  ],
+  [
+   "Traversez la place et c'est en face.",
+   "Cross the square and it's opposite."
+  ],
+  [
+   "La banque est au bout de la rue.",
+   "The bank is at the end of the street."
+  ],
+  [
+   "C'est loin ? — Non, c'est à cinq minutes à pied.",
+   "Is it far? — No, it's five minutes on foot."
+  ],
+  [
+   "Tourne à droite après la boulangerie !",
+   "Turn right after the bakery!"
+  ],
+  [
+   "Allons au musée !",
+   "Let's go to the museum!"
+  ],
+  [
+   "Ne prenez pas la deuxième rue.",
+   "Don't take the second street."
+  ],
+  [
+   "Soyez prudents !",
+   "Be careful!"
+  ],
+  [
+   "Prends ton parapluie, il pleut.",
+   "Take your umbrella, it's raining."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "\"Go straight on\" (polite) is…",
+   "options": [
+    "Allez tout droit.",
+    "Va tout droit.",
+    "Allons tout droit."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Turn left!\" (to a friend) is…",
+   "options": [
+    "Tourne à gauche !",
+    "Tournes à gauche !",
+    "Tournez à gauche !"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "The *tu* imperative of an -er verb drops the s."
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Let's go to the museum!\" is…",
+   "options": [
+    "Allons au musée !",
+    "Allez au musée !",
+    "Va au musée !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ la première rue à droite.",
+   "options": [
+    "Prenez",
+    "Prendre",
+    "Prenant"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The imperative of *être* (vous) is…",
+   "options": [
+    "soyez",
+    "êtes",
+    "soyons"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*jusqu'au feu* means…",
+   "options": [
+    "as far as the traffic lights",
+    "after the fire",
+    "at the end of the street",
+    "next to the lights"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*au bout de la rue* means…",
+   "options": [
+    "at the end of the street",
+    "at the start of the street",
+    "across the street",
+    "in the middle of the street"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'est à cinq minutes à pied* means…",
+   "options": [
+    "It's five minutes on foot",
+    "It's five minutes by car",
+    "It's five kilometres away"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *maison*, the single s sounds like…",
+   "options": [
+    "[z]",
+    "[s]",
+    "it's silent"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*poisson* means…",
+   "options": [
+    "fish",
+    "poison",
+    "thing"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Make it negative: *Prenez la deuxième rue.*",
+   "options": [
+    "Ne prenez pas la deuxième rue.",
+    "Prenez ne pas la deuxième rue.",
+    "Pas prenez la deuxième rue."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Allez tout ___, puis tournez à gauche.",
+   "answers": [
+    "droit"
+   ],
+   "hint": "Go straight on, then turn left."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ la première rue à droite. (prendre, vous)",
+   "answers": [
+    "Prenez"
+   ],
+   "hint": "Take the first street on the right."
+  },
+  {
+   "type": "fill",
+   "prompt": "Continuez ___'au feu.",
+   "answers": [
+    "jusqu"
+   ],
+   "hint": "Carry on as far as the traffic lights."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ la place et c'est en face. (traverser, vous)",
+   "answers": [
+    "Traversez"
+   ],
+   "hint": "Cross the square and it's opposite."
+  },
+  {
+   "type": "fill",
+   "prompt": "La banque est au ___ de la rue.",
+   "answers": [
+    "bout"
+   ],
+   "hint": "The bank is at the end of the street."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ à droite après la boulangerie ! (tourner, tu)",
+   "answers": [
+    "Tourne"
+   ],
+   "hint": "Turn right after the bakery!"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ au musée ! (aller, nous)",
+   "answers": [
+    "Allons"
+   ],
+   "hint": "Let's go to the museum!"
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est à cinq minutes à ___.",
+   "answers": [
+    "pied"
+   ],
+   "hint": "It's five minutes on foot."
+  },
+  {
+   "type": "translate",
+   "prompt": "Turn right. (polite)",
+   "answers": [
+    "Tournez à droite."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Go straight on. (polite)",
+   "answers": [
+    "Allez tout droit.",
+    "Continuez tout droit."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Let's go!",
+   "answers": [
+    "Allons-y !",
+    "On y va !",
+    "Allons !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Is it far?",
+   "answers": [
+    "C'est loin ?",
+    "Est-ce que c'est loin ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Take your umbrella! (to a friend)",
+   "answers": [
+    "Prends ton parapluie !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Take the first street on the right.\"",
+   "answer": "Prenez la première rue à droite."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Go straight on, then turn left.\"",
+   "answer": "Allez tout droit, puis tournez à gauche."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The bank is at the end of the street.\"",
+   "answer": "La banque est au bout de la rue."
+  }
+ ]
+}
