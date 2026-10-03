@@ -1,0 +1,386 @@
+{
+ "sections": [
+  {
+   "heading": "Cause: why?",
+   "body": "- *parce que* + a sentence: *Je suis en retard parce que le bus n'est pas venu.*\n- *à cause de* + a noun — because of (usually something negative): *Le match est annulé à cause de la pluie.* (*à cause du mauvais temps*, *à cause des grèves* — strikes)\n- *comme* at the start of a sentence — as, since: *Comme il pleuvait, on est restés à la maison.*\n- To ask: *Pourquoi ?* — *Pour quelle raison ?* (For what reason?)"
+  },
+  {
+   "heading": "Consequence: so",
+   "body": "- *donc* — so, therefore: *Il est malade, donc il ne vient pas.*\n- *alors* — so (more casual): *Il pleuvait, alors j'ai pris un taxi.*\n- *c'est pour ça que* — that's why: *J'ai raté le bus ; c'est pour ça que je suis en retard.*"
+  },
+  {
+   "heading": "Purpose: in order to",
+   "body": "- *pour* + infinitive — (in order) to: *Je travaille pour gagner de l'argent.* (to earn money) *J'apprends le français pour voyager.*\n- *pour* + noun — for: *C'est pour toi.* *un cadeau pour mon père*\n\nDon't confuse *pour* (purpose, \"in order to\") with *parce que* (cause, \"because\"): *Je vais à la pharmacie **pour** acheter des médicaments* (what for) — *Je vais à la pharmacie **parce que** je suis malade* (why)."
+  },
+  {
+   "heading": "Putting it together",
+   "body": "*Pourquoi tu apprends le français ? — Parce que j'aime la culture française, et pour travailler en France plus tard. Comme mon entreprise a un bureau à Paris, c'est possible. Donc, j'étudie tous les soirs !*"
+  }
+ ],
+ "vocab": [
+  [
+   "parce que",
+   "because",
+   "paʁs.kə"
+  ],
+  [
+   "à cause de",
+   "because of",
+   "a koz də"
+  ],
+  [
+   "comme",
+   "as, since",
+   "kɔm"
+  ],
+  [
+   "la raison",
+   "the reason",
+   "la ʁɛ.zɔ̃"
+  ],
+  [
+   "donc",
+   "so, therefore",
+   "dɔ̃k"
+  ],
+  [
+   "alors",
+   "so, then",
+   "a.lɔʁ"
+  ],
+  [
+   "c'est pour ça que",
+   "that's why",
+   "sɛ puʁ sa kə"
+  ],
+  [
+   "pour",
+   "(in order) to; for",
+   "puʁ"
+  ],
+  [
+   "gagner",
+   "to earn; to win",
+   "ɡa.ɲe"
+  ],
+  [
+   "la grève",
+   "the strike",
+   "la ɡʁɛv"
+  ],
+  [
+   "le match",
+   "the match",
+   "lə matʃ"
+  ],
+  [
+   "annulé / annulée",
+   "cancelled",
+   "a.ny.le / a.ny.le"
+  ],
+  [
+   "l'entreprise",
+   "the company, the firm",
+   "lɑ̃.tʁə.pʁiz",
+   "f"
+  ],
+  [
+   "la culture",
+   "culture",
+   "la kyl.tyʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Je suis en retard parce que le bus n'est pas venu.",
+   "I'm late because the bus didn't come."
+  ],
+  [
+   "Le match est annulé à cause de la pluie.",
+   "The match is cancelled because of the rain."
+  ],
+  [
+   "Les trains sont en retard à cause des grèves.",
+   "The trains are late because of the strikes."
+  ],
+  [
+   "Comme il pleuvait, on est restés à la maison.",
+   "As it was raining, we stayed at home."
+  ],
+  [
+   "Il est malade, donc il ne vient pas.",
+   "He's ill, so he isn't coming."
+  ],
+  [
+   "J'ai raté le bus ; c'est pour ça que je suis en retard.",
+   "I missed the bus; that's why I'm late."
+  ],
+  [
+   "Je travaille pour gagner de l'argent.",
+   "I work to earn money."
+  ],
+  [
+   "J'apprends le français pour voyager.",
+   "I'm learning French to travel."
+  ],
+  [
+   "C'est un cadeau pour mon père.",
+   "It's a present for my father."
+  ],
+  [
+   "Pour quelle raison ?",
+   "For what reason?"
+  ],
+  [
+   "Il fait beau, alors on va à la plage !",
+   "The weather's nice, so we're going to the beach!"
+  ],
+  [
+   "Mon entreprise a un bureau à Paris.",
+   "My company has an office in Paris."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Je suis en retard ___ le bus n'est pas venu.",
+   "options": [
+    "parce que",
+    "à cause de",
+    "pour"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le match est annulé ___ la pluie.",
+   "options": [
+    "à cause de",
+    "parce que",
+    "pour"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*à cause de* + noun; *parce que* + sentence."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je travaille ___ gagner de l'argent.",
+   "options": [
+    "pour",
+    "parce que",
+    "donc"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est malade, ___ il ne vient pas.",
+   "options": [
+    "donc",
+    "parce que",
+    "pour"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ il pleuvait, on est restés à la maison.",
+   "options": [
+    "Comme",
+    "Donc",
+    "Pour"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Les trains sont en retard à cause ___ grèves.",
+   "options": [
+    "des",
+    "de les",
+    "de"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*c'est pour ça que* means…",
+   "options": [
+    "that's why",
+    "that's for that",
+    "it's because of that thing"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*pour* + infinitive expresses…",
+   "options": [
+    "purpose: in order to",
+    "cause: because",
+    "consequence: so"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une grève* is…",
+   "options": [
+    "a strike",
+    "a storm",
+    "a match"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*gagner de l'argent* means…",
+   "options": [
+    "to earn money",
+    "to win a game",
+    "to spend money"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "\"For what reason?\"",
+   "options": [
+    "Pour quelle raison ?",
+    "Pour quoi raison ?",
+    "À cause de quoi raison ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis en retard ___ le bus n'est pas venu.",
+   "answers": [
+    "parce que"
+   ],
+   "hint": "I'm late because the bus didn't come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le match est annulé à ___ de la pluie.",
+   "answers": [
+    "cause"
+   ],
+   "hint": "The match is cancelled because of the rain."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ il pleuvait, on est restés à la maison.",
+   "answers": [
+    "Comme"
+   ],
+   "hint": "As it was raining, we stayed at home."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est malade, ___ il ne vient pas.",
+   "answers": [
+    "donc"
+   ],
+   "hint": "He's ill, so he isn't coming."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai raté le bus ; c'est pour ___ que je suis en retard.",
+   "answers": [
+    "ça"
+   ],
+   "hint": "that's why I'm late."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je travaille pour ___ de l'argent.",
+   "answers": [
+    "gagner"
+   ],
+   "hint": "I work to earn money."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'apprends le français ___ voyager.",
+   "answers": [
+    "pour"
+   ],
+   "hint": "I'm learning French to travel."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pour quelle ___ ?",
+   "answers": [
+    "raison"
+   ],
+   "hint": "For what reason?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Les trains sont en retard à cause des ___.",
+   "answers": [
+    "grèves"
+   ],
+   "hint": "The trains are late because of the strikes."
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm late because of the rain.",
+   "answers": [
+    "Je suis en retard à cause de la pluie."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He's ill, so he isn't coming.",
+   "answers": [
+    "Il est malade, donc il ne vient pas.",
+    "Il est malade, alors il ne vient pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm learning French to travel.",
+   "answers": [
+    "J'apprends le français pour voyager."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That's why I'm late.",
+   "answers": [
+    "C'est pour ça que je suis en retard."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's for you. (to a friend)",
+   "answers": [
+    "C'est pour toi."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"As it was raining, we stayed at home.\"",
+   "answer": "Comme il pleuvait, on est restés à la maison."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I missed the bus; that's why I'm late.\"",
+   "answer": "J'ai raté le bus ; c'est pour ça que je suis en retard."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The match is cancelled because of the rain.\"",
+   "answer": "Le match est annulé à cause de la pluie."
+  }
+ ]
+}

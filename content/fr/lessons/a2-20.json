@@ -1,0 +1,390 @@
+{
+ "sections": [
+  {
+   "heading": "Making suggestions",
+   "body": "- *On pourrait* + infinitive — We could…: *On pourrait aller au cinéma.*\n- *Et si on* + imparfait — How about…?: *Et si on allait à la plage ?* (How about going to the beach?) — the imparfait here doesn't mean the past; it's a soft suggestion.\n- *Ça te dit de* + infinitive ? — Do you fancy…?: *Ça te dit de venir dîner ?*\n- *Tu as envie de* + infinitive ? — Do you feel like…?\n- *Je propose de* + infinitive — I suggest…: *Je propose de partir à neuf heures.*\n- *Allons… !* / *On va… ?* — Let's…!"
+  },
+  {
+   "heading": "Reacting",
+   "body": "- Yes: *Bonne idée !* — *D'accord !* — *Pourquoi pas ?* (Why not?) — *Avec plaisir !* — *Ça marche !* (OK! — casual)\n- Not sure: *Je ne sais pas trop…* — *Ça dépend.*\n- No, politely: *Je préfère…* (I'd rather…) — *Désolé(e), je ne peux pas.* — *Une autre fois, peut-être ?*"
+  },
+  {
+   "heading": "Organising together",
+   "body": "*On se retrouve où ? — Devant le cinéma.* (Where shall we meet? — In front of the cinema.) *On se retrouve à quelle heure ? — À vingt heures, ça te va ?* (Does that suit you?) *C'est moi qui réserve.* (I'll book.) *Qui apporte quoi ?* (Who's bringing what?)"
+  },
+  {
+   "heading": "On: three meanings",
+   "body": "*On* always takes the *il / elle* form of the verb, but it has three meanings:\n\n1. **we** (everyday speech): *On va au cinéma ce soir ?*\n2. **people, they** (in general): *En France, on mange tard.* (In France, people eat late.)\n3. **someone**: *On a volé mon vélo !* (Someone stole my bike!) — *On frappe à la porte.* (Someone's knocking.)\n\nWith *on* = \"we\", adjectives often agree with the real group: *On est contents.* (We're happy.)"
+  },
+  {
+   "heading": "Polite requests",
+   "body": "Recall: *Je voudrais…*, *Vous pourriez… ?*, *On pourrait avoir… ?* These are forms of the *conditionnel*, which you'll study at B1. They make any request softer: *Tu pourrais m'aider ?* (Could you help me?)"
+  }
+ ],
+ "vocab": [
+  [
+   "on pourrait",
+   "we could",
+   "ɔ̃ pu.ʁɛ"
+  ],
+  [
+   "et si on… ?",
+   "how about…?",
+   "e si ɔ̃"
+  ],
+  [
+   "proposer",
+   "to suggest, to propose",
+   "pʁɔ.po.ze"
+  ],
+  [
+   "pourquoi pas",
+   "why not",
+   "puʁ.kwa pa"
+  ],
+  [
+   "ça marche",
+   "OK, it works (casual)",
+   "sa maʁʃ"
+  ],
+  [
+   "se retrouver",
+   "to meet up",
+   "sə ʁə.tʁu.ve"
+  ],
+  [
+   "apporter",
+   "to bring",
+   "a.pɔʁ.te"
+  ],
+  [
+   "voler",
+   "to steal; to fly",
+   "vɔ.le"
+  ],
+  [
+   "frapper",
+   "to knock, to hit",
+   "fʁa.pe"
+  ],
+  [
+   "content / contente",
+   "happy, pleased",
+   "kɔ̃.tɑ̃ / kɔ̃.tɑ̃t"
+  ],
+  [
+   "la sortie",
+   "the outing; the exit",
+   "la sɔʁ.ti"
+  ],
+  [
+   "le pique-nique",
+   "the picnic",
+   "lə pik.nik"
+  ],
+  [
+   "tu pourrais",
+   "you could",
+   "ty pu.ʁɛ"
+  ]
+ ],
+ "examples": [
+  [
+   "On pourrait aller au cinéma ce soir.",
+   "We could go to the cinema tonight."
+  ],
+  [
+   "Et si on allait à la plage ?",
+   "How about going to the beach?"
+  ],
+  [
+   "Ça te dit de venir dîner samedi ?",
+   "Do you fancy coming for dinner on Saturday?"
+  ],
+  [
+   "Je propose de partir à neuf heures.",
+   "I suggest we leave at nine."
+  ],
+  [
+   "Bonne idée ! Pourquoi pas ?",
+   "Good idea! Why not?"
+  ],
+  [
+   "Ça marche !",
+   "OK!"
+  ],
+  [
+   "Je préfère aller au théâtre.",
+   "I'd rather go to the theatre."
+  ],
+  [
+   "On se retrouve où ? — Devant le cinéma.",
+   "Where shall we meet? — In front of the cinema."
+  ],
+  [
+   "À vingt heures, ça te va ?",
+   "Eight p.m., does that suit you?"
+  ],
+  [
+   "Qui apporte quoi pour le pique-nique ?",
+   "Who's bringing what for the picnic?"
+  ],
+  [
+   "En France, on mange tard.",
+   "In France, people eat late."
+  ],
+  [
+   "On a volé mon vélo !",
+   "Someone stole my bike!"
+  ],
+  [
+   "On est contents de vous voir.",
+   "We're happy to see you."
+  ],
+  [
+   "Tu pourrais m'aider ?",
+   "Could you help me?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "A soft way to suggest going to the beach is…",
+   "options": [
+    "Et si on allait à la plage ?",
+    "On est allés à la plage.",
+    "On ira à la plage, c'est tout."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça te dit de venir ?* means…",
+   "options": [
+    "Do you fancy coming?",
+    "Did you say you'd come?",
+    "Tell me if you're coming."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Your friend suggests a film. You accept.",
+   "options": [
+    "Bonne idée !",
+    "Une autre fois.",
+    "Je ne peux pas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça marche !* means…",
+   "options": [
+    "OK! / Deal!",
+    "It's walking!",
+    "It's working out badly."
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*On se retrouve où ?* means…",
+   "options": [
+    "Where shall we meet?",
+    "Where are we?",
+    "Where did we find it?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *En France, on mange tard*, *on* means…",
+   "options": [
+    "people in general",
+    "we",
+    "someone"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *On a volé mon vélo !*, *on* means…",
+   "options": [
+    "someone",
+    "we",
+    "people in general"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *On va au cinéma ce soir ?*, *on* means…",
+   "options": [
+    "we",
+    "someone",
+    "people in general"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: On ___ aller au cinéma.",
+   "options": [
+    "pourrait",
+    "pourrions",
+    "pourriez"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*on* takes the il / elle form."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Et si on ___ à la plage ?",
+   "options": [
+    "allait",
+    "va aller",
+    "est allés"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*apporter* means…",
+   "options": [
+    "to bring",
+    "to support",
+    "to order"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "On ___ aller au cinéma ce soir.",
+   "answers": [
+    "pourrait"
+   ],
+   "hint": "We could go to the cinema tonight."
+  },
+  {
+   "type": "fill",
+   "prompt": "Et si on ___ à la plage ? (aller)",
+   "answers": [
+    "allait"
+   ],
+   "hint": "How about going to the beach?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça te ___ de venir dîner samedi ?",
+   "answers": [
+    "dit"
+   ],
+   "hint": "Do you fancy coming for dinner on Saturday?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ de partir à neuf heures. (proposer)",
+   "answers": [
+    "propose"
+   ],
+   "hint": "I suggest we leave at nine."
+  },
+  {
+   "type": "fill",
+   "prompt": "Bonne idée ! ___ pas ?",
+   "answers": [
+    "Pourquoi"
+   ],
+   "hint": "Good idea! Why not?"
+  },
+  {
+   "type": "fill",
+   "prompt": "On se ___ où ? (retrouver)",
+   "answers": [
+    "retrouve"
+   ],
+   "hint": "Where shall we meet?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Qui ___ quoi pour le pique-nique ? (apporter)",
+   "answers": [
+    "apporte"
+   ],
+   "hint": "Who's bringing what for the picnic?"
+  },
+  {
+   "type": "fill",
+   "prompt": "On a ___ mon vélo ! (voler)",
+   "answers": [
+    "volé"
+   ],
+   "hint": "Someone stole my bike!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu ___ m'aider ?",
+   "answers": [
+    "pourrais"
+   ],
+   "hint": "Could you help me?"
+  },
+  {
+   "type": "translate",
+   "prompt": "We could go to the cinema.",
+   "answers": [
+    "On pourrait aller au cinéma.",
+    "Nous pourrions aller au cinéma."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Why not?",
+   "answers": [
+    "Pourquoi pas ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Where shall we meet?",
+   "answers": [
+    "On se retrouve où ?",
+    "Où est-ce qu'on se retrouve ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Someone stole my bike!",
+   "answers": [
+    "On a volé mon vélo !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Could you help me? (to a friend)",
+   "answers": [
+    "Tu pourrais m'aider ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Do you fancy coming for dinner on Saturday?\"",
+   "answer": "Ça te dit de venir dîner samedi ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Who's bringing what for the picnic?\"",
+   "answer": "Qui apporte quoi pour le pique-nique ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I suggest we leave at nine.\"",
+   "answer": "Je propose de partir à neuf heures."
+  }
+ ]
+}

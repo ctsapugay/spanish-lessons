@@ -1,0 +1,383 @@
+{
+ "sections": [
+  {
+   "heading": "Phone conventions",
+   "body": "- Answering: *Allô ?* (only on the phone!) — or at work: *Société Durand, bonjour !*\n- Asking who: *Qui est à l'appareil ?* / *C'est de la part de qui ?* (Who's calling?)\n- Saying who you are: *C'est Léa.* / *Ici Léa.* / *Bonjour, c'est Hugo Martin à l'appareil.*\n- Asking for someone: *Je voudrais parler à Madame Bernard, s'il vous plaît.* / *Est-ce que Thomas est là ?*\n- Holding: *Ne quittez pas.* (Hold the line — polite.) *Un instant, s'il vous plaît.* *Je vous la passe.* (I'll put you through to her.)\n- Not available: *Elle n'est pas là.* *Il est en réunion.* (He's in a meeting.) *La ligne est occupée.* (The line's busy.)\n- Messages: *Vous voulez laisser un message ?* — *Je peux lui laisser un message ?* — *Vous pouvez lui dire de me rappeler ?* (Can you ask him to call me back?)\n- Leaving a voicemail: *Bonjour, c'est Camille. Rappelle-moi quand tu peux. Bisous !*\n- Problems: *Je vous entends mal.* (I can't hear you well.) *Ça coupe.* (You're breaking up.) *Je n'ai plus de batterie.*"
+  },
+  {
+   "heading": "Keeping a conversation going",
+   "body": "- Interrupting politely: *Excusez-moi de vous interrompre…* — *Pardon, je peux dire quelque chose ?*\n- Checking you've understood: *Vous voulez dire que… ?* (You mean that…?) *Si je comprends bien, …* (If I understand correctly…)\n- Checking they've understood: *Vous voyez ce que je veux dire ?* (Do you see what I mean?) *C'est clair ?*\n- Starting a chat: *Ça fait longtemps !* (Long time no see!) *Quoi de neuf ?* (What's new?)\n- Ending: *Bon, je dois y aller.* (Right, I have to go.) *Je te laisse.* (I'll let you go.) *À plus !* (See you! — casual)"
+  },
+  {
+   "heading": "Pronunciation: R and L",
+   "body": "The French **r** [ʁ] is made at the back of the mouth — the back of your tongue near the uvula, like a soft gargle. **L** [l] is made at the front, with the tip of the tongue behind the top teeth, and is always \"clear\" (never the dark l of English \"full\"). Practise them together in clusters: *très* [tʁɛ], *prendre* [pʁɑ̃dʁ], *quatre* [katʁ], *plus* [ply], *parler* [paʁ.le], *appareil* [a.pa.ʁɛj], *rappeler* [ʁa.ple]."
+  }
+ ],
+ "vocab": [
+  [
+   "allô",
+   "hello (on the phone)",
+   "a.lo"
+  ],
+  [
+   "l'appareil",
+   "the phone (handset), the device",
+   "la.pa.ʁɛj",
+   "m"
+  ],
+  [
+   "de la part de",
+   "on behalf of, from",
+   "də la paʁ də"
+  ],
+  [
+   "ne quittez pas",
+   "hold the line",
+   "nə ki.te pa"
+  ],
+  [
+   "passer",
+   "to put through, to pass",
+   "pa.se"
+  ],
+  [
+   "la réunion",
+   "the meeting",
+   "la ʁe.y.njɔ̃"
+  ],
+  [
+   "occupé / occupée",
+   "busy, engaged",
+   "ɔ.ky.pe / ɔ.ky.pe"
+  ],
+  [
+   "laisser",
+   "to leave (a message), to let",
+   "lɛ.se"
+  ],
+  [
+   "rappeler",
+   "to call back",
+   "ʁa.ple"
+  ],
+  [
+   "interrompre",
+   "to interrupt",
+   "ɛ̃.te.ʁɔ̃pʁ"
+  ],
+  [
+   "vouloir dire",
+   "to mean",
+   "vu.lwaʁ diʁ"
+  ],
+  [
+   "quoi de neuf ?",
+   "what's new?",
+   "kwa də nœf"
+  ],
+  [
+   "la batterie",
+   "the battery",
+   "la bat.ʁi"
+  ],
+  [
+   "longtemps",
+   "a long time",
+   "lɔ̃.tɑ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Allô ? — Bonjour, c'est Hugo Martin à l'appareil.",
+   "Hello? — Hello, it's Hugo Martin speaking."
+  ],
+  [
+   "Je voudrais parler à Madame Bernard, s'il vous plaît.",
+   "I'd like to speak to Mrs Bernard, please."
+  ],
+  [
+   "C'est de la part de qui ?",
+   "Who's calling?"
+  ],
+  [
+   "Ne quittez pas, je vous la passe.",
+   "Hold the line, I'll put you through to her."
+  ],
+  [
+   "Désolé, elle est en réunion.",
+   "Sorry, she's in a meeting."
+  ],
+  [
+   "Vous voulez laisser un message ?",
+   "Would you like to leave a message?"
+  ],
+  [
+   "Vous pouvez lui dire de me rappeler ?",
+   "Can you ask her to call me back?"
+  ],
+  [
+   "Je vous entends mal, ça coupe.",
+   "I can't hear you well, you're breaking up."
+  ],
+  [
+   "Excusez-moi de vous interrompre.",
+   "Excuse me for interrupting."
+  ],
+  [
+   "Vous voulez dire que le train est annulé ?",
+   "You mean the train is cancelled?"
+  ],
+  [
+   "Ça fait longtemps ! Quoi de neuf ?",
+   "Long time no see! What's new?"
+  ],
+  [
+   "Bon, je dois y aller. À plus !",
+   "Right, I have to go. See you!"
+  ],
+  [
+   "La ligne est occupée.",
+   "The line's busy."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "You answer the phone at home. You say…",
+   "options": [
+    "Allô ?",
+    "Bonjour, madame ?",
+    "Salut, qui ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Who's calling?\"",
+   "options": [
+    "C'est de la part de qui ?",
+    "Qui appelle à vous ?",
+    "C'est la part qui ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "\"Hold the line\" (polite)",
+   "options": [
+    "Ne quittez pas.",
+    "Ne partez pas.",
+    "Ne laissez pas."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Elle est en réunion* means…",
+   "options": [
+    "She's in a meeting",
+    "She's on holiday",
+    "She's at home"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Vous pouvez lui dire de me rappeler ?* means…",
+   "options": [
+    "Can you ask him to call me back?",
+    "Can you tell him I called?",
+    "Can you call him for me?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ça coupe* (on the phone) means…",
+   "options": [
+    "You're breaking up",
+    "It's cutting",
+    "It's expensive"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Quoi de neuf ?* means…",
+   "options": [
+    "What's new?",
+    "What's nine?",
+    "What happened?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Vous voulez dire que… ?* means…",
+   "options": [
+    "You mean that…?",
+    "You want to say…?",
+    "You must say…?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Where is the French r made?",
+   "options": [
+    "at the back of the mouth",
+    "with the tip of the tongue",
+    "with the lips"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*À plus !* (casual) means…",
+   "options": [
+    "See you!",
+    "More, please!",
+    "Too much!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je vous la passe* means…",
+   "options": [
+    "I'll put you through to her",
+    "I'll pass her the phone later",
+    "I'll call her back"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Allô ? — Bonjour, c'est Hugo Martin à l'___.",
+   "answers": [
+    "appareil"
+   ],
+   "hint": "Hello, it's Hugo Martin speaking."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est de la ___ de qui ?",
+   "answers": [
+    "part"
+   ],
+   "hint": "Who's calling?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ne ___ pas, je vous la passe.",
+   "answers": [
+    "quittez"
+   ],
+   "hint": "Hold the line, I'll put you through."
+  },
+  {
+   "type": "fill",
+   "prompt": "Désolé, elle est en ___.",
+   "answers": [
+    "réunion"
+   ],
+   "hint": "Sorry, she's in a meeting."
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous voulez ___ un message ?",
+   "answers": [
+    "laisser"
+   ],
+   "hint": "Would you like to leave a message?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Vous pouvez lui dire de me ___ ?",
+   "answers": [
+    "rappeler"
+   ],
+   "hint": "Can you ask her to call me back?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Excusez-moi de vous ___.",
+   "answers": [
+    "interrompre"
+   ],
+   "hint": "Excuse me for interrupting."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça fait ___ ! Quoi de neuf ?",
+   "answers": [
+    "longtemps"
+   ],
+   "hint": "Long time no see! What's new?"
+  },
+  {
+   "type": "fill",
+   "prompt": "La ligne est ___.",
+   "answers": [
+    "occupée"
+   ],
+   "hint": "The line's busy."
+  },
+  {
+   "type": "translate",
+   "prompt": "Who's calling?",
+   "answers": [
+    "C'est de la part de qui ?",
+    "Qui est à l'appareil ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Can I leave a message?",
+   "answers": [
+    "Je peux laisser un message ?",
+    "Est-ce que je peux laisser un message ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Hold the line, please.",
+   "answers": [
+    "Ne quittez pas, s'il vous plaît."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What's new?",
+   "answers": [
+    "Quoi de neuf ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have to go.",
+   "answers": [
+    "Je dois y aller.",
+    "Je dois partir."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'd like to speak to Mrs Bernard, please.\"",
+   "answer": "Je voudrais parler à Madame Bernard, s'il vous plaît."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Can you ask her to call me back?\"",
+   "answer": "Vous pouvez lui dire de me rappeler ?"
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Excuse me for interrupting.\"",
+   "answer": "Excusez-moi de vous interrompre."
+  }
+ ]
+}
