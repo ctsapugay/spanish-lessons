@@ -316,7 +316,9 @@
    "type": "fill",
    "prompt": "Il est ___ que la situation s'est améliorée.",
    "answers": [
-    "incontestable"
+    "incontestable",
+    "indiscutable",
+    "indéniable"
    ],
    "hint": "It is indisputable that…"
   },

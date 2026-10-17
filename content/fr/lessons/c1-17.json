@@ -308,7 +308,8 @@
    "type": "fill",
    "prompt": "Il laisse ___ qu'il pourrait démissionner.",
    "answers": [
-    "entendre"
+    "entendre",
+    "penser"
    ],
    "hint": "He implies that he might resign."
   },

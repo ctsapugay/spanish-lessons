@@ -124,8 +124,8 @@
    "During the Occupation, many French people joined the Resistance."
   ],
   [
-   "Au lendemain de la Libération, les femmes obtinrent le droit de vote.",
-   "In the immediate aftermath of the Liberation, women gained the right to vote."
+   "Au lendemain de la Libération, les femmes votèrent pour la première fois.",
+   "In the immediate aftermath of the Liberation, women voted for the first time."
   ],
   [
    "À la veille de la guerre, personne ne voulait y croire.",
@@ -291,7 +291,7 @@
   },
   {
    "type": "fill",
-   "prompt": "Au ___ de la Libération, les femmes obtinrent le droit de vote.",
+   "prompt": "Au ___ de la Libération, les femmes votèrent pour la première fois.",
    "answers": [
     "lendemain"
    ],

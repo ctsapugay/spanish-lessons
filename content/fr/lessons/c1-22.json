@@ -278,7 +278,8 @@
    "type": "fill",
    "prompt": "Le taux de chômage s'___ à sept pour cent.",
    "answers": [
-    "établit"
+    "établit",
+    "élève"
    ],
    "hint": "stands at seven per cent."
   },
