@@ -177,3 +177,7 @@ reader: state, not narrative.
 
 ## 2026-10-17 — Push approved by Clara
 - Clara said "push it first"; pushed master (French A1–B1, B2 1–12, Polyglotte app and checks) to ctsapugay/spanish-lessons.
+
+## 2026-10-17 — Goal-mode run: French B2 completed
+- Clara set goal mode to finish everything (all 148 French lessons, reviews, verify green, G1–G13 evidence, README). Scratchpad converter was lost between sessions → added scripts/fr_text2json.py (the lesson-writing converter) to the repo.
+- B2 lessons b2-13 … b2-30 written; each batch passed check_content --lang fr and check_french_accuracy before commit. Review curriculum/fr/reviews/B2.md: 11 findings with fixes, 99 lexicon notes in total.

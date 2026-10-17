@@ -14,7 +14,7 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
-**Updated:** 2026-10-03
-**Now:** French A1, A2, B1 done (92 lessons + reviews). B2 b2-01…b2-12 written, checked and committed (curriculum/fr/reviews/B2.md has lexicon notes only). App, tooling, CHK-008 done.
-**Next:** B2 b2-13…b2-30 (outline in content/fr/course.json), B2 review; C1 c1-01…c1-26, C1 review; then full `python3 tools/verify.py`, criteria G7–G13 evidence (incl. browser hand checks), README numbers, log.
-**Watch:** Lessons are authored as JSON in content/fr/lessons/ (a scratch text converter was used; it is not in the repo — write JSON directly or recreate a converter). No bold inside italic French; no invented forms as distractors; no English in fill prompts or French MC options; teach every form used; names/abbreviations need lexicon notes. Commit only when checks pass. Never push without Clara.
+**Updated:** 2026-10-17
+**Now:** Goal mode (finish everything). French A1–B2 done (122 lessons + 4 reviews). C1 next.
+**Next:** C1 c1-01…c1-26 → C1 review → `python3 tools/verify.py` all green → criteria G7–G13 evidence (browser hand checks) → README counts → log, commit.
+**Watch:** Write lessons with scripts/fr_text2json.py from text files; no bold inside italic French; no invented forms as distractors; no English in fill prompts or French options; teach every form used; names/abbreviations need lexicon notes. Commit only when checks pass. Never push.
