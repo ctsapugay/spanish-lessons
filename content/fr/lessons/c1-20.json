@@ -1,0 +1,358 @@
+{
+ "sections": [
+  {
+   "heading": "Quoting precisely",
+   "body": "In French typography, quotations go in *guillemets* « … » with a no-break space inside: *Il a déclaré : « Je ne me représenterai pas. »* Inside a quotation, a second level uses English-style quotation marks \" … \". A quotation woven into your own sentence must fit its grammar: *Selon lui, la réforme est « indispensable ».*"
+  },
+  {
+   "heading": "Reporting verbs with nuance",
+   "body": "*dire* is neutral; at C1 choose a verb that shows the speaker's attitude:\n- neutral: *déclarer*, *indiquer*, *préciser* (to specify), *rappeler* (to point out again)\n- certainty: *affirmer*, *assurer*, *soutenir* (to maintain), *certifier*\n- claim the reporter doubts: *prétendre* (to claim) — *Il prétend avoir tout lu.* (He claims to have read it all — and I doubt it.)\n- admission: *reconnaître*, *admettre*, *avouer* (to confess)\n- disagreement: *contester*, *démentir* (to deny a report), *nier* (to deny)\n- complaint: *déplorer*, *regretter*, *se plaindre que*\n- warning: *avertir*, *mettre en garde contre*"
+  },
+  {
+   "heading": "Distancing: the journalistic conditional",
+   "body": "To report a fact without vouching for it, French uses the conditional: *Le ministre aurait démissionné.* (The minister has reportedly resigned.) — *Selon nos informations, l'accord serait signé demain.* Other distancing phrases: *d'après*, *selon*, *à en croire* (if we are to believe), *il semblerait que*, *prétendument* (allegedly)."
+  },
+  {
+   "heading": "Free indirect speech",
+   "body": "In literature, *le discours indirect libre* blends the narrator's voice and a character's thoughts with no *dit-il* or *que*: *Elle regarda par la fenêtre. Il ne viendrait plus, c'était évident. Pourquoi l'avait-elle cru ?* — tenses shift as in reported speech, but the character's exclamations and questions remain."
+  }
+ ],
+ "vocab": [
+  [
+   "les guillemets",
+   "quotation marks",
+   "le ɡij.mɛ",
+   "m"
+  ],
+  [
+   "déclarer",
+   "to declare, to state",
+   "de.kla.ʁe"
+  ],
+  [
+   "affirmer",
+   "to assert",
+   "a.fiʁ.me"
+  ],
+  [
+   "soutenir",
+   "to maintain, to support",
+   "sut.niʁ"
+  ],
+  [
+   "prétendre",
+   "to claim",
+   "pʁe.tɑ̃dʁ"
+  ],
+  [
+   "reconnaître",
+   "to acknowledge",
+   "ʁə.kɔ.nɛtʁ"
+  ],
+  [
+   "avouer",
+   "to confess",
+   "a.vwe"
+  ],
+  [
+   "contester",
+   "to dispute",
+   "kɔ̃.tɛs.te"
+  ],
+  [
+   "démentir",
+   "to deny (a report)",
+   "de.mɑ̃.tiʁ"
+  ],
+  [
+   "nier",
+   "to deny",
+   "nje"
+  ],
+  [
+   "déplorer",
+   "to deplore",
+   "de.plɔ.ʁe"
+  ],
+  [
+   "avertir",
+   "to warn",
+   "a.vɛʁ.tiʁ"
+  ],
+  [
+   "à en croire",
+   "if we are to believe",
+   "a ɑ̃ kʁwaʁ"
+  ],
+  [
+   "prétendument",
+   "allegedly",
+   "pʁe.tɑ̃.dy.mɑ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Il a déclaré : « Je ne me représenterai pas. »",
+   "He stated: \"I will not stand again.\""
+  ],
+  [
+   "Selon lui, la réforme est « indispensable ».",
+   "According to him, the reform is \"essential\"."
+  ],
+  [
+   "Elle affirme qu'elle n'était pas au courant.",
+   "She asserts that she wasn't aware."
+  ],
+  [
+   "Il prétend avoir tout lu.",
+   "He claims to have read it all."
+  ],
+  [
+   "Le directeur a reconnu ses erreurs.",
+   "The director acknowledged his mistakes."
+  ],
+  [
+   "Le gouvernement dément ces rumeurs.",
+   "The government denies these rumours."
+  ],
+  [
+   "Il nie avoir reçu de l'argent.",
+   "He denies having received money."
+  ],
+  [
+   "L'association déplore le manque de moyens.",
+   "The association deplores the lack of resources."
+  ],
+  [
+   "Les médecins mettent en garde contre l'abus de sucre.",
+   "Doctors warn against too much sugar."
+  ],
+  [
+   "Le ministre aurait démissionné ce matin.",
+   "The minister has reportedly resigned this morning."
+  ],
+  [
+   "Selon nos informations, l'accord serait signé demain.",
+   "According to our information, the agreement is said to be signed tomorrow."
+  ],
+  [
+   "À en croire la presse, le projet est abandonné.",
+   "If the press is to be believed, the project has been dropped."
+  ],
+  [
+   "Elle regarda par la fenêtre. Il ne viendrait plus, c'était évident.",
+   "She looked out of the window. He wouldn't come now, that was obvious."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Il prétend avoir tout lu* suggests the reporter…",
+   "options": [
+    "doubts it",
+    "agrees completely",
+    "is the speaker"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le ministre aurait démissionné* means…",
+   "options": [
+    "The minister has reportedly resigned",
+    "The minister would resign",
+    "The minister should resign"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*démentir* means…",
+   "options": [
+    "to deny a report",
+    "to lie",
+    "to remind"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*avouer* means…",
+   "options": [
+    "to confess",
+    "to vow",
+    "to avoid"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à en croire la presse* means…",
+   "options": [
+    "if the press is to be believed",
+    "to believe in the press",
+    "to trust the press fully"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*mettre en garde contre* means…",
+   "options": [
+    "to warn against",
+    "to put on guard duty",
+    "to protect against"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "French quotation marks are…",
+   "options": [
+    "« … »",
+    "\" … \" only",
+    "' … '"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le discours indirect libre* is found mainly in…",
+   "options": [
+    "literature",
+    "legal contracts",
+    "weather reports"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*soutenir que* means…",
+   "options": [
+    "to maintain that",
+    "to support someone physically",
+    "to hold up"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*prétendument* means…",
+   "options": [
+    "allegedly",
+    "pretentiously",
+    "presently"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a ___ : « Je ne me représenterai pas. »",
+   "answers": [
+    "déclaré"
+   ],
+   "hint": "He stated…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ avoir tout lu.",
+   "answers": [
+    "prétend"
+   ],
+   "hint": "He claims to have read it all."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le directeur a ___ ses erreurs. (reconnaître)",
+   "answers": [
+    "reconnu"
+   ],
+   "hint": "acknowledged his mistakes."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le gouvernement ___ ces rumeurs. (démentir)",
+   "answers": [
+    "dément"
+   ],
+   "hint": "denies these rumours."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ avoir reçu de l'argent. (nier)",
+   "answers": [
+    "nie"
+   ],
+   "hint": "He denies having received money."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'association ___ le manque de moyens.",
+   "answers": [
+    "déplore"
+   ],
+   "hint": "deplores the lack of resources."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ministre ___ démissionné ce matin.",
+   "answers": [
+    "aurait"
+   ],
+   "hint": "The minister has reportedly resigned (avoir, conditional)."
+  },
+  {
+   "type": "fill",
+   "prompt": "Selon nos informations, l'accord ___ signé demain. (être)",
+   "answers": [
+    "serait"
+   ],
+   "hint": "is said to be signed tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "À en ___ la presse, le projet est abandonné.",
+   "answers": [
+    "croire"
+   ],
+   "hint": "If the press is to be believed…"
+  },
+  {
+   "type": "translate",
+   "prompt": "He denies having received money.",
+   "answers": [
+    "Il nie avoir reçu de l'argent.",
+    "Il nie avoir touché de l'argent."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The minister has reportedly resigned.",
+   "answers": [
+    "Le ministre aurait démissionné."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She acknowledged her mistakes.",
+   "answers": [
+    "Elle a reconnu ses erreurs."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"According to our information, the agreement is said to be signed tomorrow.\"",
+   "answer": "Selon nos informations, l'accord serait signé demain."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Doctors warn against too much sugar.\"",
+   "answer": "Les médecins mettent en garde contre l'abus de sucre."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"If the press is to be believed, the project has been dropped.\"",
+   "answer": "À en croire la presse, le projet est abandonné."
+  }
+ ]
+}

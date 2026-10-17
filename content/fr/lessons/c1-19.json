@@ -1,0 +1,373 @@
+{
+ "sections": [
+  {
+   "heading": "Why idioms matter at C1",
+   "body": "At C1 you are expected to understand idiomatic expressions (*les expressions idiomatiques*) and use some of them naturally. Many come from the body, food and animals, and their meaning can't be guessed word by word. Use them sparingly in formal writing; they belong mostly in speech and journalism."
+  },
+  {
+   "heading": "The body",
+   "body": "- *avoir le cœur sur la main* — to be very generous\n- *coûter les yeux de la tête* — to cost an arm and a leg\n- *mettre les pieds dans le plat* — to put one's foot in it; to raise a touchy subject bluntly\n- *se creuser la tête* — to rack one's brains\n- *avoir un poil dans la main* — to be lazy (literally a hair in one's hand)\n- *tenir tête à quelqu'un* — to stand up to someone"
+  },
+  {
+   "heading": "Food and animals",
+   "body": "- *ce n'est pas ma tasse de thé* — it's not my cup of tea\n- *raconter des salades* — to tell tall stories\n- *tomber dans les pommes* — to faint\n- *avoir d'autres chats à fouetter* — to have bigger fish to fry\n- *poser un lapin à quelqu'un* — to stand someone up\n- *quand les poules auront des dents* — when pigs fly"
+  },
+  {
+   "heading": "Other everyday idioms",
+   "body": "- *passer du coq à l'âne* — to jump from one subject to another\n- *tourner autour du pot* — to beat about the bush\n- *avoir la grosse tête* — to be big-headed\n- *mettre la main à la pâte* — to pitch in, to lend a hand\n- *ne pas être dans son assiette* — to feel out of sorts\n- *casser les pieds à quelqu'un* (familiar) — to annoy someone\n\nWatch the register: *casser les pieds* is familiar; *tenir tête* and *mettre les pieds dans le plat* are fine in most contexts."
+  }
+ ],
+ "vocab": [
+  [
+   "l'expression idiomatique",
+   "the idiom",
+   "lɛk.spʁɛ.sjɔ̃ i.djɔ.ma.tik",
+   "f"
+  ],
+  [
+   "généreux / généreuse",
+   "generous",
+   "ʒe.ne.ʁø / ʒe.ne.ʁøz"
+  ],
+  [
+   "creuser",
+   "to dig",
+   "kʁø.ze"
+  ],
+  [
+   "le poil",
+   "the hair (of the body), the fur",
+   "lə pwal"
+  ],
+  [
+   "la tasse",
+   "the cup",
+   "la tas"
+  ],
+  [
+   "la salade",
+   "the salad; (fig.) a tall story",
+   "la sa.lad"
+  ],
+  [
+   "fouetter",
+   "to whip",
+   "fwɛ.te"
+  ],
+  [
+   "le lapin",
+   "the rabbit",
+   "lə la.pɛ̃"
+  ],
+  [
+   "la poule",
+   "the hen",
+   "la pul"
+  ],
+  [
+   "le coq",
+   "the rooster",
+   "lə kɔk"
+  ],
+  [
+   "l'âne",
+   "the donkey",
+   "lɑn",
+   "m"
+  ],
+  [
+   "le pot",
+   "the pot",
+   "lə po"
+  ],
+  [
+   "la pâte",
+   "the dough",
+   "la pɑt"
+  ],
+  [
+   "l'assiette",
+   "the plate",
+   "la.sjɛt",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Il a le cœur sur la main : il aide tout le monde.",
+   "He's very generous: he helps everyone."
+  ],
+  [
+   "Cette voiture coûte les yeux de la tête.",
+   "This car costs an arm and a leg."
+  ],
+  [
+   "Elle a mis les pieds dans le plat en parlant de son divorce.",
+   "She put her foot in it by talking about his divorce."
+  ],
+  [
+   "Je me suis creusé la tête toute la journée.",
+   "I racked my brains all day."
+  ],
+  [
+   "Il a un poil dans la main : il ne fait jamais rien.",
+   "He's bone idle: he never does anything."
+  ],
+  [
+   "Le jazz, ce n'est pas ma tasse de thé.",
+   "Jazz isn't my cup of tea."
+  ],
+  [
+   "Arrête de raconter des salades !",
+   "Stop telling tall stories!"
+  ],
+  [
+   "Il faisait si chaud qu'elle est tombée dans les pommes.",
+   "It was so hot she fainted."
+  ],
+  [
+   "J'ai d'autres chats à fouetter.",
+   "I have bigger fish to fry."
+  ],
+  [
+   "Il m'a posé un lapin hier soir.",
+   "He stood me up last night."
+  ],
+  [
+   "Il rangera sa chambre quand les poules auront des dents.",
+   "He'll tidy his room when pigs fly."
+  ],
+  [
+   "Arrête de tourner autour du pot et dis-moi la vérité.",
+   "Stop beating about the bush and tell me the truth."
+  ],
+  [
+   "Tout le monde a mis la main à la pâte.",
+   "Everyone pitched in."
+  ],
+  [
+   "Je ne suis pas dans mon assiette aujourd'hui.",
+   "I feel out of sorts today."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*avoir le cœur sur la main* means…",
+   "options": [
+    "to be very generous",
+    "to have a heart attack",
+    "to be in love"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*coûter les yeux de la tête* means…",
+   "options": [
+    "to cost an arm and a leg",
+    "to hurt the eyes",
+    "to be cheap"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*poser un lapin* means…",
+   "options": [
+    "to stand someone up",
+    "to cook a rabbit",
+    "to ask a silly question"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*tomber dans les pommes* means…",
+   "options": [
+    "to faint",
+    "to fall in love",
+    "to go shopping"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*quand les poules auront des dents* means…",
+   "options": [
+    "when pigs fly",
+    "at dawn",
+    "very soon"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*tourner autour du pot* means…",
+   "options": [
+    "to beat about the bush",
+    "to cook slowly",
+    "to go round in circles on a road"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*passer du coq à l'âne* means…",
+   "options": [
+    "to jump from one subject to another",
+    "to move to the country",
+    "to change jobs"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*ne pas être dans son assiette* means…",
+   "options": [
+    "to feel out of sorts",
+    "to be on a diet",
+    "to be hungry"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which idiom is familiar in register?",
+   "options": [
+    "casser les pieds à quelqu'un",
+    "tenir tête à quelqu'un",
+    "mettre la main à la pâte"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*avoir un poil dans la main* describes someone who is…",
+   "options": [
+    "lazy",
+    "hairy",
+    "generous"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Cette voiture coûte les yeux de la ___.",
+   "answers": [
+    "tête"
+   ],
+   "hint": "costs an arm and a leg."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me suis ___ la tête toute la journée.",
+   "answers": [
+    "creusé"
+   ],
+   "hint": "I racked my brains all day."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le jazz, ce n'est pas ma tasse de ___.",
+   "answers": [
+    "thé"
+   ],
+   "hint": "not my cup of tea."
+  },
+  {
+   "type": "fill",
+   "prompt": "Arrête de raconter des ___ !",
+   "answers": [
+    "salades"
+   ],
+   "hint": "Stop telling tall stories!"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai d'autres chats à ___.",
+   "answers": [
+    "fouetter"
+   ],
+   "hint": "I have bigger fish to fry."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il m'a posé un ___ hier soir.",
+   "answers": [
+    "lapin"
+   ],
+   "hint": "He stood me up last night."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a mis les pieds dans le ___.",
+   "answers": [
+    "plat"
+   ],
+   "hint": "She put her foot in it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tout le monde a mis la main à la ___.",
+   "answers": [
+    "pâte"
+   ],
+   "hint": "Everyone pitched in."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne suis pas dans mon ___ aujourd'hui.",
+   "answers": [
+    "assiette"
+   ],
+   "hint": "I feel out of sorts today."
+  },
+  {
+   "type": "translate",
+   "prompt": "It's not my cup of tea.",
+   "answers": [
+    "Ce n'est pas ma tasse de thé."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He stood me up.",
+   "answers": [
+    "Il m'a posé un lapin."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Stop beating about the bush!",
+   "answers": [
+    "Arrête de tourner autour du pot !",
+    "Arrêtez de tourner autour du pot !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She fainted.",
+   "answers": [
+    "Elle est tombée dans les pommes.",
+    "Elle s'est évanouie."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He'll tidy his room when pigs fly.\"",
+   "answer": "Il rangera sa chambre quand les poules auront des dents."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Stop beating about the bush and tell me the truth.\"",
+   "answer": "Arrête de tourner autour du pot et dis-moi la vérité."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He's very generous.\"",
+   "answer": "Il a le cœur sur la main."
+  }
+ ]
+}

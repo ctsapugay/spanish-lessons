@@ -1,0 +1,375 @@
+{
+ "sections": [
+  {
+   "heading": "The French state",
+   "body": "France is a republic (*la Cinquième République*, since 1958) with a strong president:\n- *le président de la République* — elected by direct universal suffrage (*au suffrage universel direct*) for five years (*le quinquennat*); lives at the Élysée.\n- *le Premier ministre* — appointed by the president, heads the government (*le gouvernement*), based at Matignon.\n- *le Parlement* — two chambers: *l'Assemblée nationale* (*les députés*, elected) and *le Sénat* (*les sénateurs*, elected indirectly).\n- *le Conseil constitutionnel* — checks that laws respect the Constitution.\n\nLocal level: *la commune* (*le maire*), *le département*, *la région*."
+  },
+  {
+   "heading": "Elections and politics",
+   "body": "*voter*, *une élection*, *le scrutin* (the ballot), *le premier / second tour* (first / second round), *un candidat*, *une campagne électorale*, *l'abstention* (not voting), *un bulletin de vote* (a ballot paper), *l'urne* (the ballot box). Political spectrum: *la gauche*, *la droite*, *le centre*, *l'extrême droite / gauche*. *Un parti*, *la majorité*, *l'opposition*, *une coalition*."
+  },
+  {
+   "heading": "Making laws",
+   "body": "*un projet de loi* (a government bill) — *une proposition de loi* (a bill from MPs) — *déposer* (to table), *débattre*, *amender*, *adopter*, *voter une loi* — *promulguer* (to enact). *Le gouvernement a engagé sa responsabilité* (used the confidence procedure) — *une motion de censure* (a motion of no confidence)."
+  },
+  {
+   "heading": "Talking about politics",
+   "body": "*La réforme divise l'opinion.* — *Le gouvernement fait face à une forte contestation.* — *Les syndicats appellent à la grève.* (call a strike) — *Le président a dissous l'Assemblée.* (dissolved) — *La cohabitation* (a president and prime minister from opposite sides)."
+  }
+ ],
+ "vocab": [
+  [
+   "la République",
+   "the Republic",
+   "la ʁe.py.blik"
+  ],
+  [
+   "le suffrage",
+   "the vote, suffrage",
+   "lə sy.fʁaʒ"
+  ],
+  [
+   "le quinquennat",
+   "the five-year term",
+   "lə kɥɛ̃.ke.na"
+  ],
+  [
+   "le gouvernement",
+   "the government",
+   "lə ɡu.vɛʁ.nə.mɑ̃"
+  ],
+  [
+   "l'Assemblée nationale",
+   "the National Assembly",
+   "la.sɑ̃.ble na.sjɔ.nal",
+   "f"
+  ],
+  [
+   "le député / la députée",
+   "the MP",
+   "lə de.py.te / la de.py.te"
+  ],
+  [
+   "le Sénat",
+   "the Senate",
+   "lə se.na"
+  ],
+  [
+   "le maire / la maire",
+   "the mayor",
+   "lə mɛʁ / la mɛʁ"
+  ],
+  [
+   "le scrutin",
+   "the ballot, the vote",
+   "lə skʁy.tɛ̃"
+  ],
+  [
+   "le tour",
+   "the round",
+   "lə tuʁ"
+  ],
+  [
+   "l'abstention",
+   "abstention",
+   "lap.stɑ̃.sjɔ̃",
+   "f"
+  ],
+  [
+   "le bulletin de vote",
+   "the ballot paper",
+   "lə byl.tɛ̃ də vɔt"
+  ],
+  [
+   "l'urne",
+   "the ballot box",
+   "lyʁn",
+   "f"
+  ],
+  [
+   "le projet de loi",
+   "the bill",
+   "lə pʁɔ.ʒɛ də lwa"
+  ],
+  [
+   "promulguer",
+   "to enact",
+   "pʁɔ.myl.ɡe"
+  ],
+  [
+   "la motion de censure",
+   "the motion of no confidence",
+   "la mo.sjɔ̃ də sɑ̃.syʁ"
+  ],
+  [
+   "le syndicat",
+   "the trade union",
+   "lə sɛ̃.di.ka"
+  ]
+ ],
+ "examples": [
+  [
+   "Le président est élu au suffrage universel direct.",
+   "The president is elected by direct universal suffrage."
+  ],
+  [
+   "Le quinquennat a remplacé le septennat en 2000.",
+   "The five-year term replaced the seven-year term in 2000."
+  ],
+  [
+   "Le Premier ministre dirige le gouvernement.",
+   "The prime minister heads the government."
+  ],
+  [
+   "Les députés siègent à l'Assemblée nationale.",
+   "MPs sit in the National Assembly."
+  ],
+  [
+   "Le maire a été réélu au premier tour.",
+   "The mayor was re-elected in the first round."
+  ],
+  [
+   "L'abstention a atteint un niveau record.",
+   "Abstention reached a record level."
+  ],
+  [
+   "Les électeurs déposent leur bulletin dans l'urne.",
+   "Voters put their ballot paper in the ballot box."
+  ],
+  [
+   "Le projet de loi a été adopté par le Parlement.",
+   "The bill was passed by Parliament."
+  ],
+  [
+   "La loi a été promulguée la semaine dernière.",
+   "The law was enacted last week."
+  ],
+  [
+   "L'opposition a déposé une motion de censure.",
+   "The opposition tabled a motion of no confidence."
+  ],
+  [
+   "La réforme divise l'opinion.",
+   "The reform divides public opinion."
+  ],
+  [
+   "Les syndicats appellent à la grève.",
+   "The unions are calling a strike."
+  ],
+  [
+   "Le président a dissous l'Assemblée.",
+   "The president dissolved the Assembly."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*le quinquennat* is…",
+   "options": [
+    "the five-year presidential term",
+    "a five-party coalition",
+    "a five-year plan"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The president of France lives at…",
+   "options": [
+    "l'Élysée",
+    "Matignon",
+    "le Sénat"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The prime minister is based at…",
+   "options": [
+    "Matignon",
+    "l'Élysée",
+    "l'Assemblée nationale"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les députés* sit in…",
+   "options": [
+    "l'Assemblée nationale",
+    "le Sénat",
+    "le Conseil constitutionnel"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'abstention* means…",
+   "options": [
+    "not voting",
+    "voting against",
+    "voting twice"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une motion de censure* is…",
+   "options": [
+    "a motion of no confidence",
+    "a censorship law",
+    "a bill on the press"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un projet de loi* comes from…",
+   "options": [
+    "the government",
+    "MPs",
+    "the mayor"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*promulguer une loi* means…",
+   "options": [
+    "to enact a law",
+    "to propose a law",
+    "to repeal a law"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la cohabitation* means…",
+   "options": [
+    "president and prime minister from opposite sides",
+    "living together",
+    "a coalition of parties"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Les syndicats appellent à la grève* means…",
+   "options": [
+    "The unions are calling a strike",
+    "The unions are phoning the beach",
+    "The unions are against the strike"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le président est élu au ___ universel direct.",
+   "answers": [
+    "suffrage"
+   ],
+   "hint": "by direct universal suffrage."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le Premier ministre dirige le ___.",
+   "answers": [
+    "gouvernement"
+   ],
+   "hint": "heads the government."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les ___ siègent à l'Assemblée nationale.",
+   "answers": [
+    "députés"
+   ],
+   "hint": "MPs sit in the National Assembly."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le maire a été réélu au premier ___.",
+   "answers": [
+    "tour"
+   ],
+   "hint": "in the first round."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'___ a atteint un niveau record.",
+   "answers": [
+    "abstention"
+   ],
+   "hint": "Abstention reached a record level."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les électeurs déposent leur bulletin dans l'___.",
+   "answers": [
+    "urne"
+   ],
+   "hint": "in the ballot box."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le projet de ___ a été adopté par le Parlement.",
+   "answers": [
+    "loi"
+   ],
+   "hint": "The bill was passed."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'opposition a déposé une motion de ___.",
+   "answers": [
+    "censure"
+   ],
+   "hint": "a motion of no confidence."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les ___ appellent à la grève.",
+   "answers": [
+    "syndicats"
+   ],
+   "hint": "The unions are calling a strike."
+  },
+  {
+   "type": "translate",
+   "prompt": "The reform divides public opinion.",
+   "answers": [
+    "La réforme divise l'opinion."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "the second round",
+   "answers": [
+    "le second tour",
+    "le deuxième tour"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The bill was passed.",
+   "answers": [
+    "Le projet de loi a été adopté."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The president is elected by direct universal suffrage.\"",
+   "answer": "Le président est élu au suffrage universel direct."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The opposition tabled a motion of no confidence.\"",
+   "answer": "L'opposition a déposé une motion de censure."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Voters put their ballot paper in the ballot box.\"",
+   "answer": "Les électeurs déposent leur bulletin dans l'urne."
+  }
+ ]
+}
