@@ -1,0 +1,367 @@
+{
+ "sections": [
+  {
+   "heading": "More ways to give a cause",
+   "body": "Beyond *parce que*, *car*, *comme* and *grâce à* (B1), formal and written French uses:\n\n- *en raison de* + noun — owing to (official): *Le vol est retardé en raison du brouillard.* (fog)\n- *du fait de* + noun / *du fait que* + indicative — because of the fact (that): *Du fait de sa maladie, il a dû abandonner.*\n- *faute de* + noun / infinitive — for lack of: *Faute de moyens, le projet a été abandonné.*\n- *à force de* + noun / infinitive — through repeated effort: *À force de travailler, il a réussi.* (By working so hard…)\n- *sous prétexte de* + infinitive / *que* + indicative — on the pretext of: *Il est parti sous prétexte qu'il était fatigué.*\n- *de peur de* / *de crainte de* + infinitive — for fear of: *Il n'a rien dit de peur de la vexer.*\n- *étant donné que* / *vu que* + indicative — given that: *Étant donné qu'il pleut, on reste.*"
+  },
+  {
+   "heading": "More ways to give a consequence",
+   "body": "- *si bien que* + indicative — so (that), with the result that: *Il a beaucoup plu, si bien que la rivière a débordé.* (the river burst its banks)\n- *de sorte que* / *de façon que* + indicative — so that (result): *Il a parlé fort, de sorte que tout le monde l'a entendu.* (With the subjunctive, *de sorte que* expresses purpose: *Parle fort de sorte que tout le monde t'entende.*)\n- *tellement / si* + adjective / adverb + *que* — so … that: *Il était tellement fatigué qu'il s'est endormi.*\n- *tellement de / tant de* + noun + *que* — so much / many … that: *Il y avait tant de monde qu'on ne pouvait pas bouger.*\n- *ainsi* — thus; *c'est pourquoi*; *de ce fait* (as a result); *en conséquence*: *Les prix ont augmenté ; de ce fait, la demande a baissé.*"
+  }
+ ],
+ "vocab": [
+  [
+   "en raison de",
+   "owing to",
+   "ɑ̃ ʁɛ.zɔ̃ də"
+  ],
+  [
+   "du fait de",
+   "because of",
+   "dy fɛ də"
+  ],
+  [
+   "faute de",
+   "for lack of",
+   "fot də"
+  ],
+  [
+   "à force de",
+   "through (repeated effort)",
+   "a fɔʁs də"
+  ],
+  [
+   "sous prétexte de",
+   "on the pretext of",
+   "su pʁe.tɛkst də"
+  ],
+  [
+   "étant donné que",
+   "given that",
+   "e.tɑ̃ dɔ.ne kə"
+  ],
+  [
+   "vu que",
+   "seeing that, since",
+   "vy kə"
+  ],
+  [
+   "si bien que",
+   "so that, with the result that",
+   "si bjɛ̃ kə"
+  ],
+  [
+   "de sorte que",
+   "so that",
+   "də sɔʁt kə"
+  ],
+  [
+   "tellement… que",
+   "so … that",
+   "tɛl.mɑ̃ kə"
+  ],
+  [
+   "tant de",
+   "so much, so many",
+   "tɑ̃ də"
+  ],
+  [
+   "de ce fait",
+   "as a result",
+   "də sə fɛ"
+  ],
+  [
+   "le brouillard",
+   "fog",
+   "lə bʁu.jaʁ"
+  ],
+  [
+   "déborder",
+   "to overflow",
+   "de.bɔʁ.de"
+  ],
+  [
+   "vexer",
+   "to offend, to upset",
+   "vɛk.se"
+  ]
+ ],
+ "examples": [
+  [
+   "Le vol est retardé en raison du brouillard.",
+   "The flight is delayed owing to fog."
+  ],
+  [
+   "Faute de moyens, le projet a été abandonné.",
+   "For lack of funds, the project was abandoned."
+  ],
+  [
+   "À force de travailler, il a réussi.",
+   "By working so hard, he succeeded."
+  ],
+  [
+   "Il est parti sous prétexte qu'il était fatigué.",
+   "He left on the pretext that he was tired."
+  ],
+  [
+   "Il n'a rien dit de peur de la vexer.",
+   "He said nothing for fear of upsetting her."
+  ],
+  [
+   "Étant donné qu'il pleut, on reste à la maison.",
+   "Given that it's raining, we're staying home."
+  ],
+  [
+   "Il a beaucoup plu, si bien que la rivière a débordé.",
+   "It rained a lot, so the river burst its banks."
+  ],
+  [
+   "Il a parlé fort, de sorte que tout le monde l'a entendu.",
+   "He spoke loudly, so everyone heard him."
+  ],
+  [
+   "Il était tellement fatigué qu'il s'est endormi.",
+   "He was so tired he fell asleep."
+  ],
+  [
+   "Il y avait tant de monde qu'on ne pouvait pas bouger.",
+   "There were so many people we couldn't move."
+  ],
+  [
+   "Les prix ont augmenté ; de ce fait, la demande a baissé.",
+   "Prices rose; as a result, demand fell."
+  ],
+  [
+   "Vu que tu es là, tu peux m'aider.",
+   "Given that you're here, you can help me."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Le vol est retardé ___ du brouillard.",
+   "options": [
+    "en raison",
+    "faute",
+    "à force"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ de moyens, le projet a été abandonné.",
+   "options": [
+    "Faute",
+    "À force",
+    "Grâce"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ de travailler, il a réussi.",
+   "options": [
+    "À force",
+    "Faute",
+    "Sous prétexte"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il était ___ fatigué qu'il s'est endormi.",
+   "options": [
+    "tellement",
+    "tant de",
+    "si bien"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il y avait ___ monde qu'on ne pouvait pas bouger.",
+   "options": [
+    "tant de",
+    "tellement",
+    "si"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il a beaucoup plu, ___ la rivière a débordé.",
+   "options": [
+    "si bien que",
+    "faute de",
+    "à force de"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*sous prétexte que* means…",
+   "options": [
+    "on the pretext that",
+    "under the protection that",
+    "before"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*de peur de la vexer* means…",
+   "options": [
+    "for fear of upsetting her",
+    "afraid of her",
+    "to scare her"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*de ce fait* means…",
+   "options": [
+    "as a result",
+    "of this fact only",
+    "by the way"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*de sorte que* + indicative expresses…",
+   "options": [
+    "a result",
+    "a purpose",
+    "a cause"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le vol est retardé en ___ du brouillard.",
+   "answers": [
+    "raison"
+   ],
+   "hint": "owing to fog."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ de moyens, le projet a été abandonné.",
+   "answers": [
+    "Faute"
+   ],
+   "hint": "For lack of funds…"
+  },
+  {
+   "type": "fill",
+   "prompt": "À ___ de travailler, il a réussi.",
+   "answers": [
+    "force"
+   ],
+   "hint": "By working so hard…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est parti sous ___ qu'il était fatigué.",
+   "answers": [
+    "prétexte"
+   ],
+   "hint": "on the pretext that he was tired."
+  },
+  {
+   "type": "fill",
+   "prompt": "Étant ___ qu'il pleut, on reste à la maison.",
+   "answers": [
+    "donné"
+   ],
+   "hint": "Given that it's raining…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a beaucoup plu, si ___ que la rivière a débordé.",
+   "answers": [
+    "bien"
+   ],
+   "hint": "so the river burst its banks."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il était ___ fatigué qu'il s'est endormi.",
+   "answers": [
+    "tellement",
+    "si"
+   ],
+   "hint": "He was so tired he fell asleep."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y avait ___ de monde qu'on ne pouvait pas bouger.",
+   "answers": [
+    "tant",
+    "tellement"
+   ],
+   "hint": "There were so many people…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Les prix ont augmenté ; de ce ___, la demande a baissé.",
+   "answers": [
+    "fait"
+   ],
+   "hint": "as a result, demand fell."
+  },
+  {
+   "type": "translate",
+   "prompt": "He was so tired that he fell asleep.",
+   "answers": [
+    "Il était tellement fatigué qu'il s'est endormi.",
+    "Il était si fatigué qu'il s'est endormi."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "For lack of time, I didn't finish.",
+   "answers": [
+    "Faute de temps, je n'ai pas fini."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Given that it's raining, we're staying.",
+   "answers": [
+    "Étant donné qu'il pleut, on reste.",
+    "Vu qu'il pleut, on reste.",
+    "Étant donné qu'il pleut, nous restons."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The flight is delayed owing to fog.",
+   "answers": [
+    "Le vol est retardé en raison du brouillard."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He said nothing for fear of upsetting her.\"",
+   "answer": "Il n'a rien dit de peur de la vexer."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"There were so many people we couldn't move.\"",
+   "answer": "Il y avait tant de monde qu'on ne pouvait pas bouger."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"By working so hard, he succeeded.\"",
+   "answer": "À force de travailler, il a réussi."
+  }
+ ]
+}

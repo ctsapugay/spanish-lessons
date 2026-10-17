@@ -1,0 +1,390 @@
+{
+ "sections": [
+  {
+   "heading": "A scale of certainty",
+   "body": "French offers many shades between \"sure\" and \"impossible\". From most to least certain:\n\nCareful: *sans doute* means **probably**, not \"without doubt\" — for real certainty say *sans aucun doute*.",
+   "table": {
+    "head": [
+     "Degree",
+     "Expressions",
+     "Mood"
+    ],
+    "rows": [
+     [
+      "certain",
+      "*Je suis sûr(e) / certain(e) que…*, *Il est évident que…*, *Sans aucun doute*, *Il est clair que…*",
+      "indicative"
+     ],
+     [
+      "probable",
+      "*Il est probable que…*, *Sans doute* (probably!), *Probablement*, *Je suppose que…*",
+      "indicative"
+     ],
+     [
+      "possible",
+      "*Il est possible que…*, *Il se peut que…*, *Peut-être que…*",
+      "subjunctive (but *peut-être que* + indicative)"
+     ],
+     [
+      "doubtful",
+      "*Je doute que…*, *Il est peu probable que…*, *Ça m'étonnerait que…* (I'd be surprised if…)",
+      "subjunctive"
+     ],
+     [
+      "impossible",
+      "*Il est impossible que…*, *Il est exclu que…* (it's out of the question)",
+      "subjunctive"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Adverbs and short answers",
+   "body": "- *certainement*, *sûrement* — surely, certainly (often just \"probably\" in speech)\n- *probablement*, *vraisemblablement* (in all likelihood), *apparemment* (apparently)\n- *peut-être* — perhaps; at the start of a sentence it either takes *que* (*Peut-être qu'il viendra*) or inversion in formal style (*Peut-être viendra-t-il*).\n- Short answers: *Sans doute.* — *Ça se peut.* (Could be.) — *J'en doute.* (I doubt it.) — *Ça m'étonnerait.* (I doubt it — \"that would surprise me\".) — *Certainement pas !*"
+  },
+  {
+   "heading": "Devoir for probability",
+   "body": "*Devoir* can express a strong guess: *Il doit être malade.* (He must be ill.) *Elle a dû oublier.* (She must have forgotten.) *Ils ont dû se perdre.* (They must have got lost.)"
+  }
+ ],
+ "vocab": [
+  [
+   "sans aucun doute",
+   "without any doubt",
+   "sɑ̃.z‿o.kœ̃ dut"
+  ],
+  [
+   "sans doute",
+   "probably (not \"without doubt\")",
+   "sɑ̃ dut"
+  ],
+  [
+   "probablement",
+   "probably",
+   "pʁɔ.ba.blə.mɑ̃"
+  ],
+  [
+   "vraisemblablement",
+   "in all likelihood",
+   "vʁɛ.sɑ̃.bla.blə.mɑ̃"
+  ],
+  [
+   "apparemment",
+   "apparently",
+   "a.pa.ʁa.mɑ̃"
+  ],
+  [
+   "sûrement",
+   "surely, probably",
+   "syʁ.mɑ̃"
+  ],
+  [
+   "supposer",
+   "to suppose",
+   "sy.po.ze"
+  ],
+  [
+   "ça m'étonnerait",
+   "I doubt it (it would surprise me)",
+   "sa me.tɔ.nʁɛ"
+  ],
+  [
+   "exclu / exclue",
+   "out of the question",
+   "ɛks.kly / ɛks.kly"
+  ],
+  [
+   "il doit être",
+   "he must be",
+   "il dwa.t‿ɛtʁ"
+  ],
+  [
+   "se perdre",
+   "to get lost",
+   "sə pɛʁdʁ"
+  ],
+  [
+   "l'hypothèse",
+   "the hypothesis",
+   "li.po.tɛz",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Je suis certaine qu'elle a raison.",
+   "I'm certain she's right."
+  ],
+  [
+   "Il est évident que le projet a pris du retard.",
+   "It's obvious the project is behind schedule."
+  ],
+  [
+   "Il viendra sans doute demain.",
+   "He'll probably come tomorrow."
+  ],
+  [
+   "Il a sans aucun doute raison.",
+   "He's right, without any doubt."
+  ],
+  [
+   "Il est possible qu'il y ait une grève.",
+   "There may be a strike."
+  ],
+  [
+   "Peut-être qu'il viendra.",
+   "Maybe he'll come."
+  ],
+  [
+   "Ça m'étonnerait qu'il accepte.",
+   "I doubt he'll accept."
+  ],
+  [
+   "Il est exclu que nous changions la date.",
+   "Changing the date is out of the question."
+  ],
+  [
+   "Il doit être malade, il n'est jamais en retard.",
+   "He must be ill; he's never late."
+  ],
+  [
+   "Elle a dû oublier notre rendez-vous.",
+   "She must have forgotten our appointment."
+  ],
+  [
+   "Apparemment, le magasin est fermé.",
+   "Apparently the shop is closed."
+  ],
+  [
+   "Tu crois qu'il va pleuvoir ? — Ça se peut.",
+   "Do you think it'll rain? — Could be."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*sans doute* means…",
+   "options": [
+    "probably",
+    "without any doubt",
+    "doubtless and certain"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "To say \"without any doubt\" you say…",
+   "options": [
+    "sans aucun doute",
+    "sans doute",
+    "sûrement pas"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ça m'étonnerait qu'il ___.",
+   "options": [
+    "accepte",
+    "accepte-t-il",
+    "acceptera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est exclu que nous ___ la date.",
+   "options": [
+    "changions",
+    "changeons",
+    "changerons"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Peut-être qu'il ___ demain.",
+   "options": [
+    "viendra",
+    "vienne",
+    "venant"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*peut-être que* takes the indicative."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est évident que le projet ___ du retard.",
+   "options": [
+    "a pris",
+    "ait pris",
+    "prenne"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il doit être malade* means…",
+   "options": [
+    "He must be ill",
+    "He has to be ill",
+    "He owes being ill"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Elle a dû oublier* means…",
+   "options": [
+    "She must have forgotten",
+    "She had to forget",
+    "She owes a memory"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is the least certain?",
+   "options": [
+    "Ça m'étonnerait.",
+    "Sans doute.",
+    "Il est évident que oui."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*apparemment* means…",
+   "options": [
+    "apparently",
+    "obviously",
+    "apparent to everyone"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis ___ qu'elle a raison.",
+   "answers": [
+    "certaine",
+    "sûre"
+   ],
+   "hint": "I'm certain she's right."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il viendra sans ___ demain.",
+   "answers": [
+    "doute"
+   ],
+   "hint": "He'll probably come tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a sans ___ doute raison.",
+   "answers": [
+    "aucun"
+   ],
+   "hint": "He's right, without any doubt."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est possible qu'il y ___ une grève. (avoir)",
+   "answers": [
+    "ait"
+   ],
+   "hint": "There may be a strike."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça m'___ qu'il accepte.",
+   "answers": [
+    "étonnerait"
+   ],
+   "hint": "I doubt he'll accept."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ être malade, il n'est jamais en retard. (devoir)",
+   "answers": [
+    "doit"
+   ],
+   "hint": "He must be ill."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a ___ oublier notre rendez-vous. (devoir)",
+   "answers": [
+    "dû"
+   ],
+   "hint": "She must have forgotten."
+  },
+  {
+   "type": "fill",
+   "prompt": "___, le magasin est fermé.",
+   "answers": [
+    "Apparemment"
+   ],
+   "hint": "Apparently the shop is closed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est ___ que nous changions la date.",
+   "answers": [
+    "exclu"
+   ],
+   "hint": "It's out of the question that we change the date."
+  },
+  {
+   "type": "translate",
+   "prompt": "He must be ill.",
+   "answers": [
+    "Il doit être malade."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She must have forgotten.",
+   "answers": [
+    "Elle a dû oublier."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I doubt it.",
+   "answers": [
+    "J'en doute.",
+    "Ça m'étonnerait."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Maybe he'll come.",
+   "answers": [
+    "Peut-être qu'il viendra.",
+    "Il viendra peut-être."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I doubt he'll accept.\"",
+   "answer": "Ça m'étonnerait qu'il accepte."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It's obvious the project is behind schedule.\"",
+   "answer": "Il est évident que le projet a pris du retard."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She must have forgotten our appointment.\"",
+   "answer": "Elle a dû oublier notre rendez-vous."
+  }
+ ]
+}

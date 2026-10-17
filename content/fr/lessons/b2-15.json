@@ -1,0 +1,370 @@
+{
+ "sections": [
+  {
+   "heading": "Opposition: contrasting two facts",
+   "body": "- *en revanche* / *par contre* — on the other hand (*en revanche* is more formal): *Le salaire est bas ; en revanche, les horaires sont souples.*\n- *alors que* / *tandis que* + indicative — whereas: *Il aime la mer, tandis que sa femme préfère la montagne.*\n- *contrairement à* + noun — unlike: *Contrairement à son frère, il est très calme.*\n- *à l'inverse* / *inversement* — conversely\n- *au lieu de* + infinitive — instead of: *Au lieu de te plaindre, agis !*"
+  },
+  {
+   "heading": "Concession: admitting an obstacle",
+   "body": "- *néanmoins*, *toutefois*, *cependant*, *pourtant* — nevertheless, however (in order from most to least formal: *néanmoins* and *toutefois* are written style): *Le projet est risqué ; toutefois, il mérite d'être tenté.*\n- *or* — now, yet: introduces a fact that challenges what precedes, typical of argument: *Il dit qu'il était chez lui. Or, son voisin l'a vu en ville.*\n- *quoique* / *bien que* + **subjunctive** — although: *Quoiqu'il soit jeune, il est très sage.*\n- *même si* + **indicative** — even if, even though: *Même si c'est difficile, je continue.*\n- *malgré* + noun — despite; *malgré tout* — all the same: *Malgré tout, je garde espoir.*\n- *avoir beau* + infinitive — however much (in vain): *J'ai beau essayer, je n'y arrive pas.* (However hard I try, I can't do it.)\n- *tout de même* / *quand même* — all the same\n- *certes… mais* — admittedly… but: *Certes, c'est cher, mais c'est de qualité.*"
+  },
+  {
+   "heading": "Mood check",
+   "body": "*bien que, quoique* → subjunctive; *même si, alors que, tandis que* → indicative; *malgré, contrairement à, au lieu de* → noun or infinitive."
+  }
+ ],
+ "vocab": [
+  [
+   "en revanche",
+   "on the other hand",
+   "ɑ̃ ʁə.vɑ̃ʃ"
+  ],
+  [
+   "tandis que",
+   "whereas",
+   "tɑ̃.di kə"
+  ],
+  [
+   "contrairement à",
+   "unlike, contrary to",
+   "kɔ̃.tʁɛʁ.mɑ̃ a"
+  ],
+  [
+   "au lieu de",
+   "instead of",
+   "o ljø də"
+  ],
+  [
+   "néanmoins",
+   "nevertheless",
+   "ne.ɑ̃.mwɛ̃"
+  ],
+  [
+   "toutefois",
+   "however",
+   "tut.fwa"
+  ],
+  [
+   "or",
+   "now, yet (in an argument)",
+   "ɔʁ"
+  ],
+  [
+   "quoique",
+   "although",
+   "kwa.kə"
+  ],
+  [
+   "malgré tout",
+   "all the same",
+   "mal.ɡʁe tu"
+  ],
+  [
+   "avoir beau",
+   "however much (in vain)",
+   "a.vwaʁ bo"
+  ],
+  [
+   "tout de même",
+   "still, even so",
+   "tu də mɛm"
+  ],
+  [
+   "souple",
+   "flexible",
+   "supl"
+  ],
+  [
+   "sage",
+   "wise; well-behaved",
+   "saʒ"
+  ],
+  [
+   "mériter",
+   "to deserve",
+   "me.ʁi.te"
+  ],
+  [
+   "l'espoir",
+   "hope",
+   "lɛs.pwaʁ",
+   "m"
+  ]
+ ],
+ "examples": [
+  [
+   "Le salaire est bas ; en revanche, les horaires sont souples.",
+   "The pay is low; on the other hand, the hours are flexible."
+  ],
+  [
+   "Il aime la mer, tandis que sa femme préfère la montagne.",
+   "He loves the sea, whereas his wife prefers the mountains."
+  ],
+  [
+   "Contrairement à son frère, il est très calme.",
+   "Unlike his brother, he's very calm."
+  ],
+  [
+   "Au lieu de te plaindre, agis !",
+   "Instead of complaining, act!"
+  ],
+  [
+   "Le projet est risqué ; toutefois, il mérite d'être tenté.",
+   "The project is risky; however, it deserves to be tried."
+  ],
+  [
+   "Il dit qu'il était chez lui. Or, son voisin l'a vu en ville.",
+   "He says he was at home. Yet his neighbour saw him in town."
+  ],
+  [
+   "Quoiqu'il soit jeune, il est très sage.",
+   "Although he's young, he's very wise."
+  ],
+  [
+   "Même si c'est difficile, je continue.",
+   "Even if it's difficult, I'm carrying on."
+  ],
+  [
+   "Malgré tout, je garde espoir.",
+   "All the same, I remain hopeful."
+  ],
+  [
+   "J'ai beau essayer, je n'y arrive pas.",
+   "However hard I try, I can't do it."
+  ],
+  [
+   "Certes, c'est cher, mais c'est de qualité.",
+   "Admittedly it's expensive, but it's good quality."
+  ],
+  [
+   "Il pleuvait ; néanmoins, nous sommes partis.",
+   "It was raining; nevertheless, we left."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Quoiqu'il ___ jeune, il est très sage.",
+   "options": [
+    "soit",
+    "est",
+    "sera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Même si c'___ difficile, je continue.",
+   "options": [
+    "est",
+    "soit",
+    "sera toujours"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ à son frère, il est très calme.",
+   "options": [
+    "Contrairement",
+    "Tandis",
+    "Au lieu"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai ___ essayer, je n'y arrive pas.",
+   "options": [
+    "beau",
+    "bien",
+    "beaucoup"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ de te plaindre, agis !",
+   "options": [
+    "Au lieu",
+    "Contrairement",
+    "Malgré"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*or* in an argument means…",
+   "options": [
+    "now, yet (a challenging fact)",
+    "or (choice)",
+    "gold"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*néanmoins* is…",
+   "options": [
+    "formal: nevertheless",
+    "casual: anyway",
+    "a cause"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*avoir beau faire* means…",
+   "options": [
+    "to do something in vain, however much",
+    "to be good at doing",
+    "to look nice doing"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*tandis que* means…",
+   "options": [
+    "whereas",
+    "while waiting",
+    "as long as"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which takes the subjunctive?",
+   "options": [
+    "quoique",
+    "même si",
+    "tandis que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le salaire est bas ; en ___, les horaires sont souples.",
+   "answers": [
+    "revanche"
+   ],
+   "hint": "on the other hand…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il aime la mer, ___ que sa femme préfère la montagne.",
+   "answers": [
+    "tandis",
+    "alors"
+   ],
+   "hint": "whereas his wife prefers the mountains."
+  },
+  {
+   "type": "fill",
+   "prompt": "Contrairement ___ son frère, il est très calme.",
+   "answers": [
+    "à"
+   ],
+   "hint": "Unlike his brother…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le projet est risqué ; ___, il mérite d'être tenté.",
+   "answers": [
+    "toutefois",
+    "néanmoins",
+    "cependant"
+   ],
+   "hint": "however…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il dit qu'il était chez lui. ___, son voisin l'a vu en ville.",
+   "answers": [
+    "Or"
+   ],
+   "hint": "Yet his neighbour saw him in town."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quoiqu'il ___ jeune, il est très sage. (être)",
+   "answers": [
+    "soit"
+   ],
+   "hint": "Although he's young…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Malgré ___, je garde espoir.",
+   "answers": [
+    "tout"
+   ],
+   "hint": "All the same, I remain hopeful."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai ___ essayer, je n'y arrive pas.",
+   "answers": [
+    "beau"
+   ],
+   "hint": "However hard I try…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___, c'est cher, mais c'est de qualité.",
+   "answers": [
+    "Certes"
+   ],
+   "hint": "Admittedly it's expensive…"
+  },
+  {
+   "type": "translate",
+   "prompt": "Unlike his brother, he is calm.",
+   "answers": [
+    "Contrairement à son frère, il est calme."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "However hard I try, I can't do it.",
+   "answers": [
+    "J'ai beau essayer, je n'y arrive pas."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Even if it's difficult, I'm carrying on.",
+   "answers": [
+    "Même si c'est difficile, je continue."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Instead of complaining, act! (to a friend)",
+   "answers": [
+    "Au lieu de te plaindre, agis !"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The project is risky; however, it deserves to be tried.\"",
+   "answer": "Le projet est risqué ; toutefois, il mérite d'être tenté."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He says he was at home. Yet his neighbour saw him in town.\"",
+   "answer": "Il dit qu'il était chez lui. Or, son voisin l'a vu en ville."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Admittedly it's expensive, but it's good quality.\"",
+   "answer": "Certes, c'est cher, mais c'est de qualité."
+  }
+ ]
+}
