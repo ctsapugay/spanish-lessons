@@ -1,0 +1,365 @@
+{
+ "sections": [
+  {
+   "heading": "Running a meeting",
+   "body": "A meeting (*une réunion*) has a chair (*l'animateur / l'animatrice*, or *le président / la présidente de séance*), an agenda (*l'ordre du jour*) and minutes (*le compte rendu*).\n\n- Opening: *Bonjour à tous, merci d'être venus. Nous avons trois points à l'ordre du jour.*\n- Giving the floor: *Je donne la parole à…* / *Je vous laisse la parole.* — *Madame Bernard, vous vouliez intervenir ?* (… you wanted to speak?)\n- Inviting others: *Qu'en pensez-vous ?* — *Quelqu'un souhaite réagir ?* (Does anyone want to respond?) — *On ne vous a pas encore entendu, Thomas…*\n- Refocusing: *Revenons à notre sujet.* (Let's get back to the point.) — *Ce n'est pas tout à fait l'objet de la réunion.* — *Nous nous éloignons du sujet.* (We're getting off track.)\n- Managing time: *Il nous reste dix minutes.* — *Passons au point suivant.*\n- Summing up: *Si je résume, …* — *Faisons le point.* (Let's take stock.) — *Nous sommes donc d'accord sur deux points : …*\n- Closing: *Je vous propose d'en rester là pour aujourd'hui.* (Let's leave it there for today.) — *Le compte rendu vous sera envoyé.*"
+  },
+  {
+   "heading": "Taking part",
+   "body": "- Asking to speak: *Je voudrais intervenir.* — *Si je peux me permettre…*\n- Interrupting politely: *Excusez-moi de vous couper, mais…* (Sorry to cut in, but…)\n- Keeping the floor: *Je termine.* (I'm just finishing.) — *Laissez-moi aller jusqu'au bout.* (Let me finish.)\n- Agreeing with reservations: *Je rejoins Hugo sur ce point, mais…* (I agree with Hugo on this, but…) — *Je partage en partie votre avis.*\n- Disagreeing politely: *Je me permets de ne pas être d'accord.* — *Je vois les choses un peu différemment.*"
+  },
+  {
+   "heading": "Formal discussion in French culture",
+   "body": "French meetings often value debate: disagreeing openly, with arguments, is normal and not rude — as long as you stay courteous (*courtois*) and address people correctly (*Madame*, *Monsieur*, *vous*)."
+  }
+ ],
+ "vocab": [
+  [
+   "la réunion",
+   "the meeting",
+   "la ʁe.y.njɔ̃"
+  ],
+  [
+   "un animateur / une animatrice",
+   "a chair, a facilitator",
+   "œ̃.n‿a.ni.ma.tœʁ / yn a.ni.ma.tʁis"
+  ],
+  [
+   "le compte rendu",
+   "the minutes, the report",
+   "lə kɔ̃t ʁɑ̃.dy"
+  ],
+  [
+   "intervenir",
+   "to speak (in a meeting), to intervene",
+   "ɛ̃.tɛʁ.və.niʁ"
+  ],
+  [
+   "réagir",
+   "to react, to respond",
+   "ʁe.a.ʒiʁ"
+  ],
+  [
+   "s'éloigner",
+   "to move away",
+   "se.lwa.ɲe"
+  ],
+  [
+   "faire le point",
+   "to take stock",
+   "fɛʁ lə pwɛ̃"
+  ],
+  [
+   "en rester là",
+   "to leave it there",
+   "ɑ̃ ʁɛs.te la"
+  ],
+  [
+   "couper",
+   "to interrupt, to cut",
+   "ku.pe"
+  ],
+  [
+   "jusqu'au bout",
+   "to the end",
+   "ʒys.ko bu"
+  ],
+  [
+   "rejoindre",
+   "to agree with; to join",
+   "ʁə.ʒwɛ̃dʁ"
+  ],
+  [
+   "courtois / courtoise",
+   "courteous",
+   "kuʁ.twa / kuʁ.twaz"
+  ],
+  [
+   "le point",
+   "the point, the item",
+   "lə pwɛ̃"
+  ],
+  [
+   "la séance",
+   "the session",
+   "la se.ɑ̃s"
+  ]
+ ],
+ "examples": [
+  [
+   "Bonjour à tous, merci d'être venus.",
+   "Hello everyone, thank you for coming."
+  ],
+  [
+   "Nous avons trois points à l'ordre du jour.",
+   "We have three items on the agenda."
+  ],
+  [
+   "Je donne la parole à Madame Bernard.",
+   "I'll give the floor to Mrs Bernard."
+  ],
+  [
+   "Quelqu'un souhaite réagir ?",
+   "Does anyone want to respond?"
+  ],
+  [
+   "Revenons à notre sujet, s'il vous plaît.",
+   "Let's get back to the point, please."
+  ],
+  [
+   "Nous nous éloignons du sujet.",
+   "We're getting off track."
+  ],
+  [
+   "Il nous reste dix minutes ; passons au point suivant.",
+   "We have ten minutes left; let's move on to the next item."
+  ],
+  [
+   "Faisons le point avant de continuer.",
+   "Let's take stock before continuing."
+  ],
+  [
+   "Je vous propose d'en rester là pour aujourd'hui.",
+   "I suggest we leave it there for today."
+  ],
+  [
+   "Le compte rendu vous sera envoyé demain.",
+   "The minutes will be sent to you tomorrow."
+  ],
+  [
+   "Excusez-moi de vous couper, mais ce chiffre est faux.",
+   "Sorry to cut in, but that figure is wrong."
+  ],
+  [
+   "Laissez-moi aller jusqu'au bout, s'il vous plaît.",
+   "Let me finish, please."
+  ],
+  [
+   "Je rejoins Hugo sur ce point, mais j'ai une réserve.",
+   "I agree with Hugo on this point, but I have one reservation."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "To get a meeting back on track you say…",
+   "options": [
+    "Revenons à notre sujet.",
+    "Faisons une pause.",
+    "Je termine."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "To interrupt politely you say…",
+   "options": [
+    "Excusez-moi de vous couper, mais…",
+    "Taisez-vous !",
+    "Laissez-moi finir."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "To invite others to respond you say…",
+   "options": [
+    "Quelqu'un souhaite réagir ?",
+    "Je donne ma démission.",
+    "Nous nous éloignons du sujet."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*le compte rendu* is…",
+   "options": [
+    "the minutes, the report",
+    "the account given back",
+    "the bill"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Faisons le point* means…",
+   "options": [
+    "Let's take stock",
+    "Let's make a point",
+    "Let's finish"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*en rester là* means…",
+   "options": [
+    "to leave it there",
+    "to stay there",
+    "to rest"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je rejoins Hugo sur ce point* means…",
+   "options": [
+    "I agree with Hugo on this",
+    "I'll meet Hugo at this point",
+    "I'm joining Hugo's team"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*intervenir* (in a meeting) means…",
+   "options": [
+    "to speak, to contribute",
+    "to invade",
+    "to come between two people"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In French meetings, open disagreement with arguments is…",
+   "options": [
+    "normal, if courteous",
+    "rude",
+    "forbidden"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Laissez-moi aller jusqu'au bout* means…",
+   "options": [
+    "Let me finish",
+    "Let me go to the end of the room",
+    "Leave me alone"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Bonjour à tous, merci d'être ___.",
+   "answers": [
+    "venus"
+   ],
+   "hint": "thank you for coming."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous avons trois points à l'___ du jour.",
+   "answers": [
+    "ordre"
+   ],
+   "hint": "three items on the agenda."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je donne la ___ à Madame Bernard.",
+   "answers": [
+    "parole"
+   ],
+   "hint": "I'll give the floor to Mrs Bernard."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quelqu'un souhaite ___ ?",
+   "answers": [
+    "réagir"
+   ],
+   "hint": "Does anyone want to respond?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous nous ___ du sujet.",
+   "answers": [
+    "éloignons"
+   ],
+   "hint": "We're getting off track."
+  },
+  {
+   "type": "fill",
+   "prompt": "Faisons le ___ avant de continuer.",
+   "answers": [
+    "point"
+   ],
+   "hint": "Let's take stock."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je vous propose d'en ___ là pour aujourd'hui.",
+   "answers": [
+    "rester"
+   ],
+   "hint": "Let's leave it there for today."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le compte ___ vous sera envoyé demain.",
+   "answers": [
+    "rendu"
+   ],
+   "hint": "The minutes will be sent to you."
+  },
+  {
+   "type": "fill",
+   "prompt": "Excusez-moi de vous ___, mais ce chiffre est faux.",
+   "answers": [
+    "couper"
+   ],
+   "hint": "Sorry to cut in…"
+  },
+  {
+   "type": "translate",
+   "prompt": "Let's get back to the point.",
+   "answers": [
+    "Revenons à notre sujet.",
+    "Revenons au sujet."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Let's move on to the next item.",
+   "answers": [
+    "Passons au point suivant."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Thank you for coming. (to a group)",
+   "answers": [
+    "Merci d'être venus.",
+    "Merci d'être venues."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Does anyone want to respond?",
+   "answers": [
+    "Quelqu'un souhaite réagir ?",
+    "Quelqu'un veut réagir ?"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We have ten minutes left; let's move on to the next item.\"",
+   "answer": "Il nous reste dix minutes ; passons au point suivant."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I agree with Hugo on this point, but I have one reservation.\"",
+   "answer": "Je rejoins Hugo sur ce point, mais j'ai une réserve."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I suggest we leave it there for today.\"",
+   "answer": "Je vous propose d'en rester là pour aujourd'hui."
+  }
+ ]
+}

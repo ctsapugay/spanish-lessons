@@ -1,0 +1,368 @@
+{
+ "sections": [
+  {
+   "heading": "Weighing advantages and disadvantages",
+   "body": "- *les avantages* / *les inconvénients* (drawbacks), *les points forts* / *les points faibles*, *le pour et le contre* (pros and cons): *Il faut peser le pour et le contre.* (weigh up the pros and cons)\n- *présenter un avantage* — to have an advantage: *Le train présente l'avantage d'être rapide.*\n- *avoir l'inconvénient de* — to have the drawback of: *Il a l'inconvénient d'être cher.*\n- *D'un côté… de l'autre…*, *D'une part… d'autre part…* (on the one hand… on the other)\n- *Le revers de la médaille, c'est que…* — The flip side is that…"
+  },
+  {
+   "heading": "Taking a position",
+   "body": "- *Je suis favorable à…* / *Je suis pour…* — I'm in favour of… / *Je suis défavorable à…* / *Je suis contre…*\n- *Je suis convaincu(e) que…*, *Il me paraît évident que…*, *Je reste persuadé(e) que…*\n- *Il est indéniable que…* (It's undeniable that…), *Force est de constater que…* (One has to admit that…)\n- softer: *Il me semble que…*, *J'aurais tendance à penser que…* (I'd tend to think that…)"
+  },
+  {
+   "heading": "Defending it methodically",
+   "body": "A position becomes convincing when you:\n1. state it clearly: *Je suis favorable à la semaine de quatre jours.*\n2. give reasons with examples: *En effet, …; ainsi, en Islande, …*\n3. **anticipate objections** and answer them (*la concession*): *Certes, on pourrait objecter que… Cependant, …* (Admittedly, one could object that… However…) — *On me dira que… Mais…*\n4. conclude by restating it: *C'est pourquoi je reste convaincu que…*\n\nThis is exactly what the DELF B2 written task (*prise de position argumentée*) asks for."
+  }
+ ],
+ "vocab": [
+  [
+   "l'avantage",
+   "the advantage",
+   "la.vɑ̃.taʒ",
+   "m"
+  ],
+  [
+   "l'inconvénient",
+   "the drawback",
+   "lɛ̃.kɔ̃.ve.njɑ̃",
+   "m"
+  ],
+  [
+   "le pour et le contre",
+   "the pros and cons",
+   "lə puʁ e lə kɔ̃tʁ"
+  ],
+  [
+   "peser",
+   "to weigh",
+   "pə.ze"
+  ],
+  [
+   "d'une part",
+   "on the one hand",
+   "dyn paʁ"
+  ],
+  [
+   "d'autre part",
+   "on the other hand",
+   "dotʁ paʁ"
+  ],
+  [
+   "le revers de la médaille",
+   "the flip side",
+   "lə ʁə.vɛʁ də la me.daj"
+  ],
+  [
+   "favorable",
+   "in favour",
+   "fa.vɔ.ʁabl"
+  ],
+  [
+   "défavorable",
+   "against, unfavourable",
+   "de.fa.vɔ.ʁabl"
+  ],
+  [
+   "persuadé / persuadée",
+   "convinced",
+   "pɛʁ.sɥa.de / pɛʁ.sɥa.de"
+  ],
+  [
+   "indéniable",
+   "undeniable",
+   "ɛ̃.de.njabl"
+  ],
+  [
+   "force est de constater",
+   "one has to admit",
+   "fɔʁs ɛ də kɔ̃s.ta.te"
+  ],
+  [
+   "objecter",
+   "to object",
+   "ɔb.ʒɛk.te"
+  ],
+  [
+   "l'objection",
+   "the objection",
+   "lɔb.ʒɛk.sjɔ̃",
+   "f"
+  ],
+  [
+   "la prise de position",
+   "the position statement",
+   "la pʁiz də po.zi.sjɔ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Il faut peser le pour et le contre.",
+   "We must weigh up the pros and cons."
+  ],
+  [
+   "Le train présente l'avantage d'être rapide.",
+   "The train has the advantage of being fast."
+  ],
+  [
+   "La voiture a l'inconvénient d'être chère.",
+   "The car has the drawback of being expensive."
+  ],
+  [
+   "D'une part, c'est pratique ; d'autre part, ça coûte cher.",
+   "On the one hand it's practical; on the other, it's expensive."
+  ],
+  [
+   "Le revers de la médaille, c'est le bruit.",
+   "The flip side is the noise."
+  ],
+  [
+   "Je suis favorable à la semaine de quatre jours.",
+   "I'm in favour of the four-day week."
+  ],
+  [
+   "Il est indéniable que la situation s'est améliorée.",
+   "It's undeniable that the situation has improved."
+  ],
+  [
+   "Force est de constater que le projet a échoué.",
+   "One has to admit that the project has failed."
+  ],
+  [
+   "J'aurais tendance à penser qu'il a raison.",
+   "I'd tend to think he's right."
+  ],
+  [
+   "Certes, on pourrait objecter que c'est coûteux.",
+   "Admittedly, one could object that it's costly."
+  ],
+  [
+   "On me dira que c'est utopique. Mais…",
+   "People will tell me it's utopian. But…"
+  ],
+  [
+   "C'est pourquoi je reste convaincue que c'est la bonne solution.",
+   "That's why I remain convinced it's the right solution."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*l'inconvénient* means…",
+   "options": [
+    "the drawback",
+    "the inconvenience store",
+    "the convenience"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*peser le pour et le contre* means…",
+   "options": [
+    "to weigh up the pros and cons",
+    "to push for and against",
+    "to fight"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le revers de la médaille* means…",
+   "options": [
+    "the flip side",
+    "the reverse of the medal only",
+    "the back of the hand"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Force est de constater que…* means…",
+   "options": [
+    "One has to admit that…",
+    "Force must be used…",
+    "It's a strong fact…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'aurais tendance à penser que…* means…",
+   "options": [
+    "I'd tend to think that…",
+    "I would have thought…",
+    "I had a tendency…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "To anticipate an objection you say…",
+   "options": [
+    "Certes, on pourrait objecter que…",
+    "En un mot, …",
+    "Bref, …"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je suis favorable à…* means…",
+   "options": [
+    "I'm in favour of…",
+    "I'm favourite of…",
+    "I'm lucky with…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: La voiture a l'inconvénient ___ être chère.",
+   "options": [
+    "d'",
+    "à",
+    "pour"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: D'une part, c'est pratique ; d'___ part, ça coûte cher.",
+   "options": [
+    "autre",
+    "une",
+    "la"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*indéniable* means…",
+   "options": [
+    "undeniable",
+    "undesirable",
+    "unknown"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut ___ le pour et le contre.",
+   "answers": [
+    "peser"
+   ],
+   "hint": "We must weigh up the pros and cons."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le train présente l'___ d'être rapide.",
+   "answers": [
+    "avantage"
+   ],
+   "hint": "The train has the advantage of being fast."
+  },
+  {
+   "type": "fill",
+   "prompt": "La voiture a l'___ d'être chère.",
+   "answers": [
+    "inconvénient"
+   ],
+   "hint": "The car has the drawback of being expensive."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ de la médaille, c'est le bruit.",
+   "answers": [
+    "revers"
+   ],
+   "hint": "The flip side is the noise."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je suis ___ à la semaine de quatre jours.",
+   "answers": [
+    "favorable"
+   ],
+   "hint": "I'm in favour of the four-day week."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est ___ que la situation s'est améliorée.",
+   "answers": [
+    "indéniable"
+   ],
+   "hint": "It's undeniable that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ est de constater que le projet a échoué.",
+   "answers": [
+    "Force"
+   ],
+   "hint": "One has to admit that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Certes, on pourrait ___ que c'est coûteux.",
+   "answers": [
+    "objecter"
+   ],
+   "hint": "one could object that it's costly."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'aurais ___ à penser qu'il a raison.",
+   "answers": [
+    "tendance"
+   ],
+   "hint": "I'd tend to think he's right."
+  },
+  {
+   "type": "translate",
+   "prompt": "We must weigh up the pros and cons.",
+   "answers": [
+    "Il faut peser le pour et le contre."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I'm in favour of this project.",
+   "answers": [
+    "Je suis favorable à ce projet.",
+    "Je suis pour ce projet."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It's undeniable.",
+   "answers": [
+    "C'est indéniable."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "On the one hand…, on the other hand…",
+   "answers": [
+    "D'une part…, d'autre part…",
+    "D'un côté…, de l'autre…"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"On the one hand it's practical; on the other, it's expensive.\"",
+   "answer": "D'une part, c'est pratique ; d'autre part, ça coûte cher."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"One has to admit that the project has failed.\"",
+   "answer": "Force est de constater que le projet a échoué."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The train has the advantage of being fast.\"",
+   "answer": "Le train présente l'avantage d'être rapide."
+  }
+ ]
+}

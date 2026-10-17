@@ -1,0 +1,362 @@
+{
+ "sections": [
+  {
+   "heading": "Reformulating",
+   "body": "To make a point clearer, say it again differently:\n\n- *autrement dit* — in other words: *Le budget est gelé ; autrement dit, pas d'embauches cette année.* (The budget is frozen; in other words, no hiring this year.)\n- *en d'autres termes* — in other words (formal)\n- *c'est-à-dire* — that is (to say), i.e.\n- *à savoir* — namely: *Trois pays ont refusé, à savoir la France, l'Italie et l'Espagne.*\n- *en un mot* — in a word\n- *plus exactement* / *plus précisément* — more precisely; *ou plutôt* — or rather: *Il est fatigué, ou plutôt épuisé.* (exhausted)\n- *Ce que je veux dire, c'est que…* — What I mean is that…"
+  },
+  {
+   "heading": "Concluding after an argument",
+   "body": "- *En conclusion*, *Pour conclure*, *En somme* (in short), *Somme toute* (all in all), *En définitive* (when all is said and done), *Tout bien considéré* (all things considered), *En fin de compte* (in the end), *Bref* (in short — more casual)\n- *Finalement* — in the end (after hesitation or events), not \"finally\" in a list (*enfin*)."
+  },
+  {
+   "heading": "Closing a debate whatever the arguments",
+   "body": "Some expressions conclude **regardless** of what has been said — they brush the arguments aside:\n\n- *De toute façon* / *De toute manière* — anyway, in any case: *De toute façon, c'est trop tard.*\n- *En tout cas* — in any case, at any rate: *En tout cas, merci pour ton aide.*\n- *Quoi qu'il en soit* — be that as it may: *Quoi qu'il en soit, la décision est prise.*\n- *Après tout* — after all: *Après tout, ce n'est qu'un jeu.*\n- *Peu importe* — it doesn't matter: *Peu importe ce qu'ils disent.*"
+  }
+ ],
+ "vocab": [
+  [
+   "autrement dit",
+   "in other words",
+   "o.tʁə.mɑ̃ di"
+  ],
+  [
+   "à savoir",
+   "namely",
+   "a sa.vwaʁ"
+  ],
+  [
+   "en un mot",
+   "in a word",
+   "ɑ̃.n‿œ̃ mo"
+  ],
+  [
+   "ou plutôt",
+   "or rather",
+   "u ply.to"
+  ],
+  [
+   "épuisé / épuisée",
+   "exhausted",
+   "e.pɥi.ze / e.pɥi.ze"
+  ],
+  [
+   "en somme",
+   "in short",
+   "ɑ̃ sɔm"
+  ],
+  [
+   "somme toute",
+   "all in all",
+   "sɔm tut"
+  ],
+  [
+   "en définitive",
+   "when all is said and done",
+   "ɑ̃ de.fi.ni.tiv"
+  ],
+  [
+   "tout bien considéré",
+   "all things considered",
+   "tu bjɛ̃ kɔ̃.si.de.ʁe"
+  ],
+  [
+   "en fin de compte",
+   "in the end",
+   "ɑ̃ fɛ̃ də kɔ̃t"
+  ],
+  [
+   "de toute façon",
+   "anyway",
+   "də tut fa.sɔ̃"
+  ],
+  [
+   "quoi qu'il en soit",
+   "be that as it may",
+   "kwa kil ɑ̃ swa"
+  ],
+  [
+   "après tout",
+   "after all",
+   "a.pʁɛ tu"
+  ],
+  [
+   "peu importe",
+   "it doesn't matter",
+   "pø ɛ̃.pɔʁt"
+  ],
+  [
+   "gelé / gelée",
+   "frozen",
+   "ʒə.le / ʒə.le"
+  ]
+ ],
+ "examples": [
+  [
+   "Le budget est gelé ; autrement dit, pas d'embauches cette année.",
+   "The budget is frozen; in other words, no hiring this year."
+  ],
+  [
+   "Trois pays ont refusé, à savoir la France, l'Italie et l'Espagne.",
+   "Three countries refused, namely France, Italy and Spain."
+  ],
+  [
+   "Il est fatigué, ou plutôt épuisé.",
+   "He's tired, or rather exhausted."
+  ],
+  [
+   "En un mot, c'est un échec.",
+   "In a word, it's a failure."
+  ],
+  [
+   "Somme toute, l'expérience a été positive.",
+   "All in all, the experience was positive."
+  ],
+  [
+   "Tout bien considéré, je préfère rester ici.",
+   "All things considered, I'd rather stay here."
+  ],
+  [
+   "En fin de compte, nous avons tous gagné.",
+   "In the end, we all won."
+  ],
+  [
+   "De toute façon, c'est trop tard.",
+   "Anyway, it's too late."
+  ],
+  [
+   "En tout cas, merci pour ton aide.",
+   "In any case, thanks for your help."
+  ],
+  [
+   "Quoi qu'il en soit, la décision est prise.",
+   "Be that as it may, the decision has been made."
+  ],
+  [
+   "Après tout, ce n'est qu'un jeu.",
+   "After all, it's only a game."
+  ],
+  [
+   "Peu importe ce qu'ils disent.",
+   "It doesn't matter what they say."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*autrement dit* means…",
+   "options": [
+    "in other words",
+    "said differently later",
+    "otherwise"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à savoir* means…",
+   "options": [
+    "namely",
+    "to know",
+    "knowingly"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*ou plutôt* means…",
+   "options": [
+    "or rather",
+    "or earlier",
+    "or sooner"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Quoi qu'il en soit* means…",
+   "options": [
+    "Be that as it may",
+    "Whatever it is about",
+    "Whatever he is"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Peu importe* means…",
+   "options": [
+    "It doesn't matter",
+    "It's a small import",
+    "Not very important person"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Somme toute* means…",
+   "options": [
+    "All in all",
+    "The whole sum",
+    "Totally"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*De toute façon* concludes…",
+   "options": [
+    "regardless of the arguments",
+    "by summarising all arguments",
+    "by adding a new argument"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*En fin de compte* means…",
+   "options": [
+    "In the end",
+    "At the end of the account",
+    "Finally counted"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*finalement* means…",
+   "options": [
+    "in the end (after hesitation or events)",
+    "firstly",
+    "in a list: lastly only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Après tout, ce n'est qu'un jeu* means…",
+   "options": [
+    "After all, it's only a game",
+    "After everything, it's a game",
+    "Then, it's not a game"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le budget est gelé ; ___ dit, pas d'embauches cette année.",
+   "answers": [
+    "autrement"
+   ],
+   "hint": "in other words, no hiring."
+  },
+  {
+   "type": "fill",
+   "prompt": "Trois pays ont refusé, à ___ la France, l'Italie et l'Espagne.",
+   "answers": [
+    "savoir"
+   ],
+   "hint": "namely France, Italy and Spain."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est fatigué, ou ___ épuisé.",
+   "answers": [
+    "plutôt"
+   ],
+   "hint": "or rather exhausted."
+  },
+  {
+   "type": "fill",
+   "prompt": "En un ___, c'est un échec.",
+   "answers": [
+    "mot"
+   ],
+   "hint": "In a word, it's a failure."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tout bien ___, je préfère rester ici.",
+   "answers": [
+    "considéré"
+   ],
+   "hint": "All things considered…"
+  },
+  {
+   "type": "fill",
+   "prompt": "En fin de ___, nous avons tous gagné.",
+   "answers": [
+    "compte"
+   ],
+   "hint": "In the end, we all won."
+  },
+  {
+   "type": "fill",
+   "prompt": "De toute ___, c'est trop tard.",
+   "answers": [
+    "façon"
+   ],
+   "hint": "Anyway, it's too late."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quoi qu'il en ___, la décision est prise.",
+   "answers": [
+    "soit"
+   ],
+   "hint": "Be that as it may…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ importe ce qu'ils disent.",
+   "answers": [
+    "Peu"
+   ],
+   "hint": "It doesn't matter what they say."
+  },
+  {
+   "type": "translate",
+   "prompt": "In other words, …",
+   "answers": [
+    "Autrement dit, …",
+    "En d'autres termes, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Anyway, it's too late.",
+   "answers": [
+    "De toute façon, c'est trop tard.",
+    "De toute manière, c'est trop tard."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "After all, it's only a game.",
+   "answers": [
+    "Après tout, ce n'est qu'un jeu."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "In any case, thank you.",
+   "answers": [
+    "En tout cas, merci."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Be that as it may, the decision has been made.\"",
+   "answer": "Quoi qu'il en soit, la décision est prise."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"All things considered, I'd rather stay here.\"",
+   "answer": "Tout bien considéré, je préfère rester ici."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Three countries refused, namely France, Italy and Spain.\"",
+   "answer": "Trois pays ont refusé, à savoir la France, l'Italie et l'Espagne."
+  }
+ ]
+}
