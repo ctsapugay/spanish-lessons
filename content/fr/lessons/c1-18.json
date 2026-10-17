@@ -1,0 +1,372 @@
+{
+ "sections": [
+  {
+   "heading": "Irony",
+   "body": "Irony (*l'ironie*) says the opposite of what one means, expecting the listener to understand: *Bravo, quelle réussite !* (after a failure) — *Il fait un temps magnifique !* (in pouring rain). Clues: the context, exaggeration, a mismatch between words and situation, and in speech a flat or exaggerated intonation.\n\nClose relatives:\n- *l'antiphrase* — the figure of speech behind irony: saying the opposite;\n- *le second degré* — not to be taken literally: *C'était du second degré !* (I was joking / being ironic) — *prendre au premier degré* (to take literally);\n- *le sarcasme* — bitter, wounding irony;\n- *le cynisme* — cynical disregard for morals: *« Les promesses n'engagent que ceux qui les reçoivent. »* (Promises only bind those who receive them — a famous cynical quip.)"
+  },
+  {
+   "heading": "Humour",
+   "body": "*l'humour*, *une blague* (a joke), *un jeu de mots* (a pun), *une boutade* (a witty remark), *l'autodérision* (self-mockery), *l'humour noir* (dark humour), *pince-sans-rire* (deadpan): *Il a un humour pince-sans-rire.* — *faire de l'esprit* (to be witty), *avoir de l'esprit*, *être drôle / spirituel(le)* (witty), *se moquer de* (to make fun of), *taquiner* (to tease)."
+  },
+  {
+   "heading": "Showing a mood: exasperation, satisfaction",
+   "body": "- exasperation: *J'en ai assez !* — *Ça suffit !* — *C'est toujours la même chose !* — *Tu ne vas pas recommencer ?* (You're not going to start again?) — *Il ne manquait plus que ça !* (That's all we needed!)\n- satisfaction: *Je ne suis pas mécontent(e) du résultat.* (litotes = I'm quite pleased) — *C'est exactement ce que j'espérais.* — *On ne pouvait pas rêver mieux.*\n- resignation: *Tant pis.* — *C'est comme ça.* — *On n'y peut rien.*"
+  },
+  {
+   "heading": "Pronunciation: tone of voice",
+   "body": "Irony is often signalled by a **flat, slow** delivery or a **falsely enthusiastic** one: *Super, génial…* said flatly means the opposite. Exasperation: clipped syllables, falling pitch. Nuance at C1 comes as much from the voice as from the words."
+  }
+ ],
+ "vocab": [
+  [
+   "l'ironie",
+   "irony",
+   "li.ʁɔ.ni",
+   "f"
+  ],
+  [
+   "ironique",
+   "ironic",
+   "i.ʁɔ.nik"
+  ],
+  [
+   "le second degré",
+   "tongue-in-cheek humour",
+   "lə sə.ɡɔ̃ də.ɡʁe"
+  ],
+  [
+   "le sarcasme",
+   "sarcasm",
+   "lə saʁ.kasm"
+  ],
+  [
+   "le cynisme",
+   "cynicism",
+   "lə si.nizm"
+  ],
+  [
+   "la blague",
+   "the joke",
+   "la blaɡ"
+  ],
+  [
+   "le jeu de mots",
+   "the pun",
+   "lə ʒø də mo"
+  ],
+  [
+   "l'autodérision",
+   "self-mockery",
+   "lo.to.de.ʁi.zjɔ̃",
+   "f"
+  ],
+  [
+   "l'humour noir",
+   "dark humour",
+   "ly.muʁ nwaʁ",
+   "m"
+  ],
+  [
+   "spirituel / spirituelle",
+   "witty",
+   "spi.ʁi.tɥɛl / spi.ʁi.tɥɛl"
+  ],
+  [
+   "se moquer de",
+   "to make fun of",
+   "sə mɔ.ke də"
+  ],
+  [
+   "taquiner",
+   "to tease",
+   "ta.ki.ne"
+  ],
+  [
+   "ça suffit",
+   "that's enough",
+   "sa sy.fi"
+  ],
+  [
+   "tant pis",
+   "too bad, never mind",
+   "tɑ̃ pi"
+  ],
+  [
+   "mécontent / mécontente",
+   "displeased",
+   "me.kɔ̃.tɑ̃ / me.kɔ̃.tɑ̃t"
+  ]
+ ],
+ "examples": [
+  [
+   "Bravo, quelle réussite ! dit-il après l'échec du projet.",
+   "\"Well done, what a success!\" he said after the project failed."
+  ],
+  [
+   "Il fait un temps magnifique ! — sous une pluie battante.",
+   "\"What lovely weather!\" — in pouring rain."
+  ],
+  [
+   "C'était du second degré, ne le prends pas mal !",
+   "I was joking, don't take it badly!"
+  ],
+  [
+   "Il ne faut pas tout prendre au premier degré.",
+   "You mustn't take everything literally."
+  ],
+  [
+   "Son sarcasme a blessé tout le monde.",
+   "His sarcasm hurt everyone."
+  ],
+  [
+   "Elle a un humour pince-sans-rire.",
+   "She has a deadpan sense of humour."
+  ],
+  [
+   "C'est un jeu de mots intraduisible.",
+   "It's an untranslatable pun."
+  ],
+  [
+   "Il se moque toujours de lui-même : c'est de l'autodérision.",
+   "He always makes fun of himself: it's self-mockery."
+  ],
+  [
+   "J'aime bien te taquiner.",
+   "I like teasing you."
+  ],
+  [
+   "Ça suffit, j'en ai assez !",
+   "That's enough, I've had enough!"
+  ],
+  [
+   "Il ne manquait plus que ça !",
+   "That's all we needed!"
+  ],
+  [
+   "Je ne suis pas mécontente du résultat.",
+   "I'm not displeased with the result."
+  ],
+  [
+   "Tant pis, on fera mieux la prochaine fois.",
+   "Never mind, we'll do better next time."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Il fait un temps magnifique !* said in pouring rain is…",
+   "options": [
+    "irony",
+    "a compliment",
+    "a forecast"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'était du second degré* means…",
+   "options": [
+    "I didn't mean it literally",
+    "It was the second degree",
+    "It was second-rate"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*prendre au premier degré* means…",
+   "options": [
+    "to take literally",
+    "to take first place",
+    "to take a first-degree burn"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un jeu de mots* is…",
+   "options": [
+    "a pun",
+    "a word game only",
+    "a vocabulary test"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*pince-sans-rire* means…",
+   "options": [
+    "deadpan",
+    "pinching without laughing literally",
+    "humourless"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il ne manquait plus que ça !* expresses…",
+   "options": [
+    "exasperation",
+    "satisfaction",
+    "gratitude"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je ne suis pas mécontent* (litotes) means…",
+   "options": [
+    "I'm quite pleased",
+    "I'm unhappy",
+    "I'm indifferent"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*taquiner* means…",
+   "options": [
+    "to tease",
+    "to attack",
+    "to tickle only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tant pis* means…",
+   "options": [
+    "Too bad / never mind",
+    "So much",
+    "Thank goodness"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Irony in speech is often signalled by…",
+   "options": [
+    "a flat or falsely enthusiastic tone",
+    "a whisper",
+    "a question"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "C'était du second ___, ne le prends pas mal !",
+   "answers": [
+    "degré"
+   ],
+   "hint": "I was joking…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ne faut pas tout prendre au premier ___.",
+   "answers": [
+    "degré"
+   ],
+   "hint": "You mustn't take everything literally."
+  },
+  {
+   "type": "fill",
+   "prompt": "Son ___ a blessé tout le monde.",
+   "answers": [
+    "sarcasme"
+   ],
+   "hint": "His sarcasm hurt everyone."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un jeu de ___ intraduisible.",
+   "answers": [
+    "mots"
+   ],
+   "hint": "an untranslatable pun."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il se ___ toujours de lui-même.",
+   "answers": [
+    "moque"
+   ],
+   "hint": "He always makes fun of himself."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'aime bien te ___.",
+   "answers": [
+    "taquiner"
+   ],
+   "hint": "I like teasing you."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça ___, j'en ai assez !",
+   "answers": [
+    "suffit"
+   ],
+   "hint": "That's enough!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne suis pas ___ du résultat.",
+   "answers": [
+    "mécontente"
+   ],
+   "hint": "A woman speaking: I am not displeased with the result."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ pis, on fera mieux la prochaine fois.",
+   "answers": [
+    "Tant"
+   ],
+   "hint": "Never mind…"
+  },
+  {
+   "type": "translate",
+   "prompt": "That's enough!",
+   "answers": [
+    "Ça suffit !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Never mind.",
+   "answers": [
+    "Tant pis."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I was joking. (tongue-in-cheek)",
+   "answers": [
+    "C'était du second degré.",
+    "Je plaisantais."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "a pun",
+   "answers": [
+    "un jeu de mots"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"You mustn't take everything literally.\"",
+   "answer": "Il ne faut pas tout prendre au premier degré."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He always makes fun of himself.\"",
+   "answer": "Il se moque toujours de lui-même."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Never mind, we'll do better next time.\"",
+   "answer": "Tant pis, on fera mieux la prochaine fois."
+  }
+ ]
+}

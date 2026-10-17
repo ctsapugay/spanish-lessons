@@ -1,0 +1,358 @@
+{
+ "sections": [
+  {
+   "heading": "The DALF C1 oral",
+   "body": "The DALF C1 oral: you prepare for an hour from a set of documents, then give an **exposé** of about 10 minutes, followed by a discussion with the jury. The exposé is **not** a summary: you use the documents to answer a question and present a structured, personal reflection."
+  },
+  {
+   "heading": "Structure of an exposé",
+   "body": "1. **Introduction**: *Le dossier porte sur…* (The file is about…) — present the documents briefly — state the *problématique* — announce the plan: *Dans un premier temps, j'examinerai… ; dans un second temps, …*\n2. **Development**: two or three parts, each with arguments drawn from the documents **and** your own knowledge: *Comme le souligne le document 2, … ; j'ajouterais que…*\n3. **Conclusion**: answer, sum up, open: *Pour conclure, … — On peut se demander, pour finir, si…*"
+  },
+  {
+   "heading": "Speaking with nuance",
+   "body": "- referring to documents: *Selon l'auteur de l'article, …* — *Le graphique montre que…* — *D'après l'enquête citée, …*\n- signposting aloud: *J'en viens maintenant à mon deuxième point.* — *Premier constat : …* — *Je voudrais insister sur…*\n- gaining time without silence: *C'est une question intéressante…* — *Si je comprends bien votre question, …* — *Laissez-moi réfléchir un instant.*"
+  },
+  {
+   "heading": "The discussion with the jury",
+   "body": "The jury questions, challenges, asks for clarification. Stay calm and nuanced:\n- *Vous avez raison de le souligner, cependant…* — *C'est un point que je n'ai pas développé, mais…* — *Je ne partage pas tout à fait ce point de vue, dans la mesure où…* (insofar as…) — *Pour être plus précis, …* — *Je n'y avais pas pensé, c'est une piste intéressante.* (an interesting line of thought)"
+  },
+  {
+   "heading": "Register and delivery",
+   "body": "Formal register (*vous*), no familiar words, no reading aloud from notes — use key words only. Speak at a moderate pace, pause between parts, and look at the jury."
+  }
+ ],
+ "vocab": [
+  [
+   "l'exposé",
+   "the presentation, the talk",
+   "lɛk.spo.ze",
+   "m"
+  ],
+  [
+   "le jury",
+   "the examining panel",
+   "lə ʒy.ʁi"
+  ],
+  [
+   "le dossier",
+   "the file (of documents)",
+   "lə do.sje"
+  ],
+  [
+   "examiner",
+   "to examine",
+   "ɛɡ.za.mi.ne"
+  ],
+  [
+   "le graphique",
+   "the chart, the graph",
+   "lə ɡʁa.fik"
+  ],
+  [
+   "l'enquête",
+   "the survey; the investigation",
+   "lɑ̃.kɛt",
+   "f"
+  ],
+  [
+   "en venir à",
+   "to come to",
+   "ɑ̃ və.niʁ a"
+  ],
+  [
+   "insister sur",
+   "to stress",
+   "ɛ̃.sis.te syʁ"
+  ],
+  [
+   "dans la mesure où",
+   "insofar as",
+   "dɑ̃ la mə.zyʁ u"
+  ],
+  [
+   "la piste",
+   "the lead, the line of thought",
+   "la pist"
+  ],
+  [
+   "développer",
+   "to develop",
+   "de.vlɔ.pe"
+  ],
+  [
+   "préciser",
+   "to specify, to clarify",
+   "pʁe.si.ze"
+  ],
+  [
+   "les notes",
+   "notes",
+   "le nɔt",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Le dossier porte sur l'avenir du travail.",
+   "The file is about the future of work."
+  ],
+  [
+   "Dans un premier temps, j'examinerai les causes du phénomène.",
+   "First, I will examine the causes of the phenomenon."
+  ],
+  [
+   "Comme le souligne le document 2, le télétravail progresse.",
+   "As document 2 stresses, working from home is growing."
+  ],
+  [
+   "Le graphique montre une hausse régulière depuis dix ans.",
+   "The chart shows a steady rise over ten years."
+  ],
+  [
+   "D'après l'enquête citée, la moitié des salariés sont satisfaits.",
+   "According to the survey cited, half of employees are satisfied."
+  ],
+  [
+   "J'en viens maintenant à mon deuxième point.",
+   "I now come to my second point."
+  ],
+  [
+   "Je voudrais insister sur un aspect souvent négligé.",
+   "I'd like to stress an often neglected aspect."
+  ],
+  [
+   "Si je comprends bien votre question, vous me demandez si…",
+   "If I understand your question correctly, you're asking me whether…"
+  ],
+  [
+   "Vous avez raison de le souligner, cependant je maintiens ma position.",
+   "You're right to point that out; however, I stand by my position."
+  ],
+  [
+   "Je ne partage pas tout à fait ce point de vue, dans la mesure où les chiffres sont anciens.",
+   "I don't entirely share that view, insofar as the figures are old."
+  ],
+  [
+   "Je n'y avais pas pensé, c'est une piste intéressante.",
+   "I hadn't thought of that; it's an interesting line of thought."
+  ],
+  [
+   "Il ne faut pas lire ses notes, mais s'appuyer sur des mots-clés.",
+   "You shouldn't read your notes, but rely on key words."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "The DALF C1 exposé is…",
+   "options": [
+    "a structured reflection using documents",
+    "a summary of each document",
+    "a reading of the documents aloud"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le dossier porte sur…* means…",
+   "options": [
+    "The file is about…",
+    "The file carries…",
+    "The folder is on…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*J'en viens maintenant à…* means…",
+   "options": [
+    "I now come to…",
+    "I'm coming from…",
+    "I'm coming back to…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*dans la mesure où* means…",
+   "options": [
+    "insofar as",
+    "in the measure of",
+    "as much as possible"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une piste intéressante* is…",
+   "options": [
+    "an interesting line of thought",
+    "an interesting track for running",
+    "an interesting ski slope"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Vous avez raison de le souligner* means…",
+   "options": [
+    "You're right to point that out",
+    "You're right to underline it in red",
+    "You have reason to underline"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "To gain time politely you say…",
+   "options": [
+    "Laissez-moi réfléchir un instant.",
+    "Je ne sais rien.",
+    "Euh… euh… euh…"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*le jury* (in an exam) is…",
+   "options": [
+    "the examining panel",
+    "a court jury only",
+    "the judge"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Comme le ___ le document 2, le télétravail progresse.",
+   "options": [
+    "souligne",
+    "souligné",
+    "soulignent"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In the exposé, you should…",
+   "options": [
+    "use key words, not read your notes",
+    "read your notes aloud",
+    "memorise the documents"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ porte sur l'avenir du travail.",
+   "answers": [
+    "dossier"
+   ],
+   "hint": "The file is about the future of work."
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans un premier temps, j'___ les causes du phénomène. (examiner, futur)",
+   "answers": [
+    "examinerai"
+   ],
+   "hint": "First, I will examine…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ montre une hausse régulière depuis dix ans.",
+   "answers": [
+    "graphique"
+   ],
+   "hint": "The chart shows a steady rise."
+  },
+  {
+   "type": "fill",
+   "prompt": "D'après l'___ citée, la moitié des salariés sont satisfaits.",
+   "answers": [
+    "enquête"
+   ],
+   "hint": "According to the survey cited…"
+  },
+  {
+   "type": "fill",
+   "prompt": "J'en ___ maintenant à mon deuxième point.",
+   "answers": [
+    "viens"
+   ],
+   "hint": "I now come to my second point."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je voudrais ___ sur un aspect souvent négligé.",
+   "answers": [
+    "insister"
+   ],
+   "hint": "I'd like to stress…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne partage pas tout à fait ce point de vue, dans la ___ où les chiffres sont anciens.",
+   "answers": [
+    "mesure"
+   ],
+   "hint": "insofar as…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'y avais pas pensé, c'est une ___ intéressante.",
+   "answers": [
+    "piste"
+   ],
+   "hint": "an interesting line of thought."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ne faut pas lire ses ___, mais s'appuyer sur des mots-clés.",
+   "answers": [
+    "notes"
+   ],
+   "hint": "You shouldn't read your notes…"
+  },
+  {
+   "type": "translate",
+   "prompt": "I now come to my second point.",
+   "answers": [
+    "J'en viens maintenant à mon deuxième point.",
+    "J'en viens à mon deuxième point."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The chart shows a rise.",
+   "answers": [
+    "Le graphique montre une hausse."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Let me think for a moment. (polite)",
+   "answers": [
+    "Laissez-moi réfléchir un instant.",
+    "Laissez-moi réfléchir un moment."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I don't entirely share that view, insofar as the figures are old.\"",
+   "answer": "Je ne partage pas tout à fait ce point de vue, dans la mesure où les chiffres sont anciens."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"First, I will examine the causes of the phenomenon.\"",
+   "answer": "Dans un premier temps, j'examinerai les causes du phénomène."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I hadn't thought of that; it's an interesting line of thought.\"",
+   "answer": "Je n'y avais pas pensé, c'est une piste intéressante."
+  }
+ ]
+}

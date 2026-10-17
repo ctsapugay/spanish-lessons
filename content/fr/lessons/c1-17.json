@@ -1,0 +1,361 @@
+{
+ "sections": [
+  {
+   "heading": "Types of argumentative discourse",
+   "body": "- **le discours polémique** — attacks an opponent, sharply: irony, rhetorical questions, strong words (*scandaleux*, *inadmissible*), exclamations.\n- **le discours politique** — persuades voters: *nous* inclusive, appeals to shared values (*la République*, *nos enfants*), promises in the future, repetition (*anaphore*), slogans.\n- **le discours diplomatique** — avoids conflict: euphemisms, the conditional, passive and impersonal structures, *langue de bois* (waffle, wooden language)."
+  },
+  {
+   "heading": "Implicit meaning",
+   "body": "Much of what a text communicates isn't said outright:\n\n- **le présupposé** — what a sentence takes for granted: *Il a arrêté de fumer* presupposes that he used to smoke.\n- **le sous-entendu** — what the speaker hints at, leaving you to infer it: *Il est tard…* (= you should leave).\n- **les connotations** — the associations of a word: *un régime* (a diet; a regime) — *bavard* vs *communicatif*, *économe* vs *radin* (thrifty vs stingy): same fact, different judgement.\n- **l'euphémisme** — softening: *les demandeurs d'emploi* for *les chômeurs*; *un plan social* for mass redundancies; *il nous a quittés* for *il est mort*."
+  },
+  {
+   "heading": "Analysing rhetoric",
+   "body": "*L'orateur cherche à convaincre / persuader / émouvoir.* (to convince — by reason; to persuade — by emotion; to move) — *Il recourt à l'ironie.* (He resorts to irony) — *Il interpelle directement l'auditoire.* (He addresses the audience directly) — *Le texte joue sur les émotions.* — *Le choix des mots n'est pas neutre.* — *Cette question rhétorique n'attend pas de réponse.*"
+  },
+  {
+   "heading": "Reading between the lines",
+   "body": "*Qu'est-ce que l'auteur sous-entend ?* — *Que présuppose cette phrase ?* — *Il laisse entendre que…* (He implies that…) — *Derrière ces mots se cache…* (Behind these words lies…)"
+  }
+ ],
+ "vocab": [
+  [
+   "polémique",
+   "polemical",
+   "pɔ.le.mik"
+  ],
+  [
+   "diplomatique",
+   "diplomatic",
+   "di.plɔ.ma.tik"
+  ],
+  [
+   "la langue de bois",
+   "waffle, wooden language",
+   "la lɑ̃ɡ də bwa"
+  ],
+  [
+   "l'implicite",
+   "implicit meaning",
+   "lɛ̃.pli.sit",
+   "m"
+  ],
+  [
+   "le présupposé",
+   "the presupposition",
+   "lə pʁe.sy.po.ze"
+  ],
+  [
+   "le sous-entendu",
+   "the insinuation, the hint",
+   "lə su.z‿ɑ̃.tɑ̃.dy"
+  ],
+  [
+   "la connotation",
+   "the connotation",
+   "la kɔ.nɔ.ta.sjɔ̃"
+  ],
+  [
+   "l'euphémisme",
+   "the euphemism",
+   "lø.fe.mizm",
+   "m"
+  ],
+  [
+   "radin / radine",
+   "stingy",
+   "ʁa.dɛ̃ / ʁa.din"
+  ],
+  [
+   "convaincre",
+   "to convince",
+   "kɔ̃.vɛ̃kʁ"
+  ],
+  [
+   "émouvoir",
+   "to move (emotionally)",
+   "e.mu.vwaʁ"
+  ],
+  [
+   "recourir à",
+   "to resort to",
+   "ʁə.ku.ʁiʁ a"
+  ],
+  [
+   "interpeller",
+   "to call out to, to challenge",
+   "ɛ̃.tɛʁ.pɛ.le"
+  ],
+  [
+   "l'auditoire",
+   "the audience",
+   "lo.di.twaʁ",
+   "m"
+  ],
+  [
+   "laisser entendre",
+   "to imply",
+   "lɛ.se ɑ̃.tɑ̃dʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "C'est un texte polémique qui attaque violemment le gouvernement.",
+   "It's a polemical text that fiercely attacks the government."
+  ],
+  [
+   "Le ministre a répondu par la langue de bois.",
+   "The minister answered with waffle."
+  ],
+  [
+   "« Il a arrêté de fumer » présuppose qu'il fumait.",
+   "\"He has stopped smoking\" presupposes that he used to smoke."
+  ],
+  [
+   "« Il est tard… » peut être un sous-entendu : il faut partir.",
+   "\"It's late…\" can be a hint: it's time to go."
+  ],
+  [
+   "On parle de « demandeurs d'emploi » plutôt que de « chômeurs ».",
+   "People say \"job seekers\" rather than \"the unemployed\"."
+  ],
+  [
+   "« Économe » et « radin » ont des connotations différentes.",
+   "\"Thrifty\" and \"stingy\" have different connotations."
+  ],
+  [
+   "L'orateur cherche à émouvoir son auditoire.",
+   "The speaker seeks to move his audience."
+  ],
+  [
+   "Il recourt à l'ironie pour critiquer ses adversaires.",
+   "He resorts to irony to criticise his opponents."
+  ],
+  [
+   "Elle interpelle directement les députés.",
+   "She addresses the MPs directly."
+  ],
+  [
+   "Le choix des mots n'est pas neutre.",
+   "The choice of words isn't neutral."
+  ],
+  [
+   "Il laisse entendre qu'il pourrait démissionner.",
+   "He implies that he might resign."
+  ],
+  [
+   "Cette question rhétorique n'attend pas de réponse.",
+   "This rhetorical question expects no answer."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*la langue de bois* is…",
+   "options": [
+    "waffle, evasive official language",
+    "a wooden tongue",
+    "a dead language"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il a arrêté de fumer* presupposes that…",
+   "options": [
+    "he used to smoke",
+    "he never smoked",
+    "he wants to smoke"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un sous-entendu* is…",
+   "options": [
+    "a hint, an insinuation",
+    "a misunderstanding",
+    "a subtitle"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*radin* has a ___ connotation compared with *économe*.",
+   "options": [
+    "negative",
+    "positive",
+    "neutral"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un euphémisme* is…",
+   "options": [
+    "a softened expression",
+    "an exaggeration",
+    "a repetition"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*convaincre* (in rhetoric) appeals to…",
+   "options": [
+    "reason",
+    "emotion only",
+    "fear"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il laisse entendre que…* means…",
+   "options": [
+    "He implies that…",
+    "He lets someone hear…",
+    "He leaves without hearing…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*recourir à l'ironie* means…",
+   "options": [
+    "to resort to irony",
+    "to run back to irony",
+    "to run from irony"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'auditoire* is…",
+   "options": [
+    "the audience",
+    "the auditorium only",
+    "the auditor"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Diplomatic discourse typically uses…",
+   "options": [
+    "euphemisms and the conditional",
+    "insults",
+    "exclamations"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un texte ___ qui attaque violemment le gouvernement.",
+   "answers": [
+    "polémique"
+   ],
+   "hint": "a polemical text…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ministre a répondu par la langue de ___.",
+   "answers": [
+    "bois"
+   ],
+   "hint": "The minister answered with waffle."
+  },
+  {
+   "type": "fill",
+   "prompt": "« Il est tard… » peut être un ___ : il faut partir.",
+   "answers": [
+    "sous-entendu"
+   ],
+   "hint": "can be a hint…"
+  },
+  {
+   "type": "fill",
+   "prompt": "« Économe » et « radin » ont des ___ différentes.",
+   "answers": [
+    "connotations"
+   ],
+   "hint": "different connotations."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'orateur cherche à ___ son auditoire.",
+   "answers": [
+    "émouvoir"
+   ],
+   "hint": "The speaker seeks to move his audience."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ à l'ironie pour critiquer ses adversaires. (recourir)",
+   "answers": [
+    "recourt"
+   ],
+   "hint": "He resorts to irony…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle ___ directement les députés.",
+   "answers": [
+    "interpelle"
+   ],
+   "hint": "She addresses the MPs directly."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il laisse ___ qu'il pourrait démissionner.",
+   "answers": [
+    "entendre"
+   ],
+   "hint": "He implies that he might resign."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le choix des mots n'est pas ___.",
+   "answers": [
+    "neutre"
+   ],
+   "hint": "The choice of words isn't neutral."
+  },
+  {
+   "type": "translate",
+   "prompt": "The choice of words isn't neutral.",
+   "answers": [
+    "Le choix des mots n'est pas neutre."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He implies that…",
+   "answers": [
+    "Il laisse entendre que…",
+    "Il sous-entend que…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "a rhetorical question",
+   "answers": [
+    "une question rhétorique"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He resorts to irony to criticise his opponents.\"",
+   "answer": "Il recourt à l'ironie pour critiquer ses adversaires."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He implies that he might resign.\"",
+   "answer": "Il laisse entendre qu'il pourrait démissionner."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"This rhetorical question expects no answer.\"",
+   "answer": "Cette question rhétorique n'attend pas de réponse."
+  }
+ ]
+}
