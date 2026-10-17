@@ -1,0 +1,350 @@
+{
+ "sections": [
+  {
+   "heading": "Consequence with intensity",
+   "body": "To show that a cause is so strong it produces a consequence:\n\n- *si* / *tellement* + adjective or adverb + *que* — so … that: *Il parlait si vite que personne ne le comprenait.*\n- *tant* / *tellement* + verb + *que* — so much that: *Il a tant travaillé qu'il est tombé malade.*\n- *tant de* / *tellement de* + noun + *que*: *Il y avait tant de bruit que je suis parti.*\n- *à tel point que* / *au point que* + indicative — to such an extent that: *La situation s'est dégradée, à tel point que le gouvernement a dû intervenir.*\n- *un tel* / *une telle* + noun + *que* — such (a) … that: *Il a fait une telle erreur qu'il a été licencié.* (*tel* agrees: *de tels progrès*, *de telles difficultés*)\n- *au point de* + infinitive (same subject): *Il était épuisé au point de s'endormir debout.*"
+  },
+  {
+   "heading": "Consequence as a result",
+   "body": "- *de sorte que*, *si bien que* + indicative — so that (result): *Il a raté le train, si bien qu'il est arrivé en retard.*\n- *de (telle) façon / manière que* + indicative (result) or **subjunctive** (purpose): *Il a parlé de telle façon que tout le monde a compris* (result) — *Parle de façon que tout le monde comprenne* (purpose).\n- *par conséquent*, *en conséquence*, *de ce fait*, *dès lors* (from then on, consequently — formal), *aussi* + **inversion** (and so — formal, at the start of a sentence): *Le budget a été réduit ; aussi le projet a-t-il été abandonné.*\n- *d'où* + noun — hence: *Il a plu toute la semaine, d'où les inondations.*"
+  },
+  {
+   "heading": "Negative and interrogative main clause → subjunctive",
+   "body": "After a negative or question, *si… que* and *tellement… que* take the subjunctive: *Il n'est pas si difficile qu'on ne puisse le faire.* (It isn't so difficult that it can't be done — literary, with expletive *ne*.)"
+  }
+ ],
+ "vocab": [
+  [
+   "à tel point que",
+   "to such an extent that",
+   "a tɛl pwɛ̃ kə"
+  ],
+  [
+   "au point que",
+   "to the point that",
+   "o pwɛ̃ kə"
+  ],
+  [
+   "au point de",
+   "to the point of",
+   "o pwɛ̃ də"
+  ],
+  [
+   "un tel / une telle",
+   "such a",
+   "œ̃ tɛl / yn tɛl"
+  ],
+  [
+   "dès lors",
+   "consequently, from then on",
+   "dɛ lɔʁ"
+  ],
+  [
+   "d'où",
+   "hence",
+   "du"
+  ],
+  [
+   "se dégrader",
+   "to deteriorate",
+   "sə de.ɡʁa.de"
+  ],
+  [
+   "épuisé / épuisée",
+   "exhausted",
+   "e.pɥi.ze / e.pɥi.ze"
+  ],
+  [
+   "debout",
+   "standing",
+   "də.bu"
+  ],
+  [
+   "le progrès",
+   "progress",
+   "lə pʁɔ.ɡʁɛ"
+  ],
+  [
+   "la difficulté",
+   "the difficulty",
+   "la di.fi.kyl.te"
+  ],
+  [
+   "abandonner",
+   "to abandon, to give up",
+   "a.bɑ̃.dɔ.ne"
+  ]
+ ],
+ "examples": [
+  [
+   "Il parlait si vite que personne ne le comprenait.",
+   "He spoke so fast that nobody understood him."
+  ],
+  [
+   "Il a tant travaillé qu'il est tombé malade.",
+   "He worked so much that he fell ill."
+  ],
+  [
+   "Il y avait tant de bruit que je suis parti.",
+   "There was so much noise that I left."
+  ],
+  [
+   "La situation s'est dégradée, à tel point que le gouvernement a dû intervenir.",
+   "The situation deteriorated to such an extent that the government had to intervene."
+  ],
+  [
+   "Il a fait une telle erreur qu'il a été licencié.",
+   "He made such a mistake that he was fired."
+  ],
+  [
+   "Ils ont fait de tels progrès que le professeur était étonné.",
+   "They made such progress that the teacher was amazed."
+  ],
+  [
+   "Il était épuisé au point de s'endormir debout.",
+   "He was exhausted to the point of falling asleep standing up."
+  ],
+  [
+   "Il a raté le train, si bien qu'il est arrivé en retard.",
+   "He missed the train, so he arrived late."
+  ],
+  [
+   "Le budget a été réduit ; aussi le projet a-t-il été abandonné.",
+   "The budget was cut; and so the project was abandoned."
+  ],
+  [
+   "Il a plu toute la semaine, d'où les inondations.",
+   "It rained all week, hence the floods."
+  ],
+  [
+   "Dès lors, tout a changé.",
+   "From then on, everything changed."
+  ],
+  [
+   "Parle de façon que tout le monde comprenne.",
+   "Speak so that everyone understands."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Il parlait ___ vite que personne ne le comprenait.",
+   "options": [
+    "si",
+    "tant",
+    "tel"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il y avait ___ bruit que je suis parti.",
+   "options": [
+    "tant de",
+    "si",
+    "tellement"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il a fait une ___ erreur qu'il a été licencié.",
+   "options": [
+    "telle",
+    "tel",
+    "si"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ils ont fait de ___ progrès que le professeur était étonné.",
+   "options": [
+    "tels",
+    "telles",
+    "tel"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le budget a été réduit ; aussi le projet ___ abandonné.",
+   "options": [
+    "a-t-il été",
+    "il a été",
+    "a été-t-il"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*aussi* at the start (= and so) brings inversion."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Parle de façon que tout le monde ___. (purpose)",
+   "options": [
+    "comprenne",
+    "comprend",
+    "comprendra"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*d'où les inondations* means…",
+   "options": [
+    "hence the floods",
+    "where the floods are",
+    "from the floods"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à tel point que* means…",
+   "options": [
+    "to such an extent that",
+    "at such a point in time",
+    "such a point"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*dès lors* means…",
+   "options": [
+    "from then on, consequently",
+    "since when?",
+    "as early as"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*au point de s'endormir debout* means…",
+   "options": [
+    "to the point of falling asleep standing up",
+    "at the point where he slept",
+    "up to sleeping"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il parlait ___ vite que personne ne le comprenait.",
+   "answers": [
+    "si",
+    "tellement"
+   ],
+   "hint": "He spoke so fast…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a ___ travaillé qu'il est tombé malade.",
+   "answers": [
+    "tant",
+    "tellement"
+   ],
+   "hint": "He worked so much…"
+  },
+  {
+   "type": "fill",
+   "prompt": "La situation s'est dégradée, à tel ___ que le gouvernement a dû intervenir.",
+   "answers": [
+    "point"
+   ],
+   "hint": "to such an extent that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a fait une ___ erreur qu'il a été licencié.",
+   "answers": [
+    "telle"
+   ],
+   "hint": "such a mistake that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il était épuisé au point ___ s'endormir debout.",
+   "answers": [
+    "de"
+   ],
+   "hint": "to the point of falling asleep…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a raté le train, si ___ qu'il est arrivé en retard.",
+   "answers": [
+    "bien"
+   ],
+   "hint": "so he arrived late."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a plu toute la semaine, d'___ les inondations.",
+   "answers": [
+    "où"
+   ],
+   "hint": "hence the floods."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ lors, tout a changé.",
+   "answers": [
+    "Dès"
+   ],
+   "hint": "From then on, everything changed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Parle de façon que tout le monde ___. (comprendre)",
+   "answers": [
+    "comprenne"
+   ],
+   "hint": "so that everyone understands."
+  },
+  {
+   "type": "translate",
+   "prompt": "He worked so much that he fell ill.",
+   "answers": [
+    "Il a tant travaillé qu'il est tombé malade.",
+    "Il a tellement travaillé qu'il est tombé malade."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "hence the floods",
+   "answers": [
+    "d'où les inondations"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "There was so much noise that I left.",
+   "answers": [
+    "Il y avait tant de bruit que je suis parti.",
+    "Il y avait tellement de bruit que je suis parti.",
+    "Il y avait tant de bruit que je suis partie."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The situation deteriorated to such an extent that the government had to intervene.\"",
+   "answer": "La situation s'est dégradée, à tel point que le gouvernement a dû intervenir."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The budget was cut; and so the project was abandoned.\"",
+   "answer": "Le budget a été réduit ; aussi le projet a-t-il été abandonné."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He was exhausted to the point of falling asleep standing up.\"",
+   "answer": "Il était épuisé au point de s'endormir debout."
+  }
+ ]
+}

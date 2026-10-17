@@ -1,0 +1,352 @@
+{
+ "sections": [
+  {
+   "heading": "Cause at C1",
+   "body": "You already know *parce que, car, comme, puisque, grâce à, à cause de, en raison de, faute de* (A2–B2). C1 adds finer shades, mostly for argument and formal writing:\n\n- *étant donné que* / *vu que* / *attendu que* + indicative — given that (*attendu que* is legal and administrative style): *Attendu que le locataire n'a pas payé…*\n- *considérant que* + indicative — considering that; in official texts each reason starts with *Considérant que…*: *Considérant que la situation l'exige, le conseil décide…*\n- *d'autant (plus) que* + indicative — all the more so since: *Je ne sortirai pas, d'autant qu'il pleut.* (I won't go out, especially as it's raining.)\n- *d'autant plus… que* — all the more… because: *Il est d'autant plus déçu qu'il avait beaucoup travaillé.* (He's all the more disappointed because he'd worked hard.)\n- *surtout que* + indicative — especially since (spoken): *Prends un manteau, surtout qu'il fait froid.*\n- *non que* / *non pas que* + **subjunctive** — not that: *Je refuse, non qu'il soit trop cher, mais je n'en ai pas besoin.*\n- *ce n'est pas que* + subjunctive — it's not that… (spoken)\n- *sous prétexte que* + indicative — on the (false) pretext that\n- *du moment que* + indicative — since, as long as: *Du moment que tu es heureux, ça me va.*\n- *à la suite de*, *par suite de* + noun — following, as a result of: *À la suite de l'accident, la route a été fermée.*"
+  },
+  {
+   "heading": "Nouns and verbs of cause",
+   "body": "*la cause, la raison, le motif* (the grounds), *l'origine*: *être à l'origine de* (to be the cause of), *provenir de*, *résulter de* (to result from), *être dû à*, *s'expliquer par*, *tenir à* (to be due to — formal: *Son succès tient à son travail*), *provoquer*, *entraîner* (to bring about), *susciter* (to arouse)."
+  }
+ ],
+ "vocab": [
+  [
+   "attendu que",
+   "given that (legal)",
+   "a.tɑ̃.dy kə"
+  ],
+  [
+   "considérant que",
+   "considering that",
+   "kɔ̃.si.de.ʁɑ̃ kə"
+  ],
+  [
+   "d'autant que",
+   "all the more so since",
+   "do.tɑ̃ kə"
+  ],
+  [
+   "d'autant plus… que",
+   "all the more… because",
+   "do.tɑ̃ ply kə"
+  ],
+  [
+   "surtout que",
+   "especially since",
+   "syʁ.tu kə"
+  ],
+  [
+   "non que",
+   "not that",
+   "nɔ̃ kə"
+  ],
+  [
+   "du moment que",
+   "since, as long as",
+   "dy mɔ.mɑ̃ kə"
+  ],
+  [
+   "à la suite de",
+   "following",
+   "a la sɥit də"
+  ],
+  [
+   "le motif",
+   "the grounds, the reason",
+   "lə mɔ.tif"
+  ],
+  [
+   "être à l'origine de",
+   "to be the cause of",
+   "ɛtʁ a lɔ.ʁi.ʒin də"
+  ],
+  [
+   "résulter de",
+   "to result from",
+   "ʁe.zyl.te də"
+  ],
+  [
+   "tenir à",
+   "to be due to (formal)",
+   "tə.niʁ a"
+  ],
+  [
+   "entraîner",
+   "to bring about, to lead to",
+   "ɑ̃.tʁe.ne"
+  ],
+  [
+   "susciter",
+   "to arouse, to give rise to",
+   "sy.si.te"
+  ]
+ ],
+ "examples": [
+  [
+   "Attendu que le locataire n'a pas payé, le bail est résilié.",
+   "Given that the tenant has not paid, the lease is terminated."
+  ],
+  [
+   "Considérant que la situation l'exige, le conseil décide de fermer l'école.",
+   "Considering that the situation requires it, the council decides to close the school."
+  ],
+  [
+   "Je ne sortirai pas, d'autant qu'il pleut.",
+   "I won't go out, especially as it's raining."
+  ],
+  [
+   "Il est d'autant plus déçu qu'il avait beaucoup travaillé.",
+   "He's all the more disappointed because he'd worked hard."
+  ],
+  [
+   "Prends un manteau, surtout qu'il fait froid.",
+   "Take a coat, especially since it's cold."
+  ],
+  [
+   "Je refuse, non que ce soit trop cher, mais je n'en ai pas besoin.",
+   "I'm refusing — not that it's too expensive, but I don't need it."
+  ],
+  [
+   "Du moment que tu es heureux, ça me va.",
+   "As long as you're happy, that's fine by me."
+  ],
+  [
+   "À la suite de l'accident, la route a été fermée.",
+   "Following the accident, the road was closed."
+  ],
+  [
+   "Le motif de son absence reste inconnu.",
+   "The reason for his absence remains unknown."
+  ],
+  [
+   "Cette décision est à l'origine du conflit.",
+   "This decision is the cause of the conflict."
+  ],
+  [
+   "Son succès tient à son travail acharné.",
+   "His success is due to his relentless work."
+  ],
+  [
+   "La réforme a suscité de vives protestations.",
+   "The reform gave rise to strong protests."
+  ],
+  [
+   "La hausse des prix a entraîné une baisse de la consommation.",
+   "The price rise led to a fall in consumption."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*d'autant plus que* means…",
+   "options": [
+    "all the more so since",
+    "as long as",
+    "not that"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*non que* takes…",
+   "options": [
+    "the subjunctive",
+    "the indicative",
+    "an infinitive"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je refuse, non que ce ___ trop cher.",
+   "options": [
+    "soit",
+    "est",
+    "sera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est d'autant plus déçu qu'il ___ beaucoup travaillé.",
+   "options": [
+    "avait",
+    "ait",
+    "aurait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*attendu que* is typical of…",
+   "options": [
+    "legal and administrative texts",
+    "casual speech",
+    "poetry"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*du moment que* means…",
+   "options": [
+    "as long as, since",
+    "from the moment only",
+    "at the time when"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Son succès tient à son travail* means…",
+   "options": [
+    "His success is due to his work",
+    "His success holds his work",
+    "He keeps his work for success"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*susciter* means…",
+   "options": [
+    "to arouse, to give rise to",
+    "to suspect",
+    "to sustain"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*entraîner* (a consequence) means…",
+   "options": [
+    "to bring about, to lead to",
+    "to train only",
+    "to drag"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*surtout que* is mainly…",
+   "options": [
+    "spoken",
+    "legal",
+    "poetic"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "___ que le locataire n'a pas payé, le bail est résilié.",
+   "answers": [
+    "Attendu"
+   ],
+   "hint": "Given that the tenant has not paid…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne sortirai pas, d'autant ___ il pleut.",
+   "answers": [
+    "qu'"
+   ],
+   "hint": "especially as it's raining."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est d'autant ___ déçu qu'il avait beaucoup travaillé.",
+   "answers": [
+    "plus"
+   ],
+   "hint": "all the more disappointed…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je refuse, non que ce ___ trop cher. (être)",
+   "answers": [
+    "soit"
+   ],
+   "hint": "not that it's too expensive."
+  },
+  {
+   "type": "fill",
+   "prompt": "Du ___ que tu es heureux, ça me va.",
+   "answers": [
+    "moment"
+   ],
+   "hint": "As long as you're happy…"
+  },
+  {
+   "type": "fill",
+   "prompt": "À la ___ de l'accident, la route a été fermée.",
+   "answers": [
+    "suite"
+   ],
+   "hint": "Following the accident…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Cette décision est à l'___ du conflit.",
+   "answers": [
+    "origine"
+   ],
+   "hint": "This decision is the cause of the conflict."
+  },
+  {
+   "type": "fill",
+   "prompt": "La réforme a ___ de vives protestations.",
+   "answers": [
+    "suscité"
+   ],
+   "hint": "The reform gave rise to strong protests."
+  },
+  {
+   "type": "fill",
+   "prompt": "La hausse des prix a ___ une baisse de la consommation.",
+   "answers": [
+    "entraîné"
+   ],
+   "hint": "The price rise led to a fall…"
+  },
+  {
+   "type": "translate",
+   "prompt": "As long as you're happy, that's fine. (to a friend)",
+   "answers": [
+    "Du moment que tu es heureux, ça me va.",
+    "Du moment que tu es heureuse, ça me va."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Following the accident, the road was closed.",
+   "answers": [
+    "À la suite de l'accident, la route a été fermée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "especially since it's cold",
+   "answers": [
+    "surtout qu'il fait froid",
+    "d'autant qu'il fait froid"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He's all the more disappointed because he'd worked hard.\"",
+   "answer": "Il est d'autant plus déçu qu'il avait beaucoup travaillé."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The price rise led to a fall in consumption.\"",
+   "answer": "La hausse des prix a entraîné une baisse de la consommation."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm refusing — not that it's too expensive, but I don't need it.\"",
+   "answer": "Je refuse, non que ce soit trop cher, mais je n'en ai pas besoin."
+  }
+ ]
+}

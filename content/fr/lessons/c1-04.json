@@ -1,0 +1,362 @@
+{
+ "sections": [
+  {
+   "heading": "Why nuance matters",
+   "body": "At C1, you can't just say \"yes\" or \"no\": academic and professional French values *la nuance* — qualifying, limiting and softening claims so they can't be easily attacked."
+  },
+  {
+   "heading": "Attenuating (softening)",
+   "body": "- the **conditional**: *Il semblerait que…* (It would seem that… — from *sembler*, to seem), *On pourrait penser que…*, *Il conviendrait de…*\n- modal verbs and adverbs: *Il se peut que…*, *Il est possible que…* (+ subjunctive), *sans doute*, *probablement*, *vraisemblablement*, *a priori* (on the face of it), *apparemment*\n- limiting the scope: *dans une certaine mesure* (to a certain extent), *en partie*, *plus ou moins*, *relativement*, *dans la plupart des cas*, *à quelques exceptions près* (with a few exceptions)\n- *plutôt* (rather), *assez*, *un tant soit peu* (even slightly)\n- softening your own view: *Il me semble que…*, *J'aurais tendance à…*, *Si je ne me trompe pas, …* (If I'm not mistaken…), *Sauf erreur de ma part, …* (Unless I'm mistaken…)"
+  },
+  {
+   "heading": "Qualifying a claim",
+   "body": "- *Ce n'est pas tout à fait exact.* (not quite accurate)\n- *Il faut toutefois nuancer : …* (We must however qualify this:…)\n- *Ce n'est vrai qu'en partie.* — *Cela dépend de ce qu'on entend par…* (It depends what is meant by…)\n- *Sans aller jusqu'à dire que…, on peut affirmer que…* (Without going as far as saying…)\n- *Encore faut-il que…* (+ subjunctive, with inversion) — Still, it is necessary that…: *Le projet est intéressant ; encore faut-il qu'il soit financé.*\n- *Si… il n'en reste pas moins que…* — While…, the fact remains that…: *Si la mesure est coûteuse, il n'en reste pas moins qu'elle est nécessaire.*"
+  },
+  {
+   "heading": "Strengthening, when you are sure",
+   "body": "*Il est incontestable que…*, *À n'en pas douter*, *Il va sans dire que…* (It goes without saying that…), *Force est de reconnaître que…*"
+  }
+ ],
+ "vocab": [
+  [
+   "la nuance",
+   "the nuance",
+   "la nɥɑ̃s"
+  ],
+  [
+   "atténuer",
+   "to attenuate, to soften",
+   "a.te.nɥe"
+  ],
+  [
+   "il semblerait que",
+   "it would seem that",
+   "il sɑ̃.blə.ʁɛ kə"
+  ],
+  [
+   "a priori",
+   "on the face of it",
+   "a pʁi.jɔ.ʁi"
+  ],
+  [
+   "dans une certaine mesure",
+   "to a certain extent",
+   "dɑ̃.z‿yn sɛʁ.tɛn mə.zyʁ"
+  ],
+  [
+   "à quelques exceptions près",
+   "with a few exceptions",
+   "a kɛl.kə.z‿ɛk.sɛp.sjɔ̃ pʁɛ"
+  ],
+  [
+   "relativement",
+   "relatively",
+   "ʁə.la.tiv.mɑ̃"
+  ],
+  [
+   "sauf erreur de ma part",
+   "unless I'm mistaken",
+   "sof ɛ.ʁœʁ də ma paʁ"
+  ],
+  [
+   "exact / exacte",
+   "accurate, exact",
+   "ɛɡ.zakt / ɛɡ.zakt"
+  ],
+  [
+   "entendre par",
+   "to mean by",
+   "ɑ̃.tɑ̃dʁ paʁ"
+  ],
+  [
+   "encore faut-il que",
+   "still, it must be that",
+   "ɑ̃.kɔʁ fo.t‿il kə"
+  ],
+  [
+   "il n'en reste pas moins que",
+   "the fact remains that",
+   "il nɑ̃ ʁɛst pa mwɛ̃ kə"
+  ],
+  [
+   "incontestable",
+   "indisputable",
+   "ɛ̃.kɔ̃.tɛs.tabl"
+  ],
+  [
+   "il va sans dire",
+   "it goes without saying",
+   "il va sɑ̃ diʁ"
+  ],
+  [
+   "financer",
+   "to fund",
+   "fi.nɑ̃.se"
+  ]
+ ],
+ "examples": [
+  [
+   "Il semblerait que les résultats soient meilleurs que prévu.",
+   "It would seem the results are better than expected."
+  ],
+  [
+   "A priori, rien ne s'oppose à ce projet.",
+   "On the face of it, nothing stands in the way of this project."
+  ],
+  [
+   "Dans une certaine mesure, il a raison.",
+   "To a certain extent, he's right."
+  ],
+  [
+   "À quelques exceptions près, tous les élèves ont réussi.",
+   "With a few exceptions, all the pupils passed."
+  ],
+  [
+   "Sauf erreur de ma part, la réunion est demain.",
+   "Unless I'm mistaken, the meeting is tomorrow."
+  ],
+  [
+   "Ce n'est pas tout à fait exact.",
+   "That's not quite accurate."
+  ],
+  [
+   "Cela dépend de ce qu'on entend par « réussite ».",
+   "It depends what is meant by \"success\"."
+  ],
+  [
+   "Le projet est intéressant ; encore faut-il qu'il soit financé.",
+   "The project is interesting; still, it has to be funded."
+  ],
+  [
+   "Si la mesure est coûteuse, il n'en reste pas moins qu'elle est nécessaire.",
+   "While the measure is costly, the fact remains that it is necessary."
+  ],
+  [
+   "Sans aller jusqu'à dire que c'est un échec, on peut parler de déception.",
+   "Without going as far as calling it a failure, we can speak of disappointment."
+  ],
+  [
+   "Il est incontestable que la situation s'est améliorée.",
+   "It is indisputable that the situation has improved."
+  ],
+  [
+   "Il va sans dire que nous vous tiendrons informés.",
+   "It goes without saying that we'll keep you informed."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*dans une certaine mesure* means…",
+   "options": [
+    "to a certain extent",
+    "in a certain measurement",
+    "in some measures"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*a priori* means…",
+   "options": [
+    "on the face of it",
+    "first of all",
+    "after the fact"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Sauf erreur de ma part* means…",
+   "options": [
+    "Unless I'm mistaken",
+    "Except my mistake",
+    "Safe from error"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il n'en reste pas moins que…* means…",
+   "options": [
+    "The fact remains that…",
+    "Nothing remains of…",
+    "It remains less…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Encore faut-il que…* means…",
+   "options": [
+    "Still, it must be that…",
+    "Again it's needed…",
+    "Once more…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il va sans dire que…* means…",
+   "options": [
+    "It goes without saying that…",
+    "He goes without speaking",
+    "It's said without going"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il semblerait que les résultats ___ meilleurs.",
+   "options": [
+    "soient",
+    "sont",
+    "seront"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Encore faut-il qu'il ___ financé.",
+   "options": [
+    "soit",
+    "est",
+    "sera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which phrase softens a claim?",
+   "options": [
+    "Il semblerait que…",
+    "Il est incontestable que…",
+    "À n'en pas douter…"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Cela dépend de ce qu'on entend par…* means…",
+   "options": [
+    "It depends what is meant by…",
+    "It depends on what we hear…",
+    "It depends who hears…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ que les résultats soient meilleurs que prévu. (sembler, conditionnel)",
+   "answers": [
+    "semblerait"
+   ],
+   "hint": "It would seem…"
+  },
+  {
+   "type": "fill",
+   "prompt": "A ___, rien ne s'oppose à ce projet.",
+   "answers": [
+    "priori"
+   ],
+   "hint": "On the face of it…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans une certaine ___, il a raison.",
+   "answers": [
+    "mesure"
+   ],
+   "hint": "To a certain extent…"
+  },
+  {
+   "type": "fill",
+   "prompt": "À quelques exceptions ___, tous les élèves ont réussi.",
+   "answers": [
+    "près"
+   ],
+   "hint": "With a few exceptions…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Sauf ___ de ma part, la réunion est demain.",
+   "answers": [
+    "erreur"
+   ],
+   "hint": "Unless I'm mistaken…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce n'est pas tout à fait ___.",
+   "answers": [
+    "exact"
+   ],
+   "hint": "That's not quite accurate."
+  },
+  {
+   "type": "fill",
+   "prompt": "Encore faut-il qu'il ___ financé. (être)",
+   "answers": [
+    "soit"
+   ],
+   "hint": "still, it has to be funded."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il n'en reste pas ___ qu'elle est nécessaire.",
+   "answers": [
+    "moins"
+   ],
+   "hint": "the fact remains that it is necessary."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est ___ que la situation s'est améliorée.",
+   "answers": [
+    "incontestable"
+   ],
+   "hint": "It is indisputable that…"
+  },
+  {
+   "type": "translate",
+   "prompt": "To a certain extent, he's right.",
+   "answers": [
+    "Dans une certaine mesure, il a raison."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Unless I'm mistaken…",
+   "answers": [
+    "Sauf erreur de ma part…",
+    "Si je ne me trompe pas…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It goes without saying.",
+   "answers": [
+    "Ça va sans dire.",
+    "Il va sans dire."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"While the measure is costly, the fact remains that it is necessary.\"",
+   "answer": "Si la mesure est coûteuse, il n'en reste pas moins qu'elle est nécessaire."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The project is interesting; still, it has to be funded.\"",
+   "answer": "Le projet est intéressant ; encore faut-il qu'il soit financé."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"With a few exceptions, all the pupils passed.\"",
+   "answer": "À quelques exceptions près, tous les élèves ont réussi."
+  }
+ ]
+}
