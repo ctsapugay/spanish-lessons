@@ -1,0 +1,350 @@
+{
+ "sections": [
+  {
+   "heading": "What is a synthèse?",
+   "body": "The *synthèse de documents* is the first part of the DALF C1 written exam: you read several documents (about 1,000 words in total) on one topic and write **one** text of about 220 words that brings them together. It is not a summary of each document in turn, and it contains **no personal opinion**."
+  },
+  {
+   "heading": "The method",
+   "body": "1. **Read** all the documents and find the common theme and the central question (*la problématique*).\n2. **Compare**: make a table of ideas — where documents agree, where they differ, what each adds.\n3. **Plan** by ideas, not by document: two or three parts, each combining several sources.\n4. **Write**: a short introduction (topic + question + plan), the development, a brief conclusion (*bilan*, no opinion).\n5. **Reformulate** everything — never copy sentences — and refer to the documents neutrally: *Le document 1 souligne…*, *Selon l'auteur du deuxième texte…*, *Les deux articles s'accordent sur…*"
+  },
+  {
+   "heading": "Language for comparing sources",
+   "body": "- agreement: *Les auteurs s'accordent à dire que…* (agree in saying that…) — *Ce point de vue est partagé par…* — *Le document 2 rejoint cette analyse.* (agrees with this analysis) — *de même*, *également*\n- difference: *En revanche, …* — *Contrairement au premier texte, …* — *Le troisième document nuance ce constat.* — *Alors que l'un…, l'autre…*\n- adding: *Le document 3 apporte un éclairage différent : …* (sheds a different light) — *Il complète cette analyse en…*"
+  },
+  {
+   "heading": "Objectivity",
+   "body": "No *je*, no *à mon avis*, no evaluative adjectives that aren't in the sources; use *on*, the passive, impersonal phrases (*il apparaît que*, *il ressort de ces documents que* — it emerges from these documents that…)."
+  }
+ ],
+ "vocab": [
+  [
+   "la synthèse",
+   "the synthesis (of documents)",
+   "la sɛ̃.tɛz"
+  ],
+  [
+   "la problématique",
+   "the central question",
+   "la pʁɔ.ble.ma.tik"
+  ],
+  [
+   "s'accorder à dire",
+   "to agree in saying",
+   "sa.kɔʁ.de a diʁ"
+  ],
+  [
+   "rejoindre",
+   "to agree with, to match",
+   "ʁə.ʒwɛ̃dʁ"
+  ],
+  [
+   "nuancer",
+   "to qualify",
+   "nɥɑ̃.se"
+  ],
+  [
+   "apporter un éclairage",
+   "to shed light",
+   "a.pɔʁ.te œ̃.n‿e.klɛ.ʁaʒ"
+  ],
+  [
+   "compléter",
+   "to complement, to complete",
+   "kɔ̃.ple.te"
+  ],
+  [
+   "il ressort de",
+   "it emerges from",
+   "il ʁə.sɔʁ də"
+  ],
+  [
+   "il apparaît que",
+   "it appears that",
+   "il a.pa.ʁɛ kə"
+  ],
+  [
+   "objectif / objective",
+   "objective",
+   "ɔb.ʒɛk.tif / ɔb.ʒɛk.tiv"
+  ],
+  [
+   "recopier",
+   "to copy out",
+   "ʁə.kɔ.pje"
+  ],
+  [
+   "le document",
+   "the document",
+   "lə dɔ.ky.mɑ̃"
+  ],
+  [
+   "la source",
+   "the source",
+   "la suʁs"
+  ]
+ ],
+ "examples": [
+  [
+   "La synthèse ne contient aucune opinion personnelle.",
+   "The synthesis contains no personal opinion."
+  ],
+  [
+   "Les trois documents traitent du télétravail.",
+   "The three documents deal with working from home."
+  ],
+  [
+   "Les auteurs s'accordent à dire que le télétravail améliore la qualité de vie.",
+   "The authors agree that working from home improves quality of life."
+  ],
+  [
+   "Le document 2 rejoint cette analyse.",
+   "Document 2 agrees with this analysis."
+  ],
+  [
+   "Le troisième document nuance ce constat.",
+   "The third document qualifies this finding."
+  ],
+  [
+   "Contrairement au premier texte, l'article insiste sur les risques d'isolement.",
+   "Unlike the first text, the article stresses the risks of isolation."
+  ],
+  [
+   "Le document 3 apporte un éclairage différent.",
+   "Document 3 sheds a different light."
+  ],
+  [
+   "Il ressort de ces documents que la question divise.",
+   "It emerges from these documents that the question is divisive."
+  ],
+  [
+   "Il apparaît que les jeunes sont les plus favorables.",
+   "It appears that young people are the most in favour."
+  ],
+  [
+   "Il ne faut jamais recopier des phrases des documents.",
+   "You must never copy sentences from the documents."
+  ],
+  [
+   "Le plan est organisé par idées, et non par document.",
+   "The plan is organised by ideas, not by document."
+  ],
+  [
+   "Une synthèse doit rester objective.",
+   "A synthesis must remain objective."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "A synthèse…",
+   "options": [
+    "combines several documents, without personal opinion",
+    "summarises one document",
+    "gives your opinion on a topic"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The plan of a synthèse is organised…",
+   "options": [
+    "by ideas",
+    "document by document",
+    "by length"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Les auteurs s'accordent à dire que…* means…",
+   "options": [
+    "The authors agree in saying that…",
+    "The authors tune their words",
+    "The authors are told to agree"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le document 2 rejoint cette analyse* means…",
+   "options": [
+    "Document 2 agrees with this analysis",
+    "Document 2 joins the analysis team",
+    "Document 2 rejoins the page"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il ressort de ces documents que…* means…",
+   "options": [
+    "It emerges from these documents that…",
+    "He comes out of the documents",
+    "It's out of these documents"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*apporter un éclairage différent* means…",
+   "options": [
+    "to shed a different light",
+    "to bring a different lamp",
+    "to clarify the lighting"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which phrase is NOT appropriate in a synthèse?",
+   "options": [
+    "À mon avis, …",
+    "Le document 1 souligne…",
+    "Il apparaît que…"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*nuancer un constat* means…",
+   "options": [
+    "to qualify a finding",
+    "to shade a drawing",
+    "to reject a finding"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*recopier* means…",
+   "options": [
+    "to copy out",
+    "to copy again later",
+    "to cope"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The DALF C1 synthèse is about…",
+   "options": [
+    "220 words",
+    "1000 words",
+    "50 words"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "La synthèse ne contient aucune opinion ___.",
+   "answers": [
+    "personnelle"
+   ],
+   "hint": "no personal opinion."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les auteurs s'___ à dire que le télétravail améliore la qualité de vie.",
+   "answers": [
+    "accordent"
+   ],
+   "hint": "The authors agree that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le document 2 ___ cette analyse.",
+   "answers": [
+    "rejoint"
+   ],
+   "hint": "Document 2 agrees with this analysis."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le troisième document ___ ce constat.",
+   "answers": [
+    "nuance"
+   ],
+   "hint": "The third document qualifies this finding."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ au premier texte, l'article insiste sur les risques.",
+   "answers": [
+    "Contrairement"
+   ],
+   "hint": "Unlike the first text…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le document 3 apporte un ___ différent.",
+   "answers": [
+    "éclairage"
+   ],
+   "hint": "sheds a different light."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ de ces documents que la question divise.",
+   "answers": [
+    "ressort"
+   ],
+   "hint": "It emerges from these documents that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le plan est organisé par ___, et non par document.",
+   "answers": [
+    "idées"
+   ],
+   "hint": "organised by ideas."
+  },
+  {
+   "type": "fill",
+   "prompt": "Une synthèse doit rester ___.",
+   "answers": [
+    "objective"
+   ],
+   "hint": "A synthesis must remain objective."
+  },
+  {
+   "type": "translate",
+   "prompt": "It appears that…",
+   "answers": [
+    "Il apparaît que…",
+    "Il semble que…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The authors agree that…",
+   "answers": [
+    "Les auteurs s'accordent à dire que…",
+    "Les auteurs sont d'accord pour dire que…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Unlike the first text, …",
+   "answers": [
+    "Contrairement au premier texte, …"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The authors agree that working from home improves quality of life.\"",
+   "answer": "Les auteurs s'accordent à dire que le télétravail améliore la qualité de vie."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It emerges from these documents that the question is divisive.\"",
+   "answer": "Il ressort de ces documents que la question divise."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The plan is organised by ideas, not by document.\"",
+   "answer": "Le plan est organisé par idées, et non par document."
+  }
+ ]
+}

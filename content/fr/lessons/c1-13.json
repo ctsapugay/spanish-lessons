@@ -1,0 +1,358 @@
+{
+ "sections": [
+  {
+   "heading": "Supporting a point",
+   "body": "At C1, a point is not just stated: it's backed by secondary arguments, examples and evidence.\n\n- confirming: *Ce constat est confirmé par…* (This observation is confirmed by…) — *Les chiffres le prouvent : …* — *Plusieurs études vont dans ce sens.* (Several studies point in this direction.)\n- giving examples: *À titre d'exemple, …* — *Prenons le cas de…* — *Il suffit de penser à…* (One need only think of…) — *En témoigne…* (As shown by… — literary inversion: *En témoigne le succès de ce livre.*)\n- adding weight: *Qui plus est, …* — *Sans compter que…* (Not to mention that…) — *À cela s'ajoute…* (Added to this is…)\n- generalising from examples: *Ces exemples montrent que…* — *On peut en conclure que…*"
+  },
+  {
+   "heading": "Transitions",
+   "body": "Transitions show the reader where the argument is going:\n\n- moving on: *Venons-en maintenant à…* (Let us now come to…) — *Passons à présent à…* — *Reste la question de…* (There remains the question of…)\n- linking back: *Comme nous l'avons vu, …* — *Ce premier point nous amène à…* (This first point leads us to…)\n- turning: *Il convient toutefois de nuancer ce propos.* — *Cela dit, …* (That said…) — *Il n'en demeure pas moins que…*"
+  },
+  {
+   "heading": "Digressions",
+   "body": "A digression is a short detour from the main line — useful in speech, but it must be signalled and closed:\n\n- opening: *Soit dit en passant, …* (Incidentally…) — *Entre parenthèses, …* (By the way…) — *Je fais une petite parenthèse : …* — *Au passage, …*\n- closing: *Mais revenons à notre sujet.* — *Pour en revenir à…* (To get back to…) — *Je referme la parenthèse.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le constat",
+   "the observation, the finding",
+   "lə kɔ̃s.ta"
+  ],
+  [
+   "confirmer",
+   "to confirm",
+   "kɔ̃.fiʁ.me"
+  ],
+  [
+   "aller dans ce sens",
+   "to point in this direction",
+   "a.le dɑ̃ sə sɑ̃s"
+  ],
+  [
+   "il suffit de",
+   "one need only",
+   "il sy.fi də"
+  ],
+  [
+   "témoigner",
+   "to testify, to show",
+   "te.mwa.ɲe"
+  ],
+  [
+   "sans compter que",
+   "not to mention that",
+   "sɑ̃ kɔ̃.te kə"
+  ],
+  [
+   "venons-en à",
+   "let us come to",
+   "və.nɔ̃.z‿ɑ̃ a"
+  ],
+  [
+   "amener",
+   "to bring, to lead",
+   "am.ne"
+  ],
+  [
+   "cela dit",
+   "that said",
+   "sə.la di"
+  ],
+  [
+   "soit dit en passant",
+   "incidentally",
+   "swa di ɑ̃ pa.sɑ̃"
+  ],
+  [
+   "entre parenthèses",
+   "by the way",
+   "ɑ̃.tʁə pa.ʁɑ̃.tɛz"
+  ],
+  [
+   "la parenthèse",
+   "the parenthesis, the aside",
+   "la pa.ʁɑ̃.tɛz"
+  ],
+  [
+   "la digression",
+   "the digression",
+   "la di.ɡʁɛ.sjɔ̃"
+  ],
+  [
+   "revenir à",
+   "to come back to",
+   "ʁə.və.niʁ a"
+  ]
+ ],
+ "examples": [
+  [
+   "Ce constat est confirmé par les chiffres de l'année dernière.",
+   "This finding is confirmed by last year's figures."
+  ],
+  [
+   "Plusieurs études vont dans ce sens.",
+   "Several studies point in this direction."
+  ],
+  [
+   "Il suffit de penser aux grandes villes pour s'en convaincre.",
+   "One need only think of the big cities to be convinced."
+  ],
+  [
+   "En témoigne le succès de ce livre.",
+   "As shown by the success of this book."
+  ],
+  [
+   "Le projet est coûteux, sans compter qu'il prendra des années.",
+   "The project is costly, not to mention that it will take years."
+  ],
+  [
+   "À cela s'ajoute le problème du financement.",
+   "Added to this is the problem of funding."
+  ],
+  [
+   "Venons-en maintenant à la question principale.",
+   "Let us now come to the main question."
+  ],
+  [
+   "Ce premier point nous amène à nous interroger sur l'avenir.",
+   "This first point leads us to wonder about the future."
+  ],
+  [
+   "Cela dit, la situation n'est pas désespérée.",
+   "That said, the situation isn't hopeless."
+  ],
+  [
+   "Soit dit en passant, il avait raison depuis le début.",
+   "Incidentally, he'd been right from the start."
+  ],
+  [
+   "Je fais une petite parenthèse : ce bâtiment date du dix-septième siècle.",
+   "A quick aside: this building dates from the seventeenth century."
+  ],
+  [
+   "Mais revenons à notre sujet.",
+   "But let's get back to the point."
+  ],
+  [
+   "Pour en revenir à votre question, la réponse est non.",
+   "To get back to your question, the answer is no."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Soit dit en passant* means…",
+   "options": [
+    "Incidentally",
+    "So said when passing",
+    "Let it be said in passing away"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Revenons à notre sujet* is used to…",
+   "options": [
+    "close a digression",
+    "open a digression",
+    "conclude a debate"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il suffit de penser à…* means…",
+   "options": [
+    "One need only think of…",
+    "It's enough thinking about… only",
+    "It suffices to think nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*En témoigne le succès de ce livre* means…",
+   "options": [
+    "As shown by the success of this book",
+    "The book's success testifies in court",
+    "Witness the book"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*sans compter que* means…",
+   "options": [
+    "not to mention that",
+    "without counting",
+    "uncountable"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Cela dit, …* means…",
+   "options": [
+    "That said, …",
+    "Told this, …",
+    "It says, …"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Venons-en à…* means…",
+   "options": [
+    "Let us come to…",
+    "Let's come from…",
+    "Come and get it"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Plusieurs études vont dans ce sens* means…",
+   "options": [
+    "Several studies point in this direction",
+    "Several studies are going this way physically",
+    "Studies make sense"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: À cela s'___ le problème du financement.",
+   "options": [
+    "ajoute",
+    "ajouter",
+    "ajoutent"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "To open a short aside in speech you say…",
+   "options": [
+    "Je fais une petite parenthèse : …",
+    "Pour conclure : …",
+    "En définitive : …"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce ___ est confirmé par les chiffres.",
+   "answers": [
+    "constat"
+   ],
+   "hint": "This finding is confirmed by the figures."
+  },
+  {
+   "type": "fill",
+   "prompt": "Plusieurs études vont dans ce ___.",
+   "answers": [
+    "sens"
+   ],
+   "hint": "Several studies point in this direction."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ de penser aux grandes villes.",
+   "answers": [
+    "suffit"
+   ],
+   "hint": "One need only think of the big cities."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le projet est coûteux, sans ___ qu'il prendra des années.",
+   "answers": [
+    "compter"
+   ],
+   "hint": "not to mention that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___-en maintenant à la question principale.",
+   "answers": [
+    "Venons"
+   ],
+   "hint": "Let us now come to the main question."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ dit, la situation n'est pas désespérée.",
+   "answers": [
+    "Cela"
+   ],
+   "hint": "That said…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Soit dit en ___, il avait raison depuis le début.",
+   "answers": [
+    "passant"
+   ],
+   "hint": "Incidentally…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Mais ___ à notre sujet.",
+   "answers": [
+    "revenons"
+   ],
+   "hint": "But let's get back to the point."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pour en revenir à votre ___, la réponse est non.",
+   "answers": [
+    "question"
+   ],
+   "hint": "To get back to your question…"
+  },
+  {
+   "type": "translate",
+   "prompt": "That said, …",
+   "answers": [
+    "Cela dit, …",
+    "Ceci dit, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Let's get back to the point.",
+   "answers": [
+    "Revenons à notre sujet.",
+    "Revenons-en à notre sujet."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Incidentally, …",
+   "answers": [
+    "Soit dit en passant, …",
+    "Au passage, …",
+    "Entre parenthèses, …"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"This first point leads us to wonder about the future.\"",
+   "answer": "Ce premier point nous amène à nous interroger sur l'avenir."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The project is costly, not to mention that it will take years.\"",
+   "answer": "Le projet est coûteux, sans compter qu'il prendra des années."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"A quick aside: this building dates from the seventeenth century.\"",
+   "answer": "Je fais une petite parenthèse : ce bâtiment date du dix-septième siècle."
+  }
+ ]
+}

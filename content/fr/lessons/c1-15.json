@@ -1,0 +1,358 @@
+{
+ "sections": [
+  {
+   "heading": "The essai argumenté",
+   "body": "The second part of the DALF C1 written exam: an argued essay of about 250 words on a question related to the documents. Here, your **own position** is required — but defended with method."
+  },
+  {
+   "heading": "Structure",
+   "body": "1. **Introduction**: an *accroche* (a fact, a quotation, a question), the topic, the *problématique* reformulated as a question, the announced plan.\n2. **Development**: two or three parts. Options:\n   - *plan dialectique*: thesis / antithesis / synthesis — when the question is \"Do you agree…?\"\n   - *plan thématique*: aspects of the topic (economic, social, environmental…)\n   - *plan analytique*: situation / causes / consequences / solutions\n   Each paragraph: an idea, arguments, an example, a mini-conclusion.\n3. **Conclusion**: answer the question clearly, sum up (*bilan*), open onto a wider issue (*ouverture*)."
+  },
+  {
+   "heading": "Language for an essay",
+   "body": "- introducing: *Il est fréquent d'entendre dire que…* — *À l'heure où…* (At a time when…) — *On peut dès lors se demander si…* (One may therefore ask whether…)\n- conceding then refuting: *Certes, … Toutefois, …* — *Il est vrai que… ; il n'en reste pas moins que…* — *On objectera que… Or…*\n- giving your position: *Pour notre part, nous estimons que…* (the academic *nous*) — *Il nous semble que…* — *Nous sommes d'avis que…*\n- concluding: *En définitive*, *Au terme de cette réflexion*, *Tout bien considéré* — opening: *Reste à savoir si…*, *La question se pose désormais de…*"
+  },
+  {
+   "heading": "Style",
+   "body": "Formal register, varied connectors, complex sentences (relative clauses, subjunctive, nominalisation), precise vocabulary; avoid *je pense* repeated, *chose*, *truc*, *il y a* too often, and all familiar French."
+  }
+ ],
+ "vocab": [
+  [
+   "l'essai",
+   "the essay",
+   "le.sɛ",
+   "m"
+  ],
+  [
+   "argumenté / argumentée",
+   "argued, reasoned",
+   "aʁ.ɡy.mɑ̃.te / aʁ.ɡy.mɑ̃.te"
+  ],
+  [
+   "le plan dialectique",
+   "the dialectical plan",
+   "lə plɑ̃ dja.lɛk.tik"
+  ],
+  [
+   "le plan thématique",
+   "the thematic plan",
+   "lə plɑ̃ te.ma.tik"
+  ],
+  [
+   "à l'heure où",
+   "at a time when",
+   "a lœʁ u"
+  ],
+  [
+   "dès lors",
+   "therefore, from then on",
+   "dɛ lɔʁ"
+  ],
+  [
+   "réfuter",
+   "to refute",
+   "ʁe.fy.te"
+  ],
+  [
+   "objecter",
+   "to object",
+   "ɔb.ʒɛk.te"
+  ],
+  [
+   "estimer",
+   "to consider",
+   "ɛs.ti.me"
+  ],
+  [
+   "être d'avis que",
+   "to be of the opinion that",
+   "ɛtʁ da.vi kə"
+  ],
+  [
+   "au terme de",
+   "at the end of",
+   "o tɛʁm də"
+  ],
+  [
+   "la réflexion",
+   "the reflection, thinking",
+   "la ʁe.flɛk.sjɔ̃"
+  ],
+  [
+   "désormais",
+   "from now on",
+   "de.zɔʁ.mɛ"
+  ],
+  [
+   "le truc",
+   "the thing (informal)",
+   "lə tʁyk"
+  ]
+ ],
+ "examples": [
+  [
+   "À l'heure où le numérique envahit nos vies, la lecture est-elle menacée ?",
+   "At a time when digital technology is invading our lives, is reading under threat?"
+  ],
+  [
+   "On peut dès lors se demander si l'école doit changer.",
+   "One may therefore ask whether schools must change."
+  ],
+  [
+   "Certes, les écrans facilitent l'accès au savoir.",
+   "Admittedly, screens make knowledge more accessible."
+  ],
+  [
+   "Toutefois, ils nuisent à la concentration.",
+   "However, they harm concentration."
+  ],
+  [
+   "On objectera que les jeunes lisent davantage en ligne. Or, ces lectures sont souvent superficielles.",
+   "It will be objected that young people read more online. Yet this reading is often superficial."
+  ],
+  [
+   "Pour notre part, nous estimons qu'un équilibre est possible.",
+   "For our part, we consider that a balance is possible."
+  ],
+  [
+   "Nous sommes d'avis que l'école doit enseigner l'usage des écrans.",
+   "We are of the opinion that schools must teach how to use screens."
+  ],
+  [
+   "Au terme de cette réflexion, il apparaît que la lecture n'est pas menacée mais transformée.",
+   "At the end of this reflection, it appears that reading is not threatened but transformed."
+  ],
+  [
+   "Reste à savoir si les éditeurs sauront s'adapter.",
+   "It remains to be seen whether publishers will manage to adapt."
+  ],
+  [
+   "La question se pose désormais de la place du livre papier.",
+   "The question now arises of the place of the paper book."
+  ],
+  [
+   "Dans un essai, on évite les mots familiers comme « truc ».",
+   "In an essay, you avoid informal words like \"truc\"."
+  ],
+  [
+   "Chaque paragraphe se termine par une mini-conclusion.",
+   "Each paragraph ends with a mini-conclusion."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "In the essai argumenté, your own position is…",
+   "options": [
+    "required, defended with method",
+    "forbidden",
+    "optional"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The plan \"thesis / antithesis / synthesis\" is…",
+   "options": [
+    "the plan dialectique",
+    "the plan thématique",
+    "the plan analytique"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*À l'heure où…* means…",
+   "options": [
+    "At a time when…",
+    "At the hour when exactly",
+    "On time"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*On objectera que… Or…* is used to…",
+   "options": [
+    "anticipate an objection and refute it",
+    "add an example",
+    "conclude"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Pour notre part, nous estimons que…* uses…",
+   "options": [
+    "the academic \"nous\"",
+    "a group of authors only",
+    "the royal \"we\" for kings"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Au terme de cette réflexion* means…",
+   "options": [
+    "At the end of this reflection",
+    "In terms of this reflection",
+    "At the term's end"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*désormais* means…",
+   "options": [
+    "from now on",
+    "sometimes",
+    "formerly"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which word should be avoided in an essay?",
+   "options": [
+    "truc",
+    "toutefois",
+    "désormais"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: On peut dès ___ se demander si l'école doit changer.",
+   "options": [
+    "lors",
+    "que",
+    "fois"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*réfuter* means…",
+   "options": [
+    "to refute",
+    "to refund",
+    "to refuse a gift"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "À l'___ où le numérique envahit nos vies, …",
+   "answers": [
+    "heure"
+   ],
+   "hint": "At a time when…"
+  },
+  {
+   "type": "fill",
+   "prompt": "On peut dès ___ se demander si l'école doit changer.",
+   "answers": [
+    "lors"
+   ],
+   "hint": "One may therefore ask…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___, les écrans facilitent l'accès au savoir.",
+   "answers": [
+    "Certes"
+   ],
+   "hint": "Admittedly, screens…"
+  },
+  {
+   "type": "fill",
+   "prompt": "On ___ que les jeunes lisent davantage en ligne. (objecter, futur)",
+   "answers": [
+    "objectera"
+   ],
+   "hint": "It will be objected that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Pour notre part, nous ___ qu'un équilibre est possible. (estimer)",
+   "answers": [
+    "estimons"
+   ],
+   "hint": "we consider that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous sommes d'___ que l'école doit enseigner l'usage des écrans.",
+   "answers": [
+    "avis"
+   ],
+   "hint": "We are of the opinion that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Au ___ de cette réflexion, il apparaît que…",
+   "answers": [
+    "terme"
+   ],
+   "hint": "At the end of this reflection…"
+  },
+  {
+   "type": "fill",
+   "prompt": "La question se pose ___ de la place du livre papier.",
+   "answers": [
+    "désormais"
+   ],
+   "hint": "The question now arises…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Reste à ___ si les éditeurs sauront s'adapter.",
+   "answers": [
+    "savoir"
+   ],
+   "hint": "It remains to be seen whether…"
+  },
+  {
+   "type": "translate",
+   "prompt": "One may therefore ask whether…",
+   "answers": [
+    "On peut dès lors se demander si…",
+    "On peut donc se demander si…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "For our part, we consider that…",
+   "answers": [
+    "Pour notre part, nous estimons que…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "from now on",
+   "answers": [
+    "désormais",
+    "dorénavant",
+    "à partir de maintenant"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It will be objected that young people read more online.\"",
+   "answer": "On objectera que les jeunes lisent davantage en ligne."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"For our part, we consider that a balance is possible.\"",
+   "answer": "Pour notre part, nous estimons qu'un équilibre est possible."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"At the end of this reflection, it appears that reading is not threatened but transformed.\"",
+   "answer": "Au terme de cette réflexion, il apparaît que la lecture n'est pas menacée mais transformée."
+  }
+ ]
+}
