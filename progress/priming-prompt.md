@@ -30,9 +30,12 @@ You are resuming work on this project as the WORKER. Do this first, in order:
    across fronts; stop only when genuinely blocked on every front, or when an action would
    be dangerous or irreversible. Log at every natural break and keep the checkpoint fresh.
 
-Project: Spanish lessons — a local browser app with a full A1→C1 Latin American Spanish
-curriculum, dashboard, lessons, practice center, and cumulative quizzes that drive progress.
-Clara approves things in chat only; see "How Clara approves" in `CLAUDE.md`. Commit locally at
+Project: Polyglotte — a local browser app teaching Spanish (done) and French (in progress),
+each with a full A1→C1 curriculum, dashboard, lessons, practice center, and cumulative quizzes
+that drive progress. French lessons are JSON in `content/fr/lessons/`; the outline is
+`content/fr/course.json`; each level needs a review in `curriculum/fr/reviews/<LEVEL>.md`.
+Done means `python3 tools/verify.py` is green and G1–G13 in `goals/criteria.md` are met with
+evidence. Clara approves things in chat only; see "How Clara approves" in `CLAUDE.md`. Commit locally at
 natural breaks; the GitHub repo `ctsapugay/spanish-lessons` is public, so never push without
 Clara's explicit go-ahead. Also read
 "Project notes" at the bottom of `CLAUDE.md`.
@@ -56,8 +59,7 @@ You are READ-ONLY over the constraint system: do not edit `constraints/`, `goals
 belong to the worker's turn). Answer Clara's questions and check in when she prompts;
 otherwise stay quiet. Report what you see; do not act.
 
-Project: Spanish lessons — a local browser app with a full A1→C1 Latin American Spanish
-curriculum, dashboard, lessons, practice center, and cumulative quizzes that drive progress.
+Project: Polyglotte — a local browser app teaching Spanish and French, A1→C1 each.
 Clara approves things in chat only; see "How Clara approves" in `CLAUDE.md`. Commit locally at
 natural breaks; the GitHub repo `ctsapugay/spanish-lessons` is public, so never push without
 Clara's explicit go-ahead. Also read
