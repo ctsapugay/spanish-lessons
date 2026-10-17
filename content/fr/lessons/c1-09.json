@@ -1,0 +1,352 @@
+{
+ "sections": [
+  {
+   "heading": "The expletive ne",
+   "body": "In formal French, a ***ne*** **without** *pas* appears in some subordinate clauses. It is **not negative** — it adds nothing to the meaning — and it's called *le ne explétif*. It's optional (and often dropped in speech), but you'll meet it constantly in writing:\n\n- after verbs of **fear**: *craindre que*, *avoir peur que*, *de peur / de crainte que*: *Je crains qu'il ne soit trop tard.* (I'm afraid it's too late.)\n- after **avant que** and **à moins que**: *Partez avant qu'il ne pleuve.* (Leave before it rains.) *Je viendrai, à moins qu'il ne fasse mauvais.* (… unless the weather is bad.)\n- after **comparisons of inequality**: *Il est plus intelligent qu'on ne le pense.* (He's cleverer than people think.) *C'est moins cher que je ne le croyais.*\n- after **empêcher que**, **éviter que**: *Il faut éviter que la situation ne s'aggrave.*\n\nCompare a real negative: *Je crains qu'il **ne vienne pas**.* (I'm afraid he won't come.) vs *Je crains qu'il **ne vienne**.* (I'm afraid he'll come.) — the *pas* makes the difference."
+  },
+  {
+   "heading": "Formal negation",
+   "body": "- *ne* alone, without *pas*, with a few verbs in literary style: *Je ne sais.* (I don't know) *Je n'ose le dire.* (I dare not say it) *Il ne cesse de pleuvoir.* (It doesn't stop raining) *Je ne peux* (I cannot).\n- *nul / nulle* — no, not one (formal): *Nul n'est censé ignorer la loi.* (Ignorance of the law is no excuse — literally \"no one is supposed not to know the law\".) *sans nul doute* (beyond doubt)\n- *nulle part* — nowhere: *Je ne l'ai trouvé nulle part.*\n- *ne… guère* — hardly, scarcely: *Il n'a guère dormi.* (He hardly slept.)\n- *ne… point* — not at all (literary, archaic): *Je ne te hais point.*\n- *aucunement*, *nullement* — in no way: *Je ne suis nullement surpris.*\n- *ni… ni… ne*: *Ni lui ni elle ne sont venus.*\n- double negatives combine: *Je n'ai jamais rien dit à personne.* (I never said anything to anyone.)"
+  }
+ ],
+ "vocab": [
+  [
+   "le ne explétif",
+   "the expletive ne",
+   "lə nə ɛk.sple.tif"
+  ],
+  [
+   "craindre",
+   "to fear",
+   "kʁɛ̃dʁ"
+  ],
+  [
+   "s'aggraver",
+   "to get worse",
+   "sa.ɡʁa.ve"
+  ],
+  [
+   "oser",
+   "to dare",
+   "o.ze"
+  ],
+  [
+   "cesser",
+   "to stop, to cease",
+   "se.se"
+  ],
+  [
+   "nul / nulle",
+   "no, not one (formal)",
+   "nyl / nyl"
+  ],
+  [
+   "nulle part",
+   "nowhere",
+   "nyl paʁ"
+  ],
+  [
+   "ne… guère",
+   "hardly, scarcely",
+   "nə ɡɛʁ"
+  ],
+  [
+   "ne… point",
+   "not at all (literary)",
+   "nə pwɛ̃"
+  ],
+  [
+   "nullement",
+   "in no way",
+   "nyl.mɑ̃"
+  ],
+  [
+   "censé / censée",
+   "supposed to",
+   "sɑ̃.se / sɑ̃.se"
+  ],
+  [
+   "ignorer",
+   "not to know, to be unaware of",
+   "i.ɲɔ.ʁe"
+  ],
+  [
+   "la loi",
+   "the law",
+   "la lwa"
+  ]
+ ],
+ "examples": [
+  [
+   "Je crains qu'il ne soit trop tard.",
+   "I'm afraid it's too late."
+  ],
+  [
+   "Partez avant qu'il ne pleuve.",
+   "Leave before it rains."
+  ],
+  [
+   "Je viendrai, à moins qu'il ne fasse mauvais.",
+   "I'll come, unless the weather is bad."
+  ],
+  [
+   "Il est plus intelligent qu'on ne le pense.",
+   "He's cleverer than people think."
+  ],
+  [
+   "C'est moins cher que je ne le croyais.",
+   "It's cheaper than I thought."
+  ],
+  [
+   "Il faut éviter que la situation ne s'aggrave.",
+   "We must prevent the situation from getting worse."
+  ],
+  [
+   "Je crains qu'il ne vienne pas.",
+   "I'm afraid he won't come."
+  ],
+  [
+   "Je n'ose le dire.",
+   "I dare not say it."
+  ],
+  [
+   "Il ne cesse de pleuvoir depuis lundi.",
+   "It hasn't stopped raining since Monday."
+  ],
+  [
+   "Nul n'est censé ignorer la loi.",
+   "Ignorance of the law is no excuse."
+  ],
+  [
+   "Je ne l'ai trouvé nulle part.",
+   "I couldn't find it anywhere."
+  ],
+  [
+   "Il n'a guère dormi cette nuit.",
+   "He hardly slept last night."
+  ],
+  [
+   "Je ne suis nullement surpris.",
+   "I'm not in the least surprised."
+  ],
+  [
+   "Je n'ai jamais rien dit à personne.",
+   "I never said anything to anyone."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "In *Je crains qu'il ne soit trop tard*, the *ne* means…",
+   "options": [
+    "nothing — it's expletive",
+    "not",
+    "only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je crains qu'il ne vienne pas* means…",
+   "options": [
+    "I'm afraid he won't come",
+    "I'm afraid he'll come",
+    "I'm not afraid he'll come"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je crains qu'il ne vienne* means…",
+   "options": [
+    "I'm afraid he'll come",
+    "I'm afraid he won't come",
+    "I don't fear his coming"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il n'a guère dormi* means…",
+   "options": [
+    "He hardly slept",
+    "He never slept",
+    "He slept in a station"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Nul n'est censé ignorer la loi* means…",
+   "options": [
+    "Ignorance of the law is no excuse",
+    "Nobody knows the law",
+    "The law is null"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*nulle part* means…",
+   "options": [
+    "nowhere",
+    "no part",
+    "none of it"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il ne cesse de pleuvoir* means…",
+   "options": [
+    "It doesn't stop raining",
+    "It stops raining",
+    "It never rains"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je ne suis nullement surpris* means…",
+   "options": [
+    "I'm not in the least surprised",
+    "I'm hardly surprised",
+    "I'm surprised by nothing"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il est plus intelligent qu'on ne le ___.",
+   "options": [
+    "pense",
+    "pense pas",
+    "pensait pas"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Which sentence contains an expletive ne?",
+   "options": [
+    "Partez avant qu'il ne pleuve.",
+    "Il ne pleut pas.",
+    "Il ne pleut jamais."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ qu'il ne soit trop tard. (craindre)",
+   "answers": [
+    "crains"
+   ],
+   "hint": "I'm afraid it's too late."
+  },
+  {
+   "type": "fill",
+   "prompt": "Partez avant qu'il ne ___. (pleuvoir)",
+   "answers": [
+    "pleuve"
+   ],
+   "hint": "Leave before it rains."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est plus intelligent qu'on ne le ___.",
+   "answers": [
+    "pense"
+   ],
+   "hint": "He's cleverer than people think."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut éviter que la situation ne s'___. (aggraver)",
+   "answers": [
+    "aggrave"
+   ],
+   "hint": "We must prevent the situation from getting worse."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je n'___ le dire. (oser)",
+   "answers": [
+    "ose"
+   ],
+   "hint": "I dare not say it."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ n'est censé ignorer la loi.",
+   "answers": [
+    "Nul"
+   ],
+   "hint": "Ignorance of the law is no excuse."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne l'ai trouvé nulle ___.",
+   "answers": [
+    "part"
+   ],
+   "hint": "I couldn't find it anywhere."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il n'a ___ dormi cette nuit.",
+   "answers": [
+    "guère"
+   ],
+   "hint": "He hardly slept last night."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne suis ___ surpris.",
+   "answers": [
+    "nullement",
+    "aucunement"
+   ],
+   "hint": "I'm not in the least surprised."
+  },
+  {
+   "type": "translate",
+   "prompt": "I couldn't find it anywhere.",
+   "answers": [
+    "Je ne l'ai trouvé nulle part.",
+    "Je ne l'ai trouvée nulle part."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He hardly slept.",
+   "answers": [
+    "Il n'a guère dormi.",
+    "Il a à peine dormi."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I never said anything to anyone.",
+   "answers": [
+    "Je n'ai jamais rien dit à personne."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He's cleverer than people think.\"",
+   "answer": "Il est plus intelligent qu'on ne le pense."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'll come, unless the weather is bad.\"",
+   "answer": "Je viendrai, à moins qu'il ne fasse mauvais."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We must prevent the situation from getting worse.\"",
+   "answer": "Il faut éviter que la situation ne s'aggrave."
+  }
+ ]
+}

@@ -1,0 +1,370 @@
+{
+ "sections": [
+  {
+   "heading": "Purpose: precise and formal ways",
+   "body": "You know *pour (que)*, *afin de / afin que*, *de façon à*, *en vue de*, *dans le but de* (B1–B2). C1 adds:\n\n- **verb + à ce que + subjunctive** — for verbs built with *à* when a clause follows: *veiller à ce que* (to make sure that), *tenir à ce que* (to insist that), *s'attendre à ce que* (to expect that), *consentir à ce que* (to agree that):\n  *Veillez à ce que les portes soient fermées.* (Make sure the doors are closed.) *Je tiens à ce que tu viennes.* (I insist that you come.) *Je ne m'attendais pas à ce qu'il réagisse ainsi.*\n- *de crainte que* / *de peur que* + subjunctive (often with expletive *ne* in formal style) — for fear that: *Il a parlé à voix basse de peur qu'on ne l'entende.* (… for fear that someone might hear him)\n- *de crainte de* / *de peur de* + infinitive (same subject): *Il n'a rien dit de peur de se tromper.*\n- *dans l'intention de*, *dans l'espoir de* + infinitive — with the intention / hope of: *Elle a écrit au directeur dans l'espoir d'obtenir un rendez-vous.*\n- *histoire de* + infinitive — just to (informal)\n- *en sorte que* / *faire en sorte que* + subjunctive — to ensure that: *Faites en sorte que tout soit prêt à midi.*"
+  },
+  {
+   "heading": "Same or different subject",
+   "body": "",
+   "table": {
+    "head": [
+     "Same subject",
+     "Different subject (+ subjunctive)"
+    ],
+    "rows": [
+     [
+      "*pour partir*",
+      "*pour qu'il parte*"
+     ],
+     [
+      "*de peur de rater*",
+      "*de peur qu'il ne rate*"
+     ],
+     [
+      "*veiller à finir*",
+      "*veiller à ce que tout soit fini*"
+     ],
+     [
+      "*s'attendre à recevoir*",
+      "*s'attendre à ce qu'elle reçoive*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Expressing aims in professional writing",
+   "body": "*L'objectif de cette réunion est de…* — *Ce projet vise à* + infinitive (aims to): *Ce programme vise à réduire les inégalités.* — *Nous nous efforcerons de…* (We will strive to…) — *Il s'agit de…* (The aim is to…)"
+  }
+ ],
+ "vocab": [
+  [
+   "veiller à ce que",
+   "to make sure that",
+   "ve.je a sə kə"
+  ],
+  [
+   "tenir à ce que",
+   "to insist that",
+   "tə.niʁ a sə kə"
+  ],
+  [
+   "s'attendre à ce que",
+   "to expect that",
+   "sa.tɑ̃dʁ a sə kə"
+  ],
+  [
+   "de crainte que",
+   "for fear that (formal)",
+   "də kʁɛ̃t kə"
+  ],
+  [
+   "de peur que",
+   "for fear that",
+   "də pœʁ kə"
+  ],
+  [
+   "dans l'espoir de",
+   "in the hope of",
+   "dɑ̃ lɛs.pwaʁ də"
+  ],
+  [
+   "faire en sorte que",
+   "to ensure that",
+   "fɛʁ ɑ̃ sɔʁt kə"
+  ],
+  [
+   "viser à",
+   "to aim to",
+   "vi.ze a"
+  ],
+  [
+   "s'efforcer de",
+   "to strive to",
+   "se.fɔʁ.se də"
+  ],
+  [
+   "à voix basse",
+   "in a low voice",
+   "a vwa bɑs"
+  ],
+  [
+   "réagir",
+   "to react",
+   "ʁe.a.ʒiʁ"
+  ],
+  [
+   "l'objectif",
+   "the objective",
+   "lɔb.ʒɛk.tif",
+   "m"
+  ]
+ ],
+ "examples": [
+  [
+   "Veillez à ce que les portes soient fermées.",
+   "Make sure the doors are closed."
+  ],
+  [
+   "Je tiens à ce que tu viennes à la cérémonie.",
+   "I insist that you come to the ceremony."
+  ],
+  [
+   "Je ne m'attendais pas à ce qu'il réagisse ainsi.",
+   "I didn't expect him to react like that."
+  ],
+  [
+   "Il a parlé à voix basse de peur qu'on ne l'entende.",
+   "He spoke in a low voice for fear of being overheard."
+  ],
+  [
+   "Il n'a rien dit de peur de se tromper.",
+   "He said nothing for fear of being wrong."
+  ],
+  [
+   "Elle a écrit au directeur dans l'espoir d'obtenir un rendez-vous.",
+   "She wrote to the director in the hope of getting an appointment."
+  ],
+  [
+   "Faites en sorte que tout soit prêt à midi.",
+   "Make sure everything is ready by noon."
+  ],
+  [
+   "Ce programme vise à réduire les inégalités.",
+   "This programme aims to reduce inequality."
+  ],
+  [
+   "Nous nous efforcerons de répondre à toutes vos questions.",
+   "We will strive to answer all your questions."
+  ],
+  [
+   "L'objectif de cette réunion est de fixer un calendrier.",
+   "The aim of this meeting is to set a timetable."
+  ],
+  [
+   "Il a fermé la fenêtre de crainte que le bébé n'ait froid.",
+   "He closed the window for fear the baby would be cold."
+  ],
+  [
+   "Je m'attends à recevoir une réponse demain.",
+   "I expect to receive an answer tomorrow."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Veillez à ce que les portes ___ fermées.",
+   "options": [
+    "soient",
+    "sont",
+    "seront"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je tiens à ce que tu ___.",
+   "options": [
+    "viennes",
+    "viens",
+    "viendras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je ne m'attendais pas à ce qu'il ___ ainsi.",
+   "options": [
+    "réagisse",
+    "réagit",
+    "réagirait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il n'a rien dit de peur ___ se tromper.",
+   "options": [
+    "de",
+    "que",
+    "qu'il"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Same subject: *de peur de* + infinitive."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Faites en ___ que tout soit prêt.",
+   "options": [
+    "sorte",
+    "façon de",
+    "but"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ce programme vise à réduire les inégalités* means…",
+   "options": [
+    "This programme aims to reduce inequality",
+    "This programme looks at inequality",
+    "This programme visits inequality"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*veiller à ce que* means…",
+   "options": [
+    "to make sure that",
+    "to stay awake so that",
+    "to watch over"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*s'attendre à ce que* means…",
+   "options": [
+    "to expect that",
+    "to wait for that",
+    "to hear that"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *de peur qu'on ne l'entende*, the *ne* is…",
+   "options": [
+    "expletive (not negative)",
+    "a negation",
+    "a mistake"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à voix basse* means…",
+   "options": [
+    "in a low voice",
+    "with a deep voice",
+    "quietly singing"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Veillez à ce que les portes ___ fermées. (être)",
+   "answers": [
+    "soient"
+   ],
+   "hint": "Make sure the doors are closed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je tiens à ce que tu ___ à la cérémonie. (venir)",
+   "answers": [
+    "viennes"
+   ],
+   "hint": "I insist that you come."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne m'attendais pas à ce qu'il ___ ainsi. (réagir)",
+   "answers": [
+    "réagisse"
+   ],
+   "hint": "I didn't expect him to react like that."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a parlé à voix ___ de peur qu'on ne l'entende.",
+   "answers": [
+    "basse"
+   ],
+   "hint": "in a low voice…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a écrit au directeur dans l'___ d'obtenir un rendez-vous.",
+   "answers": [
+    "espoir"
+   ],
+   "hint": "in the hope of getting an appointment."
+  },
+  {
+   "type": "fill",
+   "prompt": "Faites en ___ que tout soit prêt à midi.",
+   "answers": [
+    "sorte"
+   ],
+   "hint": "Make sure everything is ready by noon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce programme ___ à réduire les inégalités.",
+   "answers": [
+    "vise"
+   ],
+   "hint": "This programme aims to reduce inequality."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous nous ___ de répondre à toutes vos questions. (s'efforcer, futur)",
+   "answers": [
+    "efforcerons"
+   ],
+   "hint": "We will strive to answer…"
+  },
+  {
+   "type": "fill",
+   "prompt": "L'___ de cette réunion est de fixer un calendrier.",
+   "answers": [
+    "objectif"
+   ],
+   "hint": "The aim of this meeting…"
+  },
+  {
+   "type": "translate",
+   "prompt": "Make sure everything is ready. (polite)",
+   "answers": [
+    "Faites en sorte que tout soit prêt.",
+    "Veillez à ce que tout soit prêt."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I insist that you come. (to a friend)",
+   "answers": [
+    "Je tiens à ce que tu viennes."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "This programme aims to reduce inequality.",
+   "answers": [
+    "Ce programme vise à réduire les inégalités."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He spoke in a low voice for fear of being overheard.\"",
+   "answer": "Il a parlé à voix basse de peur qu'on ne l'entende."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I didn't expect him to react like that.\"",
+   "answer": "Je ne m'attendais pas à ce qu'il réagisse ainsi."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She wrote to the director in the hope of getting an appointment.\"",
+   "answer": "Elle a écrit au directeur dans l'espoir d'obtenir un rendez-vous."
+  }
+ ]
+}

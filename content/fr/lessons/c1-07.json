@@ -1,0 +1,354 @@
+{
+ "sections": [
+  {
+   "heading": "Concession at C1",
+   "body": "You know *bien que, quoique, même si, malgré, pourtant, néanmoins* (B1–B2). C1 adds more precise and more literary tools:\n\n- *encore que* + **subjunctive** — although (correcting what you just said): *C'est un bon film, encore que la fin soit un peu longue.* (… though the ending is a bit long.)\n- *quand bien même* + **conditional** — even if (hypothetical, strong): *Quand bien même il s'excuserait, je ne lui pardonnerais pas.* (Even if he apologised, I wouldn't forgive him.)\n- *avoir beau* + infinitive — however much (in vain): *Il a beau crier, personne ne l'entend.*\n- *si / aussi* + adjective + *que* + **subjunctive** — however (+ adjective): *Si riche qu'il soit, il n'est pas heureux.* (However rich he may be…) *Aussi étrange que cela puisse paraître, …* (Strange as it may seem…)\n- *tout* + adjective + *que* + indicative (or subjunctive) — however: *Tout intelligent qu'il est, il s'est trompé.*\n- *quel(le)(s) que* + **subjunctive** of *être* — whatever (agrees with the subject): *Quelles que soient tes raisons, …* (Whatever your reasons may be…) *Quel que soit le prix, …*\n- *quoi que* (two words) + subjunctive — whatever: *Quoi que tu fasses, fais-le bien.* — don't confuse with *quoique* (although).\n- *où que* + subjunctive — wherever: *Où que tu ailles, je te suivrai.*\n- *qui que* + subjunctive — whoever: *Qui que vous soyez, entrez.*\n- *sans que* + subjunctive — without\n- *il n'empêche que* / *n'empêche que* + indicative — nevertheless, still: *Il n'empêche que tu aurais dû me prévenir.*"
+  },
+  {
+   "heading": "Quoique or quoi que?",
+   "body": "*Quoique* (one word) = *bien que* (although): *Quoiqu'il soit tard, je travaille.* — *Quoi que* (two words) = whatever: *Quoi qu'il dise, je ne le crois pas.* (Whatever he says…)"
+  }
+ ],
+ "vocab": [
+  [
+   "encore que",
+   "although (correcting)",
+   "ɑ̃.kɔʁ kə"
+  ],
+  [
+   "quand bien même",
+   "even if (hypothetical)",
+   "kɑ̃ bjɛ̃ mɛm"
+  ],
+  [
+   "avoir beau",
+   "however much (in vain)",
+   "a.vwaʁ bo"
+  ],
+  [
+   "quel que soit",
+   "whatever (+ noun)",
+   "kɛl kə swa"
+  ],
+  [
+   "quoi que",
+   "whatever (+ verb)",
+   "kwa kə"
+  ],
+  [
+   "où que",
+   "wherever",
+   "u kə"
+  ],
+  [
+   "qui que",
+   "whoever",
+   "ki kə"
+  ],
+  [
+   "il n'empêche que",
+   "nevertheless, still",
+   "il nɑ̃.pɛʃ kə"
+  ],
+  [
+   "pardonner",
+   "to forgive",
+   "paʁ.dɔ.ne"
+  ],
+  [
+   "étrange",
+   "strange",
+   "e.tʁɑ̃ʒ"
+  ],
+  [
+   "crier",
+   "to shout",
+   "kʁi.je"
+  ],
+  [
+   "suivre",
+   "to follow",
+   "sɥivʁ"
+  ],
+  [
+   "paraître",
+   "to seem, to appear",
+   "pa.ʁɛtʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "C'est un bon film, encore que la fin soit un peu longue.",
+   "It's a good film, though the ending is a bit long."
+  ],
+  [
+   "Quand bien même il s'excuserait, je ne lui pardonnerais pas.",
+   "Even if he apologised, I wouldn't forgive him."
+  ],
+  [
+   "Il a beau crier, personne ne l'entend.",
+   "However much he shouts, nobody hears him."
+  ],
+  [
+   "Si riche qu'il soit, il n'est pas heureux.",
+   "However rich he may be, he isn't happy."
+  ],
+  [
+   "Aussi étrange que cela puisse paraître, c'est vrai.",
+   "Strange as it may seem, it's true."
+  ],
+  [
+   "Quelles que soient tes raisons, tu aurais dû me prévenir.",
+   "Whatever your reasons, you should have warned me."
+  ],
+  [
+   "Quel que soit le prix, je l'achète.",
+   "Whatever the price, I'll buy it."
+  ],
+  [
+   "Quoi que tu fasses, fais-le bien.",
+   "Whatever you do, do it well."
+  ],
+  [
+   "Où que tu ailles, je te suivrai.",
+   "Wherever you go, I'll follow you."
+  ],
+  [
+   "Qui que vous soyez, entrez.",
+   "Whoever you are, come in."
+  ],
+  [
+   "Il n'empêche que tu aurais dû me le dire.",
+   "Still, you should have told me."
+  ],
+  [
+   "Quoiqu'il soit tard, je continue à travailler.",
+   "Although it's late, I'm carrying on working."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: C'est un bon film, encore que la fin ___ un peu longue.",
+   "options": [
+    "soit",
+    "est",
+    "sera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Quand bien même il s'___, je ne lui pardonnerais pas.",
+   "options": [
+    "excuserait",
+    "excuse",
+    "excusait"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*quand bien même* + conditional."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ que soient tes raisons, …",
+   "options": [
+    "Quelles",
+    "Quels",
+    "Quoi"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*quel que* agrees with the subject (*raisons*, feminine plural)."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ que tu fasses, fais-le bien.",
+   "options": [
+    "Quoi",
+    "Quoique",
+    "Quel"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Où que tu ___, je te suivrai.",
+   "options": [
+    "ailles",
+    "vas",
+    "iras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Si riche qu'il ___, il n'est pas heureux.",
+   "options": [
+    "soit",
+    "est",
+    "serait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il a beau crier* means…",
+   "options": [
+    "However much he shouts",
+    "He shouts beautifully",
+    "He's good at shouting"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*quoique* (one word) means…",
+   "options": [
+    "although",
+    "whatever",
+    "whoever"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il n'empêche que…* means…",
+   "options": [
+    "Still, nevertheless…",
+    "It doesn't prevent… only",
+    "It isn't empty that…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Aussi étrange que cela puisse paraître* means…",
+   "options": [
+    "Strange as it may seem",
+    "It's also strange to appear",
+    "As strange as it appears now"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est un bon film, encore que la fin ___ un peu longue. (être)",
+   "answers": [
+    "soit"
+   ],
+   "hint": "though the ending is a bit long."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quand bien même il s'___, je ne lui pardonnerais pas. (excuser)",
+   "answers": [
+    "excuserait"
+   ],
+   "hint": "Even if he apologised…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a ___ crier, personne ne l'entend.",
+   "answers": [
+    "beau"
+   ],
+   "hint": "However much he shouts…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Si riche qu'il ___, il n'est pas heureux. (être)",
+   "answers": [
+    "soit"
+   ],
+   "hint": "However rich he may be…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Quelles que ___ tes raisons, tu aurais dû me prévenir. (être)",
+   "answers": [
+    "soient"
+   ],
+   "hint": "Whatever your reasons…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Quoi que tu ___, fais-le bien. (faire)",
+   "answers": [
+    "fasses"
+   ],
+   "hint": "Whatever you do…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Où que tu ___, je te suivrai. (aller)",
+   "answers": [
+    "ailles"
+   ],
+   "hint": "Wherever you go…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Qui que vous ___, entrez. (être)",
+   "answers": [
+    "soyez"
+   ],
+   "hint": "Whoever you are, come in."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il n'___ que tu aurais dû me le dire.",
+   "answers": [
+    "empêche"
+   ],
+   "hint": "Still, you should have told me."
+  },
+  {
+   "type": "translate",
+   "prompt": "Whatever the price, …",
+   "answers": [
+    "Quel que soit le prix, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Wherever you go, I'll follow you. (to a friend)",
+   "answers": [
+    "Où que tu ailles, je te suivrai."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "However much he shouts, nobody hears him.",
+   "answers": [
+    "Il a beau crier, personne ne l'entend."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Whatever you do, … (to a friend)",
+   "answers": [
+    "Quoi que tu fasses, …"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Even if he apologised, I wouldn't forgive him.\"",
+   "answer": "Quand bien même il s'excuserait, je ne lui pardonnerais pas."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Strange as it may seem, it's true.\"",
+   "answer": "Aussi étrange que cela puisse paraître, c'est vrai."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Whatever your reasons, you should have warned me.\"",
+   "answer": "Quelles que soient tes raisons, tu aurais dû me prévenir."
+  }
+ ]
+}
