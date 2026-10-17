@@ -1,0 +1,376 @@
+{
+ "sections": [
+  {
+   "heading": "The world of research",
+   "body": "*la recherche* (research) — *un chercheur / une chercheuse* (a researcher) — *un laboratoire* (*un labo*, informal) — *le CNRS* (France's national research centre) — *une thèse* (a doctoral thesis), *un doctorant* (a PhD student) — *une publication*, *une revue scientifique* (a journal) — *l'évaluation par les pairs* (peer review) — *une subvention* (a grant) — *financer la recherche*."
+  },
+  {
+   "heading": "The scientific method",
+   "body": "*formuler une hypothèse* — *mener une expérience* (to carry out an experiment; *l'expérience* also means experience) — *un échantillon* (a sample) — *les données* (data) — *analyser les résultats* — *confirmer / infirmer une hypothèse* (to confirm / disprove) — *reproduire une étude* — *tirer des conclusions* — *une corrélation n'est pas une causalité*."
+  },
+  {
+   "heading": "Reporting findings with care",
+   "body": "Scientific French is cautious:\n- *Les résultats suggèrent que…* (suggest) — *Il semblerait que…* — *Cette étude tend à montrer que…*\n- *Ces conclusions restent à confirmer.* (still need confirming) — *L'étude porte sur un petit échantillon.* — *Il convient de rester prudent.* (It is advisable to remain cautious.)\n- *une avancée majeure* (a major breakthrough) — *une découverte* — *faire progresser les connaissances*"
+  },
+  {
+   "heading": "Science and society",
+   "body": "*l'éthique* — *le principe de précaution* — *les OGM* (GMOs) — *la vaccination* — *l'intelligence artificielle* — *la désinformation* — *la culture scientifique* — *Faut-il fixer des limites à la recherche ?* — *La science doit-elle rester indépendante du pouvoir politique ?*"
+  }
+ ],
+ "vocab": [
+  [
+   "la recherche",
+   "research",
+   "la ʁə.ʃɛʁʃ"
+  ],
+  [
+   "un chercheur / une chercheuse",
+   "the researcher",
+   "œ̃ ʃɛʁ.ʃœʁ / yn ʃɛʁ.ʃøz"
+  ],
+  [
+   "le laboratoire",
+   "the laboratory",
+   "lə la.bɔ.ʁa.twaʁ"
+  ],
+  [
+   "la thèse",
+   "the thesis",
+   "la tɛz"
+  ],
+  [
+   "la revue",
+   "the journal, the review",
+   "la ʁə.vy"
+  ],
+  [
+   "la subvention",
+   "the grant, the subsidy",
+   "la syb.vɑ̃.sjɔ̃"
+  ],
+  [
+   "l'hypothèse",
+   "the hypothesis",
+   "li.pɔ.tɛz",
+   "f"
+  ],
+  [
+   "l'expérience",
+   "the experiment; experience",
+   "lɛk.spe.ʁjɑ̃s",
+   "f"
+  ],
+  [
+   "l'échantillon",
+   "the sample",
+   "le.ʃɑ̃.ti.jɔ̃",
+   "m"
+  ],
+  [
+   "les données",
+   "data",
+   "le dɔ.ne",
+   "f"
+  ],
+  [
+   "infirmer",
+   "to disprove",
+   "ɛ̃.fiʁ.me"
+  ],
+  [
+   "reproduire",
+   "to reproduce",
+   "ʁə.pʁɔ.dɥiʁ"
+  ],
+  [
+   "la causalité",
+   "causality",
+   "la ko.za.li.te"
+  ],
+  [
+   "prudent / prudente",
+   "cautious",
+   "pʁy.dɑ̃ / pʁy.dɑ̃t"
+  ],
+  [
+   "la découverte",
+   "the discovery",
+   "la de.ku.vɛʁt"
+  ],
+  [
+   "l'éthique",
+   "ethics",
+   "le.tik",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Elle est chercheuse dans un laboratoire de biologie.",
+   "She is a researcher in a biology lab."
+  ],
+  [
+   "Il prépare une thèse sur le climat.",
+   "He is writing a thesis on the climate."
+  ],
+  [
+   "L'article a été publié dans une revue scientifique.",
+   "The article was published in a scientific journal."
+  ],
+  [
+   "L'équipe a obtenu une subvention de l'Europe.",
+   "The team obtained a grant from Europe."
+  ],
+  [
+   "Les chercheurs ont formulé une hypothèse.",
+   "The researchers formulated a hypothesis."
+  ],
+  [
+   "Ils ont mené une expérience sur des souris.",
+   "They carried out an experiment on mice."
+  ],
+  [
+   "L'étude porte sur un petit échantillon.",
+   "The study is based on a small sample."
+  ],
+  [
+   "Les données ont été analysées avec soin.",
+   "The data were analysed carefully."
+  ],
+  [
+   "Les résultats infirment l'hypothèse de départ.",
+   "The results disprove the initial hypothesis."
+  ],
+  [
+   "Les résultats suggèrent que le sommeil améliore la mémoire.",
+   "The results suggest that sleep improves memory."
+  ],
+  [
+   "Ces conclusions restent à confirmer.",
+   "These conclusions still need to be confirmed."
+  ],
+  [
+   "Une corrélation n'est pas une causalité.",
+   "Correlation is not causation."
+  ],
+  [
+   "Il convient de rester prudent.",
+   "It is advisable to remain cautious."
+  ],
+  [
+   "Cette découverte est une avancée majeure.",
+   "This discovery is a major breakthrough."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*mener une expérience* means…",
+   "options": [
+    "to carry out an experiment",
+    "to lead an experience",
+    "to gain experience"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*infirmer une hypothèse* means…",
+   "options": [
+    "to disprove a hypothesis",
+    "to confirm a hypothesis",
+    "to weaken a patient"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un échantillon* is…",
+   "options": [
+    "a sample",
+    "a scaffold",
+    "a shopping list"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une subvention* is…",
+   "options": [
+    "a grant",
+    "a subversion",
+    "a submission"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'évaluation par les pairs* is…",
+   "options": [
+    "peer review",
+    "parental assessment",
+    "pair work"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ces conclusions restent à confirmer* means…",
+   "options": [
+    "These conclusions still need confirming",
+    "These conclusions are confirmed",
+    "These conclusions stay confidential"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il convient de rester prudent* means…",
+   "options": [
+    "It is advisable to remain cautious",
+    "It's convenient to be prudish",
+    "It agrees to stay"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une avancée majeure* is…",
+   "options": [
+    "a major breakthrough",
+    "a major advance payment",
+    "an elderly person"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une revue scientifique* is…",
+   "options": [
+    "a scientific journal",
+    "a scientific show",
+    "a scientific review of a film"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Scientific French tends to be…",
+   "options": [
+    "cautious",
+    "aggressive",
+    "familiar"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est ___ dans un laboratoire de biologie.",
+   "answers": [
+    "chercheuse"
+   ],
+   "hint": "She is a researcher…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il prépare une ___ sur le climat.",
+   "answers": [
+    "thèse"
+   ],
+   "hint": "a thesis on the climate."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'équipe a obtenu une ___ de l'Europe.",
+   "answers": [
+    "subvention"
+   ],
+   "hint": "a grant from Europe."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils ont mené une ___ sur des souris.",
+   "answers": [
+    "expérience"
+   ],
+   "hint": "an experiment on mice."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'étude porte sur un petit ___.",
+   "answers": [
+    "échantillon"
+   ],
+   "hint": "a small sample."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les ___ ont été analysées avec soin.",
+   "answers": [
+    "données"
+   ],
+   "hint": "The data were analysed…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Les résultats ___ l'hypothèse de départ.",
+   "answers": [
+    "infirment"
+   ],
+   "hint": "disprove the initial hypothesis."
+  },
+  {
+   "type": "fill",
+   "prompt": "Une corrélation n'est pas une ___.",
+   "answers": [
+    "causalité"
+   ],
+   "hint": "Correlation is not causation."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ de rester prudent.",
+   "answers": [
+    "convient"
+   ],
+   "hint": "It is advisable to remain cautious."
+  },
+  {
+   "type": "translate",
+   "prompt": "Correlation is not causation.",
+   "answers": [
+    "Une corrélation n'est pas une causalité.",
+    "La corrélation n'est pas la causalité."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "a major breakthrough",
+   "answers": [
+    "une avancée majeure"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The results suggest that…",
+   "answers": [
+    "Les résultats suggèrent que…"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The results suggest that sleep improves memory.\"",
+   "answer": "Les résultats suggèrent que le sommeil améliore la mémoire."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"These conclusions still need to be confirmed.\"",
+   "answer": "Ces conclusions restent à confirmer."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The article was published in a scientific journal.\"",
+   "answer": "L'article a été publié dans une revue scientifique."
+  }
+ ]
+}

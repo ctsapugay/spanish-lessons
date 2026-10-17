@@ -1,0 +1,353 @@
+{
+ "sections": [
+  {
+   "heading": "La francophonie",
+   "body": "About 320 million people speak French across five continents. *La francophonie* (lower case) is the French-speaking world; *l'Organisation internationale de la Francophonie* (OIF) is the institution. This course teaches metropolitan French, but at C1 you should **recognise** the main varieties — and know that none is \"wrong\"."
+  },
+  {
+   "heading": "Belgium and Switzerland",
+   "body": "- numbers: *septante* (70), *nonante* (90) in Belgium and Switzerland; in some Swiss cantons also *huitante* (80). *Quatre-vingt-dix-sept* in Paris, *nonante-sept* in Brussels.\n- meals: *le déjeuner* (breakfast), *le dîner* (lunch), *le souper* (dinner) — as in Québec.\n- Belgium: *une fois* used as a filler (*Viens ici une fois*), *un GSM* (a mobile phone), *une drache* (a downpour).\n- Switzerland: *un natel* (a mobile phone), *septante*, *nonante*, slower rhythm."
+  },
+  {
+   "heading": "Québec",
+   "body": "Québécois French has its own pronunciation (*t* and *d* before the vowels of *tu* and *dit* gain a hiss: /tsy/, /dzi/), vocabulary and expressions, and strongly resists anglicisms in official usage:\n- *le courriel* (email) — *la fin de semaine* (the weekend) — *magasiner* (to go shopping) — *un char* (a car, familiar) — *un dépanneur* (a corner shop) — *ma blonde* (my girlfriend), *mon chum* (my boyfriend; a mate) — *C'est plate.* (It's boring.) — *Il fait frette.* (It's freezing.)\n- *Bienvenue !* also means \"You're welcome\" (from English)."
+  },
+  {
+   "heading": "Africa",
+   "body": "French is an official language in some twenty African countries, and Africa is home to most of the world's francophones. Local words enrich it: *un maquis* (an open-air eatery, Côte d'Ivoire), *un taxi-brousse* (a bush taxi), *une essencerie* (a petrol station, Senegal), *ambiancer* (to liven up a party), *un deuxième bureau* (a mistress — literally a second office). Many speakers are multilingual, mixing French with Wolof, Lingala, Bambara and others."
+  }
+ ],
+ "vocab": [
+  [
+   "la francophonie",
+   "the French-speaking world",
+   "la fʁɑ̃.kɔ.fɔ.ni"
+  ],
+  [
+   "francophone",
+   "French-speaking",
+   "fʁɑ̃.kɔ.fɔn"
+  ],
+  [
+   "la variété",
+   "the variety",
+   "la va.ʁje.te"
+  ],
+  [
+   "septante",
+   "seventy (Belgium, Switzerland)",
+   "sɛp.tɑ̃t"
+  ],
+  [
+   "nonante",
+   "ninety (Belgium, Switzerland)",
+   "nɔ.nɑ̃t"
+  ],
+  [
+   "le déjeuner",
+   "breakfast (Belgium, Québec); lunch (France)",
+   "lə de.ʒœ.ne"
+  ],
+  [
+   "le souper",
+   "dinner (Belgium, Québec)",
+   "lə su.pe"
+  ],
+  [
+   "le courriel",
+   "the email",
+   "lə ku.ʁjɛl"
+  ],
+  [
+   "la fin de semaine",
+   "the weekend (Québec)",
+   "la fɛ̃ də sə.mɛn"
+  ],
+  [
+   "magasiner",
+   "to go shopping (Québec)",
+   "ma.ɡa.zi.ne"
+  ],
+  [
+   "le dépanneur",
+   "the corner shop (Québec)",
+   "lə de.pa.nœʁ"
+  ],
+  [
+   "l'anglicisme",
+   "the anglicism",
+   "lɑ̃.ɡli.sizm",
+   "m"
+  ],
+  [
+   "le maquis",
+   "the open-air eatery (Côte d'Ivoire)",
+   "lə ma.ki"
+  ],
+  [
+   "multilingue",
+   "multilingual",
+   "myl.ti.lɛ̃ɡ"
+  ]
+ ],
+ "examples": [
+  [
+   "Le français est parlé sur cinq continents.",
+   "French is spoken on five continents."
+  ],
+  [
+   "La plupart des francophones vivent en Afrique.",
+   "Most French speakers live in Africa."
+  ],
+  [
+   "À Bruxelles, on dit « septante » et « nonante ».",
+   "In Brussels, people say \"septante\" and \"nonante\"."
+  ],
+  [
+   "En Belgique, le dîner est le repas de midi.",
+   "In Belgium, \"dîner\" is the midday meal."
+  ],
+  [
+   "Au Québec, on dit « courriel » plutôt que « mail ».",
+   "In Québec, people say \"courriel\" rather than \"mail\"."
+  ],
+  [
+   "Qu'est-ce que tu fais en fin de semaine ?",
+   "What are you doing at the weekend?"
+  ],
+  [
+   "Elle est partie magasiner au centre-ville.",
+   "She went shopping downtown."
+  ],
+  [
+   "Je vais au dépanneur acheter du lait.",
+   "I'm going to the corner shop to buy milk."
+  ],
+  [
+   "Le Québec lutte contre les anglicismes.",
+   "Québec fights against anglicisms."
+  ],
+  [
+   "On a mangé dans un maquis à Abidjan.",
+   "We ate at an open-air eatery in Abidjan."
+  ],
+  [
+   "Beaucoup d'Africains sont multilingues.",
+   "Many Africans are multilingual."
+  ],
+  [
+   "Aucune variété du français n'est « fausse ».",
+   "No variety of French is \"wrong\"."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*septante* means…",
+   "options": [
+    "seventy",
+    "seven hundred",
+    "seventeen"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*nonante-sept* (Brussels) is…",
+   "options": [
+    "97",
+    "79",
+    "907"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In Belgium and Québec, *le dîner* is…",
+   "options": [
+    "lunch",
+    "breakfast",
+    "supper"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le courriel* (Québec) is…",
+   "options": [
+    "email",
+    "the post office",
+    "a courier"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*magasiner* (Québec) means…",
+   "options": [
+    "to go shopping",
+    "to store goods",
+    "to read a magazine"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la fin de semaine* (Québec) is…",
+   "options": [
+    "the weekend",
+    "Friday only",
+    "the end of the month"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un dépanneur* in Québec is…",
+   "options": [
+    "a corner shop",
+    "a tow truck",
+    "a babysitter"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un maquis* in Côte d'Ivoire is…",
+   "options": [
+    "an open-air eatery",
+    "a forest",
+    "a resistance group"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Most francophones live in…",
+   "options": [
+    "Africa",
+    "France",
+    "Canada"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The OIF is…",
+   "options": [
+    "the international organisation of French-speaking countries",
+    "a French university",
+    "a dictionary"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le français est parlé sur cinq ___.",
+   "answers": [
+    "continents"
+   ],
+   "hint": "on five continents."
+  },
+  {
+   "type": "fill",
+   "prompt": "La plupart des ___ vivent en Afrique.",
+   "answers": [
+    "francophones"
+   ],
+   "hint": "Most French speakers…"
+  },
+  {
+   "type": "fill",
+   "prompt": "À Bruxelles, on dit « septante » et « ___ ».",
+   "answers": [
+    "nonante"
+   ],
+   "hint": "\"septante\" and \"nonante\"."
+  },
+  {
+   "type": "fill",
+   "prompt": "En Belgique, le ___ est le repas de midi.",
+   "answers": [
+    "dîner"
+   ],
+   "hint": "\"dîner\" is the midday meal."
+  },
+  {
+   "type": "fill",
+   "prompt": "Au Québec, on dit « ___ » plutôt que « mail ».",
+   "answers": [
+    "courriel"
+   ],
+   "hint": "people say \"courriel\"…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Qu'est-ce que tu fais en fin de ___ ?",
+   "answers": [
+    "semaine"
+   ],
+   "hint": "at the weekend?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle est partie ___ au centre-ville.",
+   "answers": [
+    "magasiner"
+   ],
+   "hint": "She went shopping downtown."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le Québec lutte contre les ___.",
+   "answers": [
+    "anglicismes"
+   ],
+   "hint": "fights against anglicisms."
+  },
+  {
+   "type": "fill",
+   "prompt": "Beaucoup d'Africains sont ___.",
+   "answers": [
+    "multilingues"
+   ],
+   "hint": "multilingual."
+  },
+  {
+   "type": "translate",
+   "prompt": "the French-speaking world",
+   "answers": [
+    "la francophonie"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "ninety (in Belgium)",
+   "answers": [
+    "nonante"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "No variety of French is wrong.",
+   "answers": [
+    "Aucune variété du français n'est fausse."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Most French speakers live in Africa.\"",
+   "answer": "La plupart des francophones vivent en Afrique."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'm going to the corner shop to buy milk.\"",
+   "answer": "Je vais au dépanneur acheter du lait."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"In Belgium, \"dîner\" is the midday meal.\"",
+   "answer": "En Belgique, le dîner est le repas de midi."
+  }
+ ]
+}
