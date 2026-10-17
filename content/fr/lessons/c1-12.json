@@ -1,0 +1,353 @@
+{
+ "sections": [
+  {
+   "heading": "Inversion in questions",
+   "body": "In formal French, questions invert subject pronoun and verb:\n\n- simple: *Parlez-vous anglais ?* *Viendra-t-il ?* (*-t-* between vowels)\n- compound tenses: *Avez-vous fini ?* *Est-elle partie ?*\n- with a noun subject, the noun stays first and a pronoun is added (**complex inversion**): *Votre frère vient-il ?* *Le train est-il arrivé ?* *Pourquoi Marie est-elle partie ?*\n- with a question word and a noun, simple inversion is possible when the verb has no object: *Où habite votre frère ?* *Que veut cet homme ?*"
+  },
+  {
+   "heading": "Inversion after certain adverbs",
+   "body": "At the start of a sentence, some adverbs trigger inversion (formal written French):\n\n- *peut-être*: *Peut-être viendra-t-il.* (= *Peut-être qu'il viendra* / *Il viendra peut-être*)\n- *sans doute*: *Sans doute a-t-il oublié.* (He has probably forgotten.)\n- *aussi* (= therefore, so): *Il pleuvait ; aussi sommes-nous restés.* — careful: at the start, *aussi* means \"therefore\"!\n- *ainsi* (= thus): *Ainsi s'achève notre voyage.* (Thus ends our journey.)\n- *à peine… que*: *À peine était-il sorti qu'il se mit à pleuvoir.*\n- *encore* (= still, even so): *Encore faut-il le prouver.* (One still has to prove it.)\n- *du moins*, *tout au plus*, *rarement*: *Rarement ai-je vu un tel spectacle.*"
+  },
+  {
+   "heading": "Inversion with reported speech",
+   "body": "After a quotation, the reporting verb comes **before** the subject: *« Je ne sais pas », répondit-il.* *« Entrez », dit la directrice.* *« C'est fini », a-t-elle annoncé.*"
+  },
+  {
+   "heading": "Stylistic inversion in relative clauses",
+   "body": "After *que*, *où*, *dont*, a noun subject can follow the verb, for rhythm: *la maison où habitait mon grand-père* = *la maison où mon grand-père habitait*. *Le livre que m'a offert Léa…*"
+  }
+ ],
+ "vocab": [
+  [
+   "l'inversion",
+   "inversion",
+   "lɛ̃.vɛʁ.sjɔ̃",
+   "f"
+  ],
+  [
+   "peut-être",
+   "perhaps",
+   "pø.tɛtʁ"
+  ],
+  [
+   "sans doute",
+   "probably",
+   "sɑ̃ dut"
+  ],
+  [
+   "aussi",
+   "therefore, so (at the start of a sentence)",
+   "o.si"
+  ],
+  [
+   "ainsi",
+   "thus",
+   "ɛ̃.si"
+  ],
+  [
+   "s'achever",
+   "to end",
+   "sa.ʃə.ve"
+  ],
+  [
+   "à peine",
+   "hardly, barely",
+   "a pɛn"
+  ],
+  [
+   "se mettre à",
+   "to start to",
+   "sə mɛtʁ a"
+  ],
+  [
+   "prouver",
+   "to prove",
+   "pʁu.ve"
+  ],
+  [
+   "rarement",
+   "rarely",
+   "ʁaʁ.mɑ̃"
+  ],
+  [
+   "le spectacle",
+   "the sight, the show",
+   "lə spɛk.takl"
+  ],
+  [
+   "répondre",
+   "to answer",
+   "ʁe.pɔ̃dʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Parlez-vous anglais ?",
+   "Do you speak English?"
+  ],
+  [
+   "Votre frère vient-il ce soir ?",
+   "Is your brother coming tonight?"
+  ],
+  [
+   "Pourquoi Marie est-elle partie ?",
+   "Why did Marie leave?"
+  ],
+  [
+   "Où habite votre frère ?",
+   "Where does your brother live?"
+  ],
+  [
+   "Peut-être viendra-t-il demain.",
+   "Perhaps he'll come tomorrow."
+  ],
+  [
+   "Sans doute a-t-il oublié.",
+   "He has probably forgotten."
+  ],
+  [
+   "Il pleuvait ; aussi sommes-nous restés à la maison.",
+   "It was raining; so we stayed at home."
+  ],
+  [
+   "Ainsi s'achève notre voyage.",
+   "Thus ends our journey."
+  ],
+  [
+   "À peine était-il sorti qu'il se mit à pleuvoir.",
+   "He had barely gone out when it started to rain."
+  ],
+  [
+   "Encore faut-il le prouver.",
+   "One still has to prove it."
+  ],
+  [
+   "Rarement ai-je vu un tel spectacle.",
+   "Rarely have I seen such a sight."
+  ],
+  [
+   "« Je ne sais pas », répondit-il.",
+   "\"I don't know,\" he replied."
+  ],
+  [
+   "La maison où habitait mon grand-père a été vendue.",
+   "The house where my grandfather lived has been sold."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Formal question: \"Is your brother coming?\"",
+   "options": [
+    "Votre frère vient-il ?",
+    "Vient votre frère ?",
+    "Votre frère vient-t-il ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Peut-être ___ demain.",
+   "options": [
+    "viendra-t-il",
+    "il viendra-t-il",
+    "vient-il pas"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Sans doute ___ oublié.",
+   "options": [
+    "a-t-il",
+    "il a-t-il",
+    "a-il"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il pleuvait ; aussi sommes-nous restés* — *aussi* means…",
+   "options": [
+    "therefore, so",
+    "also",
+    "as well as"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: « Je ne sais pas », ___.",
+   "options": [
+    "répondit-il",
+    "il répondit",
+    "répondit il-t"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ainsi s'achève notre voyage* means…",
+   "options": [
+    "Thus ends our journey",
+    "So our trip begins",
+    "Also our trip ends"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Encore faut-il le prouver* means…",
+   "options": [
+    "One still has to prove it",
+    "Prove it again",
+    "It must be proved more"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Rarement ai-je vu un tel spectacle* means…",
+   "options": [
+    "Rarely have I seen such a sight",
+    "I rarely see shows",
+    "I have seen a rare show"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *Où habite votre frère ?*, the subject is…",
+   "options": [
+    "votre frère",
+    "où",
+    "habite"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is complex inversion?",
+   "options": [
+    "Le train est-il arrivé ?",
+    "Est arrivé le train ?",
+    "Est-ce que le train est arrivé ?"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "___-vous anglais ? (parler)",
+   "answers": [
+    "Parlez"
+   ],
+   "hint": "Do you speak English?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Votre frère vient-___ ce soir ?",
+   "answers": [
+    "il"
+   ],
+   "hint": "Is your brother coming tonight?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Pourquoi Marie est-___ partie ?",
+   "answers": [
+    "elle"
+   ],
+   "hint": "Why did Marie leave?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Peut-être viendra-___-il demain.",
+   "answers": [
+    "t"
+   ],
+   "hint": "Perhaps he'll come tomorrow."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il pleuvait ; ___ sommes-nous restés à la maison.",
+   "answers": [
+    "aussi"
+   ],
+   "hint": "so we stayed at home."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ainsi s'___ notre voyage.",
+   "answers": [
+    "achève"
+   ],
+   "hint": "Thus ends our journey."
+  },
+  {
+   "type": "fill",
+   "prompt": "À ___ était-il sorti qu'il se mit à pleuvoir.",
+   "answers": [
+    "peine"
+   ],
+   "hint": "He had barely gone out…"
+  },
+  {
+   "type": "fill",
+   "prompt": "« Je ne sais pas », ___-il. (répondre, passé simple)",
+   "answers": [
+    "répondit"
+   ],
+   "hint": "\"I don't know,\" he replied."
+  },
+  {
+   "type": "fill",
+   "prompt": "Rarement ai-je vu un tel ___.",
+   "answers": [
+    "spectacle"
+   ],
+   "hint": "Rarely have I seen such a sight."
+  },
+  {
+   "type": "translate",
+   "prompt": "Perhaps he'll come. (formal, with inversion)",
+   "answers": [
+    "Peut-être viendra-t-il."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He has probably forgotten. (formal)",
+   "answers": [
+    "Sans doute a-t-il oublié."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "\"I don't know,\" he replied.",
+   "answers": [
+    "« Je ne sais pas », répondit-il.",
+    "« Je ne sais pas », a-t-il répondu."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He had barely gone out when it started to rain.\"",
+   "answer": "À peine était-il sorti qu'il se mit à pleuvoir."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It was raining; so we stayed at home.\"",
+   "answer": "Il pleuvait ; aussi sommes-nous restés à la maison."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Rarely have I seen such a sight.\"",
+   "answer": "Rarement ai-je vu un tel spectacle."
+  }
+ ]
+}

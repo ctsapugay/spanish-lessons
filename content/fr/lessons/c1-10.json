@@ -1,0 +1,381 @@
+{
+ "sections": [
+  {
+   "heading": "All the si patterns",
+   "body": "",
+   "table": {
+    "head": [
+     "Condition",
+     "Result",
+     "Example"
+    ],
+    "rows": [
+     [
+      "*si* + présent",
+      "présent / futur / impératif",
+      "*S'il pleut, je reste.*"
+     ],
+     [
+      "*si* + imparfait",
+      "conditionnel présent",
+      "*S'il pleuvait, je resterais.*"
+     ],
+     [
+      "*si* + plus-que-parfait",
+      "conditionnel passé",
+      "*S'il avait plu, je serais resté.*"
+     ],
+     [
+      "*si* + plus-que-parfait",
+      "conditionnel présent (result now)",
+      "*Si j'avais étudié, je parlerais mieux.*"
+     ],
+     [
+      "*si* + imparfait",
+      "conditionnel passé (permanent condition)",
+      "*Si j'étais plus prudent, je n'aurais pas eu cet accident.*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "Hypothesis without si",
+   "body": "- **two conditionals** side by side (spoken): *Tu me le dirais, je ne le croirais pas.* (Even if you told me…) *Il viendrait, je partirais.*\n- **inversion with the conditional** (formal, literary): *Aurait-il raison, je ne changerais pas d'avis.* (Even if he were right…) *Serait-il riche, elle ne l'épouserait pas.*\n- **the conditionnel passé 2e forme** (literary, = plus-que-parfait du subjonctif): *S'il eût su, il fût venu.* (= *S'il avait su, il serait venu.*) — for recognition only.\n- *au cas où* + conditional; *dans l'hypothèse où* + conditional (if — formal): *Dans l'hypothèse où le contrat serait annulé, …*\n- *à supposer que*, *en admettant que*, *pour peu que* (if only, as long as) + **subjunctive**: *À supposer qu'il accepte, il faudra le former.* *Pour peu qu'il fasse beau, on ira pique-niquer.*\n- *pourvu que*, *à condition que*, *à moins que* + subjunctive (B2)\n- *sans* / *avec* + noun, or a gérondif: *Sans ton aide, j'aurais échoué.* *En partant plus tôt, tu l'aurais vu.*\n- *même si*, *quand bien même* (+ conditional) for hypothetical concession."
+  },
+  {
+   "heading": "Never after si",
+   "body": "Remember the golden rule: **no conditional and no future after *si*** meaning \"if\" — *si* + imparfait / plus-que-parfait. (But *si* meaning \"whether\" in reported questions can take any tense: *Je me demande s'il viendra.*)"
+  }
+ ],
+ "vocab": [
+  [
+   "l'hypothèse",
+   "the hypothesis",
+   "li.po.tɛz",
+   "f"
+  ],
+  [
+   "dans l'hypothèse où",
+   "in the event that",
+   "dɑ̃ li.po.tɛz u"
+  ],
+  [
+   "à supposer que",
+   "supposing that",
+   "a sy.po.ze kə"
+  ],
+  [
+   "en admettant que",
+   "assuming that",
+   "ɑ̃.n‿ad.mɛ.tɑ̃ kə"
+  ],
+  [
+   "pour peu que",
+   "if only, as long as",
+   "puʁ pø kə"
+  ],
+  [
+   "prudent / prudente",
+   "careful, cautious",
+   "pʁy.dɑ̃ / pʁy.dɑ̃t"
+  ],
+  [
+   "épouser",
+   "to marry",
+   "e.pu.ze"
+  ],
+  [
+   "former",
+   "to train",
+   "fɔʁ.me"
+  ],
+  [
+   "pique-niquer",
+   "to have a picnic",
+   "pik.ni.ke"
+  ],
+  [
+   "échouer",
+   "to fail",
+   "e.ʃwe"
+  ],
+  [
+   "annuler",
+   "to cancel",
+   "a.ny.le"
+  ],
+  [
+   "se demander",
+   "to wonder",
+   "sə də.mɑ̃.de"
+  ]
+ ],
+ "examples": [
+  [
+   "S'il avait plu, je serais resté à la maison.",
+   "If it had rained, I would have stayed at home."
+  ],
+  [
+   "Si j'avais étudié, je parlerais mieux aujourd'hui.",
+   "If I had studied, I'd speak better today."
+  ],
+  [
+   "Si j'étais plus prudent, je n'aurais pas eu cet accident.",
+   "If I were more careful, I wouldn't have had that accident."
+  ],
+  [
+   "Tu me le dirais, je ne le croirais pas.",
+   "Even if you told me, I wouldn't believe it."
+  ],
+  [
+   "Aurait-il raison, je ne changerais pas d'avis.",
+   "Even if he were right, I wouldn't change my mind."
+  ],
+  [
+   "Dans l'hypothèse où le contrat serait annulé, vous seriez remboursé.",
+   "In the event that the contract is cancelled, you would be refunded."
+  ],
+  [
+   "À supposer qu'il accepte, il faudra le former.",
+   "Supposing he accepts, he'll have to be trained."
+  ],
+  [
+   "Pour peu qu'il fasse beau, on ira pique-niquer.",
+   "As long as the weather's nice, we'll go for a picnic."
+  ],
+  [
+   "Sans ton aide, j'aurais échoué.",
+   "Without your help, I would have failed."
+  ],
+  [
+   "En partant plus tôt, tu l'aurais vu.",
+   "If you'd left earlier, you'd have seen him."
+  ],
+  [
+   "Je me demande s'il viendra.",
+   "I wonder whether he'll come."
+  ],
+  [
+   "S'il eût su, il fût venu.",
+   "Had he known, he would have come. (literary)"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Si j'avais étudié, je ___ mieux aujourd'hui.",
+   "options": [
+    "parlerais",
+    "aurais parlé",
+    "parlerai"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "Past condition, present result: conditionnel présent."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Si j'étais plus prudent, je n'___ pas eu cet accident.",
+   "options": [
+    "aurais",
+    "avais",
+    "aurai"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Dans l'hypothèse où le contrat ___ annulé, …",
+   "options": [
+    "serait",
+    "est",
+    "soit"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "*dans l'hypothèse où* + conditional."
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: À supposer qu'il ___, il faudra le former.",
+   "options": [
+    "accepte",
+    "acceptera",
+    "accepterait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Pour peu qu'il ___ beau, on ira pique-niquer.",
+   "options": [
+    "fasse",
+    "fait",
+    "fera"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Aurait-il raison, je ne changerais pas d'avis* means…",
+   "options": [
+    "Even if he were right, I wouldn't change my mind",
+    "Would he be right? I won't change",
+    "He would be right to change"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*S'il eût su, il fût venu* (literary) means…",
+   "options": [
+    "Had he known, he would have come",
+    "If he knows, he'll come",
+    "He knew and came"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *Je me demande s'il viendra*, *si* means…",
+   "options": [
+    "whether",
+    "if (condition)",
+    "so"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu me le dirais, je ne le croirais pas* expresses…",
+   "options": [
+    "a hypothesis (even if…)",
+    "a past fact",
+    "an order"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*pour peu que* means…",
+   "options": [
+    "as long as, if only",
+    "for a little while",
+    "for few people"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "S'il avait plu, je ___ resté à la maison. (être)",
+   "answers": [
+    "serais"
+   ],
+   "hint": "I would have stayed at home."
+  },
+  {
+   "type": "fill",
+   "prompt": "Si j'avais étudié, je ___ mieux aujourd'hui. (parler)",
+   "answers": [
+    "parlerais"
+   ],
+   "hint": "I'd speak better today."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu me le dirais, je ne le ___ pas. (croire)",
+   "answers": [
+    "croirais"
+   ],
+   "hint": "I wouldn't believe it."
+  },
+  {
+   "type": "fill",
+   "prompt": "___-il raison, je ne changerais pas d'avis. (avoir, conditionnel)",
+   "answers": [
+    "Aurait"
+   ],
+   "hint": "Even if he were right…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Dans l'___ où le contrat serait annulé, vous seriez remboursé.",
+   "answers": [
+    "hypothèse"
+   ],
+   "hint": "In the event that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "À supposer qu'il ___, il faudra le former. (accepter)",
+   "answers": [
+    "accepte"
+   ],
+   "hint": "Supposing he accepts…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Pour peu qu'il ___ beau, on ira pique-niquer. (faire)",
+   "answers": [
+    "fasse"
+   ],
+   "hint": "As long as the weather's nice…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Sans ton aide, j'aurais ___. (échouer)",
+   "answers": [
+    "échoué"
+   ],
+   "hint": "Without your help, I would have failed."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je me demande s'il ___. (venir, futur)",
+   "answers": [
+    "viendra"
+   ],
+   "hint": "I wonder whether he'll come."
+  },
+  {
+   "type": "translate",
+   "prompt": "If I had studied, I'd speak better.",
+   "answers": [
+    "Si j'avais étudié, je parlerais mieux."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Without your help, I would have failed. (to a friend)",
+   "answers": [
+    "Sans ton aide, j'aurais échoué."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Supposing he accepts, …",
+   "answers": [
+    "À supposer qu'il accepte, …",
+    "En admettant qu'il accepte, …"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"In the event that the contract is cancelled, you would be refunded.\"",
+   "answer": "Dans l'hypothèse où le contrat serait annulé, vous seriez remboursé."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"As long as the weather's nice, we'll go for a picnic.\"",
+   "answer": "Pour peu qu'il fasse beau, on ira pique-niquer."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"If I were more careful, I wouldn't have had that accident.\"",
+   "answer": "Si j'étais plus prudent, je n'aurais pas eu cet accident."
+  }
+ ]
+}

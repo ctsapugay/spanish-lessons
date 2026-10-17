@@ -1,0 +1,357 @@
+{
+ "sections": [
+  {
+   "heading": "Dislocation: the spoken way to emphasise",
+   "body": "In spoken French, a word is often pulled out to the start (or end) of the sentence and **repeated by a pronoun** — *la dislocation*:\n\n- to the left (topic first): *Mon frère, il habite à Lyon.* *Ce film, je l'ai vu trois fois.* *Le chocolat, j'adore ça.* *Paris, j'y vais souvent.* *Des pommes, j'en ai acheté.*\n- to the right (afterthought): *Il est sympa, ton frère.* *Je l'ai déjà lu, ce livre.* *Elle est où, la gare ?*\n- with stressed pronouns: *Moi, je trouve que…* *Lui, il ne dit jamais rien.* *Eux, ils sont partis.*\n\nDislocation sets the **topic** (\"as for my brother…\") and is extremely common in speech, but avoid it in formal writing."
+  },
+  {
+   "heading": "Cleft sentences: c'est… qui / que",
+   "body": "Formal and informal French use *c'est… qui / que* to highlight one element (B1):\n*C'est ma sœur qui a raison.* *C'est à Paris que je l'ai rencontré.* *C'est pour cette raison qu'il est parti.* *Ce n'est pas lui qui a appelé, c'est elle.*"
+  },
+  {
+   "heading": "Pseudo-cleft: ce qui / ce que… c'est",
+   "body": "To build suspense or emphasise a whole idea: *Ce qui m'inquiète, c'est le prix.* *Ce que je ne comprends pas, c'est pourquoi il a menti.* *Ce dont il a besoin, c'est de temps.* *Ce à quoi je pense, c'est à ma famille.*"
+  },
+  {
+   "heading": "Other emphatic devices",
+   "body": "- *voilà* / *voici*: *Voilà ce qui s'est passé.* *Voilà pourquoi j'ai refusé.*\n- *il y a… qui*: *Il y a quelqu'un qui t'attend.* *Il y a mon téléphone qui sonne.*\n- repetition, *même*: *Lui-même l'a reconnu.* (He himself admitted it.) *C'est la gentillesse même.* (She's kindness itself.)"
+  },
+  {
+   "heading": "Pronunciation: prosody for emphasis",
+   "body": "Emphasised elements get a rising pitch and an emphatic stress on their **first** syllable: *C'est elle qui a raison* (with the voice rising on *elle*). In a dislocation, the detached topic is said with a rise, then a slight pause: *Mon frère ↗ | il habite à Lyon ↘.*"
+  }
+ ],
+ "vocab": [
+  [
+   "la dislocation",
+   "dislocation (fronting)",
+   "la dis.lɔ.ka.sjɔ̃"
+  ],
+  [
+   "mettre en relief",
+   "to highlight",
+   "mɛtʁ ɑ̃ ʁə.ljɛf"
+  ],
+  [
+   "le thème",
+   "the topic",
+   "lə tɛm"
+  ],
+  [
+   "inquiéter",
+   "to worry",
+   "ɛ̃.kje.te"
+  ],
+  [
+   "mentir",
+   "to lie",
+   "mɑ̃.tiʁ"
+  ],
+  [
+   "lui-même",
+   "himself",
+   "lɥi.mɛm"
+  ],
+  [
+   "la gentillesse",
+   "kindness",
+   "la ʒɑ̃.ti.jɛs"
+  ],
+  [
+   "reconnaître",
+   "to admit, to acknowledge",
+   "ʁə.kɔ.nɛtʁ"
+  ],
+  [
+   "sonner",
+   "to ring",
+   "sɔ.ne"
+  ],
+  [
+   "attendre",
+   "to wait (for)",
+   "a.tɑ̃dʁ"
+  ],
+  [
+   "la raison",
+   "the reason",
+   "la ʁɛ.zɔ̃"
+  ],
+  [
+   "l'insistance",
+   "insistence, emphasis",
+   "lɛ̃.sis.tɑ̃s",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Mon frère, il habite à Lyon.",
+   "My brother lives in Lyon."
+  ],
+  [
+   "Ce film, je l'ai vu trois fois.",
+   "That film, I've seen it three times."
+  ],
+  [
+   "Le chocolat, j'adore ça.",
+   "Chocolate — I love it."
+  ],
+  [
+   "Il est sympa, ton frère.",
+   "He's nice, your brother."
+  ],
+  [
+   "Elle est où, la gare ?",
+   "Where's the station?"
+  ],
+  [
+   "Moi, je trouve que c'est une bonne idée.",
+   "Personally, I think it's a good idea."
+  ],
+  [
+   "C'est à Paris que je l'ai rencontré.",
+   "It was in Paris that I met him."
+  ],
+  [
+   "Ce n'est pas lui qui a appelé, c'est elle.",
+   "It wasn't him who called, it was her."
+  ],
+  [
+   "Ce qui m'inquiète, c'est le prix.",
+   "What worries me is the price."
+  ],
+  [
+   "Ce que je ne comprends pas, c'est pourquoi il a menti.",
+   "What I don't understand is why he lied."
+  ],
+  [
+   "Voilà pourquoi j'ai refusé.",
+   "That's why I refused."
+  ],
+  [
+   "Il y a quelqu'un qui t'attend en bas.",
+   "There's someone waiting for you downstairs."
+  ],
+  [
+   "Lui-même l'a reconnu.",
+   "He himself admitted it."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Ce film, je l'ai vu trois fois* is an example of…",
+   "options": [
+    "dislocation",
+    "a cleft sentence",
+    "the passive"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Dislocation is typical of…",
+   "options": [
+    "spoken French",
+    "formal writing",
+    "legal texts"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Le chocolat, j'adore ___.",
+   "options": [
+    "ça",
+    "le",
+    "lui"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Des pommes, j'___ ai acheté.",
+   "options": [
+    "en",
+    "les",
+    "y"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Paris, j'___ vais souvent.",
+   "options": [
+    "y",
+    "en",
+    "la"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ m'inquiète, c'est le prix.",
+   "options": [
+    "Ce qui",
+    "Ce que",
+    "Ce dont"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: ___ il a besoin, c'est de temps.",
+   "options": [
+    "Ce dont",
+    "Ce que",
+    "Ce qui"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Lui-même l'a reconnu* means…",
+   "options": [
+    "He himself admitted it",
+    "He recognised himself",
+    "He admitted it to himself"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *Mon frère ↗ | il habite à Lyon ↘*, the detached topic is said with…",
+   "options": [
+    "a rise and a slight pause",
+    "a fall",
+    "a whisper"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*C'est la gentillesse même* means…",
+   "options": [
+    "She's kindness itself",
+    "It's the same kindness",
+    "It's even kind"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Mon frère, ___ habite à Lyon.",
+   "answers": [
+    "il"
+   ],
+   "hint": "My brother lives in Lyon."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce film, je l'ai vu trois ___.",
+   "answers": [
+    "fois"
+   ],
+   "hint": "I've seen it three times."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est sympa, ton ___.",
+   "answers": [
+    "frère"
+   ],
+   "hint": "He's nice, your brother."
+  },
+  {
+   "type": "fill",
+   "prompt": "C'est à Paris ___ je l'ai rencontré.",
+   "answers": [
+    "que"
+   ],
+   "hint": "It was in Paris that I met him."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce n'est pas lui ___ a appelé, c'est elle.",
+   "answers": [
+    "qui"
+   ],
+   "hint": "It wasn't him who called."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce qui m'___, c'est le prix.",
+   "answers": [
+    "inquiète"
+   ],
+   "hint": "What worries me is the price."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce que je ne comprends pas, c'est pourquoi il a ___.",
+   "answers": [
+    "menti"
+   ],
+   "hint": "why he lied."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ pourquoi j'ai refusé.",
+   "answers": [
+    "Voilà"
+   ],
+   "hint": "That's why I refused."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il y a quelqu'un ___ t'attend en bas.",
+   "answers": [
+    "qui"
+   ],
+   "hint": "There's someone waiting for you."
+  },
+  {
+   "type": "translate",
+   "prompt": "What worries me is the price.",
+   "answers": [
+    "Ce qui m'inquiète, c'est le prix."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It was in Paris that I met him.",
+   "answers": [
+    "C'est à Paris que je l'ai rencontré."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That's why I refused.",
+   "answers": [
+    "Voilà pourquoi j'ai refusé.",
+    "C'est pourquoi j'ai refusé."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"What I don't understand is why he lied.\"",
+   "answer": "Ce que je ne comprends pas, c'est pourquoi il a menti."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It wasn't him who called, it was her.\"",
+   "answer": "Ce n'est pas lui qui a appelé, c'est elle."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"There's someone waiting for you downstairs.\"",
+   "answer": "Il y a quelqu'un qui t'attend en bas."
+  }
+ ]
+}
