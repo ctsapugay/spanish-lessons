@@ -1,0 +1,373 @@
+{
+ "sections": [
+  {
+   "heading": "The economy",
+   "body": "- *l'économie*, *la croissance* (growth), *la récession*, *la crise économique*, *l'inflation* (prices rising), *le taux d'intérêt* (interest rate), *le PIB* (GDP — *produit intérieur brut*), *le budget*, *la dette* (debt), *les impôts* (taxes), *les dépenses publiques* (public spending)\n- *le marché*, *l'offre et la demande* (supply and demand), *la concurrence* (competition), *la mondialisation* (globalisation), *exporter* / *importer*, *une entreprise*, *une PME* (a small or medium-sized business), *une multinationale*, *une start-up*\n- trends: *augmenter* / *la hausse* (rise), *baisser* / *la baisse* (fall), *stagner* (to stagnate), *progresser*, *chuter* (to plummet): *Le chômage a baissé de deux points.* *Les prix ont fortement augmenté.*"
+  },
+  {
+   "heading": "The world of work",
+   "body": "- *le marché du travail*, *l'emploi* (employment, a job), *le salarié / la salariée* (employee), *l'employeur*, *le patron* (boss), *le cadre* (manager, executive), *l'ouvrier / l'ouvrière* (factory worker), *le / la fonctionnaire* (civil servant), *l'indépendant(e)* / *le / la freelance* (self-employed)\n- *le salaire brut / net* (gross / net pay), *le SMIC* (French minimum wage), *une augmentation* (a pay rise), *les congés payés* (paid holiday — five weeks in France), *les 35 heures* (the legal working week), *le licenciement* (dismissal, redundancy), *démissionner* (to resign), *la retraite*\n- *le télétravail*, *l'équilibre vie pro / vie perso*, *l'épuisement professionnel* (*le burn-out*)"
+  },
+  {
+   "heading": "Reading figures",
+   "body": "*Le chiffre d'affaires a progressé de 5 %* (Turnover rose by 5%) — *Le taux de chômage s'élève à 7,3 %* (said *sept virgule trois pour cent*) — *une hausse de deux points* (a rise of two percentage points) — *un tiers*, *un quart*, *la moitié* (a third, a quarter, half) — *environ*, *près de* (nearly), *plus de* (more than)."
+  }
+ ],
+ "vocab": [
+  [
+   "la croissance",
+   "growth",
+   "la kʁwa.sɑ̃s"
+  ],
+  [
+   "l'inflation",
+   "inflation",
+   "lɛ̃.fla.sjɔ̃",
+   "f"
+  ],
+  [
+   "le taux",
+   "the rate",
+   "lə to"
+  ],
+  [
+   "la dette",
+   "debt",
+   "la dɛt"
+  ],
+  [
+   "les impôts",
+   "taxes",
+   "le.z‿ɛ̃.po",
+   "m"
+  ],
+  [
+   "la concurrence",
+   "competition",
+   "la kɔ̃.ky.ʁɑ̃s"
+  ],
+  [
+   "la mondialisation",
+   "globalisation",
+   "la mɔ̃.dja.li.za.sjɔ̃"
+  ],
+  [
+   "la hausse",
+   "the rise",
+   "la os"
+  ],
+  [
+   "la baisse",
+   "the fall",
+   "la bɛs"
+  ],
+  [
+   "chuter",
+   "to plummet",
+   "ʃy.te"
+  ],
+  [
+   "le salarié / la salariée",
+   "the employee",
+   "lə sa.la.ʁje / la sa.la.ʁje"
+  ],
+  [
+   "le cadre",
+   "the manager, the executive",
+   "lə kadʁ"
+  ],
+  [
+   "le fonctionnaire",
+   "the civil servant",
+   "lə fɔ̃k.sjɔ.nɛʁ"
+  ],
+  [
+   "les congés payés",
+   "paid holiday",
+   "le kɔ̃.ʒe pe.je",
+   "m"
+  ],
+  [
+   "le licenciement",
+   "the dismissal, redundancy",
+   "lə li.sɑ̃.si.mɑ̃"
+  ],
+  [
+   "le chiffre d'affaires",
+   "the turnover",
+   "lə ʃifʁ da.fɛʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "La croissance a ralenti au deuxième trimestre.",
+   "Growth slowed in the second quarter."
+  ],
+  [
+   "L'inflation a atteint son plus haut niveau depuis vingt ans.",
+   "Inflation reached its highest level in twenty years."
+  ],
+  [
+   "La banque centrale a relevé ses taux d'intérêt.",
+   "The central bank raised its interest rates."
+  ],
+  [
+   "La dette publique continue d'augmenter.",
+   "Public debt keeps rising."
+  ],
+  [
+   "La concurrence est très forte dans ce secteur.",
+   "Competition is very strong in this sector."
+  ],
+  [
+   "Le chômage a baissé de deux points.",
+   "Unemployment fell by two points."
+  ],
+  [
+   "Les prix de l'énergie ont chuté.",
+   "Energy prices have plummeted."
+  ],
+  [
+   "En France, les salariés ont cinq semaines de congés payés.",
+   "In France, employees get five weeks' paid holiday."
+  ],
+  [
+   "Mon frère est cadre dans une multinationale.",
+   "My brother is a manager in a multinational."
+  ],
+  [
+   "Elle est fonctionnaire, elle travaille à la mairie.",
+   "She's a civil servant; she works at the town hall."
+  ],
+  [
+   "L'usine a annoncé deux cents licenciements.",
+   "The factory announced two hundred redundancies."
+  ],
+  [
+   "Le chiffre d'affaires a progressé de cinq pour cent.",
+   "Turnover rose by five per cent."
+  ],
+  [
+   "Près de la moitié des salariés font du télétravail.",
+   "Nearly half of employees work from home."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*la croissance* is…",
+   "options": [
+    "growth",
+    "a croissant shop",
+    "the crisis"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la concurrence* is…",
+   "options": [
+    "competition",
+    "agreement",
+    "competence"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les impôts* are…",
+   "options": [
+    "taxes",
+    "imports",
+    "important people"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*chuter* means…",
+   "options": [
+    "to plummet",
+    "to shoot",
+    "to whisper"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un cadre* (at work) is…",
+   "options": [
+    "a manager, an executive",
+    "a frame only",
+    "a worker in a factory"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un fonctionnaire* is…",
+   "options": [
+    "a civil servant",
+    "a functional object",
+    "an official function"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les congés payés* are…",
+   "options": [
+    "paid holiday",
+    "paid leave without pay",
+    "payments"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le licenciement* is…",
+   "options": [
+    "dismissal, redundancy",
+    "a licence",
+    "a resignation"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le chiffre d'affaires* is…",
+   "options": [
+    "turnover",
+    "a business card",
+    "an affair"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une hausse de deux points* means…",
+   "options": [
+    "a rise of two percentage points",
+    "two high points",
+    "a house with two floors"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "La ___ a ralenti au deuxième trimestre.",
+   "answers": [
+    "croissance"
+   ],
+   "hint": "Growth slowed…"
+  },
+  {
+   "type": "fill",
+   "prompt": "L'___ a atteint son plus haut niveau depuis vingt ans.",
+   "answers": [
+    "inflation"
+   ],
+   "hint": "Inflation reached its highest level…"
+  },
+  {
+   "type": "fill",
+   "prompt": "La banque centrale a relevé ses ___ d'intérêt.",
+   "answers": [
+    "taux"
+   ],
+   "hint": "raised its interest rates."
+  },
+  {
+   "type": "fill",
+   "prompt": "La ___ publique continue d'augmenter.",
+   "answers": [
+    "dette"
+   ],
+   "hint": "Public debt keeps rising."
+  },
+  {
+   "type": "fill",
+   "prompt": "La ___ est très forte dans ce secteur.",
+   "answers": [
+    "concurrence"
+   ],
+   "hint": "Competition is very strong."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les prix de l'énergie ont ___.",
+   "answers": [
+    "chuté"
+   ],
+   "hint": "Energy prices have plummeted."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les salariés ont cinq semaines de ___ payés.",
+   "answers": [
+    "congés"
+   ],
+   "hint": "five weeks' paid holiday."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'usine a annoncé deux cents ___.",
+   "answers": [
+    "licenciements"
+   ],
+   "hint": "two hundred redundancies."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le chiffre d'___ a progressé de cinq pour cent.",
+   "answers": [
+    "affaires"
+   ],
+   "hint": "Turnover rose by five per cent."
+  },
+  {
+   "type": "translate",
+   "prompt": "Unemployment has fallen.",
+   "answers": [
+    "Le chômage a baissé."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She's a civil servant.",
+   "answers": [
+    "Elle est fonctionnaire."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Prices have risen sharply.",
+   "answers": [
+    "Les prix ont fortement augmenté."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "nearly half",
+   "answers": [
+    "près de la moitié",
+    "presque la moitié"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"In France, employees get five weeks' paid holiday.\"",
+   "answer": "En France, les salariés ont cinq semaines de congés payés."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The central bank raised its interest rates.\"",
+   "answer": "La banque centrale a relevé ses taux d'intérêt."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Nearly half of employees work from home.\"",
+   "answer": "Près de la moitié des salariés font du télétravail."
+  }
+ ]
+}

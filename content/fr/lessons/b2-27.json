@@ -1,0 +1,368 @@
+{
+ "sections": [
+  {
+   "heading": "Science and research",
+   "body": "- *la science*, *le / la scientifique*, *le chercheur / la chercheuse* (researcher), *la recherche*, *le laboratoire* (*le labo*), *une expérience* (an experiment — also \"experience\"!), *une découverte* (a discovery), *une invention*, *une hypothèse*, *les résultats*, *une étude* (a study), *un échantillon* (a sample)\n- *mener une étude* (to carry out a study), *faire une expérience*, *tester*, *prouver*, *démontrer*, *publier*"
+  },
+  {
+   "heading": "Technology and digital life",
+   "body": "- *le numérique* (digital technology), *l'informatique* (computing, IT), *un logiciel* (software), *une application* (*une appli*), *un ordinateur portable* (laptop), *une tablette*, *un smartphone*, *télécharger* (to download), *mettre à jour* (to update), *la mise à jour*\n- *Internet* (no article, capital I), *un site*, *un moteur de recherche* (search engine), *un mot de passe* (password), *se connecter* / *se déconnecter*, *un courriel* / *un mail* (email — *courriel* is preferred in Québec)\n- *l'intelligence artificielle* (*l'IA*), *les données* (data), *la protection des données personnelles*, *la cybersécurité*, *un algorithme*, *le cloud* (*l'informatique en nuage*)\n- *les réseaux sociaux*, *publier* (to post), *partager*, *un abonné* (a follower), *la désinformation*, *les fausses informations* (fake news)"
+  },
+  {
+   "heading": "Specialised vocabulary",
+   "body": "Every field has its jargon: medicine (*un diagnostic*, *un traitement*, *un essai clinique* — a clinical trial), law (*un contrat*, *une clause*, *un litige* — a dispute), engineering (*un prototype*, *les normes* — standards). Recognising word families helps: **-logie** / **-logue** (*la biologie, le biologiste* — but *le cardiologue*), **-graphie** (*la géographie*)."
+  }
+ ],
+ "vocab": [
+  [
+   "le chercheur / la chercheuse",
+   "the researcher",
+   "lə ʃɛʁ.ʃœʁ / la ʃɛʁ.ʃøz"
+  ],
+  [
+   "la recherche",
+   "research",
+   "la ʁə.ʃɛʁʃ"
+  ],
+  [
+   "l'expérience",
+   "the experiment; experience",
+   "lɛk.spe.ʁjɑ̃s",
+   "f"
+  ],
+  [
+   "la découverte",
+   "the discovery",
+   "la de.ku.vɛʁt"
+  ],
+  [
+   "l'étude",
+   "the study",
+   "le.tyd",
+   "f"
+  ],
+  [
+   "l'échantillon",
+   "the sample",
+   "le.ʃɑ̃.ti.jɔ̃",
+   "m"
+  ],
+  [
+   "mener",
+   "to lead, to carry out",
+   "mə.ne"
+  ],
+  [
+   "le numérique",
+   "digital technology",
+   "lə ny.me.ʁik"
+  ],
+  [
+   "le logiciel",
+   "the software",
+   "lə lɔ.ʒi.sjɛl"
+  ],
+  [
+   "télécharger",
+   "to download",
+   "te.le.ʃaʁ.ʒe"
+  ],
+  [
+   "la mise à jour",
+   "the update",
+   "la miz a ʒuʁ"
+  ],
+  [
+   "le mot de passe",
+   "the password",
+   "lə mo də pas"
+  ],
+  [
+   "les données",
+   "data",
+   "le dɔ.ne",
+   "f"
+  ],
+  [
+   "l'intelligence artificielle",
+   "artificial intelligence",
+   "lɛ̃.te.li.ʒɑ̃s aʁ.ti.fi.sjɛl",
+   "f"
+  ],
+  [
+   "le diagnostic",
+   "the diagnosis",
+   "lə djaɡ.nɔs.tik"
+  ]
+ ],
+ "examples": [
+  [
+   "Les chercheurs ont mené une étude sur deux mille patients.",
+   "The researchers carried out a study on two thousand patients."
+  ],
+  [
+   "Cette découverte pourrait changer la médecine.",
+   "This discovery could change medicine."
+  ],
+  [
+   "Ils ont fait une expérience en laboratoire.",
+   "They did an experiment in the laboratory."
+  ],
+  [
+   "Les résultats ont été publiés dans une revue scientifique.",
+   "The results were published in a scientific journal."
+  ],
+  [
+   "Il faut télécharger la dernière mise à jour.",
+   "You need to download the latest update."
+  ],
+  [
+   "J'ai oublié mon mot de passe.",
+   "I've forgotten my password."
+  ],
+  [
+   "La protection des données personnelles est un enjeu majeur.",
+   "Personal data protection is a major issue."
+  ],
+  [
+   "L'intelligence artificielle transforme de nombreux métiers.",
+   "Artificial intelligence is transforming many jobs."
+  ],
+  [
+   "Ce logiciel est très facile à utiliser.",
+   "This software is very easy to use."
+  ],
+  [
+   "Méfiez-vous des fausses informations sur les réseaux sociaux.",
+   "Beware of fake news on social media."
+  ],
+  [
+   "Le médecin a posé un diagnostic rapide.",
+   "The doctor made a quick diagnosis."
+  ],
+  [
+   "Le numérique a changé notre façon de travailler.",
+   "Digital technology has changed the way we work."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*une expérience* (in science) is…",
+   "options": [
+    "an experiment",
+    "an expert",
+    "a skill"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un échantillon* is…",
+   "options": [
+    "a sample",
+    "a chant",
+    "a step"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*mener une étude* means…",
+   "options": [
+    "to carry out a study",
+    "to lead a student",
+    "to mine a study"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le logiciel* is…",
+   "options": [
+    "software",
+    "logic",
+    "hardware"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*télécharger* means…",
+   "options": [
+    "to download",
+    "to charge a phone",
+    "to call"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les données* are…",
+   "options": [
+    "data",
+    "gifts",
+    "the given ones"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la mise à jour* is…",
+   "options": [
+    "the update",
+    "the daily bet",
+    "the day off"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un mot de passe* is…",
+   "options": [
+    "a password",
+    "a passing word",
+    "a pass"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les fausses informations* are…",
+   "options": [
+    "fake news",
+    "wrong numbers",
+    "false friends"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Les résultats ont été ___ dans une revue.",
+   "options": [
+    "publiés",
+    "publié",
+    "publiées"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Les chercheurs ont ___ une étude sur deux mille patients.",
+   "answers": [
+    "mené"
+   ],
+   "hint": "carried out a study…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Cette ___ pourrait changer la médecine.",
+   "answers": [
+    "découverte"
+   ],
+   "hint": "This discovery could change medicine."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils ont fait une ___ en laboratoire.",
+   "answers": [
+    "expérience"
+   ],
+   "hint": "They did an experiment in the laboratory."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut ___ la dernière mise à jour.",
+   "answers": [
+    "télécharger"
+   ],
+   "hint": "You need to download the latest update."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai oublié mon mot de ___.",
+   "answers": [
+    "passe"
+   ],
+   "hint": "I've forgotten my password."
+  },
+  {
+   "type": "fill",
+   "prompt": "La protection des ___ personnelles est un enjeu majeur.",
+   "answers": [
+    "données"
+   ],
+   "hint": "Personal data protection…"
+  },
+  {
+   "type": "fill",
+   "prompt": "L'intelligence ___ transforme de nombreux métiers.",
+   "answers": [
+    "artificielle"
+   ],
+   "hint": "Artificial intelligence…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce ___ est très facile à utiliser.",
+   "answers": [
+    "logiciel"
+   ],
+   "hint": "This software is very easy to use."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le médecin a posé un ___ rapide.",
+   "answers": [
+    "diagnostic"
+   ],
+   "hint": "The doctor made a quick diagnosis."
+  },
+  {
+   "type": "translate",
+   "prompt": "I've forgotten my password.",
+   "answers": [
+    "J'ai oublié mon mot de passe."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "artificial intelligence",
+   "answers": [
+    "l'intelligence artificielle",
+    "l'IA"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "You need to download the update.",
+   "answers": [
+    "Il faut télécharger la mise à jour."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "They carried out a study.",
+   "answers": [
+    "Ils ont mené une étude.",
+    "Ils ont réalisé une étude."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The researchers carried out a study on two thousand patients.\"",
+   "answer": "Les chercheurs ont mené une étude sur deux mille patients."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Personal data protection is a major issue.\"",
+   "answer": "La protection des données personnelles est un enjeu majeur."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Digital technology has changed the way we work.\"",
+   "answer": "Le numérique a changé notre façon de travailler."
+  }
+ ]
+}

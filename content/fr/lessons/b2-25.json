@@ -1,0 +1,371 @@
+{
+ "sections": [
+  {
+   "heading": "Society: trends and problems",
+   "body": "- *la société*, *les tendances* (trends), *les problèmes de société* (social issues), *les inégalités* (inequalities), *la pauvreté* (poverty), *le chômage*, *la précarité* (insecurity, instability of work and housing), *le logement* (housing), *le pouvoir d'achat* (purchasing power), *la crise du logement*\n- *le vieillissement de la population* (the ageing population), *la natalité* (birth rate), *l'immigration*, *l'intégration*, *la discrimination*, *l'égalité femmes-hommes* (gender equality), *la laïcité* (French secularism — the separation of religion and the state)\n- *l'exclusion sociale*, *les sans-abri* / *les SDF* (homeless people), *la solidarité*, *les associations* (charities, non-profits), *le bénévolat* (volunteering)\n- *les réseaux sociaux*, *l'individualisme*, *le lien social* (social ties)"
+  },
+  {
+   "heading": "Politics and values",
+   "body": "- *la démocratie*, *les élections*, *voter*, *le droit de vote*, *le suffrage universel*, *l'abstention* (not voting), *le gouvernement*, *le Parlement*, *les citoyens*\n- *gauche* / *droite* / *centre*, *un parti politique*, *une manifestation* (a demonstration — *manifester*), *une grève*, *les syndicats* (trade unions)\n- values: *la liberté*, *l'égalité*, *la fraternité* (the French motto: *Liberté, Égalité, Fraternité*), *la justice sociale*, *la tolérance*, *le respect*, *les droits de l'homme* (human rights)"
+  },
+  {
+   "heading": "Discussing a social issue",
+   "body": "*Ce phénomène touche surtout les jeunes.* (affects) — *Le nombre de… a augmenté de 10 % en cinq ans.* — *Cette situation s'explique par…* (is explained by) — *Il serait souhaitable que l'État intervienne.* (It would be desirable for the state to intervene — subjunctive) — *Les avis sont partagés.* (Opinions are divided.)"
+  }
+ ],
+ "vocab": [
+  [
+   "la société",
+   "society",
+   "la sɔ.sje.te"
+  ],
+  [
+   "l'inégalité",
+   "inequality",
+   "li.ne.ɡa.li.te",
+   "f"
+  ],
+  [
+   "la pauvreté",
+   "poverty",
+   "la pov.ʁə.te"
+  ],
+  [
+   "la précarité",
+   "insecurity, precariousness",
+   "la pʁe.ka.ʁi.te"
+  ],
+  [
+   "le pouvoir d'achat",
+   "purchasing power",
+   "lə pu.vwaʁ da.ʃa"
+  ],
+  [
+   "le vieillissement",
+   "ageing",
+   "lə vje.jis.mɑ̃"
+  ],
+  [
+   "la laïcité",
+   "secularism",
+   "la la.i.si.te"
+  ],
+  [
+   "le bénévolat",
+   "volunteering",
+   "lə be.ne.vɔ.la"
+  ],
+  [
+   "la solidarité",
+   "solidarity",
+   "la sɔ.li.da.ʁi.te"
+  ],
+  [
+   "l'abstention",
+   "abstention (not voting)",
+   "lap.stɑ̃.sjɔ̃",
+   "f"
+  ],
+  [
+   "la manifestation",
+   "the demonstration",
+   "la ma.ni.fɛs.ta.sjɔ̃"
+  ],
+  [
+   "le syndicat",
+   "the trade union",
+   "lə sɛ̃.di.ka"
+  ],
+  [
+   "le droit",
+   "the right; law",
+   "lə dʁwa"
+  ],
+  [
+   "toucher",
+   "to affect; to touch",
+   "tu.ʃe"
+  ],
+  [
+   "souhaitable",
+   "desirable",
+   "swɛ.tabl"
+  ],
+  [
+   "partagé / partagée",
+   "divided, shared",
+   "paʁ.ta.ʒe / paʁ.ta.ʒe"
+  ]
+ ],
+ "examples": [
+  [
+   "Les inégalités se creusent dans de nombreux pays.",
+   "Inequalities are widening in many countries."
+  ],
+  [
+   "La pauvreté touche surtout les familles monoparentales.",
+   "Poverty mainly affects single-parent families."
+  ],
+  [
+   "Le pouvoir d'achat a baissé cette année.",
+   "Purchasing power fell this year."
+  ],
+  [
+   "Le vieillissement de la population pose des problèmes.",
+   "The ageing population raises problems."
+  ],
+  [
+   "La laïcité est un principe fondamental de la République.",
+   "Secularism is a fundamental principle of the Republic."
+  ],
+  [
+   "Elle fait du bénévolat dans une association.",
+   "She volunteers for a charity."
+  ],
+  [
+   "Le taux d'abstention a atteint quarante pour cent.",
+   "The abstention rate reached forty per cent."
+  ],
+  [
+   "Des milliers de personnes ont participé à la manifestation.",
+   "Thousands of people took part in the demonstration."
+  ],
+  [
+   "Les syndicats appellent à la grève.",
+   "The unions are calling a strike."
+  ],
+  [
+   "Liberté, Égalité, Fraternité est la devise de la France.",
+   "Liberty, Equality, Fraternity is France's motto."
+  ],
+  [
+   "Il serait souhaitable que l'État intervienne.",
+   "It would be desirable for the state to intervene."
+  ],
+  [
+   "Sur ce sujet, les avis sont partagés.",
+   "On this subject, opinions are divided."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*la précarité* refers to…",
+   "options": [
+    "insecurity of work, income or housing",
+    "precision",
+    "poverty only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le pouvoir d'achat* is…",
+   "options": [
+    "purchasing power",
+    "the power of shops",
+    "the buying office"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la laïcité* is…",
+   "options": [
+    "French secularism",
+    "laziness",
+    "the laity of a church"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le bénévolat* is…",
+   "options": [
+    "volunteering",
+    "a benefit",
+    "kindness in general"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'abstention* (in elections) is…",
+   "options": [
+    "not voting",
+    "voting against",
+    "voting twice"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une manifestation* (in politics) is…",
+   "options": [
+    "a demonstration",
+    "an event of any kind only",
+    "a manifesto"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un syndicat* is…",
+   "options": [
+    "a trade union",
+    "a syndicate of criminals",
+    "a newspaper"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il serait souhaitable que l'État ___.",
+   "options": [
+    "intervienne",
+    "intervient",
+    "interviendra"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Les avis sont partagés* means…",
+   "options": [
+    "Opinions are divided",
+    "Notices are shared",
+    "Advice is given"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "The French motto is…",
+   "options": [
+    "Liberté, Égalité, Fraternité",
+    "Travail, Famille, Patrie",
+    "Paix et Justice"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Les ___ se creusent dans de nombreux pays.",
+   "answers": [
+    "inégalités"
+   ],
+   "hint": "Inequalities are widening."
+  },
+  {
+   "type": "fill",
+   "prompt": "La ___ touche surtout les familles monoparentales.",
+   "answers": [
+    "pauvreté"
+   ],
+   "hint": "Poverty mainly affects…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le pouvoir d'___ a baissé cette année.",
+   "answers": [
+    "achat"
+   ],
+   "hint": "Purchasing power fell this year."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ de la population pose des problèmes.",
+   "answers": [
+    "vieillissement"
+   ],
+   "hint": "The ageing population…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle fait du ___ dans une association.",
+   "answers": [
+    "bénévolat"
+   ],
+   "hint": "She volunteers for a charity."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le taux d'___ a atteint quarante pour cent.",
+   "answers": [
+    "abstention"
+   ],
+   "hint": "The abstention rate reached forty per cent."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les ___ appellent à la grève.",
+   "answers": [
+    "syndicats"
+   ],
+   "hint": "The unions are calling a strike."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il serait ___ que l'État intervienne.",
+   "answers": [
+    "souhaitable"
+   ],
+   "hint": "It would be desirable for the state to intervene."
+  },
+  {
+   "type": "fill",
+   "prompt": "Sur ce sujet, les avis sont ___.",
+   "answers": [
+    "partagés"
+   ],
+   "hint": "opinions are divided."
+  },
+  {
+   "type": "translate",
+   "prompt": "Opinions are divided.",
+   "answers": [
+    "Les avis sont partagés.",
+    "Les opinions sont partagées."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She volunteers for a charity.",
+   "answers": [
+    "Elle fait du bénévolat dans une association."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Poverty affects many families.",
+   "answers": [
+    "La pauvreté touche de nombreuses familles.",
+    "La pauvreté touche beaucoup de familles."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "the right to vote",
+   "answers": [
+    "le droit de vote"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Thousands of people took part in the demonstration.\"",
+   "answer": "Des milliers de personnes ont participé à la manifestation."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Secularism is a fundamental principle of the Republic.\"",
+   "answer": "La laïcité est un principe fondamental de la République."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It would be desirable for the state to intervene.\"",
+   "answer": "Il serait souhaitable que l'État intervienne."
+  }
+ ]
+}
