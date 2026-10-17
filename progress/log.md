@@ -174,3 +174,6 @@ reader: state, not narrative.
 
 ## 2026-10-03 — Session paused (usage limit)
 - B2 lessons b2-01…b2-12 written; each batch passed check_content --lang fr and check_french_accuracy before commit. Remaining: b2-13…b2-30, B2 review, C1 (26 lessons + review), final verify and criteria evidence. Not pushed.
+
+## 2026-10-17 — Push approved by Clara
+- Clara said "push it first"; pushed master (French A1–B1, B2 1–12, Polyglotte app and checks) to ctsapugay/spanish-lessons.
