@@ -1,0 +1,361 @@
+{
+ "sections": [
+  {
+   "heading": "Literary language",
+   "body": "Literary French differs from everyday French in vocabulary, syntax and rhythm:\n\n- tenses: passé simple, passé antérieur, and in very formal style the **imparfait du subjonctif** (*qu'il fût*, *qu'il eût*) — to recognise only;\n- word order: inverted subjects (*Ainsi parla le roi.*), adjectives placed before the noun for effect (*une sombre histoire*);\n- vocabulary: *demeurer* (to remain, to live), *songer* (to think, dream), *s'en aller*, *l'aube* (dawn), *le crépuscule* (dusk), *naguère* (not long ago), *jadis* (in times past);\n- figures of speech (*les figures de style*): *la métaphore* (*un océan de blé*), *la comparaison* (*blanc comme neige*), *la personnification* (*la ville s'éveille*), *l'hyperbole* (exaggeration), *la litote* (understatement — *Va, je ne te hais point* = I love you), *l'antithèse*, *l'anaphore* (repetition at the start of lines)."
+  },
+  {
+   "heading": "Styles",
+   "body": "- **narratif** — tells events, mainly passé simple: *Il se leva, prit son chapeau et sortit.*\n- **descriptif** — paints a scene, mainly imparfait, adjectives, sensations: *Le ciel était bas et lourd ; une odeur de pluie montait des champs.*\n- **lyrique** — expresses personal feelings, often in the first person, with exclamations and images (much poetry: Lamartine, Hugo): *Ô temps ! suspends ton vol !* (Lamartine)\n- **burlesque** — treats a noble subject in a vulgar way, or a trivial subject in a grand style, for comic effect.\n- **épique** — grand, heroic, with hyperbole; **satirique** — mocks to criticise; **réaliste** — precise, ordinary details (Balzac, Flaubert)."
+  },
+  {
+   "heading": "Talking about a literary text",
+   "body": "*Le registre est lyrique.* — *L'auteur emploie une métaphore filée* (an extended metaphor). — *Le rythme de la phrase traduit l'émotion du personnage.* — *Ce passage oppose la ville et la campagne.* — *Le narrateur porte un regard ironique sur…* (casts an ironic eye on…)"
+  }
+ ],
+ "vocab": [
+  [
+   "la figure de style",
+   "the figure of speech",
+   "la fi.ɡyʁ də stil"
+  ],
+  [
+   "la métaphore",
+   "the metaphor",
+   "la me.ta.fɔʁ"
+  ],
+  [
+   "la comparaison",
+   "the simile, the comparison",
+   "la kɔ̃.pa.ʁɛ.zɔ̃"
+  ],
+  [
+   "la personnification",
+   "the personification",
+   "la pɛʁ.sɔ.ni.fi.ka.sjɔ̃"
+  ],
+  [
+   "la litote",
+   "the understatement",
+   "la li.tɔt"
+  ],
+  [
+   "lyrique",
+   "lyrical",
+   "li.ʁik"
+  ],
+  [
+   "burlesque",
+   "burlesque",
+   "byʁ.lɛsk"
+  ],
+  [
+   "épique",
+   "epic",
+   "e.pik"
+  ],
+  [
+   "demeurer",
+   "to remain; to live (formal)",
+   "də.mœ.ʁe"
+  ],
+  [
+   "songer",
+   "to think, to dream",
+   "sɔ̃.ʒe"
+  ],
+  [
+   "l'aube",
+   "dawn",
+   "lob",
+   "f"
+  ],
+  [
+   "le crépuscule",
+   "dusk",
+   "lə kʁe.pys.kyl"
+  ],
+  [
+   "jadis",
+   "in times past",
+   "ʒa.dis"
+  ],
+  [
+   "naguère",
+   "not long ago",
+   "na.ɡɛʁ"
+  ],
+  [
+   "le registre",
+   "the register, the tone (of a text)",
+   "lə ʁə.ʒistʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "Ainsi parla le roi.",
+   "Thus spoke the king."
+  ],
+  [
+   "Il se leva, prit son chapeau et sortit.",
+   "He got up, took his hat and went out."
+  ],
+  [
+   "Le ciel était bas et lourd.",
+   "The sky was low and heavy."
+  ],
+  [
+   "Une odeur de pluie montait des champs.",
+   "A smell of rain rose from the fields."
+  ],
+  [
+   "La ville s'éveille lentement.",
+   "The city slowly awakens."
+  ],
+  [
+   "Elle était blanche comme neige.",
+   "She was as white as snow."
+  ],
+  [
+   "Un océan de blé s'étendait devant nous.",
+   "An ocean of wheat stretched before us."
+  ],
+  [
+   "Va, je ne te hais point.",
+   "Go, I do not hate you. (Corneille — meaning \"I love you\")"
+  ],
+  [
+   "Jadis, ce village était prospère.",
+   "In times past, this village was prosperous."
+  ],
+  [
+   "Il demeura longtemps silencieux.",
+   "He remained silent for a long time."
+  ],
+  [
+   "À l'aube, ils quittèrent la ville.",
+   "At dawn they left the town."
+  ],
+  [
+   "Le registre de ce poème est lyrique.",
+   "The tone of this poem is lyrical."
+  ],
+  [
+   "L'auteur emploie une métaphore filée.",
+   "The author uses an extended metaphor."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Un océan de blé* is…",
+   "options": [
+    "a metaphor",
+    "a simile",
+    "a litotes"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Blanc comme neige* is…",
+   "options": [
+    "a simile (comparaison)",
+    "a metaphor",
+    "a hyperbole"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*La ville s'éveille* is…",
+   "options": [
+    "a personification",
+    "an antithesis",
+    "a litotes"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Va, je ne te hais point* (meaning \"I love you\") is…",
+   "options": [
+    "a litotes (understatement)",
+    "a hyperbole",
+    "an anaphora"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "A text expressing personal feelings with exclamations is…",
+   "options": [
+    "lyrique",
+    "réaliste",
+    "burlesque"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Treating a trivial subject in a grand style for laughs is…",
+   "options": [
+    "burlesque",
+    "épique",
+    "lyrique"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*jadis* means…",
+   "options": [
+    "in times past",
+    "soon",
+    "yesterday"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'aube* is…",
+   "options": [
+    "dawn",
+    "dusk",
+    "the river"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*demeurer* (formal) means…",
+   "options": [
+    "to remain; to live",
+    "to demand",
+    "to die"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ainsi parla le roi* shows…",
+   "options": [
+    "subject inversion after ainsi",
+    "a question",
+    "the imparfait"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Ainsi ___ le roi. (parler, passé simple)",
+   "answers": [
+    "parla"
+   ],
+   "hint": "Thus spoke the king."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ciel était bas et ___.",
+   "answers": [
+    "lourd"
+   ],
+   "hint": "The sky was low and heavy."
+  },
+  {
+   "type": "fill",
+   "prompt": "La ville s'___ lentement.",
+   "answers": [
+    "éveille"
+   ],
+   "hint": "The city slowly awakens."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle était blanche comme ___.",
+   "answers": [
+    "neige"
+   ],
+   "hint": "She was as white as snow."
+  },
+  {
+   "type": "fill",
+   "prompt": "___, ce village était prospère.",
+   "answers": [
+    "Jadis"
+   ],
+   "hint": "In times past, this village was prosperous."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ longtemps silencieux. (demeurer, passé simple)",
+   "answers": [
+    "demeura"
+   ],
+   "hint": "He remained silent for a long time."
+  },
+  {
+   "type": "fill",
+   "prompt": "À l'___, ils quittèrent la ville.",
+   "answers": [
+    "aube"
+   ],
+   "hint": "At dawn they left the town."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ de ce poème est lyrique.",
+   "answers": [
+    "registre"
+   ],
+   "hint": "The tone of this poem is lyrical."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'auteur emploie une ___ filée.",
+   "answers": [
+    "métaphore"
+   ],
+   "hint": "an extended metaphor."
+  },
+  {
+   "type": "translate",
+   "prompt": "at dawn",
+   "answers": [
+    "à l'aube"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "a figure of speech",
+   "answers": [
+    "une figure de style"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The tone is lyrical.",
+   "answers": [
+    "Le registre est lyrique.",
+    "Le ton est lyrique."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"A smell of rain rose from the fields.\"",
+   "answer": "Une odeur de pluie montait des champs."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"He got up, took his hat and went out.\"",
+   "answer": "Il se leva, prit son chapeau et sortit."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The author uses an extended metaphor.\"",
+   "answer": "L'auteur emploie une métaphore filée."
+  }
+ ]
+}

@@ -1,0 +1,407 @@
+{
+ "sections": [
+  {
+   "heading": "The tense of written stories",
+   "body": "The **passé simple** is the past tense of literature, history books and formal narratives. It means the same as the passé composé — a completed event — but you'll almost never hear it in conversation. At C1 you need to **recognise** it fluently when reading, and to produce the third-person forms."
+  },
+  {
+   "heading": "Forms",
+   "body": "Three sets of endings:\n\nThe third person is by far the most frequent. Key irregular verbs: *être → il fut, ils furent*; *avoir → il eut*; *faire → il fit, ils firent*; *venir → il vint, ils vinrent*; *voir → il vit*; *dire → il dit*; *mettre → il mit*; *naître → il naquit*; *mourir → il mourut*; *pouvoir → il put*; *savoir → il sut*; *vivre → il vécut*.\n\nCareful: *il finit* and *il dit* look exactly like the present — context tells you.",
+   "table": {
+    "head": [
+     "",
+     "-er verbs (parler)",
+     "most -ir / -re verbs (finir, prendre)",
+     "-oir and some others (vouloir, avoir)"
+    ],
+    "rows": [
+     [
+      "*je*",
+      "*parlai*",
+      "*finis*, *pris*",
+      "*voulus*, *eus*"
+     ],
+     [
+      "*tu*",
+      "*parlas*",
+      "*finis*, *pris*",
+      "*voulus*, *eus*"
+     ],
+     [
+      "*il / elle*",
+      "*parla*",
+      "*finit*, *prit*",
+      "*voulut*, *eut*"
+     ],
+     [
+      "*nous*",
+      "*parlâmes*",
+      "*finîmes*, *prîmes*",
+      "*voulûmes*, *eûmes*"
+     ],
+     [
+      "*vous*",
+      "*parlâtes*",
+      "*finîtes*, *prîtes*",
+      "*voulûtes*, *eûtes*"
+     ],
+     [
+      "*ils / elles*",
+      "*parlèrent*",
+      "*finirent*, *prirent*",
+      "*voulurent*, *eurent*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "The passé antérieur",
+   "body": "The **passé antérieur** is the auxiliary in the passé simple + participle (*il eut fini*, *elle fut partie*). It marks an action completed just before another in the passé simple, usually after *quand*, *lorsque*, *dès que*, *après que*, *à peine… que* (hardly… when): *Dès qu'il eut fini, il sortit.* (As soon as he had finished, he went out.) *À peine fut-elle arrivée qu'il commença à pleuvoir.*"
+  },
+  {
+   "heading": "In a narrative",
+   "body": "The passé simple carries the events, the imparfait the background — exactly like the passé composé in speech: *Il faisait nuit. Soudain, la porte s'ouvrit et un homme entra.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le passé simple",
+   "the simple past (literary)",
+   "lə pa.se sɛ̃pl"
+  ],
+  [
+   "il fut",
+   "he was",
+   "il fy"
+  ],
+  [
+   "il eut",
+   "he had",
+   "il y"
+  ],
+  [
+   "il fit",
+   "he did, he made",
+   "il fi"
+  ],
+  [
+   "il vint",
+   "he came",
+   "il vɛ̃"
+  ],
+  [
+   "il vit",
+   "he saw",
+   "il vi"
+  ],
+  [
+   "il naquit",
+   "he was born",
+   "il na.ki"
+  ],
+  [
+   "il mourut",
+   "he died",
+   "il mu.ʁy"
+  ],
+  [
+   "il vécut",
+   "he lived",
+   "il ve.ky"
+  ],
+  [
+   "ils prirent",
+   "they took",
+   "il pʁiʁ"
+  ],
+  [
+   "le passé antérieur",
+   "the past anterior",
+   "lə pa.se ɑ̃.te.ʁjœʁ"
+  ],
+  [
+   "à peine… que",
+   "hardly… when",
+   "a pɛn kə"
+  ],
+  [
+   "soudain",
+   "suddenly",
+   "su.dɛ̃"
+  ],
+  [
+   "la nuit",
+   "the night",
+   "la nɥi"
+  ]
+ ],
+ "examples": [
+  [
+   "Il était une fois un roi qui vivait dans un grand château.",
+   "Once upon a time there was a king who lived in a great castle."
+  ],
+  [
+   "Soudain, la porte s'ouvrit et un homme entra.",
+   "Suddenly the door opened and a man came in."
+  ],
+  [
+   "Victor Hugo naquit en 1802 et mourut en 1885.",
+   "Victor Hugo was born in 1802 and died in 1885."
+  ],
+  [
+   "Elle prit son manteau et sortit sans un mot.",
+   "She took her coat and left without a word."
+  ],
+  [
+   "Ils vécurent heureux et eurent beaucoup d'enfants.",
+   "They lived happily ever after and had many children."
+  ],
+  [
+   "Le roi fit venir ses ministres.",
+   "The king summoned his ministers."
+  ],
+  [
+   "Quand il vit la lettre, il comprit tout.",
+   "When he saw the letter, he understood everything."
+  ],
+  [
+   "Ce fut une longue nuit.",
+   "It was a long night."
+  ],
+  [
+   "Dès qu'il eut fini, il sortit.",
+   "As soon as he had finished, he went out."
+  ],
+  [
+   "À peine fut-elle arrivée qu'il commença à pleuvoir.",
+   "Hardly had she arrived when it began to rain."
+  ],
+  [
+   "Les soldats arrivèrent à l'aube.",
+   "The soldiers arrived at dawn."
+  ],
+  [
+   "Elle dit simplement : « Je reviendrai. »",
+   "She simply said: \"I'll come back.\""
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Il naquit en 1802* means…",
+   "options": [
+    "He was born in 1802",
+    "He died in 1802",
+    "He swam in 1802"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*ils vécurent* is the passé simple of…",
+   "options": [
+    "vivre",
+    "voir",
+    "venir"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*il fit* is the passé simple of…",
+   "options": [
+    "faire",
+    "finir",
+    "fuir"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*il vint* is the passé simple of…",
+   "options": [
+    "venir",
+    "vendre",
+    "voir"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*il eut* is the passé simple of…",
+   "options": [
+    "avoir",
+    "être",
+    "aller"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*ce fut* is the passé simple of…",
+   "options": [
+    "être",
+    "faire",
+    "finir"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "The passé simple is mainly used…",
+   "options": [
+    "in written narratives and literature",
+    "in everyday conversation",
+    "for the future"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In *Il faisait nuit. Soudain, la porte s'ouvrit*, the passé simple gives…",
+   "options": [
+    "the event",
+    "the background",
+    "a habit"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Dès qu'il eut fini, il sortit* — *eut fini* is…",
+   "options": [
+    "the passé antérieur",
+    "the plus-que-parfait",
+    "the futur antérieur"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Elle prit son manteau* in spoken French would be…",
+   "options": [
+    "Elle a pris son manteau.",
+    "Elle prenait son manteau.",
+    "Elle prendra son manteau."
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "fill",
+   "prompt": "Victor Hugo ___ en 1802. (naître, passé simple)",
+   "answers": [
+    "naquit"
+   ],
+   "hint": "Victor Hugo was born in 1802."
+  },
+  {
+   "type": "fill",
+   "prompt": "Soudain, la porte s'ouvrit et un homme ___. (entrer, passé simple)",
+   "answers": [
+    "entra"
+   ],
+   "hint": "and a man came in."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils vécurent heureux et ___ beaucoup d'enfants. (avoir, passé simple)",
+   "answers": [
+    "eurent"
+   ],
+   "hint": "and had many children."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quand il vit la lettre, il ___ tout. (comprendre, passé simple)",
+   "answers": [
+    "comprit"
+   ],
+   "hint": "he understood everything."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce ___ une longue nuit. (être, passé simple)",
+   "answers": [
+    "fut"
+   ],
+   "hint": "It was a long night."
+  },
+  {
+   "type": "fill",
+   "prompt": "Dès qu'il eut ___, il sortit.",
+   "answers": [
+    "fini"
+   ],
+   "hint": "As soon as he had finished…"
+  },
+  {
+   "type": "fill",
+   "prompt": "À ___ fut-elle arrivée qu'il commença à pleuvoir.",
+   "answers": [
+    "peine"
+   ],
+   "hint": "Hardly had she arrived…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Les soldats ___ à l'aube. (arriver, passé simple)",
+   "answers": [
+    "arrivèrent"
+   ],
+   "hint": "The soldiers arrived at dawn."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le roi ___ venir ses ministres. (faire, passé simple)",
+   "answers": [
+    "fit"
+   ],
+   "hint": "The king summoned his ministers."
+  },
+  {
+   "type": "translate",
+   "prompt": "He was born in 1802. (literary)",
+   "answers": [
+    "Il naquit en 1802.",
+    "Il est né en 1802."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Suddenly, the door opened. (literary)",
+   "answers": [
+    "Soudain, la porte s'ouvrit.",
+    "Soudain, la porte s'est ouverte."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It was a long night. (literary)",
+   "answers": [
+    "Ce fut une longue nuit.",
+    "Ça a été une longue nuit."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She took her coat and left without a word.\"",
+   "answer": "Elle prit son manteau et sortit sans un mot."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"When he saw the letter, he understood everything.\"",
+   "answer": "Quand il vit la lettre, il comprit tout."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Hardly had she arrived when it began to rain.\"",
+   "answer": "À peine fut-elle arrivée qu'il commença à pleuvoir."
+  }
+ ]
+}

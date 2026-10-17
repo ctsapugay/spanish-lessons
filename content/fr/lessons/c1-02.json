@@ -1,0 +1,384 @@
+{
+ "sections": [
+  {
+   "heading": "Two systems of tenses",
+   "body": "French linguists distinguish two ways of situating events (Benveniste's distinction):\n\n- **le discours** — speech, letters, conversations, articles: anchored in the speaker's present. Tenses: *présent*, *passé composé*, *imparfait*, *futur*, *plus-que-parfait*. Markers: *aujourd'hui*, *hier*, *demain*, *je / tu*.\n- **le récit** — written narrative cut off from the present: novels, tales, history books. Tenses: *passé simple*, *imparfait*, *plus-que-parfait*, *passé antérieur*, *conditionnel* (future in the past). Markers: *ce jour-là*, *la veille*, *le lendemain*, mostly *il / elle*.\n\nThe same story changes tense depending on the frame: *Hier, Marie est partie.* (discours) — *Ce jour-là, Marie partit.* (récit)."
+  },
+  {
+   "heading": "Time relations inside a past narrative",
+   "body": "",
+   "table": {
+    "head": [
+     "Relation",
+     "Tense",
+     "Example"
+    ],
+    "rows": [
+     [
+      "simultaneous background",
+      "imparfait",
+      "*Il pleuvait.*"
+     ],
+     [
+      "main events",
+      "passé simple (récit) / passé composé (discours)",
+      "*Elle ouvrit la fenêtre.*"
+     ],
+     [
+      "earlier",
+      "plus-que-parfait",
+      "*Elle avait dormi toute la journée.*"
+     ],
+     [
+      "just before (with dès que, quand…)",
+      "passé antérieur",
+      "*Quand elle eut fermé la fenêtre…*"
+     ],
+     [
+      "later (future in the past)",
+      "conditionnel présent",
+      "*Elle savait qu'il reviendrait.*"
+     ],
+     [
+      "completed later",
+      "conditionnel passé",
+      "*Elle pensait qu'il serait parti avant midi.*"
+     ]
+    ]
+   }
+  },
+  {
+   "heading": "The narrative present and free indirect speech",
+   "body": "- **Le présent de narration**: telling a past story in the present for vividness — common in history writing and oral storytelling: *En 1789, le peuple de Paris prend la Bastille.*\n- **Le discours indirect libre** (free indirect speech): a character's thoughts reported without *il pensa que*, in the imparfait / conditional: *Elle regarda par la fenêtre. Il ne viendrait pas, c'était évident. Pourquoi avait-elle cru à ses promesses ?* It's typical of the modern novel (Flaubert)."
+  },
+  {
+   "heading": "Description",
+   "body": "Description in a narrative uses the imparfait, rich adjectives and present participles: *La rue, déserte, s'étendait jusqu'au port ; une lumière jaune tombait des fenêtres.*"
+  }
+ ],
+ "vocab": [
+  [
+   "le récit",
+   "the narrative",
+   "lə ʁe.si"
+  ],
+  [
+   "le discours",
+   "discourse, speech",
+   "lə dis.kuʁ"
+  ],
+  [
+   "le présent de narration",
+   "the narrative present",
+   "lə pʁe.zɑ̃ də na.ʁa.sjɔ̃"
+  ],
+  [
+   "le discours indirect libre",
+   "free indirect speech",
+   "lə dis.kuʁ ɛ̃.di.ʁɛkt libʁ"
+  ],
+  [
+   "situer",
+   "to situate, to place",
+   "si.tɥe"
+  ],
+  [
+   "simultané / simultanée",
+   "simultaneous",
+   "si.myl.ta.ne / si.myl.ta.ne"
+  ],
+  [
+   "antérieur / antérieure",
+   "earlier, previous",
+   "ɑ̃.te.ʁjœʁ / ɑ̃.te.ʁjœʁ"
+  ],
+  [
+   "postérieur / postérieure",
+   "later, subsequent",
+   "pɔs.te.ʁjœʁ / pɔs.te.ʁjœʁ"
+  ],
+  [
+   "la promesse",
+   "the promise",
+   "la pʁɔ.mɛs"
+  ],
+  [
+   "désert / déserte",
+   "deserted",
+   "de.zɛʁ / de.zɛʁt"
+  ],
+  [
+   "s'étendre",
+   "to stretch, to extend",
+   "se.tɑ̃dʁ"
+  ],
+  [
+   "le personnage",
+   "the character",
+   "lə pɛʁ.sɔ.naʒ"
+  ]
+ ],
+ "examples": [
+  [
+   "Hier, Marie est partie sans prévenir.",
+   "Yesterday Marie left without warning. (discours)"
+  ],
+  [
+   "Ce jour-là, Marie partit sans prévenir.",
+   "That day, Marie left without warning. (récit)"
+  ],
+  [
+   "Il pleuvait quand elle ouvrit la fenêtre.",
+   "It was raining when she opened the window."
+  ],
+  [
+   "Elle avait dormi toute la journée.",
+   "She had slept all day."
+  ],
+  [
+   "Quand elle eut fermé la fenêtre, elle s'assit.",
+   "When she had closed the window, she sat down."
+  ],
+  [
+   "Elle savait qu'il reviendrait.",
+   "She knew he would come back."
+  ],
+  [
+   "Elle pensait qu'il serait parti avant midi.",
+   "She thought he would have left before noon."
+  ],
+  [
+   "En 1789, le peuple de Paris prend la Bastille.",
+   "In 1789 the people of Paris storm the Bastille."
+  ],
+  [
+   "Il ne viendrait pas, c'était évident.",
+   "He wouldn't come, that was obvious."
+  ],
+  [
+   "Pourquoi avait-elle cru à ses promesses ?",
+   "Why had she believed his promises?"
+  ],
+  [
+   "La rue, déserte, s'étendait jusqu'au port.",
+   "The deserted street stretched down to the harbour."
+  ],
+  [
+   "Une lumière jaune tombait des fenêtres.",
+   "A yellow light fell from the windows."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*Ce jour-là, Marie partit* belongs to…",
+   "options": [
+    "le récit",
+    "le discours",
+    "a conversation"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Hier, Marie est partie* belongs to…",
+   "options": [
+    "le discours",
+    "le récit",
+    "a fairy tale only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In a past narrative, a later event (future in the past) is in…",
+   "options": [
+    "the conditionnel présent",
+    "the futur simple",
+    "the imparfait"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle savait qu'il ___.",
+   "options": [
+    "reviendrait",
+    "reviendra",
+    "revient"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Elle ___ dormi toute la journée. (earlier)",
+   "options": [
+    "avait",
+    "a eu",
+    "aurait"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*En 1789, le peuple prend la Bastille* uses…",
+   "options": [
+    "the narrative present",
+    "the passé simple",
+    "the future"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il ne viendrait pas, c'était évident* (in a novel) is…",
+   "options": [
+    "free indirect speech",
+    "direct speech",
+    "reported speech with que"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*postérieur* means…",
+   "options": [
+    "later, subsequent",
+    "previous",
+    "posterior only in anatomy"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which marker belongs to the récit?",
+   "options": [
+    "le lendemain",
+    "demain",
+    "aujourd'hui"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Description in a narrative mainly uses…",
+   "options": [
+    "the imparfait",
+    "the passé simple",
+    "the futur"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce jour-là, Marie ___ sans prévenir. (partir, passé simple)",
+   "answers": [
+    "partit"
+   ],
+   "hint": "That day, Marie left without warning."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ quand elle ouvrit la fenêtre. (pleuvoir)",
+   "answers": [
+    "pleuvait"
+   ],
+   "hint": "It was raining when she opened the window."
+  },
+  {
+   "type": "fill",
+   "prompt": "Quand elle eut ___ la fenêtre, elle s'assit.",
+   "answers": [
+    "fermé"
+   ],
+   "hint": "When she had closed the window…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle savait qu'il ___. (revenir)",
+   "answers": [
+    "reviendrait"
+   ],
+   "hint": "She knew he would come back."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle pensait qu'il serait ___ avant midi.",
+   "answers": [
+    "parti"
+   ],
+   "hint": "She thought he would have left before noon."
+  },
+  {
+   "type": "fill",
+   "prompt": "En 1789, le peuple de Paris ___ la Bastille. (prendre, présent)",
+   "answers": [
+    "prend"
+   ],
+   "hint": "the people storm the Bastille."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pourquoi avait-elle ___ à ses promesses ? (croire)",
+   "answers": [
+    "cru"
+   ],
+   "hint": "Why had she believed his promises?"
+  },
+  {
+   "type": "fill",
+   "prompt": "La rue, ___, s'étendait jusqu'au port.",
+   "answers": [
+    "déserte"
+   ],
+   "hint": "The deserted street…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Une lumière jaune ___ des fenêtres. (tomber)",
+   "answers": [
+    "tombait"
+   ],
+   "hint": "A yellow light fell from the windows."
+  },
+  {
+   "type": "translate",
+   "prompt": "She knew he would come back.",
+   "answers": [
+    "Elle savait qu'il reviendrait."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She had slept all day.",
+   "answers": [
+    "Elle avait dormi toute la journée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "That day, … (in a story)",
+   "answers": [
+    "Ce jour-là, …"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She thought he would have left before noon.\"",
+   "answer": "Elle pensait qu'il serait parti avant midi."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"When she had closed the window, she sat down.\"",
+   "answer": "Quand elle eut fermé la fenêtre, elle s'assit."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The deserted street stretched down to the harbour.\"",
+   "answer": "La rue, déserte, s'étendait jusqu'au port."
+  }
+ ]
+}
