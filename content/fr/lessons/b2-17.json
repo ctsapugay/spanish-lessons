@@ -1,0 +1,368 @@
+{
+ "sections": [
+  {
+   "heading": "Introducing and adding arguments",
+   "body": "An argument at B2 is a chain of points, each one linked to the last:\n\n- first point: *Tout d'abord*, *En premier lieu*, *Premièrement*, *Commençons par…*\n- adding a point: *De plus*, *En outre* (moreover — formal), *Par ailleurs* (furthermore, besides), *Qui plus est* (what's more), *Ajoutons que…*\n- adding a stronger point: *D'ailleurs* (besides, in fact), *Et même*, *Non seulement… mais encore / mais aussi* (not only… but also): *Ce projet est non seulement coûteux, mais aussi inutile.*\n- last point: *Enfin*, *En dernier lieu*"
+  },
+  {
+   "heading": "Illustrating",
+   "body": "*Par exemple*, *Ainsi* (thus, for example), *Notamment* (in particular), *C'est le cas de…* (This is the case of…), *Prenons l'exemple de…*, *Comme le montre…* (As … shows): *Les grandes villes sont polluées ; c'est notamment le cas de Paris.*"
+  },
+  {
+   "heading": "Highlighting the key point",
+   "body": "*Le plus important, c'est que…*, *Il faut souligner que…* (It should be stressed that…), *Rappelons que…* (Let us remember that…), *Surtout*, *En particulier*, *Ce qui compte, c'est…*"
+  },
+  {
+   "heading": "Pronunciation: arguing out loud",
+   "body": "In a long spoken turn, French speakers **group** words into short rhythm groups, with a slight rise at the end of each group to show \"more is coming\" and a fall at the very end. Connectors get their own group: *De plus ↗ | ce projet coûte cher ↗ | et il n'est pas urgent ↘.* Key words can take an **emphatic stress on the first syllable** (*C'est essentiel*, said ES-sentiel). Pause briefly after *d'abord*, *de plus*, *enfin* — it makes the structure audible."
+  }
+ ],
+ "vocab": [
+  [
+   "en premier lieu",
+   "in the first place",
+   "ɑ̃ pʁə.mje ljø"
+  ],
+  [
+   "en outre",
+   "moreover",
+   "ɑ̃.n‿utʁ"
+  ],
+  [
+   "par ailleurs",
+   "furthermore, besides",
+   "paʁ a.jœʁ"
+  ],
+  [
+   "qui plus est",
+   "what's more",
+   "ki ply.z‿ɛ"
+  ],
+  [
+   "d'ailleurs",
+   "besides, in fact",
+   "da.jœʁ"
+  ],
+  [
+   "non seulement",
+   "not only",
+   "nɔ̃ sœl.mɑ̃"
+  ],
+  [
+   "ainsi",
+   "thus, so",
+   "ɛ̃.si"
+  ],
+  [
+   "souligner",
+   "to stress",
+   "su.li.ɲe"
+  ],
+  [
+   "coûteux / coûteuse",
+   "costly",
+   "ku.tø / ku.tøz"
+  ],
+  [
+   "inutile",
+   "useless, pointless",
+   "i.ny.til"
+  ],
+  [
+   "urgent / urgente",
+   "urgent",
+   "yʁ.ʒɑ̃ / yʁ.ʒɑ̃t"
+  ],
+  [
+   "l'argumentation",
+   "argumentation",
+   "laʁ.ɡy.mɑ̃.ta.sjɔ̃",
+   "f"
+  ],
+  [
+   "pollué / polluée",
+   "polluted",
+   "pɔ.lɥe / pɔ.lɥe"
+  ],
+  [
+   "compter",
+   "to matter, to count",
+   "kɔ̃.te"
+  ]
+ ],
+ "examples": [
+  [
+   "Tout d'abord, ce projet coûte trop cher.",
+   "First of all, this project costs too much."
+  ],
+  [
+   "De plus, il n'est pas urgent.",
+   "What's more, it isn't urgent."
+  ],
+  [
+   "En outre, personne ne l'a demandé.",
+   "Moreover, nobody asked for it."
+  ],
+  [
+   "Par ailleurs, il existe d'autres solutions.",
+   "Furthermore, there are other solutions."
+  ],
+  [
+   "Ce projet est non seulement coûteux, mais aussi inutile.",
+   "This project is not only costly but also pointless."
+  ],
+  [
+   "D'ailleurs, le maire lui-même est contre.",
+   "In fact, the mayor himself is against it."
+  ],
+  [
+   "Les grandes villes sont polluées ; c'est notamment le cas de Paris.",
+   "Big cities are polluted; this is particularly the case of Paris."
+  ],
+  [
+   "Prenons l'exemple du vélo : il ne pollue pas.",
+   "Take the example of the bike: it doesn't pollute."
+  ],
+  [
+   "Il faut souligner que les jeunes sont les plus touchés.",
+   "It should be stressed that young people are the hardest hit."
+  ],
+  [
+   "Rappelons que la décision n'est pas encore prise.",
+   "Let us remember the decision hasn't been made yet."
+  ],
+  [
+   "Ce qui compte, c'est la sécurité des enfants.",
+   "What matters is the children's safety."
+  ],
+  [
+   "Enfin, il faut penser à l'avenir.",
+   "Finally, we must think of the future."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "To add a point formally you say…",
+   "options": [
+    "En outre, …",
+    "Bref, …",
+    "Au fait, …"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*non seulement… mais aussi* means…",
+   "options": [
+    "not only… but also",
+    "not alone… but too",
+    "only not… also"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*d'ailleurs* means…",
+   "options": [
+    "besides, in fact",
+    "elsewhere",
+    "from elsewhere only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*par ailleurs* means…",
+   "options": [
+    "furthermore, besides",
+    "elsewhere by",
+    "by the way only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Rappelons que…* means…",
+   "options": [
+    "Let us remember that…",
+    "Let's call back…",
+    "Let's repeat that…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ce projet est non ___ coûteux, mais aussi inutile.",
+   "options": [
+    "seulement",
+    "plus",
+    "même"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Les villes sont polluées ; c'est ___ le cas de Paris.",
+   "options": [
+    "notamment",
+    "d'ailleurs",
+    "en outre"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "In a long spoken argument, a rise at the end of a group means…",
+   "options": [
+    "more is coming",
+    "it's a question",
+    "you've finished"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*qui plus est* means…",
+   "options": [
+    "what's more",
+    "who is more",
+    "the most"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ce qui compte, c'est…* means…",
+   "options": [
+    "What matters is…",
+    "What counts as…",
+    "Who counts is…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Tout d'___, ce projet coûte trop cher.",
+   "answers": [
+    "abord"
+   ],
+   "hint": "First of all…"
+  },
+  {
+   "type": "fill",
+   "prompt": "De ___, il n'est pas urgent.",
+   "answers": [
+    "plus"
+   ],
+   "hint": "What's more…"
+  },
+  {
+   "type": "fill",
+   "prompt": "En ___, personne ne l'a demandé.",
+   "answers": [
+    "outre"
+   ],
+   "hint": "Moreover, nobody asked for it."
+  },
+  {
+   "type": "fill",
+   "prompt": "Par ___, il existe d'autres solutions.",
+   "answers": [
+    "ailleurs"
+   ],
+   "hint": "Furthermore, there are other solutions."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce projet est non seulement coûteux, mais aussi ___.",
+   "answers": [
+    "inutile"
+   ],
+   "hint": "not only costly but also pointless."
+  },
+  {
+   "type": "fill",
+   "prompt": "___ l'exemple du vélo.",
+   "answers": [
+    "Prenons"
+   ],
+   "hint": "Take the example of the bike."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut ___ que les jeunes sont les plus touchés.",
+   "answers": [
+    "souligner"
+   ],
+   "hint": "It should be stressed that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ que la décision n'est pas encore prise.",
+   "answers": [
+    "Rappelons"
+   ],
+   "hint": "Let us remember…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce qui ___, c'est la sécurité des enfants.",
+   "answers": [
+    "compte"
+   ],
+   "hint": "What matters is the children's safety."
+  },
+  {
+   "type": "translate",
+   "prompt": "Moreover, … (formal)",
+   "answers": [
+    "En outre, …",
+    "De plus, …",
+    "Par ailleurs, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "not only expensive but also useless",
+   "answers": [
+    "non seulement cher, mais aussi inutile",
+    "non seulement coûteux, mais aussi inutile"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "What matters is safety.",
+   "answers": [
+    "Ce qui compte, c'est la sécurité."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "First of all, …",
+   "answers": [
+    "Tout d'abord, …",
+    "D'abord, …",
+    "En premier lieu, …"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"This project is not only costly but also pointless.\"",
+   "answer": "Ce projet est non seulement coûteux, mais aussi inutile."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It should be stressed that young people are the hardest hit.\"",
+   "answer": "Il faut souligner que les jeunes sont les plus touchés."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Let us remember the decision hasn't been made yet.\"",
+   "answer": "Rappelons que la décision n'est pas encore prise."
+  }
+ ]
+}

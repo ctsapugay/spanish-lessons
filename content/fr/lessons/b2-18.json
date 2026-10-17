@@ -1,0 +1,365 @@
+{
+ "sections": [
+  {
+   "heading": "The French plan",
+   "body": "French schools teach a precise way to organise an argued text (the DELF B2 *prise de position* and the C1 *essai* expect it):\n\n1. **L'introduction**: catch the reader's attention (*une accroche* — a hook), present the topic, ask the central question (*la problématique*), announce the plan.\n2. **Le développement**: two or three parts, each with arguments and examples. The classic \"dialectical\" plan: *la thèse* (arguments for), *l'antithèse* (arguments against), *la synthèse* (a balanced answer, sometimes a third way).\n3. **La conclusion**: sum up the answer (*le bilan*), then open onto a wider question (*l'ouverture*)."
+  },
+  {
+   "heading": "Useful phrases for each part",
+   "body": "- introduction: *De nos jours, …* (Nowadays…) — *On entend souvent dire que…* — *Ce sujet soulève une question : …* (This topic raises a question:…) — *Nous verrons d'abord…, puis…*\n- moving between parts: *Après avoir examiné…, voyons maintenant…* (Having examined…, let us now look at…) — *Cependant, il faut nuancer ce point de vue.* (We must qualify this view.)\n- examples: *Ainsi, …*, *C'est le cas de…*, *À titre d'exemple, …*\n- conclusion: *En conclusion, …*, *Pour conclure, …*, *En définitive, …*, *On peut donc affirmer que…* — opening: *Reste à savoir si…* (It remains to be seen whether…), *On peut se demander si…*"
+  },
+  {
+   "heading": "Paragraphs and transitions",
+   "body": "Each paragraph = one idea: a topic sentence (*une phrase d'annonce*), an explanation, an example, a short conclusion. Link paragraphs with transitions that look back and forward: *Si ce premier argument est convaincant, il ne suffit pas à…* (While this first argument is convincing, it isn't enough to…)."
+  }
+ ],
+ "vocab": [
+  [
+   "le plan",
+   "the plan, the outline",
+   "lə plɑ̃"
+  ],
+  [
+   "l'introduction",
+   "the introduction",
+   "lɛ̃.tʁɔ.dyk.sjɔ̃",
+   "f"
+  ],
+  [
+   "l'accroche",
+   "the hook (opening line)",
+   "la.kʁɔʃ",
+   "f"
+  ],
+  [
+   "la problématique",
+   "the central question",
+   "la pʁɔ.ble.ma.tik"
+  ],
+  [
+   "le développement",
+   "the main body",
+   "lə de.vlɔp.mɑ̃"
+  ],
+  [
+   "la thèse",
+   "the thesis",
+   "la tɛz"
+  ],
+  [
+   "l'antithèse",
+   "the antithesis",
+   "lɑ̃.ti.tɛz",
+   "f"
+  ],
+  [
+   "la synthèse",
+   "the synthesis",
+   "la sɛ̃.tɛz"
+  ],
+  [
+   "la conclusion",
+   "the conclusion",
+   "la kɔ̃.kly.zjɔ̃"
+  ],
+  [
+   "le bilan",
+   "the assessment, the overall result",
+   "lə bi.lɑ̃"
+  ],
+  [
+   "l'ouverture",
+   "the opening (to a wider question)",
+   "lu.vɛʁ.tyʁ",
+   "f"
+  ],
+  [
+   "soulever",
+   "to raise (a question)",
+   "sul.ve"
+  ],
+  [
+   "nuancer",
+   "to qualify, to nuance",
+   "nɥɑ̃.se"
+  ],
+  [
+   "le paragraphe",
+   "the paragraph",
+   "lə pa.ʁa.ɡʁaf"
+  ]
+ ],
+ "examples": [
+  [
+   "De nos jours, le télétravail se développe rapidement.",
+   "Nowadays, working from home is spreading fast."
+  ],
+  [
+   "On entend souvent dire que les jeunes ne lisent plus.",
+   "We often hear that young people no longer read."
+  ],
+  [
+   "Ce sujet soulève une question : faut-il interdire les voitures en ville ?",
+   "This topic raises a question: should cars be banned in town?"
+  ],
+  [
+   "Nous verrons d'abord les avantages, puis les inconvénients.",
+   "We will first look at the advantages, then the drawbacks."
+  ],
+  [
+   "Après avoir examiné les avantages, voyons maintenant les limites.",
+   "Having examined the advantages, let us now look at the limits."
+  ],
+  [
+   "Cependant, il faut nuancer ce point de vue.",
+   "However, we must qualify this view."
+  ],
+  [
+   "À titre d'exemple, la ville de Lyon a réduit la circulation de vingt pour cent.",
+   "By way of example, the city of Lyon reduced traffic by twenty per cent."
+  ],
+  [
+   "Si ce premier argument est convaincant, il ne suffit pas.",
+   "While this first argument is convincing, it isn't enough."
+  ],
+  [
+   "En définitive, les avantages l'emportent sur les inconvénients.",
+   "In the end, the advantages outweigh the drawbacks."
+  ],
+  [
+   "Reste à savoir si cette solution est durable.",
+   "It remains to be seen whether this solution is sustainable."
+  ],
+  [
+   "Chaque paragraphe développe une seule idée.",
+   "Each paragraph develops a single idea."
+  ],
+  [
+   "La conclusion fait le bilan et propose une ouverture.",
+   "The conclusion sums up and opens onto a wider question."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*l'accroche* is…",
+   "options": [
+    "the opening line that catches attention",
+    "the conclusion",
+    "a coat hook only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la problématique* is…",
+   "options": [
+    "the central question of the text",
+    "a problem to avoid",
+    "a maths problem"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In the dialectical plan, *l'antithèse* gives…",
+   "options": [
+    "the arguments against",
+    "the arguments for",
+    "the examples only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'ouverture* (in a conclusion) is…",
+   "options": [
+    "opening onto a wider question",
+    "the first paragraph",
+    "an opening hour"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*nuancer un point de vue* means…",
+   "options": [
+    "to qualify a view",
+    "to darken a view",
+    "to reject a view"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Reste à savoir si…* means…",
+   "options": [
+    "It remains to be seen whether…",
+    "Stay and learn if…",
+    "The rest knows if…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*À titre d'exemple* means…",
+   "options": [
+    "By way of example",
+    "As an example title",
+    "For the title"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Après ___ examiné les avantages, voyons les limites.",
+   "options": [
+    "avoir",
+    "être",
+    "ayant"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Ce sujet ___ une question.",
+   "options": [
+    "soulève",
+    "soulève-t-il",
+    "soulever"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Les avantages l'emportent sur les inconvénients* means…",
+   "options": [
+    "The advantages outweigh the drawbacks",
+    "The advantages take the drawbacks away",
+    "The drawbacks win"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "De nos ___, le télétravail se développe rapidement.",
+   "answers": [
+    "jours"
+   ],
+   "hint": "Nowadays…"
+  },
+  {
+   "type": "fill",
+   "prompt": "On entend souvent ___ que les jeunes ne lisent plus.",
+   "answers": [
+    "dire"
+   ],
+   "hint": "We often hear that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce sujet ___ une question.",
+   "answers": [
+    "soulève"
+   ],
+   "hint": "This topic raises a question."
+  },
+  {
+   "type": "fill",
+   "prompt": "Nous verrons d'abord les avantages, puis les ___.",
+   "answers": [
+    "inconvénients"
+   ],
+   "hint": "then the drawbacks."
+  },
+  {
+   "type": "fill",
+   "prompt": "Cependant, il faut ___ ce point de vue.",
+   "answers": [
+    "nuancer"
+   ],
+   "hint": "However, we must qualify this view."
+  },
+  {
+   "type": "fill",
+   "prompt": "À ___ d'exemple, la ville de Lyon a réduit la circulation.",
+   "answers": [
+    "titre"
+   ],
+   "hint": "By way of example…"
+  },
+  {
+   "type": "fill",
+   "prompt": "En ___, les avantages l'emportent sur les inconvénients.",
+   "answers": [
+    "définitive"
+   ],
+   "hint": "In the end…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Reste à ___ si cette solution est durable.",
+   "answers": [
+    "savoir"
+   ],
+   "hint": "It remains to be seen whether…"
+  },
+  {
+   "type": "fill",
+   "prompt": "La conclusion fait le ___ et propose une ouverture.",
+   "answers": [
+    "bilan"
+   ],
+   "hint": "The conclusion sums up…"
+  },
+  {
+   "type": "translate",
+   "prompt": "Nowadays, …",
+   "answers": [
+    "De nos jours, …",
+    "Aujourd'hui, …",
+    "À notre époque, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "However, we must qualify this view.",
+   "answers": [
+    "Cependant, il faut nuancer ce point de vue."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "In conclusion, …",
+   "answers": [
+    "En conclusion, …",
+    "Pour conclure, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It remains to be seen whether…",
+   "answers": [
+    "Reste à savoir si…",
+    "Il reste à savoir si…"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Having examined the advantages, let us now look at the limits.\"",
+   "answer": "Après avoir examiné les avantages, voyons maintenant les limites."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We will first look at the advantages, then the drawbacks.\"",
+   "answer": "Nous verrons d'abord les avantages, puis les inconvénients."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"In the end, the advantages outweigh the drawbacks.\"",
+   "answer": "En définitive, les avantages l'emportent sur les inconvénients."
+  }
+ ]
+}

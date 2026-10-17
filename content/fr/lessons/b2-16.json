@@ -1,0 +1,378 @@
+{
+ "sections": [
+  {
+   "heading": "Purpose: more precise ways",
+   "body": "Beyond *pour* and *afin de* (B1):\n\n- *en vue de* + noun or infinitive — with a view to: *Il économise en vue d'acheter une maison.* *une réunion en vue de la rentrée*\n- *dans le but de* / *dans l'intention de* + infinitive — with the aim / intention of: *Elle a pris des cours dans le but de changer de métier.*\n- *de façon à* / *de manière à* + infinitive — so as to: *Parle lentement de manière à être compris.*\n- *histoire de* + infinitive — just to, for the sake of (informal): *On est sortis, histoire de prendre l'air.* (just to get some air)\n- avoiding something: *de peur de* / *de crainte de* + infinitive — for fear of; *pour ne pas* + infinitive: *Je pars tôt de peur de rater le train.* *Note-le pour ne pas oublier.*\n- with a different subject: *pour que*, *afin que*, *de sorte que*, *de façon que* + **subjunctive**: *J'ai tout préparé de façon que tu n'aies rien à faire.*"
+  },
+  {
+   "heading": "Obligation and necessity",
+   "body": "From strongest to softest:\n\n- *être obligé(e) de* + infinitive — to be forced to, to have to: *Je suis obligée de partir tôt.*\n- *être tenu(e) de* + infinitive — to be required to (formal, legal): *Les locataires sont tenus de payer le loyer avant le cinq.*\n- *il est obligatoire de* / *il est interdit de* — it is compulsory / forbidden to\n- *il faut* / *il faut que* + subjunctive; *devoir*\n- *avoir à* + infinitive — to have to: *J'ai un dossier à finir.* *Tu n'as qu'à demander.* (You only have to ask.)\n- *il est nécessaire / indispensable de…*; *il convient de…* (it is appropriate to — formal)\n- obliging someone else: *obliger quelqu'un à* + infinitive / *forcer quelqu'un à*: *Personne ne t'oblige à venir.*\n- no obligation: *ne pas être obligé(e) de*, *il n'est pas nécessaire de*, *ce n'est pas la peine de* (there's no need to)."
+  },
+  {
+   "heading": "Verbs with prepositions",
+   "body": "Many verbs of obligation and effort change preposition: *s'obliger à* (to make oneself), *se forcer à*, *s'efforcer de* (to strive to), *tenir à* (to insist on: *Je tiens à vous remercier* — I'd like to thank you), *se contenter de* (to make do with)."
+  }
+ ],
+ "vocab": [
+  [
+   "en vue de",
+   "with a view to",
+   "ɑ̃ vy də"
+  ],
+  [
+   "dans le but de",
+   "with the aim of",
+   "dɑ̃ lə byt də"
+  ],
+  [
+   "de manière à",
+   "so as to",
+   "də ma.njɛʁ a"
+  ],
+  [
+   "histoire de",
+   "just to (informal)",
+   "is.twaʁ də"
+  ],
+  [
+   "économiser",
+   "to save (money)",
+   "e.kɔ.nɔ.mi.ze"
+  ],
+  [
+   "prendre l'air",
+   "to get some fresh air",
+   "pʁɑ̃dʁ lɛʁ"
+  ],
+  [
+   "être tenu de",
+   "to be required to",
+   "ɛtʁ tə.ny də"
+  ],
+  [
+   "obligatoire",
+   "compulsory",
+   "ɔ.bli.ɡa.twaʁ"
+  ],
+  [
+   "interdit / interdite",
+   "forbidden",
+   "ɛ̃.tɛʁ.di / ɛ̃.tɛʁ.dit"
+  ],
+  [
+   "indispensable",
+   "essential",
+   "ɛ̃.dis.pɑ̃.sabl"
+  ],
+  [
+   "il convient de",
+   "it is appropriate to",
+   "il kɔ̃.vjɛ̃ də"
+  ],
+  [
+   "obliger",
+   "to oblige, to force",
+   "ɔ.bli.ʒe"
+  ],
+  [
+   "s'efforcer de",
+   "to strive to",
+   "se.fɔʁ.se də"
+  ],
+  [
+   "se contenter de",
+   "to make do with",
+   "sə kɔ̃.tɑ̃.te də"
+  ],
+  [
+   "le dossier",
+   "the file",
+   "lə do.sje"
+  ]
+ ],
+ "examples": [
+  [
+   "Il économise en vue d'acheter une maison.",
+   "He's saving with a view to buying a house."
+  ],
+  [
+   "Elle a pris des cours dans le but de changer de métier.",
+   "She took classes with the aim of changing jobs."
+  ],
+  [
+   "Parle lentement de manière à être compris.",
+   "Speak slowly so as to be understood."
+  ],
+  [
+   "On est sortis, histoire de prendre l'air.",
+   "We went out just to get some fresh air."
+  ],
+  [
+   "Je pars tôt de peur de rater le train.",
+   "I'm leaving early for fear of missing the train."
+  ],
+  [
+   "J'ai tout préparé de façon que tu n'aies rien à faire.",
+   "I've prepared everything so you have nothing to do."
+  ],
+  [
+   "Les locataires sont tenus de payer le loyer avant le cinq.",
+   "Tenants are required to pay the rent before the fifth."
+  ],
+  [
+   "Il est interdit de fumer dans les lieux publics.",
+   "Smoking is forbidden in public places."
+  ],
+  [
+   "Le port du casque est obligatoire.",
+   "Wearing a helmet is compulsory."
+  ],
+  [
+   "Tu n'as qu'à demander !",
+   "You only have to ask!"
+  ],
+  [
+   "Personne ne t'oblige à venir.",
+   "Nobody's forcing you to come."
+  ],
+  [
+   "Ce n'est pas la peine de réserver.",
+   "There's no need to book."
+  ],
+  [
+   "Je tiens à vous remercier pour votre aide.",
+   "I'd like to thank you for your help."
+  ],
+  [
+   "Il s'efforce de rester calme.",
+   "He's trying hard to stay calm."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "Choose: Il économise en ___ d'acheter une maison.",
+   "options": [
+    "vue",
+    "but",
+    "façon"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Parle lentement de manière ___ être compris.",
+   "options": [
+    "à",
+    "de",
+    "que"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: J'ai tout préparé de façon que tu n'___ rien à faire.",
+   "options": [
+    "aies",
+    "as",
+    "auras"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Les locataires sont ___ de payer le loyer.",
+   "options": [
+    "tenus",
+    "tenu",
+    "tenant"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Personne ne t'oblige ___ venir.",
+   "options": [
+    "à",
+    "de",
+    "pour"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il s'efforce ___ rester calme.",
+   "options": [
+    "de",
+    "à",
+    "pour"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*histoire de prendre l'air* means…",
+   "options": [
+    "just to get some fresh air",
+    "a story about air",
+    "the history of air"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ce n'est pas la peine de réserver* means…",
+   "options": [
+    "There's no need to book",
+    "It's painful to book",
+    "Booking isn't punishment"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je tiens à vous remercier* means…",
+   "options": [
+    "I'd like to thank you",
+    "I hold your thanks",
+    "I keep thanking you"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Tu n'as qu'à demander !* means…",
+   "options": [
+    "You only have to ask!",
+    "You never ask!",
+    "You have nothing to ask!"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Il économise en vue d'___ une maison.",
+   "answers": [
+    "acheter"
+   ],
+   "hint": "He's saving with a view to buying a house."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a pris des cours dans le ___ de changer de métier.",
+   "answers": [
+    "but"
+   ],
+   "hint": "with the aim of changing jobs."
+  },
+  {
+   "type": "fill",
+   "prompt": "On est sortis, ___ de prendre l'air.",
+   "answers": [
+    "histoire"
+   ],
+   "hint": "just to get some fresh air."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je pars tôt de ___ de rater le train.",
+   "answers": [
+    "peur",
+    "crainte"
+   ],
+   "hint": "for fear of missing the train."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il est ___ de fumer dans les lieux publics.",
+   "answers": [
+    "interdit"
+   ],
+   "hint": "Smoking is forbidden in public places."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le port du casque est ___.",
+   "answers": [
+    "obligatoire"
+   ],
+   "hint": "Wearing a helmet is compulsory."
+  },
+  {
+   "type": "fill",
+   "prompt": "Tu n'as ___ à demander !",
+   "answers": [
+    "qu'"
+   ],
+   "hint": "You only have to ask!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce n'est pas la ___ de réserver.",
+   "answers": [
+    "peine"
+   ],
+   "hint": "There's no need to book."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ___ à vous remercier pour votre aide.",
+   "answers": [
+    "tiens"
+   ],
+   "hint": "I'd like to thank you for your help."
+  },
+  {
+   "type": "translate",
+   "prompt": "Smoking is forbidden.",
+   "answers": [
+    "Il est interdit de fumer."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "There's no need to book.",
+   "answers": [
+    "Ce n'est pas la peine de réserver.",
+    "Il n'est pas nécessaire de réserver."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Nobody's forcing you to come. (to a friend)",
+   "answers": [
+    "Personne ne t'oblige à venir."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I have to leave early.",
+   "answers": [
+    "Je suis obligé de partir tôt.",
+    "Je suis obligée de partir tôt.",
+    "Je dois partir tôt."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Tenants are required to pay the rent before the fifth.\"",
+   "answer": "Les locataires sont tenus de payer le loyer avant le cinq."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She took classes with the aim of changing jobs.\"",
+   "answer": "Elle a pris des cours dans le but de changer de métier."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'd like to thank you for your help.\"",
+   "answer": "Je tiens à vous remercier pour votre aide."
+  }
+ ]
+}
