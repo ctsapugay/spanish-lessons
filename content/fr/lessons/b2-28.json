@@ -1,0 +1,371 @@
+{
+ "sections": [
+  {
+   "heading": "Analysing a film",
+   "body": "Beyond \"I liked it\" (B1), B2 analysis talks about **how** a work is made:\n\n- *la mise en scène* (direction, staging), *le scénario*, *les dialogues*, *le montage* (editing), *la photographie* (cinematography), *la bande originale* (the soundtrack), *le jeu des acteurs* (the acting), *le rythme*\n- *Le réalisateur dresse le portrait de…* (paints a portrait of…) — *Le film aborde le thème de…* (tackles the theme of…) — *Il dénonce…* (denounces) — *Le film met en scène…* (depicts)\n- Judging: *La mise en scène est soignée* (polished) */ inventive*. — *Le scénario manque de rythme.* (lacks pace) — *Les dialogues sonnent juste.* (ring true) — *Le dénouement est prévisible.* (The ending is predictable.)"
+  },
+  {
+   "heading": "Analysing a book",
+   "body": "*le roman*, *le récit*, *le narrateur / la narratrice*, *le point de vue*, *l'intrigue* (plot), *le dénouement* (resolution), *le style*, *l'écriture* (the writing): *L'auteur adopte le point de vue d'un enfant.* — *L'écriture est sobre et efficace.* (plain and effective) — *Le roman se lit d'une traite.* (You read it in one go.)"
+  },
+  {
+   "heading": "Analysing art",
+   "body": "*un tableau*, *une œuvre* (a work), *un chef-d'œuvre*, *un artiste*, *une exposition*, *un musée*, *la peinture*, *la sculpture*, *la photographie*, *le premier plan* (the foreground), *l'arrière-plan* (the background), *les couleurs vives / sombres* (bright / dark), *la lumière*, *la composition*: *Au premier plan, on voit…* — *Le tableau dégage une impression de calme.* (The painting gives off an impression of calm.) — *Cette œuvre m'interpelle.* (This work speaks to me.)"
+  },
+  {
+   "heading": "French cultural references",
+   "body": "French culture: the *Nouvelle Vague* of 1960s cinema (Godard, Truffaut), the Cannes film festival (*le Festival de Cannes*), the impressionists (Monet, Renoir), literary prizes (*le prix Goncourt*), the *bande dessinée* tradition (*Astérix*, *Tintin* — Belgian)."
+  }
+ ],
+ "vocab": [
+  [
+   "la mise en scène",
+   "the direction, the staging",
+   "la mi.z‿ɑ̃ sɛn"
+  ],
+  [
+   "le montage",
+   "the editing",
+   "lə mɔ̃.taʒ"
+  ],
+  [
+   "la bande originale",
+   "the soundtrack",
+   "la bɑ̃.d‿ɔ.ʁi.ʒi.nal"
+  ],
+  [
+   "le jeu",
+   "the acting; the game",
+   "lə ʒø"
+  ],
+  [
+   "aborder",
+   "to tackle (a topic)",
+   "a.bɔʁ.de"
+  ],
+  [
+   "dénoncer",
+   "to denounce",
+   "de.nɔ̃.se"
+  ],
+  [
+   "soigné / soignée",
+   "polished, careful",
+   "swa.ɲe / swa.ɲe"
+  ],
+  [
+   "le dénouement",
+   "the ending, the resolution",
+   "lə de.nu.mɑ̃"
+  ],
+  [
+   "prévisible",
+   "predictable",
+   "pʁe.vi.zibl"
+  ],
+  [
+   "le narrateur / la narratrice",
+   "the narrator",
+   "lə na.ʁa.tœʁ / la na.ʁa.tʁis"
+  ],
+  [
+   "sobre",
+   "plain, restrained",
+   "sɔbʁ"
+  ],
+  [
+   "d'une traite",
+   "in one go",
+   "dyn tʁɛt"
+  ],
+  [
+   "l'œuvre",
+   "the work (of art)",
+   "lœvʁ",
+   "f"
+  ],
+  [
+   "le premier plan",
+   "the foreground",
+   "lə pʁə.mje plɑ̃"
+  ],
+  [
+   "l'arrière-plan",
+   "the background",
+   "la.ʁjɛʁ.plɑ̃",
+   "m"
+  ]
+ ],
+ "examples": [
+  [
+   "La mise en scène est très soignée.",
+   "The direction is very polished."
+  ],
+  [
+   "Le film aborde le thème de l'exil.",
+   "The film tackles the theme of exile."
+  ],
+  [
+   "Le réalisateur dénonce la violence sociale.",
+   "The director denounces social violence."
+  ],
+  [
+   "Le scénario manque de rythme.",
+   "The script lacks pace."
+  ],
+  [
+   "Les dialogues sonnent juste.",
+   "The dialogue rings true."
+  ],
+  [
+   "Malheureusement, le dénouement est prévisible.",
+   "Unfortunately, the ending is predictable."
+  ],
+  [
+   "L'auteur adopte le point de vue d'un enfant.",
+   "The author adopts a child's point of view."
+  ],
+  [
+   "L'écriture est sobre et efficace.",
+   "The writing is plain and effective."
+  ],
+  [
+   "Ce roman se lit d'une traite.",
+   "You read this novel in one go."
+  ],
+  [
+   "Au premier plan, on voit une femme qui lit.",
+   "In the foreground, you can see a woman reading."
+  ],
+  [
+   "Le tableau dégage une impression de calme.",
+   "The painting gives off an impression of calm."
+  ],
+  [
+   "Cette œuvre m'interpelle profondément.",
+   "This work speaks to me deeply."
+  ],
+  [
+   "La bande originale est magnifique.",
+   "The soundtrack is beautiful."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*la mise en scène* (of a film) is…",
+   "options": [
+    "the direction",
+    "the stage set only",
+    "the scene number"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le montage* (of a film) is…",
+   "options": [
+    "the editing",
+    "the mountain scene",
+    "the poster"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le dénouement* is…",
+   "options": [
+    "the ending, the resolution",
+    "the beginning",
+    "the knot of the story"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*prévisible* means…",
+   "options": [
+    "predictable",
+    "previous",
+    "visible"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le roman se lit d'une traite* means…",
+   "options": [
+    "You read it in one go",
+    "It's a treat to read",
+    "It's read slowly"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'arrière-plan* is…",
+   "options": [
+    "the background",
+    "the plan B",
+    "the back of the painting"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Les dialogues sonnent juste* means…",
+   "options": [
+    "The dialogue rings true",
+    "The dialogue is just sound",
+    "The dialogue is fair"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Cette œuvre m'interpelle* means…",
+   "options": [
+    "This work speaks to me",
+    "This work calls me on the phone",
+    "This work arrests me"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*aborder un thème* means…",
+   "options": [
+    "to tackle a theme",
+    "to board a theme",
+    "to avoid a theme"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la bande originale* is…",
+   "options": [
+    "the soundtrack",
+    "the original band",
+    "the original film"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "La mise en ___ est très soignée.",
+   "answers": [
+    "scène"
+   ],
+   "hint": "The direction is very polished."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le film ___ le thème de l'exil.",
+   "answers": [
+    "aborde"
+   ],
+   "hint": "The film tackles the theme of exile."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le réalisateur ___ la violence sociale.",
+   "answers": [
+    "dénonce"
+   ],
+   "hint": "The director denounces social violence."
+  },
+  {
+   "type": "fill",
+   "prompt": "Malheureusement, le ___ est prévisible.",
+   "answers": [
+    "dénouement"
+   ],
+   "hint": "the ending is predictable."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'auteur adopte le point de ___ d'un enfant.",
+   "answers": [
+    "vue"
+   ],
+   "hint": "a child's point of view."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'écriture est ___ et efficace.",
+   "answers": [
+    "sobre"
+   ],
+   "hint": "The writing is plain and effective."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ce roman se lit d'une ___.",
+   "answers": [
+    "traite"
+   ],
+   "hint": "You read this novel in one go."
+  },
+  {
+   "type": "fill",
+   "prompt": "Au premier ___, on voit une femme qui lit.",
+   "answers": [
+    "plan"
+   ],
+   "hint": "In the foreground…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le tableau ___ une impression de calme.",
+   "answers": [
+    "dégage"
+   ],
+   "hint": "The painting gives off an impression of calm."
+  },
+  {
+   "type": "translate",
+   "prompt": "The ending is predictable.",
+   "answers": [
+    "Le dénouement est prévisible.",
+    "La fin est prévisible."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The direction is very polished.",
+   "answers": [
+    "La mise en scène est très soignée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "In the foreground, …",
+   "answers": [
+    "Au premier plan, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The script lacks pace.",
+   "answers": [
+    "Le scénario manque de rythme."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The director denounces social violence.\"",
+   "answer": "Le réalisateur dénonce la violence sociale."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The painting gives off an impression of calm.\"",
+   "answer": "Le tableau dégage une impression de calme."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The author adopts a child's point of view.\"",
+   "answer": "L'auteur adopte le point de vue d'un enfant."
+  }
+ ]
+}

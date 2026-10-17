@@ -1,0 +1,369 @@
+{
+ "sections": [
+  {
+   "heading": "Feelings in depth",
+   "body": "B2 means expressing shades of feeling precisely:\n\n- happiness: *être comblé(e)* (fulfilled), *épanoui(e)* (blossoming, happy in life), *soulagé(e)* (relieved), *enthousiaste*\n- sadness: *bouleversé(e)* (deeply upset, shaken), *abattu(e)* (dejected), *nostalgique*, *avoir le cafard* (to feel down — informal)\n- anger: *agacé(e)* (irritated), *exaspéré(e)*, *furieux / furieuse*, *indigné(e)* (indignant)\n- fear and worry: *angoissé(e)* (anxious), *paniqué(e)*, *mal à l'aise* (uncomfortable)\n- *éprouver* / *ressentir* (to feel): *J'éprouve une grande admiration pour elle.*"
+  },
+  {
+   "heading": "Relationships",
+   "body": "*nouer une amitié* (to form a friendship), *être proche de quelqu'un* (to be close to), *se confier à quelqu'un* (to confide in), *faire confiance à* (to trust), *se brouiller avec* (to fall out with), *se réconcilier* (to make up), *rompre* (to break up), *tomber amoureux / amoureuse de*, *le coup de foudre* (love at first sight), *le couple*, *vivre ensemble*, *se pacser* (to enter a civil partnership — the *PACS*)."
+  },
+  {
+   "heading": "Common idioms",
+   "body": "French uses many images — learn them as whole units:\n\n- *avoir le moral* / *ne pas avoir le moral* — to be in good / low spirits\n- *en avoir ras le bol* — to be fed up (informal)\n- *avoir un coup de cœur pour* — to fall for, to love instantly (a thing or place)\n- *être aux anges* — to be over the moon\n- *avoir le cœur sur la main* — to be very generous\n- *poser un lapin à quelqu'un* — to stand someone up\n- *casser les pieds à quelqu'un* — to annoy someone (informal)\n- *se faire du souci* / *se faire du mauvais sang* — to worry\n- *ne pas être dans son assiette* — to feel out of sorts\n- *coûter les yeux de la tête* — to cost an arm and a leg"
+  }
+ ],
+ "vocab": [
+  [
+   "comblé / comblée",
+   "fulfilled",
+   "kɔ̃.ble / kɔ̃.ble"
+  ],
+  [
+   "soulagé / soulagée",
+   "relieved",
+   "su.la.ʒe / su.la.ʒe"
+  ],
+  [
+   "bouleversé / bouleversée",
+   "deeply upset, shaken",
+   "bul.vɛʁ.se / bul.vɛʁ.se"
+  ],
+  [
+   "agacé / agacée",
+   "irritated",
+   "a.ɡa.se / a.ɡa.se"
+  ],
+  [
+   "angoissé / angoissée",
+   "anxious",
+   "ɑ̃.ɡwa.se / ɑ̃.ɡwa.se"
+  ],
+  [
+   "éprouver",
+   "to feel, to experience",
+   "e.pʁu.ve"
+  ],
+  [
+   "se confier",
+   "to confide",
+   "sə kɔ̃.fje"
+  ],
+  [
+   "faire confiance",
+   "to trust",
+   "fɛʁ kɔ̃.fjɑ̃s"
+  ],
+  [
+   "se brouiller",
+   "to fall out",
+   "sə bʁu.je"
+  ],
+  [
+   "se réconcilier",
+   "to make up",
+   "sə ʁe.kɔ̃.si.lje"
+  ],
+  [
+   "le coup de foudre",
+   "love at first sight",
+   "lə ku də fudʁ"
+  ],
+  [
+   "avoir le moral",
+   "to be in good spirits",
+   "a.vwaʁ lə mɔ.ʁal"
+  ],
+  [
+   "être aux anges",
+   "to be over the moon",
+   "ɛtʁ o.z‿ɑ̃ʒ"
+  ],
+  [
+   "poser un lapin",
+   "to stand someone up",
+   "po.ze œ̃ la.pɛ̃"
+  ],
+  [
+   "l'assiette",
+   "the plate",
+   "la.sjɛt",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Depuis la naissance de sa fille, elle est comblée.",
+   "Since her daughter's birth, she's been fulfilled."
+  ],
+  [
+   "J'ai été soulagé d'apprendre la nouvelle.",
+   "I was relieved to hear the news."
+  ],
+  [
+   "Il est resté bouleversé par cet accident.",
+   "He was left deeply shaken by the accident."
+  ],
+  [
+   "Je suis un peu agacée par ses remarques.",
+   "I'm a bit irritated by his remarks."
+  ],
+  [
+   "J'éprouve une grande admiration pour elle.",
+   "I feel great admiration for her."
+  ],
+  [
+   "Elle se confie toujours à sa sœur.",
+   "She always confides in her sister."
+  ],
+  [
+   "Je te fais entièrement confiance.",
+   "I trust you completely."
+  ],
+  [
+   "Ils se sont brouillés, puis réconciliés.",
+   "They fell out, then made up."
+  ],
+  [
+   "Pour eux, ça a été le coup de foudre.",
+   "For them, it was love at first sight."
+  ],
+  [
+   "Depuis sa promotion, elle est aux anges.",
+   "Since her promotion, she's been over the moon."
+  ],
+  [
+   "Il m'a posé un lapin hier soir !",
+   "He stood me up last night!"
+  ],
+  [
+   "Je ne suis pas dans mon assiette aujourd'hui.",
+   "I'm feeling out of sorts today."
+  ],
+  [
+   "Cette voiture coûte les yeux de la tête.",
+   "This car costs an arm and a leg."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*soulagé* means…",
+   "options": [
+    "relieved",
+    "soothed by a balm",
+    "lonely"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*bouleversé* means…",
+   "options": [
+    "deeply upset, shaken",
+    "turned upside down only",
+    "boiling"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*agacé* means…",
+   "options": [
+    "irritated",
+    "aged",
+    "amazed"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*poser un lapin à quelqu'un* means…",
+   "options": [
+    "to stand someone up",
+    "to give someone a rabbit",
+    "to ask a silly question"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*être aux anges* means…",
+   "options": [
+    "to be over the moon",
+    "to be dead",
+    "to be very kind"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*ne pas être dans son assiette* means…",
+   "options": [
+    "to feel out of sorts",
+    "to be off one's diet",
+    "to be in the wrong place"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*coûter les yeux de la tête* means…",
+   "options": [
+    "to cost an arm and a leg",
+    "to hurt your eyes",
+    "to be eye-catching"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le coup de foudre* is…",
+   "options": [
+    "love at first sight",
+    "a lightning strike only",
+    "a sudden storm"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*se brouiller avec quelqu'un* means…",
+   "options": [
+    "to fall out with someone",
+    "to scramble eggs with someone",
+    "to blur"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*faire confiance à quelqu'un* means…",
+   "options": [
+    "to trust someone",
+    "to give someone confidence",
+    "to confess to someone"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Depuis la naissance de sa fille, elle est ___.",
+   "answers": [
+    "comblée"
+   ],
+   "hint": "she's been fulfilled."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai été ___ d'apprendre la nouvelle.",
+   "answers": [
+    "soulagé",
+    "soulagée"
+   ],
+   "hint": "I was relieved to hear the news."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'___ une grande admiration pour elle.",
+   "answers": [
+    "éprouve"
+   ],
+   "hint": "I feel great admiration for her."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle se ___ toujours à sa sœur.",
+   "answers": [
+    "confie"
+   ],
+   "hint": "She always confides in her sister."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je te fais entièrement ___.",
+   "answers": [
+    "confiance"
+   ],
+   "hint": "I trust you completely."
+  },
+  {
+   "type": "fill",
+   "prompt": "Ils se sont brouillés, puis ___.",
+   "answers": [
+    "réconciliés"
+   ],
+   "hint": "They fell out, then made up."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pour eux, ça a été le coup de ___.",
+   "answers": [
+    "foudre"
+   ],
+   "hint": "love at first sight."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il m'a posé un ___ hier soir !",
+   "answers": [
+    "lapin"
+   ],
+   "hint": "He stood me up last night!"
+  },
+  {
+   "type": "fill",
+   "prompt": "Je ne suis pas dans mon ___ aujourd'hui.",
+   "answers": [
+    "assiette"
+   ],
+   "hint": "I'm feeling out of sorts today."
+  },
+  {
+   "type": "translate",
+   "prompt": "I trust you. (to a friend)",
+   "answers": [
+    "Je te fais confiance."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He stood me up!",
+   "answers": [
+    "Il m'a posé un lapin !"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I was relieved.",
+   "answers": [
+    "J'ai été soulagé.",
+    "J'ai été soulagée.",
+    "J'étais soulagé.",
+    "J'étais soulagée."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "It costs an arm and a leg.",
+   "answers": [
+    "Ça coûte les yeux de la tête."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"They fell out, then made up.\"",
+   "answer": "Ils se sont brouillés, puis réconciliés."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I feel great admiration for her.\"",
+   "answer": "J'éprouve une grande admiration pour elle."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"This car costs an arm and a leg.\"",
+   "answer": "Cette voiture coûte les yeux de la tête."
+  }
+ ]
+}

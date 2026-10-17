@@ -1,0 +1,362 @@
+{
+ "sections": [
+  {
+   "heading": "Summarising a text with its positions",
+   "body": "At B2, a summary must keep the **reasoning** of the text, not just its topic: who says what, what they argue, and how the ideas connect. Method:\n\n1. read the text twice; find the **central question** and the **author's position**;\n2. identify the **main arguments** (often one per paragraph) and how they are linked (cause, opposition, concession…);\n3. reformulate in your own words — no copying sentences — and keep the logical connectors;\n4. stay neutral: no personal opinion in the summary itself;\n5. respect the length (about a quarter or a third of the original)."
+  },
+  {
+   "heading": "Reporting positions precisely",
+   "body": "Reporting verbs show the author's attitude — choose them carefully:\n\n- neutral: *L'auteur affirme / explique / indique / constate que…*\n- emphasising: *Il souligne / insiste sur le fait que… / met l'accent sur…*\n- doubting or criticising: *Il remet en question / conteste / critique…* (questions / disputes / criticises)\n- conceding: *Il reconnaît / admet que…*\n- proposing: *Il propose / suggère de… / préconise…* (recommends)\n- concluding: *Il conclut que… / en déduit que…* (deduces that…)\n\nPresenting several positions: *Selon les uns, … ; pour les autres, …* (According to some…; for others…) — *Les partisans de… estiment que…, tandis que ses détracteurs…* (Supporters of… consider…, whereas its critics…)"
+  },
+  {
+   "heading": "Academic and professional writing",
+   "body": "Different texts follow different conventions: *le compte rendu* (report of a meeting or a reading), *la note de synthèse* (briefing note), *le rapport* (report), *le mémoire* (dissertation), *le courriel professionnel*. Common features: impersonal style (*on*, *il convient de*, the passive), precise connectors, no familiar register, and paragraphs that each develop one idea."
+  }
+ ],
+ "vocab": [
+  [
+   "le raisonnement",
+   "the reasoning",
+   "lə ʁɛ.zɔn.mɑ̃"
+  ],
+  [
+   "reformuler",
+   "to reformulate, to rephrase",
+   "ʁə.fɔʁ.my.le"
+  ],
+  [
+   "neutre",
+   "neutral",
+   "nøtʁ"
+  ],
+  [
+   "constater",
+   "to note",
+   "kɔ̃s.ta.te"
+  ],
+  [
+   "insister sur",
+   "to stress",
+   "ɛ̃.sis.te syʁ"
+  ],
+  [
+   "mettre l'accent sur",
+   "to emphasise",
+   "mɛtʁ lak.sɑ̃ syʁ"
+  ],
+  [
+   "remettre en question",
+   "to question",
+   "ʁə.mɛtʁ ɑ̃ kɛs.tjɔ̃"
+  ],
+  [
+   "contester",
+   "to dispute",
+   "kɔ̃.tɛs.te"
+  ],
+  [
+   "admettre",
+   "to admit",
+   "ad.mɛtʁ"
+  ],
+  [
+   "préconiser",
+   "to recommend",
+   "pʁe.kɔ.ni.ze"
+  ],
+  [
+   "déduire",
+   "to deduce",
+   "de.dɥiʁ"
+  ],
+  [
+   "le partisan",
+   "the supporter",
+   "lə paʁ.ti.zɑ̃"
+  ],
+  [
+   "le détracteur",
+   "the critic",
+   "lə de.tʁak.tœʁ"
+  ],
+  [
+   "la note de synthèse",
+   "the briefing note",
+   "la nɔt də sɛ̃.tɛz"
+  ],
+  [
+   "le mémoire",
+   "the dissertation, the thesis",
+   "lə me.mwaʁ"
+  ]
+ ],
+ "examples": [
+  [
+   "L'auteur affirme que le télétravail améliore la productivité.",
+   "The author claims working from home improves productivity."
+  ],
+  [
+   "Elle insiste sur le fait que les salariés sont plus autonomes.",
+   "She stresses that employees are more independent."
+  ],
+  [
+   "Il remet en question l'efficacité de cette mesure.",
+   "He questions the effectiveness of this measure."
+  ],
+  [
+   "Elle reconnaît toutefois que l'isolement est un risque.",
+   "She does, however, acknowledge that isolation is a risk."
+  ],
+  [
+   "L'auteur préconise un équilibre entre bureau et maison.",
+   "The author recommends a balance between office and home."
+  ],
+  [
+   "Il en déduit que les entreprises doivent s'adapter.",
+   "He deduces from this that companies must adapt."
+  ],
+  [
+   "Selon les uns, c'est un progrès ; pour les autres, une menace.",
+   "According to some it's progress; for others, a threat."
+  ],
+  [
+   "Les partisans de la réforme estiment qu'elle est nécessaire, tandis que ses détracteurs la jugent injuste.",
+   "Supporters of the reform consider it necessary, whereas its critics consider it unfair."
+  ],
+  [
+   "Un résumé doit rester neutre.",
+   "A summary must remain neutral."
+  ],
+  [
+   "Il faut reformuler les idées avec ses propres mots.",
+   "You must rephrase the ideas in your own words."
+  ],
+  [
+   "Elle rédige son mémoire de master.",
+   "She's writing her master's dissertation."
+  ],
+  [
+   "Il convient de distinguer les faits des opinions.",
+   "It is appropriate to distinguish facts from opinions."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*remettre en question* means…",
+   "options": [
+    "to question, to challenge",
+    "to put back in the question",
+    "to ask again"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*préconiser* means…",
+   "options": [
+    "to recommend",
+    "to prepare",
+    "to predict"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le détracteur* is…",
+   "options": [
+    "the critic, the opponent",
+    "the tractor driver",
+    "the attractor"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le partisan* (of a reform) is…",
+   "options": [
+    "the supporter",
+    "the partner",
+    "the partisan fighter only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Il en déduit que…* means…",
+   "options": [
+    "He deduces from this that…",
+    "He deducts from it…",
+    "He leads to…"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "In a summary you should…",
+   "options": [
+    "stay neutral and reformulate",
+    "give your opinion",
+    "copy key sentences"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le mémoire* (at university) is…",
+   "options": [
+    "the dissertation",
+    "the memory",
+    "the memo"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "To show the author admits a point, use…",
+   "options": [
+    "reconnaître / admettre",
+    "contester",
+    "préconiser"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Selon les uns…, pour les autres…* means…",
+   "options": [
+    "According to some…, for others…",
+    "According to one…, for the other…",
+    "Some…, others not"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*mettre l'accent sur* means…",
+   "options": [
+    "to emphasise",
+    "to put an accent on a letter only",
+    "to speak with an accent"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "L'auteur ___ que le télétravail améliore la productivité.",
+   "answers": [
+    "affirme"
+   ],
+   "hint": "The author claims…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle insiste ___ le fait que les salariés sont plus autonomes.",
+   "answers": [
+    "sur"
+   ],
+   "hint": "She stresses that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il remet en ___ l'efficacité de cette mesure.",
+   "answers": [
+    "question"
+   ],
+   "hint": "He questions the effectiveness…"
+  },
+  {
+   "type": "fill",
+   "prompt": "L'auteur ___ un équilibre entre bureau et maison.",
+   "answers": [
+    "préconise"
+   ],
+   "hint": "The author recommends a balance…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il en ___ que les entreprises doivent s'adapter.",
+   "answers": [
+    "déduit"
+   ],
+   "hint": "He deduces from this that…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Les ___ de la réforme estiment qu'elle est nécessaire.",
+   "answers": [
+    "partisans"
+   ],
+   "hint": "Supporters of the reform…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Un résumé doit rester ___.",
+   "answers": [
+    "neutre"
+   ],
+   "hint": "A summary must remain neutral."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut ___ les idées avec ses propres mots.",
+   "answers": [
+    "reformuler"
+   ],
+   "hint": "You must rephrase the ideas…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Il ___ de distinguer les faits des opinions.",
+   "answers": [
+    "convient"
+   ],
+   "hint": "It is appropriate to distinguish…"
+  },
+  {
+   "type": "translate",
+   "prompt": "The author claims that…",
+   "answers": [
+    "L'auteur affirme que…"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "He questions this measure.",
+   "answers": [
+    "Il remet en question cette mesure.",
+    "Il conteste cette mesure."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "A summary must remain neutral.",
+   "answers": [
+    "Un résumé doit rester neutre."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "According to some…, for others…",
+   "answers": [
+    "Selon les uns…, pour les autres…"
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Supporters of the reform consider it necessary, whereas its critics consider it unfair.\"",
+   "answer": "Les partisans de la réforme estiment qu'elle est nécessaire, tandis que ses détracteurs la jugent injuste."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"She does, however, acknowledge that isolation is a risk.\"",
+   "answer": "Elle reconnaît toutefois que l'isolement est un risque."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"It is appropriate to distinguish facts from opinions.\"",
+   "answer": "Il convient de distinguer les faits des opinions."
+  }
+ ]
+}
