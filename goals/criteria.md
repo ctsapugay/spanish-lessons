@@ -73,47 +73,47 @@ fresh clone.
 
 - **criterion:** The app presents itself as Polyglotte and lets the learner choose Spanish or French and switch between them at any time; each language keeps its own passed lessons, quiz and level-test results and missed items, which switching never alters; both languages' progress survives a reload, a restart of the local launcher, and an export followed by an import; and Spanish progress recorded before French existed carries over intact.
 - **check:** The app check (CHK-003) records different progress in each language, switches back and forth, reloads, restarts the launcher, exports, clears site data and imports, and fails unless each language shows exactly its own progress every time; it also loads a progress file saved by the Spanish-only version and fails unless that progress appears unchanged under Spanish. Confirm switching by hand once.
-- **state:** unmet
-- **evidence:**
+- **state:** met
+- **evidence:** 2026-10-17 — `python3 tools/verify.py` green (8/8); CHK-003 "app ok: 86 checks passed", including "each language shows exactly its own progress (after switching)", "(after a reload)", "(after export, clearing site data and import)", "working in one language leaves the other's progress unchanged", "both languages' progress survives restarting the launcher", "progress saved by the Spanish-only version carries over unchanged". By hand in the browser (local server, test profile): French dashboard 145/148, switched to Español → 0/162, back to Français → 145/148, reloaded → still 145/148, switched again → Spanish 0, French 145.
 
 ## G8 — A French curriculum from zero to C1, built from French references
 
 - **criterion:** In French, the dashboard shows an ordered curriculum spanning CEFR A1, A2, B1, B2 and C1, in which every lesson states its learning objective and level; every grammar, communicative-function and pronunciation item that the recorded French research lists for each level is covered by at least one lesson; and every one of those items, and the order they are taught in, is traced in the research record to a named reference for teaching French as a foreign language (official French level inventories, the French exam specifications for each level, or a recognised French teaching programme), not to the Spanish course.
 - **check:** Open the French dashboard and confirm all five levels and their lessons appear in order with objectives; run the French curriculum check (CHK-005), which fails if any level is missing, any lesson lacks an objective or level, any researched item is uncovered, any inventory item names no French source, or the research record lacks sources; read the French research record and confirm the sources are French-teaching references.
-- **state:** unmet
-- **evidence:**
+- **state:** met
+- **evidence:** 2026-10-17 — CHK-005: "French curriculum ok: 5 levels, 148 lessons, 233 inventory items covered, 8 sources, all levels reviewed". Opened the French dashboard in the browser: A1 · Beginner, A2 · Elementary, B1 · Intermediate, B2 · Upper intermediate, C1 · Advanced in order; 148 lesson rows in course order, every one with an objective. Read curriculum/fr/research.md: sources are French-teaching references (Inventaire linguistique des contenus clés des niveaux du CECRL, Alliance Française A1 course, DELF/DALF regulations, CECR and Companion Volume, Lexique 3.83).
 
 ## G9 — Every French lesson is complete and sound
 
 - **criterion:** Every French lesson has an explanation, at least ten example sentences with English translations, its vocabulary with translations and a pronunciation guide, and at least forty exercise items spanning at least three exercise types; no exercise is unanswerable or tests French not yet taught.
 - **check:** Run the French content check (CHK-006), which fails on any lesson below those minimums, any vocabulary entry without a pronunciation guide, any malformed answer key, or any forward reference; open three French lessons at random from different levels and confirm they render fully and speak with a French voice.
-- **state:** unmet
-- **evidence:**
+- **state:** met
+- **evidence:** 2026-10-17 — CHK-006: "French content ok: 148 lessons complete, answerable and in teaching order". Opened three lessons in the browser: a1-01 (Bonjour !), b1-14 (Dont and lequel), c1-24 (History and memory) — each rendered its explanation sections, vocabulary with IPA, examples and practice/quiz links; clicking 🔊 spoke "bonjour", "de rien", "Dont", "C'est l'entreprise pour laquelle elle travaille.", "la monarchie absolue", "la veille" with voice "Eddy (French (France))", lang fr-FR (Canadian French voices were also installed and not used). A typed C1 practice answer (*la Libération*) was marked correct.
 
 ## G10 — French spelling, gender and pronunciation are accurate
 
 - **criterion:** Every French word in the course — explanations, vocabulary, examples, exercises and answer keys — is a correct standard spelling, accents included; every noun's stated gender is correct; every vocabulary pronunciation guide matches standard metropolitan pronunciation; and French audio is always spoken with a French voice, never a Spanish or English one.
 - **check:** Run the French accuracy check (CHK-007), which fails on any word not found in the recorded French reference lexicon, any noun gender or pronunciation guide that disagrees with it, or any exception not justified in a level review record; the app check (CHK-003) fails if French text is ever spoken with a non-French voice.
-- **state:** unmet
-- **evidence:**
+- **state:** met
+- **evidence:** 2026-10-17 — CHK-007: "French accuracy ok: 148 lessons, 60485 words spelled as in the lexicon, 2145 vocabulary genders and pronunciation guides match, 130 lexicon notes". CHK-003: "French is spoken with a French (France) voice", "without a France voice, another French voice is used", "with no French voice, French is never spoken with another language's voice".
 
 ## G11 — French practice, quizzes and level tests work like Spanish
 
 - **criterion:** In French, practice, cumulative quizzes and level tests behave exactly as G3, G4 and G5 require for Spanish, and French answers are judged fairly — accents, capitalisation, apostrophes and elision handled consistently.
 - **check:** The app check (CHK-003) runs the practice, quiz, passing-score and level-test scenarios in French as well as Spanish and fails if any fails in either language, including typed answers with apostrophes and elision.
-- **state:** unmet
-- **evidence:**
+- **state:** met
+- **evidence:** 2026-10-17 — `bash checks/app.sh --lang fr`: "app ok: 31 checks passed" — practice feedback and no progress change, quizzes below/above the threshold, passing score 50%/80%, cumulative late quiz, missed items favoured, C1 level test spans the level and is recorded, export/import, course update; full run (CHK-003, 86 checks) also passes every [es] scenario and "a curly apostrophe (’) is accepted like a straight one".
 
 ## G12 — Each French level has been reviewed for accuracy
 
 - **criterion:** Every French level has had a review pass for accuracy and naturalness, with what was checked, what was wrong, and what was fixed recorded in the repository.
 - **check:** Read the French review record for each of the five levels and confirm it names the lessons reviewed and lists concrete findings and fixes; CHK-005 fails if any French level has no review record.
-- **state:** unmet
-- **evidence:**
+- **state:** met
+- **evidence:** 2026-10-17 — Read curriculum/fr/reviews/A1.md, A2.md, B1.md, B2.md, C1.md: each names every lesson of its level (30, 30, 32, 30, 26) and lists concrete findings with fixes (12, 12, 12, 10, 9), e.g. C1: a wrong historical claim about women's vote fixed in c1-24, single-answer fill-ins that rejected correct synonyms. CHK-005 "all levels reviewed".
 
 ## G13 — Anyone who clones the repository can use it
 
 - **criterion:** Someone with a fresh clone and only the common prerequisite the README names can start the app by following it, on macOS by double-clicking a launcher and on Windows or Linux with one documented step; their progress is saved to a file on their own computer that git ignores, so it is never committed or shared.
 - **check:** The fresh-clone check (CHK-008) clones the repository into a temporary folder, starts the app as the README describes, records progress, and fails unless the progress file is written inside that clone and `git status` there shows nothing to commit; read the README and confirm it gives the steps for macOS, Windows and Linux.
-- **state:** unmet
-- **evidence:**
+- **state:** met
+- **evidence:** 2026-10-17 — CHK-008: "fresh clone ok: README steps for macOS, Windows and Linux; both launchers start the app; progress saved in the clone's my-progress.json and ignored by git". Read README: steps for macOS (Start Polyglotte.command), Windows (Start Polyglotte.bat), Linux (./start-polyglotte.sh); French counts "148 lessons across five levels (A1 30, A2 30, B1 32, B2 30, C1 26)" match content/fr/lessons.

@@ -181,3 +181,12 @@ reader: state, not narrative.
 ## 2026-10-17 — Goal-mode run: French B2 completed
 - Clara set goal mode to finish everything (all 148 French lessons, reviews, verify green, G1–G13 evidence, README). Scratchpad converter was lost between sessions → added scripts/fr_text2json.py (the lesson-writing converter) to the repo.
 - B2 lessons b2-13 … b2-30 written; each batch passed check_content --lang fr and check_french_accuracy before commit. Review curriculum/fr/reviews/B2.md: 11 findings with fixes, 99 lexicon notes in total.
+
+## 2026-10-17 — Goal-mode run: French C1 completed; goal condition met
+- **state:** All 148 French lessons exist (A1 30, A2 30, B1 32, B2 30, C1 26). Reviews for all five French levels. `python3 tools/verify.py` green 8/8 (CHK-003 "app ok: 86 checks passed"; CHK-008 fresh clone ok). Criteria G1–G13 all met with evidence. Not pushed.
+- **done:** C1 lessons c1-16 … c1-26 written; every batch passed check_content --lang fr and check_french_accuracy before commit. curriculum/fr/reviews/C1.md: all 26 lessons named, 9 findings with fixes (a wrong historical claim in c1-24 — women's vote; fill-ins rejecting correct synonyms in c1-04, c1-17, c1-22; -isme IPA; English labels in prompts; hidden genders; invented spellings), 130 lexicon notes in total across levels' files. Browser hand checks (switching, French voice, a1-01 / b1-14 / c1-24) recorded in G7–G11 evidence. README French counts verified against content/fr/lessons.
+- **next:** Nothing in the goal condition remains. Pushing needs Clara's explicit go-ahead.
+- **decisions:** node_modules (Playwright, project-local, gitignored) was missing, so CHK-003 failed with "Playwright is not installed"; restored with `npm ci` from the lockfile — no check or dependency change. Hand checks used a throwaway progress profile in the in-app browser's own storage (seeded passes so B1/C1 lessons could be opened), cleared afterwards; Clara's my-progress.json untouched.
+- **approvals:** none this session beyond the goal-mode instruction.
+- **proposals:** none.
+- **dead ends:** none.

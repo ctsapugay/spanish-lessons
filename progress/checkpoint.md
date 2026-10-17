@@ -15,6 +15,6 @@ Everything the tools read is **below the divider**. Overwrite it; leave this hea
 <!-- Overwrite everything below at each break. Keep it to a handful of lines. -->
 
 **Updated:** 2026-10-17
-**Now:** Goal mode (finish everything). French A1–B2 done (122 lessons + 4 reviews). C1 next.
-**Next:** C1 c1-01…c1-26 → C1 review → `python3 tools/verify.py` all green → criteria G7–G13 evidence (browser hand checks) → README counts → log, commit.
-**Watch:** Write lessons with scripts/fr_text2json.py from text files; no bold inside italic French; no invented forms as distractors; no English in fill prompts or French options; teach every form used; names/abbreviations need lexicon notes. Commit only when checks pass. Never push.
+**Now:** Goal condition met. 148 French lessons + 5 reviews; verify.py green 8/8; G1–G13 met with evidence. All committed locally, not pushed.
+**Next:** Nothing outstanding. Push only on Clara's explicit go-ahead.
+**Watch:** If CHK-003 says "Playwright is not installed", run `npm ci` (node_modules is gitignored).
