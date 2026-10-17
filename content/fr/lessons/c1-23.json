@@ -1,0 +1,376 @@
+{
+ "sections": [
+  {
+   "heading": "The justice system",
+   "body": "- *la justice civile* — disputes between people (*un litige*: a dispute): divorce, contracts, inheritance.\n- *la justice pénale* — offences against society: *une contravention* (a minor offence, e.g. parking), *un délit* (an offence, e.g. theft), *un crime* (a serious crime, e.g. murder), tried by *la cour d'assises* with a jury.\n- people: *le juge*, *le procureur* (the public prosecutor), *l'avocat / l'avocate* (the lawyer), *l'accusé(e)* / *le prévenu* (the defendant), *la victime*, *le témoin* (the witness), *les jurés* (jurors)."
+  },
+  {
+   "heading": "A trial",
+   "body": "*porter plainte* (to press charges) — *une enquête* — *être mis en examen* (to be formally investigated; *mettre en examen* is not \"to examine\") — *le procès* (the trial) — *plaider coupable / non coupable* (to plead guilty / not guilty) — *témoigner* (to testify) — *le verdict* — *être condamné à* (to be sentenced to) — *être acquitté* (to be acquitted) — *faire appel* (to appeal) — *la peine* (the sentence): *une amende* (a fine), *une peine de prison avec sursis* (a suspended sentence)."
+  },
+  {
+   "heading": "Principles of law",
+   "body": "*la présomption d'innocence* — *nul n'est censé ignorer la loi* (ignorance of the law is no excuse) — *l'État de droit* (the rule of law) — *les droits de l'homme* — *l'égalité devant la loi* — *le secret de l'instruction* (confidentiality of the investigation) — *la peine de mort* (abolished in France in 1981)."
+  },
+  {
+   "heading": "Legal language",
+   "body": "Legal French is formal and precise: *Il est interdit de…* — *Tout contrevenant sera poursuivi.* (Anyone breaking this rule will be prosecuted.) — *en vertu de l'article 3* (under article 3) — *sous peine de* (on pain of) — *le cas échéant* (where applicable)."
+  }
+ ],
+ "vocab": [
+  [
+   "le litige",
+   "the dispute",
+   "lə li.tiʒ"
+  ],
+  [
+   "le délit",
+   "the offence",
+   "lə de.li"
+  ],
+  [
+   "le procureur",
+   "the public prosecutor",
+   "lə pʁɔ.ky.ʁœʁ"
+  ],
+  [
+   "un avocat / une avocate",
+   "the lawyer",
+   "œ̃.n‿a.vɔ.ka / yn a.vɔ.kat"
+  ],
+  [
+   "le témoin",
+   "the witness",
+   "lə te.mwɛ̃"
+  ],
+  [
+   "porter plainte",
+   "to press charges",
+   "pɔʁ.te plɛ̃t"
+  ],
+  [
+   "le procès",
+   "the trial",
+   "lə pʁɔ.sɛ"
+  ],
+  [
+   "plaider",
+   "to plead",
+   "ple.de"
+  ],
+  [
+   "témoigner",
+   "to testify",
+   "te.mwa.ɲe"
+  ],
+  [
+   "condamner",
+   "to sentence, to condemn",
+   "kɔ̃.da.ne"
+  ],
+  [
+   "acquitter",
+   "to acquit",
+   "a.ki.te"
+  ],
+  [
+   "faire appel",
+   "to appeal",
+   "fɛʁ a.pɛl"
+  ],
+  [
+   "la peine",
+   "the sentence, the penalty",
+   "la pɛn"
+  ],
+  [
+   "l'amende",
+   "the fine",
+   "la.mɑ̃d",
+   "f"
+  ],
+  [
+   "le sursis",
+   "the suspended sentence",
+   "lə syʁ.si"
+  ],
+  [
+   "la présomption",
+   "the presumption",
+   "la pʁe.zɔ̃p.sjɔ̃"
+  ],
+  [
+   "le cas échéant",
+   "where applicable",
+   "lə ka e.ʃe.ɑ̃"
+  ]
+ ],
+ "examples": [
+  [
+   "Le litige oppose deux voisins.",
+   "The dispute is between two neighbours."
+  ],
+  [
+   "Le vol est un délit, le meurtre est un crime.",
+   "Theft is an offence, murder is a crime."
+  ],
+  [
+   "Elle a porté plainte contre son employeur.",
+   "She pressed charges against her employer."
+  ],
+  [
+   "Le suspect a été mis en examen.",
+   "The suspect has been formally placed under investigation."
+  ],
+  [
+   "Le procès s'ouvrira lundi.",
+   "The trial will open on Monday."
+  ],
+  [
+   "L'accusé a plaidé non coupable.",
+   "The defendant pleaded not guilty."
+  ],
+  [
+   "Trois témoins ont témoigné devant la cour.",
+   "Three witnesses testified before the court."
+  ],
+  [
+   "Il a été condamné à deux ans de prison avec sursis.",
+   "He was given a two-year suspended prison sentence."
+  ],
+  [
+   "Faute de preuves, l'accusée a été acquittée.",
+   "For lack of evidence, the defendant was acquitted."
+  ],
+  [
+   "Son avocat a décidé de faire appel.",
+   "His lawyer decided to appeal."
+  ],
+  [
+   "Elle a payé une amende de cent euros.",
+   "She paid a fine of a hundred euros."
+  ],
+  [
+   "Tout accusé bénéficie de la présomption d'innocence.",
+   "Every defendant enjoys the presumption of innocence."
+  ],
+  [
+   "La peine de mort a été abolie en France en 1981.",
+   "The death penalty was abolished in France in 1981."
+  ],
+  [
+   "Le cas échéant, le contrat pourra être modifié.",
+   "Where applicable, the contract may be amended."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*être mis en examen* means…",
+   "options": [
+    "to be formally placed under investigation",
+    "to sit an exam",
+    "to have a medical check-up"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un délit* is…",
+   "options": [
+    "an offence such as theft",
+    "a delight",
+    "a minor parking offence"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le procureur* is…",
+   "options": [
+    "the public prosecutor",
+    "the defence lawyer",
+    "the procurer of goods"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*porter plainte* means…",
+   "options": [
+    "to press charges",
+    "to wear a complaint",
+    "to moan"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*avec sursis* means…",
+   "options": [
+    "suspended (sentence)",
+    "with surprise",
+    "without delay"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*être acquitté* means…",
+   "options": [
+    "to be acquitted",
+    "to be acquainted",
+    "to pay off a debt only"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*faire appel* means…",
+   "options": [
+    "to appeal (a verdict)",
+    "to make a phone call",
+    "to call a witness"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le cas échéant* means…",
+   "options": [
+    "where applicable",
+    "in case of failure",
+    "on the falling case"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la présomption d'innocence* means a defendant is…",
+   "options": [
+    "innocent until proven guilty",
+    "presumed guilty",
+    "always acquitted"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Murder is tried by…",
+   "options": [
+    "la cour d'assises",
+    "the mayor",
+    "a civil court"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ oppose deux voisins.",
+   "answers": [
+    "litige"
+   ],
+   "hint": "The dispute is between two neighbours."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a porté ___ contre son employeur.",
+   "answers": [
+    "plainte"
+   ],
+   "hint": "pressed charges."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ s'ouvrira lundi.",
+   "answers": [
+    "procès"
+   ],
+   "hint": "The trial will open on Monday."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'accusé a ___ non coupable.",
+   "answers": [
+    "plaidé"
+   ],
+   "hint": "pleaded not guilty."
+  },
+  {
+   "type": "fill",
+   "prompt": "Trois ___ ont témoigné devant la cour.",
+   "answers": [
+    "témoins"
+   ],
+   "hint": "Three witnesses testified."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il a été ___ à deux ans de prison avec sursis.",
+   "answers": [
+    "condamné"
+   ],
+   "hint": "He was sentenced…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Faute de preuves, l'accusée a été ___.",
+   "answers": [
+    "acquittée"
+   ],
+   "hint": "was acquitted."
+  },
+  {
+   "type": "fill",
+   "prompt": "Son avocat a décidé de faire ___.",
+   "answers": [
+    "appel"
+   ],
+   "hint": "decided to appeal."
+  },
+  {
+   "type": "fill",
+   "prompt": "Elle a payé une ___ de cent euros.",
+   "answers": [
+    "amende"
+   ],
+   "hint": "a fine of a hundred euros."
+  },
+  {
+   "type": "translate",
+   "prompt": "He pleaded guilty.",
+   "answers": [
+    "Il a plaidé coupable."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "the trial",
+   "answers": [
+    "le procès"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "She pressed charges.",
+   "answers": [
+    "Elle a porté plainte."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Every defendant enjoys the presumption of innocence.\"",
+   "answer": "Tout accusé bénéficie de la présomption d'innocence."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The death penalty was abolished in France in 1981.\"",
+   "answer": "La peine de mort a été abolie en France en 1981."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"For lack of evidence, the defendant was acquitted.\"",
+   "answer": "Faute de preuves, l'accusée a été acquittée."
+  }
+ ]
+}

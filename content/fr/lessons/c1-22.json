@@ -1,0 +1,372 @@
+{
+ "sections": [
+  {
+   "heading": "The macroeconomic picture",
+   "body": "*la croissance* (growth) — *la récession* — *le pouvoir d'achat* (purchasing power) — *l'inflation* — *le chômage* (unemployment) — *la dette publique* — *le déficit* — *la conjoncture* (the economic situation): *La conjoncture reste morose.* (The economic outlook remains gloomy.) — *relancer l'économie* (to stimulate the economy) — *un plan de relance* (a stimulus package).\n\nFigures: *Le taux de chômage s'établit à 7~%.* (stands at) — *Les prix ont augmenté de 3~% sur un an.* — *une hausse / une baisse de deux points* — *Le PIB a reculé au premier trimestre.* (fell in the first quarter)"
+  },
+  {
+   "heading": "The company",
+   "body": "*une entreprise* — *une société* (a company) — *une start-up* — *une PME* — *une multinationale* — *le siège social* (head office) — *le chiffre d'affaires* (turnover) — *le bénéfice* (profit) — *les pertes* (losses) — *le conseil d'administration* (the board) — *le PDG* (the CEO) — *les actionnaires* (shareholders) — *investir*, *embaucher* (to hire), *licencier* (to lay off), *délocaliser* (to relocate abroad)."
+  },
+  {
+   "heading": "Talking about trends",
+   "body": "*L'entreprise a enregistré un bénéfice record.* (posted) — *Les ventes sont en hausse.* — *Le secteur traverse une crise.* — *La concurrence est rude.* (competition is tough) — *Le marché est saturé.* — *L'entreprise a dû mettre la clé sous la porte.* (had to close down)"
+  },
+  {
+   "heading": "Debating economic issues",
+   "body": "*la mondialisation* (globalisation) — *le libre-échange* (free trade) — *la précarité* (job insecurity) — *les inégalités* — *la fiscalité* (taxation) — *Faut-il taxer davantage les grandes fortunes ?* — *La croissance est-elle compatible avec l'écologie ?*"
+  }
+ ],
+ "vocab": [
+  [
+   "la croissance",
+   "growth",
+   "la kʁwa.sɑ̃s"
+  ],
+  [
+   "le pouvoir d'achat",
+   "purchasing power",
+   "lə pu.vwaʁ da.ʃa"
+  ],
+  [
+   "la dette",
+   "the debt",
+   "la dɛt"
+  ],
+  [
+   "la conjoncture",
+   "the economic situation",
+   "la kɔ̃.ʒɔ̃k.tyʁ"
+  ],
+  [
+   "relancer",
+   "to stimulate, to revive",
+   "ʁə.lɑ̃.se"
+  ],
+  [
+   "le trimestre",
+   "the quarter",
+   "lə tʁi.mɛstʁ"
+  ],
+  [
+   "le chiffre d'affaires",
+   "turnover",
+   "lə ʃifʁ da.fɛʁ"
+  ],
+  [
+   "le bénéfice",
+   "the profit",
+   "lə be.ne.fis"
+  ],
+  [
+   "un actionnaire / une actionnaire",
+   "the shareholder",
+   "œ̃.n‿ak.sjɔ.nɛʁ / yn ak.sjɔ.nɛʁ"
+  ],
+  [
+   "embaucher",
+   "to hire",
+   "ɑ̃.bo.ʃe"
+  ],
+  [
+   "licencier",
+   "to lay off",
+   "li.sɑ̃.sje"
+  ],
+  [
+   "délocaliser",
+   "to relocate abroad",
+   "de.lɔ.ka.li.ze"
+  ],
+  [
+   "la concurrence",
+   "competition",
+   "la kɔ̃.ky.ʁɑ̃s"
+  ],
+  [
+   "la mondialisation",
+   "globalisation",
+   "la mɔ̃.dja.li.za.sjɔ̃"
+  ],
+  [
+   "la précarité",
+   "insecurity",
+   "la pʁe.ka.ʁi.te"
+  ],
+  [
+   "la fiscalité",
+   "taxation",
+   "la fis.ka.li.te"
+  ]
+ ],
+ "examples": [
+  [
+   "La croissance a ralenti cette année.",
+   "Growth slowed this year."
+  ],
+  [
+   "La conjoncture reste morose.",
+   "The economic outlook remains gloomy."
+  ],
+  [
+   "Le gouvernement veut relancer l'économie.",
+   "The government wants to stimulate the economy."
+  ],
+  [
+   "Le taux de chômage s'établit à sept pour cent.",
+   "The unemployment rate stands at seven per cent."
+  ],
+  [
+   "Le PIB a reculé au premier trimestre.",
+   "GDP fell in the first quarter."
+  ],
+  [
+   "L'inflation pèse sur le pouvoir d'achat.",
+   "Inflation weighs on purchasing power."
+  ],
+  [
+   "L'entreprise a enregistré un bénéfice record.",
+   "The company posted a record profit."
+  ],
+  [
+   "Son chiffre d'affaires a doublé en cinq ans.",
+   "Its turnover doubled in five years."
+  ],
+  [
+   "L'usine va embaucher cent personnes.",
+   "The factory is going to hire a hundred people."
+  ],
+  [
+   "La société a licencié deux cents salariés.",
+   "The company laid off two hundred employees."
+  ],
+  [
+   "La concurrence est rude dans ce secteur.",
+   "Competition is tough in this sector."
+  ],
+  [
+   "Le magasin a dû mettre la clé sous la porte.",
+   "The shop had to close down."
+  ],
+  [
+   "La mondialisation a accru les inégalités.",
+   "Globalisation has increased inequality."
+  ],
+  [
+   "Faut-il taxer davantage les grandes fortunes ?",
+   "Should large fortunes be taxed more?"
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*la conjoncture* means…",
+   "options": [
+    "the economic situation",
+    "a conjecture",
+    "a junction"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le chiffre d'affaires* is…",
+   "options": [
+    "turnover",
+    "the number of affairs",
+    "a business figure of speech"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*licencier* means…",
+   "options": [
+    "to lay off",
+    "to license",
+    "to graduate"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*embaucher* means…",
+   "options": [
+    "to hire",
+    "to embark",
+    "to ambush"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*délocaliser* means…",
+   "options": [
+    "to relocate production abroad",
+    "to find a location",
+    "to unlock"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*mettre la clé sous la porte* means…",
+   "options": [
+    "to close down a business",
+    "to hide the key",
+    "to lock out a tenant"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le PIB a reculé* means…",
+   "options": [
+    "GDP fell",
+    "GDP rose",
+    "GDP was recalculated"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le pouvoir d'achat* is…",
+   "options": [
+    "purchasing power",
+    "the power to buy a company",
+    "buying pressure"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la concurrence est rude* means…",
+   "options": [
+    "competition is tough",
+    "the competition is rude",
+    "the race is rough"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le bénéfice* means…",
+   "options": [
+    "the profit",
+    "the benefit payment only",
+    "the beneficiary"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "La ___ a ralenti cette année.",
+   "answers": [
+    "croissance"
+   ],
+   "hint": "Growth slowed this year."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le gouvernement veut ___ l'économie.",
+   "answers": [
+    "relancer"
+   ],
+   "hint": "stimulate the economy."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le taux de chômage s'___ à sept pour cent.",
+   "answers": [
+    "établit"
+   ],
+   "hint": "stands at seven per cent."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le PIB a reculé au premier ___.",
+   "answers": [
+    "trimestre"
+   ],
+   "hint": "in the first quarter."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'inflation pèse sur le pouvoir d'___.",
+   "answers": [
+    "achat"
+   ],
+   "hint": "purchasing power."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'entreprise a enregistré un ___ record.",
+   "answers": [
+    "bénéfice"
+   ],
+   "hint": "a record profit."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'usine va ___ cent personnes.",
+   "answers": [
+    "embaucher"
+   ],
+   "hint": "hire a hundred people."
+  },
+  {
+   "type": "fill",
+   "prompt": "La société a ___ deux cents salariés.",
+   "answers": [
+    "licencié"
+   ],
+   "hint": "laid off two hundred employees."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le magasin a dû mettre la ___ sous la porte.",
+   "answers": [
+    "clé",
+    "clef"
+   ],
+   "hint": "had to close down."
+  },
+  {
+   "type": "translate",
+   "prompt": "Growth slowed.",
+   "answers": [
+    "La croissance a ralenti."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Competition is tough.",
+   "answers": [
+    "La concurrence est rude."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The company posted a record profit.",
+   "answers": [
+    "L'entreprise a enregistré un bénéfice record.",
+    "La société a enregistré un bénéfice record."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Globalisation has increased inequality.\"",
+   "answer": "La mondialisation a accru les inégalités."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Its turnover doubled in five years.\"",
+   "answer": "Son chiffre d'affaires a doublé en cinq ans."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Inflation weighs on purchasing power.\"",
+   "answer": "L'inflation pèse sur le pouvoir d'achat."
+  }
+ ]
+}

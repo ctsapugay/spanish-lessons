@@ -1,0 +1,370 @@
+{
+ "sections": [
+  {
+   "heading": "Landmarks of French history",
+   "body": "- *la Révolution française* (1789): *la prise de la Bastille*, the *Déclaration des droits de l'homme et du citoyen*, the end of absolute monarchy (*la monarchie absolue*).\n- *l'Empire* — Napoléon Bonaparte, emperor in 1804; *le Code civil*.\n- *la Commune de Paris* (1871) — a revolutionary uprising, bloodily put down.\n- *les deux guerres mondiales* — *la Grande Guerre* (1914–1918); *l'Occupation* (1940–1944), *la Résistance*, *la Libération*.\n- *la décolonisation* — the end of the empire, *la guerre d'Algérie* (1954–1962).\n- *Mai 68* — the student and worker protests of May 1968."
+  },
+  {
+   "heading": "Narrating history: the passé simple and the historical present",
+   "body": "History books use the *passé simple* (*Louis XVI fut guillotiné en 1793*) or, often, the **historical present** to make events vivid: *En 1789, le peuple prend la Bastille.* In speech, use the *passé composé*.\n\nDating: *au XVIIIe siècle* (read: *au dix-huitième siècle*) — *sous l'Ancien Régime* (before 1789) — *à la veille de la guerre* (on the eve of) — *au lendemain de la Libération* (in the immediate aftermath of) — *au cours des années 1960*."
+  },
+  {
+   "heading": "Collective memory",
+   "body": "*la mémoire collective* — *le devoir de mémoire* (the duty to remember) — *commémorer* (to commemorate) — *une commémoration* — *le monument aux morts* (war memorial, in every French village) — *une plaque commémorative* — *rendre hommage à* (to pay tribute to) — *les témoignages des survivants* — *la repentance* (public atonement) — *réécrire l'histoire* (to rewrite history)."
+  },
+  {
+   "heading": "Debating the past",
+   "body": "*Faut-il juger le passé avec les valeurs d'aujourd'hui ?* — *L'histoire est écrite par les vainqueurs.* — *On ne peut pas comprendre le présent sans connaître le passé.* — *Ce sujet reste sensible.* (This subject remains sensitive.)"
+  }
+ ],
+ "vocab": [
+  [
+   "la monarchie",
+   "the monarchy",
+   "la mɔ.naʁ.ʃi"
+  ],
+  [
+   "l'empire",
+   "the empire",
+   "lɑ̃.piʁ",
+   "m"
+  ],
+  [
+   "l'empereur",
+   "the emperor",
+   "lɑ̃.pʁœʁ",
+   "m"
+  ],
+  [
+   "la guerre mondiale",
+   "the world war",
+   "la ɡɛʁ mɔ̃.djal"
+  ],
+  [
+   "l'Occupation",
+   "the Occupation",
+   "lɔ.ky.pa.sjɔ̃",
+   "f"
+  ],
+  [
+   "la Résistance",
+   "the Resistance",
+   "la ʁe.zis.tɑ̃s"
+  ],
+  [
+   "la Libération",
+   "the Liberation",
+   "la li.be.ʁa.sjɔ̃"
+  ],
+  [
+   "la décolonisation",
+   "decolonisation",
+   "la de.kɔ.lɔ.ni.za.sjɔ̃"
+  ],
+  [
+   "le siècle",
+   "the century",
+   "lə sjɛkl"
+  ],
+  [
+   "la veille",
+   "the eve",
+   "la vɛj"
+  ],
+  [
+   "le lendemain",
+   "the next day, the aftermath",
+   "lə lɑ̃d.mɛ̃"
+  ],
+  [
+   "commémorer",
+   "to commemorate",
+   "kɔ.me.mɔ.ʁe"
+  ],
+  [
+   "rendre hommage à",
+   "to pay tribute to",
+   "ʁɑ̃dʁ ɔ.maʒ a"
+  ],
+  [
+   "le vainqueur",
+   "the victor",
+   "lə vɛ̃.kœʁ"
+  ],
+  [
+   "le survivant / la survivante",
+   "the survivor",
+   "lə syʁ.vi.vɑ̃ / la syʁ.vi.vɑ̃t"
+  ],
+  [
+   "sensible",
+   "sensitive",
+   "sɑ̃.sibl"
+  ]
+ ],
+ "examples": [
+  [
+   "En 1789, le peuple prend la Bastille.",
+   "In 1789, the people storm the Bastille."
+  ],
+  [
+   "Louis XVI fut guillotiné en 1793.",
+   "Louis XVI was guillotined in 1793."
+  ],
+  [
+   "Napoléon devint empereur en 1804.",
+   "Napoleon became emperor in 1804."
+  ],
+  [
+   "Sous l'Ancien Régime, le roi détenait tous les pouvoirs.",
+   "Under the Ancien Régime, the king held all the power."
+  ],
+  [
+   "Pendant l'Occupation, beaucoup de Français rejoignirent la Résistance.",
+   "During the Occupation, many French people joined the Resistance."
+  ],
+  [
+   "Au lendemain de la Libération, les femmes obtinrent le droit de vote.",
+   "In the immediate aftermath of the Liberation, women gained the right to vote."
+  ],
+  [
+   "À la veille de la guerre, personne ne voulait y croire.",
+   "On the eve of the war, nobody wanted to believe it."
+  ],
+  [
+   "Chaque village possède son monument aux morts.",
+   "Every village has its war memorial."
+  ],
+  [
+   "Le 11 novembre, on commémore l'armistice de 1918.",
+   "On 11 November, the 1918 armistice is commemorated."
+  ],
+  [
+   "Le président a rendu hommage aux victimes.",
+   "The president paid tribute to the victims."
+  ],
+  [
+   "Le devoir de mémoire passe par les témoignages des survivants.",
+   "The duty to remember relies on survivors' testimonies."
+  ],
+  [
+   "L'histoire est écrite par les vainqueurs.",
+   "History is written by the victors."
+  ],
+  [
+   "Ce sujet reste sensible en France.",
+   "This subject remains sensitive in France."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*l'Ancien Régime* refers to France…",
+   "options": [
+    "before 1789",
+    "after 1945",
+    "under Napoleon"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le devoir de mémoire* is…",
+   "options": [
+    "the duty to remember",
+    "a history homework",
+    "a memory test"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*au lendemain de la Libération* means…",
+   "options": [
+    "in the aftermath of the Liberation",
+    "the day before the Liberation",
+    "long after the Liberation"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*à la veille de la guerre* means…",
+   "options": [
+    "on the eve of the war",
+    "at the end of the war",
+    "during the war"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*En 1789, le peuple prend la Bastille* uses…",
+   "options": [
+    "the historical present",
+    "the future",
+    "the imperfect"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*rendre hommage à* means…",
+   "options": [
+    "to pay tribute to",
+    "to give back a man",
+    "to return a gift"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le monument aux morts* is…",
+   "options": [
+    "a war memorial",
+    "a cemetery",
+    "a museum"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*sensible* (here) means…",
+   "options": [
+    "sensitive",
+    "sensible",
+    "sensual"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*XVIIIe siècle* is read…",
+   "options": [
+    "dix-huitième siècle",
+    "dix-huit siècle",
+    "dix-huitièmes siècle"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Mai 68* refers to…",
+   "options": [
+    "student and worker protests",
+    "a war",
+    "a royal wedding"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "En 1789, le peuple ___ la Bastille.",
+   "answers": [
+    "prend"
+   ],
+   "hint": "In 1789 the people storm the Bastille (prendre, present)."
+  },
+  {
+   "type": "fill",
+   "prompt": "Napoléon ___ empereur en 1804. (devenir, passé simple)",
+   "answers": [
+    "devint"
+   ],
+   "hint": "Napoleon became emperor."
+  },
+  {
+   "type": "fill",
+   "prompt": "Sous l'Ancien ___, le roi détenait tous les pouvoirs.",
+   "answers": [
+    "Régime"
+   ],
+   "hint": "Under the Ancien Régime…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Beaucoup de Français rejoignirent la ___.",
+   "answers": [
+    "Résistance"
+   ],
+   "hint": "joined the Resistance."
+  },
+  {
+   "type": "fill",
+   "prompt": "Au ___ de la Libération, les femmes obtinrent le droit de vote.",
+   "answers": [
+    "lendemain"
+   ],
+   "hint": "In the aftermath…"
+  },
+  {
+   "type": "fill",
+   "prompt": "À la ___ de la guerre, personne ne voulait y croire.",
+   "answers": [
+    "veille"
+   ],
+   "hint": "On the eve of the war…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le 11 novembre, on ___ l'armistice de 1918.",
+   "answers": [
+    "commémore"
+   ],
+   "hint": "is commemorated."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le président a rendu ___ aux victimes.",
+   "answers": [
+    "hommage"
+   ],
+   "hint": "paid tribute."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'histoire est écrite par les ___.",
+   "answers": [
+    "vainqueurs"
+   ],
+   "hint": "by the victors."
+  },
+  {
+   "type": "translate",
+   "prompt": "the duty to remember",
+   "answers": [
+    "le devoir de mémoire"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "in the eighteenth century",
+   "answers": [
+    "au dix-huitième siècle",
+    "au XVIIIe siècle"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "This subject remains sensitive.",
+   "answers": [
+    "Ce sujet reste sensible."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Every village has its war memorial.\"",
+   "answer": "Chaque village possède son monument aux morts."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The duty to remember relies on survivors' testimonies.\"",
+   "answer": "Le devoir de mémoire passe par les témoignages des survivants."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The president paid tribute to the victims.\"",
+   "answer": "Le président a rendu hommage aux victimes."
+  }
+ ]
+}
