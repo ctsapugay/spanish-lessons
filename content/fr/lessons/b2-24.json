@@ -1,0 +1,374 @@
+{
+ "sections": [
+  {
+   "heading": "Environment vocabulary",
+   "body": "- *l'environnement*, *l'écologie*, *le climat*, *le réchauffement climatique* (global warming), *le dérèglement climatique* (climate disruption), *les gaz à effet de serre* (greenhouse gases), *les émissions de CO2* (said \"C-O-deux\")\n- *la pollution de l'air / de l'eau*, *les déchets* (waste), *le recyclage*, *trier ses déchets* (to sort your rubbish), *le plastique à usage unique* (single-use plastic)\n- *les énergies renouvelables* (renewable energy): *l'énergie solaire*, *l'éolien* (wind power), *les panneaux solaires*; *les énergies fossiles* (fossil fuels): *le pétrole*, *le charbon* (coal), *le gaz*; *le nucléaire*\n- *la biodiversité*, *les espèces menacées* (endangered species), *la déforestation*, *la sécheresse* (drought), *les inondations* (floods), *la canicule* (heatwave)\n- *le développement durable* (sustainable development), *la transition écologique*, *l'empreinte carbone* (carbon footprint), *réduire sa consommation*"
+  },
+  {
+   "heading": "Talking about solutions",
+   "body": "- *Il faudrait que chacun fasse un effort.* (subjunctive)\n- *Il est urgent de réduire les émissions.*\n- *Les pouvoirs publics doivent agir.* (The authorities must act.)\n- *Si on prenait davantage les transports en commun, il y aurait moins de pollution.*\n- *Les gestes du quotidien comptent : éteindre la lumière, prendre le vélo, consommer local.* (Everyday actions count: …buy local.)"
+  },
+  {
+   "heading": "Discussing it critically",
+   "body": "*Certains estiment que les efforts individuels ne suffisent pas : ce sont les grandes entreprises qui polluent le plus.* — *D'autres soulignent que chaque geste compte.* — *Le débat porte sur le rythme de la transition.* — Note *estimer que* (to consider that) + indicative."
+  }
+ ],
+ "vocab": [
+  [
+   "le réchauffement climatique",
+   "global warming",
+   "lə ʁe.ʃof.mɑ̃ kli.ma.tik"
+  ],
+  [
+   "l'effet de serre",
+   "the greenhouse effect",
+   "le.fɛ də sɛʁ",
+   "m"
+  ],
+  [
+   "les déchets",
+   "waste, rubbish",
+   "le de.ʃɛ",
+   "m"
+  ],
+  [
+   "trier",
+   "to sort",
+   "tʁi.je"
+  ],
+  [
+   "le recyclage",
+   "recycling",
+   "lə ʁə.si.klaʒ"
+  ],
+  [
+   "renouvelable",
+   "renewable",
+   "ʁə.nu.vlabl"
+  ],
+  [
+   "le charbon",
+   "coal",
+   "lə ʃaʁ.bɔ̃"
+  ],
+  [
+   "le pétrole",
+   "oil (petroleum)",
+   "lə pe.tʁɔl"
+  ],
+  [
+   "menacé / menacée",
+   "endangered, threatened",
+   "mə.na.se / mə.na.se"
+  ],
+  [
+   "la sécheresse",
+   "drought",
+   "la se.ʃʁɛs"
+  ],
+  [
+   "l'inondation",
+   "the flood",
+   "li.nɔ̃.da.sjɔ̃",
+   "f"
+  ],
+  [
+   "la canicule",
+   "the heatwave",
+   "la ka.ni.kyl"
+  ],
+  [
+   "durable",
+   "sustainable, lasting",
+   "dy.ʁabl"
+  ],
+  [
+   "l'empreinte",
+   "the footprint",
+   "lɑ̃.pʁɛ̃t",
+   "f"
+  ],
+  [
+   "estimer",
+   "to consider, to estimate",
+   "ɛs.ti.me"
+  ],
+  [
+   "les pouvoirs publics",
+   "the authorities",
+   "le pu.vwaʁ py.blik",
+   "m"
+  ]
+ ],
+ "examples": [
+  [
+   "Le réchauffement climatique s'accélère.",
+   "Global warming is speeding up."
+  ],
+  [
+   "Il faut réduire les émissions de gaz à effet de serre.",
+   "We must reduce greenhouse gas emissions."
+  ],
+  [
+   "Chez nous, on trie nos déchets depuis des années.",
+   "At home we've been sorting our rubbish for years."
+  ],
+  [
+   "Les énergies renouvelables se développent rapidement.",
+   "Renewable energy is growing fast."
+  ],
+  [
+   "La France produit beaucoup d'électricité nucléaire.",
+   "France produces a lot of nuclear electricity."
+  ],
+  [
+   "De nombreuses espèces sont menacées.",
+   "Many species are endangered."
+  ],
+  [
+   "Cet été, la canicule a provoqué une grave sécheresse.",
+   "This summer the heatwave caused a severe drought."
+  ],
+  [
+   "Les inondations ont détruit plusieurs villages.",
+   "The floods destroyed several villages."
+  ],
+  [
+   "Il faudrait que chacun réduise son empreinte carbone.",
+   "Everyone should reduce their carbon footprint."
+  ],
+  [
+   "Les pouvoirs publics doivent agir rapidement.",
+   "The authorities must act quickly."
+  ],
+  [
+   "Certains estiment que les efforts individuels ne suffisent pas.",
+   "Some consider that individual efforts aren't enough."
+  ],
+  [
+   "Le développement durable est l'affaire de tous.",
+   "Sustainable development is everyone's business."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*les déchets* are…",
+   "options": [
+    "waste, rubbish",
+    "defeats",
+    "details"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la canicule* is…",
+   "options": [
+    "a heatwave",
+    "a dog",
+    "a drought"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la sécheresse* is…",
+   "options": [
+    "a drought",
+    "dryness of skin only",
+    "a flood"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*trier ses déchets* means…",
+   "options": [
+    "to sort one's rubbish",
+    "to try one's waste",
+    "to throw away rubbish"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*les énergies renouvelables* are…",
+   "options": [
+    "renewable energy",
+    "renewed energy drinks",
+    "fossil fuels"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*une espèce menacée* is…",
+   "options": [
+    "an endangered species",
+    "a threatening species",
+    "a menacing person"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Il faudrait que chacun ___ son empreinte carbone.",
+   "options": [
+    "réduise",
+    "réduit",
+    "réduira"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*les pouvoirs publics* are…",
+   "options": [
+    "the authorities",
+    "public powers like electricity",
+    "the public"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Certains estiment que les efforts individuels ne ___ pas.",
+   "options": [
+    "suffisent",
+    "suffisent-ils",
+    "suffise"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*le développement durable* is…",
+   "options": [
+    "sustainable development",
+    "durable goods",
+    "long development"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ climatique s'accélère.",
+   "answers": [
+    "réchauffement"
+   ],
+   "hint": "Global warming is speeding up."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faut réduire les émissions de gaz à effet de ___.",
+   "answers": [
+    "serre"
+   ],
+   "hint": "greenhouse gas emissions."
+  },
+  {
+   "type": "fill",
+   "prompt": "Chez nous, on ___ nos déchets.",
+   "answers": [
+    "trie"
+   ],
+   "hint": "we sort our rubbish."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les énergies ___ se développent rapidement.",
+   "answers": [
+    "renouvelables"
+   ],
+   "hint": "Renewable energy is growing fast."
+  },
+  {
+   "type": "fill",
+   "prompt": "De nombreuses espèces sont ___.",
+   "answers": [
+    "menacées"
+   ],
+   "hint": "Many species are endangered."
+  },
+  {
+   "type": "fill",
+   "prompt": "Cet été, la ___ a provoqué une grave sécheresse.",
+   "answers": [
+    "canicule"
+   ],
+   "hint": "the heatwave caused a severe drought."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les ___ ont détruit plusieurs villages.",
+   "answers": [
+    "inondations"
+   ],
+   "hint": "The floods destroyed several villages."
+  },
+  {
+   "type": "fill",
+   "prompt": "Il faudrait que chacun ___ son empreinte carbone. (réduire)",
+   "answers": [
+    "réduise"
+   ],
+   "hint": "Everyone should reduce…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Le développement ___ est l'affaire de tous.",
+   "answers": [
+    "durable"
+   ],
+   "hint": "Sustainable development…"
+  },
+  {
+   "type": "translate",
+   "prompt": "We must reduce emissions.",
+   "answers": [
+    "Il faut réduire les émissions.",
+    "Nous devons réduire les émissions."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Many species are endangered.",
+   "answers": [
+    "De nombreuses espèces sont menacées.",
+    "Beaucoup d'espèces sont menacées."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "global warming",
+   "answers": [
+    "le réchauffement climatique"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "I sort my rubbish.",
+   "answers": [
+    "Je trie mes déchets."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"This summer the heatwave caused a severe drought.\"",
+   "answer": "Cet été, la canicule a provoqué une grave sécheresse."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Some consider that individual efforts aren't enough.\"",
+   "answer": "Certains estiment que les efforts individuels ne suffisent pas."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"We must reduce greenhouse gas emissions.\"",
+   "answer": "Il faut réduire les émissions de gaz à effet de serre."
+  }
+ ]
+}

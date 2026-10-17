@@ -1,0 +1,373 @@
+{
+ "sections": [
+  {
+   "heading": "Hesitating naturally",
+   "body": "Native speakers fill pauses with small words — using them makes you sound fluent rather than stuck:\n\n- *euh…* — um…\n- *ben…* / *bah…* — well… (casual)\n- *alors…* / *bon…* — so… / right…\n- *comment dire…* / *comment dirais-je…* — how can I put it…\n- *disons que…* — let's say that…\n- *en fait…* — actually…\n- *je ne sais pas trop…* — I'm not really sure…\n- *c'est-à-dire que…* — well, the thing is… (before a polite refusal)\n- *voyons…* — let's see…\n- *j'hésite…* — I'm not sure…\n\n*Tu viens ce soir ? — Euh… c'est-à-dire que… j'ai beaucoup de travail.*"
+  },
+  {
+   "heading": "Complaining on the phone",
+   "body": "A phone complaint follows steps: identify yourself, explain, say what you want, get a commitment.\n\n- *Bonjour, je vous appelle au sujet d'une facture que j'ai reçue.* (… about a bill I received)\n- *Mon numéro de client est le…* (My customer number is…)\n- *Il y a une erreur : on m'a facturé un service que je n'ai pas demandé.*\n- *Ça fait trois fois que j'appelle et personne ne me rappelle.* (This is the third time I've called…)\n- *Je trouve ça inacceptable.* — *Je ne comprends pas comment c'est possible.*\n- *Je souhaiterais que vous annuliez ce prélèvement.* (… that you cancel this direct debit — subjunctive!)\n- *Pouvez-vous me confirmer par écrit ?* (Can you confirm in writing?)\n- *Je voudrais parler à un responsable.* (… to a manager)\n- If needed: *Sinon, je serai obligé(e) de résilier mon contrat.* (Otherwise I'll have to cancel my contract.)"
+  },
+  {
+   "heading": "The other side: handling a complaint",
+   "body": "*Je comprends tout à fait votre mécontentement.* — *Je vais vérifier votre dossier.* (I'll check your file.) — *Ne quittez pas, je me renseigne.* (Hold on, I'll find out.) — *Je vous présente toutes nos excuses.* (Please accept our apologies.) — *Nous allons procéder au remboursement.* (We'll process the refund.) — *Le problème sera réglé sous quarante-huit heures.* (… resolved within 48 hours)"
+  }
+ ],
+ "vocab": [
+  [
+   "euh",
+   "um, er",
+   "ø"
+  ],
+  [
+   "comment dire",
+   "how can I put it",
+   "kɔ.mɑ̃ diʁ"
+  ],
+  [
+   "disons que",
+   "let's say that",
+   "di.zɔ̃ kə"
+  ],
+  [
+   "en fait",
+   "actually, in fact",
+   "ɑ̃ fɛt"
+  ],
+  [
+   "voyons",
+   "let's see",
+   "vwa.jɔ̃"
+  ],
+  [
+   "la facture",
+   "the bill, the invoice",
+   "la fak.tyʁ"
+  ],
+  [
+   "le numéro de client",
+   "the customer number",
+   "lə ny.me.ʁo də kli.jɑ̃"
+  ],
+  [
+   "inacceptable",
+   "unacceptable",
+   "i.nak.sɛp.tabl"
+  ],
+  [
+   "le prélèvement",
+   "the direct debit",
+   "lə pʁe.lɛv.mɑ̃"
+  ],
+  [
+   "par écrit",
+   "in writing",
+   "paʁ e.kʁi"
+  ],
+  [
+   "le responsable",
+   "the person in charge, the manager",
+   "lə ʁɛs.pɔ̃.sabl"
+  ],
+  [
+   "résilier",
+   "to cancel (a contract)",
+   "ʁe.zi.lje"
+  ],
+  [
+   "se renseigner",
+   "to find out",
+   "sə ʁɑ̃.se.ɲe"
+  ],
+  [
+   "régler",
+   "to settle, to sort out",
+   "ʁe.ɡle"
+  ],
+  [
+   "les excuses",
+   "apologies",
+   "le.z‿ɛk.skyz",
+   "f"
+  ]
+ ],
+ "examples": [
+  [
+   "Euh… c'est-à-dire que j'ai beaucoup de travail ce soir.",
+   "Um… the thing is, I've got a lot of work tonight."
+  ],
+  [
+   "Comment dire… ce n'est pas vraiment mon style.",
+   "How can I put it… it's not really my style."
+  ],
+  [
+   "Disons que je ne suis pas convaincu.",
+   "Let's say I'm not convinced."
+  ],
+  [
+   "En fait, je préférerais rester ici.",
+   "Actually, I'd rather stay here."
+  ],
+  [
+   "Bonjour, je vous appelle au sujet d'une facture.",
+   "Hello, I'm calling about a bill."
+  ],
+  [
+   "On m'a facturé un service que je n'ai pas demandé.",
+   "I've been charged for a service I didn't ask for."
+  ],
+  [
+   "Ça fait trois fois que j'appelle et personne ne me rappelle.",
+   "This is the third time I've called and nobody calls me back."
+  ],
+  [
+   "Je souhaiterais que vous annuliez ce prélèvement.",
+   "I'd like you to cancel this direct debit."
+  ],
+  [
+   "Pouvez-vous me confirmer par écrit ?",
+   "Can you confirm in writing?"
+  ],
+  [
+   "Je voudrais parler à un responsable.",
+   "I'd like to speak to a manager."
+  ],
+  [
+   "Sinon, je serai obligée de résilier mon contrat.",
+   "Otherwise I'll have to cancel my contract."
+  ],
+  [
+   "Ne quittez pas, je me renseigne.",
+   "Hold on, I'll find out."
+  ],
+  [
+   "Je vous présente toutes nos excuses.",
+   "Please accept our apologies."
+  ],
+  [
+   "Le problème sera réglé sous quarante-huit heures.",
+   "The problem will be sorted within 48 hours."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "To gain time before answering you say…",
+   "options": [
+    "Euh… comment dire…",
+    "Je vous présente nos excuses.",
+    "Annulez tout !"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*c'est-à-dire que…* before a refusal means…",
+   "options": [
+    "well, the thing is…",
+    "that is to say exactly",
+    "I say that"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*en fait* means…",
+   "options": [
+    "actually",
+    "in fact, a fact",
+    "as a matter of doing"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*le prélèvement* is…",
+   "options": [
+    "the direct debit",
+    "the bill",
+    "the loan"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*résilier un contrat* means…",
+   "options": [
+    "to cancel a contract",
+    "to sign a contract",
+    "to renew a contract"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Ne quittez pas, je me renseigne* means…",
+   "options": [
+    "Hold on, I'll find out",
+    "Don't leave, I'm signing in",
+    "Don't go, I know"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: Je souhaiterais que vous ___ ce prélèvement.",
+   "options": [
+    "annuliez",
+    "annulez",
+    "annulerez"
+   ],
+   "answer": 0,
+   "lang": "fr"
+  },
+  {
+   "type": "mc",
+   "prompt": "*Je vous présente toutes nos excuses* means…",
+   "options": [
+    "Please accept our apologies",
+    "I present all our excuses",
+    "I introduce our excuses"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*sous quarante-huit heures* means…",
+   "options": [
+    "within 48 hours",
+    "under 48 hours old",
+    "after 48 hours"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Pouvez-vous me confirmer par écrit ?* means…",
+   "options": [
+    "Can you confirm in writing?",
+    "Can you write to me?",
+    "Can you confirm the writing?"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "___ dire… ce n'est pas vraiment mon style.",
+   "answers": [
+    "Comment"
+   ],
+   "hint": "How can I put it…"
+  },
+  {
+   "type": "fill",
+   "prompt": "___ que je ne suis pas convaincu.",
+   "answers": [
+    "Disons"
+   ],
+   "hint": "Let's say I'm not convinced."
+  },
+  {
+   "type": "fill",
+   "prompt": "Bonjour, je vous appelle au sujet d'une ___.",
+   "answers": [
+    "facture"
+   ],
+   "hint": "I'm calling about a bill."
+  },
+  {
+   "type": "fill",
+   "prompt": "On m'a ___ un service que je n'ai pas demandé. (facturer)",
+   "answers": [
+    "facturé"
+   ],
+   "hint": "I've been charged for a service…"
+  },
+  {
+   "type": "fill",
+   "prompt": "Ça fait trois ___ que j'appelle.",
+   "answers": [
+    "fois"
+   ],
+   "hint": "This is the third time I've called."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je souhaiterais que vous ___ ce prélèvement. (annuler)",
+   "answers": [
+    "annuliez"
+   ],
+   "hint": "I'd like you to cancel this direct debit."
+  },
+  {
+   "type": "fill",
+   "prompt": "Pouvez-vous me confirmer par ___ ?",
+   "answers": [
+    "écrit"
+   ],
+   "hint": "Can you confirm in writing?"
+  },
+  {
+   "type": "fill",
+   "prompt": "Sinon, je serai obligée de ___ mon contrat.",
+   "answers": [
+    "résilier"
+   ],
+   "hint": "Otherwise I'll have to cancel my contract."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le problème sera ___ sous quarante-huit heures.",
+   "answers": [
+    "réglé"
+   ],
+   "hint": "The problem will be sorted…"
+  },
+  {
+   "type": "translate",
+   "prompt": "I'd like to speak to a manager.",
+   "answers": [
+    "Je voudrais parler à un responsable.",
+    "J'aimerais parler à un responsable."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Actually, I'd rather stay.",
+   "answers": [
+    "En fait, je préférerais rester."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Hold on, I'll find out. (polite)",
+   "answers": [
+    "Ne quittez pas, je me renseigne."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "Please accept our apologies.",
+   "answers": [
+    "Je vous présente toutes nos excuses.",
+    "Toutes nos excuses."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"This is the third time I've called and nobody calls me back.\"",
+   "answer": "Ça fait trois fois que j'appelle et personne ne me rappelle."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"I'd like you to cancel this direct debit.\"",
+   "answer": "Je souhaiterais que vous annuliez ce prélèvement."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"Let's say I'm not convinced.\"",
+   "answer": "Disons que je ne suis pas convaincu."
+  }
+ ]
+}

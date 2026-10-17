@@ -1,0 +1,371 @@
+{
+ "sections": [
+  {
+   "heading": "The French press",
+   "body": "National dailies: *Le Monde* (centre-left, reference paper), *Le Figaro* (centre-right), *Libération* (left), *Les Échos* (business), *L'Équipe* (sport); weeklies (*les hebdomadaires*) like *Le Point*, *L'Obs*, *L'Express*; regional dailies (*la presse régionale*) like *Ouest-France* — the most read paper in France. Many articles are online, behind *un abonnement* (a subscription)."
+  },
+  {
+   "heading": "The parts of an article",
+   "body": "*le titre* (headline), *le chapeau* (the standfirst — the short summary in bold under the headline), *le corps de l'article* (body), *l'intertitre* (subheading), *la légende* (photo caption), *la source*, *la rubrique* (section: *politique, économie, société, culture, sport*), *l'éditorial* (the paper's own opinion), *la tribune* (an opinion piece by an outside writer)."
+  },
+  {
+   "heading": "Reading critically",
+   "body": "Ask yourself: *Qui parle ?* *D'où vient l'information ?* *Est-ce un fait ou une opinion ?*\n\n- **The journalistic conditional** marks unconfirmed information: *Le ministre aurait démissionné.* (has reportedly resigned) *Les pertes s'élèveraient à deux millions d'euros.* (Losses reportedly amount to…)\n- **Citing sources**: *selon*, *d'après*, *de source proche du dossier* (from a source close to the case), *a-t-on appris* (we have learned), *affirme le porte-parole* (says the spokesperson) — note the inversion after a quotation: *« Rien n'est décidé », a déclaré le maire.*\n- **Signs of opinion**: evaluative adjectives (*scandaleux*, *courageux*), modal adverbs (*heureusement*, *malheureusement*), the conditional, rhetorical questions."
+  },
+  {
+   "heading": "Analysing an article",
+   "body": "*L'article traite de…* — *Le journaliste rapporte que…* (reports that) — *Il s'appuie sur des chiffres de l'INSEE* (He relies on figures from INSEE — the national statistics office) — *Le ton est neutre / critique / ironique.* — *L'auteur prend parti pour…* (takes sides with…) — *On peut regretter que…* (+ subjunctive)."
+  }
+ ],
+ "vocab": [
+  [
+   "le quotidien",
+   "the daily (newspaper)",
+   "lə kɔ.ti.djɛ̃"
+  ],
+  [
+   "l'hebdomadaire",
+   "the weekly",
+   "lɛb.dɔ.ma.dɛʁ",
+   "m"
+  ],
+  [
+   "l'abonnement",
+   "the subscription",
+   "la.bɔn.mɑ̃",
+   "m"
+  ],
+  [
+   "le chapeau",
+   "the standfirst (in an article); the hat",
+   "lə ʃa.po"
+  ],
+  [
+   "la rubrique",
+   "the section, the column",
+   "la ʁy.bʁik"
+  ],
+  [
+   "l'éditorial",
+   "the editorial",
+   "le.di.tɔ.ʁjal",
+   "m"
+  ],
+  [
+   "la tribune",
+   "the opinion piece",
+   "la tʁi.byn"
+  ],
+  [
+   "s'élever à",
+   "to amount to",
+   "se.lə.ve a"
+  ],
+  [
+   "le porte-parole",
+   "the spokesperson",
+   "lə pɔʁt.pa.ʁɔl"
+  ],
+  [
+   "rapporter",
+   "to report",
+   "ʁa.pɔʁ.te"
+  ],
+  [
+   "s'appuyer sur",
+   "to rely on",
+   "sa.pɥi.je syʁ"
+  ],
+  [
+   "le ton",
+   "the tone",
+   "lə tɔ̃"
+  ],
+  [
+   "prendre parti",
+   "to take sides",
+   "pʁɑ̃dʁ paʁ.ti"
+  ],
+  [
+   "le fait",
+   "the fact",
+   "lə fɛ"
+  ],
+  [
+   "la perte",
+   "the loss",
+   "la pɛʁt"
+  ]
+ ],
+ "examples": [
+  [
+   "Le Monde est un quotidien de référence.",
+   "Le Monde is a newspaper of record."
+  ],
+  [
+   "J'ai pris un abonnement à un hebdomadaire.",
+   "I've taken out a subscription to a weekly."
+  ],
+  [
+   "Le chapeau résume l'article en deux phrases.",
+   "The standfirst sums up the article in two sentences."
+  ],
+  [
+   "Je lis surtout la rubrique culture.",
+   "I mainly read the culture section."
+  ],
+  [
+   "Le ministre aurait démissionné ce matin.",
+   "The minister has reportedly resigned this morning."
+  ],
+  [
+   "Les pertes s'élèveraient à deux millions d'euros.",
+   "The losses reportedly amount to two million euros."
+  ],
+  [
+   "« Rien n'est décidé », a déclaré le maire.",
+   "\"Nothing has been decided,\" the mayor said."
+  ],
+  [
+   "D'après une source proche du dossier, l'accord serait signé demain.",
+   "According to a source close to the case, the deal will reportedly be signed tomorrow."
+  ],
+  [
+   "Le journaliste s'appuie sur des chiffres officiels.",
+   "The journalist relies on official figures."
+  ],
+  [
+   "Est-ce un fait ou une opinion ?",
+   "Is it a fact or an opinion?"
+  ],
+  [
+   "L'auteur prend parti pour les grévistes.",
+   "The author takes sides with the strikers."
+  ],
+  [
+   "Le ton de l'éditorial est très critique.",
+   "The tone of the editorial is very critical."
+  ]
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "prompt": "*le chapeau* (in an article) is…",
+   "options": [
+    "the short summary under the headline",
+    "the photo caption",
+    "the title"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*l'éditorial* expresses…",
+   "options": [
+    "the newspaper's own opinion",
+    "only facts",
+    "an outside writer's opinion"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*Le ministre aurait démissionné* means…",
+   "options": [
+    "The minister has reportedly resigned",
+    "The minister would resign",
+    "The minister had resigned"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Choose: « Rien n'est décidé », ___ le maire.",
+   "options": [
+    "a déclaré",
+    "le maire a déclaré",
+    "déclare-t-il le"
+   ],
+   "answer": 0,
+   "lang": "fr",
+   "explain": "After a quotation: verb before subject."
+  },
+  {
+   "type": "mc",
+   "prompt": "*s'élever à* (figures) means…",
+   "options": [
+    "to amount to",
+    "to rise up",
+    "to lift"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*prendre parti* means…",
+   "options": [
+    "to take sides",
+    "to go to a party",
+    "to take part"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*un abonnement* is…",
+   "options": [
+    "a subscription",
+    "an advertisement",
+    "a bond"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*la rubrique* is…",
+   "options": [
+    "the section of a paper",
+    "the puzzle",
+    "the headline"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "*d'après une source proche du dossier* means…",
+   "options": [
+    "according to a source close to the case",
+    "after a source near the file",
+    "from a nearby folder"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "mc",
+   "prompt": "Which is a sign of opinion in an article?",
+   "options": [
+    "evaluative adjectives (scandaleux)",
+    "dates",
+    "figures"
+   ],
+   "answer": 0
+  },
+  {
+   "type": "fill",
+   "prompt": "Le Monde est un ___ de référence.",
+   "answers": [
+    "quotidien"
+   ],
+   "hint": "a newspaper of record."
+  },
+  {
+   "type": "fill",
+   "prompt": "J'ai pris un ___ à un hebdomadaire.",
+   "answers": [
+    "abonnement"
+   ],
+   "hint": "a subscription to a weekly."
+  },
+  {
+   "type": "fill",
+   "prompt": "Je lis surtout la ___ culture.",
+   "answers": [
+    "rubrique"
+   ],
+   "hint": "I mainly read the culture section."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ministre ___ démissionné ce matin. (avoir)",
+   "answers": [
+    "aurait"
+   ],
+   "hint": "The minister has reportedly resigned (journalistic conditional)."
+  },
+  {
+   "type": "fill",
+   "prompt": "Les pertes s'___ à deux millions d'euros. (s'élever)",
+   "answers": [
+    "élèveraient"
+   ],
+   "hint": "Losses reportedly amount to two million (conditional)."
+  },
+  {
+   "type": "fill",
+   "prompt": "« Rien n'est décidé », a ___ le maire.",
+   "answers": [
+    "déclaré"
+   ],
+   "hint": "the mayor said."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le journaliste s'___ sur des chiffres officiels.",
+   "answers": [
+    "appuie"
+   ],
+   "hint": "relies on official figures."
+  },
+  {
+   "type": "fill",
+   "prompt": "L'auteur prend ___ pour les grévistes.",
+   "answers": [
+    "parti"
+   ],
+   "hint": "takes sides with the strikers."
+  },
+  {
+   "type": "fill",
+   "prompt": "Le ___ de l'éditorial est très critique.",
+   "answers": [
+    "ton"
+   ],
+   "hint": "The tone of the editorial…"
+  },
+  {
+   "type": "translate",
+   "prompt": "Is it a fact or an opinion?",
+   "answers": [
+    "Est-ce un fait ou une opinion ?",
+    "C'est un fait ou une opinion ?"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The minister has reportedly resigned.",
+   "answers": [
+    "Le ministre aurait démissionné."
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "According to the newspaper, …",
+   "answers": [
+    "Selon le journal, …",
+    "D'après le journal, …"
+   ]
+  },
+  {
+   "type": "translate",
+   "prompt": "The tone is critical.",
+   "answers": [
+    "Le ton est critique."
+   ]
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"According to a source close to the case, the deal will reportedly be signed tomorrow.\"",
+   "answer": "D'après une source proche du dossier, l'accord serait signé demain."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The standfirst sums up the article in two sentences.\"",
+   "answer": "Le chapeau résume l'article en deux phrases."
+  },
+  {
+   "type": "build",
+   "prompt": "Put the words in order: \"The author takes sides with the strikers.\"",
+   "answer": "L'auteur prend parti pour les grévistes."
+  }
+ ]
+}
